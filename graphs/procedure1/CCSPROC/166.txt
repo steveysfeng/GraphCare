@@ -1,0 +1,194 @@
+lumpectomy	is a	surgical procedure
+lumpectomy	used for	breast cancer treatment
+lumpectomy	removes	tumor
+lumpectomy	preserves	breast shape
+quadrantectomy	is a type of	lumpectomy
+quadrantectomy	removes	a quarter of the breast tissue
+breast cancer	is a	medical condition
+breast cancer	can be treated with	lumpectomy
+lumpectomy	is an alternative to	mastectomy
+lumpectomy	has a lower risk of	complications than mastectomy
+lumpectomy	may be followed by	radiation therapy
+lumpectomy	can be performed as	outpatient surgery
+lumpectomy	requires	anesthesia
+lumpectomy	can cause	scarring
+lumpectomy	may require	breast reconstruction
+lumpectomy	reduces	risk of local recurrence
+lumpectomy	may require	lymph node removal
+lumpectomy	requires	follow-up care
+lumpectomy	can result in	breast asymmetry
+lumpectomy	may cause	changes in breast sensation
+lumpectomy	has a shorter recovery time than	mastectomy
+lumpectomy	may be followed by	hormone therapy
+lumpectomy	can be performed with	minimally invasive techniques
+lumpectomy	can be combined with	sentinel lymph node biopsy
+lumpectomy	is a treatment option for	early-stage breast cancer
+lumpectomy	has a lower risk of	lymphedema than mastectomy
+lumpectomy	may require	multiple surgeries
+lumpectomy	can be performed in	both breasts
+lumpectomy	has a higher risk of	reoperation than mastectomy
+lumpectomy	may require	chemotherapy
+lumpectomy	may result in	changes in breast size
+lumpectomy	can be performed with	oncoplastic techniques
+lumpectomy	is associated with	cosmetic outcomes
+lumpectomy	may require	genetic testing
+lumpectomy	may be followed by	targeted therapy
+lumpectomy	can be performed in	combination with lymph node dissection
+lumpectomy	can be performed in	older patients
+lumpectomy	may require	breast MRI
+lumpectomy	can be performed with	intraoperative radiation therapy
+lumpectomy	is a localized treatment for	breast cancer
+lumpectomy	may require	hormonal therapy
+lumpectomy	can be performed as	breast conservation surgery
+lumpectomy	has a higher risk of	local recurrence than mastectomy
+lumpectomy	may require	surveillance mammograms
+lumpectomy	can be performed in	younger patients
+lumpectomy	may be followed by	adjuvant therapy
+lumpectomy	is a treatment option for	ductal carcinoma in situ
+lumpectomy	has a lower risk of	postoperative pain than mastectomy
+lumpectomy	may require	breast irradiation
+lumpectomy	can be performed with	intraoperative margin assessment
+lumpectomy	is associated with	breast conservation rates
+lumpectomy	may result in	changes in breast appearance
+lumpectomy	can be performed with	immediate breast reconstruction
+lumpectomy	is a breast-conserving treatment for	early-stage breast cancer
+lumpectomy	has a higher risk of	positive surgical margins than mastectomy
+lumpectomy	may require	follow-up imaging
+lumpectomy	can be performed with	axillary lymph node dissection
+lumpectomy	is a common treatment for	invasive breast cancer
+lumpectomy	has a lower risk of	lymph node involvement than mastectomy
+lumpectomy	may require	sentinel lymph node biopsy
+lumpectomy	can be performed in	patients with dense breasts
+lumpectomy	may be followed by	immunotherapy
+lumpectomy	is a breast-conserving surgery for	early-stage breast cancer
+lumpectomy	has a higher risk of	recurrence than mastectomy
+lumpectomy	may require	additional surgery
+lumpectomy	can be performed with	wire localization
+lumpectomy	is associated with	breast preservation rates
+lumpectomy	may result in	changes in breast sensation
+lumpectomy	can be performed with	partial breast irradiation
+lumpectomy	is a recommended treatment for	multifocal breast cancer
+lumpectomy	has a lower risk of	lymphedema than axillary lymph node dissection
+lumpectomy	may require	genetic counseling
+lumpectomy	may be followed by	aromatase inhibitors
+lumpectomy	can be performed with	volume replacement techniques
+lumpectomy	is a breast-sparing technique for	early-stage breast cancer
+lumpectomy	has a higher risk of	positive margins than mastectomy
+lumpectomy	may require	postoperative imaging
+lumpectomy	can be performed with	hybrid radiation therapy
+lumpectomy	is associated with	improved survival rates
+lumpectomy	may result in	changes in breast symmetry
+lumpectomy	can be performed with	interstitial brachytherapy
+lumpectomy	is a treatment option for	stage I breast cancer
+lumpectomy	has a lower risk of	axillary recurrence than mastectomy
+lumpectomy	may require	molecular profiling
+lumpectomy	may be followed by	targeted radiation therapy
+lumpectomy	can be performed with	neoadjuvant therapy
+lumpectomy	is a localized therapy for	breast cancer
+lumpectomy	may require	postoperative mammograms
+lumpectomy	can be performed with	oncoplastic surgery
+lumpectomy	is associated with	breast conservation rates
+lumpectomy	may result in	changes in breast contour
+lumpectomy	can be performed with	immediate reconstruction
+lumpectomy	is a breast-conserving approach for	early-stage breast cancer
+lumpectomy	has a higher risk of	local failure than mastectomy
+lumpectomy	may require	revision surgery
+lumpectomy	can be performed with	radioactive seed localization
+lumpectomy	is associated with	low recurrence rates
+lumpectomy	may result in	changes in breast volume
+lumpectomy	can be performed with	intraoperative ultrasound
+lumpectomy	is a recommended treatment for	microinvasive breast cancer
+lumpectomy	is a	medical procedure
+lumpectomy	used for	breast cancer treatment
+lumpectomy	removes	the tumor
+lumpectomy	preserves	breast tissue
+quadrantectomy	is a type of	lumpectomy
+quadrantectomy	removes	a quarter of the breast
+quadrantectomy	used for	larger tumors
+quadrantectomy	often followed by	radiation therapy
+breast cancer	can be treated with	lumpectomy
+breast cancer	can be detected by	mammography
+breast cancer	often has	no symptoms
+breast tissue	can be affected by	breast cancer
+radiation therapy	may cause	skin changes
+radiation therapy	can reduce	tumor size
+radiation therapy	used after	lumpectomy
+mammography	used for	breast cancer screening
+mammography	can detect	early-stage tumors
+mammography	recommended for	women over 40
+tumor	can be malignant
+tumor	can be benign
+tumor	can cause	breast lumps
+tumor	can spread to	lymph nodes
+lymph nodes	can be affected by	breast cancer
+lymph nodes	can be examined during	surgery
+lymph nodes	can indicate	cancer stage
+skin changes	can occur during	radiation therapy
+skin changes	usually temporary
+skin changes	require	moisturization
+treatment	effectiveness depends on	cancer stage
+treatment	effectiveness depends on	tumor size
+treatment	effectiveness depends on	hormone receptor status
+treatment	effectiveness depends on	HER2 status
+treatment	options include	lumpectomy and mastectomy
+treatment	options include	radiation therapy
+treatment	options include	chemotherapy
+treatment	options include	hormonal therapy
+mastectomy	removes	the entire breast
+mastectomy	used for	larger tumors
+mastectomy	used for	aggressive tumors
+mastectomy	reduces	the risk of cancer recurrence
+mastectomy	requires	breast reconstruction
+aggressive tumors	can require	chemotherapy
+aggressive tumors	may need	targeted therapy
+hormone receptor status	can affect	treatment options
+hormone receptor status	can be determined by	biopsy
+HER2 status	can affect	treatment options
+HER2 status	can be determined by	biopsy
+biopsy	used for	tumor analysis
+biopsy	can be done before	surgery
+biopsy	can be done after	lumpectomy
+biopsy	can determine	hormone receptor status
+biopsy	can determine	HER2 status
+biopsy	can determine	cancer grade
+biopsy	can confirm	cancer diagnosis
+biopsy	can guide	treatment decisions
+biopsy	can be performed	using a needle
+biopsy	can be performed	using a surgical procedure
+cancer stage	determines	treatment approach
+cancer stage	determines	prognosis
+early-stage tumors	have	better prognosis
+early-stage tumors	can be cured	in some cases
+early-stage tumors	often have	more treatment options
+breast lumps	should be	evaluated by a doctor
+breast lumps	can be	benign
+breast lumps	can be	malignant
+breast lumps	can indicate	breast cancer
+early detection	improves	treatment outcomes
+early detection	increases	survival rates
+early detection	involves	breast self-examination
+early detection	involves	mammography screening
+survival rates	depend on	cancer stage
+survival rates	depend on	treatment
+survival rates	depend on	individual factors
+individual factors	include	age
+individual factors	include	overall health
+individual factors	include	genetic mutations
+molecular subtype	affects	treatment response
+molecular subtype	affects	prognosis
+molecular subtype	can be determined by	tumor analysis
+molecular subtype	can guide	targeted therapy
+targeted therapy	can be	more effective
+targeted therapy	can be	less toxic
+targeted therapy	used for	specific genetic mutations
+targeted therapy	used for	HER2-positive tumors
+targeted therapy	used for	hormone receptor-positive tumors
+chemotherapy	used for	aggressive tumors
+chemotherapy	can shrink	tumors
+chemotherapy	may cause	side effects
+chemotherapy	may require	multiple cycles
+chemotherapy	can be	intravenous or oral
+hormonal therapy	used for	hormone receptor-positive tumors
+hormonal therapy	can slow down	cancer growth
+hormonal therapy	can be	taken as a pill
+hormonal therapy	can be	taken as an injection

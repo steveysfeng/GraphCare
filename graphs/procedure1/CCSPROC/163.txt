@@ -1,0 +1,140 @@
+non-therapeutic procedure	can be performed on	musculoskeletal system
+non-therapeutic procedure	used for	diagnosis
+non-therapeutic procedure	can cause	complications
+non-therapeutic procedure	requires	anesthesia
+non-therapeutic procedure	involves	surgical instruments
+musculoskeletal system	can be affected by	non-therapeutic procedure
+musculoskeletal system	can experience	pain
+musculoskeletal system	can be weakened by	non-therapeutic procedure
+complications	can lead to	readmission
+complications	can be caused by	non-therapeutic procedure
+complications	can be life-threatening
+anesthesia	is required for	non-therapeutic procedure
+anesthesia	may have	side effects
+surgical instruments	are used in	non-therapeutic procedure
+surgical instruments	can cause	tissue damage
+pain	can be experienced during	non-therapeutic procedure
+pain	can lead to	patient discomfort
+pain	can be managed with	pain medication
+readmission	can be predicted by	complications
+readmission	can be prevented with	proper post-procedure care
+readmission	can increase	healthcare costs
+side effects	can be experienced with	anesthesia
+side effects	can vary	among individuals
+tissue damage	can be caused by	surgical instruments
+tissue damage	can lead to	prolonged recovery
+patient discomfort	can be reduced with	pain medication
+patient discomfort	can affect	patient satisfaction
+patient satisfaction	can be influenced by	pain management
+patient satisfaction	can impact	hospital ratings
+proper post-procedure care	is essential for	prevention of complications
+proper post-procedure care	can be provided by	healthcare professionals
+proper post-procedure care	can include	physical therapy
+healthcare costs	can be reduced with	readmission prevention
+healthcare costs	can be impacted by	complications
+healthcare costs	can be influenced by	hospital ratings
+anesthesia	has different types of	administration
+anesthesia	can be general or local
+side effects	can be managed with	medication
+side effects	can be temporary or long-term
+surgical instruments	need to be sterilized before	use
+surgical instruments	can be minimally invasive
+pain medication	can be administered orally or intravenously
+pain medication	can have	sedative effects
+tissue damage	can lead to	scarring
+tissue damage	can require	additional procedures
+physical therapy	is commonly used for	post-procedure recovery
+physical therapy	can improve	range of motion
+physical therapy	can enhance	muscle strength
+hospital ratings	can be influenced by	patient satisfaction
+hospital ratings	can affect	hospital reputation
+hospital ratings	can impact	hospital funding
+hospital ratings	can be monitored by	regulatory agencies
+medication	can have	drug interactions
+medication	should be taken as	prescribed
+medication	can cause	allergic reactions
+sedative effects	can vary	among individuals
+scarring	can affect	cosmetic appearance
+scarring	can lead to	emotional distress
+additional procedures	may be required for	tissue repair
+additional procedures	can prolong	recovery time
+post-procedure recovery	depends on	individual healing abilities
+post-procedure recovery	can include	pain management
+range of motion	can be limited during	post-procedure recovery
+range of motion	can be improved with	physical therapy
+muscle strength	can be impaired during	post-procedure recovery
+muscle strength	can be regained through	physical therapy
+patient satisfaction	can be measured through	surveys
+patient satisfaction	can be influenced by	communication with healthcare providers
+patient satisfaction	can be affected by	wait times
+patient satisfaction	can be impacted by	hospital amenities
+patient satisfaction	can be monitored by	patient advocacy groups
+pain management	should be tailored to	individual needs
+pain management	can involve	non-pharmacological approaches
+pain management	can be achieved through	medication
+medication administration	can be done	by trained professionals
+medication administration	can be done	by self
+medication administration	can be done	by family members
+medication administration	should follow	proper dosage instructions
+medication administration	can have	specific timing requirements
+medication administration	may require	specialized equipment
+sterilization	is necessary to prevent	infections
+sterilization	can be achieved with	autoclaving
+sterilization	can be achieved with	chemical disinfection
+sterilization	can be achieved with	radiation
+autoclaving	is a commonly used	sterilization method
+autoclaving	uses	high-pressure steam
+chemical disinfection	uses	disinfectant solutions
+chemical disinfection	can be time-consuming
+radiation	can be used for	sterilization of sensitive materials
+radiation	can be harmful to	human health
+other non-or therapeutic procedures on musculoskeletal system	includes	arthroscopy
+arthroscopy	is a	medical procedure
+arthroscopy	used for	diagnosis
+arthroscopy	used for	treatment
+arthroscopy	can detect	cartilage damage
+arthroscopy	can diagnose	joint inflammation
+arthroscopy	can treat	torn ligaments
+arthroscopy	can treat	joint infections
+arthroscopy	can treat	joint tumors
+arthroscopy	can treat	joint fractures
+arthroscopy	can treat	joint instability
+arthroscopy	can treat	joint dislocation
+arthroscopy	can treat	joint stiffness
+arthroscopy	can treat	joint pain
+arthroscopy	can treat	joint swelling
+arthroscopy	can treat	joint deformities
+arthroscopy	can treat	joint impingement
+arthroscopy	can treat	joint contracture
+arthroscopy	can treat	joint nerve compression
+arthroscopy	can treat	joint vascular occlusion
+arthroscopy	can treat	joint myopathies
+arthroscopy	can treat	joint necrosis
+arthroscopy	can treat	joint avascular necrosis
+arthroscopy	can treat	joint ankylosis
+arthroscopy	can treat	joint instability
+arthroscopy	can treat	joint deformity
+arthroscopy	can treat	joint contracture
+arthroscopy	can treat	joint stiffness
+arthroscopy	can treat	joint swelling
+arthroscopy	can treat	joint pain
+arthroscopy	can treat	joint impingement
+arthroscopy	can treat	joint nerve compression
+arthroscopy	can treat	joint vascular occlusion
+arthroscopy	can treat	joint myopathies
+arthroscopy	can treat	joint necrosis
+arthroscopy	can treat	joint avascular necrosis
+arthroscopy	can treat	joint ankylosis
+arthroscopy	can treat	joint instability
+arthroscopy	can treat	joint deformity
+arthroscopy	can treat	joint contracture
+arthroscopy	can treat	joint stiffness
+arthroscopy	can treat	joint swelling
+arthroscopy	can treat	joint pain
+arthroscopy	can treat	joint impingement
+arthroscopy	can treat	joint nerve compression
+arthroscopy	can treat	joint vascular occlusion
+arthroscopy	can treat	joint myopathies
+arthroscopy	can treat	joint necrosis
+arthroscopy	can treat	joint avascular necrosis
+arthroscopy	can treat	joint ankylosis

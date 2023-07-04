@@ -1,0 +1,159 @@
+endoscopy and endoscopic biopsy of the urinary tract	are	medical procedures
+endoscopy and endoscopic biopsy of the urinary tract	used for	diagnosis
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder cancer
+endoscopy and endoscopic biopsy of the urinary tract	can detect	kidney stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urinary tract infections
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral tumors
+endoscopy and endoscopic biopsy of the urinary tract	can detect	prostate enlargement
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urinary incontinence
+endoscopy and endoscopic biopsy of the urinary tract	can detect	kidney tumors
+endoscopy and endoscopic biopsy of the urinary tract	can detect	ureteral obstructions
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral tumors
+endoscopy and endoscopic biopsy of the urinary tract	can detect	prostate enlargement
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urinary incontinence
+endoscopy and endoscopic biopsy of the urinary tract	can detect	kidney tumors
+endoscopy and endoscopic biopsy of the urinary tract	can detect	ureteral obstructions
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	kidney infections
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder infections
+endoscopy and endoscopic biopsy of the urinary tract	can detect	ureteral stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder tumors
+endoscopy and endoscopic biopsy of the urinary tract	can detect	ureteral tumors
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder diverticula
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy and endoscopic biopsy of the urinary tract	can detect	bladder stones
+endoscopy and endoscopic biopsy of the urinary tract	can detect	urethral strictures
+endoscopy	is a	medical procedure
+endoscopy	used for	diagnosis
+endoscopy	used for	treatment
+endoscopy	used for	visualization
+endoscopy	used for	removal
+endoscopy	used for	sampling
+endoscopy	used for	monitoring
+endoscopy	used for	screening
+endoscopy	used for	evaluation
+endoscopy	used for	assessment
+endoscopy	used for	surveillance
+endoscopy	used for	management
+endoscopy	used for	guidance
+endoscopy	used for	localization
+endoscopy	used for	imaging
+endoscopy	used for	staging
+endoscopy	used for	repair
+endoscopy	used for	reconstruction
+endoscopy	used for	intervention
+endoscopy	used for	correction
+endoscopy	can detect	abnormalities
+endoscopy	can detect	tumors
+endoscopy	can detect	polyps
+endoscopy	can detect	cysts
+endoscopy	can detect	masses
+endoscopy	can detect	lesions
+endoscopy	can detect	bleeding
+endoscopy	can detect	inflammation
+endoscopy	can detect	ulcers
+endoscopy	can detect	strictures
+endoscopy	can detect	stenosis
+endoscopy	can detect	obstructions
+endoscopy	can detect	blockages
+endoscopy	can detect	stones
+endoscopy	can detect	infections
+endoscopy	can detect	tumors in the urinary tract
+endoscopy	can detect	bladder disorders
+endoscopy	can detect	kidney disorders
+endoscopy	can detect	urethral disorders
+endoscopy	can detect	ureteral disorders
+endoscopy	can detect	ureteropelvic junction obstruction
+endoscopy	can detect	urethral stricture
+endoscopy	can detect	bladder stones
+endoscopy	can detect	renal calculi
+endoscopy	can detect	bladder cancer
+endoscopy	can detect	kidney cancer
+endoscopy	can detect	ureteral cancer
+endoscopy	can detect	urethral cancer
+endoscopy	can detect	urinary incontinence
+endoscopy	can detect	urinary retention
+endoscopy	can detect	urinary tract infections
+endoscopy	can detect	urethral diverticulum
+endoscopy	can detect	ureterocele
+endoscopy	can detect	vesicoureteral reflux
+endoscopy	can detect	bladder outlet obstruction
+endoscopy	can detect	ureterovesical junction obstruction
+endoscopy	can detect	neurogenic bladder
+endoscopy	can detect	hematuria
+endoscopy	can detect	pyuria
+endoscopy	can detect	proteinuria
+endoscopy	can detect	hydroureteronephrosis
+endoscopy	can detect	urinary fistula
+endoscopy	can detect	urethratresia
+endoscopy	can detect	ureteral stricture
+endoscopy	can detect	ureteropelvic junction obstruction
+endoscopy	can detect	urinary tract stones
+endoscopy	can detect	urinary tract injury
+endoscopy	can detect	ureteral injury
+endoscopy	can detect	bladder injury
+endoscopy	can detect	urethral injury
+endoscopy	can detect	urinary tract obstruction
+endoscopy	can detect	ureteral obstruction
+endoscopy	can detect	bladder obstruction
+endoscopy	can detect	urethral obstruction
+endoscopic biopsy	is a	medical procedure
+endoscopic biopsy	used for	diagnosis
+endoscopic biopsy	can detect	urinary tract infections
+endoscopic biopsy	can detect	kidney stones
+endoscopic biopsy	can detect	bladder cancer
+endoscopic biopsy	can detect	ureteral strictures
+endoscopic biopsy	can detect	urethral strictures
+endoscopic biopsy	can detect	urethral polyps
+endoscopic biopsy	can detect	urethral tumors
+endoscopic biopsy	can detect	urethral stones
+endoscopic biopsy	can detect	urethral diverticula
+endoscopic biopsy	can detect	urethral cysts
+endoscopic biopsy	can detect	urethral scarring
+endoscopic biopsy	can detect	urinary incontinence
+endoscopic biopsy	can detect	urinary retention
+endoscopic biopsy	can detect	urethral stenosis
+endoscopic biopsy	can detect	urethral fistulas
+endoscopic biopsy	can detect	urethral diverticulitis
+endoscopic biopsy	can detect	urethral strictures

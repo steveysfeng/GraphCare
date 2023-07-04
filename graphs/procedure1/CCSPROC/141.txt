@@ -1,0 +1,219 @@
+other therapeutic obstetrical procedures	are	medical procedures
+other therapeutic obstetrical procedures	used for	treating obstetrical conditions
+forceps delivery	is a type of	other therapeutic obstetrical procedures
+forceps delivery	used for	assisting with childbirth
+vacuum extraction	is a type of	other therapeutic obstetrical procedures
+vacuum extraction	used for	delivery of the baby
+cesarean section	is a type of	other therapeutic obstetrical procedures
+cesarean section	used for	delivering a baby surgically
+induction of labor	is a type of	other therapeutic obstetrical procedures
+induction of labor	used for	initiating contractions
+external cephalic version	is a type of	other therapeutic obstetrical procedures
+external cephalic version	used for	turning a breech baby
+episiotomy	is a type of	other therapeutic obstetrical procedures
+episiotomy	used for	widening the birth canal
+fetal blood sampling	is a type of	other therapeutic obstetrical procedures
+fetal blood sampling	used for	diagnosing fetal conditions
+perineal laceration repair	is a type of	other therapeutic obstetrical procedures
+perineal laceration repair	used for	stitching tears in the perineum
+umbilical cord blood banking	is a type of	other therapeutic obstetrical procedures
+umbilical cord blood banking	used for	collecting and storing umbilical cord blood
+chorionic villus sampling	is a type of	other therapeutic obstetrical procedures
+chorionic villus sampling	used for	diagnosing genetic disorders
+amniocentesis	is a type of	other therapeutic obstetrical procedures
+amniocentesis	used for	genetic testing during pregnancy
+fetal echocardiography	is a type of	other therapeutic obstetrical procedures
+fetal echocardiography	used for	evaluating fetal heart conditions
+pelvic lymphadenectomy	is a type of	other therapeutic obstetrical procedures
+pelvic lymphadenectomy	used for	removing lymph nodes in the pelvis
+cervical cerclage	is a type of	other therapeutic obstetrical procedures
+cervical cerclage	used for	preventing preterm birth
+uterine artery embolization	is a type of	other therapeutic obstetrical procedures
+uterine artery embolization	used for	treating uterine fibroids
+salpingostomy	is a type of	other therapeutic obstetrical procedures
+salpingostomy	used for	treating ectopic pregnancies
+salpingectomy	is a type of	other therapeutic obstetrical procedures
+salpingectomy	used for	removing a fallopian tube
+ovarian cystectomy	is a type of	other therapeutic obstetrical procedures
+ovarian cystectomy	used for	removing an ovarian cyst
+oophorectomy	is a type of	other therapeutic obstetrical procedures
+oophorectomy	used for	removing an ovary
+hysterectomy	is a type of	other therapeutic obstetrical procedures
+hysterectomy	used for	removing the uterus
+myomectomy	is a type of	other therapeutic obstetrical procedures
+myomectomy	used for	removing uterine fibroids
+endometrial ablation	is a type of	other therapeutic obstetrical procedures
+endometrial ablation	used for	treating heavy menstrual bleeding
+tubal ligation	is a type of	other therapeutic obstetrical procedures
+tubal ligation	used for	permanent contraception
+other therapeutic obstetrical procedures	is a	medical procedure
+other therapeutic obstetrical procedures	used for	treating obstetrical conditions
+other therapeutic obstetrical procedures	can be performed during	pregnancy
+other therapeutic obstetrical procedures	can include	cesarean section
+cesarean section	is a	surgical procedure
+cesarean section	used for	delivering a baby
+cesarean section	can be performed	due to complications
+cesarean section	can result in	faster recovery
+cesarean section	has a	longer hospital stay
+pregnancy	can cause	various complications
+pregnancy	can result in	premature birth
+premature birth	increases the risk of	health problems
+premature birth	requires	specialized care
+premature birth	can lead to	developmental delays
+complications	can include	preeclampsia
+preeclampsia	is a	pregnancy-related condition
+preeclampsia	can lead to	high blood pressure
+preeclampsia	requires	medical intervention
+complications	can result in	emergency obstetrical procedures
+emergency obstetrical procedures	are performed	to save the mother or baby
+emergency obstetrical procedures	can include	emergency cesarean section
+emergency cesarean section	is performed	in critical situations
+emergency cesarean section	can be life-saving
+emergency cesarean section	requires	immediate action
+complications	can increase the risk of	maternal mortality
+complications	can increase the risk of	infant mortality
+maternal mortality	refers to	death of the mother
+infant mortality	refers to	death of the baby
+maternal mortality	is affected by	access to healthcare
+maternal mortality	can be prevented with	timely intervention
+infant mortality	is affected by	prenatal care
+infant mortality	can be reduced with	proper medical care
+complications	can lead to	hospital readmission
+hospital readmission	refers to	being readmitted to the hospital
+hospital readmission	can be prevented with	post-discharge follow-up
+hospital readmission	is influenced by	postoperative care
+hospital readmission	can result in	higher healthcare costs
+cesarean section	can affect	future pregnancies
+cesarean section	can increase the risk of	uterine rupture
+uterine rupture	is a	rare but serious complication
+uterine rupture	requires	emergency surgery
+complications	can lead to	long-term health issues
+long-term health issues	require	ongoing medical management
+long-term health issues	can affect	quality of life
+long-term health issues	can increase healthcare utilization
+complications	can affect	mental health
+mental health	plays a role in	overall well-being
+mental health	can be impacted by	postpartum depression
+mental health	requires	psychological support
+postpartum depression	is a	common psychiatric disorder
+postpartum depression	needs	early detection and treatment
+postpartum depression	can affect	mother-infant bonding
+complications	can result in	neonatal intensive care unit admission
+neonatal intensive care unit admission	refers to	hospitalization in the NICU
+neonatal intensive care unit admission	can be necessary for	specialized care
+neonatal intensive care unit admission	can increase	parental stress
+complications	can require	additional medical interventions
+additional medical interventions	may include	blood transfusion
+additional medical interventions	depend on	the specific condition
+additional medical interventions	can prolong	hospital stay
+complications	can have	long-term consequences
+long-term consequences	may include	chronic health conditions
+long-term consequences	necessitate	regular medical follow-up
+long-term consequences	can impact	quality of life
+complications	can lead to	maternal morbidity
+maternal morbidity	refers to	pregnancy-related complications
+maternal morbidity	requires	medical management
+maternal morbidity	can result in	long-term health issues
+medical management	involves	multidisciplinary care team
+medical management	aims to	optimize patient outcomes
+medical management	requires	ongoing monitoring
+complications	can be influenced by	underlying health conditions
+underlying health conditions	need	appropriate management
+underlying health conditions	can increase the risk of	obstetrical complications
+underlying health conditions	can require	preconception counseling
+obstetrical complications	can be prevented with	appropriate prenatal care
+obstetrical complications	can lead to	adverse outcomes
+obstetrical complications	need	timely intervention
+adverse outcomes	include	preterm birth
+adverse outcomes	include	low birth weight
+preterm birth	requires	neonatal care
+preterm birth	can result in	developmental issues
+low birth weight	increases the risk of	health problems
+low birth weight	necessitates	special care
+underlying health conditions	can be managed with	medications
+underlying health conditions	may require	lifestyle modifications
+underlying health conditions	can impact	pregnancy outcomes
+complications	can be influenced by	socioeconomic factors
+socioeconomic factors	include	access to healthcare
+socioeconomic factors	can affect	healthcare outcomes
+socioeconomic factors	require	policy interventions
+other therapeutic obstetrical procedures	is a	medical treatment
+other therapeutic obstetrical procedures	used for	obstetrical conditions
+cervical cerclage	is a type of	other therapeutic obstetrical procedures
+cervical cerclage	used for	cervical incompetence
+external cephalic version	is a type of	other therapeutic obstetrical procedures
+external cephalic version	used for	breech presentation
+amniocentesis	is a type of	other therapeutic obstetrical procedures
+amniocentesis	used for	prenatal diagnosis
+chorionic villus sampling	is a type of	other therapeutic obstetrical procedures
+chorionic villus sampling	used for	prenatal diagnosis
+umbilical cord blood banking	is a type of	other therapeutic obstetrical procedures
+umbilical cord blood banking	used for	future potential transplant
+prophylactic oophorectomy	is a type of	other therapeutic obstetrical procedures
+prophylactic oophorectomy	used for	cancer prevention
+uterine artery embolization	is a type of	other therapeutic obstetrical procedures
+uterine artery embolization	used for	fibroid treatment
+cervical cerclage	can prevent	premature birth
+external cephalic version	can facilitate	vaginal birth
+amniocentesis	can detect	chromosomal abnormalities
+chorionic villus sampling	can detect	genetic disorders
+umbilical cord blood banking	can provide	stem cells
+prophylactic oophorectomy	can reduce	cancer risk
+uterine artery embolization	can shrink	fibroids
+other therapeutic obstetrical procedures	can improve	outcomes
+other therapeutic obstetrical procedures	can increase	success rates
+cervical cerclage	is recommended for	incompetent cervix
+external cephalic version	is recommended for	breech presentation
+amniocentesis	is recommended for	high-risk pregnancies
+chorionic villus sampling	is recommended for	genetic testing
+umbilical cord blood banking	is recommended for	families with a history of genetic disorders
+prophylactic oophorectomy	is recommended for	women with high genetic risk of ovarian cancer
+uterine artery embolization	is recommended for	symptomatic fibroids
+other therapeutic obstetrical procedures	should be performed by	trained healthcare professionals
+cervical cerclage	should be performed by	obstetricians
+external cephalic version	should be performed by	experienced practitioners
+amniocentesis	should be performed by	maternal-fetal medicine specialists
+chorionic villus sampling	should be performed by	genetic counselors
+umbilical cord blood banking	should be performed by	cord blood banks
+prophylactic oophorectomy	should be performed by	gynecologic oncologists
+uterine artery embolization	should be performed by	interventional radiologists
+other therapeutic obstetrical procedures	may require	anesthesia
+cervical cerclage	may require	cervical examination
+external cephalic version	may require	ultrasound guidance
+amniocentesis	may require	ultrasound guidance
+chorionic villus sampling	may require	ultrasound guidance
+umbilical cord blood banking	may require	consent from parents
+prophylactic oophorectomy	may require	hormone replacement therapy
+uterine artery embolization	may require	pre-procedure imaging
+other therapeutic obstetrical procedures	have	potential risks
+cervical cerclage	has	risk of infection
+external cephalic version	has	risk of fetal distress
+amniocentesis	has	risk of miscarriage
+chorionic villus sampling	has	risk of miscarriage
+umbilical cord blood banking	has	no significant risks
+prophylactic oophorectomy	has	risk of surgical complications
+uterine artery embolization	has	risk of infection
+other therapeutic obstetrical procedures	have	potential benefits
+cervical cerclage	has	potential to prolong pregnancy
+external cephalic version	has	potential to avoid cesarean delivery
+amniocentesis	has	potential to identify genetic disorders
+chorionic villus sampling	has	potential to detect chromosomal abnormalities
+umbilical cord blood banking	has	potential for future medical use
+prophylactic oophorectomy	has	potential to reduce cancer risk
+uterine artery embolization	has	potential to eliminate fibroid symptoms
+other therapeutic obstetrical procedures	require	patient cooperation
+cervical cerclage	requires	underactive cervix
+external cephalic version	requires	fetus in breech position
+amniocentesis	requires	fluid from amniotic sac
+chorionic villus sampling	requires	tissue from placenta
+umbilical cord blood banking	requires	collection of cord blood
+prophylactic oophorectomy	requires	removal of ovaries
+uterine artery embolization	requires	injection of embolic agents
+other therapeutic obstetrical procedures	can be performed	outpatient
+cervical cerclage	can be performed	under local anesthesia
+external cephalic version	can be performed	after 36 weeks gestation
+amniocentesis	can be performed	after 15 weeks gestation
+chorionic villus sampling	can be performed	after 10 weeks gestation
+umbilical cord blood banking	can be performed	after delivery
+prophylactic oophorectomy	can be performed	using minimally invasive techniques
+uterine artery embolization	can be performed	as an alternative to hysterectomy

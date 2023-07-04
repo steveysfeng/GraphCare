@@ -1,0 +1,157 @@
+contrast aortogram	is a	medical procedure
+contrast aortogram	used for	diagnosing aortic diseases
+contrast aortogram	can detect	aortic aneurysms
+contrast aortogram	can visualize	aortic dissections
+contrast aortogram	involves	injecting contrast dye
+contrast dye	helps	outline the blood vessels
+contrast aortogram	can identify	narrowing or blockages in the arteries
+contrast aortogram	may be performed	prior to aortic surgery
+contrast aortogram	is done	under fluoroscopy
+fluoroscopy	provides	real-time X-ray images
+fluoroscopy	uses	continuous X-ray beams
+contrast aortogram	requires	a catheter
+catheter	is inserted	into a blood vessel
+contrast aortogram	has risks	such as allergic reactions to the contrast dye
+contrast aortogram	can be followed by	angioplasty or stent placement
+angioplasty	is a	minimally invasive procedure
+angioplasty	used to	open narrowed or blocked arteries
+stent placement	involves	inserting a metal mesh tube
+stent placement	keeps the artery open
+contraindications to contrast aortogram	include	severe kidney disease
+contrast aortogram	may require	sedation or anesthesia
+contrast aortogram	is done	in a hospital setting
+contrast aortogram	can help	guide treatment decisions
+contrast aortogram	may be repeated	to monitor disease progression
+contrast aortogram	is one	imaging modality for aortic evaluation
+contrast aortogram	may be followed by	CT angiography
+CT angiography	provides	detailed images of the blood vessels
+CT angiography	uses	X-rays and contrast dye
+contrast aortogram	may be used	in combination with other imaging techniques
+contrast aortogram	can assist	in the placement of endovascular grafts
+endovascular grafts	used	to treat aortic aneurysms
+contrast aortogram	helps	assess the need for surgical intervention
+contrast aortogram	can reveal	abnormal connections between blood vessels
+contrast aortogram	is performed	by a radiologist
+contrast aortogram	can be useful	in diagnosing aortic dissections
+contrast aortogram	can evaluate	blood flow in the aorta
+contrast aortogram	can be used	to guide catheter-based treatments
+contrast aortogram	is an	invasive procedure
+contrast aortogram	requires	informed consent
+contrast aortogram	carries	a small risk of complications
+contrast aortogram	can assist	in the planning of aortic surgery
+contrast aortogram	can detect	aortic stenosis
+contrast aortogram	can identify	abnormal dilations of the aorta
+contrast aortogram	can help	determine the location and extent of aortic disease
+contrast aortogram	can visualize	blood clots in the aorta
+contrast aortogram	can determine	the need for intervention
+contrast aortogram	is one	imaging option for aortic evaluation
+contrast aortogram	can assess	the patency of bypass grafts
+contrast aortogram	can evaluate	the effectiveness of previous interventions
+contrast aortogram	can evaluate	the stent graft position
+contrast aortogram	can be useful	in the follow-up of aortic surgery
+contrast aortogram	can help	assess the risk of aortic rupture
+contrast aortogram	can detect	an arteriovenous malformation
+contrast aortogram	can visualize	aortic coarctation
+contrast aortogram	can determine	the presence of a blood clot in the aorta
+contrast aortogram	can assess	the state of the aortic valves
+contrast aortogram	can identify	the presence of atherosclerosis
+contrast aortogram	can detect	abnormal connections between blood vessels
+contrast aortogram	can reveal	narrowing or blockages in the arteries
+contrast aortogram	can assess	the extent of aortic disease
+contrast aortogram	can help	guide endovascular procedures
+contrast aortogram	can assist	in the evaluation of aortic dissections
+contrast aortogram	can be performed	on an outpatient basis
+contrast aortogram	can aid	in the diagnosis of aortic diseases
+contrast aortogram	can determine	the location and size of an aortic aneurysm
+contrast aortogram	can visualize	the aortic arch
+contrast aortogram	can identify	aortic abnormalities
+contrast aortogram	can detect	arterial blockages
+contrast aortogram	can assess	the condition of the aortic walls
+contrast aortogram	can determine	the presence of aortic regurgitation
+contrast aortogram	can help	guide treatment planning
+contrast aortogram	can reveal	abnormal blood vessel connections
+contrast aortogram	is a	medical procedure
+contrast aortogram	used for	diagnosing aortic diseases
+contrast aortogram	involves	injecting contrast dye
+contrast dye	helps in	visualizing blood vessels
+contrast aortogram	can detect	aortic aneurysms
+contrast aortogram	is performed	by a radiologist
+contrast aortogram	is done	using X-ray imaging
+radiologist	interprets	the results
+contrast aortogram	can show	narrowing of blood vessels
+contrast aortogram	can identify	blood clots
+contrast aortogram	is invasive	but relatively safe
+contrast aortogram	requires	informed consent
+contrast aortogram	is usually performed	in a hospital setting
+contrast aortogram	may require	fasting before the procedure
+contrast aortogram	may cause	allergic reactions
+contrast aortogram	may have	contraindications for patients with kidney problems
+contrast aortogram	may require	post-procedure monitoring
+post-procedure monitoring	helps	detect complications
+contrast aortogram	has	potential risks
+potential risks	include	bleeding or infection
+contrast aortogram	is an important	diagnostic tool
+diagnostic tool	aids in	treatment planning
+contrast aortogram	may be followed by	a surgical intervention
+surgical intervention	can repair	aortic aneurysms
+contrast aortogram	is one of	the imaging modalities
+imaging modalities	include	CT scan and MRI
+contrast aortogram	is performed	under local anesthesia
+contrast aortogram	has	radiation exposure
+radiation exposure	should be	minimized
+contrast aortogram	can help	guide endovascular interventions
+endovascular interventions	involve	catheter-based procedures
+contrast aortogram	can aid	in stent placement
+stent placement	helps	restore blood flow
+contrast aortogram	may be	contraindicated in pregnant patients
+contrast aortogram	may require	pre-procedure blood tests
+pre-procedure blood tests	evaluate	kidney function
+contrast aortogram	requires	patient cooperation
+contrast aortogram	is sometimes	used for research purposes
+contrast aortogram	helps	diagnose aortic dissection
+contrast aortogram	can assess	blood flow velocity
+contrast aortogram	is a	radiological imaging technique
+contrast aortogram	is used	in interventional radiology
+interventional radiology	involves	minimally invasive procedures
+contrast aortogram	may be used	in emergency situations
+emergency situations	require	prompt diagnosis
+contrast aortogram	can evaluate	the extent of aortic disease
+contrast aortogram	can assess	the patency of blood vessels
+contrast aortogram	plays a	crucial role in diagnosis
+contrast aortogram	requires	a specialized catheter
+contrast aortogram	can provide	real-time images
+contrast aortogram	may be	uncomfortable for some patients
+contrast aortogram	may require	follow-up imaging
+follow-up imaging	monitors	disease progression
+contrast aortogram	may be	contraindicated in patients with iodine allergies
+contrast aortogram	should be	performed by trained medical professionals
+contrast aortogram	can visualize	aortic branches
+contrast aortogram	can determine	the size of aneurysms
+contrast aortogram	can identify	dissection flaps
+contrast aortogram	is one	diagnostic step
+diagnostic step	towards	appropriate management
+contrast aortogram	can guide	endovascular repair
+endovascular repair	can prevent	aortic rupture
+contrast aortogram	can assist	in pre-operative planning
+pre-operative planning	helps	optimize surgical outcomes
+contrast aortogram	can detect	aortic regurgitation
+aortic regurgitation	may require	valve replacement
+contrast aortogram	can determine	the need for surgical intervention
+contrast aortogram	can detect	aortic stenosis
+aortic stenosis	may necessitate	valve repair or replacement
+contrast aortogram	can evaluate	the presence of thrombus
+thrombus	may require	anticoagulation therapy
+contrast aortogram	can assess	the direction of blood flow
+contrast aortogram	requires	appropriate patient preparation
+appropriate patient preparation	ensures	procedure safety
+contrast aortogram	can detect	abnormalities in the aortic arch
+contrast aortogram	should be	part of a comprehensive imaging workup
+comprehensive imaging workup	aids	in accurate diagnosis
+contrast aortogram	can determine	the need for open surgical repair
+open surgical repair	may involve	graft placement
+contrast aortogram	can evaluate	the presence of aortic valve disease
+aortic valve disease	may necessitate	valve repair or replacement
+contrast aortogram	can be	cost-effective
+contrast aortogram	can be	time-consuming
+contrast aortogram	can assess	the diameter of the aorta
+contrast aortogram	may be	followed by post-procedure care

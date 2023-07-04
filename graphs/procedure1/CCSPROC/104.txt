@@ -1,0 +1,141 @@
+nephrectomy	is a	medical procedure
+nephrectomy	used for	treatment
+partial nephrectomy	is a type of	nephrectomy
+complete nephrectomy	is a type of	nephrectomy
+nephrectomy	can lead to	kidney removal
+partial nephrectomy	can preserve	kidney function
+complete nephrectomy	can result in	kidney loss
+nephrectomy	can be performed	laparoscopically
+nephrectomy	can be performed	robotically
+nephrectomy	can be performed	open
+nephrectomy	carries the risk of	bleeding
+nephrectomy	carries the risk of	infection
+nephrectomy	carries the risk of	organ damage
+nephrectomy	carries the risk of	complications
+nephrectomy	may be necessary for	kidney cancer
+nephrectomy	may be necessary for	kidney donation
+nephrectomy	may be necessary for	kidney transplant
+nephrectomy	may be necessary for	polycystic kidney disease
+nephrectomy	may be necessary for	renal artery stenosis
+nephrectomy	may be necessary for	kidney trauma
+nephrectomy	may result in	improved symptoms
+nephrectomy	may result in	pain relief
+nephrectomy	may result in	improved quality of life
+nephrectomy	may result in	decreased blood pressure
+nephrectomy	may result in	improved kidney function
+nephrectomy	may result in	decreased risk of infections
+nephrectomy	may result in	decreased risk of complications
+nephrectomy	may result in	decreased risk of cancer
+nephrectomy	may require	hospitalization
+nephrectomy	may require	anesthesia
+nephrectomy	may require	pain medication
+nephrectomy	should be discussed with	a urologist
+nephrectomy	should be considered	after other treatments have failed
+nephrectomy	should be considered	for advanced kidney cancer
+nephrectomy	should be considered	for severe kidney damage
+nephrectomy	should be considered	for large kidney tumors
+nephrectomy	should be considered	for certain kidney diseases
+nephrectomy	should be considered	for kidney infections
+nephrectomy	can be performed	in emergency situations
+nephrectomy	can be performed	electively
+nephrectomy	can be curative	for kidney cancer
+nephrectomy	can be palliative	for kidney cancer
+nephrectomy	can be curative	for kidney diseases
+nephrectomy	can be palliative	for kidney diseases
+nephrectomy	can be curative	for kidney infections
+nephrectomy	can be palliative	for kidney infections
+nephrectomy	can have	long-term effects
+nephrectomy	can reduce	kidney function
+nephrectomy	can lead to	decreased kidney function
+nephrectomy	can result in	changes in urine output
+nephrectomy	can result in	changes in blood pressure
+nephrectomy	can lead to	chronic kidney disease
+nephrectomy	can increase	risk of cardiovascular disease
+nephrectomy	can increase	risk of osteoporosis
+nephrectomy	can increase	risk of kidney stones
+nephrectomy	can increase	risk of urinary tract infections
+nephrectomy	can affect	quality of life
+nephrectomy	can impact	fertility
+nephrectomy	can affect	sexual function
+nephrectomy	can result in	physical limitations
+nephrectomy	can result in	emotional distress
+nephrectomy	can impact	body image
+nephrectomy	can lead to	post-surgical complications
+nephrectomy	can result in	prolonged recovery
+nephrectomy	can require	rehabilitation
+nephrectomy	can result in	surgical scars
+nephrectomy	can result in	abdominal pain
+nephrectomy	can result in	fatigue
+nephrectomy	can result in	weight changes
+nephrectomy	can result in	dietary restrictions
+nephrectomy	can result in	lifestyle changes
+nephrectomy	can have	long-term follow-up care
+nephrectomy	can have	psychological impact
+nephrectomy	can lead to	grief
+nephrectomy	can result in	financial burden
+nephrectomy	can result in	need for support services
+nephrectomy	can have	impact on relationships
+recovery time
+nephrectomy	is commonly performed by	urologists
+nephrectomy	is associated with	surgical risks
+nephrectomy	can cause	postoperative ileus
+nephrectomy	is a treatment for	kidney failure
+nephrectomy	can lead to	kidney functional decline
+nephrectomy	may require	postoperative follow-up
+nephrectomy	is sometimes indicated for	complex kidney stones
+nephrectomy	is performed in	hospital settings
+nephrectomy	can result in	changes in urinary function
+nephrectomy	has potential complications including	wound infection
+nephrectomy	can result in	urinary incontinence
+nephrectomy	may require	postoperative imaging
+nephrectomy	can be performed using	open surgery
+nephrectomy	carries a risk of	urinary fistula
+nephrectomy	has potential complications including	respiratory problems
+nephrectomy	may require	postoperative catheterization
+nephrectomy	is typically performed for	one kidney
+nephrectomy	can lead to	hypertension
+nephrectomy	may require	postoperative physical therapy
+nephrectomy	can cause	renal failure
+nephrectomy	is recommended for	non-functioning kidneys
+nephrectomy	can result in	postoperative nausea
+nephrectomy	may require	postoperative dietary changes
+nephrectomy	carries a risk of	injury to surrounding organs
+nephrectomy	can affect	long-term kidney function
+nephrectomy	is a potential treatment for	kidney infections
+nephrectomy	can lead to	renal impairment
+nephrectomy	has potential complications including	incisional hernia
+nephrectomy	may require	postoperative stent placement
+nephrectomy	is commonly performed in	adults
+nephrectomy	can result in	erectile dysfunction
+nephrectomy	is associated with	postoperative pain
+nephrectomy	is indicated for	kidney transplants
+nephrectomy	can cause	anemia
+nephrectomy	may require	postoperative wound care
+nephrectomy	carries a risk of	deep vein thrombosis
+nephrectomy	can lead to	chronic kidney disease
+nephrectomy	is sometimes done for	renal artery aneurysms
+nephrectomy	can result in	urinary retention
+nephrectomy	has potential complications including	abscess formation
+nephrectomy	may require	postoperative pain management
+nephrectomy	can be a treatment option for	renal cysts
+nephrectomy	is sometimes indicated for	kidney trauma
+nephrectomy	can cause	infertility
+nephrectomy	carries a risk of	wound dehiscence
+nephrectomy	has potential complications including	ileus
+nephrectomy	may require	postoperative drainage
+nephrectomy	is commonly performed through	laparotomy
+nephrectomy	can result in	urinary leakage
+nephrectomy	can lead to	proteinuria
+nephrectomy	can be a treatment option for	hydronephrosis
+nephrectomy	is sometimes indicated for	kidney stones
+nephrectomy	carries a risk of	hemorrhage
+nephrectomy	has potential complications including	bowel obstruction
+nephrectomy	may require	postoperative anticoagulation
+nephrectomy	can result in	urinary stricture
+nephrectomy	can cause	wound infection
+nephrectomy	carries a risk of	infection in the surgical site
+nephrectomy	may require	postoperative antibiotic therapy
+nephrectomy	is sometimes indicated for	renal cell carcinoma metastasis
+nephrectomy	can lead to	renal dysfunction
+nephrectomy	has potential complications including	ileus
+nephrectomy	may require	postoperative pain control

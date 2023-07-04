@@ -1,0 +1,161 @@
+arthroplasty knee	is a	surgical procedure
+arthroplasty knee	used for	relieving knee pain
+arthroplasty knee	can improve	knee functioning
+arthroplasty knee	performed for	severe knee arthritis
+arthroplasty knee	involves	replacing knee joint
+knee joint	is a part of	human body
+knee joint	enables	leg movement
+knee arthritis	causes	knee pain
+knee arthritis	can lead to	limited mobility
+limited mobility	associated with	decreased quality of life
+decreased quality of life	linked to	higher risk of depression
+higher risk of depression	increases	healthcare utilization
+healthcare utilization	impacts	medical costs
+medical costs	can lead to	financial burden
+financial burden	may result in	delay of treatment
+delay of treatment	correlated with	worse outcomes
+severe knee arthritis	associated with	increased risk of falls
+increased risk of falls	can cause	fractures
+fractures	common in	elderly individuals
+elderly individuals	have	higher susceptibility to falls
+higher susceptibility to falls	related to	age-related changes
+age-related changes	affect	bone density
+bone density	influenced by	hormonal changes
+hormonal changes	occur during	aging process
+aging process	contributes to	degeneration of knee joint
+degeneration of knee joint	leads to	arthritis progression
+arthritis progression	results in	joint damage
+joint damage	leads to	pain and inflammation
+pain and inflammation	can be managed with	medication
+medication	prescribed by	healthcare providers
+healthcare providers	include	doctors and nurses
+doctors	Medical professionals
+nurses	provide	patient care
+patient care	essential for	recovery
+recovery	influenced by	rehabilitation
+rehabilitation	includes	physical therapy
+physical therapy	improves	muscle strength
+muscle strength	necessary for	joint stability
+joint stability	crucial for	proper functioning
+proper functioning	important for	daily activities
+daily activities	impact	overall well-being
+overall well-being	affected by	quality of life
+quality of life	influenced by	pain levels
+pain levels	can be measured using	pain scales
+pain scales	help in	assessing pain severity
+assessing pain severity	important for	treatment planning
+treatment planning	involves	multidisciplinary approach
+multidisciplinary approach	includes	healthcare professionals from different specialties
+different specialties	collaborate to	optimize patient care
+optimize patient care	aims at	better outcomes
+better outcomes	associated with	reduced healthcare costs
+reduced healthcare costs	beneficial for	healthcare systems
+healthcare systems	strive to	provide quality care
+provide quality care	dependent on	healthcare resources
+healthcare resources	include	medical facilities and equipment
+medical facilities and equipment	require	maintenance and upgrades
+maintenance and upgrades	funded by	healthcare budgets
+healthcare budgets	influenced by	government policies
+government policies	designed to	improve healthcare access
+improve healthcare access	necessary for	equitable care
+equitable care	ensures	fair distribution of resources
+fair distribution of resources	crucial for	addressing healthcare disparities
+addressing healthcare disparities	important for	population health
+population health	impacted by	various factors
+various factors	include	social determinants of health
+social determinants of health	encompass	socio-economic factors
+socio-economic factors	influence	health outcomes
+health outcomes	associated with	mortality rates
+mortality rates	used for	healthcare prediction
+healthcare prediction	includes	mortality prediction	readmission prediction	and others
+arthroplasty knee	is a	surgical procedure
+arthroplasty knee	used for	treating knee arthritis
+arthroplasty knee	can improve	mobility
+arthroplasty knee	requires	anesthesia
+arthroplasty knee	has	risks
+arthroplasty knee	is performed	by an orthopedic surgeon
+arthroplasty knee	requires	rehabilitation
+arthroplasty knee	can	reduce pain
+arthroplasty knee	has	postoperative complications
+arthroplasty knee	may require	blood transfusion
+arthroplasty knee	can result in	infection
+arthroplasty knee	has	long recovery period
+arthroplasty knee	can lead to	improved quality of life
+arthroplasty knee	may be	covered by insurance
+arthroplasty knee	can result in	increased range of motion
+arthroplasty knee	is a	major surgery
+arthroplasty knee	is recommended	for severe knee arthritis
+arthroplasty knee	is not recommended	for mild knee arthritis
+arthroplasty knee	can result in	improved knee function
+arthroplasty knee	may require	physical therapy
+arthroplasty knee	may require	assistive devices
+arthroplasty knee	can result in	leg length discrepancy
+arthroplasty knee	can result in	decreased stability
+arthroplasty knee	can result in	nerve damage
+arthroplasty knee	can result in	blood clots
+arthroplasty knee	can result in	stiffness
+arthroplasty knee	can result in	implant failure
+arthroplasty knee	is generally	safe
+arthroplasty knee	can result in	improved quality of sleep
+arthroplasty knee	can improve	ability to perform daily activities
+arthroplasty knee	can result in	improved overall well-being
+arthroplasty knee	is a	last resort treatment option
+arthroplasty knee	can result in	scarring
+arthroplasty knee	can result in	bone fracture
+arthroplasty knee	can result in	loss of muscle strength
+arthroplasty knee	can result in	decreased knee flexibility
+arthroplasty knee	requires	preoperative testing
+arthroplasty knee	can result in	postoperative pain
+arthroplasty knee	can result in	wound complications
+arthroplasty knee	can result in	joint instability
+arthroplasty knee	can result in	patellofemoral pain syndrome
+arthroplasty knee	can result in	longer operative time
+arthroplasty knee	can result in	prolonged hospitalization
+arthroplasty knee	can result in	postoperative joint stiffness
+arthroplasty knee	can result in	periprosthetic fracture
+arthroplasty knee	can result in	knee extensor mechanism dysfunction
+arthroplasty knee	can result in	asymptomatic radiolucent lines
+arthroplasty knee	can result in	tibial component loosening
+arthroplasty knee	can result in	periprosthetic infection
+arthroplasty knee	can result in	periprosthetic joint infection
+arthroplasty knee	can result in	aseptic loosening
+arthroplasty knee	can result in	prosthetic joint infection
+arthroplasty knee	can result in	accelerated polyethylene wear
+arthroplasty knee	can result in	osteolysis
+arthroplasty knee	can result in	late instability
+arthroplasty knee	can result in	patella baja
+arthroplasty knee	can result in	patella alta
+arthroplasty knee	can result in	malalignment
+arthroplasty knee	can result in	peroneal nerve palsy
+arthroplasty knee	can result in	saphenous nerve palsy
+arthroplasty knee	can result in	infection of the prosthetic joint
+arthroplasty knee	can result in	implant loosening
+arthroplasty knee	can result in	postoperative hematoma
+arthroplasty knee	can result in	allograft rejection
+arthroplasty knee	can result in	allograft fracture
+arthroplasty knee	can result in	gait abnormalities
+arthroplasty knee	can result in	wound dehiscence
+arthroplasty knee	can result in	joint stiffness
+arthroplasty knee	can result in	sciatic nerve palsy
+arthroplasty knee	can result in	recurrent dislocation
+arthroplasty knee	can result in	patellar clunk syndrome
+arthroplasty knee	can result in	hypersensitivity reactions
+arthroplasty knee	can result in	implant malposition
+arthroplasty knee	can result in	peroneal neuropathy
+arthroplasty knee	can result in	wound healing problems
+arthroplasty knee	can result in	thrombosis
+arthroplasty knee	can result in	patellar subluxation
+arthroplasty knee	can result in	patellar tendon rupture
+arthroplasty knee	can result in	prosthetic instability
+arthroplasty knee	can result in	osteomyelitis
+arthroplasty knee	can result in	patellofemoral clicking
+arthroplasty knee	can result in	quadriceps tendon rupture
+arthroplasty knee	can result in	anterior knee pain
+arthroplasty knee	can result in	postoperative infection
+arthroplasty knee	can result in	prolonged postoperative pain
+arthroplasty knee	can result in	delayed wound healing
+arthroplasty knee	can result in	prosthetic wear
+arthroplasty knee	can result in	patellar maltracking
+arthroplasty knee	can result in	wound infection
+arthroplasty knee	can result in	periprosthetic fracture
+arthroplasty knee	can result in	prosthesis instability

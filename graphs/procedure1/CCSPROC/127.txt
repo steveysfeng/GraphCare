@@ -1,0 +1,187 @@
+d&c	is a	medical procedure
+d&c	used for	removal
+d&c	can be performed	after delivery
+d&c	can be performed	after abortion
+aspiration	is a type of	d&c
+aspiration	can be performed	after delivery
+aspiration	can be performed	after abortion
+aspiration	used to	remove tissue
+aspiration	used to	remove blood
+aspiration	used to	remove fluid
+d&c	can prevent	infection
+d&c	can treat	uterine hemorrhage
+d&c	can treat	retained products of conception
+d&c	can cause	cramping
+d&c	can cause	bleeding
+d&c	can cause	infection
+d&c	has a risk of	uterine perforation
+d&c	has a risk of	cervical laceration
+d&c	has a risk of	pelvic infection
+d&c	has a risk of	adhesions
+aspiration	has a risk of	injury
+aspiration	has a risk of	infection
+aspiration	has a risk of	bleeding
+aspiration	has a risk of	uterine perforation
+aspiration	has a risk of	cervical laceration
+aspiration	has a risk of	pelvic infection
+aspiration	has a risk of	adhesions
+d&c	can be done	under general anesthesia
+d&c	can be done	under local anesthesia
+d&c	can be done	as an outpatient procedure
+d&c	can be done	in a hospital
+d&c	can be done	in a clinic
+aspiration	can be done	under general anesthesia
+aspiration	can be done	under local anesthesia
+aspiration	can be done	as an outpatient procedure
+aspiration	can be done	in a hospital
+aspiration	can be done	in a clinic
+d&c	recovery	is usually rapid
+d&c	recovery	can involve	cramping
+d&c	recovery	can involve	bleeding
+d&c	recovery	can involve	spotting
+d&c	recovery	can involve	discharge
+aspiration	recovery	is usually rapid
+aspiration	recovery	can involve	cramping
+aspiration	recovery	can involve	bleeding
+aspiration	recovery	can involve	spotting
+aspiration	recovery	can involve	discharge
+aspiration	can be	painful
+aspiration	can be	uncomfortable
+aspiration	can be	performed without anesthesia
+aspiration	can be	performed with local anesthesia
+aspiration	can be	performed with conscious sedation
+aspiration	can be	performed with general anesthesia
+d&c	possible complications	include	infection
+d&c	possible complications	include	hemorrhage
+d&c	possible complications	include	perforation
+d&c	possible complications	include	scarring
+aspiration	possible complications	include	infection
+aspiration	possible complications	include	hemorrhage
+aspiration	possible complications	include	perforation
+aspiration	possible complications	include	scarring
+d&c	should not be	performed	in case of pregnancy
+aspiration	should not be	performed	in case of pregnancy
+d&c	should not be	performed	in case of active pelvic infection
+aspiration	should not be	performed	in case of active pelvic infection
+d&c	contraindicated	during pregnancy
+aspiration	contraindicated	during pregnancy
+d&c	contraindicated	in case of active pelvic infection
+aspiration	contraindicated	in case of active pelvic infection
+d&c	is necessary	in case of incomplete abortion
+aspiration	is necessary	in case of incomplete abortion
+d&c	is necessary	in case of missed abortion
+aspiration	is necessary	in case of missed abortion
+d&c	can be	therapeutic
+aspiration	can be	therapeutic
+d&c	can be	diagnostic
+aspiration	can be	diagnostic
+d&c	can be	elective
+aspiration	can be	elective
+d&c	can be	urgent
+aspiration	can be	urgent
+d&c	can be	outpatient
+aspiration	can be	outpatient
+d&c	can be	inpatient
+aspiration	can be	inpatient
+d&c	can be	performed	for fertility evaluation
+aspiration	can be	performed	for fertility evaluation
+d&c	can be	performed	for endometrial cancer staging
+aspiration	can be	performed	for endometrial cancer staging
+d&c	recovery	time	can be	short
+d&c	recovery	time	can be	long
+aspiration	recovery	time	can be	short
+aspiration	recovery	time	can be	long
+aspiration	is	an alternative
+d&c	is	an alternative
+dilatation and curettage	is a	medical procedure
+dilatation and curettage	used for	removal of uterine tissue
+dilatation and curettage	can be performed	after miscarriage
+dilatation and curettage	can be performed	after abortion
+aspiration	is a	medical procedure
+aspiration	used for	removal of tissue
+aspiration after delivery	is a type of	aspiration
+aspiration after delivery	can be performed	after childbirth
+aspiration after delivery	can be performed	after cesarean section
+aspiration after delivery	used for	removal of uterine tissue after delivery
+aspiration after abortion	is a type of	aspiration
+aspiration after abortion	used for	removal of uterine tissue after abortion
+aspiration after abortion	can be performed	after induced abortion
+aspiration after abortion	can be performed	after spontaneous abortion
+dilatation and curettage	is a	medical procedure
+dilatation and curettage	used for	termination of pregnancy
+dilatation and curettage	used for	removal of uterine lining
+aspiration after delivery	is a	medical procedure
+aspiration after delivery	used for	removal of placenta
+aspiration after delivery	can prevent	postpartum hemorrhage
+aspiration after abortion	is a	medical procedure
+aspiration after abortion	used for	removal of fetal tissue
+aspiration after abortion	can prevent	infection
+dilatation and curettage	can cause	uterine perforation
+dilatation and curettage	can lead to	excessive bleeding
+aspiration after delivery	can cause	uterine infection
+aspiration after abortion	can result in	incomplete abortion
+aspiration after abortion	can lead to	uterine scarring
+aspiration after delivery	can result in	retained placenta
+aspiration after delivery	can cause	cervical laceration
+aspiration after delivery	can lead to	sepsis
+dilatation and curettage	is performed under	anesthesia
+aspiration after delivery	is performed under	sedation
+aspiration after abortion	is performed under	local anesthesia
+dilatation and curettage	requires	cervical dilation
+dilatation and curettage	has	potential complications
+dilatation and curettage	is commonly done	in an outpatient setting
+aspiration after delivery	is commonly done	in a hospital setting
+aspiration after abortion	is commonly done	in a clinic setting
+dilatation and curettage	can be done	after miscarriage
+aspiration after delivery	is done	to prevent excessive bleeding
+aspiration after abortion	is done	to remove remaining tissue
+dilatation and curettage	is performed	by a gynecologist
+aspiration after delivery	is performed	by an obstetrician
+aspiration after abortion	is performed	by a healthcare provider
+dilatation and curettage	carries	a risk of infection
+dilatation and curettage	carries	a risk of injury to adjacent organs
+aspiration after delivery	carries	a risk of uterine perforation
+aspiration after abortion	carries	a risk of incomplete abortion
+dilatation and curettage	is performed	with a speculum
+aspiration after delivery	is performed	with a vacuum aspiration device
+aspiration after abortion	is performed	with a manual aspiration syringe
+dilatation and curettage	can be done	under ultrasound guidance
+aspiration after delivery	can be done	with local anesthesia
+aspiration after abortion	can be done	up to 12 weeks gestation
+dilatation and curettage	is done	in cases of missed abortion
+aspiration after delivery	is done	in cases of retained placenta
+aspiration after abortion	is done	in cases of incomplete abortion
+dilatation and curettage	may be recommended	for management of heavy menstrual bleeding
+aspiration after delivery	may be recommended	to remove retained products of conception
+aspiration after abortion	may be recommended	for early pregnancy termination
+aspiration after delivery	may be required	in cases of postpartum hemorrhage
+dilatation and curettage	is contraindicated	in cases of ectopic pregnancy
+dilatation and curettage	is contraindicated	in cases of active pelvic infection
+aspiration after delivery	is contraindicated	in cases of placenta accreta
+aspiration after abortion	is contraindicated	in cases of gestational trophoblastic disease
+aspiration after delivery	is associated with	pain and cramping
+aspiration after abortion	is associated with	light bleeding and discomfort
+aspiration after abortion	should be followed by	a follow-up appointment
+dilatation and curettage	should be followed by	pelvic rest
+dilatation and curettage	is less commonly performed	with the advent of medical abortion
+aspiration after delivery	is less commonly performed	with the advent of active management of third stage of labor
+aspiration after abortion	is less commonly performed	with the advent of medication abortion
+dilatation and curettage	is sometimes performed	for diagnostic purposes
+dilatation and curettage	is sometimes necessary	for treatment of abnormal uterine bleeding
+aspiration after delivery	is sometimes necessary	in cases of retained placenta
+aspiration after abortion	is sometimes necessary	to complete the abortion process
+aspiration after abortion	is an alternative	to dilation and evacuation
+dilatation and curettage	is an alternative	to medication abortion
+dilatation and curettage	is used	to obtain endometrial tissue for biopsy
+aspiration after abortion	is used	to confirm complete abortion
+dilatation and curettage	can be done	vaginally
+dilatation and curettage	can be done	under general anesthesia
+aspiration after delivery	can be done	immediately after childbirth
+aspiration after abortion	can be done	as an outpatient procedure
+aspiration after abortion	is associated with	low complication rates
+aspiration after abortion	is associated with	minimal scarring
+dilatation and curettage	is associated with	higher complication rates compared to aspiration after abortion
+dilatation and curettage	is associated with	increased risk of infection compared to aspiration after abortion
+dilatation and curettage	is the most common	surgical procedure for pregnancy termination
+aspiration after delivery	is the standard	method for management of retained placenta
+aspiration after abortion	is the preferred	method for first trimester abortion

@@ -1,0 +1,77 @@
+non-operative	is a	therapeutic procedure
+gastrointestinal	is a	therapeutic procedure
+therapeutic procedure	used for	treatment
+non-operative	can be used for	pain management
+gastrointestinal	can be used for	bleeding control
+therapeutic procedure	can be used for	tumor removal
+non-operative	can be used for	rehabilitation
+gastrointestinal	can be used for	stent placement
+therapeutic procedure	can be used for	dilation
+non-operative	can be used for	wound care
+gastrointestinal	can be used for	foreign body removal
+therapeutic procedure	can be used for	colonic decompression
+non-operative	can be used for	fluid drainage
+gastrointestinal	can be used for	stricture management
+therapeutic procedure	can be used for	fistula repair
+non-operative	can be used for	abscess drainage
+gastrointestinal	can be used for	hemorrhoidectomy
+therapeutic procedure	can be used for	tissue ablation
+non-operative	can be used for	nerve block
+gastrointestinal	can be used for	polypectomy
+therapeutic procedure	can be used for	stone extraction
+non-operative	can be used for	joint injection
+gastrointestinal	can be used for	pyloric dilation
+therapeutic procedure	can be used for	stricture dilation
+non-operative	can be used for	scar revision
+gastrointestinal	can be used for	esophageal dilation
+therapeutic procedure	can be used for	cyst removal
+non-operative	can be used for	biopsies
+gastrointestinal	can be used for	band ligation
+therapeutic procedure	can be used for	foreign body retrieval
+non-operative	can be used for	catheter insertion
+gastrointestinal	can be used for	gastrostomy
+therapeutic procedure	can be used for	myotomy
+non-operative	can be used for	wound closure
+gastrointestinal	can be used for	stricture balloon dilation
+therapeutic procedure	can be used for	diverticulotomy
+non-operative	can be used for	infusion
+gastrointestinal	can be used for	jejunostomy
+therapeutic procedure	can be used for	lesion removal
+non-operative	can be used for	aspiration
+gastrointestinal	can be used for	variceal band ligation
+therapeutic procedure	can be used for	adhesion release
+non-operative	can be used for	drainage
+gastrointestinal	can be used for	sphincterotomy
+therapeutic procedure	can be used for	neurolysis
+non-operative	can be used for	splinting
+gastrointestinal	can be used for	colectomy
+therapeutic procedure	can be used for	debridement
+non-operative	can be used for	amputation
+gastrointestinal	can be used for	gastrectomy
+therapeutic procedure	can be used for	fibrin glue injection
+non-operative	can be used for	casting
+gastrointestinal	can be used for	percutaneous endoscopic gastrostomy
+therapeutic procedure	can be used for	urethral dilation
+non-operative	can be used for	reduction
+gastrointestinal	can be used for	jejunectomy
+therapeutic procedure	can be used for	ligament repair
+non-operative	can be used for	immobilization
+gastrointestinal	can be used for	gastrojejunostomy
+therapeutic procedure	can be used for	suturing
+non-operative	can be used for	bracing
+gastrointestinal	can be used for	jejunostomy tube placement
+therapeutic procedure	can be used for	arterial embolization
+non-operative	can be used for	traction
+gastrointestinal	can be used for	pyloroplasty
+therapeutic procedure	can be used for	tendon repair
+non-operative	can be used for	splint application
+gastrointestinal	can be used for	pancreatic duct stenting
+therapeutic procedure	can be used for	laser therapy
+non-operative	can be used for	massage
+gastrointestinal	can be used for	esophagogastroduodenoscopy
+therapeutic procedure	can be used for	tissue transfer
+non-operative	can be used for	external fixation
+gastrointestinal	can be used for	endoscopic retrograde cholangiopancreatography
+therapeutic procedure	can be used for	fracture fixation
+non-operative	can be used for	transcutaneous electrical nerve stimulation
+gastrointestinal	can be used for	sphincter of Oddi manometry

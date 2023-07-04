@@ -1,0 +1,161 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	removal of the uterus
+hysterectomy	can be done	abdominally
+hysterectomy	can be done	vaginally
+hysterectomy	may cause	menopause
+menopause	can lead to	hormonal changes
+hormonal changes	can cause	mood swings
+hormonal changes	can cause	hot flashes
+hormonal changes	can cause	insomnia
+hysterectomy	may be performed	for cancer treatment
+hysterectomy	may be performed	for fibroids removal
+fibroids removal	can alleviate	heavy menstrual bleeding
+hysterectomy	may be performed	for endometriosis treatment
+endometriosis treatment	can relieve	pelvic pain
+hysterectomy	may be performed	for uterine prolapse
+uterine prolapse	can cause	urinary incontinence
+hysterectomy	may be performed	for adenomyosis
+adenomyosis	can lead to	heavy menstrual bleeding
+hysterectomy	may be performed	for chronic pelvic pain
+chronic pelvic pain	can be caused by	endometriosis
+endometriosis	can cause	inflammation
+inflammation	can lead to	pain
+hysterectomy	may be performed	for certain types of cancer
+cancer	can spread to	nearby organs
+hysterectomy	may be performed	as a preventative measure
+hysterectomy	can be performed	via laparoscopy
+laparoscopy	uses	small incisions
+laparoscopy	has	shorter recovery time
+laparoscopy	may result in	less scarring
+hysterectomy	can be performed	via open surgery
+open surgery	involves	larger incision
+open surgery	may require	longer recovery time
+open surgery	may result in	more scarring
+hysterectomy	may require	general anesthesia
+general anesthesia	carries	risks
+general anesthesia	can cause	respiratory problems
+general anesthesia	can cause	allergic reactions
+hysterectomy	may require	post-operative pain management
+post-operative pain management	may involve	opioid medications
+opioid medications	can cause	addiction
+hysterectomy	has	potential complications
+potential complications	include	infection
+potential complications	include	bleeding
+potential complications	include	blood clots
+potential complications	include	damage to surrounding organs
+potential complications	include	urinary problems
+potential complications	include	bowel problems
+hysterectomy	may impact	sexual function
+sexual function	can be affected by	hormonal changes
+sexual function	can be affected by	physical changes
+hysterectomy	may lead to	changes in body image
+changes in body image	can affect	mental health
+mental health	can impact	quality of life
+hysterectomy	can result in	improved quality of life
+improved quality of life	can be due to	relief of symptoms
+improved quality of life	can be due to	elimination of health risks
+hysterectomy	may require	follow-up care
+follow-up care	involves	regular check-ups
+regular check-ups	can detect	potential complications
+regular check-ups	can monitor	overall health
+hysterectomy	requires	informed consent
+informed consent	ensures	patient understanding
+informed consent	ensures	patient autonomy
+hysterectomy	may have	long-term effects
+long-term effects	may include	bone loss
+long-term effects	may include	increased risk of heart disease
+hysterectomy	is not	reversible
+hysterectomy	is	a major surgery
+hysterectomy	has	different approaches
+different approaches	have	varying benefits
+different approaches	have	varying risks
+hysterectomy	may be performed	laparoscopically-assisted vaginal
+hysterectomy	may be performed	robotically-assisted
+robotically-assisted	uses	robotic arms
+robotically-assisted	allows	greater precision
+robotically-assisted	may be more expensive
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	treating certain medical conditions
+abdominal hysterectomy	is a type of	hysterectomy
+vaginal hysterectomy	is a type of	hysterectomy
+abdominal hysterectomy	is performed through	an incision in the abdomen
+vaginal hysterectomy	is performed through	the vagina
+hysterectomy	can be performed	laparoscopically
+laparoscopic hysterectomy	is a type of	hysterectomy
+laparoscopic hysterectomy	is performed through	small incisions
+hysterectomy	can result in	infertility
+hysterectomy	can relieve	chronic pain
+hysterectomy	can treat	uterine fibroids
+hysterectomy	can treat	endometriosis
+hysterectomy	can be	a last resort
+hysterectomy	can be	performed for cancer treatment
+hysterectomy	can have	long recovery time
+hysterectomy	is associated with	potential complications
+hysterectomy	can require	hormone replacement therapy
+hysterectomy	can lead to	changes in sexual function
+hysterectomy	can cause	emotional changes
+hysterectomy	can increase	risk of cardiovascular disease
+hysterectomy	can increase	risk of urinary incontinence
+hysterectomy	can affect	pelvic floor muscles
+hysterectomy	can increase	risk of osteoporosis
+hysterectomy	can increase	risk of weight gain
+hysterectomy	can increase	risk of depression
+hysterectomy	is often	irreversible
+hysterectomy	is often	a permanent solution
+hysterectomy	allows for	removal of the uterus
+hysterectomy	can be	a major surgery
+hysterectomy	can be	performed with minimally invasive techniques
+hysterectomy	may require	blood transfusion
+hysterectomy	can be	performed under general anesthesia
+hysterectomy	can be	performed with robotic assistance
+hysterectomy	can affect	hormonal balance
+hysterectomy	can have	varying degrees of organ removal
+hysterectomy	can have	different surgical approaches
+hysterectomy	can be	performed on an outpatient basis
+hysterectomy	can be	performed for maternal indications
+hysterectomy	can be	performed for non-maternal indications
+hysterectomy	should be	discussed with a healthcare provider
+hysterectomy	requires	preoperative evaluation
+hysterectomy	can result in	scarring
+hysterectomy	may require	postoperative care
+hysterectomy	may involve	removal of fallopian tubes and ovaries
+hysterectomy	can be	a complex procedure
+hysterectomy	can be	a life-saving treatment
+hysterectomy	can lead to	menopause
+hysterectomy	can be	performed in combination with other procedures
+hysterectomy	is	a permanent solution
+hysterectomy	is	a major surgery
+hysterectomy	can be	performed for non-cancerous conditions
+hysterectomy	requires	hospitalization
+hysterectomy	has	different techniques
+hysterectomy	has	different recovery times
+hysterectomy	may involve	preservation of ovarian function
+hysterectomy	can be	performed when other treatments have failed
+hysterectomy	can have	long-term effects
+hysterectomy	is	a common procedure
+hysterectomy	can be	performed with laparotomy
+hysterectomy	can be	performed with laparoscopy
+hysterectomy	can be	performed with vaginal incision
+hysterectomy	can be	performed with abdominal incision
+hysterectomy	can require	post-surgical rehabilitation
+hysterectomy	can be	a recommended treatment
+hysterectomy	requires	informed consent
+hysterectomy	may involve	removal of lymph nodes
+hysterectomy	can result in	reduced symptoms
+hysterectomy	can be	combined with other surgical procedures
+hysterectomy	can affect	hormone production
+hysterectomy	can have	implications for future fertility
+hysterectomy	can alleviate	menstrual problems
+hysterectomy	can be	a medically necessary procedure
+hysterectomy	can have	physical consequences
+hysterectomy	can require	lifestyle adjustments
+hysterectomy	can have	cost implications
+hysterectomy	can result in	loss of reproductive ability
+hysterectomy	can improve	quality of life
+hysterectomy	can require	follow-up care
+hysterectomy	is	a commonly performed surgery
+hysterectomy	can be	performed with da Vinci Surgical System
+hysterectomy	is	a major operation
+hysterectomy	can be	performed without removing the cervix
+hysterectomy	can be	performed with total removal of reproductive organs
+hysterectomy	can have	a significant impact on well-being

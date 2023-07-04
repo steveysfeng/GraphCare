@@ -1,0 +1,220 @@
+treatment	is a	medical intervention
+treatment	used for	fracture
+treatment	used for	dislocation
+hip fracture	can be treated with	treatment
+femur fracture	can be treated with	treatment
+hip dislocation	can be treated with	treatment
+femur dislocation	can be treated with	treatment
+treatment	can involve	surgery
+surgery	can be performed for	hip fracture
+surgery	can be performed for	femur fracture
+surgery	can be performed for	hip dislocation
+surgery	can be performed for	femur dislocation
+treatment	can involve	medication
+medication	can be prescribed for	pain relief
+medication	can be prescribed for	inflammation
+medication	can be prescribed for	muscle relaxation
+treatment	can involve	physical therapy
+physical therapy	can help with	rehabilitation
+treatment	can involve	traction
+traction	can be used for	fracture reduction
+traction	can be used for	dislocation reduction
+treatment	can involve	immobilization
+immobilization	can be done with	casts
+immobilization	can be done with	splints
+treatment	can involve	assistive devices
+assistive devices	can aid in	walking
+treatment	can involve	pain management
+pain management	can be done with	analgesics
+treatment	can involve	physical activity modification
+physical activity modification	can include	weight-bearing restrictions
+treatment	can require	hospitalization
+hospitalization	can be needed for	surgery
+hospitalization	can be needed for	complications
+treatment	can result in	complications
+complications	can include	infection
+complications	can include	deep vein thrombosis
+complications	can include	nerve damage
+complications	can include	nonunion
+treatment	is recommended for	elderly patients
+fracture	can occur from	falls
+dislocation	can occur from	trauma
+treatment	is more effective for	early intervention
+treatment	can improve	mobility
+treatment	can decrease	pain
+treatment	can prevent	further damage
+treatment	can prolong	life expectancy
+treatment	can improve	quality of life
+treatment	can increase	independence
+treatment	can decrease	complications
+treatment	can reduce	healthcare costs
+treatment	can vary based on	severity
+treatment	can vary based on	patient preference
+treatment	can vary based on	comorbidities
+treatment	can require	follow-up care
+follow-up care	can include	imaging studies
+follow-up care	can include	rehabilitation sessions
+follow-up care	can include	medication adjustments
+treatment	can be	expensive
+treatment	can be	time-consuming
+treatment	can be	challenging
+treatment	can have	side effects
+side effects	can include	nausea
+side effects	can include	dizziness
+treatment	may not be	suitable for everyone
+treatment	should be	individualized
+treatment	should consider	patient preferences
+treatment	should consider	patient's overall health
+treatment	should consider	patient's ability to comply
+treatment	should consider	potential risks
+treatment	should consider	potential benefits
+fracture	can lead to	osteoarthritis
+dislocation	can lead to	joint instability
+treatment	can require	interdisciplinary care
+interdisciplinary care	involves	healthcare professionals
+interdisciplinary care	involves	coordination
+treatment	can be	time-sensitive
+treatment	can be	cost-effective
+treatment	can require	pre-operative testing
+pre-operative testing	can include	blood work
+pre-operative testing	can include	imaging tests
+pre-operative testing	can include	electrocardiogram
+treatment	can involve	pre-operative optimization
+pre-operative optimization	can include	nutritional support
+pre-operative optimization	can include	physical conditioning
+pre-operative optimization	can include	medication adjustments
+treatment	can lead to	improved functionality
+treatment	can lead to	reduced dependence
+treatment	can lead to	decreased healthcare utilization
+treatment	can lead to	improved quality of life
+treatment	can lead to	decreased pain levels
+treatment	can lead to	increased patient satisfaction
+treatment	is a	medical intervention
+treatment	used for	fracture or dislocation of hip and femur
+treatment	can include	surgery
+surgery	is performed by	orthopedic surgeons
+orthopedic surgeons	specialize in	treating musculoskeletal injuries
+treatment	may involve	physical therapy
+physical therapy	helps with	rehabilitation
+treatment	can also involve	pain management
+pain management	may include	medication
+medication	prescribed by	healthcare professionals
+treatment	aims to	relieve pain
+treatment	can help	restore mobility
+treatment	may require	hospitalization
+hospitalization	involves	inpatient care
+treatment	may lead to	complications
+complications	can include	infection
+infection	treated with	antibiotics
+treatment	may require	follow-up appointments
+follow-up appointments	scheduled with	healthcare providers
+treatment	can have	long-term effects
+long-term effects	can include	chronic pain
+treatment	has	varying success rates
+success rates	influenced by	patient factors
+patient factors	include	age
+patient factors	also include	overall health
+treatment	may result in	improved quality of life
+improved quality of life	measured by	patient reported outcomes
+treatment	can be	costly
+costly	covered by	insurance
+insurance	provided by	private companies or government programs
+treatment	may require	assistive devices
+assistive devices	include	crutches or walkers
+treatment	can be	time-consuming
+time-consuming	due to	rehabilitation process
+treatment	may necessitate	home modifications
+home modifications	help with	accessibility
+treatment	can be	physically demanding
+physically demanding	requiring	strength and endurance
+treatment	may impact	daily activities
+daily activities	affected by	mobility limitations
+treatment	may be	tailored to individual patients
+individual patients	assessed by	healthcare professionals
+treatment	can be	invasive
+invasive	procedures carry	risks
+risks	discussed with	patients
+treatment	may require	preoperative preparation
+preoperative preparation	includes	tests and evaluations
+treatment	involves	multidisciplinary care
+multidisciplinary care	provided by	various healthcare professionals
+treatment	may involve	non-surgical interventions
+non-surgical interventions	include	traction
+treatment	aims to	achieve optimal function
+optimal function	measured by	range of motion
+treatment	may necessitate	lifestyle changes
+lifestyle changes	such as	weight management
+treatment	can result in	improved mobility
+improved mobility	leads to	increased independence
+treatment	can have	psychological impact
+psychological impact	addressed by	mental health professionals
+treatment	may require	adaptive equipment
+adaptive equipment	enhances	mobility
+treatment	can be	time-sensitive
+time-sensitive	due to	potential complications
+treatment	may be	tailored to specific fracture types
+specific fracture types	classified based on	location
+treatment	may involve	traction
+traction	used to	align bone fragments
+treatment	can result in	prolonged immobilization
+prolonged immobilization	can lead to	muscle weakness
+treatment	may require	referral to specialists
+specialists	include	physiatrists
+treatment	can be	personalized
+personalized treatment	informed by	patient preferences
+treatment	may require	surgical repair
+surgical repair	performed by	orthopedic surgeons
+treatment	can lead to	improved function and quality of life
+improved function and quality of life	assessed through	clinical evaluations
+treatment	may involve	weight-bearing restrictions
+weight-bearing restrictions	recommended to	facilitate healing
+treatment	can result in	improved outcomes
+improved outcomes	associated with	early intervention
+treatment	may involve	postoperative care
+postoperative care	includes	wound care and pain management
+treatment	can be	resource-intensive
+resource-intensive	requiring	healthcare resources
+treatment	may necessitate	additional support services
+additional support services	provided by	social workers
+treatment	requires	patient compliance
+patient compliance	crucial for	successful outcomes
+treatment	can result in	complications
+complications	managed by	healthcare professionals
+treatment	may require	assistive devices for mobility
+assistive devices for mobility	include	wheelchairs
+treatment	can be	physically demanding
+physically demanding	requiring	strength and endurance
+treatment	may be	contraindicated in certain cases
+certain cases	assessed by	healthcare professionals
+treatment	can impact	daily living activities
+daily living activities	affected by	mobility limitations
+treatment	may be	covered by insurance
+covered by insurance	determined by	policy coverage
+treatment	can result in	functional improvements
+functional improvements	measured by	mobility assessments
+treatment	may involve	joint replacement surgery
+joint replacement surgery	performed by	orthopedic surgeons
+treatment	can result in	decreased pain
+decreased pain	evaluated through	pain scales
+treatment	may require	utilization of assistive devices
+utilization of assistive devices	facilitates	mobility
+treatment	can have	long-term implications
+long-term implications	include	risk of arthritis
+treatment	may involve	rehabilitative exercises
+rehabilitative exercises	aimed at	strengthening muscles
+treatment	can result in	improved function
+improved function	assessed through	functional tests
+treatment	may necessitate	patient education
+patient education	provided by	healthcare professionals
+treatment	is	evidence-based
+evidence-based treatment	relies on	clinical trials
+treatment	can be	challenging
+challenging treatment	requires	expert care
+treatment	may involve	minimally invasive techniques
+minimally invasive techniques	aimed at	reducing surgical risks
+treatment	can result in	complications
+complications	managed by	medical professionals
+treatment	may require	use of mobility aids
+use of mobility aids	helps	maintain independence
+treatment	can lead to	improved overall well-being
+improved overall well-being	assessed through	patient satisfaction surveys

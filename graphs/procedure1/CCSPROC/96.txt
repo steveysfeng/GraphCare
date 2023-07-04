@@ -1,0 +1,20 @@
+other gi therapeutic procedures	is a	medical procedure
+other gi therapeutic procedures	used for	treatment
+endoscopy	is a type of	other gi therapeutic procedures
+endoscopy	used for	diagnosis
+endoscopic biopsy	is a type of	endoscopy
+endoscopic biopsy	can detect	ulcers
+colorectal surgery	is a type of	other gi therapeutic procedures
+colorectal surgery	used for	treatment
+colostomy	is a type of	colorectal surgery
+colostomy	used for	diverticulitis
+colectomy	is a type of	colorectal surgery
+colectomy	used for	colon cancer
+ileoanal pouch	is a type of	colorectal surgery
+ileoanal pouch	used for	ulcerative colitis
+hemorrhoidectomy	is a type of	other gi therapeutic procedures
+hemorrhoidectomy	used for	hemorrhoids
+gastrointestinal endoscopy	is a type of	other gi therapeutic procedures
+gastrointestinal endoscopy	used for	diagnosis
+esophagogastroduodenoscopy	is a type of	gastrointestinal endoscopy
+esophagogastroduodenoscopy	used for	diagnosing digestive disorders

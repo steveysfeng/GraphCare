@@ -1,0 +1,150 @@
+myelogram	is a	medical procedure
+myelogram	used for	spinal imaging
+myelogram	involves	injecting contrast dye
+myelogram	can diagnose	spinal cord compression
+myelogram	may cause	headache
+myelogram	can detect	spinal tumors
+myelogram	is performed	under fluoroscopy
+myelogram	is an alternative to	MRI
+myelogram	requires	informed consent
+myelogram	is contraindicated in	pregnant women
+myelogram	may require	sedation
+myelogram	is performed	by a radiologist
+myelogram	can visualize	nerve root compression
+myelogram	is useful in	diagnosing disc herniations
+myelogram	can identify	spinal stenosis
+myelogram	can guide	surgical planning
+myelogram	provides	detailed images
+myelogram	is typically followed by	a CT scan
+myelogram	is considered	a minimally invasive procedure
+myelogram	can help	differentiate between disc bulges and disc herniations
+myelogram	carries a risk of	infection
+myelogram	can detect	spinal fractures
+myelogram	can evaluate	spinal nerve impingement
+myelogram	is performed	in an outpatient setting
+myelogram	can detect	spinal infections
+myelogram	is an effective	diagnostic tool
+myelogram	requires	fasting prior to the procedure
+myelogram	can be used	to guide epidural steroid injections
+myelogram	can identify	spinal cord tumors
+myelogram	may require	post-procedure monitoring
+myelogram	is a common	diagnostic procedure
+myelogram	can assess	the integrity of the spinal canal
+myelogram	can detect	disc herniations
+myelogram	can visualize	spinal nerve roots
+myelogram	is associated with	a small risk of complications
+myelogram	is performed	with the patient in a prone position
+myelogram	can help	diagnose spinal infections
+myelogram	is a valuable	diagnostic tool
+myelogram	can detect	spinal cysts
+myelogram	is considered	safe when performed appropriately
+myelogram	can detect	spinal cord lesions
+myelogram	can identify	spinal cord compression due to tumors
+myelogram	can identify	spinal nerve impingement due to bone spurs
+myelogram	can evaluate	spinal cord abnormalities
+myelogram	can identify	spinal cord narrowing
+myelogram	can detect	spinal cord trauma
+myelogram	can detect	arachnoiditis
+myelogram	can visualize	spinal nerve root inflammation
+myelogram	can help	guide treatment decisions
+myelogram	can detect	spinal cord vascular malformations
+myelogram	can identify	spinal cord inflammation
+myelogram	can evaluate	spinal cord tumors
+myelogram	can detect	spinal cord abscesses
+myelogram	can detect	spinal cord cysts
+myelogram	is performed	with the patient lying on their stomach
+myelogram	can identify	spinal cord compression due to herniated discs
+myelogram	can visualize	spinal cord arteriovenous malformations
+myelogram	can detect	spinal cord tumors
+myelogram	is typically performed	as an outpatient procedure
+myelogram	can detect	spinal cord compression due to spinal stenosis
+myelogram	can identify	spinal cord compression due to bone spurs
+myelogram	can evaluate	spinal cord vascular malformations
+myelogram	can visualize	spinal cord inflammation
+myelogram	can detect	spinal cord tumors
+myelogram	can identify	spinal cord compression due to tumors
+myelogram	can detect	spinal cord trauma
+myelogram	can detect	spinal cord arteriovenous malformations
+myelogram	can visualize	spinal cord abscesses
+myelogram	can help	guide treatment planning
+myelogram	can detect	spinal cord cysts
+myelogram	can identify	spinal cord compression due to disc herniations
+myelogram	can evaluate	spinal cord trauma
+myelogram	is considered	a safe procedure
+myelogram	can detect	spinal cord inflammation
+myelogram	can identify	spinal cord narrowing
+myelogram	can help	diagnose spinal tumors
+myelogram	can detect	spinal cord compression due to spinal infections
+myelogram	can visualize	spinal cord vascular malformations
+myelogram	can detect	spinal cord compression due to arachnoid cysts
+myelogram	can identify	spinal cord compression due to spinal cysts
+myelogram	is performed	to aid in the diagnosis of spinal conditions
+myelogram	can detect	spinal cord compression due to arachnoiditis
+myelogram	can evaluate	spinal cord abnormalities
+myelogram	can detect	spinal cord compression due to spinal tumors
+myelogram	can identify	spinal nerve impingement due to spinal infections
+myelogram	can visualize	spinal cord lesions
+myelogram	can detect	spinal cord compression due to spinal cysts
+myelogram	can help	guide surgical interventions
+myelogram	can detect	spinal cord compression due to spinal trauma
+myelogram	can identify	spinal cord abnormalities
+myelogram	can detect	spinal cord tears
+myelogram	can visualize	spinal cord inflammation
+myelogram	can help	guide treatment options
+myelogram	can detect	spinal cord vascular malformations
+myelogram	can identify	spinal cord compression due to spinal cord inflammation
+myelogram	can evaluate	spinal cord tumors
+myelogram	can detect	spinal cord compression due to spinal abscesses
+myelogram	can detect	spinal cord cysts
+myelogram	is performed	with the guidance of real-time X-ray imaging
+myelogram	can identify	spinal cord compression due to spinal cord cysts
+myelogram	can visualize	spinal cord arteriovenous malformations
+myelogram	can detect	spinal cord tumors
+myelogram	can identify	spinal cord compression due to spinal cord trauma
+myelogram	can detect	spinal cord arteriovenous malformations
+myelogram	can help	guide treatment strategies
+myelogram	can detect	spinal cord cysts
+myelogram	can identify	spinal cord compression due to disc herniating
+myelogram	can evaluate	spinal cord trauma
+myelogram	is associated with	a low risk of complications
+myelogram	can detect	spinal cord inflammation
+myelogram	can identify	spinal cord narrowing
+myelogram	can help	diagnose spinal tumors
+myelogram	can detect	spinal cord compression due to spinal infections
+myelogram	can visualize	spinal cord vascular malformations
+myelogram	can detect	spinal cord compression due to arachnoid cysts
+myelogram	can identify	spinal cord compression due to spinal cysts
+myelogram	is performed	to aid in the diagnosis and treatment of spinal conditions
+myelogram	can detect	spinal cord compression due to arachnoiditis
+myelogram	can evaluate	spinal cord abnormalities
+myelogram	can detect	spinal cord compression due to spinal tumors
+myelogram	can identify	spinal nerve impingement due to spinal infections
+myelogram	can visualize	spinal cord lesions
+myelogram	can detect	spinal cord compression due to spinal cysts
+myelogram	can help	guide surgical interventions
+myelogram	can detect	spinal cord compression due to spinal trauma
+myelogram	can identify	spinal cord abnormalities
+myelogram	can detect	spinal cord tears
+myelogram	can visualize	spinal cord inflammation
+myelogram	can help	guide treatment options
+myelogram	can detect	spinal cord vascular malformations
+myelogram	can identify	spinal cord compression due to spinal cord inflammation
+myelogram	can evaluate	spinal cord tumors
+myelogram	can detect	spinal cord compression due to spinal abscesses
+myelogram	can detect	spinal cord cysts
+myelogram	is performed	with the guidance of real-time X-ray imaging
+myelogram	can identify	spinal cord compression due to spinal cord cysts
+myelogram	can visualize	spinal cord arteriovenous malformations
+myelogram	can detect	spinal cord tumors
+myelogram	can identify	spinal cord compression due to spinal cord trauma
+myelogram	can detect	spinal cord arteriovenous malformations
+myelogram	can help	guide treatment strategies
+myelogram	can detect	spinal cord cysts
+myelogram	can identify	spinal cord compression due to disc herniating
+myelogram	can evaluate	spinal cord trauma
+myelogram	can be used	in combination with other imaging modalities
+myelogram	can detect	spinal cord compression due to spinal infections
+myelogram	can visualize	spinal cord vascular malformations
+myelogram	can detect	spinal cord compression due to arachnoid cysts
+myelogram	can identify	spinal cord compression due to spinal cysts
+myelogram	is performed	to aid in the diagnosis and treatment of spinal conditions

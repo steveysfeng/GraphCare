@@ -1,0 +1,217 @@
+indwelling catheter	is a	medical device
+indwelling catheter	used for	urinary drainage
+indwelling catheter	reduces	the need for frequent toileting
+indwelling catheter	increases	the risk of urinary tract infections
+indwelling catheter	can cause	bladder spasms
+indwelling catheter	requires	regular cleaning
+indwelling catheter	should be replaced	every 2 to 4 weeks
+indwelling catheter	can lead to	catheter-associated bloodstream infections
+indwelling catheter	can result in	encrustation and blockage
+indwelling catheter	may cause	pain or discomfort
+indwelling catheter	needs	proper insertion technique
+indwelling catheter	should be secured	to prevent movement
+indwelling catheter	can be	temporary or permanent
+indwelling catheter	should be monitored	for signs of infection
+indwelling catheter	can be	used in both men and women
+indwelling catheter	requires	a drainage bag
+indwelling catheter	may cause	leakage around the catheter
+indwelling catheter	can lead to	bladder stones
+indwelling catheter	is contraindicated	in certain conditions
+indwelling catheter	can result in	urethral trauma
+indwelling catheter	necessitates	proper hand hygiene
+indwelling catheter	can be	inserted in different ways
+indwelling catheter	should be irrigated	as per healthcare provider's instructions
+indwelling catheter	can cause	allergic reactions
+indwelling catheter	may cause	hematuria
+indwelling catheter	requires	regular monitoring
+indwelling catheter	should be secured	with tape or a catheter holder
+indwelling catheter	can result in	catheter-associated urinary tract infections
+indwelling catheter	can cause	discomfort during insertion
+indwelling catheter	is commonly used	in hospitals
+indwelling catheter	requires	sterile technique for insertion
+indwelling catheter	can lead to	urethral erosion
+indwelling catheter	is associated with	an increased risk of falls
+indwelling catheter	is often used	in patients with urinary retention
+indwelling catheter	requires	regular emptying of the drainage bag
+indwelling catheter	can cause	blood clots
+indwelling catheter	is associated with	impaired mobility
+indwelling catheter	should be changed	by a healthcare professional
+indwelling catheter	can be	inserted into the bladder through the urethra
+indwelling catheter	can be	used in patients with spinal cord injuries
+indwelling catheter	should be cleaned	after each bowel movement
+indwelling catheter	can result in	bladder spasms
+indwelling catheter	may cause	urethral strictures
+indwelling catheter	necessitates	proper perineal care
+indwelling catheter	requires	proper documentation
+indwelling catheter	can lead to	discomfort during withdrawal
+indwelling catheter	is associated with	an increased risk of healthcare-associated infections
+indwelling catheter	requires	regular assessment for complications
+indwelling catheter	can cause	urinary leakage
+indwelling catheter	may result in	urinary tract obstruction
+indwelling catheter	should be	changed regularly to prevent infection
+indwelling catheter	may cause	bladder spasms
+indwelling catheter	needs	proper stabilization to prevent accidental removal
+indwelling catheter	is commonly used	in patients with urinary incontinence
+indwelling catheter	can result in	painful urination
+indwelling catheter	may require	irrigation to maintain patency
+indwelling catheter	can cause	dislodgement
+indwelling catheter	is associated with	an increased risk of delirium
+indwelling catheter	requires	regular assessment of urine output
+indwelling catheter	can lead to	urinary tract calculi
+indwelling catheter	can cause	urethral bleeding
+indwelling catheter	necessitates	proper catheter care
+indwelling catheter	should be	secured to prevent tension on the catheter
+indwelling catheter	can be	inserted by a healthcare provider
+indwelling catheter	should be changed	when clinically indicated
+indwelling catheter	is associated with	a higher risk of pressure ulcers
+indwelling catheter	requires	regular handwashing
+indwelling catheter	can cause	trauma to the urethra
+indwelling catheter	may result in	encrustation of the catheter
+indwelling catheter	necessitates	regular emptying of the drainage bag
+indwelling catheter	requires	proper catheter placement
+indwelling catheter	can lead to	urinary retention
+indwelling catheter	is commonly used	in patients with urinary obstruction
+indwelling catheter	should be	secured to prevent accidental removal
+indwelling catheter	can cause	discomfort during use
+indwelling catheter	may cause	leakage around the catheter site
+indwelling catheter	necessitates	regular monitoring of urine output
+indwelling catheter	requires	regular flushing
+indwelling catheter	can result in	catheter-associated bacteriuria
+indwelling catheter	can cause	allergic reactions to latex
+indwelling catheter	is associated with	an increased risk of falls
+indwelling catheter	should be changed	by a trained healthcare professional
+indwelling catheter	can be	inserted through a surgical incision
+indwelling catheter	can be	used for continuous bladder irrigation
+indwelling catheter	requires	regular documentation of care
+indwelling catheter	can lead to	bladder spasms
+indwelling catheter	is often used	in critically ill patients
+indwelling catheter	requires	proper hand hygiene during insertion
+indwelling catheter	can result in	urethral trauma
+indwelling catheter	is commonly used	in long-term care facilities
+indwelling catheter	necessitates	proper perineal care to prevent infection
+indwelling catheter	should be	changed based on clinical indications
+indwelling catheter	can cause	bladder perforation
+indwelling catheter	may cause	pain or discomfort during removal
+indwelling catheter	necessitates	proper positioning to prevent kinking
+indwelling catheter	requires	regular assessment for complications
+indwelling catheter	can lead to	pressure ulcer formation
+indwelling catheter	is commonly used	in patients with urinary retention
+indwelling catheter	requires	regular emptying and cleaning of the drainage bag
+indwelling catheter	can cause	blood clots in the urinary tract
+indwelling catheter	is associated with	impaired mobility
+indwelling catheter	should be changed	as per healthcare provider's recommendations
+indwelling catheter	may cause	bladder spasms during insertion
+indwelling catheter	needs	proper stabilization to prevent displacement
+indwelling catheter	is commonly used	in patients with neurogenic bladder dysfunction
+indwelling catheter	requires	regular lubrication during insertion
+indwelling catheter	can result in	urethral erosion
+indwelling catheter	is associated with	an increased risk of catheter-associated urinary tract infections
+indwelling catheter	requires	regular monitoring for signs of infection
+indwelling catheter	can cause	urinary leakage around the catheter
+indwelling catheter	may result in	urinary tract obstruction
+indwelling catheter	should be	changed regularly to prevent infection
+indwelling catheter	necessitates	proper hand hygiene during insertion
+indwelling catheter	requires	regular assessment of urine output
+indwelling catheter	can lead to	urinary tract calculi
+indwelling catheter	can cause	urethral bleeding during removal
+indwelling catheter	necessitates	proper catheter care to prevent infection
+indwelling catheter	should be	secured to prevent tension on the catheter
+indwelling catheter	can be	inserted by a trained healthcare professional
+indwelling catheter	should be changed	as per institutional policy
+indwelling catheter	is associated with	a higher risk of pressure ulcers
+indwelling catheter	requires	regular hand hygiene
+indwelling catheter	can cause	trauma to the urethra
+indwelling catheter	may result in	encrustation of the catheter
+indwelling catheter	necessitates	regular emptying and cleaning of the drainage bag
+indwelling catheter	requires	proper catheter placement to avoid complications
+indwelling catheter	can lead to	urinary retention
+indwelling catheter	is commonly used	in patients with urinary obstruction
+indwelling catheter	should be	secured to prevent accidental removal
+indwelling catheter	can cause	discomfort during use
+indwelling catheter	may cause	leakage around the catheter site
+indwelling catheter	necessitates	regular monitoring of urine output to assess renal function
+indwelling catheter	requires	regular flushing to maintain patency
+indwelling catheter	can result in	catheter-associated bacteriuria
+indwelling catheter	can cause	allergic reactions to latex
+indwelling catheter	is associated with	an increased risk of falls
+indwelling catheter	should be changed	based on clinical indications and patient's condition
+indwelling catheter	can be	inserted through a surgical incision
+indwelling catheter	can be	used for continuous bladder irrigation
+indwelling catheter	requires	regular documentation of care
+indwelling catheter	can lead to	bladder spasms during insertion
+indwelling catheter	is commonly used	in patients requiring long-term urinary drainage
+indwelling catheter	necessitates	proper hand hygiene during insertion to prevent infection
+indwelling catheter	can result in	urethral trauma
+indwelling catheter	is commonly used	in home care settings
+indwelling catheter	can cause	bladder perforation during insertion
+indwelling catheter	may cause	pain or discomfort during removal
+indwelling catheter	necessitates	proper positioning to prevent kinking and obstruction
+indwelling catheter	requires	regular assessment for complications and signs of infection
+indwelling catheter	can lead to	pressure ulcer formation if not properly managed
+indwelling catheter	is commonly used	in patients with urinary retention due to benign prostatic hyperplasia
+indwelling catheter	requires	regular emptying and cleaning of the drainage bag to prevent infection
+indwelling catheter	can cause	blood clots in the urinary tract
+indwelling catheter	is associated with	impaired mobility and increased risk of falls
+indwelling catheter	should be changed	as per healthcare provider's recommendations and institutional policy
+indwelling catheter	may cause	bladder spasms during insertion
+indwelling catheter	needs	proper stabilization to prevent displacement and accidental removal
+indwelling catheter	is commonly used	in patients with neurogenic bladder dysfunction
+indwelling catheter	requires	regular lubrication during insertion to reduce discomfort
+indwelling catheter	can result in	urethral erosion and stricture formation
+indwelling catheter	is associated with	an increased risk of catheter-associated urinary tract infections if proper care is not maintained
+indwelling catheter	requires	regular monitoring for signs of infection such as fever or cloudy urine
+indwelling catheter	can cause	urinary leakage around the catheter if not secured properly
+indwelling catheter	may result in	urinary tract obstruction if not properly managed
+indwelling catheter	should be	changed regularly to prevent infection and ensure proper functioning
+indwelling catheter	necessitates	proper hand hygiene during insertion and care
+indwelling catheter	requires	regular assessment of urine output to evaluate renal function
+indwelling catheter	can lead to	urinary tract calculi if not flushed regularly
+indwelling catheter	can cause	urethral bleeding during removal if not done carefully
+indwelling catheter	necessitates	proper catheter care to prevent infection and complications
+indwelling catheter	should be	secured to prevent tension on the catheter and accidental removal
+indwelling catheter	can be	inserted by a trained healthcare professional or experienced nurse
+indwelling catheter	should be changed	as per institutional policy or based on clinical indications
+indwelling catheter	is associated with	a higher risk of pressure ulcers if not properly managed
+indwelling catheter	requires	regular hand hygiene to prevent infection
+indwelling catheter	can cause	trauma to the urethra if not inserted carefully
+indwelling catheter	may result in	encrustation of the catheter if not properly maintained
+indwelling catheter	necessitates	regular emptying and cleaning of the drainage bag to prevent infection and blockage
+indwelling catheter	requires	proper catheter placement to avoid complications and ensure proper functioning
+indwelling catheter	can lead to	urinary retention if not managed appropriately
+indwelling catheter	is commonly used	in patients with urinary obstruction or incontinence
+indwelling catheter	should be	secured to prevent accidental removal and discomfort during use
+indwelling catheter	can cause	leakage around the catheter site if not secured properly
+indwelling catheter	necessitates	regular monitoring of urine output to assess renal function and hydration status
+indwelling catheter	requires	regular flushing to maintain patency and prevent blockage
+indwelling catheter	can result in	catheter-associated bacteriuria if not properly cared for
+indwelling catheter	can cause	allergic reactions to latex in susceptible individuals
+indwelling catheter	is associated with	an increased risk of falls in elderly or debilitated patients
+indwelling catheter	should be changed	based on clinical indications	patient's condition	and institutional policy
+indwelling catheter	can be	inserted through a surgical incision in certain cases
+indwelling catheter	can be	used for continuous bladder irrigation in selected patients
+indwelling catheter	requires	regular documentation of care for proper record-keeping
+indwelling catheter	can lead to	bladder spasms during insertion if not properly managed
+indwelling catheter	is commonly used	in patients requiring long-term urinary drainage such as those with end-stage renal disease
+indwelling catheter	necessitates	proper hand hygiene during insertion to prevent infection and complications
+indwelling catheter	can result in	urethral trauma if not inserted carefully
+indwelling catheter	is commonly used	in home care settings for patients who require urinary catheterization
+indwelling catheter	can cause	bladder perforation during insertion if not done carefully
+indwelling catheter	may cause	pain or discomfort during removal if not done gently
+indwelling catheter	necessitates	proper positioning to prevent kinking and obstruction of urine flow
+indwelling catheter	requires	regular assessment for complications such as catheter-related bloodstream infections
+indwelling catheter	can lead to	pressure ulcer formation if not properly managed and positioned
+indwelling catheter	is commonly used	in patients with urinary retention due to benign prostatic hyperplasia or other causes
+indwelling catheter	requires	regular emptying and cleaning of the drainage bag to prevent infection and odor
+indwelling catheter	can cause	blood clots in the urinary tract if not flushed regularly
+indwelling catheter	is associated with	impaired mobility and an increased risk of falls
+indwelling catheter	should be changed	as per healthcare provider's recommendations	institutional policy	and patient's condition
+indwelling catheter	may cause	bladder spasms during insertion if not managed properly
+indwelling catheter	needs	proper stabilization to prevent displacement and accidental removal
+indwelling catheter	is commonly used	in patients with neurogenic bladder dysfunction or other bladder disorders
+indwelling catheter	requires	regular lubrication during insertion to minimize discomfort and trauma
+indwelling catheter	can result in	urethral erosion and stricture formation if not managed appropriately
+indwelling catheter	is associated with	an increased risk of catheter-associated urinary tract infections if proper care and hygiene are not maintained
+indwelling catheter	requires	regular monitoring for signs of infection such as fever or cloudy urine
+indwelling catheter	can cause	urinary leakage around the catheter if not secured properly or if the balloon is deflated
+indwelling catheter	may result in	urinary tract obstruction or bladder stones if not properly managed
+indwelling catheter	should be	changed regularly to prevent infection	maintain patency	and ensure optimal functioning

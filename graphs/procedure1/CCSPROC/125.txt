@@ -1,0 +1,167 @@
+excision	is a	medical procedure
+cervix	is a part of	uterus
+excision	can be done on	cervix
+excision	can be done on	uterus
+excision	is used for	medical treatment
+excision	can be done for	cancer
+excision	can be done for	abnormal cells
+cervix	can develop	abnormal cells
+cervix	can develop	cancer
+excision	can remove	abnormal cells
+excision	can remove	cancer
+excision	can be performed for	management of bleeding
+excision	can be performed for	management of pain
+excision	can be performed for	management of infections
+cervix	is the lower part of	uterus
+cervix	connects	uterus to the vagina
+cervix	is involved in	childbirth
+uterus	is involved in	menstruation
+uterus	is involved in	pregnancy
+uterus	is removed in	hysterectomy
+hysterectomy	is a	surgery
+hysterectomy	is performed for	various reasons
+hysterectomy	can treat	uterine fibroids
+hysterectomy	can treat	endometriosis
+hysterectomy	can treat	uterine prolapse
+hysterectomy	can treat	gynecologic cancer
+hysterectomy	can treat	abnormal vaginal bleeding
+hysterectomy	can treat	chronic pelvic pain
+hysterectomy	can treat	adenomyosis
+hysterectomy	can treat	heavy menstrual bleeding
+hysterectomy	can treat	pelvic inflammatory disease
+hysterectomy	can treat	ovarian cysts
+hysterectomy	can treat	precancerous conditions
+hysterectomy	can treat	tubal ligation
+hysterectomy	can treat	cervical dysplasia
+hysterectomy	can treat	uterine polyps
+hysterectomy	can treat	pelvic adhesions
+excision	is a	surgical procedure
+excision	requires	anesthesia
+excision	is performed by	a surgeon
+excision	may lead to	scarring
+excision	may require	recovery time
+excision	may have	complications
+excision	can be performed using	minimally invasive techniques
+excision	can be performed using	laparoscopy
+excision	can be performed using	robot-assisted surgery
+excision	can be performed using	abdominal incision
+excision	can be performed using	vaginal approach
+excision	requires	pre-operative evaluation
+excision	may require	post-operative follow-up
+excision	is usually done in	hospital setting
+excision	can be done under	general anesthesia
+excision	can be done under	regional anesthesia
+excision	can be done under	local anesthesia
+excision	may require	blood transfusion
+excision	may result in	infertility
+excision	may affect	sexual function
+excision	may affect	hormone levels
+excision	can be combined with	other procedures
+excision	may require	pelvic floor physical therapy
+excision	may require	hormone replacement therapy
+excision	may require	dietary changes
+excision	increases the risk of	bladder or bowel injury
+excision	can cause	temporary discomfort
+excision	can cause	temporary bleeding
+excision	can cause	temporary pain
+excision	can cause	infection
+excision	can cause	blood clots
+excision	can cause	anesthesia-related complications
+excision	can cause	post-operative complications
+excision	can cause	surgical site infection
+excision	can cause	wound dehiscence
+excision	can cause	urinary tract infection
+excision	can cause	deep vein thrombosis
+excision	can cause	organ damage
+excision	can cause	seroma
+excision	can cause	hematoma
+excision	can cause	nerve damage
+excision	can cause	injury to nearby structures
+excision	can cause	allergic reactions
+excision	can cause	bowel obstruction
+excision	can cause	hernia formation
+excision	can cause	delayed wound healing
+excision	can cause	pulmonary embolism
+excision	can cause	cardiovascular complications
+excision	can cause	abdominal pain
+excision	can cause	urinary incontinence
+excision	can cause	fecal incontinence
+excision	is a	procedure
+cervix	is part of	uterus
+excision	performed on	cervix
+excision	performed on	uterus
+excision	can treat	cervical cancer
+excision	can treat	uterine cancer
+cervix	vulnerable to	cancer
+uterus	vulnerable to	cancer
+excision	can lead to	infertility
+excision	can lead to	early menopause
+excision	can cause	bleeding
+excision	can cause	infection
+excision	can cause	pain
+excision	can cause	scarring
+excision	can require	hospitalization
+excision	can require	anesthesia
+excision	can have	complications
+excision	can result in	improved prognosis
+excision	can result in	decreased mortality
+excision	can result in	improved quality of life
+excision	can result in	reduced recurrence
+excision	can require	follow-up care
+excision	can require	hormone therapy
+excision	can require	physical therapy
+excision	can require	counseling
+excision	can require	support services
+excision	can require	emotional support
+excision	can require	rehabilitation
+cervix	can be affected by	HPV infection
+cervix	can be affected by	human papillomavirus
+cervical cancer	can cause	symptoms
+cervical cancer	can cause	abnormal bleeding
+cervical cancer	can cause	pelvic pain
+cervical cancer	can cause	pain during sex
+cervical cancer	can cause	vaginal discharge
+cervical cancer	can cause	weight loss
+cervical cancer	can cause	fatigue
+cervical cancer	can cause	loss of appetite
+cervical cancer	can cause	swollen legs
+cervical cancer	can cause	back pain
+cervical cancer	can cause	bone pain
+cervical cancer	can cause	urinary problems
+cervical cancer	can cause	kidney problems
+cervical cancer	can cause	bladder problems
+cervical cancer	can cause	bowel problems
+cervical cancer	can cause	lymph node enlargement
+cervical cancer	can cause	enlarged lymph nodes
+cervical cancer	can cause	distant metastasis
+cervical cancer	can cause	abdominal or pelvic mass
+cervical cancer	can cause	hydronephrosis
+cervical cancer	can cause	fistulas
+cervical cancer	can cause	bone fractures
+cervical cancer	can cause	anemia
+cervical cancer	can cause	cachexia
+cervical cancer	can cause	paraneoplastic syndromes
+uterine cancer	can cause	symptoms
+uterine cancer	can cause	abnormal vaginal bleeding
+uterine cancer	can cause	pelvic pain
+uterine cancer	can cause	pain during sex
+uterine cancer	can cause	weight loss
+uterine cancer	can cause	fatigue
+uterine cancer	can cause	loss of appetite
+uterine cancer	can cause	swollen legs
+uterine cancer	can cause	back pain
+uterine cancer	can cause	bone pain
+uterine cancer	can cause	urinary problems
+uterine cancer	can cause	kidney problems
+uterine cancer	can cause	bladder problems
+uterine cancer	can cause	bowel problems
+uterine cancer	can cause	lymph node enlargement
+uterine cancer	can cause	enlarged lymph nodes
+uterine cancer	can cause	distant metastasis
+uterine cancer	can cause	abdominal or pelvic mass
+uterine cancer	can cause	hydronephrosis
+uterine cancer	can cause	fistulas
+uterine cancer	can cause	bone fractures
+uterine cancer	can cause	anemia
+uterine cancer	can cause	cachexia
+uterine cancer	can cause	paraneoplastic syndromes

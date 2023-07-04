@@ -1,0 +1,196 @@
+d&c	is a	medical procedure
+d&c	used for	diagnosis
+d&c	used for	treatment
+d&c	performed by	gynecologist
+d&c	can detect	abnormal uterine bleeding
+d&c	can detect	uterine polyps
+d&c	can detect	endometrial cancer
+d&c	can treat	heavy menstrual bleeding
+d&c	can treat	miscarriage
+d&c	can treat	endometriosis
+d&c	can treat	uterine fibroids
+d&c	can cause	infection
+d&c	can cause	uterine perforation
+d&c	can cause	cervical laceration
+d&c	can cause	Asherman's syndrome
+d&c	can be done	under local anesthesia
+d&c	can be done	under general anesthesia
+d&c	limits the	risk of uterine scarring
+d&c	increases the	risk of preterm birth
+d&c	may require	hospitalization
+d&c	may necessitate	blood transfusion
+d&c	may result in	cramping
+d&c	may result in	spotting
+d&c	can be performed	in an outpatient setting
+d&c	followed by	hysteroscopy
+hysteroscopy	is a	follow-up procedure
+hysteroscopy	used for	visualization of the uterus
+hysteroscopy	can detect	fibroids
+hysteroscopy	can detect	polyps
+hysteroscopy	can detect	adhesions
+hysteroscopy	can detect	septum
+hysteroscopy	can be combined	with endometrial biopsy
+endometrial biopsy	is a	follow-up procedure
+endometrial biopsy	used for	obtaining tissue sample
+endometrial biopsy	can detect	endometrial hyperplasia
+endometrial biopsy	can detect	endometrial cancer
+endometrial biopsy	can detect	hormonal imbalances
+endometrial biopsy	can cause	pain
+endometrial biopsy	can cause	bleeding
+endometrial biopsy	can cause	infection
+endometrial biopsy	can be performed	in outpatient setting
+endometrial biopsy	may require	anesthesia
+endometrial biopsy	may require	dilation of the cervix
+endometrial biopsy	can be done	via hysteroscopy
+endometrial biopsy	can be done	via pipelle
+pipelle	is a	tool used for endometrial biopsy
+pipelle	can retrieve	tissue samples
+pipelle	can cause	minimal discomfort
+pipelle	can be done	in outpatient setting
+pipelle	does not require	anesthesia
+pipelle	does not require	dilation of the cervix
+d&c	can be used	as a treatment for polycystic ovary syndrome
+d&c	can be used	as a treatment for adenomyosis
+d&c	can be used	as a treatment for uterine cancer
+d&c	can be used	as a treatment for uterine infections
+d&c	should not be performed	during pregnancy
+d&c	should be avoided	in case of cervical inflammation
+d&c	should be avoided	in presence of pelvic infection
+d&c	contraindicated	in patients with certain heart conditions
+d&c	contraindicated	in patients on blood thinners
+d&c	has	potential risks and complications
+d&c	has	low rate of complications
+d&c	is	commonly performed
+d&c	can lead	to infertility
+d&c	can improve	fertility
+d&c	requires	follow-up care
+follow-up care	may include	monitoring for infection
+follow-up care	may include	evaluation of tissue pathology
+follow-up care	may include	discussion of results
+follow-up care	may include	planning of further treatment
+follow-up care	is important	for patient's recovery
+patient	should be	properly informed about the procedure
+patient	should be	informed about potential risks
+patient	should be	educated about aftercare
+patient	comfort	should be prioritized during the procedure
+patient	comfort	should be ensured	during recovery
+patient	should be	monitored for complications
+patient	should be	provided with post-procedure instructions
+gynecologist	should have	expertise in performing d&c
+gynecologist	should discuss	alternatives to d&c
+gynecologist	should provide	pre-procedure counseling
+gynecologist	should evaluate	patient's medical history
+gynecologist	should consider	patient's preferences
+gynecologist	should communicate	risks and benefits of the procedure
+gynecologist	should explain	expected outcomes
+diagnostic dilatation and curettage	is a	medical procedure
+diagnostic dilatation and curettage	used for	diagnosis
+d&c	involves	dilatation of the cervix
+d&c	involves	curettage of the uterine lining
+d&c	can be used to	diagnose uterine polyps
+d&c	can be used to	diagnose endometrial hyperplasia
+d&c	can be used to	diagnose uterine cancer
+d&c	can be used to	remove uterine polyps
+d&c	can be used to	remove the uterine lining
+d&c	can be used to	remove uterine fibroids
+d&c	can be used to	remove retained products of conception
+d&c	can cause	perforation of the uterus
+d&c	can lead to	infection
+d&c	may be followed by	bleeding
+d&c	is performed under	anesthesia
+d&c	is commonly done in	gynecology
+d&c	can be used for	abortion
+d&c	can be used for	sterilization
+d&c	can be used for	endometrial ablation
+d&c	can be used for	tissue sampling
+d&c	can be performed	in a doctor's office
+d&c	can be performed	in a hospital
+d&c	can be performed	in an outpatient setting
+d&c	can be performed	in an operating room
+d&c	can be associated with	complications
+d&c	can be followed by	cramping
+d&c	can be followed by	pelvic pain
+d&c	can be followed by	fatigue
+d&c	can be followed by	mild fever
+d&c	can be followed by	emotional distress
+d&c	can be followed by	changes in menstrual cycle
+d&c	can be followed by	fertility complications
+d&c	can be followed by	scar tissue formation
+d&c	can be followed by	pelvic adhesions
+d&c	should be performed	by a trained healthcare provider
+d&c	should be performed	with proper sterilization techniques
+d&c	should be performed	with caution in certain medical conditions
+d&c	may not be	the definitive treatment for certain conditions
+d&c	may not be	suitable for all patients
+d&c	may be	contraindicated in certain cases
+d&c	carries a risk of	uterine perforation
+d&c	carries a risk of	infection
+d&c	carries a risk of	bleeding
+d&c	carries a risk of	anesthesia complications
+d&c	carries a risk of	complications related to pregnancy
+d&c	is recommended	after a miscarriage
+d&c	is recommended	for postpartum hemorrhage
+d&c	is recommended	for incomplete abortion
+d&c	is recommended	for abnormal uterine bleeding
+d&c	is recommended	for certain infertility evaluations
+d&c	is recommended	for endometrial biopsy
+d&c	is recommended	for polyp removal
+d&c	is recommended	for tissue removal after a delivery
+d&c	is recommended	for tissue removal after an abortion
+d&c	is recommended	for tissue removal after a molar pregnancy
+d&c	can be	a traumatic experience for the patient
+d&c	can lead to	emotional distress
+d&c	can lead to	anxiety
+d&c	can lead to	fear
+d&c	can lead to	uncertainty
+d&c	can lead to	grief
+d&c	can lead to	sadness
+d&c	can lead to	anger
+d&c	can lead to	guilt
+d&c	can lead to	depression
+d&c	can lead to	changes in body image
+d&c	can lead to	changes in self-esteem
+d&c	can lead to	changes in sexuality
+d&c	can lead to	changes in relationships
+d&c	can lead to	changes in fertility beliefs
+d&c	can lead to	changes in future family planning
+d&c	can lead to	changes in personal identity
+d&c	can lead to	changes in mental health
+d&c	can lead to	changes in emotional well-being
+d&c	can lead to	changes in quality of life
+d&c	can lead to	changes in overall health
+d&c	can lead to	changes in social functioning
+d&c	can lead to	changes in occupational functioning
+d&c	can lead to	changes in spiritual beliefs
+d&c	can lead to	changes in existential beliefs
+d&c	can lead to	changes in sense of control
+d&c	can lead to	changes in resilience
+d&c	can lead to	changes in coping strategies
+d&c	can lead to	changes in social support
+d&c	can lead to	changes in self-care behaviors
+d&c	can lead to	changes in self-advocacy
+d&c	can lead to	changes in healthcare-seeking behaviors
+d&c	can affect	the patient's daily activities
+d&c	can affect	the patient's work performance
+d&c	can affect	the patient's family relationships
+d&c	can affect	the patient's social interactions
+d&c	can affect	the patient's emotional well-being
+d&c	can affect	the patient's mental health
+d&c	can affect	the patient's future reproductive plans
+d&c	can affect	the patient's body image
+d&c	can affect	the patient's overall quality of life
+d&c	requires	postoperative care
+d&c	requires	follow-up appointments
+d&c	requires	monitoring for complications
+d&c	requires	monitoring for infection
+d&c	requires	monitoring for bleeding
+d&c	requires	pain management
+d&c	requires	emotional support
+d&c	requires	education about the procedure
+d&c	requires	education about potential risks
+d&c	requires	counseling
+d&c	requires	contraception counseling
+d&c	requires	contraceptive planning
+d&c	requires	future fertility planning
+d&c	requires	psychological support
+d&c	requires	referral to support services

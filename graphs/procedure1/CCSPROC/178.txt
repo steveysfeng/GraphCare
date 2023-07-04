@@ -1,0 +1,265 @@
+ct scan chest	is a	medical procedure
+ct scan chest	used for	diagnosis
+ct scan chest	can detect	lung cancer
+ct scan chest	can detect	pneumonia
+ct scan chest	can detect	tuberculosis
+ct scan chest	can detect	pulmonary embolism
+ct scan chest	can detect	chronic obstructive pulmonary disease
+ct scan chest	can detect	interstitial lung disease
+ct scan chest	can detect	pneumonia
+ct scan chest	can detect	bronchiectasis
+ct scan chest	can detect	pleural effusion
+ct scan chest	can detect	lung nodule
+ct scan chest	can detect	lung fibrosis
+ct scan chest	can detect	lung abscess
+ct scan chest	can detect	mediastinal masses
+ct scan chest	can detect	aortic aneurysm
+ct scan chest	can detect	pulmonary hypertension
+ct scan chest	can detect	pneumothorax
+ct scan chest	can detect	emphysema
+ct scan chest	can detect	sarcoidosis
+ct scan chest	can detect	cystic fibrosis
+ct scan chest	can detect	lung metastasis
+ct scan chest	can detect	arterial stenosis
+ct scan chest	can detect	thoracic trauma
+ct scan chest	can detect	rib fractures
+ct scan chest	can detect	costochondritis
+ct scan chest	can detect	hiatal hernia
+ct scan chest	can detect	gastroesophageal reflux disease
+ct scan chest	can detect	esophageal cancer
+ct scan chest	can detect	lung collapse
+ct scan chest	can detect	tracheal stenosis
+ct scan chest	can detect	bronchial asthma
+ct scan chest	can detect	pulmonary fibrosis
+ct scan chest	can detect	lung emphysema
+ct scan chest	can detect	interstitial pneumonia
+ct scan chest	can detect	pneumomediastinum
+ct scan chest	can detect	bronchitis
+ct scan chest	can detect	pleural thickening
+ct scan chest	can detect	thoracic aortic aneurysm
+ct scan chest	can detect	pneumonia complications
+ct scan chest	can detect	lobar pneumonia
+ct scan chest	can detect	pleural infection
+ct scan chest	can detect	pleurisy
+ct scan chest	can detect	pleural tumors
+ct scan chest	can detect	lung cavities
+ct scan chest	can detect	lung consolidation
+ct scan chest	can detect	pleural effusion
+ct scan chest	can detect	pulmonary edema
+ct scan chest	can detect	lung masses
+ct scan chest	can detect	pulmonary nodules
+ct scan chest	can detect	mediastinal lymphadenopathy
+ct scan chest	can detect	bronchial obstruction
+ct scan chest	can detect	pulmonary artery occlusion
+ct scan chest	can detect	tracheal tumors
+ct scan chest	can detect	esophageal diverticulum
+ct scan chest	can detect	esophageal stricture
+ct scan chest	can detect	lung sequestration
+ct scan chest	can detect	aortic valve calcification
+ct scan chest	can detect	pulmonary valve stenosis
+ct scan chest	can detect	eosinophilic granuloma
+ct scan chest	can detect	hemangioma
+ct scan chest	can detect	lymphoma
+ct scan chest	can detect	thymoma
+ct scan chest	can detect	primary pulmonary hypertension
+ct scan chest	can detect	asthma exacerbation
+ct scan chest	can detect	pulmonary embolism
+ct scan chest	used to	monitor treatment response
+ct scan chest	used to	guide biopsy
+ct scan chest	used to	plan radiation therapy
+ct scan chest	used to	stage cancer
+ct scan chest	used to	evaluate lung function
+ct scan chest	used to	assess coronary artery disease
+ct scan chest	used to	assess aortic aneurysm
+ct scan chest	used to	investigate chest pain
+ct scan chest	used to	assess heart function
+ct scan chest	used to	assess blood vessels
+ct scan chest	used to	evaluate traumatic injuries
+ct scan chest	used to	assess response to medications
+ct scan chest	used to	diagnose pulmonary disease
+ct scan chest	used to	evaluate congenital abnormalities
+ct scan chest	used to	guide lung biopsy
+ct scan chest	used to	assess treatment response
+ct scan chest	can be	performed with contrast
+ct scan chest	can be	performed without contrast
+ct scan chest	requires	holding breath
+ct scan chest	requires	lying still
+ct scan chest	is	non-invasive
+ct scan chest	is	painless
+ct scan chest	is	quick
+ct scan chest	exposes	to radiation
+ct scan chest	may cause	allergic reaction
+ct scan chest	may cause	kidney damage
+ct scan chest	may cause	discomfort
+ct scan chest	may cause	dizziness
+ct scan chest	may cause	nausea
+ct scan chest	may cause	headache
+ct scan chest	looks for	abnormalities
+ct scan chest	produces	detailed images
+ct scan chest	uses	x-ray technology
+ct scan chest	uses	computer processing
+ct scan chest	provides	cross-sectional images
+ct scan chest	provides	3D images
+ct scan chest	uses	ionizing radiation
+ct scan chest	helps	with disease management
+ct scan chest	helps	with treatment planning
+ct scan chest	helps	with surgical planning
+ct scan chest	helps	with prognosis
+ct scan chest	helps	with follow-up care
+ct scan chest	helps	with clinical decision making
+ct scan chest	helps	with early detection
+ct scan chest	improves	diagnostic accuracy
+ct scan chest	improves	patient outcomes
+ct scan chest	improves	survival rates
+ct scan chest	improves	quality of life
+ct scan chest	detects	abnormalities
+ct scan chest	detects	diseases
+ct scan chest	detects	injuries
+ct scan chest	detects	tumors
+ct scan chest	detects	infections
+ct scan chest	detects	fractures
+ct scan chest	detects	blood clots
+ct scan chest	detects	blood vessel abnormalities
+ct scan chest	detects	lung diseases
+ct scan chest	detects	heart diseases
+ct scan chest	detects	mediastinal diseases
+ct scan chest	detects	esophageal diseases
+ct scan chest	aids in	early intervention
+ct scan chest	aids in	accurate diagnosis
+ct scan chest	aids in	disease prevention
+ct scan chest	aids in	treatment optimization
+ct scan chest	aids in	monitoring response to treatment
+ct scan chest	aids in	identifying complications
+ct scan chest	aids in	predicting prognosis
+ct scan chest	assists in	surgical planning
+ct scan chest	assists in	therapeutic decision making
+ct scan chest	assists in	personalized medicine
+CT scan chest	is a	medical procedure
+CT scan chest	used for	diagnosis
+CT scan chest	can detect	lung cancer
+CT scan chest	can detect	pneumonia
+CT scan chest	can detect	pulmonary embolism
+CT scan chest	can detect	tuberculosis
+CT scan chest	can detect	pleural effusion
+CT scan chest	can detect	interstitial lung disease
+CT scan chest	can detect	chest trauma
+CT scan chest	can detect	chest infections
+CT scan chest	can detect	lung nodule
+CT scan chest	can detect	emphysema
+CT scan chest	can detect	thoracic aortic aneurysm
+CT scan chest	can detect	mediastinal masses
+CT scan chest	can detect	lymphoma
+CT scan chest	can detect	metastasis
+CT scan chest	can detect	pulmonary fibrosis
+CT scan chest	can detect	sarcoidosis
+CT scan chest	can detect	hemothorax
+CT scan chest	can detect	pneumothorax
+CT scan chest	can detect	bronchiectasis
+CT scan chest	can detect	asbestosis
+CT scan chest	can detect	pulmonary edema
+CT scan chest	can detect	bronchitis
+CT scan chest	can detect	lung abscess
+CT scan chest	can detect	pleurisy
+CT scan chest	can detect	lung metastases
+CT scan chest	can detect	chest wall tumors
+CT scan chest	can detect	mediastinal tumors
+CT scan chest	can detect	thymoma
+CT scan chest	can detect	mesothelioma
+CT scan chest	can detect	cavitary lung lesion
+CT scan chest	can detect	fungal lung infections
+CT scan chest	can detect	benign lung tumor
+CT scan chest	can detect	lung cysts
+CT scan chest	can detect	pulmonary sequestration
+CT scan chest	can detect	diaphragmatic hernia
+CT scan chest	can detect	tracheal stenosis
+CT scan chest	can detect	tracheal tumors
+CT scan chest	can detect	pulmonary artery aneurysm
+CT scan chest	can detect	bronchial stenosis
+CT scan chest	can detect	bronchial tumors
+CT scan chest	can detect	bronchial atresia
+CT scan chest	can detect	thymic hyperplasia
+CT scan chest	can detect	tracheobronchomalacia
+CT scan chest	can detect	pulmonary artery malformation
+CT scan chest	can detect	pneumomediastinum
+CT scan chest	can detect	chest lymphadenopathy
+CT scan chest	can detect	tracheoesophageal fistula
+CT scan chest	can detect	pulmonary fibrosis
+CT scan chest	can detect	bronchogenic cyst
+CT scan chest	can detect	esophageal tumors
+CT scan chest	can detect	esophageal strictures
+CT scan chest	can detect	esophageal perforation
+CT scan chest	can detect	pericardial effusion
+CT scan chest	can detect	pericardial tamponade
+CT scan chest	can detect	pericardial constriction
+CT scan chest	can detect	pleural thickening
+CT scan chest	can detect	aortic dissection
+CT scan chest	can detect	aortic aneurysm
+CT scan chest	can detect	cardiac tumors
+CT scan chest	can detect	cardiomyopathy
+CT scan chest	can detect	coronary artery disease
+CT scan chest	can detect	pulmonary hypertension
+CT scan chest	can detect	pulmonary valve stenosis
+CT scan chest	can detect	pulmonary valve regurgitation
+CT scan chest	can detect	aortic valve stenosis
+CT scan chest	can detect	aortic valve regurgitation
+CT scan chest	can detect	mitral valve stenosis
+CT scan chest	can detect	mitral valve regurgitation
+CT scan chest	can detect	tricuspid valve stenosis
+CT scan chest	can detect	tricuspid valve regurgitation
+CT scan chest	can detect	pulmonary artery stenosis
+CT scan chest	can detect	pulmonary artery regurgitation
+CT scan chest	can detect	ventricular septal defect
+CT scan chest	can detect	atrial septal defect
+CT scan chest	can detect	patent ductus arteriosus
+CT scan chest	can detect	pericarditis
+CT scan chest	can detect	pulmonary valve atresia
+CT scan chest	can detect	tetralogy of Fallot
+CT scan chest	can detect	coarctation of aorta
+CT scan chest	can detect	transposition of great arteries
+CT scan chest	can detect	hypoplastic left heart syndrome
+CT scan chest	can detect	hypertrophic cardiomyopathy
+CT scan chest	can detect	dilated cardiomyopathy
+CT scan chest	can detect	restrictive cardiomyopathy
+CT scan chest	can detect	arrhythmogenic right ventricular dysplasia
+CT scan chest	can detect	myocarditis
+CT scan chest	can detect	cardiac amyloidosis
+CT scan chest	can detect	cardiac sarcoidosis
+CT scan chest	can detect	constrictive pericarditis
+CT scan chest	can detect	pulmonary artery hypertension
+CT scan chest	can detect	cor triatriatum
+CT scan chest	can detect	coronary anomalies
+CT scan chest	can detect	coronary artery fistula
+CT scan chest	can detect	coronary artery aneurysm
+CT scan chest	can detect	coronary artery dissection
+CT scan chest	can detect	coronary artery ectasia
+CT scan chest	can detect	coronary artery spasm
+CT scan chest	can detect	Kawasaki disease
+CT scan chest	can detect	myocardial bridge
+CT scan chest	can detect	takotsubo cardiomyopathy
+CT scan chest	can detect	acute coronary syndrome
+CT scan chest	can detect	ischemic cardiomyopathy
+CT scan chest	can detect	myocardial infarction
+CT scan chest	can detect	myocardial ischemia
+CT scan chest	can detect	pulmonary artery sarcoma
+CT scan chest	can detect	AV malformation
+CT scan chest	can detect	peripheral arterial disease
+CT scan chest	can detect	deep vein thrombosis
+CT scan chest	can detect	pulmonary embolism
+CT scan chest	can detect	aortic thrombus
+CT scan chest	can detect	carotid artery stenosis
+CT scan chest	can detect	carotid artery dissection
+CT scan chest	can detect	carotid artery aneurysm
+CT scan chest	can detect	subclavian artery stenosis
+CT scan chest	can detect	aortic coarctation
+CT scan chest	can detect	popliteal artery aneurysm
+CT scan chest	can detect	thoracic outlet syndrome
+CT scan chest	can detect	arteriovenous fistula
+CT scan chest	can detect	abdominal aortic aneurysm
+CT scan chest	can detect	visceral artery aneurysm
+CT scan chest	can detect	mesenteric ischemia
+CT scan chest	can detect	uterine artery aneurysm
+CT scan chest	can detect	kidney stones
+CT scan chest	can detect	pancreatic cancer
+CT scan chest	can detect	liver cancer
+CT scan chest	can detect	gallstones
+CT scan chest	can detect	bowel obstruction

@@ -1,0 +1,192 @@
+breast biopsy	is a	diagnostic procedure
+breast biopsy	used for	detecting breast abnormalities
+breast biopsy	can determine	presence of cancer
+breast biopsy	can guide	treatment decisions
+breast imaging	is a	diagnostic procedure
+breast imaging	used for	detecting breast abnormalities
+breast imaging	can provide	detailed images of breast tissue
+mammogram	is a	diagnostic procedure
+mammogram	used for	breast cancer screening
+mammogram	can detect	breast abnormalities
+ultrasound	is a	diagnostic procedure
+ultrasound	used for	imaging breast tissue
+ultrasound	can help	differentiate between fluid-filled cysts and solid masses
+MRI	is a	diagnostic procedure
+MRI	used for	evaluating breast abnormalities
+MRI	can provide	detailed images of breast tissue
+needle localization	is a	diagnostic procedure
+needle localization	used for	locating breast abnormalities for biopsy
+needle localization	can help	guide the biopsy procedure
+sentinel lymph node biopsy	is a	diagnostic procedure
+sentinel lymph node biopsy	used for	assessing breast cancer spread
+sentinel lymph node biopsy	can help	determine need for further treatment
+fine needle aspiration	is a	diagnostic procedure
+fine needle aspiration	used for	obtaining cells from breast abnormalities
+fine needle aspiration	can help	determine if a lump is fluid filled or solid
+excisional biopsy	is a	diagnostic procedure
+excisional biopsy	used for	removing an entire suspicious area for examination
+excisional biopsy	can provide	a larger sample for diagnosis
+stereotactic biopsy	is a	diagnostic procedure
+stereotactic biopsy	used for	imaging and sampling breast abnormalities
+stereotactic biopsy	can help	minimize the need for more invasive procedures
+core needle biopsy	is a	diagnostic procedure
+core needle biopsy	used for	obtaining a sample of breast tissue for analysis
+core needle biopsy	can help	determine if a lump is cancerous
+ductal lavage	is a	diagnostic procedure
+ductal lavage	used for	collecting cells from the milk ducts for analysis
+ductal lavage	can help	assess the risk of developing breast cancer
+nipple discharge examination	is a	diagnostic procedure
+nipple discharge examination	used for	evaluating abnormal nipple discharge
+nipple discharge examination	can help	identify the cause of the discharge
+breast thermography	is a	diagnostic procedure
+breast thermography	used for	detecting changes in breast temperature
+breast thermography	can help	identify areas of increased blood flow
+breast self-exam	is a	diagnostic procedure
+breast self-exam	used for	detecting changes or abnormalities in the breast
+breast self-exam	can help	identify potential signs of breast cancer
+biopsy	is a	diagnostic procedure
+biopsy	used for	obtaining tissue samples for analysis
+biopsy	can provide	definitive diagnosis of breast abnormalities
+magnetic resonance-guided biopsy	is a	diagnostic procedure
+magnetic resonance-guided biopsy	used for	sampling breast abnormalities seen on MRI
+magnetic resonance-guided biopsy	can help	guide treatment planning
+wire localization	is a	diagnostic procedure
+wire localization	used for	marking the area of concern for surgical removal
+wire localization	can help	guide the surgical procedure
+oncoplastic surgery	is a	surgical procedure
+oncoplastic surgery	used for	removing cancerous breast tissue while preserving breast appearance
+oncoplastic surgery	can help	improve cosmetic outcomes
+mastectomy	is a	surgical procedure
+mastectomy	used for	removing all breast tissue
+mastectomy	can be	therapeutic or prophylactic
+lumpectomy	is a	surgical procedure
+lumpectomy	used for	removing a cancerous tumor while preserving the breast
+lumpectomy	can be	followed by radiation therapy
+breast reconstruction	is a	surgical procedure
+breast reconstruction	used for	restoring the breast after mastectomy
+breast reconstruction	can be	performed with implants or tissue transfer
+chemotherapy	is a	treatment option
+chemotherapy	used for	killing cancer cells throughout the body
+chemotherapy	can be	neoadjuvant or adjuvant
+radiation therapy	is a	treatment option
+radiation therapy	used for	targeting and killing cancer cells
+radiation therapy	can be	external or internal
+hormone therapy	is a	treatment option
+hormone therapy	used for	blocking the effects of hormones on cancer cells
+hormone therapy	can be	used in hormone receptor-positive breast cancer
+targeted therapy	is a	treatment option
+targeted therapy	used for	targeting specific molecules involved in cancer growth
+targeted therapy	can be	based on genetic test results
+immunotherapy	is a	treatment option
+immunotherapy	used for	boosting the immune system to fight cancer cells
+immunotherapy	can be	used in certain types of breast cancer
+supportive care	is a	treatment approach
+supportive care	used for	managing side effects of treatment
+supportive care	can improve	quality of life
+breast biopsy	is a	diagnostic procedure
+breast biopsy	used for	breast cancer diagnosis
+breast biopsy	can detect	abnormal cells
+breast biopsy	can determine	tumor type
+breast biopsy	helps guide	treatment decisions
+diagnostic procedures	are used for	breast evaluation
+diagnostic procedures	include	mammogram
+mammogram	can detect	breast abnormalities
+mammogram	used for	breast cancer screening
+mammogram	is a	radiological procedure
+mammogram	involves	breast compression
+radiological procedure	uses	X-rays
+radiological procedure	can detect	calcifications
+calcifications	may indicate	breast cancer
+mammogram	may be followed by	ultrasound
+ultrasound	uses	sound waves
+ultrasound	can detect	breast masses
+ultrasound	helps evaluate	breast abnormalities
+breast ultrasound	is a	diagnostic procedure
+breast ultrasound	often used with	mammogram
+biopsy	involves	tissue sample collection
+biopsy	can be performed	on a breast lump
+biopsy	can be guided by	imaging techniques
+biopsy	helps confirm	breast cancer diagnosis
+imaging techniques	include	MRI
+MRI	provides	detailed images
+MRI	can detect	smaller tumors
+MRI	used for	high-risk individuals
+MRI	may require	contrast agent
+contrast agent	improves	image quality
+MRI	is a	non-invasive procedure
+breast biopsy	can be	surgical
+surgical biopsy	is an	invasive procedure
+surgical biopsy	requires	local anesthesia
+surgical biopsy	provides	tissue for analysis
+analysis	helps determine	cancer stage
+cancer stage	helps guide	treatment plan
+treatment plan	may include	surgery
+surgery	can be	lumpectomy
+surgery	can be	mastectomy
+lumpectomy	removes	tumor and surrounding tissue
+mastectomy	removes	entire breast
+breast biopsy	can be	needle biopsy
+needle biopsy	uses	thin needle
+needle biopsy	is a	minimally invasive procedure
+needle biopsy	provides	tissue sample
+tissue sample	sent to	laboratory
+laboratory	performs	histopathological analysis
+histopathological analysis	determines	presence of cancer cells
+presence of cancer cells	indicates	breast cancer
+needle biopsy	can be	ultrasound-guided
+ultrasound-guided biopsy	enhances	accuracy of sample collection
+ultrasound-guided biopsy	helps avoid	surrounding structures
+breast biopsy	can be	core needle biopsy
+core needle biopsy	uses	larger needle
+core needle biopsy	provides	larger tissue sample
+core needle biopsy	helpful for	histological subtyping
+histological subtyping	identifies	tumor type
+tumor type	helps determine	treatment plan
+breast biopsy	can be	vacuum-assisted biopsy
+vacuum-assisted biopsy	uses	vacuum suction
+vacuum-assisted biopsy	collects	multiple tissue samples
+vacuum-assisted biopsy	useful for	microcalcifications
+microcalcifications	may indicate	precancerous changes
+breast biopsy	can be	excisional biopsy
+excisional biopsy	removes	entire lump or suspicious area
+excisional biopsy	provides	complete tissue examination
+complete tissue examination	helps determine	cancer extent
+cancer extent	guides	treatment approach
+treatment approach	may involve	chemotherapy
+treatment approach	may involve	radiation therapy
+treatment approach	may involve	hormone therapy
+treatment approach	may involve	targeted therapy
+biopsy	can be	incisional biopsy
+incisional biopsy	removes	part of a tumor
+incisional biopsy	not recommended	for breast cancer
+incisional biopsy	performed	for rare conditions
+diagnostic procedures	can be	image-guided
+image-guided procedures	use	real-time imaging
+image-guided procedures	enhance	accuracy of sample collection
+image-guided procedures	include	stereotactic biopsy
+stereotactic biopsy	uses	mammogram or MRI guidance
+stereotactic biopsy	helpful for	non-palpable lesions
+non-palpable lesions	cannot be	felt during physical examination
+stereotactic biopsy	precise	in tissue targeting
+diagnostic procedures	can be	surgical
+surgical diagnostic procedures	include	sentinel lymph node biopsy
+sentinel lymph node biopsy	helps determine	spread of cancer
+sentinel lymph node biopsy	identifies	lymph node involvement
+lymph node involvement	guides	treatment decisions
+sentinel lymph node biopsy	minimizes	lymph node removal
+lymph node removal	reduces	risk of complications
+diagnostic procedures	can be	genetic testing
+genetic testing	analyzes	specific gene mutations
+genetic testing	helps assess	inherited risk factors
+inherited risk factors	associated with	breast cancer
+genetic testing	useful for	high-risk individuals
+diagnostic procedures	can include	fine needle aspiration
+fine needle aspiration	uses	thin needle
+fine needle aspiration	collects	cell samples
+cell samples	examined for	presence of cancer cells
+presence of cancer cells	indicates	malignancy
+diagnostic procedures	can include	ductal lavage
+ductal lavage	collects	cells from milk ducts
+ductal lavage	helpful for	high-risk individuals
+ductal lavage	can detect	abnormal cells
+abnormal cells	may indicate	precancerous changes

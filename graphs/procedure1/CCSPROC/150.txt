@@ -1,0 +1,212 @@
+division of joint capsule	is a	medical procedure
+division of joint capsule	used for	treatment
+joint capsule	can be	damaged
+division of joint capsule	may cause	pain
+ligament	can be	torn
+cartilage	can be	injured
+division of joint capsule	may require	rehabilitation
+division of joint capsule	can lead to	joint instability
+division of joint capsule	may result in	limited range of motion
+division of joint capsule	can lead to	joint degeneration
+division of joint capsule	may require	surgery
+division of joint capsule	can lead to	joint stiffness
+division of joint capsule	may cause	swelling
+division of joint capsule	can result in	joint dislocation
+division of joint capsule	may cause	joint laxity
+division of joint capsule	can lead to	arthritis
+division of joint capsule	may require	physical therapy
+division of joint capsule	can lead to	joint fusion
+division of joint capsule	may result in	joint deformity
+division of joint capsule	can cause	instability
+division of joint capsule	may require	joint replacement
+division of joint capsule	can lead to	joint malalignment
+division of joint capsule	may cause	muscle weakness
+division of joint capsule	can result in	joint effusion
+division of joint capsule	may cause	muscle atrophy
+division of joint capsule	can lead to	joint pain
+division of joint capsule	may require	corticosteroid injections
+division of joint capsule	can result in	joint stiffness
+division of joint capsule	may cause	joint inflammation
+division of joint capsule	can lead to	joint instability
+division of joint capsule	may require	assistive devices
+division of joint capsule	can cause	joint dysfunction
+division of joint capsule	may result in	joint laxity
+division of joint capsule	can lead to	joint dysfunction
+division of joint capsule	may cause	joint degeneration
+division of joint capsule	can result in	joint dysfunction
+division of joint capsule	may require	bracing
+division of joint capsule	can lead to	joint deformity
+division of joint capsule	may cause	joint malalignment
+division of joint capsule	can result in	joint dislocation
+division of joint capsule	may require	arthroscopic surgery
+division of joint capsule	can lead to	joint fusion
+division of joint capsule	may cause	joint instability
+division of joint capsule	can result in	joint instability
+division of joint capsule	may require	splinting
+division of joint capsule	can lead to	joint malalignment
+division of joint capsule	may cause	joint dysfunction
+division of joint capsule	can result in	joint degeneration
+division of joint capsule	may require	physical therapy
+division of joint capsule	can cause	joint stiffness
+division of joint capsule	may result in	joint pain
+division of joint capsule	can lead to	joint deformity
+division of joint capsule	may cause	joint inflammation
+division of joint capsule	can result in	joint instability
+division of joint capsule	may require	pain management
+division of joint capsule	can cause	joint fusion
+division of joint capsule	may result in	joint dislocation
+division of joint capsule	can lead to	joint dysfunction
+division of joint capsule	may cause	instability
+division of joint capsule	can result in	joint instability
+division of joint capsule	may require	assistive devices
+division of joint capsule	can lead to	joint degeneration
+division of joint capsule	may cause	muscle weakness
+division of joint capsule	can lead to	joint stiffness
+division of joint capsule	may require	joint replacement
+division of joint capsule	can result in	joint dysfunction
+division of joint capsule	may cause	joint deformity
+division of joint capsule	can lead to	joint dysfunction
+division of joint capsule	may result in	joint malalignment
+division of joint capsule	can cause	joint malalignment
+division of joint capsule	may require	arthroscopic surgery
+division of joint capsule	can lead to	joint instability
+division of joint capsule	may cause	joint stiffness
+division of joint capsule	can result in	joint instability
+division of joint capsule	may cause	joint inflammation
+division of joint capsule	can lead to	joint deformity
+division of joint capsule	may cause	joint instability
+division of joint capsule	can result in	joint degeneration
+division of joint capsule	may require	bracing
+division of joint capsule	can lead to	joint dislocation
+division of joint capsule	may cause	muscle atrophy
+division of joint capsule	can result in	joint dysfunction
+division of joint capsule	may require	assistive devices
+division of joint capsule	can cause	joint pain
+division of joint capsule	may result in	joint instability
+division of joint capsule	can lead to	joint malalignment
+division of joint capsule	may require	corticosteroid injections
+division of joint capsule	can result in	joint stiffness
+division of joint capsule	may cause	joint deformity
+division of joint capsule	can lead to	joint dysfunction
+division of joint capsule	may cause	joint malalignment
+division of joint capsule	can result in	joint dislocation
+division of joint capsule	may require	joint reconstruction
+division of joint capsule	can lead to	joint instability
+division of joint capsule	is a	surgical procedure
+division of joint capsule	used for	joint stabilization
+division of joint capsule	can treat	joint instability
+ligament	is a	connective tissue
+cartilage	is a	connective tissue
+ligament	can be injured in	division of joint capsule
+cartilage	can be injured in	division of joint capsule
+division of joint capsule	can cause	pain
+division of joint capsule	can lead to	arthritis
+arthritis	is a	joint condition
+division of joint capsule	may require	physical therapy
+physical therapy	can help with	joint rehabilitation
+division of joint capsule	can require	joint replacement
+joint replacement	is a	surgical procedure
+division of joint capsule	can result in	limited mobility
+limited mobility	can be caused by	division of joint capsule
+division of joint capsule	can necessitate	joint fusion
+joint fusion	is a	surgical procedure
+division of joint capsule	can lead to	joint degeneration
+joint degeneration	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint deformity
+joint deformity	can result from	division of joint capsule
+division of joint capsule	can result in	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can lead to	joint dislocation
+joint dislocation	can result from	division of joint capsule
+division of joint capsule	can result in	chronic pain
+chronic pain	can be caused by	division of joint capsule
+division of joint capsule	may require	joint injections
+joint injections	can be used for	pain management
+division of joint capsule	can lead to	joint inflammation
+joint inflammation	can result from	division of joint capsule
+division of joint capsule	can cause	joint swelling
+joint swelling	can be caused by	division of joint capsule
+division of joint capsule	can lead to	joint stiffness
+joint stiffness	can result from	division of joint capsule
+division of joint capsule	can result in	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint weakness
+joint weakness	can result from	division of joint capsule
+division of joint capsule	can lead to	decreased range of motion
+decreased range of motion	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint laxity
+joint laxity	can result from	division of joint capsule
+division of joint capsule	can result in	joint effusion
+joint effusion	can be caused by	division of joint capsule
+division of joint capsule	can lead to	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can result in	joint malalignment
+joint malalignment	can result from	division of joint capsule
+division of joint capsule	can cause	joint subluxation
+joint subluxation	can result from	division of joint capsule
+division of joint capsule	can result in	joint degeneration
+joint degeneration	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint clicking
+joint clicking	can be caused by	division of joint capsule
+division of joint capsule	can lead to	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint locking
+joint locking	can result from	division of joint capsule
+division of joint capsule	can lead to	joint crepitus
+joint crepitus	can result from	division of joint capsule
+division of joint capsule	can cause	joint hypermobility
+joint hypermobility	can result from	division of joint capsule
+division of joint capsule	can lead to	joint laxity
+joint laxity	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint instability
+joint instability	can result from	division of joint capsule
+division of joint capsule	can lead to	joint stiffness
+joint stiffness	can result from	division of joint capsule
+division of joint capsule	can result in	joint effusion
+joint effusion	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint malalignment
+joint malalignment	can result from	division of joint capsule
+division of joint capsule	can lead to	joint subluxation
+joint subluxation	can result from	division of joint capsule
+division of joint capsule	can cause	joint degeneration
+joint degeneration	can be caused by	division of joint capsule
+division of joint capsule	can result in	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint clicking
+joint clicking	can be caused by	division of joint capsule
+division of joint capsule	can lead to	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint locking
+joint locking	can result from	division of joint capsule
+division of joint capsule	can lead to	joint crepitus
+joint crepitus	can result from	division of joint capsule
+division of joint capsule	can cause	joint hypermobility
+joint hypermobility	can result from	division of joint capsule
+division of joint capsule	can lead to	joint laxity
+joint laxity	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint instability
+joint instability	can result from	division of joint capsule
+division of joint capsule	can lead to	joint stiffness
+joint stiffness	can result from	division of joint capsule
+division of joint capsule	can result in	joint effusion
+joint effusion	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint malalignment
+joint malalignment	can result from	division of joint capsule
+division of joint capsule	can lead to	joint subluxation
+joint subluxation	can result from	division of joint capsule
+division of joint capsule	can cause	joint degeneration
+joint degeneration	can be caused by	division of joint capsule
+division of joint capsule	can result in	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint clicking
+joint clicking	can be caused by	division of joint capsule
+division of joint capsule	can lead to	joint instability
+joint instability	can be caused by	division of joint capsule
+division of joint capsule	can cause	joint locking
+joint locking	can result from	division of joint capsule
+division of joint capsule	can lead to	joint crepitus
+joint crepitus	can result from	division of joint capsule
+division of joint capsule	can cause	joint hypermobility
+joint hypermobility	can result from	division of joint capsule
+division of joint capsule	can lead to	joint laxity
+joint laxity	can be caused by	division of joint capsule

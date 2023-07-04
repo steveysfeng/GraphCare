@@ -1,0 +1,190 @@
+CT scan	is a	medical procedure
+CT scan	used for	diagnosing medical conditions
+CT scan	can detect	tumors
+CT scan	provides	detailed images
+CT scan	is used in	radiology
+CT scan	can help	guide surgeries
+CT scan	is noninvasive
+CT scan	exposes	patient to radiation
+CT scan	is often performed	in a hospital
+CT scan	can be used	with contrast dye
+CT scan	is useful	for imaging the brain
+CT scan	is used	to study the abdomen
+CT scan	can visualize	blood vessels
+CT scan	is cost-effective
+CT scan	is relatively quick
+CT scan	can help	monitor treatment progress
+CT scan	is used	in emergency situations
+CT scan	can identify	bone fractures
+CT scan	helps	plan radiation therapy
+CT scan	can diagnose	pulmonary embolism
+CT scan	can evaluate	liver function
+CT scan	is used	in veterinary medicine
+CT scan	can identify	kidney stones
+CT scan	can assess	lung cancer
+CT scan	is a valuable tool	in research studies
+CT scan	can reveal	spinal abnormalities
+CT scan	helps	guide needle biopsies
+CT scan	can detect	infections
+CT scan	is used	to evaluate heart conditions
+CT scan	can diagnose	appendicitis
+CT scan	is used	in pediatric patients
+CT scan	can detect	aneurysms
+CT scan	helps	diagnose gallstones
+CT scan	can visualize	joint problems
+CT scan	can identify	brain hemorrhage
+CT scan	is used	to monitor lung diseases
+CT scan	can detect	abdominal aortic aneurysm
+CT scan	helps	diagnose pancreatic cancer
+CT scan	can evaluate	lymph nodes
+CT scan	is used	in forensic investigations
+CT scan	can detect	liver tumors
+CT scan	helps	guide biopsies
+CT scan	can diagnose	colon cancer
+CT scan	is used	to evaluate bone density
+CT scan	can visualize	bowel obstructions
+CT scan	can identify	brain tumors
+CT scan	helps	evaluate head trauma
+CT scan	can detect	spinal tumors
+CT scan	is used	in radiation oncology
+CT scan	can diagnose	lung infections
+CT scan	can evaluate	kidney function
+CT scan	helps	plan surgery
+CT scan	can detect	pancreatic cysts
+CT scan	is used	in cardiology
+CT scan	can visualize	abdominal organs
+CT scan	can identify	pulmonary nodules
+CT scan	helps	diagnose kidney disease
+CT scan	can diagnose	urinary tract infections
+CT scan	is used	in orthopedic evaluations
+CT scan	can detect	stomach ulcers
+CT scan	can evaluate	adrenal glands
+CT scan	helps	guide spinal injections
+CT scan	can visualize	sinus problems
+CT scan	can identify	spinal fractures
+CT scan	is used	in neurology
+CT scan	can detect	vascular diseases
+CT scan	helps	assess trauma
+CT scan	can diagnose	liver cirrhosis
+CT scan	can evaluate	prostate cancer
+CT scan	is used	in plastic surgery
+CT scan	can detect	bone infections
+CT scan	can identify	lung diseases
+CT scan	helps	diagnose gallbladder disease
+CT scan	can visualize	pelvic abnormalities
+CT scan	can detect	kidney cancer
+CT scan	is used	in radiation therapy planning
+CT scan	can diagnose	pancreatic tumors
+CT scan	helps	guide drainage procedures
+CT scan	can detect	kidney cysts
+CT scan	can evaluate	abdominal trauma
+CT scan	is used	in cancer staging
+CT scan	can visualize	liver lesions
+CT scan	can identify	brain aneurysms
+CT scan	helps	diagnose bone fractures
+CT scan	can diagnose	kidney stones
+CT scan	is used	in cardiovascular imaging
+CT scan	can detect	lung nodules
+CT scan	helps	guide tumor ablation
+CT scan	can diagnose	abdominal aortic aneurysm
+CT scan	can evaluate	lung function
+CT scan	is used	in radiation therapy
+CT scan	can detect	liver abscesses
+CT scan	helps	guide drainage tube placement
+CT scan	can visualize	bone tumors
+CT scan	can identify	spinal infections
+CT scan	is used	in sports medicine
+CT scan	can detect	gastrointestinal bleeding
+CT scan	can diagnose	brain tumors
+CT scan	helps	diagnose stroke
+CT scan	can detect	kidney stones
+CT scan	can evaluate	lung masses
+CT scan	is used	in interventional radiology
+CT scan	can visualize	pelvic fractures
+CT scan	can identify	brain injury
+CT scan	helps	guide biopsies
+CT scan	can detect	abdominal masses
+CT scan	can diagnose	liver metastases
+CT scan	is a	medical imaging procedure
+CT scan	used for	diagnosing medical conditions
+CT scan	can detect	tumors
+CT scan	can assess	organ function
+CT scan	can guide	surgical procedures
+CT scan	can be used with	contrast dye
+CT scan	can identify	fractures
+CT scan	can monitor	treatment response
+CT scan	can screen for	cancer
+CT scan	can localize	infections
+CT scan	can evaluate	blood flow
+CT scan	can visualize	soft tissues
+CT scan	can diagnose	lung diseases
+CT scan	can detect	blood clots
+CT scan	can identify	blockages
+CT scan	can determine	brain abnormalities
+CT scan	can measure	bone density
+CT scan	can assess	cardiac function
+CT scan	can detect	kidney stones
+CT scan	can evaluate	spinal injuries
+CT scan	can guide	radiation therapy
+CT scan	can visualize	lymph nodes
+CT scan	can detect	liver diseases
+CT scan	can monitor	vascular conditions
+CT scan	can identify	abdominal disorders
+CT scan	can guide	needle biopsies
+CT scan	can assess	joint injuries
+CT scan	can evaluate	gastrointestinal conditions
+CT scan	can detect	pancreatic diseases
+CT scan	can determine	prostate abnormalities
+CT scan	can measure	tumor size
+CT scan	can assess	bone fractures
+CT scan	can guide	catheter placement
+CT scan	can visualize	brain structures
+CT scan	can diagnose	musculoskeletal disorders
+CT scan	can detect	gallstones
+CT scan	can identify	vascular abnormalities
+CT scan	can evaluate	lung function
+CT scan	can monitor	tumor growth
+CT scan	can guide	interventional procedures
+CT scan	can visualize	the heart
+CT scan	can detect	spinal tumors
+CT scan	can determine	liver function
+CT scan	can measure	tumor volume
+CT scan	can assess	kidney function
+CT scan	can detect	bowel obstructions
+CT scan	can identify	lung nodules
+CT scan	can evaluate	renal conditions
+CT scan	can guide	biopsy procedures
+CT scan	can visualize	the spine
+CT scan	can diagnose	cardiac diseases
+CT scan	can detect	brain tumors
+CT scan	can identify	herniated discs
+CT scan	can determine	lung cancer stage
+CT scan	can measure	tumor markers
+CT scan	can assess	liver cirrhosis
+CT scan	can detect	prostate cancer
+CT scan	can guide	ablation therapies
+CT scan	can visualize	the lungs
+CT scan	can diagnose	bone infections
+CT scan	can detect	ovarian cysts
+CT scan	can identify	brain aneurysms
+CT scan	can determine	gastric abnormalities
+CT scan	can measure	tumor blood flow
+CT scan	can assess	abdominal trauma
+CT scan	can detect	renal tumors
+CT scan	can evaluate	pancreatic function
+CT scan	can guide	stent placement
+CT scan	can visualize	the abdomen
+CT scan	can diagnose	lung infections
+CT scan	can detect	adrenal masses
+CT scan	can identify	spinal stenosis
+CT scan	can determine	thyroid abnormalities
+CT scan	can measure	tumor response
+CT scan	can assess	trauma injuries
+CT scan	can detect	bladder stones
+CT scan	can monitor	tumor recurrence
+CT scan	can guide	drainage procedures
+CT scan	can visualize	the pelvis
+CT scan	can diagnose	liver tumors
+CT scan	can detect	kidney cancers
+CT scan	can identify	temporal bone abnormalities
+CT scan	can determine	lymphoma stage

@@ -1,0 +1,241 @@
+mammography	is a	medical procedure
+mammography	used for	breast cancer screening
+mammogram	is a type of	mammography
+mammogram	can detect	tumors
+mammography	can help in	early detection
+mammography	recommended for	women above 40
+mammography	may cause	discomfort
+mammography	should be done	regularly
+mammography	can help in	diagnosis
+mammography	can be	digital
+mammography	can be	3D
+mammography	can be	bilateral
+mammography	may require	compression of the breasts
+mammography	used in	screening programs
+mammography	can detect	calcifications
+mammography	can identify	abnormalities
+mammography	used alongside	ultrasound
+mammography	helps in	early intervention
+mammography	can lead to	false positives
+mammography	has	radiation exposure risks
+mammography	can help in	monitoring treatment effectiveness
+mammography	can help in	regular check-ups
+mammography	can guide	further investigations
+mammography	can help in	follow-up care
+mammography	can be	uncomfortable
+mammography	can be	time-consuming
+mammography	may require	repeat tests
+mammography	can be	life-saving
+mammography	may need	additional imaging
+mammography	can detect	breast density
+mammography	can help in	risk assessment
+mammography	can detect	microcalcifications
+mammography	can detect	architectural distortions
+mammography	can be	diagnostic
+mammography	can be	screening
+mammography	can be	adjunctive
+mammography	can help in	assessing treatment response
+mammography	can detect	DCIS (ductal carcinoma in situ)
+mammography	can help in	surgical planning
+mammography	can be	painless
+mammography	can help in	biopsy guidance
+mammography	can detect	invasive breast cancer
+mammography	can detect	non-invasive breast cancer
+mammography	can detect	breast masses
+mammography	can help in	early-stage detection
+mammography	can help in	prognosis assessment
+mammography	can assist in	treatment planning
+mammography	can aid in	treatment monitoring
+mammography	can help in	recurrence detection
+mammography	can assist in	radiation therapy
+mammography	can help in	surveillance
+mammography	can help in	tumor staging
+mammography	can guide	breast conservation therapy
+mammography	can detect	lymph node involvement
+mammography	can aid in	hormonal therapy
+mammography	can be	life-altering
+mammography	can identify	breast abnormalities
+mammography	can guide	image-guided biopsy
+mammography	may require	patient preparation
+mammography	can help in	genetic testing
+mammography	can assist in	adjuvant therapy
+mammography	can detect	breast edema
+mammography	can help in	treatment decision-making
+mammography	can be	cost-effective
+mammography	can detect	additional suspicious lesions
+mammography	can assist in	lymphedema detection
+mammography	can help in	patient counseling
+mammography	can guide	personalized medicine
+mammography	can be	low-dose
+mammography	can aid in	wound care
+mammography	can assist in	chemotherapy planning
+mammography	can help in	post-operative care
+mammography	can detect	axillary lymph node metastasis
+mammography	can detect	tumor margin
+mammography	can guide	neoadjuvant therapy
+mammography	can aid in	breast reconstruction
+mammography	can be	high-risk indicator
+mammography	can help in	cancer prevention
+mammography	can assist in	treatment adherence
+mammography	can detect	distant metastasis
+mammography	can detect	tumor size
+mammography	can guide	radiotherapy
+mammography	can help in	fertility preservation
+mammography	can assist in	hormone replacement therapy
+mammography	can detect	tumor grade
+mammography	can identify	breast asymmetry
+mammography	can guide	targeted therapies
+mammography	can aid in	immunotherapy
+mammography	can help in	patient education
+mammography	can detect	post-treatment changes
+mammography	can assist in	survivorship care
+mammography	can help in	lesion characterization
+mammography	can guide	supportive care
+mammography	can detect	tumor spread
+mammography	can detect	treatment side effects
+mammography	is a	medical procedure
+mammography	used for	breast cancer screening
+mammography	can detect	tumors
+mammography	can help with	early detection
+mammography	involves	X-ray imaging
+mammography	uses	low-dose radiation
+mammography	recommended for	women over 40
+mammography	recommended every	1-2 years
+mammography	can show	calcifications
+mammography	can identify	breast density
+mammography	is performed by	radiologists
+mammography	requires	breast compression
+mammography	has	digital and film options
+mammography	can cause	discomfort
+mammography	can lead to	false positives
+mammography	can lead to	false negatives
+mammography	should be followed by	further testing if abnormal
+mammography	may be used in conjunction with	ultrasound
+mammography	can be	painful
+mammography	can be	anxiety-inducing
+mammography	can be	done with 3D imaging
+mammography	helps in	early intervention
+mammography	relies on	breast tissue x-ray absorption
+mammography	can detect	microcalcifications
+mammography	can reveal	architectural distortions
+mammography	is considered	the gold standard for breast cancer screening
+mammography	can lead to	overdiagnosis
+mammography	can lead to	overtreatment
+mammography	has	different screening guidelines for high-risk individuals
+mammography	can vary in	sensitivity
+mammography	involves	image interpretation by radiologists
+mammography	requires	radiation shielding
+mammography	can have	variable accuracy depending on breast density
+mammography	is not	100% accurate
+mammography	can cause	radiation exposure
+mammography	can result in	false alarms
+mammography	can help	save lives
+mammography	can lead to	unnecessary biopsies
+mammography	can contribute to	early detection of non-invasive breast cancer
+mammography	can be	lifesaving
+mammography	can provide	clear images of breast tissue
+mammography	can detect	small tumors
+mammography	can help with	treatment planning
+mammography	can detect	changes in breast tissue
+mammography	can guide	needle biopsy
+mammography	can aid in	breast conservation surgery
+mammography	can be	time-consuming
+mammography	can have	higher false positive rates in younger women
+mammography	plays a role in	early detection of breast cancer
+mammography	can be	uncomfortable
+mammography	has	digital mammography as a newer technology
+mammography	has	2D and 3D options
+mammography	is used for	mammographic mass assessment
+mammography	is used for	density evaluation
+mammography	is used for	breast lesion characterization
+mammography	can detect	small calcifications
+mammography	is highly effective in	reducing breast cancer mortality
+mammography	can help with	follow-up after breast cancer treatment
+mammography	is a	routine screening tool
+mammography	is recommended along with	clinical breast exam
+mammography	can lead to	early detection of invasive breast cancer
+mammography	is used for	image-guided breast biopsy
+mammography	can be	essential for early diagnosis
+mammography	can be	life-changing
+mammography	can detect	masses or lumps in breast tissue
+mammography	can identify	signs of breast cancer
+mammography	can be	covered by insurance
+mammography	can help in	identifying high-risk individuals
+mammography	is recommended	annually for women over 40
+mammography	can help with	monitoring of breast cancer treatment
+mammography	can be	inconvenient for some women
+mammography	can be	a vital tool for breast cancer prevention
+mammography	can detect	breast changes before they are palpable
+mammography	can detect	small clusters of microcalcifications
+mammography	assists in	detection of non-palpable lesions
+mammography	can identify	breast abnormalities
+mammography	is essential for	breast health
+mammography	can help in	reducing breast cancer-related deaths
+mammography	can contribute to	improved survival rates
+mammography	can detect	bilateral breast cancers
+mammography	can provide	valuable information for further diagnostic workup
+mammography	can detect	early-stage breast cancer
+mammography	can help in	avoiding unnecessary surgeries
+mammography	can help with	monitoring of high-risk individuals
+mammography	is recognized as	an effective screening method
+mammography	is	non-invasive
+mammography	may require	additional imaging for better evaluation
+mammography	can detect	tumor size
+mammography	can help in	guiding treatment decisions
+mammography	can identify	breast asymmetry
+mammography	can be	life-saving
+mammography	can detect	early breast cancer
+mammography	can be	a part of breast cancer screening programs
+mammography	can be	a crucial step in early intervention
+mammography	can lead to	patient anxiety
+mammography	can detect	lobular carcinoma
+mammography	can help in	reducing breast cancer morbidity
+mammography	can result in	surgical intervention
+mammography	can help in	evaluating breast implants
+mammography	can be	time-sensitive
+mammography	can aid in	detection of breast microcalcifications
+mammography	can detect	changes in breast tissue density
+mammography	can miss	small tumors
+mammography	can lead to	unnecessary follow-up procedures
+mammography	can detect	early non-invasive breast cancer
+mammography	can assist in	staging of breast cancer
+mammography	is an	important tool in breast cancer care
+mammography	can detect	breast cancer in its early stages
+mammography	can help in	personalizing breast cancer treatment
+mammography	is recommended for	high-risk individuals
+mammography	can help in	determining the need for biopsy
+mammography	can lead to	further diagnostic evaluations
+mammography	can be	a part of breast cancer surveillance plan
+mammography	can be	crucial for early detection
+mammography	can be	a screening tool for male breast cancer
+mammography	can detect	other breast abnormalities
+mammography	can assist in	evaluating response to treatment
+mammography	can be	a life-saving examination
+mammography	can be	performed with tomosynthesis
+mammography	can identify	breast masses
+mammography	can help in	disease monitoring
+mammography	can be	a key component of breast health care
+mammography	can lead to	additional imaging for further evaluation
+mammography	can detect	ductal carcinoma in situ (DCIS)
+mammography	is not	foolproof
+mammography	can help in	evaluating response to neoadjuvant therapy
+mammography	can lead to	tissue sampling
+mammography	can detect	breast calcifications
+mammography	can guide	sentinel lymph node biopsy
+mammography	can detect	invasive breast cancer
+mammography	can be	a lifesaver
+mammography	can contribute to	early detection of breast abnormalities
+mammography	can be	covered by certain insurance plans
+mammography	can help in	personalized risk assessment
+mammography	can assist in	determining tumor size and location
+mammography	can help in	identifying breast cancer subtypes
+mammography	can lead to	early treatment initiation
+mammography	can lead to	potential benefits of breast-conserving surgery
+mammography	can be	an uncomfortable experience for some women
+mammography	can help in	detecting interval cancers
+mammography	can help in	identifying breast cancer recurrence
+mammography	can result in	biopsy recommendation
+mammography	can contribute to	improved prognosis
+mammography	can detect	non-palpable breast lesions
+mammography	can assist in	evaluating response to systemic therapy
+mammography	can be	a life-changing diagnostic test

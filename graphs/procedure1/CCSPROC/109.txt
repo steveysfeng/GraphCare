@@ -1,0 +1,207 @@
+procedures on the urethra	are	medical procedures
+procedures on the urethra	performed for	urinary tract problems
+procedures on the urethra	can treat	urethral strictures
+urethroplasty	is a type of	procedure on the urethra
+urethroplasty	used to	reconstruct the urethra
+urethral dilation	is a type of	procedure on the urethra
+urethral dilation	used to	widen the urethra
+urethrotomy	is a type of	procedure on the urethra
+urethrotomy	used to	remove scar tissue from the urethra
+cystoscopy	is a type of	procedure on the urethra
+cystoscopy	used for	visualizing the urethra
+cystoscopy	can diagnose	urethral abnormalities
+urethral catheterization	is a type of	procedure on the urethra
+urethral catheterization	used to	drain urine from the bladder
+urethral stent placement	is a type of	procedure on the urethra
+urethral stent placement	used to	keep the urethra open
+urethral diverticulectomy	is a type of	procedure on the urethra
+urethral diverticulectomy	used to	remove a urethral diverticulum
+urethral sling surgery	is a type of	procedure on the urethra
+urethral sling surgery	used to	treat stress urinary incontinence
+urethral bulking injections	is a type of	procedure on the urethra
+urethral bulking injections	used to	treat urinary incontinence
+urethral stricture dilation	is a type of	procedure on the urethra
+urethral stricture dilation	used to	widen a narrowed urethra
+urethral stricture incision	is a type of	procedure on the urethra
+urethral stricture incision	used to	treat urethral strictures
+urethral stricture excision	is a type of	procedure on the urethra
+urethral stricture excision	used to	remove a urethral stricture
+urethral stricture vaporization	is a type of	procedure on the urethra
+urethral stricture vaporization	used to	remove or shrink a urethral stricture
+urethral stricture resection	is a type of	procedure on the urethra
+urethral stricture resection	used to	remove a urethral stricture
+urethral stricture grafting	is a type of	procedure on the urethra
+urethral stricture grafting	used to	reconstruct the urethra
+urethral stricture buccal graft	is a type of	procedure on the urethra
+urethral stricture buccal graft	used to	reconstruct the urethra
+urethral stricture dorsal graft	is a type of	procedure on the urethra
+urethral stricture dorsal graft	used to	reconstruct the urethra
+urethral stricture urethroplasty	is a type of	procedure on the urethra
+urethral stricture urethroplasty	used to	reconstruct the urethra
+urethral stricture end-to-end anastomosis	is a type of	procedure on the urethra
+urethral stricture end-to-end anastomosis	used to	remove a urethral stricture
+urethral stricture urethral advancement flap	is a type of	procedure on the urethra
+urethral stricture urethral advancement flap	used to	remove a urethral stricture
+urethral stricture staged repair	is a type of	procedure on the urethra
+urethral stricture staged repair	used to	treat complex urethral strictures
+urethral stricture excision and primary anastomosis	is a type of	procedure on the urethra
+urethral stricture excision and primary anastomosis	used to	treat urethral strictures
+urethral stricture internal urethrotomy	is a type of	procedure on the urethra
+urethral stricture internal urethrotomy	used to	treat urethral strictures
+urethral stricture urethroplasty with buccal graft	is a type of	procedure on the urethra
+urethral stricture urethroplasty with buccal graft	used to	reconstruct the urethra
+urethral stricture urethroplasty with genital skin graft	is a type of	procedure on the urethra
+urethral stricture urethroplasty with genital skin graft	used to	reconstruct the urethra
+urethral stricture urethroplasty with penile skin graft	is a type of	procedure on the urethra
+urethral stricture urethroplasty with penile skin graft	used to	reconstruct the urethra
+urethral stricture urethral dilation	is a type of	procedure on the urethra
+urethral stricture urethral dilation	used to	treat urethral strictures
+urethral stricture urethral stent placement	is a type of	procedure on the urethra
+urethral stricture urethral stent placement	used to	keep the urethra open
+urethral stricture urethral diverticulectomy	is a type of	procedure on the urethra
+urethral stricture urethral diverticulectomy	used to	remove a urethral diverticulum
+urethral stricture urethral sling surgery	is a type of	procedure on the urethra
+urethral stricture urethral sling surgery	used to	treat stress urinary incontinence
+urethral stricture urethral bulking injections	is a type of	procedure on the urethra
+urethral stricture urethral bulking injections	used to	treat urinary incontinence
+urethral stricture urethral stricture dilation	is a type of	procedure on the urethra
+urethral stricture urethral stricture dilation	used to	widen a narrowed urethra
+urethral stricture urethral stricture incision	is a type of	procedure on the urethra
+urethral stricture urethral stricture incision	used to	treat urethral strictures
+urethral stricture urethral stricture excision	is a type of	procedure on the urethra
+urethral stricture urethral stricture excision	used to	remove a urethral stricture
+urethral stricture urethral stricture vaporization	is a type of	procedure on the urethra
+urethral stricture urethral stricture vaporization	used to	remove or shrink a urethral stricture
+urethral stricture urethral stricture resection	is a type of	procedure on the urethra
+urethral stricture urethral stricture resection	used to	remove a urethral stricture
+urethral stricture urethral stricture grafting	is a type of	procedure on the urethra
+urethral stricture urethral stricture grafting	used to	reconstruct the urethra
+urethral stricture urethral stricture buccal graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture buccal graft	used to	reconstruct the urethra
+urethral stricture urethral stricture dorsal graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture dorsal graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethroplasty	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethroplasty	used to	reconstruct the urethra
+urethral stricture urethral stricture end-to-end anastomosis	is a type of	procedure on the urethra
+urethral stricture urethral stricture end-to-end anastomosis	used to	remove a urethral stricture
+urethral stricture urethral stricture urethroplasty with buccal graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethroplasty with buccal graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethroplasty with genital skin graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethroplasty with genital skin graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethroplasty with penile skin graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethroplasty with penile skin graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral dilation	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral dilation	used to	treat urethral strictures
+urethral stricture urethral stricture urethral stent placement	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stent placement	used to	keep the urethra open
+urethral stricture urethral stricture urethral diverticulectomy	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral diverticulectomy	used to	remove a urethral diverticulum
+urethral stricture urethral stricture urethral sling surgery	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral sling surgery	used to	treat stress urinary incontinence
+urethral stricture urethral stricture urethral bulking injections	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral bulking injections	used to	treat urinary incontinence
+urethral stricture urethral stricture urethral stricture dilation	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture dilation	used to	widen a narrowed urethra
+urethral stricture urethral stricture urethral stricture incision	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture incision	used to	treat urethral strictures
+urethral stricture urethral stricture urethral stricture excision	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture excision	used to	remove a urethral stricture
+urethral stricture urethral stricture urethral stricture vaporization	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture vaporization	used to	remove or shrink a urethral stricture
+urethral stricture urethral stricture urethral stricture resection	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture resection	used to	remove a urethral stricture
+urethral stricture urethral stricture urethral stricture grafting	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture grafting	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture buccal graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture buccal graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture dorsal graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture dorsal graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture end-to-end anastomosis	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture end-to-end anastomosis	used to	remove a urethral stricture
+urethral stricture urethral stricture urethral stricture urethroplasty with buccal graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty with buccal graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty with genital skin graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty with genital skin graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty with penile skin graft	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethroplasty with penile skin graft	used to	reconstruct the urethra
+urethral stricture urethral stricture urethral stricture urethral dilation	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral dilation	used to	treat urethral strictures
+urethral stricture urethral stricture urethral stricture urethral stent placement	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral stent placement	used to	keep the urethra open
+urethral stricture urethral stricture urethral stricture urethral diverticulectomy	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral diverticulectomy	used to	remove a urethral diverticulum
+urethral stricture urethral stricture urethral stricture urethral sling surgery	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral sling surgery	used to	treat stress urinary incontinence
+urethral stricture urethral stricture urethral stricture urethral bulking injections	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral bulking injections	used to	treat urinary incontinence
+urethral stricture urethral stricture urethral stricture urethral stricture dilation	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral stricture dilation	used to	widen a narrowed urethra
+urethral stricture urethral stricture urethral stricture urethral stricture incision	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral stricture incision	used to	treat urethral strictures
+urethral stricture urethral stricture urethral stricture urethral stricture excision	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral stricture excision	used to	remove a urethral stricture
+urethral stricture urethral stricture urethral stricture urethral stricture vaporization	is a type of	procedure on the urethra
+urethral stricture urethral stricture urethral stricture urethral stricture vaporization	used to	remove or shrink a urethral stricture
+procedures on the urethra	are	medical procedures
+procedures on the urethra	used for	treatment
+urethral dilation	is a type of	procedures on the urethra
+urethral dilation	used for	urethral stricture
+urethrotomy	is a type of	procedures on the urethra
+urethrotomy	used for	urethral stricture
+urethral catheterization	is a type of	procedures on the urethra
+urethral catheterization	used for	urinary retention
+urethral stent placement	is a type of	procedures on the urethra
+urethral stent placement	used for	urethral stricture
+urethroplasty	is a type of	procedures on the urethra
+urethroplasty	used for	urethral stricture
+meatotomy	is a type of	procedures on the urethra
+meatotomy	used for	meatal stenosis
+urethroscopy	is a type of	procedures on the urethra
+urethroscopy	used for	diagnosis and treatment
+urethral reconstructive surgery	is a type of	procedures on the urethra
+urethral reconstructive surgery	used for	urethral stricture
+urethral diverticulectomy	is a type of	procedures on the urethra
+urethral diverticulectomy	used for	urethral diverticulum
+urethroplasty	is a type of	procedures on the urethra
+urethroplasty	used for	urethral stricture
+urethral sling surgery	is a type of	procedures on the urethra
+urethral sling surgery	used for	stress urinary incontinence
+urethral bulking injections	is a type of	procedures on the urethra
+urethral bulking injections	used for	urinary incontinence
+urethral calibration	is a type of	procedures on the urethra
+urethral calibration	used for	urethral stricture
+urethral stricture	is a condition that can affect	urethra
+urethral stricture	can cause	difficulty urinating
+urethral stricture	can lead to	urinary tract infections
+urethral stricture	can result in	urinary retention
+meatal stenosis	is a condition that can affect	urethra
+meatal stenosis	can cause	urinary symptoms
+meatal stenosis	can lead to	urinary retention
+meatal stenosis	can result in	urinary tract infections
+urinary retention	is a condition that can result from	urethral stricture
+urinary retention	can cause	bladder distension
+urinary retention	can lead to	urinary tract infections
+urinary retention	can result in	kidney damage
+stress urinary incontinence	is a condition that can be treated with	urethral sling surgery
+stress urinary incontinence	can cause	involuntary urine leakage
+stress urinary incontinence	can lead to	reduced quality of life
+stress urinary incontinence	can result in	social embarrassment
+urinary incontinence	is a condition that can be treated with	urethral bulking injections
+urinary incontinence	can cause	involuntary urine leakage
+urinary incontinence	can lead to	reduced quality of life
+urinary incontinence	can result in	social embarrassment
+urinary tract infections	can be caused by	urethral stricture
+urinary tract infections	can lead to	kidney infection
+urinary tract infections	can result in	sepsis
+urinary tract infections	can be treated with	antibiotics
+kidney damage	can be caused by	urinary retention
+kidney damage	can lead to	kidney failure
+bladder distension	can be caused by	urinary retention
+bladder distension	can lead to	urinary incontinence
+bladder distension	can result in	bladder damage
+bladder distension	can be treated with	bladder catheterization
+bladder catheterization	is a procedure used for	emptying the bladder
+bladder catheterization	can cause	urinary tract infections
+bladder catheterization	can lead to	bladder injury

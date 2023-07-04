@@ -1,0 +1,203 @@
+contrast arteriogram	is a	medical procedure
+femoral artery	is a part of	lower extremity arteries
+contrast arteriogram	used for	diagnostic imaging
+contrast arteriogram	can identify	blockages
+contrast arteriogram	can detect	arterial diseases
+contrast arteriogram	can visualize	blood flow
+contrast arteriogram	can assess	vascular health
+contrast arteriogram	can guide	treatment decisions
+contrast arteriogram	can help	plan surgical interventions
+femoral artery	supplies blood to	lower extremity
+femoral artery	can develop	atherosclerosis
+femoral artery	can experience	stenosis
+femoral artery	can be treated with	angioplasty
+lower extremity arteries	can experience	peripheral artery disease
+lower extremity arteries	can be affected by	thrombosis
+lower extremity arteries	can be treated with	bypass surgery
+vascular health	is important for	overall well-being
+vascular health	can be improved through	lifestyle changes
+blood flow	is essential for	tissue perfusion
+blood flow	can be compromised by	arterial blockages
+arterial blockages	can lead to	ischemia
+arterial diseases	can cause	complications
+arterial diseases	can be managed with	medication
+arterial diseases	can require	intervention
+treatment decisions	are based on	diagnostic findings
+treatment decisions	consider	patient's medical history
+treatment decisions	involve	multidisciplinary teams
+surgical interventions	aim to	restore blood flow
+surgical interventions	carry risks	of complications
+atherosclerosis	is a	vascular condition
+atherosclerosis	can result in	heart disease
+atherosclerosis	can lead to	stroke
+stenosis	causes	narrowing of arteries
+stenosis	can be asymptomatic
+stenosis	can cause	pain
+angioplasty	is a	minimally invasive procedure
+angioplasty	can be performed	to dilate arteries
+peripheral artery disease	affects	lower extremities
+peripheral artery disease	can cause	pain and weakness
+thrombosis	refers to	blood clot formation
+thrombosis	can lead to	pulmonary embolism
+thrombosis	can be treated with	anticoagulants
+bypass surgery	is a	surgical procedure
+bypass surgery	can reroute	blood flow
+bypass surgery	may require	grafts
+overall well-being	is influenced by	vascular health
+overall well-being	can be enhanced with	regular exercise
+lifestyle changes	can include	smoking cessation
+lifestyle changes	can promote	weight loss
+complications	can arise from	arterial diseases
+complications	may include	tissue damage
+complications	require	medical attention
+medication	may be prescribed	for arterial diseases
+medication	can manage	symptoms
+medication	may have	side effects
+intervention	should be tailored to	individual patient
+intervention	may involve	endovascular techniques
+diagnostic findings	provide information	for treatment planning
+diagnostic findings	can guide	follow-up procedures
+patient's medical history	influences	treatment options
+patient's medical history	is important for	risk assessment
+multidisciplinary teams	collaborate to	develop treatment plans
+multidisciplinary teams	include	healthcare professionals
+multidisciplinary teams	ensure	comprehensive care
+restoration of blood flow	improves	tissue perfusion
+restoration of blood flow	may require	repeated procedures
+complications of surgery	can vary	in severity
+complications of surgery	can prolong	recovery
+vascular condition	can be genetic
+vascular condition	may require	long-term management
+vascular condition	can impact	quality of life
+heart disease	can lead to	heart attacks
+heart disease	can necessitate	heart surgery
+heart disease	requires	ongoing monitoring
+stroke	can cause	neurological deficits
+stroke	requires	immediate medical attention
+stroke	can result in	long-term disability
+narrowing of arteries	can reduce	blood flow
+narrowing of arteries	can lead to	claudication
+narrowing of arteries	may require	intervention
+minimally invasive procedure	offers	shorter recovery time
+minimally invasive procedure	can be performed	on outpatient basis
+dilation of arteries	improves	blood flow
+dilation of arteries	can be temporary
+lower extremities	require	adequate blood supply
+lower extremities	can experience	ischemic events
+lower extremities	can be affected by	neuropathy
+pain and weakness	can affect	daily activities
+pulmonary embolism	is a	serious condition
+pulmonary embolism	requires	prompt treatment
+anticoagulants	help	prevent blood clot formation
+anticoagulants	may require	monitoring
+surgical procedure	has associated	risks
+surgical procedure	requires	anesthesia
+rerouting of blood flow	can bypass	blocked arteries
+rerouting of blood flow	restores	tissue perfusion
+rerouting of blood flow	can be permanent
+grafts	are used	for bypass surgery
+grafts	can be synthetic
+vascular health	contributes to	overall health
+vascular health	should be monitored	regularly
+regular exercise	improves	cardiovascular health
+regular exercise	promotes	circulation
+smoking cessation	is beneficial for	vascular health
+smoking cessation	reduces	risk of complications
+weight loss	can improve	vascular health
+weight loss	reduces	strain on arteries
+medical attention	is important for	managing complications
+medical attention	should be sought	for unusual symptoms
+side effects	should be reported	to healthcare provider
+individual patient	requires	personalized care
+individual patient	has unique	healthcare needs
+endovascular techniques	offer	less invasive options
+endovascular techniques	may require	specialized training
+treatment planning	considers	patient preferences
+treatment planning	aims to	optimize outcomes
+follow-up procedures	monitor	treatment effectiveness
+follow-up procedures	assess	need for further interventions
+risk assessment	guides	treatment decisions
+risk assessment	should be done	regularly
+healthcare professionals	provide	specialized care
+healthcare professionals	educate	patients on self-care
+healthcare professionals	ensure	patient safety
+comprehensive care	addresses	all aspects of health
+comprehensive care	may involve	rehabilitation services
+comprehensive care	promotes	patient well-being
+tissue perfusion	is essential for	wound healing
+tissue perfusion	requires	adequate blood flow
+repeated procedures	should be evaluated	for efficacy
+repeated procedures	may necessitate	adjustments to treatment plan
+severity of complications	influences	recovery time
+severity of complications	may affect	long-term outcomes
+recovery	differs	for each patient
+recovery	is influenced by	patient compliance
+genetic factors	contribute to	vascular conditions
+genetic factors	can predispose	individuals to certain diseases
+genetic factors	may require	genetic counseling
+long-term management	involves	regular monitoring
+long-term management	requires	lifestyle modifications
+long-term management	supports	overall health
+impact on quality of life	can be significant
+impact on quality of life	underscores	importance of treatment
+heart attacks	require	emergency medical care
+heart attacks	can be life-threatening
+heart attacks	necessitate	rehabilitation
+neurological deficits	can be permanent
+neurological deficits	require	rehabilitation services
+neurological deficits	can cause	long-term disability
+claudication	can cause	leg pain
+claudication	requires	symptom management
+claudication	can limit	physical activity
+ischemic events	can be limb-threatening
+ischemic events	require	urgent intervention
+ischemic events	may result in	tissue loss
+neuropathy	can affect	sensation in lower extremities
+neuropathy	requires	regular assessment
+neuropathy	can contribute to	foot ulcers
+daily activities	may be affected	by pain and weakness
+daily activities	may require	assistive devices
+serious condition	requires	immediate medical attention
+serious condition	can have	life-threatening complications
+prompt treatment	can prevent	further damage
+blockage of arteries	can be life-threatening
+blockage of arteries	necessitates	urgent intervention
+blockage of arteries	can cause	tissue ischemia
+blood clot formation	can be prevented	with medication
+blood clot formation	can disrupt	blood flow
+risks of surgery	should be discussed	with patient
+risks of surgery	should be weighed	against potential benefits
+anesthesia	is administered	during surgery
+anesthesia	carries risks	and side effects
+blocked arteries	can lead to	tissue necrosis
+blocked arteries	require	intervention
+blocked arteries	can lead to	amputation
+synthetic grafts	are commonly used	for bypass surgery
+synthetic grafts	may increase	infection risk
+overall health	is influenced by	vascular health
+overall health	can be improved with	preventive measures
+overall health	is vital for	quality of life
+cardiovascular health	is essential for	overall well-being
+cardiovascular health	benefits	from regular exercise
+circulation	plays a crucial role	in health
+circulation	can be assessed	through diagnostic tests
+circulation	affects	wound healing
+self-care	is important for	overall well-being
+self-care	includes	medication adherence
+self-care	involves	lifestyle modifications
+patient safety	is paramount	in healthcare
+patient safety	requires	adherence to protocols
+patient safety	relies on	effective communication
+wound healing	can be delayed	by poor circulation
+wound healing	requires	adequate nutrition
+compliance	is essential	for treatment success
+compliance	should be monitored	regularly
+compliance	can impact	treatment outcomes
+genetic counseling	provides	information on hereditary conditions
+genetic counseling	helps	individuals make informed choices
+genetic counseling	supports	family planning
+rehabilitation services	aid	in recovery
+rehabilitation services	improve	functional abilities
+rehabilitation services	promote	independence
+patient well-being	is a	priority
+patient well-being	requires	holistic approach

@@ -1,0 +1,200 @@
+diagnostic procedures	used for	musculoskeletal system
+diagnostic procedures	include	X-ray
+X-ray	can detect	fractures
+X-ray	can reveal	bone density
+X-ray	can show	joint dislocations
+diagnostic procedures	include	MRI
+MRI	can provide	detailed images
+MRI	can detect	soft tissue injuries
+MRI	can diagnose	tumors
+diagnostic procedures	include	CT scan
+CT scan	can detect	bone disorders
+CT scan	can visualize	muscles
+CT scan	can identify	infections
+diagnostic procedures	include	ultrasound
+ultrasound	can assess	joint inflammation
+ultrasound	can detect	fluid accumulation
+ultrasound	can evaluate	ligament tears
+diagnostic procedures	include	arthroscopy
+arthroscopy	allows	direct visualization
+arthroscopy	can repair	damaged cartilage
+arthroscopy	can remove	loose bodies
+diagnostic procedures	include	electromyography
+electromyography	measures	muscle response
+electromyography	can diagnose	nerve disorders
+diagnostic procedures	include	bone scan
+bone scan	can detect	bone cancer
+bone scan	can identify	infections
+bone scan	can evaluate	joint replacements
+diagnostic procedures	include	arthrography
+arthrography	involves	injecting contrast dye
+arthrography	can detect	joint abnormalities
+arthrography	can diagnose	ligament tears
+diagnostic procedures	include	bone density test
+bone density test	measures	bone strength
+bone density test	can diagnose	osteoporosis
+diagnostic procedures	include	myelography
+myelography	involves	contrast dye injection
+myelography	can detect	spinal cord abnormalities
+myelography	can diagnose	disc herniation
+diagnostic procedures	include	biopsy
+biopsy	involves	tissue sample collection
+biopsy	can diagnose	bone cancer
+biopsy	can identify	infections
+diagnostic procedures	include	thermography
+thermography	measures	temperature changes
+thermography	can detect	inflammation
+thermography	can diagnose	nerve damage
+diagnostic procedures	include	scintigraphy
+scintigraphy	involves	radioactive tracer injection
+scintigraphy	can detect	bone infections
+scintigraphy	can identify	tumors
+diagnostic procedures	include	nerve conduction study
+nerve conduction study	measures	nerve function
+nerve conduction study	can diagnose	nerve compression
+diagnostic procedures	include	angiography
+angiography	involves	contrast agent injection
+angiography	can visualize	blood vessels
+angiography	can detect	aneurysms
+diagnostic procedures	include	tendon sheath injection
+tendon sheath injection	involves	medication injection
+tendon sheath injection	can alleviate	inflammation
+diagnostic procedures	include	joint aspiration
+joint aspiration	involves	fluid removal
+joint aspiration	can diagnose	infections
+diagnostic procedures	include	electromyography
+electromyography	measures	muscle response
+electromyography	can diagnose	nerve disorders
+diagnostic procedures	include	bone density test
+bone density test	measures	bone strength
+bone density test	can diagnose	osteoporosis
+diagnostic procedures	include	myelography
+myelography	involves	contrast dye injection
+myelography	can detect	spinal cord abnormalities
+myelography	can diagnose	disc herniation
+diagnostic procedures	include	biopsy
+biopsy	involves	tissue sample collection
+biopsy	can diagnose	bone cancer
+biopsy	can identify	infections
+diagnostic procedures	include	thermography
+thermography	measures	temperature changes
+thermography	can detect	inflammation
+thermography	can diagnose	nerve damage
+diagnostic procedures	include	scintigraphy
+scintigraphy	involves	radioactive tracer injection
+scintigraphy	can detect	bone infections
+scintigraphy	can identify	tumors
+diagnostic procedures	include	nerve conduction study
+nerve conduction study	measures	nerve function
+nerve conduction study	can diagnose	nerve compression
+diagnostic procedures	include	angiography
+angiography	involves	contrast agent injection
+angiography	can visualize	blood vessels
+angiography	can detect	aneurysms
+diagnostic procedures	include	tendon sheath injection
+tendon sheath injection	involves	medication injection
+tendon sheath injection	can alleviate	inflammation
+diagnostic procedures	include	joint aspiration
+joint aspiration	involves	fluid removal
+joint aspiration	can diagnose	infections
+diagnostic procedures	include	nerve conduction study
+nerve conduction study	measures	nerve function
+nerve conduction study	can diagnose	nerve compression
+diagnostic procedures	on	musculoskeletal system
+diagnostic procedures	used for	diagnosis
+musculoskeletal system	includes	bones and muscles
+bones	can be affected by	fractures
+fractures	can result in	pain
+muscles	can be affected by	strains
+strains	can result in	muscle weakness
+diagnostic procedures	can detect	fractures
+diagnostic procedures	can detect	strains
+diagnostic procedures	can help in	pain management
+diagnostic procedures	can assist in	muscle weakness evaluation
+musculoskeletal system	requires	proper functioning
+proper functioning	depends on	healthy bones
+healthy bones	can be maintained through	exercise
+exercise	can improve	muscle strength
+diagnostic procedures	can aid in	exercise recommendations
+musculoskeletal system	can be impacted by	arthritis
+arthritis	can lead to	joint pain
+diagnostic procedures	can diagnose	arthritis
+diagnostic procedures	can help in	joint pain management
+diagnostic procedures	can assist in	arthritis treatment
+diagnostic procedures	can monitor	progress of arthritis treatment
+diagnostic procedures	can assess	range of motion
+range of motion	is important for	musculoskeletal health
+musculoskeletal health	can be improved through	physical therapy
+physical therapy	can enhance	range of motion
+diagnostic procedures	can guide	physical therapy
+physical therapy	can aid in	musculoskeletal rehabilitation
+diagnostic procedures	can evaluate	musculoskeletal function
+musculoskeletal function	can be affected by	nerve damage
+nerve damage	can cause	numbness
+diagnostic procedures	can identify	nerve damage
+diagnostic procedures	can assess	sensation
+sensation	is important for	musculoskeletal function
+diagnostic procedures	can help in	sensory evaluation
+musculoskeletal function	relies on	coordinated movement
+coordinated movement	involves	muscles and joints
+muscles and joints	can be examined through	diagnostic procedures
+diagnostic procedures	can diagnose	musculoskeletal disorders
+diagnostic procedures	can guide	treatment of musculoskeletal disorders
+diagnostic procedures	can monitor	progress of treatment
+diagnostic procedures	can identify	complications
+complications	can arise from	musculoskeletal disorders
+diagnostic procedures	can prevent	complications
+diagnostic procedures	can aid in	prevention of musculoskeletal disorders
+diagnostic procedures	can provide	evidence-based care
+diagnostic procedures	can improve	patient outcomes
+diagnostic procedures	can contribute to	healthcare prediction
+diagnostic procedures	can assist in	personalized medicine
+diagnostic procedures	can help in	healthcare planning
+diagnostic procedures	can inform	medical decisions
+medical decisions	can be based on	diagnostic findings
+diagnostic procedures	can support	evidence-based practice
+diagnostic procedures	can enhance	patient safety
+diagnostic procedures	can reduce	healthcare costs
+diagnostic procedures	can optimize	resource utilization
+diagnostic procedures	can improve	healthcare efficiency
+diagnostic procedures	can aid in	disease prevention
+disease prevention	is crucial for	musculoskeletal health
+diagnostic procedures	can guide	preventive measures
+preventive measures	can promote	musculoskeletal well-being
+diagnostic procedures	can contribute to	public health
+public health	relies on	disease surveillance
+disease surveillance	can benefit from	diagnostic procedures
+diagnostic procedures	can support	population health management
+diagnostic procedures	can assist in	healthcare research
+diagnostic procedures	can generate	valuable data
+valuable data	can be used for	medical advancements
+diagnostic procedures	can contribute to	scientific knowledge
+diagnostic procedures	can aid in	medical education
+medical education	can benefit from	diagnostic insights
+diagnostic procedures	can promote	interdisciplinary collaboration
+interdisciplinary collaboration	enhances	patient care
+diagnostic procedures	can foster	patient-provider communication
+patient-provider communication	is essential for	quality care
+diagnostic procedures	can improve	patient satisfaction
+diagnostic procedures	can enhance	patient trust
+diagnostic procedures	can empower	patients
+patients	can make	informed decisions
+diagnostic procedures	can enable	precision medicine
+precision medicine	allows for	tailored treatments
+diagnostic procedures	can contribute to	healthcare innovation
+diagnostic procedures	can drive	technology advancements
+technology advancements	can revolutionize	healthcare delivery
+diagnostic procedures	can assist in	population health initiatives
+population health initiatives	aim to	improve overall well-being
+diagnostic procedures	can inform	policy-making
+policy-making	can be guided by	healthcare data
+diagnostic procedures	can facilitate	evidence-based policies
+diagnostic procedures	can support	regulatory decisions
+regulatory decisions	can be based on	diagnostic research
+diagnostic procedures	can aid in	healthcare reimbursement
+healthcare reimbursement	relies on	accurate diagnostic coding
+accurate diagnostic coding	can be achieved through	diagnostic procedures
+diagnostic procedures	can contribute to	quality assurance
+quality assurance	ensures	reliable results
+diagnostic procedures	can enhance	healthcare quality
+diagnostic procedures	can improve	patient outcomes

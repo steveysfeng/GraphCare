@@ -1,0 +1,193 @@
+procedures	performed on	skin
+procedures	performed on	breast
+procedures	can be	therapeutic
+procedures	can improve	health
+skin	can be	affected
+skin	can be	treated
+skin	can have	conditions
+breast	can be	affected
+breast	can have	conditions
+breast	can be	treated
+breast	can be	affected by cancer
+breast	affected by cancer	can be	treated
+procedures	can be	surgical
+procedures	can be	non-surgical
+surgical procedures	can be	invasive
+surgical procedures	can be	performed under general anesthesia
+invasive procedures	can have	complications
+invasive procedures	can require	longer recovery time
+invasive procedures	can be	risky
+non-surgical procedures	can have	fewer complications
+non-surgical procedures	can have	shorter recovery time
+non-surgical procedures	can be	less invasive
+procedures	can be	cosmetic
+cosmetic procedures	can be	elective
+cosmetic procedures	can improve	appearance
+therapeutic procedures	can treat	medical conditions
+therapeutic procedures	can be	recommended by doctors
+medical conditions	can require	therapeutic procedures
+procedures	can be	covered by insurance
+procedures	can be	costly
+costly procedures	can be	a barrier for some patients
+procedures	can have	side effects
+procedures	can cause	pain
+therapeutic procedures	can require	multiple sessions
+therapeutic procedures	can be	effective
+procedures	can be	performed by specialists
+procedures	can be	performed in outpatient settings
+procedures	can be	performed in hospitals
+procedures	can be	performed under local anesthesia
+procedures	can be	performed under sedation
+sedation	can make	patients relaxed
+procedures	can have	pre-operative preparation
+procedures	can have	post-operative care
+procedures	can have	follow-up visits
+procedures	can have	long-term effects
+procedures	can have	short-term effects
+procedures	can be	recommended after other treatments have failed
+procedures	can be	recommended as a first-line treatment
+procedures	can be	recommended based on individual circumstances
+procedures	can require	pre-authorization
+procedures	can require	medical clearance
+procedures	can be	performed on different areas of the body
+procedures	can have	different recovery times
+procedures	can be	performed by different techniques
+procedures	can be	invasive or non-invasive
+procedures	can have	different success rates
+procedures	can have	different risks
+procedures	can have	different complications
+procedures	can be	chosen based on patient preferences
+procedures	can be	chosen based on medical recommendations
+procedures	can have	associated costs
+procedures	can have	associated risks
+procedures	can have	associated benefits
+procedures	can result in	improved quality of life
+procedures	can result in	reduced symptoms
+procedures	can result in	prolonged survival
+procedures	can be	outpatient
+procedures	can be	inpatient
+inpatient procedures	require	hospitalization
+outpatient procedures	do not require	hospitalization
+procedures	can require	medical equipment
+procedures	can require	anesthesia
+procedures	can require	monitoring
+procedures	can require	follow-up care
+procedures	can have	short-term outcomes
+procedures	can have	long-term outcomes
+procedures	can be	performed by trained professionals
+procedures	can be	performed by specialized doctors
+procedures	can be	performed by surgeons
+procedures	can be	performed by dermatologists
+procedures	can be	performed by plastic surgeons
+procedures	can be	performed by radiologists
+procedures	can be	performed by oncologists
+procedures	can be	performed by pathologists
+procedures	can be	performed by gynecologists
+procedures	can be	performed by urologists
+procedures	can be	performed by gastroenterologists
+procedures	can be	performed by cardiologists
+procedures	can be	performed by orthopedic surgeons
+procedures	can be	performed by neurologists
+procedures	can be	performed by ophthalmologists
+procedures	can be	performed by otolaryngologists
+procedures	can be	performed by anesthesiologists
+procedures	can be	performed by rheumatologists
+procedures	can be	performed by psychiatrists
+procedures	can be	performed by psychologists
+procedures	can be	performed by physical therapists
+procedures	can be	performed by occupational therapists
+procedures	can be	performed by speech therapists
+procedures	can be	performed by nurses
+procedures	can be	performed by medical technicians
+procedures	can be	performed by medical assistants
+procedures	can be	performed by physician assistants
+procedures	can be	performed by nurse practitioners
+procedures	can be	performed by radiologic technologists
+procedures	can be	performed by pharmacy technicians
+procedures	can be	performed by respiratory therapists
+procedures	can be	performed by dietitians
+procedures	can be	performed by social workers
+procedures	can be	performed by case managers
+procedures	can be	performed by chaplains
+procedures	can be	performed by care coordinators
+procedures	can be	performed by medical interpreters
+procedures	can be	performed by hospital administrators
+procedures	can be	performed by medical coders
+procedures	can be	performed by medical billers
+procedures	can be	performed by medical transcriptionists
+procedures	can be	performed by healthcare IT specialists
+therapeutic procedures	is a	medical procedure
+therapeutic procedures	performed on	skin
+therapeutic procedures	performed on	breast
+therapeutic procedures	can treat	skin conditions
+therapeutic procedures	can treat	breast conditions
+skin	is a	organ
+breast	is a	organ
+skin	protects	body
+breast	produces	milk
+skin conditions	can cause	itching
+skin conditions	can cause	rashes
+skin conditions	can cause	inflammation
+breast conditions	can lead to	cancer
+breast conditions	can lead to	fibroadenoma
+breast conditions	can lead to	mastitis
+skin diseases	can be treated with	therapeutic procedures
+breast diseases	can be treated with	therapeutic procedures
+itching	can be relieved with	therapeutic procedures
+rashes	can be treated with	therapeutic procedures
+inflammation	can be reduced with	therapeutic procedures
+cancer	can be treated with	therapeutic procedures
+fibroadenoma	can be removed with	therapeutic procedures
+mastitis	can be treated with	therapeutic procedures
+milk	is produced by	breast
+ulcers	can be treated with	therapeutic procedures
+endoscopy	can detect	ulcers
+skin	can be affected by	autoimmune diseases
+breast	can be affected by	hormonal changes
+autoimmune diseases	can be treated with	therapeutic procedures
+hormonal changes	can be managed with	therapeutic procedures
+skin	can be injured by	burns
+skin	can be injured by	cuts
+skin	can be injured by	abrasions
+burns	can be treated with	therapeutic procedures
+cuts	can be stitched with	therapeutic procedures
+abrasions	can be treated with	therapeutic procedures
+breast	can undergo	surgery
+skin	can undergo	surgery
+surgery	can be performed with	therapeutic procedures
+skin	can be affected by	acne
+skin	can be affected by	eczema
+skin	can be affected by	psoriasis
+acne	can be treated with	therapeutic procedures
+eczema	can be managed with	therapeutic procedures
+psoriasis	can be controlled with	therapeutic procedures
+therapeutic procedures	can be performed by	dermatologists
+therapeutic procedures	can be performed by	plastic surgeons
+dermatologists	are	medical specialists
+dermatologists	diagnose	skin conditions
+plastic surgeons	specialize in	cosmetic procedures
+cosmetic procedures	can be performed with	therapeutic procedures
+skin	can be affected by	sunburn
+skin	can be affected by	skin cancer
+sunburn	can be treated with	therapeutic procedures
+skin cancer	can be removed with	therapeutic procedures
+therapeutic procedures	can be performed on	skin lesions
+therapeutic procedures	can be performed on	breast lumps
+skin lesions	can be treated with	therapeutic procedures
+breast lumps	can be evaluated with	therapeutic procedures
+skin	can be affected by	infections
+skin	can be affected by	allergies
+skin infections	can be treated with	therapeutic procedures
+allergies	can be managed with	therapeutic procedures
+skin	can be affected by	aging
+breast	can be affected by	lactation
+aging	can be managed with	therapeutic procedures
+lactation	can be managed with	therapeutic procedures
+therapeutic procedures	can improve	skin appearance
+therapeutic procedures	can improve	breast shape
+skin appearance	can be enhanced with	therapeutic procedures
+breast shape	can be enhanced with	therapeutic procedures
+skin	can be affected by	scars
+breast	can be affected by	sagging
+scars	can be treated with	therapeutic procedures
+sagging	can be corrected with	therapeutic procedures

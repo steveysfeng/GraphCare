@@ -1,0 +1,159 @@
+repair of cystocele	is a	surgical procedure
+repair of rectocele	is a	surgical procedure
+obliteration of vaginal vault	is a	surgical procedure
+repair of cystocele	used for	treating prolapse
+repair of rectocele	used for	treating prolapse
+obliteration of vaginal vault	used for	treating prolapse
+repair of cystocele	can be performed using	mesh
+repair of rectocele	can be performed using	mesh
+obliteration of vaginal vault	can be performed using	mesh
+repair of cystocele	can be performed using	sutures
+repair of rectocele	can be performed using	sutures
+obliteration of vaginal vault	can be performed using	sutures
+repair of cystocele	can be done with	minimally invasive techniques
+repair of rectocele	can be done with	minimally invasive techniques
+obliteration of vaginal vault	can be done with	minimally invasive techniques
+repair of cystocele	can be done with	robotic-assisted techniques
+repair of rectocele	can be done with	robotic-assisted techniques
+obliteration of vaginal vault	can be done with	robotic-assisted techniques
+repair of cystocele	can cause	pain
+repair of rectocele	can cause	pain
+obliteration of vaginal vault	can cause	pain
+repair of cystocele	can lead to	recurrent prolapse
+repair of rectocele	can lead to	recurrent prolapse
+obliteration of vaginal vault	can lead to	recurrent prolapse
+repair of cystocele	has a higher risk of	mesh erosion compared to repair of rectocele
+repair of rectocele	has a lower risk of	mesh erosion compared to repair of cystocele
+repair of cystocele	has a higher risk of	urinary incontinence compared to repair of rectocele
+repair of rectocele	has a lower risk of	urinary incontinence compared to repair of cystocele
+repair of cystocele	can lead to	urinary urgency
+repair of rectocele	can lead to	urinary urgency
+obliteration of vaginal vault	can lead to	vaginal shortening
+repair of cystocele	can result in	recurrence of prolapse
+repair of rectocele	can result in	recurrence of prolapse
+obliteration of vaginal vault	can result in	recurrence of prolapse
+repair of cystocele	can result in	sexual dysfunction
+repair of rectocele	can result in	sexual dysfunction
+obliteration of vaginal vault	can result in	sexual dysfunction
+repair of cystocele	is recommended for patients with	bothersome symptoms of pelvic organ prolapse
+repair of rectocele	is recommended for patients with	bothersome symptoms of pelvic organ prolapse
+obliteration of vaginal vault	is recommended for patients with	bothersome symptoms of pelvic organ prolapse
+repair of cystocele	can improve	quality of life in patients with pelvic organ prolapse
+repair of rectocele	can improve	quality of life in patients with pelvic organ prolapse
+obliteration of vaginal vault	can improve	quality of life in patients with pelvic organ prolapse
+repair of cystocele	is associated with	shorter hospital stay compared to repair of rectocele
+repair of rectocele	is associated with	longer hospital stay compared to repair of cystocele
+repair of cystocele	has a higher success rate in	resolving the symptoms of prolapse compared to repair of rectocele
+repair of rectocele	has a lower success rate in	resolving the symptoms of prolapse compared to repair of cystocele
+repair of cystocele	requires	post-operative pelvic floor exercises
+repair of rectocele	requires	post-operative pelvic floor exercises
+obliteration of vaginal vault	requires	post-operative pelvic floor exercises
+repair of cystocele	can be performed as a	standalone procedure
+repair of rectocele	can be performed as a	standalone procedure
+obliteration of vaginal vault	can be performed as a	standalone procedure
+mesh used in repair of cystocele	is associated with	higher risk of complications compared to repair of rectocele using sutures
+sutures used in repair of rectocele	are associated with	lower risk of complications compared to repair of cystocele using mesh
+mesh used in repair of cystocele	can cause	pain
+sutures used in repair of rectocele	can cause	pain
+mesh used in repair of cystocele	can lead to	recurrence of prolapse
+sutures used in repair of rectocele	can lead to	recurrence of prolapse
+mesh used in repair of cystocele	can result in	mesh erosion
+sutures used in repair of rectocele	can result in	suture erosion
+mesh used in repair of cystocele	can result in	urinary incontinence
+sutures used in repair of rectocele	can result in	urinary incontinence
+mesh used in repair of cystocele	can result in	sexual dysfunction
+sutures used in repair of rectocele	can result in	sexual dysfunction
+mesh used in repair of cystocele	can lead to	mesh exposure
+sutures used in repair of rectocele	can lead to	suture exposure
+mesh used in repair of cystocele	can lead to	urinary urgency
+sutures used in repair of rectocele	can lead to	urinary urgency
+mesh used in repair of cystocele	can lead to	vaginal shortening
+sutures used in repair of rectocele	can lead to	vaginal shortening
+mesh used in repair of cystocele	is associated with	higher cost compared to repair of rectocele using sutures
+sutures used in repair of rectocele	are associated with	lower cost compared to repair of cystocele using mesh
+mesh used in repair of cystocele	has a higher failure rate compared to repair of rectocele using sutures
+sutures used in repair of rectocele	have a lower failure rate compared to repair of cystocele using mesh
+minimally invasive techniques used in repair of cystocele	have a shorter recovery time compared to repair of rectocele using open surgery
+minimally invasive techniques used in repair of rectocele	have a shorter recovery time compared to repair of cystocele using open surgery
+robotic-assisted techniques used in repair of cystocele	have a longer operative time compared to repair of rectocele using laparoscopic techniques
+robotic-assisted techniques used in repair of rectocele	have a longer operative time compared to repair of cystocele using laparoscopic techniques
+minimally invasive techniques used in repair of cystocele	have a lower risk of complications compared to repair of rectocele using open surgery
+minimally invasive techniques used in repair of rectocele	have a lower risk of complications compared to repair of cystocele using open surgery
+robotic-assisted techniques used in repair of cystocele	have a higher cost compared to repair of rectocele using laparoscopic techniques
+robotic-assisted techniques used in repair of rectocele	have a higher cost compared to repair of cystocele using laparoscopic techniques
+repair of cystocele	is commonly combined with	repair of rectocele
+repair of rectocele	is commonly combined with	repair of cystocele
+repair of cystocele	is commonly done in	postmenopausal women
+repair of rectocele	is commonly done in	postmenopausal women
+obliteration of vaginal vault	is commonly done in	postmenopausal women
+repair of cystocele	is usually recommended after	failure of conservative treatment
+repair of rectocele	is usually recommended after	failure of conservative treatment
+obliteration of vaginal vault	is usually recommended after	failure of conservative treatment
+repair of cystocele	is performed under	general anesthesia
+repair of rectocele	is performed under	general anesthesia
+obliteration of vaginal vault	is performed under	general anesthesia
+repair of cystocele	requires	hospitalization
+repair of rectocele	requires	hospitalization
+obliteration of vaginal vault	requires	hospitalization
+post-operative complications are more common in	repair of cystocele compared to repair of rectocele
+post-operative complications are less common in	repair of rectocele compared to repair of cystocele
+patient satisfaction rates are higher in	repair of cystocele compared to repair of rectocele
+patient satisfaction rates are lower in	repair of rectocele compared to repair of cystocele
+patients undergoing repair of cystocele	are more likely to experience	recurrent prolapse compared to patients undergoing repair of rectocele
+patients undergoing repair of rectocele	are less likely to experience	recurrent prolapse compared to patients undergoing repair of cystocele
+patients undergoing repair of cystocele	have a higher risk of	post-operative urinary retention compared to patients undergoing repair of rectocele
+patients undergoing repair of rectocele	have a lower risk of	post-operative urinary retention compared to patients undergoing repair of cystocele
+patients undergoing repair of cystocele	may require	post-operative catheterization
+patients undergoing repair of rectocele	may require	post-operative catheterization
+patients undergoing repair of cystocele	have a higher risk of	bladder injury compared to patients undergoing repair of rectocele
+patients undergoing repair of rectocele	have a lower risk of	bladder injury compared to patients undergoing repair of cystocele
+repair of cystocele	is a	medical procedure
+rectocele	is a	medical condition
+repair of cystocele	used for	treatment
+obliteration of vaginal vault	is a	medical procedure
+cystocele	can cause	urinary incontinence
+rectocele	can cause	difficulty with bowel movements
+repair of cystocele	can improve	urinary incontinence
+repair of cystocele	can also improve	difficulty with bowel movements
+obliteration of vaginal vault	is performed after	repair of cystocele and rectocele
+obliteration of vaginal vault	can prevent	future prolapse
+obliteration of vaginal vault	can cause	changes in sexual function
+obliteration of vaginal vault	may require	vaginal reconstruction
+vaginal reconstruction	is a	surgical procedure
+vaginal reconstruction	can improve	sexual function
+repair of cystocele and rectocele	may require	mesh augmentation
+mesh augmentation	is a	surgical technique
+mesh augmentation	can increase	risk of complications
+repair of cystocele and rectocele	can be done	vaginally
+repair of cystocele and rectocele	can be done	abdominally
+vaginal repair	has	shorter recovery time
+abdominal repair	has	longer recovery time
+repair of cystocele and rectocele	is performed	under anesthesia
+repair of cystocele and rectocele	can be	outpatient procedure
+outpatient procedure	requires	pre-operative evaluation
+outpatient procedure	reduces	hospital costs
+repair of cystocele and rectocele	may require	post-operative physical therapy
+post-operative physical therapy	can aid in	recovery
+repair of cystocele and rectocele	can have	complications
+complications	include	pain
+complications	include	bleeding
+complications	include	infection
+complications	include	recurrence
+pain	can be	managed with medication
+bleeding	can be	managed with compression
+infection	can be	managed with antibiotics
+recurrence	can require	repeat surgery
+repeat surgery	may have	lower success rates
+repair of cystocele and rectocele	can have	long-term success
+long-term success	is	variable
+long-term success	can be affected by	pre-existing factors
+repair of cystocele and rectocele	should be considered	after conservative therapies fail
+conservative therapies	include	pelvic floor exercises
+conservative therapies	include	pessary use
+pelvic floor exercises	can improve	muscle tone
+pessary use	can provide	temporary relief
+repair of cystocele and rectocele	is not recommended	during pregnancy
+repair of cystocele and rectocele	is not recommended	in women planning future pregnancies
+repair of cystocele and rectocele	can improve	quality of life
+repair of cystocele and rectocele	can improve	sexual function
+repair of cystocele and rectocele	may have	cosmetic benefits

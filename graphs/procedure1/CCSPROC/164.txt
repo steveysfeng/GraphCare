@@ -1,0 +1,363 @@
+musculoskeletal system	is a	body system
+therapeutic procedures	are performed on	musculoskeletal system
+joint replacement	is a type of	therapeutic procedure
+joint replacement	can relieve	pain
+joint replacement	can improve	mobility
+joint replacement	is commonly used for	osteoarthritis
+joint replacement	is a	surgical procedure
+physical therapy	is often recommended after	joint replacement
+physical therapy	can help with	recovery
+physical therapy	can improve	strength
+physical therapy	can enhance	flexibility
+physical therapy	can promote	healing
+physical therapy	is a	non-surgical treatment
+physiotherapist	provides	physical therapy
+physiotherapist	is a	healthcare professional
+physiotherapy	is a branch of	medicine
+physiotherapy	focuses on	physical rehabilitation
+physiotherapy	uses	exercises
+pain management	is important after	joint replacement
+pain management	can be achieved through	medication
+pain management	can involve	physical therapy
+pain management	is a	priority
+osteoarthritis	is a	degenerative joint disease
+osteoarthritis	can cause	pain
+osteoarthritis	can lead to	joint stiffness
+osteoarthritis	can result in	joint deformity
+osteoporosis	is a	bone disease
+osteoporosis	can increase the risk of	fractures
+orthopedic surgeon	performs	joint replacement
+orthopedic surgeon	specializes in	musculoskeletal surgery
+orthopedic surgeon	is a	medical doctor
+anesthesia	is administered	during joint replacement
+anesthesiologist	is responsible for	administering anesthesia
+anesthesiologist	is a	medical professional
+anesthetic	is used to	numb the surgical area
+surgical site infection	is a potential complication of	joint replacement
+antibiotics	can be prescribed to	prevent infections
+antibiotics	are commonly used before	joint replacement
+antibiotics	are given intravenously	during surgery
+rehabilitation	plays a crucial role in	recovery
+rehabilitation	involves	physical therapy
+rehabilitation	focuses on	restoring function
+rehabilitation	aims to	improve quality of life
+post-operative care	is necessary after	joint replacement
+post-operative care	involves	pain management
+post-operative care	includes	monitoring for complications
+post-operative care	requires	follow-up appointments
+post-operative care	is provided by	healthcare professionals
+post-operative care	is important for	successful outcomes
+complications	can arise	after joint replacement
+complications	include	infection
+complications	can require	additional treatment
+complications	may prolong	recovery
+physician	refers patients to	physical therapy
+physician	diagnoses	osteoarthritis
+patient	undergoes	joint replacement
+patient	experiences	pain relief
+patient	regains	mobility
+patient	requires	post-operative care
+patient	follows	rehabilitation program
+patient	benefits from	physical therapy
+patient	consults	physiotherapist
+patient	receives	pain management
+patient	takes	medication
+patient	follows	instructions
+treatment plan	is developed	for each patient
+treatment plan	is individualized
+treatment plan	is based on	patient's condition
+patient education	is important for	successful recovery
+patient education	includes	instructions for home exercises
+patient education	emphasizes	lifestyle modifications
+patient education	promotes	adherence to treatment
+patient education	reduces	complications
+patient education	is provided by	healthcare professionals
+patient satisfaction	is measured	after joint replacement
+patient satisfaction	is influenced by	pain management
+patient satisfaction	is influenced by	outcomes
+patient satisfaction	reflects	patient experience
+patient satisfaction	is important for	quality improvement
+research	is conducted	to improve surgical techniques
+research	explores	new treatments
+research	aims to	enhance patient outcomes
+research	contributes to	medical advancements
+research	involves collaboration between	healthcare professionals
+research	is published in	medical journals
+other therapeutic procedures	are performed on	musculoskeletal system
+other therapeutic procedures	can treat	fractures
+other therapeutic procedures	can alleviate	pain
+other therapeutic procedures	can improve	mobility
+other therapeutic procedures	can correct	deformities
+other therapeutic procedures	can restore	function
+other therapeutic procedures	can prevent	further damage
+other therapeutic procedures	can enhance	quality of life
+other therapeutic procedures	can reduce	dependence on medication
+other therapeutic procedures	can require	anesthesia
+other therapeutic procedures	can involve	surgical intervention
+other therapeutic procedures	can be performed in	outpatient settings
+other therapeutic procedures	can result in	complications
+other therapeutic procedures	can have	long recovery times
+other therapeutic procedures	can be costly
+other therapeutic procedures	can be covered by	insurance
+other therapeutic procedures	can require	rehabilitation
+other therapeutic procedures	can be performed by	orthopedic surgeons
+other therapeutic procedures	can be recommended by	physical therapists
+other therapeutic procedures	can be prescribed by	physicians
+other therapeutic procedures	can be monitored by	nurses
+other therapeutic procedures	can be requested by	patients
+other therapeutic procedures	can be scheduled by	hospital staff
+other therapeutic procedures	can be guided by	imaging techniques
+other therapeutic procedures	can be evaluated with	X-rays
+other therapeutic procedures	can be assisted by	robotics
+other therapeutic procedures	can be facilitated by	minimally invasive techniques
+other therapeutic procedures	can be performed using	arthroscopy
+other therapeutic procedures	can involve	bone grafts
+other therapeutic procedures	can utilize	orthopedic implants
+other therapeutic procedures	can require	physical therapy
+other therapeutic procedures	can be completed in	multiple sessions
+other therapeutic procedures	can be performed under	general anesthesia
+other therapeutic procedures	can be selected based on	patient preferences
+other therapeutic procedures	can be recommended based on	clinical guidelines
+other therapeutic procedures	can require	pre-operative testing
+other therapeutic procedures	can involve	post-operative care
+other therapeutic procedures	can be performed on	joints
+other therapeutic procedures	can target	specific conditions
+other therapeutic procedures	can be tailored to	individual needs
+other therapeutic procedures	can be associated with	risks
+other therapeutic procedures	can be beneficial in	certain cases
+other therapeutic procedures	can be contraindicated in	certain patients
+other therapeutic procedures	can be limited by	insurance coverage
+other therapeutic procedures	can be influenced by	surgeon experience
+other therapeutic procedures	can be affected by	patient compliance
+other therapeutic procedures	can be impacted by	pre-existing conditions
+other therapeutic procedures	can be adjusted based on	patient characteristics
+other therapeutic procedures	can be optimized with	technological advancements
+other therapeutic procedures	can be guided by	clinical judgment
+other therapeutic procedures	can be discussed in	informed consent
+other therapeutic procedures	can be performed on	children
+other therapeutic procedures	can involve	non-surgical techniques
+other therapeutic procedures	can require	follow-up appointments
+other therapeutic procedures	can be recommended for	chronic conditions
+other therapeutic procedures	can be effective in	pain management
+other therapeutic procedures	can be utilized in	sports medicine
+other therapeutic procedures	can be explored in	research studies
+other therapeutic procedures	can be tailored to	patient goals
+other therapeutic procedures	can provide	long-term relief
+other therapeutic procedures	can be used in	rehabilitation settings
+other therapeutic procedures	can involve	physical therapists
+other therapeutic procedures	can necessitate	lifestyle modifications
+other therapeutic procedures	can involve	occupational therapy
+other therapeutic procedures	can focus on	restoring function
+other therapeutic procedures	can be evaluated with	clinical outcomes
+other therapeutic procedures	can be affected by	patient expectations
+other therapeutic procedures	can be offered as	alternative options
+other therapeutic procedures	can be integrated with	pharmacological treatment
+other therapeutic procedures	can require	pre-operative education
+other therapeutic procedures	can involve	prehabilitation
+other therapeutic procedures	can depend on	patient compliance
+other therapeutic procedures	can impact	quality of life
+other therapeutic procedures	can be utilized for	fracture stabilization
+other therapeutic procedures	can be recommended for	musculoskeletal disorders
+other therapeutic procedures	can be indicated for	joint instability
+other therapeutic procedures	can be effective for	pain reduction
+other therapeutic procedures	can be beneficial for	arthritis management
+other therapeutic procedures	can be considered for	non-healing fractures
+other therapeutic procedures	can be explored for	tendon repair
+other therapeutic procedures	can be utilized for	joint reconstruction
+other therapeutic procedures	can be recommended for	ligament tears
+other therapeutic procedures	can be performed for	spinal deformities
+other therapeutic procedures	can be indicated for	degenerative conditions
+other therapeutic procedures	can be effective in	restoring range of motion
+other therapeutic procedures	can be beneficial in	improving gait
+other therapeutic procedures	can be considered in	orthopedic trauma
+other therapeutic procedures	can be explored in	sports injuries
+other therapeutic procedures	can be utilized for	limb lengthening
+other therapeutic procedures	can be recommended for	pediatric conditions
+other therapeutic procedures	can be performed for	scoliosis correction
+other therapeutic procedures	can be needed for	joint infection
+other therapeutic procedures	can be indicated for	bone tumors
+other therapeutic procedures	can be effective for	muscle strengthening
+other therapeutic procedures	can be beneficial for	nerve decompression
+other therapeutic procedures	can be considered in	spinal fusion
+other therapeutic procedures	can be explored in	cartilage repair
+other therapeutic procedures	can be utilized for	osteotomy
+other therapeutic procedures	can be recommended for	hip replacement
+other therapeutic procedures	can be performed for	limb salvage
+other therapeutic procedures	can be indicated for	joint instability
+other therapeutic procedures	can be effective for	tendonitis treatment
+other therapeutic procedures	can be beneficial for	bursitis management
+other therapeutic procedures	can be considered in	fracture repair
+other therapeutic procedures	can be explored in	ligament reconstruction
+other therapeutic procedures	can be utilized for	bone realignment
+other therapeutic procedures	can be recommended for	joint dislocation
+other therapeutic procedures	can be performed for	bone nonunion
+other therapeutic procedures	can be indicated for	joint cartilage damage
+other therapeutic procedures	can be effective for	spinal decompression
+other therapeutic procedures	can be beneficial for	muscle repair
+other therapeutic procedures	can be considered in	joint arthroplasty
+other therapeutic procedures	can be explored in	meniscus repair
+other therapeutic procedures	can be utilized for	bone grafting
+other therapeutic procedures	can be recommended for	osteoarthritis management
+other therapeutic procedures	can be performed for	joint instability
+other therapeutic procedures	can be indicated for	rotator cuff tears
+other therapeutic procedures	can be effective for	carpal tunnel release
+other therapeutic procedures	can be beneficial for	tendon repair
+other therapeutic procedures	can be considered in	joint fusion
+other therapeutic procedures	can be explored in	muscle transfer
+other therapeutic procedures	can be utilized for	bone tumor removal
+other therapeutic procedures	can be recommended for	ACL reconstruction
+other therapeutic procedures	can be performed for	hip resurfacing
+other therapeutic procedures	can be indicated for	joint infection
+other therapeutic procedures	can be effective for	shoulder impingement
+other therapeutic procedures	can be beneficial for	limb realignment
+other therapeutic procedures	can be considered in	joint replacement
+other therapeutic procedures	can be explored in	ligament repair
+other therapeutic procedures	can be utilized for	tendon release
+other therapeutic procedures	can be recommended for	bone fracture healing
+other therapeutic procedures	can be performed for	joint instability
+other therapeutic procedures	can be indicated for	ankle sprains
+other therapeutic procedures	can be effective for	hip dysplasia treatment
+other therapeutic procedures	can be beneficial for	stress fracture management
+other therapeutic procedures	can be considered in	bone resection
+other therapeutic procedures	can be explored in	meniscus transplantation
+other therapeutic procedures	can be utilized for	joint cartilage repair
+other therapeutic procedures	can be recommended for	spinal fusion
+other therapeutic procedures	can be performed for	myofascial release
+other therapeutic procedures	can be indicated for	nerve repair
+other therapeutic procedures	can be effective for	scapular stabilization
+other therapeutic procedures	can be beneficial for	hardware removal
+other therapeutic procedures	can be considered in	arthroscopic debridement
+other therapeutic procedures	can be explored in	non-union fixation
+other therapeutic procedures	can be utilized for	joint effusion drainage
+other therapeutic procedures	can be recommended for	patellar stabilization
+other therapeutic procedures	can be performed for	limb alignment correction
+other therapeutic procedures	can be indicated for	bone cyst removal
+other therapeutic procedures	can be effective for	meniscus repair
+other therapeutic procedures	can be beneficial for	rotator cuff repair
+other therapeutic procedures	can be considered in	joint revision
+other therapeutic procedures	can be explored in	tenotomy
+other therapeutic procedures	can be utilized for	bone remodeling
+other therapeutic procedures	can be recommended for	joint realignment
+other therapeutic procedures	can be performed for	ligament tear repair
+other therapeutic procedures	can be indicated for	fasciectomy
+other therapeutic procedures	can be effective for	ankle fusion
+other therapeutic procedures	can be beneficial for	muscle transfer
+other therapeutic procedures	can be considered in	bone lengthening
+other therapeutic procedures	can be explored in	meniscectomy
+other therapeutic procedures	can be utilized for	joint implant removal
+other therapeutic procedures	can be recommended for	hip osteotomy
+other therapeutic procedures	can be performed for	joint erosion
+other therapeutic procedures	can be indicated for	cubital tunnel release
+other therapeutic procedures	can be effective for	ACL repair
+other therapeutic procedures	can be beneficial for	endoscopic carpal tunnel release
+other therapeutic procedures	can be considered in	bone infection treatment
+other therapeutic procedures	can be explored in	meniscus removal
+other therapeutic procedures	can be utilized for	joint fluid aspiration
+other therapeutic procedures	can be recommended for	knee osteotomy
+other therapeutic procedures	can be performed for	limb shortening
+other therapeutic procedures	can be indicated for	bone tumor biopsy
+other therapeutic procedures	can be effective for	hip labral repair
+other therapeutic procedures	can be beneficial for	extensor tendon repair
+other therapeutic procedures	can be considered in	joint debridement
+other therapeutic procedures	can be explored in	meniscus tear repair
+other therapeutic procedures	can be utilized for	tibial osteotomy
+other therapeutic procedures	can be recommended for	limb preservation
+other therapeutic procedures	can be performed for	joint fusion
+other therapeutic procedures	can be indicated for	vertebroplasty
+other therapeutic procedures	can be effective for	limb lengthening
+other therapeutic procedures	can be beneficial for	spinal fusion
+other therapeutic procedures	can be considered in	disc herniation
+other therapeutic procedures	can be explored in	meniscal transplantation
+other therapeutic procedures	can be utilized for	joint arthrodesis
+other therapeutic procedures	can be recommended for	synovectomy
+other therapeutic procedures	can be performed for	tarsal tunnel release
+other therapeutic procedures	can be indicated for	ligament reconstruction
+other therapeutic procedures	can be effective for	bone tumor resection
+other therapeutic procedures	can be beneficial for	lateral epicondylitis treatment
+other therapeutic procedures	can be considered in	joint aspiration
+other therapeutic procedures	can be explored in	meniscus repair
+other therapeutic procedures	can be utilized for	hallux valgus correction
+other therapeutic procedures	can be recommended for	hip impingement surgery
+other therapeutic procedures	can be performed for	joint contracture release
+other therapeutic procedures	can be indicated for	bone realignment
+other therapeutic procedures	can be effective for	rotator cuff tear repair
+other therapeutic procedures	can be beneficial for	de Quervain's release
+other therapeutic procedures	can be considered in	joint debridement
+other therapeutic procedures	can be explored in	meniscus transplantation
+other therapeutic procedures	can be utilized for	radial head resection
+other therapeutic procedures	can be recommended for	limb lengthening
+other therapeutic procedures	can be performed for	joint arthritis
+other therapeutic procedures	can be indicated for	trapeziectomy
+other therapeutic procedures	can be effective for	joint resurfacing
+other therapeutic procedures	can be beneficial for	hamstring tendon repair
+other therapeutic procedures	can be considered in	bone grafting
+other therapeutic procedures	can be explored in	nerve release
+other therapeutic procedures	can be utilized for	meniscus removal
+other therapeutic procedures	can be recommended for	subtalar fusion
+other therapeutic procedures	can be performed for	joint instability
+other therapeutic procedures	can be indicated for	bone tumor removal
+other therapeutic procedures	can be effective for	joint fluid aspiration
+other therapeutic procedures	can be beneficial for	quadriceps tendon repair
+other therapeutic procedures	can be considered in	arthroscopic debridement
+other therapeutic procedures	can be explored in	meniscectomy
+other therapeutic procedures	can be utilized for	joint cartilage repair
+other therapeutic procedures	can be recommended for	corrective osteotomy
+other therapeutic procedures	can be performed for	joint erosion
+other therapeutic procedures	can be indicated for	elbow arthroscopy
+other therapeutic procedures	can be effective for	meniscal tear repair
+other therapeutic procedures	can be beneficial for	biceps tendon repair
+other therapeutic procedures	can be considered in	joint debridement
+other therapeutic procedures	can be explored in	meniscal root repair
+other therapeutic procedures	can be utilized for	spinal fusion
+other therapeutic procedures	can be recommended for	iliac crest autograft
+other therapeutic procedures	can be performed for	joint instability
+other therapeutic procedures	can be indicated for	bone nonunion repair
+other therapeutic procedures	can be effective for	joint fluid drainage
+other therapeutic procedures	can be beneficial for	pectoralis tendon repair
+other therapeutic procedures	can be considered in	syndesmosis repair
+other therapeutic procedures	can be explored in	meniscus transplantation
+other therapeutic procedures	can be utilized for	soft tissue release
+other therapeutic procedures	can be recommended for	ankle arthroscopy
+other therapeutic procedures	can be performed for	limb alignment correction
+other therapeutic procedures	can be indicated for	limb lengthening
+other therapeutic procedures	can be effective for	joint resurfacing
+other therapeutic procedures	can be beneficial for	triceps tendon repair
+other therapeutic procedures	can be considered in	bone grafting
+other therapeutic procedures	can be explored in	neurectomy
+other therapeutic procedures	can be utilized for	meniscus removal
+other therapeutic procedures	can be recommended for	joint cartilage repair
+other therapeutic procedures	can be performed for	joint resection
+other therapeutic procedures	can be indicated for	radial tunnel release
+other therapeutic procedures	can be effective for	meniscal transplant
+other therapeutic procedures	can be beneficial for	gluteus medius repair
+other therapeutic procedures	can be considered in	joint debridement
+other therapeutic procedures	can be explored in	meniscal root repair
+other therapeutic procedures	can be utilized for	spinal decompression
+other therapeutic procedures	can be recommended for	line sepsis treatment
+other therapeutic procedures	can be performed for	forearm muscle repair
+other therapeutic procedures	can be indicated for	calcaneal osteotomy
+other therapeutic procedures	can be effective for	joint fluid aspiration
+other therapeutic procedures	can be beneficial for	palmaris longus transfer
+other therapeutic procedures	can be considered in	supination-external rotation injury
+other therapeutic procedures	can be explored in	meniscus tear repair
+other therapeutic procedures	can be utilized for	ulnar collateral ligament reconstruction
+other therapeutic procedures	can be recommended for	cartilage transplantation
+other therapeutic procedures	can be performed for	joint instability
+other therapeutic procedures	can be indicated for	metastatic bone tumor removal
+other therapeutic procedures	can be effective for	joint fluid drainage
+other therapeutic procedures	can be beneficial for	axillary nerve repair
+other therapeutic procedures	can be considered in	joint debridement
+other therapeutic procedures	can be explored in	meniscal root repair
+other therapeutic procedures	can be utilized for	spinal fusion
+other therapeutic procedures	can be recommended for	nerve decompression
+other therapeutic procedures	can be performed for	limb alignment correction
+other therapeutic procedures	can be indicated for	limb lengthening
+other therapeutic procedures	can be effective for	joint cartilage repair
+other therapeutic procedures	can be beneficial for	quadriceps tendon repair
+other therapeutic procedures	can be considered in	bone grafting
+other therapeutic procedures	can be explored in	meniscectomy
+other therapeutic procedures	can be utilized for	joint cartilage transplantation
+other therapeutic procedures	can be recommended for	joint resection
+other therapeutic procedures	can be performed for	radial tunnel release
+other therapeutic procedures	can be indicated for	meniscal root repair
+other therapeutic procedures	can be effective for	spinal decompression

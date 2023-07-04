@@ -1,0 +1,237 @@
+circumcision	is a	non-therapeutic procedure
+circumcision	performed on	male genital
+circumcision	associated with	cultural and religious practices
+circumcision	can reduce	risk of certain infections
+circumcision	may have	potential complications
+vasectomy	is a	therapeutic procedure
+vasectomy	performed on	male genital
+vasectomy	used for	permanent contraception
+vasectomy	considered	a safe procedure
+prostate biopsy	is a	diagnostic procedure
+prostate biopsy	performed on	male genital
+prostate biopsy	used for	detecting prostate cancer
+prostate biopsy	may result in	side effects
+testicular biopsy	is a	diagnostic procedure
+testicular biopsy	performed on	male genital
+testicular biopsy	used for	investigating infertility
+testicular biopsy	may cause	pain and swelling
+penile prosthesis implantation	is a	therapeutic procedure
+penile prosthesis implantation	performed on	male genital
+penile prosthesis implantation	used for	erectile dysfunction treatment
+penile prosthesis implantation	can lead to	infection
+herniorrhaphy	is a	therapeutic procedure
+herniorrhaphy	performed on	male genital
+herniorrhaphy	used for	repairing hernias
+herniorrhaphy	has	low recurrence rate
+orchidopexy	is a	therapeutic procedure
+orchidopexy	performed on	male genital
+orchidopexy	used for	correcting undescended testicles
+orchidopexy	may improve	fertility
+hydrocele repair	is a	therapeutic procedure
+hydrocele repair	performed on	male genital
+hydrocele repair	used for	treating hydrocele
+hydrocele repair	carries	minimal risk
+penile biopsy	is a	diagnostic procedure
+penile biopsy	performed on	male genital
+penile biopsy	used for	evaluating penile lesions
+penile biopsy	can result in	bleeding
+urethroplasty	is a	therapeutic procedure
+urethroplasty	performed on	male genital
+urethroplasty	used for	repairing the urethra
+urethroplasty	may require	multiple surgeries
+phalloplasty	is a	therapeutic procedure
+phalloplasty	performed on	male genital
+phalloplasty	used for	gender-affirming surgeries
+phalloplasty	involves	complex surgical techniques
+vasovasostomy	is a	therapeutic procedure
+vasovasostomy	performed on	male genital
+vasovasostomy	used for	reversing vasectomy
+vasovasostomy	success rate	highly variable
+varicocelectomy	is a	therapeutic procedure
+varicocelectomy	performed on	male genital
+varicocelectomy	used for	treating varicoceles
+varicocelectomy	can cause	fertility improvement
+meatal stenosis repair	is a	therapeutic procedure
+meatal stenosis repair	performed on	male genital
+meatal stenosis repair	used for	correcting urethral narrowing
+meatal stenosis repair	has	low complication rate
+excision of genital lesion	is a	therapeutic procedure
+excision of genital lesion	performed on	male genital
+excision of genital lesion	used for	removing abnormal growths
+excision of genital lesion	may result in	scarring
+scrotal exploration	is a	diagnostic procedure
+scrotal exploration	performed on	male genital
+scrotal exploration	used for	investigating testicular pain
+scrotal exploration	can detect	underlying causes
+penile implant	is a	therapeutic procedure
+penile implant	performed on	male genital
+penile implant	used for	treating erectile dysfunction
+penile implant	carries	risk of infection
+genital wart removal	is a	therapeutic procedure
+genital wart removal	performed on	male genital
+genital wart removal	used for	eliminating warts
+genital wart removal	may require	multiple treatments
+biopsy of testicular mass	is a	diagnostic procedure
+biopsy of testicular mass	performed on	male genital
+biopsy of testicular mass	used for	evaluating testicular tumors
+biopsy of testicular mass	can detect	cancer cells
+genital piercing	is a	non-therapeutic procedure
+genital piercing	performed on	male genital
+genital piercing	associated with	body modification
+genital piercing	carries	risk of complications
+genital fistula repair	is a	therapeutic procedure
+genital fistula repair	performed on	male genital
+genital fistula repair	used for	treating abnormal connections
+genital fistula repair	may require	multiple surgeries
+genital anomaly repair	is a	therapeutic procedure
+genital anomaly repair	performed on	male genital
+genital anomaly repair	used for	correcting birth defects
+genital anomaly repair	requires	specialized skills
+phimosis treatment	is a	therapeutic procedure
+phimosis treatment	performed on	male genital
+phimosis treatment	used for	treating tight foreskin
+phimosis treatment	may involve	circumcision or steroid creams
+foreskin reconstruction	is a	therapeutic procedure
+foreskin reconstruction	performed on	male genital
+foreskin reconstruction	used for	restoring foreskin
+foreskin reconstruction	has	limited success rate
+dilation and curettage	is a	therapeutic procedure
+dilation and curettage	performed on	male genital
+dilation and curettage	used for	uterine scraping
+dilation and curettage	carries	potential risks
+epididymovasostomy	is a	therapeutic procedure
+epididymovasostomy	performed on	male genital
+epididymovasostomy	used for	bypassing epididymal blockage
+epididymovasostomy	success rate	suboptimal
+local anesthesia for male genital	is a	therapeutic procedure
+local anesthesia for male genital	performed on	male genital
+local anesthesia for male genital	used for	pain control during procedures
+local anesthesia for male genital	has	minimal side effects
+reversal of genital modification	is a	therapeutic procedure
+reversal of genital modification	performed on	male genital
+reversal of genital modification	used for	reversing previous procedures
+reversal of genital modification	success rate	varies based on procedure
+insertion of urethral catheter	is a	therapeutic procedure
+insertion of urethral catheter	performed on	male genital
+insertion of urethral catheter	used for	urinary drainage
+insertion of urethral catheter	carries	risk of infection
+foreskin removal	is a	therapeutic procedure
+foreskin removal	performed on	male genital
+foreskin removal	used for	treating phimosis or paraphimosis
+foreskin removal	may require	stitches
+genital biopsy	is a	diagnostic procedure
+genital biopsy	performed on	male genital
+genital biopsy	used for	evaluating abnormal tissue
+genital biopsy	can result in	bleeding
+excision of genital mass	is a	therapeutic procedure
+excision of genital mass	performed on	male genital
+excision of genital mass	used for	removing abnormal growths
+excision of genital mass	may cause	scarring
+male genital trauma repair	is a	therapeutic procedure
+male genital trauma repair	performed on	male genital
+male genital trauma repair	used for	treating injuries
+male genital trauma repair	requires	prompt intervention
+inguinal lymph node dissection	is a	therapeutic procedure
+inguinal lymph node dissection	performed on	male genital
+inguinal lymph node dissection	used for	staging cancer
+inguinal lymph node dissection	can lead to	lymphedema
+cystoscopy	is a	diagnostic procedure
+cystoscopy	performed on	male genital
+cystoscopy	used for	visualizing the urinary tract
+cystoscopy	may cause	temporary discomfort
+external genital wart removal	is a	therapeutic procedure
+external genital wart removal	performed on	male genital
+external genital wart removal	used for	eliminating warts
+external genital wart removal	may require	multiple treatments
+genital reconstruction	is a	therapeutic procedure
+genital reconstruction	performed on	male genital
+genital reconstruction	used for	treating congenital abnormalities
+genital reconstruction	involves	complex surgeries
+biopsy of genital lesion	is a	diagnostic procedure
+biopsy of genital lesion	performed on	male genital
+biopsy of genital lesion	used for	evaluating abnormal tissue
+biopsy of genital lesion	can detect	cancer cells
+male genital skin graft	is a	therapeutic procedure
+male genital skin graft	performed on	male genital
+male genital skin graft	used for	tissue reconstruction
+male genital skin graft	requires	specialized techniques
+male genital tattoo removal	is a	therapeutic procedure
+male genital tattoo removal	performed on	male genital
+male genital tattoo removal	used for	eliminating tattoos
+male genital tattoo removal	may cause	scarring
+penile fracture repair	is a	therapeutic procedure
+penile fracture repair	performed on	male genital
+penile fracture repair	used for	treating penile fractures
+penile fracture repair	necessitates	immediate medical attention
+cystourethroscopy	is a	diagnostic procedure
+cystourethroscopy	performed on	male genital
+cystourethroscopy	used for	examining the bladder and urethra
+cystourethroscopy	may result in	urethral injury
+circumcision reversal	is a	therapeutic procedure
+circumcision reversal	performed on	male genital
+circumcision reversal	used for	restoring foreskin
+circumcision reversal	success rate	variable
+epispadias repair	is a	therapeutic procedure
+epispadias repair	performed on	male genital
+epispadias repair	used for	repairing urethral malformation
+epispadias repair	requires	multiple surgeries
+labial adhesions separation	is a	therapeutic procedure
+labial adhesions separation	performed on	male genital
+labial adhesions separation	used for	separating fused labia
+labial adhesions separation	may require	hormonal treatment
+penile abscess drainage	is a	therapeutic procedure
+penile abscess drainage	performed on	male genital
+penile abscess drainage	used for	treating infected abscesses
+penile abscess drainage	requires	antibiotic therapy
+testicular torsion repair	is a	therapeutic procedure
+testicular torsion repair	performed on	male genital
+testicular torsion repair	used for	treating testicular torsion
+testicular torsion repair	necessitates	urgent surgery
+transurethral resection of the prostate	is a	therapeutic procedure
+transurethral resection of the prostate	performed on	male genital
+transurethral resection of the prostate	used for	treating benign prostatic hyperplasia
+transurethral resection of the prostate	may cause	temporary urinary incontinence
+radiation therapy for male genital	is a	therapeutic procedure
+radiation therapy for male genital	performed on	male genital
+radiation therapy for male genital	used for	treating genital cancer
+radiation therapy for male genital	carries	risk of side effects
+inguinal hernia repair	is a	therapeutic procedure
+inguinal hernia repair	performed on	male genital
+inguinal hernia repair	used for	repairing inguinal hernias
+inguinal hernia repair	has	low recurrence rate
+urethral stricture treatment	is a	therapeutic procedure
+urethral stricture treatment	performed on	male genital
+urethral stricture treatment	used for	relieving urinary obstruction
+urethral stricture treatment	may require	dilation or surgery
+testicular prosthesis placement	is a	therapeutic procedure
+testicular prosthesis placement	performed on	male genital
+testicular prosthesis placement	used for	aesthetic restoration
+testicular prosthesis placement	carries	minimal risks
+urethroscopy	is a	diagnostic procedure
+urethroscopy	performed on	male genital
+urethroscopy	used for	examining the urethra
+urethroscopy	may cause	temporary discomfort
+treatment of genital warts	is a	therapeutic procedure
+treatment of genital warts	performed on	male genital
+treatment of genital warts	used for	eliminating warts
+treatment of genital warts	may require	multiple sessions
+injection of male genital	is a	therapeutic procedure
+injection of male genital	performed on	male genital
+injection of male genital	used for	various medical purposes
+injection of male genital	requires	sterile technique
+penile amputation	is a	therapeutic procedure
+penile amputation	performed on	male genital
+penile amputation	used for	medical or extreme body modification reasons
+penile amputation	irreversible
+resection of genital lesion	is a	therapeutic procedure
+resection of genital lesion	performed on	male genital
+resection of genital lesion	used for	removing abnormal tissue
+resection of genital lesion	may result in	scarring
+male genital reconstruction	is a	therapeutic procedure
+male genital reconstruction	performed on	male genital
+male genital reconstruction	used for	treating congenital anomalies or trauma
+male genital reconstruction	involves	complex surgeries
+preputioplasty	is a	therapeutic procedure
+preputioplasty	performed on	male genital
+preputioplasty	used for	treating phimosis
+preputioplasty	carries	low risk of complications

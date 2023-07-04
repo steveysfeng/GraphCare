@@ -1,0 +1,240 @@
+arthroscopy	is a	medical procedure
+arthroscopy	used for	diagnosis
+arthroscopy	used for	treatment
+arthroscopy	can detect	damaged cartilage
+arthroscopy	can detect	torn ligaments
+arthroscopy	can detect	joint inflammation
+arthroscopy	can detect	joint infections
+arthroscopy	can treat	torn ligaments
+arthroscopy	can treat	damaged cartilage
+arthroscopy	can treat	joint inflammation
+arthroscopy	can treat	joint infections
+arthroscopy	is performed by	orthopedic surgeons
+arthroscopy	is a minimally invasive	procedure
+arthroscopy	uses	an arthroscope
+arthroscopy	can be	outpatient procedure
+arthroscopy	requires	anesthesia
+arthroscopy	has risks such as	infection
+arthroscopy	has risks such as	bleeding
+arthroscopy	has risks such as	blood clots
+arthroscopy	has risks such as	nerve damage
+arthroscopy	has risks such as	allergic reactions
+arthroscopy	can help	improve joint function
+arthroscopy	can help	reduce pain
+arthroscopy	can help	prevent further joint damage
+arthroscopy	can help	speed up recovery
+arthroscopy	can help	avoid open surgery
+arthroscopy	can be	performed on various joints
+arthroscopy	is commonly used for	knee problems
+arthroscopy	is commonly used for	shoulder problems
+arthroscopy	is commonly used for	wrist problems
+arthroscopy	is commonly used for	ankle problems
+arthroscopy	can be	more accurate than traditional imaging
+arthroscopy	can be	more effective than non-invasive treatments
+arthroscopy	can be	a cost-effective option
+arthroscopy	can be	a less painful option
+arthroscopy	can help	athletes return to sports faster
+arthroscopy	can help	improve quality of life
+arthroscopy	has a	shorter recovery time compared to open surgery
+arthroscopy	has	easier rehabilitation
+arthroscopy	can be	combined with other procedures
+arthroscopy	can be	used for joint irrigation
+arthroscopy	can be	used for joint debridement
+arthroscopy	can be	used for joint fusion
+arthroscopy	can be	used for joint repairs
+arthroscopy	can be	used for joint reconstruction
+arthroscopy	can be	used for joint replacement
+arthroscopy	can be	used for joint realignment
+arthroscopy	can be	used for joint removal
+arthroscopy	can be	used for joint resurfacing
+arthroscopy	can be	used for joint stabilization
+arthroscopy	can be	used for joint immobilization
+arthroscopy	can be	used for tissue removal
+arthroscopy	can be	used for tumor removal
+arthroscopy	can be	used for bone biopsy
+arthroscopy	can be	used for synovial biopsy
+arthroscopy	can be	used for synovial fluid removal
+arthroscopy	can be	used for synovectomy
+arthroscopy	can be	used for repair of ligaments
+arthroscopy	can be	used for repair of tendons
+arthroscopy	can be	used for repair of cartilage
+arthroscopy	can be	used for repair of meniscus
+arthroscopy	can be	used for removal of loose bodies
+arthroscopy	can be	used for removal of foreign objects
+arthroscopy	can be	used for removal of debris
+arthroscopy	can be	used for removal of scar tissue
+arthroscopy	can be	used for removal of calcium deposits
+arthroscopy	can be	used for repair of fractures
+arthroscopy	can be	used for repair of dislocations
+arthroscopy	can be	used for repair of joint defects
+arthroscopy	can be	used for repair of nerve injuries
+arthroscopy	can be	used for repair of blood vessel injuries
+arthroscopy	can be	used for repair of synovial membrane
+arthroscopy	can be	used for repair of joint capsules
+arthroscopy	can be	used for repair of musculotendinous junctions
+arthroscopy	can be	used for repair of periarticular structures
+arthroscopy	can be	used for repair of nerve entrapments
+arthroscopy	can be	used for repair of bursae
+arthroscopy	can be	used for treatment of osteoarthritis
+arthroscopy	can be	used for treatment of rheumatoid arthritis
+arthroscopy	can be	used for treatment of gout
+arthroscopy	can be	used for treatment of septic arthritis
+arthroscopy	can be	used for treatment of osteomyelitis
+arthroscopy	can be	used for treatment of tendonitis
+arthroscopy	can be	used for treatment of synovitis
+arthroscopy	can be	used for treatment of impingement syndrome
+arthroscopy	can be	used for treatment of labral tears
+arthroscopy	can be	used for treatment of bursitis
+arthroscopy	can be	used for treatment of calcific tendinitis
+arthroscopy	can be	used for treatment of carpal tunnel syndrome
+arthroscopy	can be	used for treatment of cubital tunnel syndrome
+arthroscopy	can be	used for treatment of lateral epicondylitis
+arthroscopy	can be	used for treatment of medial epicondylitis
+arthroscopy	can be	used for treatment of ganglion cysts
+arthroscopy	can be	used for treatment of ligament tears
+arthroscopy	can be	used for treatment of meniscal tears
+arthroscopy	can be	used for treatment of rotator cuff tears
+arthroscopy	can be	used for treatment of tendinosis
+arthroscopy	can be	used for treatment of ligament laxity
+arthroscopy	can be	used for treatment of joint instability
+arthroscopy	can be	used for treatment of joint stiffness
+arthroscopy	can be	used for treatment of frozen shoulder
+arthroscopy	can be	used for treatment of patellar chondromalacia
+arthroscopy	can be	used for treatment of loose bodies in joints
+arthroscopy	is	a minimally invasive surgery
+arthroscopy	is	a safe procedure
+arthroscopy	is	an effective procedure
+arthroscopy	is	a precise procedure
+arthroscopy	is	a reliable procedure
+arthroscopy	is	a well-established procedure
+arthroscopy	is	a widely available procedure
+arthroscopy	is	a specialized procedure
+arthroscopy	has	high success rates
+arthroscopy	is a	medical procedure
+arthroscopy	used for	diagnosis
+arthroscopy	used for	treatment
+arthroscopy	used for	removal
+arthroscopy	can detect	damage
+arthroscopy	can detect	inflammation
+arthroscopy	can detect	infection
+arthroscopy	can detect	tumors
+arthroscopy	can detect	cysts
+arthroscopy	can detect	tears
+arthroscopy	can detect	fractures
+arthroscopy	can detect	dislocations
+arthroscopy	can detect	arthritis
+arthroscopy	can detect	tendinitis
+arthroscopy	can detect	bursitis
+arthroscopy	can detect	synovitis
+arthroscopy	can detect	impingement
+arthroscopy	can detect	ligament damage
+arthroscopy	can detect	cartilage damage
+arthroscopy	can detect	labral tears
+arthroscopy	can detect	loose bodies
+arthroscopy	can detect	meniscus tears
+arthroscopy	can detect	ligament tears
+arthroscopy	can detect	tendon tears
+arthroscopy	can detect	nerve compression
+arthroscopy	can detect	joint infection
+arthroscopy	is used with	anesthesia
+arthroscopy	is performed by	orthopedic surgeons
+arthroscopy	involves	inserting a camera
+arthroscopy	involves	small incisions
+arthroscopy	involves	saline solution
+arthroscopy	involves	arthroscope
+arthroscopy	involves	instruments
+arthroscopy	requires	preparation
+arthroscopy	requires	preoperative evaluation
+arthroscopy	requires	informed consent
+arthroscopy	requires	fasting
+arthroscopy	requires	blood tests
+arthroscopy	requires	imaging tests
+arthroscopy	requires	physical examination
+arthroscopy	risks	infection
+arthroscopy	risks	bleeding
+arthroscopy	risks	nerve damage
+arthroscopy	risks	blood clot formation
+arthroscopy	risks	swelling
+arthroscopy	risks	persistent pain
+arthroscopy	risks	deep vein thrombosis
+arthroscopy	risks	pulmonary embolism
+arthroscopy	risks	anesthesia complications
+arthroscopy	risks	allergic reaction
+arthroscopy	risks	wound healing problems
+arthroscopy	risks	cardiopulmonary problems
+arthroscopy	risks	heart attack
+arthroscopy	risks	stroke
+arthroscopy	risks	death
+arthroscopy	recovery	time
+arthroscopy	recovery	period
+arthroscopy	recovery	dressing
+arthroscopy	recovery	pain management
+arthroscopy	recovery	rehabilitation
+arthroscopy	recovery	physical therapy
+arthroscopy	recovery	ice packs
+arthroscopy	recovery	elevation
+arthroscopy	recovery	compression
+arthroscopy	recovery	weight bearing limitations
+arthroscopy	recovery	activity restrictions
+arthroscopy	recovery	wound care
+arthroscopy	recovery	follow-up appointments
+arthroscopy	recovery	work restrictions
+arthroscopy	outcomes	improved joint function
+arthroscopy	outcomes	reduced pain
+arthroscopy	outcomes	improved range of motion
+arthroscopy	outcomes	improved quality of life
+arthroscopy	outcomes	reduced swelling
+arthroscopy	outcomes	improved strength
+arthroscopy	outcomes	reduced risk of complications
+arthroscopy	outcomes	improved cartilage health
+arthroscopy	outcomes	improved ligament health
+arthroscopy	outcomes	improved tendon health
+arthroscopy	outcomes	improved muscle health
+arthroscopy	outcomes	improved joint stability
+arthroscopy	outcomes	improved joint alignment
+arthroscopy	outcomes	reduced joint stiffness
+arthroscopy	outcomes	reduced risk of arthritis
+arthroscopy	outcomes	improved athletic performance
+arthroscopy	outcomes	improved mobility
+arthroscopy	outcomes	improved balance
+arthroscopy	outcomes	improved coordination
+arthroscopy	outcomes	improved gait
+arthroscopy	outcomes	improved posture
+arthroscopy	outcomes	improved proprioception
+arthroscopy	outcomes	improved quality of sleep
+arthroscopy	outcomes	reduced fatigue
+arthroscopy	outcomes	reduced joint pain
+arthroscopy	outcomes	improved function for daily activities
+arthroscopy	outcomes	improved self-esteem
+arthroscopy	outcomes	improved body image
+arthroscopy	outcomes	restored independence
+arthroscopy	outcomes	increased self-confidence
+arthroscopy	outcomes	enhanced social interactions
+arthroscopy	limitations	ineffective for severe cases
+arthroscopy	limitations	not suitable for all patients
+arthroscopy	limitations	limited to certain joints
+arthroscopy	limitations	limited visibility for certain structures
+arthroscopy	limitations	limited access for certain locations
+arthroscopy	limitations	limited range of motion during procedure
+arthroscopy	limitations	limited bone removal capabilities
+arthroscopy	limitations	limited tissue removal capabilities
+arthroscopy	limitations	limited repair capabilities
+arthroscopy	limitations	requires expertise in interpretation
+arthroscopy	limitations	equipment limitations
+arthroscopy	limitations	prolonged recovery in some cases
+arthroscopy	limitations	potential need for additional procedures
+arthroscopy	limitations	potential need for open surgery
+arthroscopy	limitations	potential need for joint replacement
+arthroscopy	limitations	potential need for rehabilitation
+arthroscopy	limitations	potential need for pain management
+arthroscopy	limitations	potential need for physical therapy
+arthroscopy	limitations	potential need for assistive devices
+arthroscopy	limitations	potential need for lifestyle modifications
+arthroscopy	limitations	potential need for weight management
+arthroscopy	limitations	potential need for medication management
+arthroscopy	limitations	potential need for psychological support
+arthroscopy	limitations	potential need for occupational therapy
+arthroscopy	limitations	potential need for dietary changes
+arthroscopy	limitations	potential need for assistive technology
+arthroscopy	limitations	potential need for home modifications
+arthroscopy	limitations	potential need for caregiver support

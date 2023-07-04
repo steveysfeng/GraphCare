@@ -1,0 +1,187 @@
+arthroplasty	is a	surgical procedure
+arthroplasty	used for	joint replacement
+joint replacement	can alleviate	pain
+joint replacement	can improve	joint function
+joint replacement	is a	major surgery
+joint replacement	requires	anesthesia
+joint replacement	has	risks
+joint replacement	has	complications
+joint	is a	body part
+joint	connects	bones
+joint	allows	movement
+movement	is necessary for	daily activities
+movement	can be limited by	joint problems
+joint problems	can be caused by	arthritis
+joint problems	can be caused by	injury
+joint problems	can be caused by	wear and tear
+joint problems	can result in	pain
+joint problems	can result in	stiffness
+joint problems	can result in	swelling
+joint problems	can result in	limited mobility
+joint problems	can result in	deformity
+pain	can be relieved by	medication
+medication	can have	side effects
+medication	can interact with	other drugs
+medication	should be taken	as prescribed
+stiffness	can be improved by	physical therapy
+physical therapy	involves	exercises
+physical therapy	can increase	flexibility
+physical therapy	can strengthen	muscles
+swelling	can be reduced by	elevation
+swelling	can be reduced by	ice
+swelling	can be reduced by	compression
+limited mobility	can be addressed through	assistive devices
+assistive devices	include	canes
+assistive devices	include	crutches
+deformity	can be corrected by	surgery
+surgery	can involve	arthroplasty
+surgery	can involve	joint fusion
+surgery	can involve	joint reconstruction
+surgery	can involve	joint repair
+joint repair	can be	minimally invasive
+arthroplasty	is a	surgical procedure
+arthroplasty	used for	joint replacement
+elbow arthroplasty	is a type of	arthroplasty
+elbow arthroplasty	used for	treating arthritis
+shoulder arthroplasty	is a type of	arthroplasty
+shoulder arthroplasty	used for	treating shoulder joint pain
+ankle arthroplasty	is a type of	arthroplasty
+ankle arthroplasty	used for	treating ankle joint arthritis
+wrist arthroplasty	is a type of	arthroplasty
+wrist arthroplasty	used for	treating wrist joint arthritis
+digit arthroplasty	is a type of	arthroplasty
+digit arthroplasty	used for	treating finger joint arthritis
+arthroplasty	can lead to	improved joint function
+arthroplasty	can reduce	joint pain
+arthroplasty	can improve	range of motion
+arthroplasty	can require	rehabilitation
+arthroplasty	has risks of	infection
+arthroplasty	has risks of	blood clots
+arthroplasty	has risks of	implant failure
+arthroplasty	has risks of	nerve damage
+arthroplasty	has risks of	tissue damage
+arthroplasty	has risks of	allergic reaction
+arthroplasty	has risks of	chronic pain
+arthroplasty	can result in	improved quality of life
+arthroplasty	can require	post-operative care
+arthroplasty	can lead to	increased mobility
+arthroplasty	can have	long-term outcomes
+arthroplasty	can require	physiotherapy
+arthroplasty	can lead to	better joint stability
+arthroplasty	can require	lifestyle adjustments
+arthroplasty	can result in	improved joint alignment
+arthroplasty	can require	pain management
+arthroplasty	can result in	decreased joint inflammation
+arthroplasty	can require	assistive devices
+arthroplasty	can result in	reduced joint deformities
+arthroplasty	can lead to	decreased dependency on medication
+arthroplasty	can require	regular follow-up visits
+arthroplasty	can result in	increased joint strength
+arthroplasty	can require	dietary modifications
+arthroplasty	can result in	improved joint stability
+arthroplasty	can require	weight management
+arthroplasty	can result in	improved joint biomechanics
+arthroplasty	can lead to	decreased joint stiffness
+arthroplasty	can result in	improved joint proprioception
+arthroplasty	can require	emotional support
+arthroplasty	can lead to	reduced joint instability
+arthroplasty	can require	adaptive equipment
+arthroplasty	can lead to	decreased joint swelling
+arthroplasty	can require	lifestyle modifications
+arthroplasty	can result in	improved joint durability
+arthroplasty	can lead to	decreased joint pain on movement
+arthroplasty	can result in	enhanced joint stability
+arthroplasty	can require	pain relief techniques
+arthroplasty	can result in	improved joint alignment
+arthroplasty	can lead to	better joint range of motion
+arthroplasty	can require	sleep adjustments
+arthroplasty	can result in	improved joint flexibility
+arthroplasty	can lead to	decreased joint crepitus
+arthroplasty	can require	mobility aids
+arthroplasty	can result in	reduced joint tenderness
+arthroplasty	can lead to	improved joint proprioception
+arthroplasty	can require	vocational therapy
+arthroplasty	can result in	decreased joint instability
+arthroplasty	can lead to	improved joint function
+arthroplasty	can require	psychological counseling
+arthroplasty	can result in	decreased joint inflammation
+arthroplasty	can lead to	enhanced joint strength
+arthroplasty	can require	occupational therapy
+arthroplasty	can result in	improved joint stability
+arthroplasty	can lead to	decreased joint pain at rest
+arthroplasty	can result in	improved joint biomechanics
+arthroplasty	can require	social support
+arthroplasty	can lead to	reduced joint deformities
+arthroplasty	can result in	increased joint endurance
+arthroplasty	can require	adapted living arrangements
+arthroplasty	can result in	improved joint durability
+arthroplasty	can lead to	decreased joint pain on weight-bearing
+arthroplasty	can result in	enhanced joint stability
+arthroplasty	can require	stress management
+arthroplasty	can result in	improved joint alignment
+arthroplasty	can lead to	better joint mobility
+arthroplasty	can require	spiritual support
+arthroplasty	can result in	improved joint flexibility
+arthroplasty	can lead to	decreased joint stiffness in the morning
+arthroplasty	can result in	reduced joint tenderness
+arthroplasty	can lead to	improved joint proprioception
+arthroplasty	can require	recreational therapy
+arthroplasty	can result in	decreased joint instability
+arthroplasty	can lead to	improved joint function
+arthroplasty	can require	self-care assistance
+arthroplasty	can result in	decreased joint inflammation
+arthroplasty	can lead to	enhanced joint strength
+arthroplasty	can require	self-management skills
+arthroplasty	can result in	improved joint stability
+arthroplasty	can lead to	decreased joint pain with activity
+arthroplasty	can result in	improved joint mobility
+arthroplasty	can lead to	reduced joint deformities
+arthroplasty	can result in	increased joint endurance
+arthroplasty	can lead to	improved joint durability
+arthroplasty	can result in	enhanced joint stability
+arthroplasty	can lead to	decreased joint pain at night
+arthroplasty	can result in	improved joint alignment
+arthroplasty	can lead to	better joint function
+arthroplasty	can result in	improved joint biomechanics
+arthroplasty	can lead to	decreased joint pain on movement
+arthroplasty	can result in	improved joint stability
+arthroplasty	can lead to	decreased joint crepitus
+arthroplasty	can require	mobility aids
+arthroplasty	can lead to	reduced joint tenderness
+arthroplasty	can result in	improved joint proprioception
+arthroplasty	can lead to	decreased joint instability
+arthroplasty	can result in	enhanced joint strength
+arthroplasty	can lead to	improved joint stability
+arthroplasty	can result in	decreased joint pain on rest
+arthroplasty	can lead to	improved joint biomechanics
+arthroplasty	can result in	increased joint range of motion
+arthroplasty	can lead to	decreased joint stiffness
+arthroplasty	can result in	improved joint flexibility
+arthroplasty	can lead to	reduced joint inflammation
+arthroplasty	can result in	enhanced joint endurance
+arthroplasty	can lead to	decreased joint deformities
+arthroplasty	can result in	improved joint stability
+arthroplasty	can lead to	decreased joint pain on weight-bearing
+arthroplasty	can result in	improved joint alignment
+arthroplasty	can lead to	better joint mobility
+arthroplasty	can result in	decreased joint stiffness in the morning
+arthroplasty	can lead to	improved joint proprioception
+arthroplasty	can result in	reduced joint tenderness
+arthroplasty	can lead to	enhanced joint strength
+arthroplasty	can result in	improved joint stability
+arthroplasty	can lead to	decreased joint pain with activity
+arthroplasty	can result in	improved joint mobility
+arthroplasty	can lead to	reduced joint deformities
+arthroplasty	can result in	increased joint endurance
+arthroplasty	can lead to	improved joint durability
+arthroplasty	can result in	enhanced joint stability
+arthroplasty	can lead to	decreased joint pain at night
+arthroplasty	can result in	improved joint alignment
+arthroplasty	can lead to	better joint function
+arthroplasty	can result in	improved joint biomechanics
+arthroplasty	can lead to	decreased joint pain on movement
+arthroplasty	can result in	improved joint stability
+arthroplasty	can lead to	decreased joint crepitus
+arthroplasty	can result in	reduced joint tenderness
+arthroplasty	can lead to	improved joint proprioception
+arthroplasty	can result in	decreased joint instability

@@ -1,0 +1,224 @@
+open prostatectomy	is a	surgical procedure
+open prostatectomy	used for	treating prostate cancer
+open prostatectomy	involves	removing the entire prostate gland
+open prostatectomy	can result in	urinary incontinence
+open prostatectomy	can cause	erectile dysfunction
+open prostatectomy	carries a risk of	infection
+open prostatectomy	requires	general anesthesia
+open prostatectomy	has a recovery period of	several weeks
+open prostatectomy	may lead to	blood loss
+open prostatectomy	can be performed using	minimally invasive techniques
+open prostatectomy	is typically recommended for	larger prostate tumors
+open prostatectomy	may be an option when	other treatments have been unsuccessful
+open prostatectomy	may be performed in combination with	radiation therapy
+open prostatectomy	has a potential for	complications
+open prostatectomy	is associated with	longer hospital stays
+open prostatectomy	is more invasive than	robotic prostatectomy
+open prostatectomy	is a commonly performed	surgical procedure
+open prostatectomy	can be performed by	urologists
+open prostatectomy	has a risk of	urinary tract infections
+open prostatectomy	is typically performed in	older men
+open prostatectomy	can provide	long-term prostate cancer control
+open prostatectomy	may be recommended for	high-risk prostate cancer
+open prostatectomy	can improve	urinary symptoms
+open prostatectomy	may require	a blood transfusion
+open prostatectomy	offers	a high chance of cure
+open prostatectomy	is a treatment option for	localized prostate cancer
+open prostatectomy	requires	hospitalization
+open prostatectomy	may result in	scarring
+open prostatectomy	is associated with	longer recovery time
+open prostatectomy	can be performed as	a radical prostatectomy
+open prostatectomy	can be performed as	a nerve-sparing procedure
+open prostatectomy	requires	preoperative preparation
+open prostatectomy	can be performed using	traditional "open" surgery
+open prostatectomy	carries a risk of	lymphedema
+open prostatectomy	can be performed as	a laparoscopic procedure
+open prostatectomy	can be performed as	a robotic-assisted procedure
+open prostatectomy	can be performed as	a retropubic procedure
+open prostatectomy	can result in	bladder neck contracture
+open prostatectomy	may involve	removing nearby lymph nodes
+open prostatectomy	may be performed as	a salvage procedure
+open prostatectomy	requires	postoperative care
+open prostatectomy	may require	a urinary catheter
+open prostatectomy	has a risk of	postoperative complications
+open prostatectomy	has a risk of	wound infection
+open prostatectomy	can be performed using	a perineal approach
+open prostatectomy	may be performed as	a salvage therapy
+open prostatectomy	can result in	a longer hospital stay
+open prostatectomy	can be combined with	hormone therapy
+open prostatectomy	can result in	retrograde ejaculation
+open prostatectomy	may require	a suprapubic catheter
+open prostatectomy	can result in	urethral stricture
+open prostatectomy	may require	additional treatment
+open prostatectomy	may be recommended for	locally advanced prostate cancer
+open prostatectomy	is associated with	a risk of impotence
+open prostatectomy	can be performed as	a perineal procedure
+open prostatectomy	is associated with	a risk of urinary obstruction
+open prostatectomy	carries a risk of	blood clots
+open prostatectomy	can be performed as	a transurethral procedure
+open prostatectomy	may result in	loss of ejaculation
+open prostatectomy	carries a risk of	rectal injury
+open prostatectomy	can be performed as	an open retropubic procedure
+open prostatectomy	may be performed as	a curative procedure
+open prostatectomy	can result in	extended hospitalization
+open prostatectomy	can be performed as	a nerve-sparing operation
+open prostatectomy	is associated with	a potential for incontinence
+open prostatectomy	carries a risk of	bowel injury
+open prostatectomy	can be performed as	a radical retropubic procedure
+open prostatectomy	may be recommended for	recurrent prostate cancer
+open prostatectomy	can result in	lymphatic issues
+open prostatectomy	is associated with	a risk of erectile dysfunction
+open prostatectomy	can be performed as	an open perineal procedure
+open prostatectomy	may require	a suprapubic tube
+open prostatectomy	may be performed as	a definitive treatment
+open prostatectomy	carries a risk of	wound complications
+open prostatectomy	can be performed as	a retropubic radical procedure
+open prostatectomy	can result in	urinary difficulties
+open prostatectomy	carries a risk of	bowel complications
+open prostatectomy	can be performed as	a transperineal procedure
+open prostatectomy	may result in	postoperative pain
+open prostatectomy	carries a risk of	nerve damage
+open prostatectomy	can be performed as	a perineal radical procedure
+open prostatectomy	may be recommended for	aggressive prostate cancer
+open prostatectomy	can result in	incontinence
+open prostatectomy	may require	pelvic lymphadenectomy
+open prostatectomy	can be performed as	a robotic-assisted radical procedure
+open prostatectomy	carries a risk of	anemia
+open prostatectomy	can be performed as	an open retropubic radical procedure
+open prostatectomy	may require	adjuvant therapy
+open prostatectomy	is associated with	a risk of retrograde ejaculation
+open prostatectomy	can be performed as	a transperineal radical procedure
+open prostatectomy	may result in	lower urinary tract symptoms
+open prostatectomy	carries a risk of	vascular injury
+open prostatectomy	can be performed as	an endoscopic procedure
+open prostatectomy	may be recommended for	locally recurrent prostate cancer
+open prostatectomy	can result in	urinary obstruction
+open prostatectomy	may require	postoperative rehabilitation
+open prostatectomy	carries a risk of	incontinence
+open prostatectomy	can be performed as	a retropubic perineal procedure
+open prostatectomy	is associated with	a risk of bladder dysfunction
+open prostatectomy	can be performed as	a perineal approach with pelvic lymphadenectomy
+open prostatectomy	may result in	urinary retention
+open prostatectomy	carries a risk of	nerve injury
+open prostatectomy	can be performed as	a robotic-assisted retropubic procedure
+open prostatectomy	may require	neoadjuvant therapy
+open prostatectomy	is associated with	a risk of stricture
+open prostatectomy	can be performed as	a retropubic perineal radical procedure
+open prostatectomy	may be recommended for	locally advanced recurrent prostate cancer
+open prostatectomy	can result in	postoperative complications
+open prostatectomy	carries a risk of	lymphocele
+open prostatectomy	can be performed as	an extended retropubic procedure
+open prostatectomy	is a	surgical procedure
+open prostatectomy	used for	removing the prostate
+open prostatectomy	can treat	prostate cancer
+open prostatectomy	involves	a large incision
+open prostatectomy	commonly performed	under general anesthesia
+open prostatectomy	has	potential complications
+open prostatectomy	may result in	urinary incontinence
+open prostatectomy	may cause	erectile dysfunction
+open prostatectomy	requires	post-operative care
+open prostatectomy	can be followed by	radiation therapy
+open prostatectomy	has	long recovery time
+open prostatectomy	is performed	by a urologist
+open prostatectomy	is considered	a standard treatment for prostate cancer
+open prostatectomy	is contraindicated	in certain patients
+open prostatectomy	can be	life-saving
+open prostatectomy	is associated with	blood loss
+open prostatectomy	has a risk of	infection
+open prostatectomy	has	alternative treatments
+open prostatectomy	complications can be	managed
+open prostatectomy	has	variable outcomes
+open prostatectomy	is typically done	in older patients
+open prostatectomy	has	post-operative pain
+open prostatectomy	is a	major surgery
+open prostatectomy	may require	blood transfusion
+open prostatectomy	may be	performed robotically
+open prostatectomy	can result in	changes in bladder function
+open prostatectomy	can be followed by	hormone therapy
+open prostatectomy	may require	overnight hospital stay
+open prostatectomy	has	potential benefits
+open prostatectomy	has	improved techniques
+open prostatectomy	requires	pre-operative preparation
+open prostatectomy	can be	performed laparoscopically
+open prostatectomy	has	modified techniques
+open prostatectomy	can result in	pelvic floor weakness
+open prostatectomy	may require	catheterization
+open prostatectomy	is a	definitive treatment
+open prostatectomy	can cause	lymphedema
+open prostatectomy	has	specific indications
+open prostatectomy	is	invasive
+open prostatectomy	has	experienced surgeons
+open prostatectomy	is	time-consuming
+open prostatectomy	is associated with	hospitalization
+open prostatectomy	has	potential risks
+open prostatectomy	requires	informed consent
+open prostatectomy	can be	curative
+open prostatectomy	is	high cost
+open prostatectomy	can lead to	bladder neck contracture
+open prostatectomy	can be performed	with nerve-sparing techniques
+open prostatectomy	can be	difficult
+open prostatectomy	can result in	urinary stricture
+open prostatectomy	has	long-term effects
+open prostatectomy	can be followed by	physical therapy
+open prostatectomy	may require	DVT prophylaxis
+open prostatectomy	has	potential side effects
+open prostatectomy	is	resource-intensive
+open prostatectomy	can be	gender-affirming
+open prostatectomy	has	improved outcomes
+open prostatectomy	requires	specialist care
+open prostatectomy	can result in	bladder spasms
+open prostatectomy	can cause	abdominal pain
+open prostatectomy	is	complex
+open prostatectomy	has	longer hospital stay
+open prostatectomy	can be	done in stages
+open prostatectomy	can lead to	rectal injury
+open prostatectomy	may be	indicated for large prostates
+open prostatectomy	has	potential complications
+open prostatectomy	requires	post-operative follow-up
+open prostatectomy	can result in	urethral stricture
+open prostatectomy	can be followed by	chemotherapy
+open prostatectomy	has	psychological impact
+open prostatectomy	can cause	fatigue
+open prostatectomy	is	invasive
+open prostatectomy	can result in	post-operative bleeding
+open prostatectomy	may be	performed in combination with other procedures
+open prostatectomy	can be	life-altering
+open prostatectomy	has	improved survival rates
+open prostatectomy	requires	monitoring
+open prostatectomy	can cause	lymphocele
+open prostatectomy	can result in	wound infection
+open prostatectomy	has	potential benefits and risks
+open prostatectomy	is a	treatment option
+open prostatectomy	can be	technically challenging
+open prostatectomy	can lead to	urinary retention
+open prostatectomy	can be followed by	radiation therapy
+open prostatectomy	has	variable recovery time
+open prostatectomy	requires	careful patient selection
+open prostatectomy	can cause	hernia
+open prostatectomy	may be	performed through a perineal approach
+open prostatectomy	can result in	changes in sexual function
+open prostatectomy	can be followed by	immunotherapy
+open prostatectomy	is	time-sensitive
+open prostatectomy	has	potential complications
+open prostatectomy	requires	multidisciplinary team care
+open prostatectomy	can be	technically demanding
+open prostatectomy	can result in	nerve damage
+open prostatectomy	has	potential long-term effects
+open prostatectomy	may require	assistive devices
+open prostatectomy	is	an established treatment
+open prostatectomy	can cause	bladder spasms
+open prostatectomy	can be followed by	androgen deprivation therapy
+open prostatectomy	has	specific contraindications
+open prostatectomy	is	invasive
+open prostatectomy	has	steep learning curve
+open prostatectomy	can be	associated with post-operative complications
+open prostatectomy	requires	post-operative care instructions
+open prostatectomy	can result in	urinary incontinence
+open prostatectomy	can lead to	catheter dependency
+open prostatectomy	has	potential side effects
+open prostatectomy	is	labor-intensive
+open prostatectomy	can cause	erectile dysfunction
+open prostatectomy	can be followed by	active surveillance
+open prostatectomy	has	experienced surgeons
+open prostatectomy	is	high-risk
+open prostatectomy	can result in	fecal incontinence

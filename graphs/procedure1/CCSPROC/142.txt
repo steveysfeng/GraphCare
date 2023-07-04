@@ -1,0 +1,201 @@
+partial excision bone	is a	surgical procedure
+partial excision bone	used for	treatment
+partial excision bone	can be performed on	hand
+partial excision bone	can be performed on	foot
+partial excision bone	can be performed on	skull
+partial excision bone	can be performed on	spine
+partial excision bone	can be performed on	hip
+partial excision bone	can be performed on	knee
+partial excision bone	can be performed on	shoulder
+partial excision bone	can be performed on	elbow
+partial excision bone	can be performed on	wrist
+partial excision bone	can be performed on	ankle
+partial excision bone	can be performed on	clavicle
+partial excision bone	can be performed on	ribs
+partial excision bone	can be performed on	sternum
+partial excision bone	can be performed on	scapula
+partial excision bone	can be performed on	pelvis
+partial excision bone	can be performed on	femur
+partial excision bone	can be performed on	tibia
+partial excision bone	can be performed on	fibula
+partial excision bone	can be performed on	humerus
+partial excision bone	can be performed on	radius
+partial excision bone	can be performed on	ulna
+partial excision bone	can be performed on	metacarpals
+partial excision bone	can be performed on	metatarsals
+partial excision bone	can be performed on	phalanges
+partial excision bone	can be performed on	patella
+partial excision bone	can be performed on	clavicle
+partial excision bone	can be performed on	occipital bone
+partial excision bone	can be performed on	cervical vertebrae
+partial excision bone	can be performed on	thoracic vertebrae
+partial excision bone	can be performed on	lumbar vertebrae
+partial excision bone	can be performed on	sacrum
+partial excision bone	can be performed on	coccyx
+partial excision bone	can be performed on	malleus
+partial excision bone	can be performed on	incus
+partial excision bone	can be performed on	stapes
+partial excision bone	can be performed on	hyoid bone
+partial excision bone	can be performed on	vomer
+partial excision bone	can be performed on	nasal bone
+partial excision bone	can be performed on	zygomatic bone
+partial excision bone	can be performed on	maxilla
+partial excision bone	can be performed on	mandible
+partial excision bone	can be performed on	ethmoid bone
+partial excision bone	can be performed on	sphenoid bone
+partial excision bone	can be performed on	temporal bone
+partial excision bone	can be performed on	palatine bone
+partial excision bone	can be performed on	lacrimal bone
+partial excision bone	can be performed on	inferior nasal concha
+partial excision bone	can be performed on	parietal bone
+partial excision bone	can be performed on	frontal bone
+partial excision bone	can be performed on	pisiform bone
+partial excision bone	can be performed on	trapezium
+partial excision bone	can be performed on	trapezoid
+partial excision bone	can be performed on	capitate
+partial excision bone	can be performed on	hamate
+partial excision bone	can be performed on	lunate
+partial excision bone	can be performed on	scaphoid
+partial excision bone	can be performed on	triquetrum
+partial excision bone	can be performed on	navicular
+partial excision bone	can be performed on	calcaneus
+partial excision bone	can be performed on	talus
+partial excision bone	can be performed on	cuneiform
+partial excision bone	can be performed on	cuboid
+partial excision bone	can be performed on	malleus
+partial excision bone	can be performed on	incus
+partial excision bone	can be performed on	stapes
+partial excision bone	can be performed on	hyoid bone
+partial excision bone	can be performed on	vomer
+partial excision bone	can be performed on	nasal bone
+partial excision bone	can be performed on	zygomatic bone
+partial excision bone	can be performed on	maxilla
+partial excision bone	can be performed on	mandible
+partial excision bone	can be performed on	ethmoid bone
+partial excision bone	can be performed on	sphenoid bone
+partial excision bone	can be performed on	temporal bone
+partial excision bone	can be performed on	palatine bone
+partial excision bone	can be performed on	lacrimal bone
+partial excision bone	can be performed on	inferior nasal concha
+partial excision bone	can be performed on	parietal bone
+partial excision bone	can be performed on	frontal bone
+partial excision bone	can be performed on	pisiform bone
+partial excision bone	can be performed on	trapezium
+partial excision bone	can be performed on	trapezoid
+partial excision bone	can be performed on	capitate
+partial excision bone	can be performed on	hamate
+partial excision bone	can be performed on	lunate
+partial excision bone	is a	surgical procedure
+partial excision bone	used for	tumor removal
+tumor	can be	benign
+tumor	can be	malignant
+malignant tumor	can spread to	other parts of the body
+partial excision bone	can treat	bone fractures
+bone fractures	can result from	trauma
+partial excision bone	can improve	mobility
+mobility	can be	limited
+partial excision bone	can cause	pain
+pain	can be managed with	pain medication
+partial excision bone	can lead to	complications
+complications	can include	infection
+infection	can be treated with	antibiotics
+partial excision bone	has	recovery time
+partial excision bone	requires	anesthesia
+anesthesia	can cause	side effects
+partial excision bone	carries	risks
+risks	can be	minimized
+partial excision bone	may require	physical therapy
+physical therapy	can aid in	rehabilitation
+partial excision bone	may result in	scarring
+scarring	can be	permanent
+partial excision bone	may require	follow-up appointments
+follow-up appointments	are necessary for	monitoring
+partial excision bone	can be	expensive
+partial excision bone	can be	covered by insurance
+partial excision bone	can have	long-term effects
+long-term effects	can be	unknown
+partial excision bone	can be	performed by a surgeon
+surgeon	should have	experience
+partial excision bone	may require	pre-operative testing
+pre-operative testing	can include	imaging
+partial excision bone	can be	successful
+success	can depend on	individual factors
+partial excision bone	has	recovery period
+recovery period	can vary
+partial excision bone	carries	risks of complications
+risks of complications	can be	reduced
+partial excision bone	can result in	improved quality of life
+quality of life	can depend on	overall health
+partial excision bone	can be	performed under general anesthesia
+general anesthesia	carries	risks
+partial excision bone	may require	post-operative care
+post-operative care	can involve	wound care
+partial excision bone	can be	recommended by a doctor
+partial excision bone	may require	time off work
+time off work	can depend on	job demands
+partial excision bone	can result in	smaller scar compared to full excision
+partial excision bone	can be	a minimally invasive procedure
+partial excision bone	can be an	outpatient procedure
+partial excision bone	can be	painful
+partial excision bone	can require	physical rehabilitation
+physical rehabilitation	can involve	exercises
+partial excision bone	can be	a treatment option
+partial excision bone	can be	performed using minimally invasive techniques
+partial excision bone	can require	follow-up appointments
+follow-up appointments	are important for	monitoring progress
+partial excision bone	can be	successful in treating tumors
+partial excision bone	can require	post-operative pain management
+post-operative pain management	can involve	medications
+partial excision bone	can result in	improved functional outcome
+functional outcome	can be	assessed
+partial excision bone	can lead to	reduced pain
+partial excision bone	can be	a safe procedure
+partial excision bone	can result in	improved range of motion
+partial excision bone	can require	physical therapy
+physical therapy	can help with	rehabilitation
+partial excision bone	can be	performed with robotic assistance
+partial excision bone	can involve	removing part of the bone
+partial excision bone	can require	bone graft
+bone graft	can come from	another part of the body
+partial excision bone	can be	performed using minimally invasive techniques
+partial excision bone	can result in	improved quality of life
+partial excision bone	can be	an alternative to full excision
+partial excision bone	can be	performed using arthroscopy
+arthroscopy	allows for	minimally invasive surgery
+partial excision bone	can be	a treatment option for bone tumors
+bone tumors	can be	cancerous
+partial excision bone	can be	necessary for tumor control
+partial excision bone	can be	a complex procedure
+partial excision bone	can result in	improved function
+partial excision bone	can require	rehabilitation
+rehabilitation	is important for	recovery
+partial excision bone	can result in	improved pain relief
+partial excision bone	can involve	removing only a portion of the bone
+partial excision bone	can require	a hospital stay
+partial excision bone	can result in	improved mobility
+partial excision bone	can be	recommended as a treatment option for bone tumors
+bone tumors	can be	primary
+partial excision bone	can be	performed using open surgery
+open surgery	may result in	longer recovery time
+partial excision bone	can be	performed under local anesthesia
+local anesthesia	can be	preferable for certain patients
+partial excision bone	can result in	improved quality of life
+partial excision bone	may require	additional treatments
+additional treatments	may include	chemotherapy
+partial excision bone	can be	a life-saving procedure
+partial excision bone	can result in	improved survival rates
+partial excision bone	can be	a treatment option for bone infections
+bone infections	can be	caused by bacteria
+partial excision bone	can be	performed using a minimally invasive approach
+partial excision bone	can involve	removing infected tissue
+partial excision bone	can require	antibiotic therapy
+antibiotic therapy	is necessary for	treating infections
+partial excision bone	can result in	improved bone healing
+partial excision bone	can be	a treatment option for bone deformities
+bone deformities	can be	congenital
+partial excision bone	can be	a last-resort treatment option
+partial excision bone	can result in	improved limb function
+partial excision bone	can require	bone reconstruction
+bone reconstruction	can involve	implantation of metal devices
+partial excision bone	can be	a palliative treatment option
+partial excision bone	can result in	improved patient outcomes

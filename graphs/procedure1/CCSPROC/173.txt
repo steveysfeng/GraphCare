@@ -1,0 +1,78 @@
+diagnostic procedures	is a	medical procedure
+diagnostic procedures	used for	diagnosis
+skin	is a part of	subcutaneous tissue
+skin	can be affected by	diseases
+subcutaneous tissue	can be affected by	infections
+diagnostic procedures	can detect	skin diseases
+diagnostic procedures	can detect	subcutaneous tissue infections
+procedures	are performed on	skin and subcutaneous tissue
+procedures	used for	diagnosis
+biopsy	is a type of	procedures
+biopsy procedures	can detect	skin cancer
+biopsy procedures	can detect	melanoma
+biopsy procedures	can detect	basal cell carcinoma
+dermatoscopy	is a type of	procedures
+dermatoscopy	can aid in	diagnosis
+dermatoscopy	can detect	skin conditions
+skin biopsy	is a type of	procedures
+skin biopsy	can detect	skin diseases
+skin biopsy	can detect	infections
+skin biopsy	can detect	allergies
+punch biopsy	is a type of	skin biopsy
+punch biopsy	is used for	diagnosis
+punch biopsy	can detect	dermal conditions
+punch biopsy	can detect	pigmented lesions
+punch biopsy	can detect	neoplastic conditions
+excisional biopsy	is a type of	skin biopsy
+excisional biopsy	is used for	diagnosis
+excisional biopsy	can detect	tumors
+excisional biopsy	can detect	cysts
+excisional biopsy	can detect	moles
+excisional biopsy	can detect	lipomas
+excisional biopsy	can detect	abscesses
+shave biopsy	is a type of	skin biopsy
+shave biopsy	is used for	diagnosis
+shave biopsy	can detect	superficial skin conditions
+shave biopsy	can detect	skin growths
+shave biopsy	can detect	precancerous lesions
+shave biopsy	can detect	epidermal lesions
+patch test	is a type of	procedures
+patch test	used for	diagnosing allergies
+patch test	can detect	allergic reactions
+patch test	can detect	contact dermatitis
+patch test	can detect	eczema
+patch test	can detect	psoriasis
+skin scraping	is a type of	procedures
+skin scraping	used for	diagnosis
+skin scraping	can detect	fungal infections
+skin scraping	can detect	scabies
+skin scraping	can detect	ringworm
+skin scraping	can detect	mites
+skin scraping	can detect	lice
+skin prick test	is a type of	procedures
+skin prick test	used for	diagnosing allergies
+skin prick test	can detect	allergies
+skin prick test	can detect	food allergies
+skin prick test	can detect	environmental allergies
+skin prick test	can detect	pollen allergies
+culturing	is a type of	procedures
+culturing	used for	diagnosis
+culturing	can detect	bacterial infections
+culturing	can detect	viral infections
+culturing	can detect	fungal infections
+biopsy	is performed for	diagnosis
+dermatoscopy	is performed for	diagnosis
+patch test	is performed for	diagnosing allergies
+skin scraping	is performed for	diagnosis
+skin prick test	is performed for	diagnosing allergies
+culturing	is performed for	diagnosis
+biopsy procedures	are performed on	skin and subcutaneous tissue
+dermatoscopy	is performed on	skin and subcutaneous tissue
+skin biopsy	is performed on	skin and subcutaneous tissue
+punch biopsy	is performed on	skin and subcutaneous tissue
+excisional biopsy	is performed on	skin and subcutaneous tissue
+shave biopsy	is performed on	skin and subcutaneous tissue
+patch test	is performed on	skin and subcutaneous tissue
+skin scraping	is performed on	skin and subcutaneous tissue
+skin prick test	is performed on	skin and subcutaneous tissue
+culturing	is performed on	skin and subcutaneous tissue

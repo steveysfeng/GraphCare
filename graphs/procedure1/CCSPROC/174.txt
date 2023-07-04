@@ -1,0 +1,120 @@
+non-or therapeutic procedures	can be performed on	skin
+non-or therapeutic procedures	can be performed on	breast
+procedure	can be therapeutic
+procedure	can be non-therapeutic
+procedure	can be performed on	skin
+procedure	can be performed on	breast
+skin	can undergo	procedure
+breast	can undergo	procedure
+procedure	can be used to treat	skin conditions
+procedure	can be used to treat	breast conditions
+procedure	can improve	skin health
+procedure	can improve	breast health
+procedure	can be recommended for	skin
+procedure	can be recommended for	breast
+procedure	may involve	incisions
+procedure	may involve	sutures
+procedure	may involve	anesthesia
+procedure	may require	hospitalization
+procedure	may require	follow-up appointments
+procedure	may require	recovery period
+procedure	may have	side effects
+procedure	may have	complications
+procedure	may have	risks
+procedure	may have	benefits
+procedure	may result in	scarring
+procedure	may result in	pain
+procedure	may result in	swelling
+procedure	may result in	infection
+procedure	may result in	bleeding
+procedure	may result in	bruising
+procedure	may result in	numbness
+procedure	may result in	allergic reactions
+procedure	may be contraindicated in	certain medical conditions
+procedure	may interact with	medications
+procedure	may be covered by	insurance
+procedure	may require	pre-authorization
+procedure	may be performed by	dermatologists
+procedure	may be performed by	plastic surgeons
+procedure	may be performed by	general surgeons
+procedure	may be performed by	gynecologists
+procedure	may be performed by	oncologists
+procedure	may be performed by	radiologists
+procedure	may be performed by	cosmetic specialists
+procedure	may be performed in	outpatient settings
+procedure	may be performed in	hospital settings
+procedure	may be performed in	surgical centers
+procedure	may be performed in	office settings
+procedure	may be performed under	local anesthesia
+procedure	may be performed under	general anesthesia
+procedure	may be performed under	sedation
+procedure	may require	pre-operative preparations
+procedure	may require	post-operative care
+procedure	may be recommended based on	patient's preferences
+procedure	may be recommended based on	patient's medical history
+procedure	may be recommended based on	patient's expectations
+procedure	may be recommended based on	medical guidelines
+procedure	may be recommended based on	clinical evidence
+procedure	may be recommended based on	healthcare provider's expertise
+procedure	may be recommended based on	available resources
+procedure	may be recommended to	improve appearance
+procedure	may be recommended to	alleviate symptoms
+procedure	may be recommended to	treat medical conditions
+procedure	may be recommended to	prevent health issues
+procedure	may be recommended to	reduce risk
+procedure	may be recommended to	improve quality of life
+procedure	may be recommended to	restore function
+procedure	can be performed	safely
+procedure	can be performed	effectively
+procedure	can be performed	efficiently
+procedure	can be performed	accurately
+procedure	can be performed	successfully
+procedure	can be performed	with minimal downtime
+procedure	can be performed	with minimal scarring
+procedure	can be performed	with minimal pain
+procedure	can be performed	with minimal side effects
+procedure	can be performed	with high patient satisfaction
+procedure	can be performed	with low complication rates
+procedure	can be performed	by healthcare professionals
+procedure	can be performed	in appropriate candidates
+procedure	can be performed	on eligible patients
+procedure	can be performed	based on patient needs
+procedure	can be performed	using advanced techniques
+procedure	can be performed	utilizing specialized equipment
+procedure	can be performed	with the latest technology
+procedure	can be performed	using minimally invasive approaches
+procedure	can be performed	using state-of-the-art tools
+procedure	can be performed	in a sterile environment
+procedure	can be performed	in compliance with safety protocols
+procedure	can be performed	following ethical standards
+procedure	can be performed	under strict supervision
+procedure	can be performed	while ensuring patient privacy
+procedure	can be performed	in accordance with legal regulations
+procedure	can be performed	with proper consent
+procedure	can be performed	after thorough evaluation
+procedure	can be performed	after obtaining patient's informed consent
+procedure	can be performed	as part of a treatment plan
+procedure	can be performed	as a standalone intervention
+procedure	can be performed	in conjunction with other therapies
+procedure	can be performed	as an outpatient procedure
+procedure	can be performed	as an inpatient procedure
+procedure	can be performed	under monitored conditions
+procedure	can be performed	by a team of healthcare professionals
+procedure	can be performed	on individuals of all ages
+procedure	can be performed	on individuals of all genders
+procedure	can be performed	on individuals from diverse backgrounds
+procedures	can be	non-therapeutic or therapeutic
+procedures	can be performed	on skin
+procedures	can be performed	on breast
+skin procedures	can include	excision
+skin procedures	can include	grafting
+skin procedures	can be	cosmetic
+breast procedures	can include	augmentation
+breast procedures	can include	reduction
+breast procedures	can be	reconstructive
+excision	is a type of	skin procedures
+grafting	is a type of	skin procedure
+cosmetic	can improve	appearance
+augmentation	is a type of	breast procedures
+reduction	is a type of	breast procedures
+reconstructive	can be for	breast procedures

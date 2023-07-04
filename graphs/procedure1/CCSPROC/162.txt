@@ -1,0 +1,187 @@
+therapeutic procedures on joints	is a	medical procedure
+therapeutic procedures on joints	used for	treatment
+joint replacement	is a type of	therapeutic procedures on joints
+joint replacement	can alleviate	pain
+arthroscopy	is a type of	therapeutic procedures on joints
+arthroscopy	used for	diagnosis
+arthroscopy	can detect	cartilage damage
+arthrocentesis	is a type of	therapeutic procedures on joints
+arthrocentesis	used for	fluid removal
+arthrocentesis	can relieve	joint inflammation
+joint fusion	is a type of	therapeutic procedures on joints
+joint fusion	used for	stabilizing joints
+joint fusion	can reduce	joint mobility
+synovectomy	is a type of	therapeutic procedures on joints
+synovectomy	used for	removing inflamed synovial lining
+synovectomy	can improve	joint function
+ligament repair	is a type of	therapeutic procedures on joints
+ligament repair	used for	repairing torn ligaments
+ligament repair	can restore	joint stability
+tendon repair	is a type of	therapeutic procedures on joints
+tendon repair	used for	repairing damaged tendons
+tendon repair	can improve	joint movement
+cartilage repair	is a type of	therapeutic procedures on joints
+cartilage repair	used for	restoring damaged cartilage
+cartilage repair	can improve	joint function
+joint debridement	is a type of	therapeutic procedures on joints
+joint debridement	used for	removing damaged tissue
+joint debridement	can reduce	joint pain
+joint manipulation	is a type of	therapeutic procedures on joints
+joint manipulation	used for	improving joint mobility
+joint manipulation	can relieve	joint stiffness
+joint resurfacing	is a type of	therapeutic procedures on joints
+joint resurfacing	used for	restoring joint smoothness
+joint resurfacing	can reduce	joint friction
+joint osteotomy	is a type of	therapeutic procedures on joints
+joint osteotomy	used for	repositioning bones
+joint osteotomy	can improve	joint alignment
+arthroplasty	is a type of	therapeutic procedures on joints
+arthroplasty	used for	joint reconstruction
+arthroplasty	can restore	joint function
+joint implantation	is a type of	therapeutic procedures on joints
+joint implantation	used for	replacing damaged joints
+joint implantation	can provide	joint stability
+joint denervation	is a type of	therapeutic procedures on joints
+joint denervation	used for	interrupting pain signals
+joint denervation	can alleviate	joint pain
+joint arthrodesis	is a type of	therapeutic procedures on joints
+joint arthrodesis	used for	fusing joints
+joint arthrodesis	can stabilize	joints
+meniscus repair	is a type of	therapeutic procedures on joints
+meniscus repair	used for	fixing meniscus tears
+meniscus repair	can restore	knee stability
+capsular release	is a type of	therapeutic procedures on joints
+capsular release	used for	relieving joint tightness
+capsular release	can increase	joint flexibility
+fracture fixation	is a type of	therapeutic procedures on joints
+fracture fixation	used for	stabilizing fractured bones
+fracture fixation	can promote	bone healing
+joint injection	is a type of	therapeutic procedures on joints
+joint injection	used for	administering medication
+joint injection	can reduce	joint inflammation
+chondroplasty	is a type of	therapeutic procedures on joints
+chondroplasty	used for	repairing damaged cartilage
+chondroplasty	can improve	joint function
+bursa removal	is a type of	therapeutic procedures on joints
+bursa removal	used for	removing inflamed bursa
+bursa removal	can relieve	bursitis
+tendon transfer	is a type of	therapeutic procedures on joints
+tendon transfer	used for	transferring tendons
+tendon transfer	can improve	joint stability
+joint revision	is a type of	therapeutic procedures on joints
+joint revision	used for	correcting previous joint surgeries
+joint revision	can improve	joint function
+joint distraction	is a type of	therapeutic procedures on joints
+joint distraction	used for	separating joint surfaces
+joint distraction	can promote	tissue regeneration
+osteoplasty	is a type of	therapeutic procedures on joints
+osteoplasty	used for	reshaping bones
+osteoplasty	can improve	joint mechanics
+interpositional arthroplasty	is a type of	therapeutic procedures on joints
+interpositional arthroplasty	used for	replacing damaged joints with interpositional material
+interpositional arthroplasty	can restore	joint function
+osteochondral grafting	is a type of	therapeutic procedures on joints
+osteochondral grafting	used for	replacing damaged cartilage
+osteochondral grafting	can improve	joint function
+arthrodesis and fusion	is a type of	therapeutic procedures on joints
+arthrodesis and fusion	used for	permanently fusing joints
+arthrodesis and fusion	can stabilize	joints
+cartilage transplantation	is a type of	therapeutic procedures on joints
+cartilage transplantation	used for	replacing damaged cartilage
+cartilage transplantation	can improve	joint function
+arthroscopic debridement	is a type of	therapeutic procedures on joints
+arthroscopic debridement	used for	removing damaged tissue
+arthroscopic debridement	can reduce	joint pain
+arthroscopic lavage	is a type of	therapeutic procedures on joints
+arthroscopic lavage	used for	removing debris from joints
+arthroscopic lavage	can alleviate	joint inflammation
+chondrocyte implantation	is a type of	therapeutic procedures on joints
+chondrocyte implantation	used for	restoring damaged cartilage
+chondrocyte implantation	can improve	joint function
+capsular reconstruction	is a type of	therapeutic procedures on joints
+capsular reconstruction	used for	repairing joint capsules
+capsular reconstruction	can stabilize	joints
+arthroscopic microfracture	is a type of	therapeutic procedures on joints
+arthroscopic microfracture	used for	stimulating cartilage repair
+arthroscopic microfracture	can improve	joint function
+joint realignment	is a type of	therapeutic procedures on joints
+joint realignment	used for	correcting joint alignment
+joint realignment	can improve	joint mechanics
+arthroscopic synovectomy	is a type of	therapeutic procedures on joints
+arthroscopic synovectomy	used for	removing inflamed synovial lining
+arthroscopic synovectomy	can relieve	joint inflammation
+cutting-edge joint treatment	is a type of	therapeutic procedures on joints
+cutting-edge joint treatment	used for	innovative joint therapies
+cutting-edge joint treatment	can improve	joint function
+minimally invasive joint surgery	is a type of	therapeutic procedures on joints
+minimally invasive joint surgery	used for	reducing surgical trauma
+minimally invasive joint surgery	can promote	faster recovery
+image-guided joint procedures	is a type of	therapeutic procedures on joints
+image-guided joint procedures	used for	precise targeting of joint-related issues
+image-guided joint procedures	can optimize	treatment outcomes
+robotic-assisted joint surgery	is a type of	therapeutic procedures on joints
+robotic-assisted joint surgery	used for	enhanced surgical precision
+robotic-assisted joint surgery	can improve	surgical outcomes
+stem cell therapy	is a type of	therapeutic procedures on joints
+stem cell therapy	used for	regenerating damaged tissues
+stem cell therapy	can promote	tissue healing
+platelet-rich plasma injection	is a type of	therapeutic procedures on joints
+platelet-rich plasma injection	used for	promoting tissue repair
+platelet-rich plasma injection	can reduce	joint inflammation
+hyaluronic acid injection	is a type of	therapeutic procedures on joints
+hyaluronic acid injection	used for	lubricating joints
+hyaluronic acid injection	can alleviate	joint pain
+corticosteroid injection	is a type of	therapeutic procedures on joints
+corticosteroid injection	used for	reducing joint inflammation
+corticosteroid injection	can relieve	joint pain
+physical therapy	is a type of	therapeutic procedures on joints
+physical therapy	used for	improving joint strength and mobility
+physical therapy	can enhance	rehabilitation outcomes
+joint rehabilitation	is a type of	therapeutic procedures on joints
+joint rehabilitation	used for	restoring joint function
+joint rehabilitation	can facilitate	post-surgical recovery
+pain management	is a type of	therapeutic procedures on joints
+pain management	used for	alleviating joint pain
+pain management	can improve	quality of life
+post-operative care	is a type of	therapeutic procedures on joints
+post-operative care	used for	ensuring successful recovery
+post-operative care	can prevent	complications
+multidisciplinary care	is a type of	therapeutic procedures on joints
+multidisciplinary care	used for	comprehensive treatment planning
+multidisciplinary care	can optimize	treatment outcomes
+patient education	is a type of	therapeutic procedures on joints
+patient education	used for	informing patients about their condition and treatment
+patient education	can empower	patients
+home exercises	is a type of	therapeutic procedures on joints
+home exercises	used for	maintaining joint health
+home exercises	can improve	mobility
+assistive devices	is a type of	therapeutic procedures on joints
+assistive devices	used for	supporting joint function
+assistive devices	can enhance	independence
+preoperative evaluation	is a type of	therapeutic procedures on joints
+preoperative evaluation	used for	assessing patient's fitness for surgery
+preoperative evaluation	can minimize	surgical risks
+intraoperative monitoring	is a type of	therapeutic procedures on joints
+intraoperative monitoring	used for	ensuring patient safety during surgery
+intraoperative monitoring	can prevent	complications
+postoperative rehabilitation	is a type of	therapeutic procedures on joints
+postoperative rehabilitation	used for	facilitating recovery after surgery
+postoperative rehabilitation	can restore	joint function
+pain assessment	is a type of	therapeutic procedures on joints
+pain assessment	used for	evaluating severity of joint pain
+pain assessment	can guide	pain management strategies
+joint protection	is a type of	therapeutic procedures on joints
+joint protection	used for	reducing stress on joints
+joint protection	can delay	disease progression
+psychological support	is a type of	therapeutic procedures on joints
+psychological support	used for	addressing emotional impacts of joint conditions
+psychological support	can improve	patient's well-being
+nutritional counseling	is a type of	therapeutic procedures on joints
+nutritional counseling	used for	promoting joint health
+nutritional counseling	can optimize	treatment outcomes
+weight management	is a type of	therapeutic procedures on joints
+weight management	used for	reducing joint strain
+weight management	can alleviate	joint pain
+smoking cessation	is a type of	therapeutic procedures on joints
+smoking cessation	used for	reducing inflammation
+smoking cessation	can improve	treatment outcomes

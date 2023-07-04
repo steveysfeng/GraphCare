@@ -1,0 +1,173 @@
+forceps	is a	medical instrument
+forceps	used for	delivery
+vacuum	is a	medical instrument
+vacuum	used for	delivery
+breech delivery	is a type of	delivery
+forceps	can assist in	delivery
+vacuum	can assist in	delivery
+breech delivery	may require	forceps
+breech delivery	may require	vacuum
+forceps	can cause	pelvic floor injury
+forceps	can cause	fetal injury
+vacuum	can cause	head molding
+vacuum	can cause	scalp swelling
+breech delivery	can increase	risk of birth injury
+breech delivery	can increase	risk of shoulder dystocia
+forceps	should be used	with caution
+vacuum	should be used	with caution
+breech delivery	requires	skill and experience
+forceps	has	blades
+forceps	has	handles
+vacuum	has	suction cup
+vacuum	has	handle
+breech delivery	may necessitate	cesarean section
+cesarean section	is a	surgical procedure
+cesarean section	used for	delivery
+cesarean section	can prevent	birth injury
+cesarean section	can reduce	risk of maternal complications
+forceps	and	vacuum	are	alternatives
+forceps	and	vacuum	are	delivery tools
+forceps	and	vacuum	can be	used together
+forceps	and	vacuum	have	different mechanisms
+forceps	and	vacuum	have	potential risks
+forceps	and	vacuum	have	benefits
+breech delivery	may increase	risk of postpartum hemorrhage
+postpartum hemorrhage	is a	medical condition
+postpartum hemorrhage	can lead to	maternal complications
+vacuum	may result in	retinal hemorrhage
+retinal hemorrhage	can cause	vision loss
+forceps	is	metallic
+vacuum	is	plastic
+forceps	is	curved
+vacuum	is	cup-shaped
+forceps	can be	reusable
+vacuum	is	disposable
+forceps	can cause	maternal discomfort
+vacuum	can cause	maternal discomfort
+forceps	should be	sterilized
+vacuum	should be	cleaned
+breech delivery	can be	a complex procedure
+forceps	has	different types
+vacuum	has	different types
+forceps	may be	traumatic
+vacuum	may be	traumatic
+forceps	can be	lifesaving
+vacuum	can be	lifesaving
+breech delivery	should be	carefully managed
+forceps	should be	properly applied
+vacuum	should be	correctly positioned
+forceps	and	vacuum	require	skillful technique
+forceps	and	vacuum	may have	contraindications
+forceps	and	vacuum	require	informed consent
+forceps	and	vacuum	have	been used for centuries
+forceps	and	vacuum	have	specific indications
+forceps	has	hinged handles
+vacuum	has	a pump
+forceps	should be	used when necessary
+vacuum	should be	used when necessary
+forceps	require	appropriate training
+vacuum	requires	appropriate training
+forceps	can be	used in emergencies
+vacuum	can be	used in emergencies
+forceps	require	a skilled operator
+vacuum	require	a skilled operator
+forceps	can be	used in vaginal delivery
+vacuum	can be	used in vaginal delivery
+forceps	can be	used in cesarean delivery
+vacuum	can be	used in cesarean delivery
+forceps	can be	used in instrumental delivery
+vacuum	can be	used in instrumental delivery
+forceps	and	vacuum	can assist	head extraction
+forceps	and	vacuum	can assist	fetal rotation
+forceps	can be	used for breech extraction
+vacuum	can be	used for breech extraction
+forceps	can be	used for cervical dilation
+vacuum	can be	used for cervical dilation
+forceps	is a	medical instrument
+vacuum	is a	medical instrument
+breech delivery	is a	procedure
+forceps	used for	delivery
+vacuum	used for	delivery
+forceps	used in conjunction with	breech delivery
+vacuum	used in conjunction with	breech delivery
+breech delivery	can result in	birth injury
+forceps	can cause	maternal injury
+vacuum	can cause	maternal injury
+forceps	can cause	neonatal injury
+vacuum	can cause	neonatal injury
+forceps	increases risk of	postpartum hemorrhage
+vacuum	increases risk of	postpartum hemorrhage
+forceps	increases risk of	perineal tears
+vacuum	increases risk of	perineal tears
+forceps	increases risk of	urinary incontinence
+vacuum	increases risk of	urinary incontinence
+forceps	increases risk of	pelvic organ prolapse
+vacuum	increases risk of	pelvic organ prolapse
+forceps	increases risk of	cesarean section
+vacuum	increases risk of	cesarean section
+forceps	can lead to	fetal distress
+vacuum	can lead to	fetal distress
+breech delivery	requires	experienced provider
+forceps	used in	vaginal delivery
+vacuum	used in	vaginal delivery
+forceps	used in	cesarean delivery
+vacuum	used in	cesarean delivery
+forceps	used when	fetal head is engaged
+vacuum	used when	fetal head is not engaged
+forceps	used when	there is concern for rapid delivery
+vacuum	used when	there is concern for prolonged labor
+forceps	is a	blunt instrument
+vacuum	is a	suction device
+forceps	used for	rotational delivery
+vacuum	used for	suction-assisted delivery
+forceps	increases risk of	maternal perineal trauma
+vacuum	increases risk of	maternal perineal trauma
+forceps	requires	specific training
+vacuum	requires	specific training
+forceps	is a	metal instrument
+vacuum	is a	plastic instrument
+forceps	can result in	fetal scalp injuries
+vacuum	can result in	cephalohematoma
+forceps	used when	fetal head is in occiput anterior position
+vacuum	used when	fetal head is in non-occiput anterior position
+forceps	used when	there is fetal distress
+vacuum	used when	there is maternal exhaustion
+forceps	used when	there is prolonged second stage of labor
+vacuum	used when	there is concern for fetal compromise
+forceps	used when	there is maternal illness
+vacuum	used when	there is maternal illness
+forceps	used when	there is need for rapid delivery
+vacuum	used when	there is need for controlled delivery
+forceps	is a	medical instrument
+vacuum	is a	medical instrument
+breech delivery	is a	type of delivery
+forceps	used in	childbirth
+vacuum	used in	childbirth
+breech delivery	can increase	risks
+breech delivery	can cause	birth injury
+forceps	can cause	maternal trauma
+forceps	can cause	fetal trauma
+forceps	can be used	in cesarean section
+vacuum	can be used	in cesarean section
+forceps	can be used	for delivery when the baby's head is in unfavorable position
+vacuum	can be used	for delivery when the baby's head is suctioned to the birth canal
+forceps	can assist	in delivering the baby's head
+vacuum	can assist	in delivering the baby's head
+forceps	should be used	by trained healthcare professionals
+vacuum	should be used	by trained healthcare professionals
+forceps	require	careful monitoring during use
+vacuum	require	careful monitoring during use
+forceps	increases the risk of	perineal tears
+vacuum	increases the risk of	fetal scalp injury
+forceps	requires	adequate anesthesia
+vacuum	requires	adequate anesthesia
+breech delivery	can lead to	umbilical cord prolapse
+breech delivery	should be performed	in a controlled environment
+breech delivery	can increase the risk of	fetal distress
+breech delivery	can increase the risk of	postpartum hemorrhage
+breech delivery	can lead to	prolonged labor
+breech delivery	should be attempted	only in certain cases
+breech delivery	may require	maternal positioning adjustments
+breech delivery	may necessitate	neonatal resuscitation
+breech delivery	may require	assistance with delivering the baby's body
+breech delivery	can be managed	through cesarean delivery

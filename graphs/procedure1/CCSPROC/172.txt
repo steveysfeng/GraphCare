@@ -1,0 +1,104 @@
+skin grafting	is a	surgical procedure
+skin grafting	used to	treat burns
+autograft	is a type of	skin grafting
+autograft	uses	patient's own skin
+allograft	is a type of	skin grafting
+allograft	uses	donor skin
+skin graft	is a	surgical procedure
+skin graft	used for	treating burns
+skin graft	can improve	wound healing
+skin graft	requires	donor site
+skin graft	has	different types
+full-thickness skin graft	is a type of	skin graft
+split-thickness skin graft	is a type of	skin graft
+split-thickness skin graft	used for	large wounds
+full-thickness skin graft	used for	small wounds
+split-thickness skin graft	involves	removing epidermis and part of dermis
+full-thickness skin graft	involves	removing full thickness of skin
+donor site	can cause	discomfort
+donor site	requires	proper care
+full-thickness skin graft	has	better cosmetic outcomes
+split-thickness skin graft	has	higher success rate
+skin graft	can result in	complications
+infection	is a complication of	skin graft
+hematoma	is a complication of	skin graft
+skin graft	requires	close monitoring
+skin graft	needs	adequate blood supply
+skin graft	can be	a two-stage procedure
+delayed skin graft	is a type of	two-stage procedure
+delayed skin graft	improves	blood supply
+delayed skin graft	used for	compromised wounds
+skin graft	may require	dressings
+skin graft	can be	painful
+skin graft	may need	immobilization
+skin graft	can cause	scarring
+skin graft	has	variable outcomes
+skin graft	can be	rejected
+immune response	is involved in	graft rejection
+skin graft	requires	proper wound care
+skin graft	may need	physical therapy
+skin graft	can result in	contracture
+contracture	is a complication of	skin graft
+skin graft	can lead to	improved function
+skin graft	has	long recovery period
+skin graft	can be	costly
+skin graft	may require	multiple surgeries
+skin graft	can be	life-saving
+skin graft	can be	performed in outpatient setting
+skin graft	can be	performed under general anesthesia
+skin graft	has	specific indications
+skin graft	can be	performed on various body parts
+skin graft	can provide	permanent coverage
+skin graft	can be	used as temporaray coverage
+skin graft	can be	combined with other procedures
+skin graft	can result in	improved aesthetics
+skin graft	can be	used in reconstructive surgery
+skin graft	can be	used in cosmetic surgery
+skin graft	can be	used in trauma cases
+skin graft	requires	coordination with other healthcare professionals
+skin graft	can lead to	improved quality of life
+skin graft	can be	a complex procedure
+skin graft	may need	preoperative evaluation
+skin graft	involves	postoperative care
+skin graft	can be	a lengthy process
+skin graft	can result in	donor site scarring
+skin graft	depends on	patient's overall health
+skin graft	may need	tissue expansion
+tissue expansion	is a technique for	skin graft
+tissue expansion	requires	device implantation
+tissue expansion	allows	more coverage
+skin graft	can result in	partial or complete failure
+graft failure	is a complication of	skin graft
+skin graft	can be	performed in specialized centers
+skin graft	can be	performed by plastic surgeons
+skin graft	improves	functionality
+skin graft	can be	a last resort
+skin graft	can be	used in elective procedures
+skin graft	has	evolving techniques
+skin graft	can result in	improved self-esteem
+skin graft	can be	a treatment option
+skin graft	can lead to	reduced scarring
+skin graft	can involve	microsurgery
+microvascular free flap	is a type of	skin graft
+microvascular free flap	requires	blood vessel anastomosis
+microvascular free flap	allows	transplantation of tissue
+skin graft	can involve	tissue expanders
+skin graft	can be	time-consuming
+skin graft	can result in	improved function
+skin graft	can be	a palliative measure
+skin graft	can result in	improved wound closure
+skin graft	can be	used in cases of skin cancer
+skin graft	can be	used in cases of chronic wounds
+skin graft	can be	combined with reconstructive techniques
+skin graft	can be	covered by insurance
+skin graft	can be	performed in conjunction with excision
+excision	is a step in	skin graft procedure
+skin graft	can lead to	decreased pain
+skin graft	can be	a treatment option for non-healing wounds
+skin graft	can be	a treatment option after tumor removal
+skin graft	can be	a treatment option for scars
+skin graft	can be	a treatment option after trauma
+skin graft	can be	a treatment option for diabetic ulcers
+skin graft	can be	a treatment option for pressure ulcers
+skin graft	can be	a treatment option for venous ulcers
+skin graft	can be	a treatment option for arterial ulcers

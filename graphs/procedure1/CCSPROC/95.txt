@@ -1,0 +1,24 @@
+non-or lower gi therapeutic procedures	are	medical procedures
+non-or lower gi therapeutic procedures	used for	treatment
+bowel resection	is a type of	non-or lower gi therapeutic procedures
+bowel resection	can treat	colorectal cancer
+colectomy	is a type of	non-or lower gi therapeutic procedures
+colectomy	can treat	ulcerative colitis
+colostomy	is a type of	non-or lower gi therapeutic procedures
+colostomy	can be used for	temporary diversion of fecal matter
+ileostomy	is a type of	non-or lower gi therapeutic procedures
+ileostomy	can be used for	permanent diversion of fecal matter
+sigmoidoscopy	is a type of	non-or lower gi therapeutic procedures
+sigmoidoscopy	used for	screening for colorectal cancer
+colonoscopy	is a type of	non-or lower gi therapeutic procedures
+colonoscopy	used for	diagnosis and treatment of colon diseases
+small bowel enteroscopy	is a type of	non-or lower gi therapeutic procedures
+small bowel enteroscopy	used for	diagnosis and treatment of small bowel diseases
+hemorrhoid surgery	is a type of	non-or lower gi therapeutic procedures
+hemorrhoid surgery	can treat	hemorrhoids
+anal fistula surgery	is a type of	non-or lower gi therapeutic procedures
+anal fistula surgery	used for	treating anal fistulas
+abscess drainage	is a type of	non-or lower gi therapeutic procedures
+abscess drainage	used for	draining infected abscesses
+laser therapy	is a type of	non-or lower gi therapeutic procedures
+laser therapy	used for	treating anal fissures

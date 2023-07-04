@@ -1,0 +1,183 @@
+operations	can be performed on	fallopian tubes
+tubal ligation	is a type of	operation on fallopian tubes
+tubal ligation	is used for	permanent birth control
+tubal reversal	is a type of	operation on fallopian tubes
+tubal reversal	can restore	fertility
+tubal ectopic pregnancy	can require	operation on fallopian tubes
+tubal ectopic pregnancy	can cause	abdominal pain
+tubal blockage	can require	operation on fallopian tubes
+tubal blockage	can prevent	conception
+hydrosalpinx	can require	operation on fallopian tubes
+hydrosalpinx	can result in	infertility
+salpingectomy	is a type of	operation on fallopian tubes
+salpingectomy	is used for	removing the fallopian tube
+salpingostomy	is a type of	operation on fallopian tubes
+salpingostomy	is used for	opening a blocked fallopian tube
+fimbrioplasty	is a type of	operation on fallopian tubes
+fimbrioplasty	can improve	fertility
+salpingotomy	is a type of	operation on fallopian tubes
+salpingotomy	is used for	opening a blocked fallopian tube
+salpingolysis	is a type of	operation on fallopian tubes
+salpingolysis	can remove	scar tissue
+salpingocentesis	is a type of	operation on fallopian tubes
+salpingocentesis	is used for	removing fluid from the fallopian tube
+salpingorrhaphy	is used for	repairing a damaged fallopian tube
+litotripsy	is a type of	operation on fallopian tubes
+litotripsy	can break	kidney stones
+salpingo-oophorectomy	is a type of	operation on fallopian tubes
+neosalpingostomy	is a type of	operation on fallopian tubes
+neosalpingostomy	is used for	creating a new opening in a blocked fallopian tube
+salpingectomy	is a type of	operation on fallopian tubes
+salpingectomy	is used for	removing the fallopian tube
+tuboplasty	is a type of	operation on fallopian tubes
+tuboplasty	can repair	blocked or damaged fallopian tubes
+endarterectomy	is a type of	operation on fallopian tubes
+endarterectomy	can remove	plaque from blood vessels
+fallopian tube cancer	can require	operation on fallopian tubes
+fertiloscopy	is a type of	operation on fallopian tubes
+fallopian tube prolapse	can require	operation on fallopian tubes
+fallopian tube prolapse	can cause	urinary incontinence
+radiosurgery	is a type of	operation on fallopian tubes
+radiosurgery	can treat	fallopian tube cancer
+fallopian tube removal	is a type of	operation on fallopian tubes
+fallopian tube removal	is used for	treating fallopian tube diseases
+microsurgery	can repair	blocked or damaged fallopian tubes
+band ligation	is used for	blocking or closing fallopian tubes
+dilation and curettage	is a type of	operation on fallopian tubes
+laser surgery	is a type of	operation on fallopian tubes
+laser surgery	can treat	various conditions in fallopian tubes
+falloposcopy	is a type of	operation on fallopian tubes
+falloposcopy	can diagnose	fallopian tube blockage
+salpingoscopy	is a type of	operation on fallopian tubes
+salpingoscopy	can diagnose	fallopian tube disorders
+minilaparotomy	is a type of	operation on fallopian tubes
+minilaparotomy	can be used for	tubal ligation
+diagnostic laparoscopy	is a type of	operation on fallopian tubes
+diagnostic laparoscopy	can diagnose	fallopian tube disorders
+therapeutic laparotomy	can treat	fallopian tube disorders
+chromotubation	is a type of	operation on fallopian tubes
+chromotubation	can test	the patency of the fallopian tube
+hydrolaparoscopy	is a type of	operation on fallopian tubes
+hydrolaparoscopy	can diagnose	fallopian tube disorders
+shrinkage	is a side effect of	operation on fallopian tubes
+shrinkage	can prevent	fallopian tube blockage
+ether	can be used for	anesthesia during operation on fallopian tubes
+ethanol	can be used for	anesthesia during operation on fallopian tubes
+carbon dioxide	can be used for	insufflation during operation on fallopian tubes
+gadolinium	can be used for	imaging during operation on fallopian tubes
+fentanyl	can be used for	anesthesia during operation on fallopian tubes
+blood clots	can be a complication of	operation on fallopian tubes
+hemorrhage	can result from	operation on fallopian tubes
+infection	can occur after	operation on fallopian tubes
+ureteral injury	can occur during	operation on fallopian tubes
+adhesion	can occur after	operation on fallopian tubes
+nausea	can be a side effect of	anesthesia during operation on fallopian tubes
+anemia	can result from	excessive bleeding during operation on fallopian tubes
+IV fluid	can be administered during	operation on fallopian tubes
+pelvic pain	can be a symptom of	complications after operation on fallopian tubes
+strictures	can occur after	operation on fallopian tubes
+urinary tract infection	can occur after	operation on fallopian tubes
+urinary retention	can occur after	operation on fallopian tubes
+tissue damage	can occur during	operation on fallopian tubes
+scarring	can occur after	operation on fallopian tubes
+ectopic pregnancy	can occur after	operation on fallopian tubes
+intrauterine adhesions	can occur after	operation on fallopian tubes
+reoperation	may be required after	operation on fallopian tubes
+pain medication	may be prescribed after	operation on fallopian tubes
+laparoscopic surgery	can be performed instead of	operation on fallopian tubes
+laparoscopic surgery	can result in	shorter recovery time after operation on fallopian tubes
+nerve damage	can occur during	operation on fallopian tubes
+laparoscopy	can be used for	diagnosing tubal disorders
+calculi	can be removed during	operation on fallopian tubes
+ovarian cyst	can be removed during	operation on fallopian tubes
+ovarian cancer	can be diagnosed during	operation on fallopian tubes
+cervical cancer	can be diagnosed during	operation on fallopian tubes
+polyps	can be removed during	operation on fallopian tubes
+adenomyosis	can be diagnosed during	operation on fallopian tubes
+endometrial cancer	can be diagnosed during	operation on fallopian tubes
+pelvic inflammatory disease	can be diagnosed during	operation on fallopian tubes
+cervical polyps	can be removed during	operation on fallopian tubes
+uterine prolapse	can be diagnosed during	operation on fallopian tubes
+endometrial biopsy	can be performed during	operation on fallopian tubes
+stage III ovarian cancer	can require	operation on fallopian tubes
+stage IV ovarian cancer	can require	operation on fallopian tubes
+distal tubal occlusion	can require	operation on fallopian tubes
+mullerian tumor	can be diagnosed during	operation on fallopian tubes
+ectopic pregnancy	can require	operation on fallopian tubes
+pyosalpinx	can require	operation on fallopian tubes
+hysterosalpingography	can be performed before	operation on fallopian tubes
+ovarian torsion	can require	operation on fallopian tubes
+other operations on fallopian tubes	is a	surgical procedures
+other operations on fallopian tubes	performed for	infertility
+tubal ligation	is a type of	other operations on fallopian tubes
+tubal ligation	used for	permanent contraception
+tubal reanastomosis	is a type of	other operations on fallopian tubes
+tubal reanastomosis	performed to	reverse tubal ligation
+salpingectomy	is a type of	other operations on fallopian tubes
+salpingectomy	performed for	ectopic pregnancy
+salpingostomy	is a type of	other operations on fallopian tubes
+salpingostomy	used for	opening blocked fallopian tubes
+salpingo-oophorectomy	is a type of	other operations on fallopian tubes
+salpingo-oophorectomy	performed for	ovarian cysts
+fimbrioplasty	is a type of	other operations on fallopian tubes
+fimbrioplasty	used for	tubal infertility
+neosalpingostomy	is a type of	other operations on fallopian tubes
+neosalpingostomy	performed for	proximal tubal occlusion
+tubal anastomosis	is a type of	other operations on fallopian tubes
+tubal anastomosis	used for	tubal infertility
+tubal canalization	is a type of	other operations on fallopian tubes
+tubal canalization	performed to	remove blockage in the fallopian tubes
+tubal occlusion	is a type of	other operations on fallopian tubes
+tubal occlusion	performed for	sterilization
+tubal reconstruction	is a type of	other operations on fallopian tubes
+tubal reconstruction	performed for	tubal infertility
+tubal recanalization	is a type of	other operations on fallopian tubes
+tubal recanalization	used for	treatment of blocked fallopian tubes
+tubal fulguration	is a type of	other operations on fallopian tubes
+tubal fulguration	used for	sterilization
+adhesiolysis	is a type of	other operations on fallopian tubes
+adhesiolysis	performed to	remove adhesions around fallopian tubes
+fimbriectomy	is a type of	other operations on fallopian tubes
+fimbriectomy	performed for	tubal sterilization
+salpingoplasty	is a type of	other operations on fallopian tubes
+salpingoplasty	used for	tubal infertility
+fallopectomy	is a type of	other operations on fallopian tubes
+fallopectomy	used for	removal of fallopian tube
+hysteroscopic surgery of fallopian tubes	is a type of	other operations on fallopian tubes
+hysteroscopic surgery of fallopian tubes	performed for	tubal infertility
+exploratory laparotomy of fallopian tubes	is a type of	other operations on fallopian tubes
+exploratory laparotomy of fallopian tubes	performed for	evaluation of fallopian tube pathology
+laparoscopic surgery of fallopian tubes	is a type of	other operations on fallopian tubes
+laparoscopic surgery of fallopian tubes	performed for	tubal infertility
+tubal implantation of embryo	is a type of	other operations on fallopian tubes
+tubal implantation of embryo	used for	infertility treatment
+hysterosalpingooophorectomy	is a type of	other operations on fallopian tubes
+hysterosalpingooophorectomy	performed for	uterine and tubal pathology
+tuboplasty	is a type of	other operations on fallopian tubes
+tuboplasty	used for	treatment of damaged or blocked fallopian tubes
+tubal ligation reversal	is a type of	other operations on fallopian tubes
+tubal ligation reversal	used for	restoring fertility after tubal ligation
+tubal block removal	is a type of	other operations on fallopian tubes
+tubal block removal	performed for	clearing blocked fallopian tubes
+tubal slip	is a type of	other operations on fallopian tubes
+tubal slip	used for	temporary contraception
+tubal strip	is a type of	other operations on fallopian tubes
+tubal strip	used for	permanent contraception
+tubal umbrella closure	is a type of	other operations on fallopian tubes
+tubal umbrella closure	performed for	birth control
+salpingorrhaphy	is a type of	other operations on fallopian tubes
+salpingorrhaphy	performed for	tubal infertility
+tubal cannulation	is a type of	other operations on fallopian tubes
+tubal cannulation	used for	treatment of blocked fallopian tubes
+tubal ring application	is a type of	other operations on fallopian tubes
+tubal ring application	used for	permanent contraception
+tubal plication	is a type of	other operations on fallopian tubes
+tubal plication	performed for	tubal infertility
+tubal fulguration	is a type of	other operations on fallopian tubes
+tubal fulguration	used for	sterilization
+tubal sterilization by ligation	is a type of	other operations on fallopian tubes
+tubal sterilization by ligation	performed for	permanent contraception
+fallopian tube obstruction removal	is a type of	other operations on fallopian tubes
+fallopian tube obstruction removal	used for	treatment of blocked fallopian tubes
+cauterization of fallopian tubes	is a type of	other operations on fallopian tubes
+cauterization of fallopian tubes	performed for	sterilization

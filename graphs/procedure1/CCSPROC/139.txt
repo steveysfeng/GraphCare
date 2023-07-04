@@ -1,0 +1,172 @@
+fetal monitoring	is a	medical procedure
+fetal monitoring	used for	monitoring fetal heart rate
+fetal monitoring	used for	monitoring uterine contractions
+fetal monitoring	can be done	externally
+fetal monitoring	can be done	internally
+external fetal monitoring	uses	ultrasound
+external fetal monitoring	transmits	fetal heart rate to a monitor
+external fetal monitoring	allows	continuous monitoring
+internal fetal monitoring	uses	electrodes
+internal fetal monitoring	provides	more accurate readings
+internal fetal monitoring	can be used	for high-risk pregnancies
+internal fetal monitoring	can measure	uterine contractions
+fetal heart rate	is a	vital sign
+fetal heart rate	can indicate	fetal distress
+fetal heart rate	can be affected	by maternal factors
+fetal heart rate	can be affected	by umbilical cord compression
+fetal heart rate	can be affected	by placental insufficiency
+fetal heart rate	can be monitored	during labor
+uterine contractions	are	muscle contractions
+uterine contractions	help	progress labor
+uterine contractions	can be monitored	during labor
+uterine contractions	can be affected	by medications
+uterine contractions	can be affected	by epidural anesthesia
+uterine contractions	can be affected	by oxytocin
+uterine contractions	can be affected	by labor induction
+fetal distress	can lead to	emergency interventions
+fetal distress	can indicate	the need for a C-section
+fetal distress	can indicate	the need for vacuum extraction
+fetal distress	can indicate	the need for forceps delivery
+umbilical cord compression	can cause	fetal distress
+umbilical cord compression	can be detected	through fetal monitoring
+placental insufficiency	can cause	fetal distress
+placental insufficiency	can be detected	through fetal monitoring
+high-risk pregnancies	may require	fetal monitoring
+high-risk pregnancies	can be identified	through medical history
+high-risk pregnancies	can be identified	through prenatal testing
+high-risk pregnancies	can be identified	through maternal conditions
+continuous monitoring	allows	real-time assessment
+continuous monitoring	provides	immediate feedback
+continuous monitoring	can detect	sudden changes
+continuous monitoring	can assist	in making timely interventions
+ultrasound	uses	sound waves
+ultrasound	is safe for	fetal monitoring
+ultrasound	provides	real-time images
+ultrasound	can detect	fetal abnormalities
+electrodes	are	sensors
+electrodes	are placed	on the fetus
+electrodes	transmit	electrical signals
+electrodes	measure	fetal heart rate
+electrodes	measure	uterine contractions
+maternal factors	can influence	fetal heart rate
+maternal factors	include	maternal health conditions
+maternal factors	include	maternal medications
+umbilical cord compression	can be relieved	through repositioning
+umbilical cord compression	can be relieved	through amnioinfusion
+umbilical cord compression	can be relieved	through immediate delivery
+placental insufficiency	can be managed	through medical interventions
+placental insufficiency	may require	cesarean delivery
+placental insufficiency	can affect	fetal growth
+C-section	is a	surgical procedure
+C-section	is performed	when vaginal delivery is not possible
+vacuum extraction	is a	assisted delivery method
+vacuum extraction	uses	a vacuum cup
+vacuum extraction	is performed	during vaginal delivery
+forceps delivery	is a	assisted delivery method
+forceps delivery	uses	forceps
+forceps delivery	is performed	during vaginal delivery
+fetal monitoring	is recommended	during high-risk pregnancies
+fetal monitoring	can help	identify fetal distress
+fetal monitoring	can assist	in timely interventions
+fetal monitoring	can improve	birth outcomes
+fetal monitoring	should be interpreted	by trained healthcare professionals
+fetal monitoring	can be done	in labor and delivery units
+fetal monitoring	can be used	as a diagnostic tool
+fetal monitoring	can be done	during prenatal visits
+fetal monitoring	should be done	according to guidelines
+fetal monitoring	allows	proactive management of complications
+fetal monitoring	plays	a crucial role in obstetrics
+fetal monitoring	can help	reduce perinatal morbidity
+fetal monitoring	can help	reduce perinatal mortality
+fetal monitoring	can be done	using portable devices
+fetal monitoring	can be done	in home settings
+fetal monitoring	requires	accurate interpretation
+fetal monitoring	can lead to	informed decision-making
+fetal monitoring	should be tailored	based on individual needs
+fetal monitoring	can provide	reassurance to expectant parents
+fetal monitoring	can give	early warning signs
+fetal monitoring	involves	close collaboration between healthcare professionals
+fetal monitoring	can help	guide labor management
+fetal monitoring	can be used	in combination with other tests
+fetal monitoring	allows	documentation of fetal well-being
+fetal monitoring	can be used	as evidence in legal cases
+fetal monitoring	is an evolving field
+fetal monitoring	is continuously being improved
+fetal monitoring	is an essential part of	obstetric care
+fetal monitoring	is a	medical procedure
+fetal monitoring	used for	monitoring fetal heart rate
+fetal monitoring	used for	monitoring uterine contractions
+fetal monitoring	used for	assessing fetal well-being
+fetal monitoring	can detect	fetal distress
+fetal monitoring	can detect	abnormal fetal heart rate
+fetal monitoring	can detect	uterine hyperstimulation
+fetal monitoring	can detect	reduced fetal movement
+fetal monitoring	can predict	preterm labor
+fetal monitoring	can predict	intrauterine growth restriction
+fetal monitoring	can predict	placental abruption
+fetal monitoring	can predict	fetal hypoxia
+fetal monitoring	can assess	fetal heart rate variability
+fetal monitoring	can assess	uterine contraction patterns
+fetal monitoring	can assess	baseline fetal heart rate
+fetal monitoring	can assess	accelerations in fetal heart rate
+fetal monitoring	can assess	decelerations in fetal heart rate
+fetal monitoring	can assess	variability in fetal heart rate
+fetal monitoring	can assess	uterine contractions frequency
+fetal monitoring	can assess	uterine contractions duration
+fetal monitoring	can assess	uterine contractions intensity
+fetal monitoring	can assess	changes in fetal oxygenation
+fetal monitoring	can evaluate	fetal development
+fetal monitoring	can evaluate	fetal well-being
+fetal monitoring	can evaluate	placental function
+fetal monitoring	can evaluate	amniotic fluid volume
+fetal monitoring	can evaluate	fetal response to stress
+fetal monitoring	can evaluate	fetal response to contractions
+fetal monitoring	can evaluate	fetal position
+fetal monitoring	can assess	maternal-fetal oxygen transfer
+fetal monitoring	can assess	maternal-fetal nutrient transfer
+fetal monitoring	can assess	maternal-fetal gas exchange
+fetal monitoring	can determine	need for further intervention
+fetal monitoring	can determine	need for cesarean delivery
+fetal monitoring	can determine	need for induction of labor
+fetal monitoring	can determine	need for fetal blood sampling
+fetal monitoring	can determine	need for fetal acid-base status evaluation
+fetal monitoring	can determine	need for fetal scalp electrode application
+fetal monitoring	can determine	need for fetal oxygen saturation monitoring
+fetal monitoring	can determine	need for fetal pulse oximetry
+fetal monitoring	can determine	need for fetal scalp blood pH measurement
+fetal monitoring	can determine	need for fetal blood gas analysis
+fetal monitoring	can determine	need for fetal blood lactate measurement
+fetal monitoring	can determine	need for fetal blood glucose measurement
+fetal monitoring	can determine	need for fetal urine analysis
+fetal monitoring	can determine	need for fetal chromosomal analysis
+fetal monitoring	can determine	need for fetal genetic testing
+fetal monitoring	can determine	need for fetal imaging
+fetal monitoring	can determine	need for maternal-fetal blood type compatibility testing
+fetal monitoring	can determine	need for maternal-fetal viral screening
+fetal monitoring	can determine	need for maternal-fetal bacterial culture
+fetal monitoring	can determine	need for maternal-fetal antibiotic therapy
+fetal monitoring	can determine	need for maternal-fetal antiviral therapy
+fetal monitoring	can determine	need for maternal-fetal immunoglobulin administration
+fetal monitoring	can determine	need for maternal-fetal corticosteroid administration
+fetal monitoring	can determine	need for maternal-fetal tocolytic therapy
+fetal monitoring	can determine	need for maternal-fetal magnesium sulfate therapy
+fetal monitoring	can determine	need for maternal-fetal amnioinfusion
+fetal monitoring	can determine	need for maternal-fetal external cephalic version
+fetal monitoring	can determine	need for maternal-fetal manual rotation of fetus
+fetal monitoring	can determine	need for maternal-fetal umbilical artery catheterization
+fetal monitoring	can determine	need for maternal-fetal intrauterine transfusion
+fetal monitoring	can determine	need for maternal-fetal therapeutic hypothermia
+fetal monitoring	can determine	need for maternal-fetal uterine artery embolization
+fetal monitoring	can determine	need for maternal-fetal emergency cesarean delivery
+fetal monitoring	can determine	need for maternal-fetal vacuum-assisted delivery
+fetal monitoring	can determine	need for maternal-fetal forceps-assisted delivery
+fetal monitoring	can determine	need for maternal-fetal assisted breech delivery
+fetal monitoring	can determine	need for maternal-fetal episiotomy
+fetal monitoring	can determine	need for maternal-fetal perineal laceration repair
+fetal monitoring	can determine	need for maternal-fetal cesarean hysterectomy
+fetal monitoring	can determine	need for maternal-fetal postpartum hemorrhage management
+fetal monitoring	can determine	need for maternal-fetal neonatal resuscitation
+fetal monitoring	can determine	need for maternal-fetal intensive care unit admission
+fetal monitoring	can determine	need for maternal-fetal blood product administration
+fetal monitoring	can determine	need for maternal-fetal emergency medical interventions
+fetal monitoring	can determine	need for maternal-fetal surgical interventions

@@ -1,0 +1,128 @@
+fracture	is a	medical condition
+dislocation	is a	medical condition
+fracture	can be treated with	surgery
+dislocation	can be treated with	reduction
+surgery	is a kind of	procedure
+reduction	is a type of	procedure
+surgery	can be performed by	surgeon
+reduction	can be performed by	orthopedic specialist
+surgeon	performs	surgery
+orthopedic specialist	performs	reduction
+fracture	may require	immobilization
+dislocation	may require	immobilization
+immobilization	is a kind of	treatment
+immobilization	used to	stabilize
+fracture	can cause	pain
+dislocation	can cause	pain
+fracture	can cause	swelling
+dislocation	can cause	swelling
+fracture	can cause	deformity
+dislocation	can cause	deformity
+fracture	can lead to	loss of function
+dislocation	can lead to	loss of function
+fracture	can result in	restricted movement
+dislocation	can result in	restricted movement
+fracture	can require	physical therapy
+dislocation	can require	physical therapy
+physical therapy	is a type of	treatment
+physical therapy	used to	restore function
+fracture	can lead to	complications
+dislocation	can lead to	complications
+fracture	can be classified as	open or closed
+dislocation	can be classified as	partial or complete
+open fracture	is a type of	fracture
+closed fracture	is a type of	fracture
+partial dislocation	is a type of	dislocation
+complete dislocation	is a type of	dislocation
+open fracture	requires	immediate medical attention
+closed fracture	requires	immediate medical attention
+partial dislocation	requires	medical evaluation
+complete dislocation	requires	medical evaluation
+fracture	can result from	trauma
+dislocation	can result from	trauma
+fracture	can be caused by	osteoporosis
+dislocation	can be caused by	ligament damage
+osteoporosis	is a	medical condition
+ligament damage	is a	medical condition
+osteoporosis	can lead to	increased fracture risk
+ligament damage	can lead to	increased dislocation risk
+osteoporosis	can be diagnosed using	bone density test
+ligament damage	can be diagnosed using	physical examination
+bone density test	is a type of	diagnostic test
+physical examination	is a type of	diagnostic test
+fracture	can be prevented by	fall prevention strategies
+dislocation	can be prevented by	wearing protective gear
+fall prevention strategies	include	exercise and modifying home environment
+protective gear	includes	splints and braces
+fracture	can require	surgical intervention
+dislocation	can require	surgical intervention
+surgical intervention	is a type of	treatment
+surgical intervention	used to	stabilize the bone or joint
+fracture	can be treated with	pain medication
+dislocation	can be treated with	pain medication
+pain medication	is a	medication
+pain medication	used to	relieve pain
+fracture	may require	immobilization with a cast
+dislocation	may require	immobilization with a sling
+cast	is a type of	immobilization
+sling	is a type of	immobilization
+immobilization with a cast	used to	promote healing
+immobilization with a sling	used to	restrict movement
+fracture	can result in	bone healing
+dislocation	can result in	joint instability
+bone healing	is a	process
+joint instability	is a	condition
+bone healing	can be facilitated by	proper nutrition
+joint instability	can be managed with	physical therapy
+proper nutrition	is important for	bone health
+physical therapy	is important for	joint stability
+other fracture and dislocation procedure	is a	medical procedure
+other fracture and dislocation procedure	used for	treatment
+internal fixation	is a type of	other fracture and dislocation procedure
+internal fixation	involves	surgical insertion of screws or plates into bones
+external fixation	is a type of	other fracture and dislocation procedure
+external fixation	uses	pins or screws that are inserted into bones and then connected to an external frame
+open reduction	is a type of	other fracture and dislocation procedure
+open reduction	involves	surgically exposing the fractured bone to realign it
+closed reduction	is a type of	other fracture and dislocation procedure
+closed reduction	does not involve	surgical exposure of the bone
+arthroscopy	is a type of	other fracture and dislocation procedure
+arthroscopy	involves	using a tiny camera to visualize and treat joint problems
+joint replacement	is a type of	other fracture and dislocation procedure
+joint replacement	involves	replacing a damaged joint with a prosthesis
+ligament reconstruction	is a type of	other fracture and dislocation procedure
+ligament reconstruction	involves	replacing or repairing a torn ligament
+bone grafting	is a type of	other fracture and dislocation procedure
+bone grafting	involves	transplanting bone tissue to promote bone healing
+amputation	is a type of	other fracture and dislocation procedure
+amputation	involves	surgical removal of a body part
+open reduction with internal fixation	is a type of	other fracture and dislocation procedure
+open reduction with internal fixation	combines	surgically exposing the fractured bone with the use of screws or plates
+closed reduction with external fixation	is a type of	other fracture and dislocation procedure
+closed reduction with external fixation	involves	realigning the bone without surgical exposure and using an external frame for stabilization
+external fixation with arthroscopy	is a type of	other fracture and dislocation procedure
+external fixation with arthroscopy	combines	the use of pins or screws with the visualization provided by arthroscopy
+joint replacement with ligament reconstruction	is a type of	other fracture and dislocation procedure
+joint replacement with ligament reconstruction	involves	replacing the damaged joint while also repairing a torn ligament
+bone grafting with amputation	is a type of	other fracture and dislocation procedure
+bone grafting with amputation	combines	transplanting bone tissue with surgical removal of a body part
+open reduction with internal fixation and arthroscopy	is a type of	other fracture and dislocation procedure
+open reduction with internal fixation and arthroscopy	combines	the use of screws or plates with the visualization provided by arthroscopy
+closed reduction with external fixation and ligament reconstruction	is a type of	other fracture and dislocation procedure
+closed reduction with external fixation and ligament reconstruction	combines	realigning the bone with the external frame and repairing a torn ligament
+external fixation with arthroscopy and bone grafting	is a type of	other fracture and dislocation procedure
+external fixation with arthroscopy and bone grafting	combines	the use of pins or screws with the visualization provided by arthroscopy and transplanting bone tissue
+joint replacement with ligament reconstruction and amputation	is a type of	other fracture and dislocation procedure
+joint replacement with ligament reconstruction and amputation	combines	replacing the damaged joint with repairing a torn ligament and surgical removal of a body part
+open reduction with internal fixation	arthroscopy	and bone grafting	is a type of	other fracture and dislocation procedure
+open reduction with internal fixation	arthroscopy	and bone grafting	combines	the use of screws or plates with the visualization provided by arthroscopy and transplanting bone tissue
+closed reduction with external fixation	ligament reconstruction	and amputation	is a type of	other fracture and dislocation procedure
+closed reduction with external fixation	ligament reconstruction	and amputation	combines	realigning the bone with the external frame	repairing a torn ligament	and surgical removal of a body part
+external fixation with arthroscopy	bone grafting	and joint replacement	is a type of	other fracture and dislocation procedure
+external fixation with arthroscopy	bone grafting	and joint replacement	combines	the use of pins or screws with the visualization provided by arthroscopy	transplanting bone tissue	and replacing the damaged joint
+joint replacement with ligament reconstruction	amputation	and open reduction	is a type of	other fracture and dislocation procedure
+joint replacement with ligament reconstruction	amputation	and open reduction	combines	replacing the damaged joint	repairing a torn ligament	and surgically exposing the fractured bone
+closed reduction with external fixation	ligament reconstruction	amputation	and arthroscopy	is a type of	other fracture and dislocation procedure
+closed reduction with external fixation	ligament reconstruction	amputation	and arthroscopy	combines	realigning the bone with the external frame	repairing a torn ligament	surgical removal of a body part	and using a tiny camera for visualization
+external fixation with arthroscopy	bone grafting	joint replacement	and open reduction	is a type of	other fracture and dislocation procedure
+external fixation with arthroscopy	bone grafting	joint replacement	and open reduction	combines	the use of pins or screws with the visualization provided by arthroscopy	transplanting bone tissue	replacing the damaged joint	and surgically exposing the fractured bone

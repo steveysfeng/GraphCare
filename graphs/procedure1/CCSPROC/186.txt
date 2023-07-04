@@ -1,0 +1,281 @@
+lower gastrointestinal x-ray	is a	medical procedure
+lower gastrointestinal x-ray	used for	diagnosis
+lower gastrointestinal x-ray	can detect	bowel obstructions
+lower gastrointestinal x-ray	can detect	tumors
+lower gastrointestinal x-ray	can detect	inflammatory bowel disease
+lower gastrointestinal x-ray	can detect	diverticulitis
+lower gastrointestinal x-ray	can detect	colorectal cancer
+lower gastrointestinal x-ray	can detect	Crohn's disease
+lower gastrointestinal x-ray	can detect	polyps
+lower gastrointestinal x-ray	can detect	hernias
+lower gastrointestinal x-ray	can detect	blockages
+lower gastrointestinal x-ray	can detect	abnormal growths
+lower gastrointestinal x-ray	can detect	constipation
+lower gastrointestinal x-ray	can detect	hemorrhoids
+lower gastrointestinal x-ray	can detect	bleeding
+lower gastrointestinal x-ray	can detect	strictures
+lower gastrointestinal x-ray	can detect	fistulas
+lower gastrointestinal x-ray	can detect	abscesses
+lower gastrointestinal x-ray	can detect	perforations
+lower gastrointestinal x-ray	can detect	impactions
+lower gastrointestinal x-ray	can detect	obstructions
+lower gastrointestinal x-ray	can detect	inflammation
+lower gastrointestinal x-ray	can detect	abnormal narrowing
+lower gastrointestinal x-ray	can detect	abnormalities
+lower gastrointestinal x-ray	can detect	blockages
+lower gastrointestinal x-ray	can detect	narrowing
+lower gastrointestinal x-ray	can detect	masses
+lower gastrointestinal x-ray	can detect	lesions
+lower gastrointestinal x-ray	can detect	abnormalities
+lower gastrointestinal x-ray	can detect	foreign bodies
+lower gastrointestinal x-ray	can detect	perforations
+lower gastrointestinal x-ray	can detect	fistulas
+lower gastrointestinal x-ray	can detect	abscesses
+lower gastrointestinal x-ray	can detect	colon cancer
+lower gastrointestinal x-ray	can detect	colitis
+lower gastrointestinal x-ray	can detect	megacolon
+lower gastrointestinal x-ray	can detect	volvulus
+lower gastrointestinal x-ray	can detect	gastric emptying disorders
+lower gastrointestinal x-ray	can detect	motility disorders
+lower gastrointestinal x-ray	can detect	ileus
+lower gastrointestinal x-ray	can detect	obstructions
+lower gastrointestinal x-ray	can detect	polyps
+lower gastrointestinal x-ray	can detect	ulcers
+lower gastrointestinal x-ray	can detect	diverticulosis
+lower gastrointestinal x-ray	can detect	diverticulitis
+lower gastrointestinal x-ray	can detect	appendicitis
+lower gastrointestinal x-ray	can detect	hernias
+lower gastrointestinal x-ray	can detect	tumors
+lower gastrointestinal x-ray	can detect	cysts
+lower gastrointestinal x-ray	can detect	adhesions
+lower gastrointestinal x-ray	can detect	hemorrhoids
+lower gastrointestinal x-ray	can detect	adhesions
+lower gastrointestinal x-ray	can detect	malabsorption
+lower gastrointestinal x-ray	can detect	strictures
+lower gastrointestinal x-ray	can detect	constipation
+lower gastrointestinal x-ray	can detect	dysphagia
+lower gastrointestinal x-ray	can detect	Zenker's diverticulum
+lower gastrointestinal x-ray	can detect	achalasia
+lower gastrointestinal x-ray	can detect	reflux
+lower gastrointestinal x-ray	can detect	motility disorders
+lower gastrointestinal x-ray	can detect	ulcers
+lower gastrointestinal x-ray	can detect	gastric emptying disorders
+lower gastrointestinal x-ray	can detect	obstructions
+lower gastrointestinal x-ray	can detect	strictures
+lower gastrointestinal x-ray	can detect	inflammation
+lower gastrointestinal x-ray	can detect	Crohn's disease
+lower gastrointestinal x-ray	can detect	ulcerative colitis
+lower gastrointestinal x-ray	can detect	ileus
+lower gastrointestinal x-ray	can detect	malabsorption
+lower gastrointestinal x-ray	can detect	megacolon
+lower gastrointestinal x-ray	can detect	volvulus
+lower gastrointestinal x-ray	can detect	gastric reflux
+lower gastrointestinal x-ray	can detect	hernias
+lower gastrointestinal x-ray	can detect	bowel obstruction
+lower gastrointestinal x-ray	can detect	gastrointestinal bleeding
+lower gastrointestinal x-ray	can detect	tumors
+lower gastrointestinal x-ray	can detect	strictures
+lower gastrointestinal x-ray	can detect	diverticulosis
+lower gastrointestinal x-ray	can detect	diverticulitis
+lower gastrointestinal x-ray	can detect	Crohn's disease
+lower gastrointestinal x-ray	can detect	ulcerative colitis
+lower gastrointestinal x-ray	can detect	bowel perforation
+lower gastrointestinal x-ray	can detect	appendicitis
+lower gastrointestinal x-ray	can detect	gastric outlet obstruction
+lower gastrointestinal x-ray	can detect	bowel impaction
+lower gastrointestinal x-ray	can detect	ileus
+lower gastrointestinal x-ray	can detect	megacolon
+lower gastrointestinal x-ray	can detect	volvulus
+lower gastrointestinal x-ray	can detect	gastrointestinal fistula
+lower gastrointestinal x-ray	can detect	abscesses
+lower gastrointestinal x-ray	can detect	abnormal narrowing
+lower gastrointestinal x-ray	can detect	gastrointestinal motility disorders
+lower gastrointestinal x-ray	can detect	malabsorption
+lower gastrointestinal x-ray	can detect	gastrointestinal stricture
+lower gastrointestinal x-ray	can detect	constipation
+lower gastrointestinal x-ray	can detect	dysphagia
+lower gastrointestinal x-ray	can detect	esophageal diverticula
+lower gastrointestinal x-ray	can detect	achalasia
+lower gastrointestinal x-ray	can detect	gastroesophageal reflux
+lower gastrointestinal x-ray	can detect	gastrointestinal inflammation
+lower gastrointestinal x-ray	can detect	Crohn's disease
+lower gastrointestinal x-ray	can detect	ulcerative colitis
+lower gastrointestinal x-ray	can detect	irritable bowel syndrome
+lower gastrointestinal x-ray	can detect	malabsorption
+lower gastrointestinal x-ray	can detect	toxic megacolon
+lower gastrointestinal x-ray	can detect	volvulus
+lower gastrointestinal x-ray	can detect	gastrointestinal stricture
+lower gastrointestinal x-ray	can detect	gastrointestinal perforation
+lower gastrointestinal x-ray	can detect	gastrointestinal obstruction
+lower gastrointestinal x-ray	can detect	gastrointestinal tumor
+lower gastrointestinal x-ray	can detect	diverticulosis
+lower gastrointestinal x-ray	can detect	diverticulitis
+lower gastrointestinal x-ray	can detect	inflammatory bowel disease
+lower gastrointestinal x-ray	can detect	gastrointestinal perforation
+lower gastrointestinal x-ray	can detect	gastrointestinal obstruction
+lower gastrointestinal x-ray	can detect	gastrointestinal stricture
+lower gastrointestinal x-ray	can detect	gastrointestinal motility disorders
+lower gastrointestinal x-ray	can detect	constipation
+lower gastrointestinal x-ray	can detect	Crohn's disease
+lower gastrointestinal x-ray	can detect	ulcerative colitis
+lower gastrointestinal x-ray	can detect	colonic diverticulosis
+lower gastrointestinal x-ray	can detect	colonic diverticulitis
+lower gastrointestinal x-ray	can detect	adhesions
+lower gastrointestinal x-ray	can detect	strictures
+lower gastrointestinal x-ray	can detect	large intestine obstruction
+lower gastrointestinal x-ray	can detect	colon stricture
+lower gastrointestinal x-ray	can detect	colon inflammation
+lower gastrointestinal x-ray	can detect	colitis
+lower gastrointestinal x-ray	can detect	colon motility disorders
+lower gastrointestinal x-ray	can detect	fecal impaction
+lower gastrointestinal x-ray	can detect	colon impaction
+lower gastrointestinal x-ray	can detect	megacolon
+lower gastrointestinal x-ray	can detect	colon volvulus
+lower gastrointestinal x-ray	can detect	gastrointestinal fistula
+lower gastrointestinal x-ray	can detect	gastrointestinal abscess
+lower gastrointestinal x-ray	can detect	narrowing of gastrointestinal tract
+lower gastrointestinal x-ray	can detect	bowels motility disorders
+lower gastrointestinal x-ray	can detect	colon malabsorption
+lower gastrointestinal x-ray	can detect	colon stricture
+lower gastrointestinal x-ray	can detect	constipation
+lower gastrointestinal x-ray	can detect	difficulty swallowing
+lower gastrointestinal x-ray	can detect	esophagus diverticulum
+lower gastrointestinal x-ray	can detect	achalasia
+lower gastrointestinal x-ray	can detect	reflux
+lower gastrointestinal x-ray	can detect	inflammation of gastrointestinal tract
+lower gastrointestinal x-ray	can detect	Crohn's disease
+lower gastrointestinal x-ray	can detect	ulcerative colitis
+lower gastrointestinal x-ray	can detect	irritable bowel syndrome
+lower gastrointestinal x-ray	can detect	decrease absorption of nutrients in colon
+lower gastrointestinal x-ray	can detect	dangerous dilation and inflammation of colon
+lower gastrointestinal x-ray	can detect	dangerous twisting of colon
+lower gastrointestinal x-ray	can detect	abnormalities in gastrointestinal tract
+lower gastrointestinal x-ray	can detect	colon obstruction
+lower gastrointestinal x-ray	can detect	bleeding in colon
+lower gastrointestinal x-ray	can detect	tumors in gastrointestinal tract
+lower gastrointestinal x-ray	can detect	narrowing in gastrointestinal tract
+lower gastrointestinal x-ray	can detect	lesions in gastrointestinal tract
+lower gastrointestinal x-ray	can detect	narrowing in colon
+lower gastrointestinal x-ray	can detect	masses in colon
+lower gastrointestinal x-ray	can detect	abnormalities in colon
+lower gastrointestinal x-ray	can detect	foreign bodies in colon
+lower gastrointestinal x-ray	can detect	perforations in colon
+lower gastrointestinal x-ray	can detect	fistulas in colon
+lower gastrointestinal x-ray	can detect	abscesses in colon
+lower gastrointestinal x-ray	can detect	impactions in colon
+lower gastrointestinal x-ray	can detect	obstructions in colon
+lower gastrointestinal x-ray	can detect	inflammation in colon
+lower gastrointestinal x-ray	can detect	abnormal narrowing in colon
+lower gastrointestinal x-ray	can detect	abnormalities in colon
+lower gastrointestinal x-ray	can detect	blockages in colon
+lower gastrointestinal x-ray	can detect	narrowing in colon
+lower gastrointestinal x-ray	can detect	masses in colon
+lower gastrointestinal x-ray	can detect	lesions in colon
+lower gastrointestinal x-ray	can detect	abnormalities in colon
+lower gastrointestinal x-ray	can detect	foreign bodies in colon
+lower gastrointestinal x-ray	can detect	perforations in colon
+lower gastrointestinal x-ray	can detect	fistulas in colon
+lower gastrointestinal x-ray	can detect	abscesses in colon
+lower gastrointestinal x-ray	can detect	impactions in colon
+lower gastrointestinal x-ray	can detect	obstructions in colon
+lower gastrointestinal x-ray	can detect	inflammation in colon
+lower gastrointestinal x-ray	can detect	Crohn's disease in colon
+lower gastrointestinal x-ray	can detect	ulcerative colitis in colon
+lower gastrointestinal x-ray	can detect	ileus in colon
+lower gastrointestinal x-ray	can detect	malabsorption in colon
+lower gastrointestinal x-ray	can detect	megacolon in colon
+lower gastrointestinal x-ray	can detect	volvulus in colon
+lower gastrointestinal x-ray	can detect	gastric emptying disorders in colon
+lower gastrointestinal x-ray	can detect	motility disorders in colon
+lower gastrointestinal x-ray	can detect	obstructions in colon
+lower gastrointestinal x-ray	can detect	polyps in colon
+lower gastrointestinal x-ray	can detect	ulcers in colon
+lower gastrointestinal x-ray	can detect	diverticulosis in colon
+lower gastrointestinal x-ray	can detect	diverticulitis in colon
+lower gastrointestinal x-ray	can detect	appendicitis in colon
+lower gastrointestinal x-ray	can detect	hernias in colon
+lower gastrointestinal x-ray	can detect	tumors in colon
+lower gastrointestinal x-ray	can detect	cysts in colon
+lower gastrointestinal x-ray	can detect	adhesions in colon
+lower gastrointestinal x-ray	can detect	hemorrhoids in colon
+lower gastrointestinal x-ray	can detect	adhesions in colon
+lower gastrointestinal x-ray	can detect	malabsorption in colon
+lower gastrointestinal x-ray	can detect	strictures in colon
+lower gastrointestinal x-ray	can detect	constipation in colon
+lower gastrointestinal x-ray	can detect	dysphagia in colon
+lower gastrointestinal x-ray	can detect	Zenker's diverticulum in colon
+lower gastrointestinal x-ray	can detect	achalasia in colon
+lower gastrointestinal x-ray	can detect	reflux in colon
+lower gastrointestinal x-ray	can detect	motility disorders in colon
+lower gastrointestinal x-ray	can detect	ulcers in colon
+lower gastrointestinal x-ray	can detect	gastric emptying disorders in colon
+lower gastrointestinal x-ray	can detect	obstructions in colon
+lower gastrointestinal x-ray	can detect	strictures in colon
+lower gastrointestinal x-ray	can detect	inflammation in colon
+lower gastrointestinal x-ray	can detect	Crohn's disease in colon
+lower gastrointestinal x-ray	can detect	ulcerative colitis in colon
+lower gastrointestinal x-ray	can detect	ileus in colon
+lower gastrointestinal x-ray	can detect	malabsorption in colon
+lower gastrointestinal x-ray	can detect	megacolon in colon
+lower gastrointestinal x-ray	can detect	volvulus in colon
+lower gastrointestinal x-ray	can detect	gastric reflux in colon
+lower gastrointestinal x-ray	can detect	hernias in colon
+lower gastrointestinal x-ray	can detect	bowel obstruction in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal bleeding in colon
+lower gastrointestinal x-ray	can detect	tumors in colon
+lower gastrointestinal x-ray	can detect	strictures in colon
+lower gastrointestinal x-ray	can detect	diverticulosis in colon
+lower gastrointestinal x-ray	can detect	diverticulitis in colon
+lower gastrointestinal x-ray	can detect	Crohn's disease in colon
+lower gastrointestinal x-ray	can detect	ulcerative colitis in colon
+lower gastrointestinal x-ray	can detect	bowel perforation in colon
+lower gastrointestinal x-ray	can detect	appendicitis in colon
+lower gastrointestinal x-ray	can detect	gastric outlet obstruction in colon
+lower gastrointestinal x-ray	can detect	bowel impaction in colon
+lower gastrointestinal x-ray	can detect	ileus in colon
+lower gastrointestinal x-ray	can detect	megacolon in colon
+lower gastrointestinal x-ray	can detect	volvulus in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal fistula in colon
+lower gastrointestinal x-ray	can detect	abscesses in colon
+lower gastrointestinal x-ray	can detect	abnormal narrowing in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal motility disorders in colon
+lower gastrointestinal x-ray	can detect	malabsorption in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal stricture in colon
+lower gastrointestinal x-ray	can detect	constipation in colon
+lower gastrointestinal x-ray	can detect	dysphagia in colon
+lower gastrointestinal x-ray	can detect	esophageal diverticula in colon
+lower gastrointestinal x-ray	can detect	achalasia in colon
+lower gastrointestinal x-ray	can detect	gastroesophageal reflux in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal inflammation in colon
+lower gastrointestinal x-ray	can detect	Crohn's disease in colon
+lower gastrointestinal x-ray	can detect	ulcerative colitis in colon
+lower gastrointestinal x-ray	can detect	irritable bowel syndrome in colon
+lower gastrointestinal x-ray	can detect	malabsorption in colon
+lower gastrointestinal x-ray	can detect	toxic megacolon in colon
+lower gastrointestinal x-ray	can detect	volvulus in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal stricture in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal perforation in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal obstruction in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal tumor in colon
+lower gastrointestinal x-ray	can detect	diverticulosis in colon
+lower gastrointestinal x-ray	can detect	diverticulitis in colon
+lower gastrointestinal x-ray	can detect	inflammatory bowel disease in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal perforation in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal obstruction in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal stricture in colon
+lower gastrointestinal x-ray	can detect	gastrointestinal motility disorders in colon
+lower gastrointestinal x-ray	can detect	constipation in colon
+lower gastrointestinal x-ray	can detect	Crohn's disease in colon
+lower gastrointestinal x-ray	can detect	ulcerative colitis in colon
+lower gastrointestinal x-ray	can detect	colonic diverticulosis in colon
+lower gastrointestinal x-ray	can detect	colonic diverticulitis in colon
+lower gastrointestinal x-ray	can detect	adhesions in colon
+lower gastrointestinal x-ray	can detect	strictures in colon
+lower gastrointestinal x-ray	can detect	large intestine obstruction in colon
+lower gastrointestinal x-ray	can detect	colon stricture in colon
+lower gastrointestinal x-ray	can detect	colon inflammation in colon
+lower gastrointestinal x-ray	can detect	colitis in colon
+lower gastrointestinal x-ray	can detect	colon motility disorders in colon
+lower gastrointestinal x-ray	can detect	fecal impaction in colon
+lower gastrointestinal x-ray	can detect	colon impaction in colon
+lower gastrointestinal x-ray	can detect	megacolon in colon

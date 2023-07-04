@@ -1,0 +1,129 @@
+ultrasound	is a	diagnostic procedure
+ultrasound	uses	sound waves
+sound waves	produce	images
+ultrasound	can detect	abnormalities
+ultrasound	commonly used for	pelvic exams
+pelvic exam	helps to	evaluate female reproductive organs
+ultrasound	also used for	monitoring pregnancies
+ultrasound	can visualize	fetus
+hysterosalpingography	is a	diagnostic procedure
+hysterosalpingography	involves	x-ray imaging
+x-ray imaging	used to	evaluate uterus and fallopian tubes
+hysterosalpingography	commonly used for	infertility evaluation
+infertility evaluation	assesses	female internal reproductive organs
+colposcopy	is a	diagnostic procedure
+colposcopy	uses	a special microscope
+special microscope	provides	magnified view
+colposcopy	used for	cervical cancer screening
+cervical cancer screening	identifies	abnormal cells
+cervical cancer screening	can detect	precancerous lesions
+biopsy	can be performed	during colposcopy
+biopsy	helps to	diagnose cervical cancer
+laparoscopy	is a	diagnostic procedure
+laparoscopy	involves	a minimally invasive surgery
+minimally invasive surgery	uses	small incisions
+laparoscopy	used to	examine female pelvic organs
+laparoscopy	can detect	cysts or tumors
+laparoscopy	also used for	treatment of conditions like endometriosis
+hysteroscopy	is a	diagnostic procedure
+hysteroscopy	involves	insertion of a thin telescope
+thin telescope	allows	visualization of the uterus
+hysteroscopy	used to	evaluate uterine cavity
+hysteroscopy	can detect	fibroids or polyps
+hysteroscopy	also used for	removal of certain uterine abnormalities
+mammogram	is a	diagnostic procedure
+mammogram	uses	x-ray imaging
+mammogram	used for	breast cancer screening
+breast cancer screening	detects	early signs of breast cancer
+breast cancer screening	can detect	tumors or calcifications
+magnetic resonance imaging (MRI)	is a	diagnostic procedure
+MRI	uses	radio waves and strong magnets
+radio waves and strong magnets	create	detailed images
+MRI	used to	evaluate female reproductive organs
+MRI	can detect	tumors or abnormalities
+pap smear	is a	diagnostic procedure
+pap smear	collects	cells from cervix
+cells from cervix	analyzed	for abnormal changes
+pap smear	used for	cervical cancer screening
+cervical cancer screening	detects	abnormal cells
+cervical cancer screening	can detect	precancerous lesions
+ultrasound	is a	diagnostic procedure
+ultrasound	used for	visualizing
+ultrasound	can detect	ovarian cysts
+hysteroscopy	is a	diagnostic procedure
+hysteroscopy	used for	examining uterus
+hysteroscopy	can diagnose	uterine polyps
+laparoscopy	is a	diagnostic procedure
+laparoscopy	used for	evaluating pelvic organs
+laparoscopy	can detect	endometriosis
+colposcopy	is a	diagnostic procedure
+colposcopy	used for	examining cervix
+colposcopy	can detect	abnormal cells
+mammography	is a	diagnostic procedure
+mammography	used for	screening breast cancer
+mammography	can detect	breast tumors
+diagnostic procedures	include	hysteroscopy
+hysteroscopy	is a	medical procedure
+hysteroscopy	used for	examining the uterus
+hysteroscopy	can detect	abnormal growths
+hysteroscopy	can be performed	under anesthesia
+diagnostic procedures	include	laparoscopy
+laparoscopy	is a	medical procedure
+laparoscopy	used for	examining the organs in the abdomen
+laparoscopy	can detect	tumors or cysts
+laparoscopy	can be performed	under anesthesia
+diagnostic procedures	include	colposcopy
+colposcopy	is a	medical procedure
+colposcopy	used for	examining the cervix
+colposcopy	can detect	abnormal cells
+colposcopy	can be performed	without anesthesia
+diagnostic procedures	include	mammogram
+mammogram	is a	medical procedure
+mammogram	used for	breast cancer screening
+mammogram	can detect	tumors or abnormalities
+mammogram	can be performed	with minimal discomfort
+diagnostic procedures	include	Pap smear
+Pap smear	is a	medical procedure
+Pap smear	used for	cervical cancer screening
+Pap smear	can detect	abnormal cells or infections
+Pap smear	can be performed	during a pelvic exam
+diagnostic procedures	include	transvaginal ultrasound
+transvaginal ultrasound	is a	medical procedure
+transvaginal ultrasound	used for	examining female reproductive organs
+transvaginal ultrasound	can detect	ovarian cysts or uterine abnormalities
+transvaginal ultrasound	can be performed	with a probe inserted into the vagina
+diagnostic procedures	include	pelvic exam
+pelvic exam	is a	medical procedure
+pelvic exam	used for	evaluating the health of female reproductive organs
+pelvic exam	can detect	abnormalities or infections
+pelvic exam	can be performed	by a healthcare provider
+diagnostic procedures	include	breast ultrasound
+breast ultrasound	is a	medical procedure
+breast ultrasound	used for	further evaluating breast abnormalities
+breast ultrasound	can detect	cysts or solid masses
+breast ultrasound	can be performed	with a handheld device
+diagnostic procedures	include	hysterosalpingogram
+hysterosalpingogram	is a	medical procedure
+hysterosalpingogram	used for	evaluating the uterus and fallopian tubes
+hysterosalpingogram	can detect	blockages or abnormalities
+hysterosalpingogram	can be performed	with a contrast dye
+diagnostic procedures	include	endometrial biopsy
+endometrial biopsy	is a	medical procedure
+endometrial biopsy	used for	examining the lining of the uterus
+endometrial biopsy	can detect	abnormal cells or conditions
+endometrial biopsy	can be performed	with a thin catheter
+diagnostic procedures	include	breast MRI
+breast MRI	is a	medical procedure
+breast MRI	used for	further evaluating breast abnormalities
+breast MRI	can detect	tumors or abnormalities
+breast MRI	can be performed	with contrast dye
+diagnostic procedures	include	hysterosonography
+hysterosonography	is a	medical procedure
+hysterosonography	used for	visualizing the uterus using sound waves
+hysterosonography	can detect	abnormalities or polyps
+hysterosonography	can be performed	with saline infusion
+diagnostic procedures	include	breast biopsy
+breast biopsy	is a	medical procedure
+breast biopsy	used for	obtaining tissue samples from the breast
+breast biopsy	can detect	cancer or benign conditions
+breast biopsy	can be performed	with a needle or surgical procedure

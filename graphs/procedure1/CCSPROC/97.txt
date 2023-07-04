@@ -1,0 +1,82 @@
+gastrointestinal diagnostic procedures	are used for	diagnosing gastrointestinal conditions
+gastrointestinal diagnostic procedures	include	endoscopy
+endoscopy	is a type of	gastrointestinal diagnostic procedure
+endoscopy	is used for	visualizing the gastrointestinal tract
+endoscopy	can detect	abnormalities in the gastrointestinal tract
+endoscopy	can be used to perform	biopsies
+endoscopy	can help in the diagnosis of	gastrointestinal cancers
+gastrointestinal diagnostic procedures	also include	sigmoidoscopy
+sigmoidoscopy	is a type of	gastrointestinal diagnostic procedure
+sigmoidoscopy	is used for	visualizing the sigmoid colon
+sigmoidoscopy	can detect	abnormalities in the sigmoid colon
+sigmoidoscopy	can help in the diagnosis of	colorectal cancers
+gastrointestinal diagnostic procedures	can also include	colonoscopy
+colonoscopy	is a type of	gastrointestinal diagnostic procedure
+colonoscopy	is used for	visualizing the entire colon
+colonoscopy	can detect	abnormalities in the colon
+colonoscopy	can help in the diagnosis of	colorectal cancers
+gastrointestinal diagnostic procedures	can also include	barium swallow
+barium swallow	is a type of	gastrointestinal diagnostic procedure
+barium swallow	is used for	visualizing the upper gastrointestinal tract
+barium swallow	can detect	abnormalities in the esophagus and stomach
+barium swallow	can help in the diagnosis of	esophageal and gastric conditions
+gastrointestinal diagnostic procedures	can also include	CT scan
+CT scan	is a type of	gastrointestinal diagnostic procedure
+CT scan	is used for	imaging the gastrointestinal tract
+CT scan	can detect	abnormalities in the gastrointestinal tract
+CT scan	can help in the diagnosis of	gastrointestinal disorders
+gastrointestinal diagnostic procedures	can also include	MRI
+MRI	is a type of	gastrointestinal diagnostic procedure
+MRI	is used for	imaging the gastrointestinal tract
+MRI	can detect	abnormalities in the gastrointestinal tract
+MRI	can help in the diagnosis of	gastrointestinal conditions
+gastrointestinal diagnostic procedures	can also include	ultrasound
+ultrasound	is a type of	gastrointestinal diagnostic procedure
+ultrasound	is used for	imaging the gastrointestinal tract
+ultrasound	can detect	abnormalities in the gastrointestinal tract
+ultrasound	can help in the diagnosis of	gastrointestinal conditions
+gastrointestinal diagnostic procedures	can also include	fecal occult blood test
+fecal occult blood test	is a type of	gastrointestinal diagnostic procedure
+fecal occult blood test	is used for	detecting hidden blood in the feces
+fecal occult blood test	can detect	gastrointestinal bleeding
+fecal occult blood test	can help in the diagnosis of	gastrointestinal conditions
+gastrointestinal diagnostic procedures	can also include	breath test
+breath test	is a type of	gastrointestinal diagnostic procedure
+breath test	is used for	detecting specific gases in the breath
+breath test	can detect	gastrointestinal disorders
+breath test	can help in the diagnosis of	gastrointestinal conditions
+gastrointestinal diagnostic procedures	may also include	capsule endoscopy
+capsule endoscopy	is a type of	gastrointestinal diagnostic procedure
+capsule endoscopy	is used for	visualizing the small intestine
+capsule endoscopy	can detect	abnormalities in the small intestine
+capsule endoscopy	can help in the diagnosis of	small intestine disorders
+gastrointestinal diagnostic procedures	may also include	ERCP
+ERCP	is a type of	gastrointestinal diagnostic procedure
+ERCP	is used for	visualizing the bile ducts and pancreas
+ERCP	can detect	abnormalities in the bile ducts and pancreas
+ERCP	can help in the diagnosis of	bile duct and pancreatic disorders
+gastrointestinal diagnostic procedures	may also include	liver biopsy
+liver biopsy	is a type of	gastrointestinal diagnostic procedure
+liver biopsy	is used for	obtaining a sample of liver tissue
+liver biopsy	can detect	liver diseases
+liver biopsy	can help in the diagnosis of	liver conditions
+gastrointestinal diagnostic procedures	may also include	gastric emptying study
+gastric emptying study	is a type of	gastrointestinal diagnostic procedure
+gastric emptying study	is used for	measuring the speed of emptying the stomach
+gastric emptying study	can detect	gastroparesis
+gastric emptying study	can help in the diagnosis of	gastric motility disorders
+gastrointestinal diagnostic procedures	may also include	motility studies
+motility studies	are a type of	gastrointestinal diagnostic procedure
+motility studies	are used for	evaluating the movement of the gastrointestinal tract
+motility studies	can detect	abnormalities in gastrointestinal motility
+motility studies	can help in the diagnosis of	gastrointestinal motility disorders
+gastrointestinal diagnostic procedures	may also include	hydrogen breath test
+hydrogen breath test	is a type of	gastrointestinal diagnostic procedure
+hydrogen breath test	is used for	detecting the presence of certain bacteria in the gastrointestinal tract
+hydrogen breath test	can detect	bacterial overgrowth in the gastrointestinal tract
+hydrogen breath test	can help in the diagnosis of	bacterial overgrowth
+gastrointestinal diagnostic procedures	may also include	endoscopic ultrasound
+endoscopic ultrasound	is a type of	gastrointestinal diagnostic procedure
+endoscopic ultrasound	is used for	imaging the gastrointestinal tract and adjacent structures
+endoscopic ultrasound	can detect	abnormalities in the gastrointestinal tract and adjacent structures
+endoscopic ultrasound	can help in the diagnosis of	gastrointestinal and adjacent structure conditions

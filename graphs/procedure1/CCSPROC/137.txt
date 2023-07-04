@@ -1,0 +1,331 @@
+other procedures	can assist	delivery
+cesarean section	is a type of	other procedures
+cesarean section	used for	difficult childbirth
+forceps delivery	is a type of	other procedures
+forceps delivery	used for	assisting in vaginal delivery
+vacuum extraction	is a type of	other procedures
+vacuum extraction	used for	assisting in vaginal delivery
+episiotomy	is a type of	other procedures
+episiotomy	used for	enlarging the vaginal opening
+version	is a type of	other procedures
+version	used for	repositioning the fetus
+other procedures to assist delivery	are used for	childbirth
+vacuum extraction	is a type of	other procedures to assist delivery
+vacuum extraction	can be used for	difficult deliveries
+forceps delivery	is another type of	other procedures to assist delivery
+forceps delivery	can be used for	fetal distress
+cesarean section	is a type of	other procedures to assist delivery
+cesarean section	is performed when	vaginal delivery is not possible
+cesarean section	carries the risk of	infection
+episiotomy	is a type of	other procedures to assist delivery
+episiotomy	involves	cutting the perineum
+episiotomy	can reduce	the risk of tearing
+epidural anesthesia	is used during	other procedures to assist delivery
+epidural anesthesia	provides	pain relief during childbirth
+epidural anesthesia	may cause	low blood pressure
+induction of labor	is a type of	other procedures to assist delivery
+induction of labor	is performed	to start or speed up labor
+induction of labor	may increase	the risk of cesarean section
+amniotomy	is a type of	other procedures to assist delivery
+amniotomy	involves	rupturing the amniotic sac
+amniotomy	may increase	the risk of infection
+external cephalic version	is a type of	other procedures to assist delivery
+external cephalic version	is used to	turn a breech baby
+external cephalic version	carries the risk of	umbilical cord compression
+perineal massage	is performed during	other procedures to assist delivery
+perineal massage	helps	stretch and relax the perineum
+perineal massage	can reduce	the risk of tearing
+epidural analgesia	is used during	other procedures to assist delivery
+epidural analgesia	provides	pain relief during childbirth
+epidural analgesia	may cause	prolonged labor
+breech extraction	is a type of	other procedures to assist delivery
+breech extraction	is performed when	the baby is in a breech position
+breech extraction	carries the risk of	umbilical cord prolapse
+shoulder dystocia management	is a type of	other procedures to assist delivery
+shoulder dystocia management	is performed when	the baby's shoulder gets stuck
+shoulder dystocia management	may require	episiotomy
+vaginal birth after cesarean section (VBAC)	is a type of	other procedures to assist delivery
+vaginal birth after cesarean section (VBAC)	is an option for	women who have had a previous cesarean section
+vaginal birth after cesarean section (VBAC)	carries the risk of	uterine rupture
+forceps-assisted vaginal delivery	is a type of	other procedures to assist delivery
+forceps-assisted vaginal delivery	involves	using forceps to help deliver the baby
+forceps-assisted vaginal delivery	may cause	maternal and neonatal trauma
+vacuum-assisted vaginal delivery	is a type of	other procedures to assist delivery
+vacuum-assisted vaginal delivery	involves	using a vacuum extractor to help deliver the baby
+vacuum-assisted vaginal delivery	carries the risk of	scalp lacerations
+cervical ripening	is a type of	other procedures to assist delivery
+cervical ripening	is performed	to soften and thin the cervix
+cervical ripening	may increase	the risk of infection
+apgar scoring	is performed after	other procedures to assist delivery
+apgar scoring	assesses	the baby's overall health at birth
+apgar scoring	is done at	1 minute and 5 minutes after birth
+amnioinfusion	is a type of	other procedures to assist delivery
+amnioinfusion	involves	infusing fluid into the uterus
+amnioinfusion	is used to	relieve umbilical cord compression
+episiotomy repair	is a type of	other procedures to assist delivery
+episiotomy repair	involves	stitching the perineal tear after delivery
+episiotomy repair	may require	local anesthesia
+perineal laceration repair	is a type of	other procedures to assist delivery
+perineal laceration repair	involves	stitching the perineal tear after delivery
+perineal laceration repair	may require	sutures
+placental delivery	is performed after	other procedures to assist delivery
+placental delivery	involves	delivering the placenta
+placental delivery	may require	controlled cord traction
+perineal tears	can occur during	other procedures to assist delivery
+perineal tears	are classified into	different degrees of severity
+perineal tears	can be repaired	with sutures
+cord blood collection	is done after	other procedures to assist delivery
+cord blood collection	collects	umbilical cord blood for future use
+cord blood collection	is a type of	stem cell banking
+other procedures to assist delivery	is a	medical procedure
+other procedures to assist delivery	used for	assisting delivery
+forceps delivery	is a type of	other procedures to assist delivery
+forceps delivery	used for	assisting delivery
+vacuum extraction	is a type of	other procedures to assist delivery
+vacuum extraction	used for	assisting delivery
+cesarean section	is a type of	other procedures to assist delivery
+cesarean section	used for	assisting delivery
+induction of labor	is a type of	other procedures to assist delivery
+induction of labor	used for	assisting delivery
+episiotomy	is a type of	other procedures to assist delivery
+episiotomy	used for	assisting delivery
+perineal tear repair	is a type of	other procedures to assist delivery
+perineal tear repair	used for	assisting delivery
+umbilical cord clamping	is a type of	other procedures to assist delivery
+umbilical cord clamping	used for	assisting delivery
+oxytocin administration	is a type of	other procedures to assist delivery
+oxytocin administration	used for	assisting delivery
+cervical ripening	is a type of	other procedures to assist delivery
+cervical ripening	used for	assisting delivery
+amniotomy	is a type of	other procedures to assist delivery
+amniotomy	used for	assisting delivery
+fetal monitoring	is a type of	other procedures to assist delivery
+fetal monitoring	used for	assisting delivery
+umbilical artery catheterization	is a type of	other procedures to assist delivery
+umbilical artery catheterization	used for	assisting delivery
+fetoscopy	is a type of	other procedures to assist delivery
+fetoscopy	used for	assisting delivery
+immediate newborn care	is a type of	other procedures to assist delivery
+immediate newborn care	used for	assisting delivery
+perineal massage	is a type of	other procedures to assist delivery
+perineal massage	used for	assisting delivery
+placenta delivery	is a type of	other procedures to assist delivery
+placenta delivery	used for	assisting delivery
+maneuvers to correct fetal position	is a type of	other procedures to assist delivery
+maneuvers to correct fetal position	used for	assisting delivery
+spontaneous vaginal delivery	is a type of	other procedures to assist delivery
+spontaneous vaginal delivery	used for	assisting delivery
+umbilical vein catheterization	is a type of	other procedures to assist delivery
+umbilical vein catheterization	used for	assisting delivery
+intrauterine pressure catheterization	is a type of	other procedures to assist delivery
+intrauterine pressure catheterization	used for	assisting delivery
+artificial rupture of membranes	is a type of	other procedures to assist delivery
+artificial rupture of membranes	used for	assisting delivery
+vaginal birth after cesarean (VBAC)	is a type of	other procedures to assist delivery
+vaginal birth after cesarean (VBAC)	used for	assisting delivery
+forceps-assisted vaginal delivery	is a type of	other procedures to assist delivery
+forceps-assisted vaginal delivery	used for	assisting delivery
+meconium aspiration	is a type of	other procedures to assist delivery
+meconium aspiration	used for	assisting delivery
+perineal tear	is a type of	other procedures to assist delivery
+perineal tear	used for	assisting delivery
+retained placenta	is a type of	other procedures to assist delivery
+retained placenta	used for	assisting delivery
+cesarean hysterectomy	is a type of	other procedures to assist delivery
+cesarean hysterectomy	used for	assisting delivery
+forceps	is a type of	other procedures to assist delivery
+forceps	used for	assisting delivery
+vacuum extractor	is a type of	other procedures to assist delivery
+vacuum extractor	used for	assisting delivery
+oxytocin	is a type of	other procedures to assist delivery
+oxytocin	used for	assisting delivery
+cervical ripening agents	is a type of	other procedures to assist delivery
+cervical ripening agents	used for	assisting delivery
+general anesthesia	is a type of	other procedures to assist delivery
+general anesthesia	used for	assisting delivery
+local anesthesia	is a type of	other procedures to assist delivery
+local anesthesia	used for	assisting delivery
+epidural anesthesia	is a type of	other procedures to assist delivery
+epidural anesthesia	used for	assisting delivery
+amnioinfusion	is a type of	other procedures to assist delivery
+amnioinfusion	used for	assisting delivery
+vaginal birth	is a type of	other procedures to assist delivery
+vaginal birth	used for	assisting delivery
+spina bifida repair	is a type of	other procedures to assist delivery
+spina bifida repair	used for	assisting delivery
+hysterectomy	is a type of	other procedures to assist delivery
+hysterectomy	used for	assisting delivery
+uterine atony	is a type of	other procedures to assist delivery
+uterine atony	used for	assisting delivery
+umbilical cord prolapse	is a type of	other procedures to assist delivery
+umbilical cord prolapse	used for	assisting delivery
+fetal distress	is a type of	other procedures to assist delivery
+fetal distress	used for	assisting delivery
+birth canal laceration	is a type of	other procedures to assist delivery
+birth canal laceration	used for	assisting delivery
+shoulder dystocia	is a type of	other procedures to assist delivery
+shoulder dystocia	used for	assisting delivery
+neonatal resuscitation	is a type of	other procedures to assist delivery
+neonatal resuscitation	used for	assisting delivery
+perinatal asphyxia	is a type of	other procedures to assist delivery
+perinatal asphyxia	used for	assisting delivery
+postpartum hemorrhage	is a type of	other procedures to assist delivery
+postpartum hemorrhage	used for	assisting delivery
+umbilical cord occlusion	is a type of	other procedures to assist delivery
+umbilical cord occlusion	used for	assisting delivery
+cervical cerclage	is a type of	other procedures to assist delivery
+cervical cerclage	used for	assisting delivery
+postpartum infection	is a type of	other procedures to assist delivery
+postpartum infection	used for	assisting delivery
+cervical tear	is a type of	other procedures to assist delivery
+cervical tear	used for	assisting delivery
+c-section delivery	is a type of	other procedures to assist delivery
+c-section delivery	used for	assisting delivery
+fallopian tube ligation	is a type of	other procedures to assist delivery
+fallopian tube ligation	used for	assisting delivery
+uterine rupture	is a type of	other procedures to assist delivery
+uterine rupture	used for	assisting delivery
+birth defects	is a type of	other procedures to assist delivery
+birth defects	used for	assisting delivery
+placental abruption	is a type of	other procedures to assist delivery
+placental abruption	used for	assisting delivery
+operative vaginal delivery	is a type of	other procedures to assist delivery
+operative vaginal delivery	used for	assisting delivery
+uterine inversion	is a type of	other procedures to assist delivery
+uterine inversion	used for	assisting delivery
+prolonged labor	is a type of	other procedures to assist delivery
+prolonged labor	used for	assisting delivery
+extramural birth	is a type of	other procedures to assist delivery
+extramural birth	used for	assisting delivery
+umbilical vessel rupture	is a type of	other procedures to assist delivery
+umbilical vessel rupture	used for	assisting delivery
+placenta previa	is a type of	other procedures to assist delivery
+placenta previa	used for	assisting delivery
+prolapsed cord	is a type of	other procedures to assist delivery
+prolapsed cord	used for	assisting delivery
+preeclampsia	is a type of	other procedures to assist delivery
+preeclampsia	used for	assisting delivery
+precipitous labor	is a type of	other procedures to assist delivery
+precipitous labor	used for	assisting delivery
+forceps delivery complications	is a type of	other procedures to assist delivery
+forceps delivery complications	used for	assisting delivery
+umbilical cord avulsion	is a type of	other procedures to assist delivery
+umbilical cord avulsion	used for	assisting delivery
+cord blood sampling	is a type of	other procedures to assist delivery
+cord blood sampling	used for	assisting delivery
+fetal blood sampling	is a type of	other procedures to assist delivery
+fetal blood sampling	used for	assisting delivery
+cord blood acid-base status	is a type of	other procedures to assist delivery
+cord blood acid-base status	used for	assisting delivery
+operative delivery	is a type of	other procedures to assist delivery
+operative delivery	used for	assisting delivery
+ultrasound monitoring	is a type of	other procedures to assist delivery
+ultrasound monitoring	used for	assisting delivery
+nonstress test	is a type of	other procedures to assist delivery
+nonstress test	used for	assisting delivery
+biochemical testing	is a type of	other procedures to assist delivery
+biochemical testing	used for	assisting delivery
+complete placenta previa	is a type of	other procedures to assist delivery
+complete placenta previa	used for	assisting delivery
+hemorrhage	is a type of	other procedures to assist delivery
+hemorrhage	used for	assisting delivery
+uterine rupture risk factors	is a type of	other procedures to assist delivery
+uterine rupture risk factors	used for	assisting delivery
+placental insufficiency	is a type of	other procedures to assist delivery
+placental insufficiency	used for	assisting delivery
+venous thromboembolism	is a type of	other procedures to assist delivery
+venous thromboembolism	used for	assisting delivery
+morbidly adherent placenta	is a type of	other procedures to assist delivery
+morbidly adherent placenta	used for	assisting delivery
+breech delivery	is a type of	other procedures to assist delivery
+breech delivery	used for	assisting delivery
+brachial plexus injury	is a type of	other procedures to assist delivery
+brachial plexus injury	used for	assisting delivery
+postpartum complications	is a type of	other procedures to assist delivery
+postpartum complications	used for	assisting delivery
+birth injury	is a type of	other procedures to assist delivery
+birth injury	used for	assisting delivery
+uterine rupture symptoms	is a type of	other procedures to assist delivery
+uterine rupture symptoms	used for	assisting delivery
+umbilical cord blood gases	is a type of	other procedures to assist delivery
+umbilical cord blood gases	used for	assisting delivery
+vacuum extraction complications	is a type of	other procedures to assist delivery
+vacuum extraction complications	used for	assisting delivery
+cephalic-pelvic disproportion	is a type of	other procedures to assist delivery
+cephalic-pelvic disproportion	used for	assisting delivery
+birth trauma	is a type of	other procedures to assist delivery
+birth trauma	used for	assisting delivery
+delayed cord clamping	is a type of	other procedures to assist delivery
+delayed cord clamping	used for	assisting delivery
+manual removal of placenta	is a type of	other procedures to assist delivery
+manual removal of placenta	used for	assisting delivery
+retained placenta symptoms	is a type of	other procedures to assist delivery
+retained placenta symptoms	used for	assisting delivery
+cervical tear symptoms	is a type of	other procedures to assist delivery
+cervical tear symptoms	used for	assisting delivery
+umbilical cord prolapse symptoms	is a type of	other procedures to assist delivery
+umbilical cord prolapse symptoms	used for	assisting delivery
+fetal distress symptoms	is a type of	other procedures to assist delivery
+fetal distress symptoms	used for	assisting delivery
+fetal heart monitoring	is a type of	other procedures to assist delivery
+fetal heart monitoring	used for	assisting delivery
+maternal complications	is a type of	other procedures to assist delivery
+maternal complications	used for	assisting delivery
+postpartum depression	is a type of	other procedures to assist delivery
+postpartum depression	used for	assisting delivery
+shoulder dystocia risk factors	is a type of	other procedures to assist delivery
+shoulder dystocia risk factors	used for	assisting delivery
+neonatal respiratory distress	is a type of	other procedures to assist delivery
+neonatal respiratory distress	used for	assisting delivery
+birth canal laceration symptoms	is a type of	other procedures to assist delivery
+birth canal laceration symptoms	used for	assisting delivery
+retained placenta risk factors	is a type of	other procedures to assist delivery
+retained placenta risk factors	used for	assisting delivery
+placenta previa symptoms	is a type of	other procedures to assist delivery
+placenta previa symptoms	used for	assisting delivery
+premature birth	is a type of	other procedures to assist delivery
+premature birth	used for	assisting delivery
+forceps delivery risk factors	is a type of	other procedures to assist delivery
+forceps delivery risk factors	used for	assisting delivery
+umbilical cord avulsion symptoms	is a type of	other procedures to assist delivery
+umbilical cord avulsion symptoms	used for	assisting delivery
+cord blood sampling indications	is a type of	other procedures to assist delivery
+cord blood sampling indications	used for	assisting delivery
+fetal blood sampling indications	is a type of	other procedures to assist delivery
+fetal blood sampling indications	used for	assisting delivery
+cord blood acidosis	is a type of	other procedures to assist delivery
+cord blood acidosis	used for	assisting delivery
+cord blood alkalosis	is a type of	other procedures to assist delivery
+cord blood alkalosis	used for	assisting delivery
+operative delivery indications	is a type of	other procedures to assist delivery
+operative delivery indications	used for	assisting delivery
+uterine atony risk factors	is a type of	other procedures to assist delivery
+uterine atony risk factors	used for	assisting delivery
+placental abruption risk factors	is a type of	other procedures to assist delivery
+placental abruption risk factors	used for	assisting delivery
+prolonged labor risk factors	is a type of	other procedures to assist delivery
+prolonged labor risk factors	used for	assisting delivery
+umbilical vessel rupture symptoms	is a type of	other procedures to assist delivery
+umbilical vessel rupture symptoms	used for	assisting delivery
+cervical insufficiency	is a type of	other procedures to assist delivery
+cervical insufficiency	used for	assisting delivery
+breech presentation	is a type of	other procedures to assist delivery
+breech presentation	used for	assisting delivery
+brachial plexus injury symptoms	is a type of	other procedures to assist delivery
+brachial plexus injury symptoms	used for	assisting delivery
+uterine rupture risk factors	is a type of	other procedures to assist delivery
+uterine rupture risk factors	used for	assisting delivery
+placental insufficiency risk factors	is a type of	other procedures to assist delivery
+placental insufficiency risk factors	used for	assisting delivery
+venous thromboembolism risk factors	is a type of	other procedures to assist delivery
+venous thromboembolism risk factors	used for	assisting delivery
+morbidly adherent placenta risk factors	is a type of	other procedures to assist delivery
+morbidly adherent placenta risk factors	used for	assisting delivery
+birth defects risk factors	is a type of	other procedures to assist delivery
+birth defects risk factors	used for	assisting delivery
+prolapsed cord risk factors	is a type of	other procedures to assist delivery
+prolapsed cord risk factors	used for	assisting delivery
+preeclampsia risk factors	is a type of	other procedures to assist delivery
+preeclampsia risk factors	used for	assisting delivery
+prolonged labor symptoms	is a type of	other procedures to assist delivery
+prolonged labor symptoms	used for	assisting delivery

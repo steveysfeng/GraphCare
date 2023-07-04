@@ -1,0 +1,255 @@
+muscle biopsy	is a	procedure
+muscle biopsy	used for	diagnosis
+muscle biopsy	can detect	muscle disease
+tendon repair	is a	procedure
+tendon repair	used for	treatment
+tendon repair	can mend	torn tendons
+trigger point injection	is a	procedure
+trigger point injection	used for	pain relief
+trigger point injection	can alleviate	muscle pain
+botox injection	is a	procedure
+botox injection	used for	muscle spasm
+botox injection	can relax	overactive muscles
+electromyography	is a	procedure
+electromyography	used for	neuromuscular disorder diagnosis
+electromyography	can measure	muscle activity
+muscle release surgery	is a	procedure
+muscle release surgery	used for	correcting muscle imbalances
+muscle release surgery	can improve	range of motion
+tendon transfer surgery	is a	procedure
+tendon transfer surgery	used for	improving strength and function
+tendon transfer surgery	can restore	damaged tendons
+ultrasound-guided injection	is a	procedure
+ultrasound-guided injection	used for	targeted drug delivery
+ultrasound-guided injection	can minimize	medication waste
+compartment pressure measurement	is a	procedure
+compartment pressure measurement	used for	diagnosing compartment syndrome
+compartment pressure measurement	can determine	muscle and nerve health
+tendon graft	is a	procedure
+tendon graft	used for	tendon reconstruction
+tendon graft	can restore	stability and function
+dry needling	is a	procedure
+dry needling	used for	trigger point release
+dry needling	can relieve	muscle pain
+muscle augmentation	is a	procedure
+muscle augmentation	used for	enhancing muscle volume
+muscle augmentation	can improve	aesthetics
+tenotomy	is a	procedure
+tenotomy	used for	tendon lengthening
+tenotomy	can correct	deformities
+platelet-rich plasma injection	is a	procedure
+platelet-rich plasma injection	used for	tissue healing
+platelet-rich plasma injection	can promote	tissue regeneration
+myofascial release	is a	procedure
+myofascial release	used for	relieving muscle tightness
+myofascial release	can improve	flexibility
+radiofrequency ablation	is a	procedure
+radiofrequency ablation	used for	nerve pain relief
+radiofrequency ablation	can disrupt	pain signals
+muscle resection	is a	procedure
+muscle resection	used for	removing damaged muscles
+muscle resection	can eliminate	muscle tumors
+tenodesis	is a	procedure
+tenodesis	used for	tendon stabilization
+tenodesis	can restore	joint function
+prolotherapy	is a	procedure
+prolotherapy	used for	joint and tendon repair
+prolotherapy	can stimulate	tissue regeneration
+trigger point release	is a	procedure
+trigger point release	used for	muscle pain relief
+trigger point release	can improve	muscle flexibility
+chemical denervation	is a	procedure
+chemical denervation	used for	muscle relaxation
+chemical denervation	can treat	muscle spasms
+fasciotomy	is a	procedure
+fasciotomy	used for	relieving pressure
+fasciotomy	can prevent	tissue damage
+muscle transfer	is a	procedure
+muscle transfer	used for	muscle replacement
+muscle transfer	can restore	lost function
+extracorporeal shockwave therapy	is a	procedure
+extracorporeal shockwave therapy	used for	treating tendinopathies
+extracorporeal shockwave therapy	can stimulate	tissue repair
+joint mobilization	is a	procedure
+joint mobilization	used for	improving joint function
+joint mobilization	can reduce	joint stiffness
+neuromuscular electrical stimulation	is a	procedure
+neuromuscular electrical stimulation	used for	muscle rehabilitation
+neuromuscular electrical stimulation	can prevent	muscle atrophy
+soft tissue mobilization	is a	procedure
+soft tissue mobilization	used for	breaking down scar tissue
+soft tissue mobilization	can improve	tissue flexibility
+amputation	is a	procedure
+amputation	used for	limb removal
+amputation	can alleviate	severe pain
+muscle imaging	is a	procedure
+muscle imaging	used for	visualizing muscle structure
+muscle imaging	can detect	muscle abnormalities
+joint injection	is a	procedure
+joint injection	used for	pain management
+joint injection	can reduce	inflammation
+acupuncture	is a	procedure
+acupuncture	used for	pain relief
+acupuncture	can stimulate	natural healing
+invasive muscle stimulation	is a	procedure
+invasive muscle stimulation	used for	muscle contraction
+invasive muscle stimulation	can improve	muscle strength
+muscle transplantation	is a	procedure
+muscle transplantation	used for	muscle restoration
+muscle transplantation	can restore	muscle function
+transcutaneous electrical nerve stimulation	is a	procedure
+transcutaneous electrical nerve stimulation	used for	pain reduction
+transcutaneous electrical nerve stimulation	can block	pain signals
+synovectomy	is a	procedure
+synovectomy	used for	removing inflamed synovium
+synovectomy	can alleviate	joint pain
+splinting	is a	procedure
+splinting	used for	immobilization
+splinting	can support	injured limbs
+arthroscopy	is a	procedure
+arthroscopy	used for	joint examination
+arthroscopy	can diagnose	joint conditions
+physical therapy	is a	procedure
+physical therapy	used for	rehabilitation
+physical therapy	can improve	functional ability
+joint replacement	is a	procedure
+joint replacement	used for	joint repair
+joint replacement	can relieve	joint pain
+muscle relaxant injection	is a	procedure
+muscle relaxant injection	used for	muscle relaxation
+muscle relaxant injection	can reduce	muscle spasms
+corticosteroid injection	is a	procedure
+corticosteroid injection	used for	reducing inflammation
+corticosteroid injection	can relieve	pain and swelling
+traction	is a	procedure
+traction	used for	bone alignment
+traction	can stabilize	fractures
+exercise therapy	is a	procedure
+exercise therapy	used for	physical improvement
+exercise therapy	can enhance	muscle strength
+musculoskeletal ultrasound	is a	procedure
+musculoskeletal ultrasound	used for	imaging soft tissues
+musculoskeletal ultrasound	can detect	musculoskeletal abnormalities
+cast application	is a	procedure
+cast application	used for	fracture immobilization
+cast application	can promote	bone healing
+joint fusion	is a	procedure
+joint fusion	used for	joint stability
+joint fusion	can alleviate	joint pain
+muscle stimulation	is a	procedure
+muscle stimulation	used for	muscle rehabilitation
+muscle stimulation	can enhance	muscle contractions
+arthrogram	is a	procedure
+arthrogram	used for	imaging joints
+arthrogram	can diagnose	joint abnormalities
+muscle tightening	is a	procedure
+muscle tightening	used for	correcting muscle laxity
+muscle tightening	can improve	muscle tone
+joint manipulation	is a	procedure
+joint manipulation	used for	joint realignment
+joint manipulation	can relieve	joint stiffness
+muscle lengthening	is a	procedure
+muscle lengthening	used for	increasing muscle flexibility
+muscle lengthening	can correct	contractures
+ankle fusion	is a	procedure
+ankle fusion	used for	joint stability
+ankle fusion	can alleviate	pain and deformity
+brace application	is a	procedure
+brace application	used for	joint support
+brace application	can stabilize	injured joints
+gait training	is a	procedure
+gait training	used for	improving walking ability
+gait training	can correct	abnormal walking patterns
+thrombolytic therapy	is a	procedure
+thrombolytic therapy	used for	dissolving blood clots
+thrombolytic therapy	can restore	blood flow
+joint debridement	is a	procedure
+joint debridement	used for	removing damaged tissue
+joint debridement	can alleviate	joint pain
+muscle strengthening	is a	procedure
+muscle strengthening	used for	improving muscle power
+muscle strengthening	can enhance	physical performance
+arthrodesis	is a	procedure
+arthrodesis	used for	joint fusing
+arthrodesis	can stabilize	diseased joints
+muscle release	is a	procedure
+muscle release	used for	correcting muscle tightness
+muscle release	can improve	range of motion
+traction therapy	is a	procedure
+traction therapy	used for	spine decompression
+traction therapy	can relieve	back pain
+arthroplasty	is a	procedure
+arthroplasty	used for	joint reconstruction
+arthroplasty	can restore	joint function
+splint application	is a	procedure
+splint application	used for	limb immobilization
+splint application	can stabilize	fractures
+joint relocation	is a	procedure
+joint relocation	used for	realigning joints
+joint relocation	can reduce	joint dislocation
+muscle contraction	is a	process
+muscle contraction	can generate	force
+muscle contraction	drives	movement
+muscle relaxation	is a	process
+muscle relaxation	can relieve	tension
+muscle relaxation	promotes	rest and recovery
+joint repair	is a	process
+joint repair	can restore	joint stability
+joint repair	improves	joint function
+tendon rupture	is a	condition
+tendon rupture	can cause	joint instability
+tendon rupture	requires	surgical intervention
+muscle strain	is a	condition
+muscle strain	can result from	overuse or injury
+muscle strain	causes	muscle pain
+joint instability	is a	condition
+joint instability	can lead to	frequent dislocation
+joint instability	requires	stabilization
+muscle atrophy	is a	condition
+muscle atrophy	can result from	disuse or nerve damage
+muscle atrophy	leads to	muscle weakness
+tendonitis	is a	condition
+tendonitis	arises from	overuse or injury
+tendonitis	causes	tendon pain
+muscle spasm	is a	condition
+muscle spasm	can result from	muscle fatigue or injury
+muscle spasm	causes	muscle cramps
+joint inflammation	is a	condition
+joint inflammation	can arise from	injury or diseases
+joint inflammation	leads to	joint pain
+muscle tightness	is a	condition
+muscle tightness	can result from	muscle imbalances or stress
+muscle tightness	causes	limited range of motion
+torn tendon	is a	condition
+torn tendon	can occur from	trauma or degeneration
+torn tendon	requires	surgical repair
+muscle imbalance	is a	condition
+muscle imbalance	can result from	weak or tight muscles
+muscle imbalance	leads to	abnormal movement
+joint damage	is a	condition
+joint damage	can occur from	injury or diseases
+joint damage	causes	joint pain
+muscle cramp	is a	condition
+muscle cramp	can result from	dehydration or electrolyte imbalance
+muscle cramp	causes	sudden muscle contraction
+joint stiffness	is a	condition
+joint stiffness	can result from	arthritis or immobility
+joint stiffness	leads to	limited joint movement
+muscle weakness	is a	condition
+muscle weakness	can result from	muscle atrophy or nerve damage
+muscle weakness	impairs	functional abilities
+muscle pain	is a	condition
+muscle pain	can result from	muscle strain or inflammation
+muscle pain	causes	discomfort
+joint pain	is a	condition
+joint pain	can result from	arthritis or injury
+joint pain	affects	daily activities
+amputated limb	is a	condition
+amputated limb	requires	rehabilitation
+amputated limb	impacts	functional abilities
+muscle cramp	is a	condition
+muscle cramp	can result from	electrolyte imbalance or overexertion
+muscle cramp	causes	painful muscle contractions
+joint dislocation	is a	condition
+joint dislocation	can result from	trauma or instability
+joint dislocation	requires	relocation

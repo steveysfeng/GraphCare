@@ -1,0 +1,179 @@
+treatment	is for	fracture or dislocation of lower extremity
+treatment	helps with	pain management
+treatment	involves	immobilization
+treatment	requires	physical therapy
+treatment	may involve	surgery
+treatment	aims to	restore function
+treatment	can include	medication
+treatment	may require	assistive devices
+treatment	involves	rehabilitation
+treatment	can lead to	complications
+treatment	may lead to	infection
+treatment	can result in	scarring
+treatment	may cause	nerve damage
+treatment	has	potential side effects
+treatment	has	varying success rates
+treatment	may require	follow-up appointments
+treatment	is covered by	insurance
+treatment	depends on	severity
+treatment	may vary based on	age
+treatment	may differ based on	location
+treatment	can have	long term effects
+treatment	may impact	quality of life
+treatment	is managed by	healthcare professionals
+treatment	may involve	multiple specialties
+treatment	has	potential risks
+treatment	is often necessary for	recovery
+treatment	may be	time-consuming
+treatment	may require	lifestyle modifications
+treatment	may involve	alternative therapies
+treatment	has	success stories
+treatment	is recommended by	guidelines
+treatment	may involve	bracing
+treatment	may require	external support
+treatment	is crucial for	mobility
+treatment	may require	assistive technology
+treatment	can improve	quality of life
+treatment	can be	expensive
+treatment	may involve	additional procedures
+treatment	may require	dietary changes
+treatment	may impact	mental health
+treatment	can lead to	complications
+treatment	requires	close monitoring
+treatment	may involve	post-operative care
+treatment	can be	time-sensitive
+treatment	may require	hospitalization
+treatment	may impact	independence
+treatment	depends on	patient preference
+treatment	may involve	second opinions
+treatment	can cause	discomfort
+treatment	may require	lifestyle adjustments
+treatment	includes	patient education
+treatment	may lead to	reduced mobility
+treatment	requires	ongoing evaluation
+treatment	may involve	pain management techniques
+treatment	may be	covered by insurance
+treatment	may require	coordination of care
+treatment	can lead to	improved function
+treatment	is determined by	individual needs
+treatment	may involve	non-invasive methods
+treatment	relies on	evidence-based practices
+treatment	may require	adaptive equipment
+treatment	provides	support
+treatment	may involve	home modifications
+treatment	can be	intensive
+treatment	may require	surgery
+treatment	is tailored to	patient goals
+treatment	may involve	orthotics
+treatment	may require	rehabilitation services
+treatment	can lead to	complications
+treatment	may be	long-term
+treatment	may involve	exercise therapy
+treatment	requires	regular follow-up
+treatment	may involve	medical interventions
+treatment	can result in	improved outcomes
+treatment	may require	lifestyle changes
+treatment	is important for	healing process
+treatment	may involve	assistive devices
+treatment	may require	surgical intervention
+treatment	is determined by	healthcare providers
+treatment	may include	pain medication
+treatment	may lead to	temporary loss of independence
+treatment	can be	complex
+treatment	may involve	wound care
+treatment	may require	a multidisciplinary approach
+treatment	can lead to	reduced pain
+treatment	may involve	physical modalities
+treatment	may require	extended recovery period
+treatment	can result in	improved mobility
+treatment	is for	fracture or dislocation of lower extremity (other than hip or femur)
+treatment	involves	casting or splinting
+casting	is a type of	treatment
+splinting	is a type of	treatment
+treatment	may require	surgery
+surgery	is a type of	treatment
+treatment	helps	stabilize the injury
+treatment	helps	reduce pain
+treatment	helps	promote healing
+treatment	may require	physical therapy
+treatment	may require	rehabilitation
+physical therapy	is a type of	treatment
+rehabilitation	is a type of	treatment
+physical therapy	helps	improve range of motion
+physical therapy	helps	strengthen muscles
+physical therapy	helps	improve function
+rehabilitation	helps	restore mobility
+rehabilitation	helps	improve function
+surgery	may be performed for	severe fractures
+surgery	may be performed for	complex fractures
+surgery	helps	realign the bones
+surgery	helps	stabilize the fracture
+surgery	may involve	implanting hardware
+surgery	may involve	bone grafting
+implanting hardware	is a type of	surgery
+bone grafting	is a type of	surgery
+bone grafting	helps	promote bone healing
+bone grafting	helps	support the fracture
+treatment	may require	pain medication
+treatment	may require	anti-inflammatory medication
+pain medication	helps	manage pain
+anti-inflammatory medication	helps	reduce inflammation
+treatment	may require	assistive devices
+assistive devices	help	improve mobility
+assistive devices	help	aid in walking
+treatment	may require	weight-bearing restrictions
+treatment	may require	activity modification
+weight-bearing restrictions	help	protect the injury
+activity modification	helps	prevent further damage
+treatment	may require	follow-up appointments
+treatment	may require	periodic x-rays
+follow-up appointments	help	monitor healing progress
+periodic x-rays	help	evaluate bone alignment
+fracture or dislocation	may result from	trauma
+fracture or dislocation	may result from	falls
+fracture or dislocation	may result from	sports injuries
+fracture or dislocation	may result from	accidents
+treatment	can help	prevent complications
+treatment	can help	reduce the risk of long-term effects
+treatment	can help	improve outcomes
+treatment	can help	promote recovery
+treatment	should be individualized	based on the specific injury
+treatment	should be tailored to	the patient's needs
+treatment	should be adjusted	as necessary
+treatment	may require	immobilization
+treatment	may require	rest
+treatment	may require	elevation of the limb
+immobilization	helps	stabilize the injury
+rest	helps	promote healing
+elevation of the limb	helps	reduce swelling
+treatment	may require	compression
+compression	helps	reduce swelling
+treatment	may require	ice
+ice	helps	reduce pain and inflammation
+treatment	may require	heat therapy
+heat therapy	helps	promote blood flow
+heat therapy	helps	relax muscles
+heat therapy	helps	reduce pain
+treatment	may require	education about self-care
+self-care	involves	proper wound care
+self-care	involves	following weight-bearing restrictions
+self-care	involves	adhering to treatment plan
+treatment	may require	adherence to weight-bearing restrictions
+treatment	may require	adherence to activity limitations
+treatment	may require	monitoring for signs of complications
+treatment	may require	avoiding certain activities
+treatment	may require	use of assistive devices
+treatment	may require	modification of daily activities
+treatment	may require	modification of home environment
+treatment	may require	support from healthcare professionals
+treatment	may require	support from family and friends
+treatment	may require	support from community resources
+treatment	may require	coordination of care
+coordination of care	involves	communication between healthcare providers
+coordination of care	helps	ensure appropriate treatment
+coordination of care	helps	prevent gaps in care
+coordination of care	helps	promote continuity of care
+treatment	involves	ongoing monitoring and evaluation
+treatment	involves	adjustment as needed
+treatment	involves	regular follow-up
+treatment	involves	collaboration between healthcare team and patient

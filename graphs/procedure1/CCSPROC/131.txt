@@ -1,0 +1,152 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	removal
+hysterectomy	can be performed on	uterus
+oophorectomy	is a	surgical procedure
+oophorectomy	used for	removal
+oophorectomy	can be performed on	ovaries
+colposcopy	is a	medical procedure
+colposcopy	used for	cervical examination
+colposcopy	can detect	abnormal cells
+laparoscopy	is a	surgical procedure
+laparoscopy	used for	pelvic examination
+laparoscopy	can detect	endometriosis
+hysteroscopy	is a	medical procedure
+hysteroscopy	used for	uterine examination
+hysteroscopy	can detect	polyps
+endometrial biopsy	is a type of	hysteroscopy
+endometrial biopsy	can detect	cancer
+endometrial ablation	is a	surgical procedure
+endometrial ablation	used for	reducing menstrual bleeding
+endometrial ablation	can be performed on	endometrium
+D&C	is a	surgical procedure
+D&C	used for	uterine lining removal
+D&C	can be performed on	cervix
+LEEP	is a	surgical procedure
+LEEP	used for	removing abnormal cervical tissue
+LEEP	can be performed on	cervix
+myomectomy	is a	surgical procedure
+myomectomy	used for	fibroid removal
+myomectomy	can be performed on	uterus
+salpingectomy	is a	surgical procedure
+salpingectomy	used for	fallopian tube removal
+salpingectomy	can be performed on	fallopian tubes
+tubal ligation	is a	surgical procedure
+tubal ligation	used for	sterilization
+tubal ligation	can be performed on	fallopian tubes
+cystectomy	is a	surgical procedure
+cystectomy	used for	cyst removal
+cystectomy	can be performed on	ovaries
+ovarian drilling	is a	surgical procedure
+ovarian drilling	used for	infertility treatment
+ovarian drilling	can be performed on	ovaries
+oophoropexy	is a	surgical procedure
+oophoropexy	used for	ovarian torsion treatment
+oophoropexy	can be performed on	ovaries
+pelvic floor repair	is a	surgical procedure
+pelvic floor repair	used for	pelvic organ prolapse treatment
+pelvic floor repair	can be performed on	pelvic floor
+uterine artery embolization	is a	medical procedure
+uterine artery embolization	used for	fibroid treatment
+uterine artery embolization	can be performed on	uterine arteries
+vulvectomy	is a	surgical procedure
+vulvectomy	used for	vulvar cancer treatment
+vulvectomy	can be performed on	vulva
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	removal of the uterus
+hysterectomy	can treat	uterine fibroids
+laparoscopy	is a	surgical procedure
+laparoscopy	used for	diagnostic purposes
+laparoscopy	can detect	ovarian cysts
+colposcopy	is a	medical procedure
+colposcopy	used for	examining the cervix
+colposcopy	can detect	cervical cancer
+dilation and curettage	is a	surgical procedure
+dilation and curettage	used for	uterine tissue removal
+dilation and curettage	can treat	abnormal uterine bleeding
+hysteroscopy	is a	medical procedure
+hysteroscopy	used for	examining the uterus
+hysteroscopy	can detect	uterine polyps
+endometrial biopsy	is a	medical procedure
+endometrial biopsy	used for	diagnosing uterine conditions
+endometrial biopsy	can detect	endometrial cancer
+ovarian cystectomy	is a	surgical procedure
+ovarian cystectomy	used for	removal of ovarian cysts
+ovarian cystectomy	can treat	ovarian cysts
+salpingectomy	is a	surgical procedure
+salpingectomy	used for	removal of the fallopian tubes
+salpingectomy	can treat	ectopic pregnancy
+myomectomy	is a	surgical procedure
+myomectomy	used for	removal of uterine fibroids
+myomectomy	can treat	uterine fibroids
+ovarian tubal ligation	is a	surgical procedure
+ovarian tubal ligation	used for	permanent contraception
+ovarian tubal ligation	can prevent	pregnancy
+cervical cerclage	is a	surgical procedure
+cervical cerclage	used for	preventing preterm labor
+cervical cerclage	can reduce	preterm birth risk
+ovariectomy	is a	surgical procedure
+ovariectomy	used for	removal of the ovaries
+ovariectomy	can treat	ovarian cancer
+salpingo-oophorectomy	is a	surgical procedure
+salpingo-oophorectomy	used for	removal of the ovaries and fallopian tubes
+salpingo-oophorectomy	can treat	ovarian cancer
+colpotomy	is a	surgical procedure
+colpotomy	used for	accessing the pelvic organs
+colpotomy	can facilitate	hysterectomy
+vaginoplasty	is a	surgical procedure
+vaginoplasty	used for	reconstructing the vagina
+vaginoplasty	can treat	vaginal agenesis
+mammoplasty	is a	surgical procedure
+mammoplasty	used for	breast augmentation
+mammoplasty	can enhance	breast size
+ovarian drilling	is a	surgical procedure
+ovarian drilling	used for	treating polycystic ovary syndrome
+ovarian drilling	can improve	ovulation
+endometrial ablation	is a	surgical procedure
+endometrial ablation	used for	reducing heavy menstrual bleeding
+endometrial ablation	can treat	menorrhagia
+tubal ligation	is a	surgical procedure
+tubal ligation	used for	permanent contraception
+tubal ligation	can prevent	pregnancy
+vulvectomy	is a	surgical procedure
+vulvectomy	used for	removal of the vulva
+vulvectomy	can treat	vulvar cancer
+breast reconstruction	is a	surgical procedure
+breast reconstruction	used for	restoring the breast shape
+breast reconstruction	can be done after	mastectomy
+mammogram	is a	medical procedure
+mammogram	used for	breast cancer screening
+mammogram	can detect	breast abnormalities
+breast biopsy	is a	medical procedure
+breast biopsy	used for	diagnosing breast conditions
+breast biopsy	can detect	breast cancer
+pelvic exam	is a	medical procedure
+pelvic exam	used for	assessing female reproductive health
+pelvic exam	can detect	vaginal infections
+pap smear	is a	medical procedure
+pap smear	used for	cervical cancer screening
+pap smear	can detect	abnormal cervical cells
+ultrasound	is a	medical procedure
+ultrasound	used for	imaging female organs
+ultrasound	can detect	ovarian cysts
+hormone therapy	is a	medical procedure
+hormone therapy	used for	managing menopausal symptoms
+hormone therapy	can relieve	hot flashes
+intrauterine device	is a	medical device
+intrauterine device	used for	long-acting contraception
+intrauterine device	can prevent	pregnancy
+ovulation induction	is a	medical procedure
+ovulation induction	used for	stimulating egg production
+ovulation induction	can assist in	fertility treatment
+cervical conization	is a	surgical procedure
+cervical conization	used for	removing precancerous cells
+cervical conization	can treat	cervical dysplasia
+uterine artery embolization	is a	medical procedure
+uterine artery embolization	used for	treating uterine fibroids
+uterine artery embolization	can shrink	fibroids
+magnetic resonance imaging	is a	medical procedure
+magnetic resonance imaging	used for	detailed imaging of female organs
+magnetic resonance imaging	can detect	uterine abnormalities
+transvaginal ultrasound	is a	medical procedure
+transvaginal ultrasound	used for	imaging the reproductive organs
+transvaginal ultrasound	can detect	ectopic pregnancy

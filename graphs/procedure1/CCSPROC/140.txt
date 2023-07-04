@@ -1,0 +1,474 @@
+repair	is a	medical procedure
+repair	used for	obstetric laceration
+repair	can prevent	infection
+repair	can reduce	bleeding
+obstetric laceration	can occur during	childbirth
+obstetric laceration	can cause	pain
+obstetric laceration	can lead to	complications
+pain	can be relieved by	medication
+complications	can require	surgery
+complications	can increase	hospital stay
+complications	can result in	readmission
+infection	can be treated with	antibiotics
+infection	can spread to	other tissues
+bleeding	can be controlled with	sutures
+bleeding	can lead to	anemia
+sutures	can be removed after	healing
+anemia	can be treated with	iron supplements
+hospital stay	can be shortened by	early intervention
+hospital stay	can be influenced by	health insurance
+readmission	can occur within	30 days
+readmission	can result in	penalties
+antibiotics	can cause	side effects
+antibiotics	can interact with	other medications
+suturing	can result in	scarring
+suturing	can be done with	different techniques
+healing	can be facilitated by	proper wound care
+iron supplements	can cause	constipation
+iron supplements	can be taken with	food
+early intervention	can prevent	complications
+health insurance	can affect	access to care
+penalties	can impact	hospital finances
+side effects	can be managed with	dose adjustments
+side effects	can vary by	individual
+scarring	can be minimized with	scar creams
+scarring	can be permanent
+different techniques	can be used for	different wounds
+wound care	can include	cleaning and dressing
+constipation	can be relieved by	increasing fiber intake
+constipation	can be caused by	lack of physical activity
+food	can affect	medication absorption
+food	can interact with	certain medications
+access to care	can be improved by	telehealth services
+telehealth services	can provide	remote consultations
+hospital finances	can be impacted by	Medicare reimbursements
+hospital finances	can affect	staffing levels
+dose adjustments	can be made by	healthcare provider
+dose adjustments	can be necessary for	elderly patients
+individual	can respond differently to	medications
+individual	can have	different tolerance levels
+scar creams	can be purchased over	the counter
+scar creams	can improve	appearance
+permanent	can be modified with	plastic surgery
+different wounds	can require	different approaches
+cleaning and dressing	can be done by	healthcare professionals
+cleaning and dressing	can promote	healing
+fiber intake	can be increased through	dietary modifications
+fiber intake	can improve	bowel movements
+lack of physical activity	can contribute to	constipation
+certain medications	can require	fasting
+certain medications	can be affected by	grapefruit juice
+telehealth services	can be accessed from	home
+telehealth services	can be used for	follow-up appointments
+Medicare reimbursements	can be affected by	quality of care
+Medicare reimbursements	can be impacted by	patient satisfaction
+staffing levels	can affect	patient care
+staffing levels	can influence	wait times
+healthcare provider	can guide	medication management
+healthcare provider	can provide	necessary prescriptions
+elderly patients	can be more susceptible to	medication side effects
+elderly patients	can require	smaller medication doses
+tolerance levels	can be influenced by	genetic factors
+tolerance levels	can change over	time
+plastic surgery	can be performed by	plastic surgeons
+plastic surgery	can improve	functionality
+different approaches	can be used for	wound closure
+dietary modifications	can also help with	weight management
+dietary modifications	can impact	overall health
+bowel movements	can be affected by	hydration levels
+bowel movements	can vary in	frequency
+grapefruit juice	can interact with	enzyme systems
+grapefruit juice	can increase	medication levels
+home	can provide	comfort
+home	can also have	potential hazards
+follow-up appointments	can be scheduled as	needed
+follow-up appointments	can monitor	healing progress
+quality of care	can be measured through	patient outcomes
+quality of care	can be influenced by	healthcare protocols
+patient satisfaction	can be assessed through	surveys
+patient satisfaction	can be influenced by	communication skills
+patient care	can be improved through	teamwork
+patient care	can be affected by	nurse-to-patient ratios
+wait times	can be reduced by	process improvements
+wait times	can impact	patient satisfaction
+medication management	can involve	medication reconciliation
+medication management	can ensure	appropriate dosing
+necessary prescriptions	can be sent directly to	pharmacies
+necessary prescriptions	can be delivered through	mail
+genetic factors	can influence	drug metabolism
+genetic factors	can affect	drug response
+time	can affect	medication efficacy
+time	can also affect	medication safety
+plastic surgeons	can specialize in	reconstructive surgery
+plastic surgeons	can perform	cosmetic procedures
+functionality	can be restored with	rehabilitation
+functionality	can be affected by	underlying conditions
+wound closure	can be achieved with	staples
+wound closure	can also be done with	adhesive strips
+weight management	can contribute to	overall health
+weight management	can influence	chronic disease risk
+hydration levels	can be maintained through	adequate fluid intake
+hydration levels	can affect	skin health
+frequency	can vary based on	individual
+enzyme systems	can metabolize	drugs
+enzyme systems	can be inhibited by	certain foods
+medication levels	can be monitored through	blood tests
+medication levels	can be adjusted based on	test results
+potential hazards	can be reduced through	safety measures
+potential hazards	can include	trip hazards
+repair	is a	medical procedure
+repair	used for	wound closure
+obstetric laceration	requires	repair
+obstetric laceration	can cause	complications
+repair	reduces	risk
+repair	performed by	obstetrician
+obstetrician	has	specialized training
+obstetrician	can use	sutures
+suturing	is a	technique
+sutures	used for	wound closure
+sutures	can be	absorbable
+wound closure	promotes	healing
+wound closure	minimizes	scarring
+repair	may require	anesthesia
+anesthesia	administered by	anesthesiologist
+anesthesiologist	ensures	patient comfort
+repair	may involve	stitching
+stitching	done with	needle and thread
+needle	used for	puncturing
+needle	can be	curved
+thread	used for	securing
+thread	comes in	different materials
+repair	may be	outpatient procedure
+outpatient procedure	allows	quicker recovery
+outpatient procedure	minimizes	hospital stay
+repair	can be	done in office
+repair	can be	done in operating room
+repair	may require	post-operative care
+post-operative care	includes	wound care
+post-operative care	involves	follow-up appointments
+repair	may result in	scar formation
+scar formation	can be	managed
+scar management	includes	topical treatments
+scar management	may involve	silicone sheets
+silicone sheets	help	flatten scars
+repair	may have	associated pain
+pain	managed with	analgesics
+analgesics	relieve	pain
+repair	has	potential risks
+potential risks	discussed with	patient
+patient	provides	informed consent
+repair	has	recovery period
+recovery period	varies	by individual
+repair	should be	performed in sterile environment
+sterile environment	reduces	risk of infection
+repair	requires	proper technique
+proper technique	ensures	optimal outcome
+repair	considers	patient preferences
+patient preferences	taken into account	during decision-making
+repair	improves	patient well-being
+repair	promotes	physical healing
+repair	can be	minor or major
+repair	can be	urgent or elective
+urgent repair	done to	prevent further complications
+elective repair	done to	improve aesthetics
+repair	may be	covered by insurance
+insurance	determines	coverage criteria
+repair	may have	associated costs
+associated costs	discussed with	patient
+repair	necessitates	sterile instruments
+sterile instruments	prevent	contamination
+repair	requires	proper wound care
+proper wound care	reduces	risk of infection
+repair	may need	additional procedures
+additional procedures	determined by	extent of damage
+repair	may be	combined with other surgeries
+other surgeries	address	concurrent conditions
+repair	improves	quality of life
+repair	restores	tissue integrity
+repair	can be	performed vaginally
+repair	can be	performed abdominally
+repair	may require	specialized equipment
+specialized equipment	aids	in procedure
+procedure	may be	guided by imaging
+imaging	helps	visualize anatomy
+repair	enhances	functional outcomes
+repair	contributes to	overall patient care
+overall patient care	includes	emotional support
+overall patient care	involves	multidisciplinary team
+multidisciplinary team	collaborates	for comprehensive care
+comprehensive care	improves	patient outcomes
+comprehensive care	focuses on	holistic approach
+holistic approach	addresses	physical and emotional well-being
+repair	may be	indicated for perineal tears
+perineal tears	occur	during childbirth
+repair	can be	done in a single session
+repair	may require	general anesthesia
+general anesthesia	administered by	anesthesiologist
+repair	aims to	restore anatomy
+anatomy	evaluated	before repair
+repair	involves	meticulous technique
+meticulous technique	ensures	precise closure
+repair	may involve	tissue approximation
+tissue approximation	aligns	wound edges
+repair	may be	needed for deep lacerations
+deep lacerations	require	careful repair
+repair	considers	patient age
+patient age	influences	healing process
+repair	may require	imaging prior to procedure
+imaging	helps	assess extent of injury
+repair	may involve	removal of foreign bodies
+removal of foreign bodies	prevents	infection
+repair	can be	performed under magnification
+magnification	aids	in precise repair
+repair	can be	followed by physical therapy
+physical therapy	assists	in rehabilitation
+repair	may involve	wound debridement
+wound debridement	removes	dead tissue
+repair	may require	assistance from surgical team
+surgical team	assists	in procedure
+repair	may necessitate	hemostasis techniques
+hemostasis techniques	control	bleeding
+repair	can be	done with minimally invasive techniques
+minimally invasive techniques	minimize	surgical trauma
+repair	may require	tissue reconstruction
+tissue reconstruction	restores	normal anatomy
+repair	may involve	use of tissue adhesives
+tissue adhesives	promote	wound closure
+repair	aims to	prevent infection
+repair	promotes	patient comfort
+repair	may need	irrigation of wound
+irrigation of wound	cleanses	the wound
+repair	requires	sterile gloves
+sterile gloves	maintain	aseptic technique
+repair	may be	performed in emergency setting
+emergency setting	prioritizes	timely intervention
+repair	may require	specialized training
+specialized training	ensures	optimal outcome
+repair	may be	part of reconstructive surgery
+reconstructive surgery	addresses	functional and aesthetic concerns
+repair	may be	performed on different body parts
+repair	can be	challenging
+repair	can be	time-sensitive
+repair	may necessitate	blood transfusion
+blood transfusion	replaces	blood loss
+repair	may require	removal of stitches
+removal of stitches	done	post-healing
+repair	may involve	wound closure tape
+wound closure tape	provides	additional support
+repair	may necessitate	wound re-exploration
+wound re-exploration	identifies	post-operative complications
+repair	is a	common procedure
+repair	can be	performed by general surgeon
+general surgeon	has	technical expertise
+general surgeon	can perform	a variety of surgeries
+repair	is a	reimbursable procedure
+reimbursable procedure	covered by	insurance
+repair	can be	done with robotic assistance
+robotic assistance	enhances	surgical precision
+repair	may involve	tissue grafting
+tissue grafting	helps	with wound closure
+repair	can be	classified by anatomical location
+repair	can be	classified by degree of severity
+repair	may necessitate	post-operative antibiotics
+post-operative antibiotics	prevent	infection
+repair	can be	done laparoscopically
+laparoscopic repair	minimizes	invasiveness
+repair	may involve	removal of scar tissue
+removal of scar tissue	improves	functionality
+removal of scar tissue	reduces	pain
+repair	requires	sterile draping
+sterile draping	maintains	aseptic field
+repair	may involve	primary closure
+primary closure	brings	wound edges together
+repair	may be	performed with magnification
+magnification	improves	surgical precision
+repair	may require	temporary urinary catheterization
+urinary catheterization	ensures	bladder drainage
+repair	may necessitate	mobilization of adjacent tissues
+mobilization of adjacent tissues	aids	in wound closure
+repair	may offer	patient education resources
+patient education resources	facilitate	recovery process
+repair	may involve	removal of non-viable tissue
+non-viable tissue	impedes	wound healing
+repair	may require	wound vacuum-assisted closure
+wound vacuum-assisted closure	promotes	healing
+repair	contributes to	patient satisfaction
+repair	can be	done under local anesthesia
+local anesthesia	administered by	healthcare provider
+repair	may involve	shaving of surgical site
+shaving of surgical site	reduces	risk of infection
+repair	may necessitate	use of hemostatic agents
+hemostatic agents	control	bleeding
+repair	can be	performed in outpatient setting
+outpatient setting	offers	convenience
+outpatient setting	minimizes	hospital stay
+repair	may involve	removal of devitalized tissue
+removal of devitalized tissue	enhances	wound healing
+repair	may require	post-operative physical restrictions
+post-operative physical restrictions	prevent	complications
+repair	may necessitate	closure of underlying muscle layers
+underlying muscle layers	provide	support
+repair	may require	mesh reinforcement
+mesh reinforcement	strengthens	wound closure
+repair	can be	combined with exploration of other structures
+exploration of other structures	ensures	comprehensive evaluation
+repair	may involve	use of wound adhesive
+wound adhesive	provides	temporary support
+repair	may necessitate	intraoperative blood transfusion
+intraoperative blood transfusion	maintains	hemostasis
+repair	may require	removal of necrotic tissue
+removal of necrotic tissue	facilitates	healing
+repair	may involve	closure of fascial layer
+closure of fascial layer	strengthens	wound closure
+repair	can be	done under regional anesthesia
+regional anesthesia	administered by	anesthesiologist
+repair	may necessitate	use of drains
+drains	help	evacuate fluid
+repair	may require	immobilization of the repaired area
+immobilization	aids	in healing
+repair	may involve	use of tissue expanders
+tissue expanders	create	space for grafting
+repair	can be	done by plastic surgeon
+plastic surgeon	specializes in	reconstructive procedures
+plastic surgeon	can perform	cosmetic surgeries
+repair	may involve	muscle reapproximation
+muscle reapproximation	improves	function
+repair	may require	removal of foreign objects
+removal of foreign objects	reduces	risk of infection
+repair	may necessitate	wound culture
+wound culture	identifies	presence of bacteria
+repair	can be	done with minimal scarring
+minimal scarring	improves	cosmetic outcome
+repair	may involve	usage of surgical staples
+surgical staples	provide	rapid wound closure
+repair	requires	meticulous wound care
+meticulous wound care	promotes	healing
+repair	may necessitate	bed rest
+bed rest	allows	tissue repair
+repair	considers	patient's medical history
+patient's medical history	influences	surgical approach
+repair	may involve	reconstruction of damaged structures
+reconstruction	aims to	restore function
+repair	may require	post-operative pain management
+post-operative pain management	ensures	patient comfort
+repair	can be	performed with endoscopic assistance
+endoscopic assistance	improves	visualization
+repair	may involve	tissue closure in layers
+tissue closure in layers	strengthens	wound closure
+repair	may require	removal of infected tissue
+removal of infected tissue	prevents	further complications
+repair	may necessitate	wound packing
+wound packing	helps	promote healing
+repair	can be	done with absorbable sutures
+absorbable sutures	eliminate	need for suture removal
+repair	may involve	wound approximation
+wound approximation	aligns	wound edges
+repair	can be	performed with patient under spinal anesthesia
+spinal anesthesia	administered by	anesthesiologist
+repair	may necessitate	surgical drainage
+surgical drainage	prevents	abscess formation
+repair	can be	complicated by comorbidities
+comorbidities	require	careful management
+repair	may involve	use of wound dressings
+wound dressings	protect	the wound
+wound dressings	promote	healing
+repair	may require	removal of non-absorbable sutures
+removal of non-absorbable sutures	done	post-healing
+repair	may necessitate	medical imaging for pre-operative planning
+medical imaging	helps	identify anatomical structures
+repair	may involve	grafting of healthy tissue
+grafting of healthy tissue	aids	in wound healing
+repair	can be	performed with minimally invasive techniques
+minimally invasive techniques	reduce	scarring
+repair	may require	use of antibiotic prophylaxis
+antibiotic prophylaxis	prevents	surgical site infection
+repair	can be	done with ultrasound guidance
+ultrasound guidance	improves	precision
+repair	may involve	removal of stent
+removal of stent	improves	patient's condition
+repair	can be	performed by surgical team
+surgical team	coordinates	the procedure
+surgical team	includes	nurses and technicians
+repair	requires	patient consent
+patient consent	ensures	shared decision-making
+repair	may necessitate	wound revision
+wound revision	corrects	unsatisfactory outcomes
+repair	can be	done under sedation
+sedation	administered by	anesthesiologist
+repair	may involve	reconstructive tissue transfer
+reconstructive tissue transfer	restores	form and function
+repair	may require	post-operative physical therapy
+physical therapy	helps	regain function
+repair	may involve	use of tissue flaps
+tissue flaps	provide	vascularized tissue for repair
+repair	can be	done endoscopically
+endoscopic repair	minimizes	invasiveness
+repair	may necessitate	splinting of repaired area
+splinting	provides	support and stability
+repair	can be	combined with other surgical procedures
+other surgical procedures	address	associated conditions
+repair	may involve	removal of infected hardware
+removal of infected hardware	prevents	further infection
+repair	requires	coordination between healthcare providers
+healthcare providers	collaborate	for optimal patient care
+repair	may necessitate	prolonged hospital stay
+prolonged hospital stay	requires	close monitoring
+repair	may involve	use of tissue glue
+tissue glue	provides	rapid wound closure
+repair	may necessitate	use of support garments
+support garments	assist	in wound healing
+repair	requires	attention to aseptic technique
+aseptic technique	prevents	surgical site infection
+repair	may involve	insertion of drains
+drains	remove	excess fluid
+repair	may require	wound revision
+wound revision	improves	cosmetic appearance
+repair	can be	performed through minimally invasive incisions
+minimally invasive incisions	result in	smaller scars
+repair	may involve	tissue relaxation techniques
+tissue relaxation techniques	facilitate	wound closure
+repair	may require	removal of excess tissue
+removal of excess tissue	improves	wound closure
+repair	can be	performed by dermatologist
+dermatologist	specializes in	skin conditions
+dermatologist	can perform	various cosmetic procedures
+repair	can be	time-consuming
+repair	requires	coordination with anesthesia team
+anesthesia team	administers	appropriate anesthesia
+repair	may necessitate	post-operative imaging
+post-operative imaging	assesses	surgical outcome
+repair	can be	performed through laparotomy
+laparotomy	provides	wide exposure
+repair	may involve	reconstruction of damaged organs
+reconstruction of damaged organs	restores	function
+repair	may require	wound expansion
+wound expansion	facilitates	wound closure
+repair	can be	performed using microscope
+microscope	enhances	visualization
+repair	may involve	placement of drains
+drains	prevent	fluid accumulation
+repair	may necessitate	stoma creation
+stoma creation	diverts	bodily waste
+repair	can be	done in emergency situations
+emergency situations	require	prompt intervention
+repair	may require	use of skin substitutes
+skin substitutes	aid	in wound closure
+repair	can be	done through minimally invasive techniques
+minimally invasive techniques	result in	faster recovery
+repair	may involve	soft tissue reconstruction
+soft tissue reconstruction	restores	anatomy
+repair	may require	immobilization of repaired area
+immobilization	allows	healing
+repair	can be	performed with laser assistance
+laser assistance	enhances	precision
+repair	may necessitate	wound revision surgery
+wound revision surgery	corrects	unsatisfactory outcome
+repair	requires	proper wound assessment
+proper wound assessment	guides	treatment plan
+repair	may involve	choice of different suture materials
+choice of suture materials	depends on	wound characteristics
+repair	may require	use of skin grafts
+skin grafts	replace	damaged tissue
+repair	can be	done with video-assisted thoracoscopy
+video-assisted thoracoscopy	improves	visualization
+repair	may involve	tissue rearrangement

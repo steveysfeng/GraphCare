@@ -1,0 +1,424 @@
+CT scan abdomen	is a	medical procedure
+CT scan abdomen	used for	diagnostic imaging
+CT scan abdomen	can detect	abdominal tumors
+CT scan abdomen	can visualize	organs
+CT scan abdomen	can identify	abnormal growths
+CT scan abdomen	can assess	organ function
+CT scan abdomen	can guide	surgical procedures
+CT scan abdomen	can monitor	treatment response
+CT scan abdomen	can reveal	internal bleeding
+CT scan abdomen	can identify	infection
+CT scan abdomen	can detect	kidney stones
+CT scan abdomen	can diagnose	gastrointestinal issues
+CT scan abdomen	can evaluate	trauma
+CT scan abdomen	can detect	liver disease
+CT scan abdomen	can screen	for cancer
+CT scan abdomen	can detect	cysts
+CT scan abdomen	can assess	lymph nodes
+CT scan abdomen	can identify	obstructions
+CT scan abdomen	can evaluate	blood vessels
+CT scan abdomen	can detect	appendicitis
+CT scan abdomen	can visualize	gallstones
+CT scan abdomen	can assess	kidney function
+CT scan abdomen	can guide	radiation therapy
+CT scan abdomen	can detect	fluid accumulation
+CT scan abdomen	can diagnose	gastrointestinal bleeding
+CT scan abdomen	can evaluate	abdominal pain
+CT scan abdomen	can identify	hernias
+CT scan abdomen	can detect	pancreatitis
+CT scan abdomen	can visualize	spleen
+CT scan abdomen	can assess	tumor response
+CT scan abdomen	can detect	abscesses
+CT scan abdomen	can evaluate	bowel obstruction
+CT scan abdomen	can guide	biopsies
+CT scan abdomen	can detect	kidney cancer
+CT scan abdomen	can diagnose	diverticulitis
+CT scan abdomen	can visualize	adrenal glands
+CT scan abdomen	can assess	liver function
+CT scan abdomen	can guide	ablation procedures
+CT scan abdomen	can detect	peritonitis
+CT scan abdomen	can diagnose	pelvic inflammatory disease
+CT scan abdomen	can evaluate	abdominal trauma
+CT scan abdomen	can identify	aneurysms
+CT scan abdomen	can detect	inflammation
+CT scan abdomen	can visualize	prostate
+CT scan abdomen	can assess	the spread of cancer
+CT scan abdomen	can guide	drain placement
+CT scan abdomen	can detect	ovarian cysts
+CT scan abdomen	can diagnose	Crohn's disease
+CT scan abdomen	can visualize	retroperitoneum
+CT scan abdomen	can assess	tumor size
+CT scan abdomen	can guide	interventional radiology procedures
+CT scan abdomen	can detect	ulcerative colitis
+CT scan abdomen	can identify	gallbladder disease
+CT scan abdomen	can detect	ascites
+CT scan abdomen	can diagnose	mesenteric ischemia
+CT scan abdomen	can visualize	appendix
+CT scan abdomen	can assess	vascular abnormalities
+CT scan abdomen	can guide	endoscopy
+CT scan abdomen	can detect	intestinal obstruction
+CT scan abdomen	can diagnose	kidney infection
+CT scan abdomen	can evaluate	fluid collections
+CT scan abdomen	can identify	renal masses
+CT scan abdomen	can detect	lymphoma
+CT scan abdomen	can visualize	lymphatic system
+CT scan abdomen	can assess	biliary tract disease
+CT scan abdomen	can guide	cryoablation
+CT scan abdomen	can detect	rectal cancer
+CT scan abdomen	can diagnose	adrenal tumors
+CT scan abdomen	can visualize	peritoneal cavity
+CT scan abdomen	can assess	lymphatic spread of cancer
+CT scan abdomen	can guide	stent placement
+CT scan abdomen	can detect	cholecystitis
+CT scan abdomen	can identify	bowel perforation
+CT scan abdomen	can diagnose	liver abscess
+CT scan abdomen	can visualize	omentum
+CT scan abdomen	can assess	tumor growth
+CT scan abdomen	can guide	ablations
+CT scan abdomen	can detect	lymphadenopathy
+CT scan abdomen	can diagnose	appendiceal abscess
+CT scan abdomen	can visualize	paracolic gutters
+CT scan abdomen	can assess	vascular invasion
+CT scan abdomen	can guide	percutaneous treatments
+CT scan abdomen	can detect	splenic rupture
+CT scan abdomen	can identify	bladder abnormalities
+CT scan abdomen	can diagnose	hepatocellular carcinoma
+CT scan abdomen	can visualize	peritumoral inflammation
+CT scan abdomen	can assess	response to treatment
+CT scan abdomen	can guide	embolization procedures
+CT scan abdomen	can detect	hydroureter
+CT scan abdomen	can diagnose	volvulus
+CT scan abdomen	can visualize	mesentery
+CT scan abdomen	can assess	lymphatic drainage
+CT scan abdomen	can guide	percutaneous biopsies
+CT scan abdomen	can detect	pancreatic cysts
+CT scan abdomen	can identify	ureteral stones
+CT scan abdomen	can diagnose	gastrointestinal perforation
+CT scan abdomen	can visualize	thoracoabdominal aorta
+CT scan abdomen	can assess	tumor staging
+CT scan abdomen	can guide	drainage procedures
+CT scan abdomen	can detect	renal artery stenosis
+ct scan abdomen	is a	medical procedure
+ct scan abdomen	used for	imaging
+ct scan abdomen	can detect	tumors
+ct scan abdomen	can diagnose	appendicitis
+ct scan abdomen	is recommended for	patients with abdominal pain
+ct scan abdomen	is performed with	contrast dye
+ct scan abdomen	can detect	liver disease
+ct scan abdomen	can identify	kidney stones
+ct scan abdomen	can evaluate	abdominal trauma
+ct scan abdomen	can monitor	response to treatment
+ct scan abdomen	is associated with	radiation exposure
+ct scan abdomen	is not recommended for	pregnant women
+ct scan abdomen	is commonly used in	emergency departments
+ct scan abdomen	can identify	sources of infection
+ct scan abdomen	is useful for	preoperative planning
+ct scan abdomen	can detect	intestinal obstruction
+ct scan abdomen	is performed with	a computerized tomography machine
+ct scan abdomen	provides	detailed images
+ct scan abdomen	is painless
+ct scan abdomen	can identify	abdominal aortic aneurysm
+ct scan abdomen	is faster than	an MRI
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is useful for	staging cancer
+ct scan abdomen	can guide	interventions
+ct scan abdomen	is commonly used for	follow-up
+ct scan abdomen	is often ordered for	unexplained weight loss
+ct scan abdomen	can evaluate	bowel obstruction
+ct scan abdomen	can detect	gallstones
+ct scan abdomen	is performed with	a contrast material
+ct scan abdomen	can detect	abscesses
+ct scan abdomen	can identify	sources of bleeding
+ct scan abdomen	can evaluate	organ enlargement
+ct scan abdomen	is useful for	identifying bone fractures
+ct scan abdomen	can detect	tumor metastasis
+ct scan abdomen	can identify	hernias
+ct scan abdomen	is commonly used in	gastroenterology
+ct scan abdomen	can assess	lymph nodes
+ct scan abdomen	can detect	cysts
+ct scan abdomen	is useful for	evaluating abnormal growths
+ct scan abdomen	can identify	fluid accumulation
+ct scan abdomen	can evaluate	vascular abnormalities
+ct scan abdomen	is performed in	radiology departments
+ct scan abdomen	is commonly used in	oncology
+ct scan abdomen	can detect	gastrointestinal bleeding
+ct scan abdomen	can identify	abscesses
+ct scan abdomen	is useful for	assessing trauma
+ct scan abdomen	can evaluate	organ function
+ct scan abdomen	can detect	foreign objects
+ct scan abdomen	is commonly used for	preoperative evaluation
+ct scan abdomen	can identify	tumor recurrence
+ct scan abdomen	can detect	vascular anomalies
+ct scan abdomen	is recommended for	patients with suspected bowel obstruction
+ct scan abdomen	can evaluate	abdominal infections
+ct scan abdomen	is useful for	evaluating abdominal masses
+ct scan abdomen	can guide	biopsies
+ct scan abdomen	is commonly used in	urology
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	is performed with	a contrast agent
+ct scan abdomen	provides	cross-sectional images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	pelvic disease
+ct scan abdomen	can evaluate	blood flow
+ct scan abdomen	is useful for	evaluating organ injury
+ct scan abdomen	can identify	adhesions
+ct scan abdomen	is commonly used for	diagnosing appendicitis
+ct scan abdomen	can detect	kidney disease
+ct scan abdomen	can identify	masses
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is performed with	intravenous contrast
+ct scan abdomen	provides	detailed information
+ct scan abdomen	is commonly used in	hepatology
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can identify	sources of infection
+ct scan abdomen	is useful for	assessing abdominal trauma
+ct scan abdomen	can evaluate	organ function
+ct scan abdomen	can detect	lymphadenopathy
+ct scan abdomen	is commonly used for	preoperative staging
+ct scan abdomen	can guide	interventions
+ct scan abdomen	is performed with	a CT scanner
+ct scan abdomen	provides	high-resolution images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	bowel perforation
+ct scan abdomen	can identify	tumor infiltration
+ct scan abdomen	is useful for	evaluating abdominal pain
+ct scan abdomen	can evaluate	vascular structures
+ct scan abdomen	can detect	biliary obstruction
+ct scan abdomen	is commonly used in	general surgery
+ct scan abdomen	can assess	tumor response
+ct scan abdomen	can detect	ascites
+ct scan abdomen	is recommended for	patients with suspected liver disease
+ct scan abdomen	can evaluate	colitis
+ct scan abdomen	is useful for	identifying abnormalities
+ct scan abdomen	can identify	sources of bleeding
+ct scan abdomen	is commonly used for	postoperative evaluation
+ct scan abdomen	can detect	splenic lesions
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	can evaluate	lymphadenopathy
+ct scan abdomen	is performed with	a contrast medium
+ct scan abdomen	provides	detailed views
+ct scan abdomen	is commonly used in	gastroenterology
+ct scan abdomen	can detect	renal calculi
+ct scan abdomen	can identify	bowel obstruction
+ct scan abdomen	is useful for	evaluating abdominal masses
+ct scan abdomen	can guide	biopsies
+ct scan abdomen	is commonly used in	urology
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	is performed with	a contrast agent
+ct scan abdomen	provides	cross-sectional images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	pelvic disease
+ct scan abdomen	can evaluate	blood flow
+ct scan abdomen	is useful for	evaluating organ injury
+ct scan abdomen	can identify	adhesions
+ct scan abdomen	is commonly used for	diagnosing appendicitis
+ct scan abdomen	can detect	kidney disease
+ct scan abdomen	can identify	masses
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is performed with	intravenous contrast
+ct scan abdomen	provides	detailed information
+ct scan abdomen	is commonly used in	hepatology
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can identify	sources of infection
+ct scan abdomen	is useful for	assessing abdominal trauma
+ct scan abdomen	can evaluate	organ function
+ct scan abdomen	can detect	lymphadenopathy
+ct scan abdomen	is commonly used for	preoperative staging
+ct scan abdomen	can guide	interventions
+ct scan abdomen	is performed with	a CT scanner
+ct scan abdomen	provides	high-resolution images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	bowel perforation
+ct scan abdomen	can identify	tumor infiltration
+ct scan abdomen	is useful for	evaluating abdominal pain
+ct scan abdomen	can evaluate	vascular structures
+ct scan abdomen	can detect	biliary obstruction
+ct scan abdomen	is commonly used in	general surgery
+ct scan abdomen	can assess	tumor response
+ct scan abdomen	can detect	ascites
+ct scan abdomen	is recommended for	patients with suspected liver disease
+ct scan abdomen	can evaluate	colitis
+ct scan abdomen	is useful for	identifying abnormalities
+ct scan abdomen	can identify	sources of bleeding
+ct scan abdomen	is commonly used for	postoperative evaluation
+ct scan abdomen	can detect	splenic lesions
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	can evaluate	lymphadenopathy
+ct scan abdomen	is performed with	a contrast medium
+ct scan abdomen	provides	detailed views
+ct scan abdomen	is commonly used in	gastroenterology
+ct scan abdomen	can detect	renal calculi
+ct scan abdomen	can identify	bowel obstruction
+ct scan abdomen	is useful for	evaluating abdominal masses
+ct scan abdomen	can guide	biopsies
+ct scan abdomen	is commonly used in	urology
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	is performed with	a contrast agent
+ct scan abdomen	provides	cross-sectional images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	pelvic disease
+ct scan abdomen	can evaluate	blood flow
+ct scan abdomen	is useful for	evaluating organ injury
+ct scan abdomen	can identify	adhesions
+ct scan abdomen	is commonly used for	diagnosing appendicitis
+ct scan abdomen	can detect	kidney disease
+ct scan abdomen	can identify	masses
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is performed with	intravenous contrast
+ct scan abdomen	provides	detailed information
+ct scan abdomen	is commonly used in	hepatology
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can identify	sources of infection
+ct scan abdomen	is useful for	assessing abdominal trauma
+ct scan abdomen	can evaluate	organ function
+ct scan abdomen	can detect	lymphadenopathy
+ct scan abdomen	is commonly used for	preoperative staging
+ct scan abdomen	can guide	interventions
+ct scan abdomen	is performed with	a CT scanner
+ct scan abdomen	provides	high-resolution images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	bowel perforation
+ct scan abdomen	can identify	tumor infiltration
+ct scan abdomen	is useful for	evaluating abdominal pain
+ct scan abdomen	can evaluate	vascular structures
+ct scan abdomen	can detect	biliary obstruction
+ct scan abdomen	is commonly used in	general surgery
+ct scan abdomen	can assess	tumor response
+ct scan abdomen	can detect	ascites
+ct scan abdomen	is recommended for	patients with suspected liver disease
+ct scan abdomen	can evaluate	colitis
+ct scan abdomen	is useful for	identifying abnormalities
+ct scan abdomen	can identify	sources of bleeding
+ct scan abdomen	is commonly used for	postoperative evaluation
+ct scan abdomen	can detect	splenic lesions
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	can evaluate	lymphadenopathy
+ct scan abdomen	is performed with	a contrast medium
+ct scan abdomen	provides	detailed views
+ct scan abdomen	is commonly used in	gastroenterology
+ct scan abdomen	can detect	renal calculi
+ct scan abdomen	can identify	bowel obstruction
+ct scan abdomen	is useful for	evaluating abdominal masses
+ct scan abdomen	can guide	biopsies
+ct scan abdomen	is commonly used in	urology
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	is performed with	a contrast agent
+ct scan abdomen	provides	cross-sectional images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	pelvic disease
+ct scan abdomen	can evaluate	blood flow
+ct scan abdomen	is useful for	evaluating organ injury
+ct scan abdomen	can identify	adhesions
+ct scan abdomen	is commonly used for	diagnosing appendicitis
+ct scan abdomen	can detect	kidney disease
+ct scan abdomen	can identify	masses
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is performed with	intravenous contrast
+ct scan abdomen	provides	detailed information
+ct scan abdomen	is commonly used in	hepatology
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can identify	sources of infection
+ct scan abdomen	is useful for	assessing abdominal trauma
+ct scan abdomen	can evaluate	organ function
+ct scan abdomen	can detect	lymphadenopathy
+ct scan abdomen	is commonly used for	preoperative staging
+ct scan abdomen	can guide	interventions
+ct scan abdomen	is performed with	a CT scanner
+ct scan abdomen	provides	high-resolution images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	bowel perforation
+ct scan abdomen	can identify	tumor infiltration
+ct scan abdomen	is useful for	evaluating abdominal pain
+ct scan abdomen	can evaluate	vascular structures
+ct scan abdomen	can detect	biliary obstruction
+ct scan abdomen	is commonly used in	general surgery
+ct scan abdomen	can assess	tumor response
+ct scan abdomen	can detect	ascites
+ct scan abdomen	is recommended for	patients with suspected liver disease
+ct scan abdomen	can evaluate	colitis
+ct scan abdomen	is useful for	identifying abnormalities
+ct scan abdomen	can identify	sources of bleeding
+ct scan abdomen	is commonly used for	postoperative evaluation
+ct scan abdomen	can detect	splenic lesions
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	can evaluate	lymphadenopathy
+ct scan abdomen	is performed with	a contrast medium
+ct scan abdomen	provides	detailed views
+ct scan abdomen	is commonly used in	gastroenterology
+ct scan abdomen	can detect	renal calculi
+ct scan abdomen	can identify	bowel obstruction
+ct scan abdomen	is useful for	evaluating abdominal masses
+ct scan abdomen	can guide	biopsies
+ct scan abdomen	is commonly used in	urology
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	is performed with	a contrast agent
+ct scan abdomen	provides	cross-sectional images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	pelvic disease
+ct scan abdomen	can evaluate	blood flow
+ct scan abdomen	is useful for	evaluating organ injury
+ct scan abdomen	can identify	adhesions
+ct scan abdomen	is commonly used for	diagnosing appendicitis
+ct scan abdomen	can detect	kidney disease
+ct scan abdomen	can identify	masses
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is performed with	intravenous contrast
+ct scan abdomen	provides	detailed information
+ct scan abdomen	is commonly used in	hepatology
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can identify	sources of infection
+ct scan abdomen	is useful for	assessing abdominal trauma
+ct scan abdomen	can evaluate	organ function
+ct scan abdomen	can detect	lymphadenopathy
+ct scan abdomen	is commonly used for	preoperative staging
+ct scan abdomen	can guide	interventions
+ct scan abdomen	is performed with	a CT scanner
+ct scan abdomen	provides	high-resolution images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	bowel perforation
+ct scan abdomen	can identify	tumor infiltration
+ct scan abdomen	is useful for	evaluating abdominal pain
+ct scan abdomen	can evaluate	vascular structures
+ct scan abdomen	can detect	biliary obstruction
+ct scan abdomen	is commonly used in	general surgery
+ct scan abdomen	can assess	tumor response
+ct scan abdomen	can detect	ascites
+ct scan abdomen	is recommended for	patients with suspected liver disease
+ct scan abdomen	can evaluate	colitis
+ct scan abdomen	is useful for	identifying abnormalities
+ct scan abdomen	can identify	sources of bleeding
+ct scan abdomen	is commonly used for	postoperative evaluation
+ct scan abdomen	can detect	splenic lesions
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	can evaluate	lymphadenopathy
+ct scan abdomen	is performed with	a contrast medium
+ct scan abdomen	provides	detailed views
+ct scan abdomen	is commonly used in	gastroenterology
+ct scan abdomen	can detect	renal calculi
+ct scan abdomen	can identify	bowel obstruction
+ct scan abdomen	is useful for	evaluating abdominal masses
+ct scan abdomen	can guide	biopsies
+ct scan abdomen	is commonly used in	urology
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can identify	sources of pain
+ct scan abdomen	is performed with	a contrast agent
+ct scan abdomen	provides	cross-sectional images
+ct scan abdomen	is painless
+ct scan abdomen	can detect	pelvic disease
+ct scan abdomen	can evaluate	blood flow
+ct scan abdomen	is useful for	evaluating organ injury
+ct scan abdomen	can identify	adhesions
+ct scan abdomen	is commonly used for	diagnosing appendicitis
+ct scan abdomen	can detect	kidney disease
+ct scan abdomen	can identify	masses
+ct scan abdomen	can evaluate	inflammation
+ct scan abdomen	is performed with	intravenous contrast
+ct scan abdomen	provides	detailed information
+ct scan abdomen	is commonly used in	hepatology
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can identify	sources of infection

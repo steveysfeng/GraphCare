@@ -1,0 +1,327 @@
+transurethral resection	is a	surgical procedure
+transurethral resection	used for	treatment
+prostate	is a	gland
+prostate	located in	male reproductive system
+prostate	can become	enlarged
+enlarged prostate	can cause	urinary problems
+transurethral resection	removes	excess prostate tissue
+transurethral resection	improves	urinary symptoms
+transurethral resection	can be used for	benign prostatic hyperplasia
+transurethral resection	can be used for	prostate cancer
+transurethral resection	may require	anesthesia
+transurethral resection	carries risks of	bleeding
+transurethral resection	carries risks of	infection
+transurethral resection	carries risks of	erectile dysfunction
+transurethral resection	performed by	urologists
+transurethral resection	commonly done	in hospitals
+transurethral resection	recovery time	varies
+transurethral resection	linked to	reduced sexual function
+transurethral resection	linked to	retrograde ejaculation
+transurethral resection	may require	catheterization
+transurethral resection	can lead to	post-operative complications
+transurethral resection	requires	post-operative care
+transurethral resection	may necessitate	repeat procedures
+transurethral resection	is performed	under general anesthesia
+transurethral resection	is performed	with a resectoscope
+resectoscope	used for	visualization
+resectoscope	used for	tissue removal
+transurethral resection	linked to	improved quality of life
+transurethral resection	can relieve	urinary symptoms
+transurethral resection	can improve	urine flow
+transurethral resection	can reduce	bladder obstruction
+transurethral resection	can decrease	urinary retention
+transurethral resection	can lower	risk of urinary tract infections
+transurethral resection	can prevent	kidney damage
+transurethral resection	may have	long-term urinary side effects
+transurethral resection	may result in	tissue scarring
+transurethral resection	may cause	urinary incontinence
+transurethral resection	may lead to	retrograde ejaculation
+transurethral resection	can cause	blood in urine
+transurethral resection	can result in	erectile dysfunction
+transurethral resection	potential complication	is urethral stricture
+transurethral resection	potential complication	is bladder neck contracture
+transurethral resection	potential complication	is urinary incontinence
+transurethral resection	potential complication	is urinary tract infection
+transurethral resection	potential complication	is bleeding
+transurethral resection	potential complication	is infection
+transurethral resection	potential complication	is retrograde ejaculation
+transurethral resection	potential complication	is erectile dysfunction
+transurethral resection	associated with	overall improvement in urinary symptoms
+transurethral resection	associated with	improved urine flow
+transurethral resection	associated with	reduced risk of complications
+transurethral resection	associated with	improved quality of life
+transurethral resection	associated with	decreased risk of kidney damage
+transurethral resection	associated with	decreased risk of urinary retention
+transurethral resection	associated with	decreased risk of urinary tract infections
+transurethral resection	associated with	decreased risk of bladder obstruction
+transurethral resection	associated with	reduced need for medication
+transurethral resection	associated with	improved sexual function
+transurethral resection	associated with	reduced symptoms of benign prostatic hyperplasia
+transurethral resection	associated with	decreased risk of prostate cancer progression
+transurethral resection	associated with	improved urinary flow rate
+transurethral resection	associated with	decreased risk of acute urinary retention
+transurethral resection	associated with	decreased risk of chronic urinary retention
+transurethral resection	associated with	decreased risk of hydronephrosis
+transurethral resection	associated with	decreased risk of renal insufficiency
+transurethral resection	associated with	decreased risk of recurrent urinary tract infection
+transurethral resection	associated with	decreased risk of bladder stones
+transurethral resection	associated with	decreased risk of bladder calculi
+transurethral resection	associated with	decreased risk of upper urinary tract dilation
+transurethral resection	associated with	decreased risk of infection-related hospitalization
+transurethral resection	associated with	decreased risk of urinary incontinence procedures
+transurethral resection	associated with	decreased risk of urinary retention procedures
+transurethral resection	associated with	reduced healthcare costs
+transurethral resection	associated with	reduced requirement for urinary catheterization
+transurethral resection	associated with	shorter hospital stays
+transurethral resection	associated with	improved post-operative outcomes
+transurethral resection	associated with	improved sexual satisfaction
+transurethral resection	associated with	improved urinary symptoms longevity
+transurethral resection	associated with	decreased risk of lower urinary tract symptoms
+transurethral resection	associated with	improved voiding efficiency
+transurethral resection	associated with	reduced risk of systemic complications
+transurethral resection	associated with	decreased risk of post-operative urinary incontinence
+transurethral resection	associated with	reduced risk of sexual dysfunction
+transurethral resection	associated with	improved erectile function
+transurethral resection	associated with	decreased risk of urinary retention
+transurethral resection	associated with	decreased risk of post-void residual urine volume
+transurethral resection	associated with	decreased risk of urination difficulties
+transurethral resection	associated with	improved uroflowmetric parameters
+transurethral resection	associated with	reduced bladder outlet obstruction
+transurethral resection	associated with	lower international prostate symptom score
+transurethral resection	associated with	decreased risk of recurrent urinary tract infections
+transurethral resection	associated with	decreased risk of surgery-related complications
+transurethral resection	associated with	improved patient satisfaction
+transurethral resection	associated with	reduced nocturia
+transurethral resection	associated with	reduced post-micturition residual volume
+transurethral resection	associated with	reduced urgency
+transurethral resection	associated with	reduced overflow incontinence
+transurethral resection	associated with	decreased serum prostate-specific antigen levels
+transurethral resection	associated with	decreased need for urinary incontinence pads
+transurethral resection	associated with	shorter recovery time
+transurethral resection	associated with	higher patient satisfaction rate
+transurethral resection	associated with	improved urinary function
+transurethral resection	associated with	minimal retrograde ejaculation
+transurethral resection	associated with	reduced bladder neck contracture rate
+transurethral resection	associated with	reduced urethral strictures
+transurethral resection	associated with	reduced sexual dysfunction rate
+transurethral resection	associated with	reduced ejaculatory dysfunction rate
+transurethral resection	associated with	decreased risk of post-operative bleeding
+transurethral resection	associated with	decreased risk of post-operative infection
+transurethral resection	associated with	decreased risk of post-operative pain
+transurethral resection	associated with	decreased risk of urinary retention after discharge
+transurethral resection	associated with	reduced risk of urinary tract infection after discharge
+transurethral resection	associated with	improved quality of life post-surgery
+transurethral resection	associated with	improved urinary flow rate post-surgery
+transurethral resection	associated with	reduced need for post-operative catheterization
+transurethral resection	associated with	improved sexual function post-surgery
+transurethral resection	associated with	increased prostate cancer survival rate
+transurethral resection	associated with	decreased risk of urinary incontinence post-surgery
+transurethral resection	associated with	reduced rate of recurrent urinary tract infections
+transurethral resection	associated with	decreased risk of urinary incontinence procedures post-surgery
+transurethral resection	associated with	decreased risk of urinary retention procedures post-surgery
+transurethral resection	associated with	improved healthcare cost-effectiveness
+transurethral resection of prostate	is a	surgical procedure
+transurethral resection of prostate	used for	treating enlarged prostate
+transurethral resection of prostate	can relieve	urinary symptoms
+transurethral resection of prostate	involves	removing excess prostate tissue
+transurethral resection of prostate	may cause	retrograde ejaculation
+transurethral resection of prostate	has a risk of	bleeding
+transurethral resection of prostate	requires	anesthesia
+transurethral resection of prostate	has a recovery period of	several weeks
+transurethral resection of prostate	is an alternative to	open prostatectomy
+transurethral resection of prostate	can result in	improved urine flow
+transurethral resection of prostate	may require	a catheter after surgery
+transurethral resection of prostate	is commonly performed	in older men
+transurethral resection of prostate	is a common treatment for	benign prostatic hyperplasia (BPH)
+transurethral resection of prostate	can lead to	erectile dysfunction
+transurethral resection of prostate	may have	complications
+transurethral resection of prostate	carries a risk of	urinary incontinence
+transurethral resection of prostate	can be performed	using an endoscope
+transurethral resection of prostate	is usually done	under general anesthesia
+transurethral resection of prostate	is performed	by a urologist
+transurethral resection of prostate	is a standard treatment for	men with moderate to severe urinary symptoms
+transurethral resection of prostate	requires	preoperative evaluation
+transurethral resection of prostate	involves	inserting instruments through the urethra
+transurethral resection of prostate	may lead to	urinary tract infections
+transurethral resection of prostate	can improve	quality of life
+transurethral resection of prostate	may cause	bladder neck contracture
+transurethral resection of prostate	has potential risks such as	incontinence and erectile dysfunction
+transurethral resection of prostate	should be considered	if medication does not effectively relieve symptoms
+transurethral resection of prostate	can be done	as an outpatient procedure
+transurethral resection of prostate	may cause	temporary difficulty in urination
+transurethral resection of prostate	can be a treatment option	for urinary retention
+transurethral resection of prostate	may be recommended	to improve urine flow
+transurethral resection of prostate	has a success rate of	approximately 90%
+transurethral resection of prostate	may result in	retrograde ejaculation
+transurethral resection of prostate	can be a	minimally invasive procedure
+transurethral resection of prostate	has a lower risk of	complications compared to open surgery
+transurethral resection of prostate	requires	postoperative care
+transurethral resection of prostate	can be an effective treatment for	urinary symptoms
+transurethral resection of prostate	is performed	using a special instrument called a resectoscope
+transurethral resection of prostate	is a well-established procedure for	treating enlarged prostate
+transurethral resection of prostate	can cause	blood in urine
+transurethral resection of prostate	can provide	long-term relief of urinary symptoms
+transurethral resection of prostate	may be done	in combination with other treatments
+transurethral resection of prostate	has a lower risk of	complications compared to open prostatectomy
+transurethral resection of prostate	can be	an outpatient procedure
+transurethral resection of prostate	may be	the most appropriate treatment option
+transurethral resection of prostate	is a	commonly performed surgery
+transurethral resection of prostate	may be necessary	if medication is no longer effective
+transurethral resection of prostate	can be	a curative procedure
+transurethral resection of prostate	may be recommended	to improve urinary flow
+transurethral resection of prostate	can be done	using various techniques
+transurethral resection of prostate	is typically performed	in men with prostate enlargement
+transurethral resection of prostate	involves	resecting the prostate gland
+transurethral resection of prostate	can lead to	urinary obstruction
+transurethral resection of prostate	has a success rate of	70-90%
+transurethral resection of prostate	may require	overnight hospital stay
+transurethral resection of prostate	can result in	complications
+transurethral resection of prostate	has a	low mortality rate
+transurethral resection of prostate	is performed	using a special endoscope
+transurethral resection of prostate	is a	commonly performed urological procedure
+transurethral resection of prostate	may be performed	in men with bladder outlet obstruction
+transurethral resection of prostate	can alleviate	urinary retention
+transurethral resection of prostate	may cause	urinary tract injury
+transurethral resection of prostate	offers	relief of urinary symptoms
+transurethral resection of prostate	is associated with	short-term side effects
+transurethral resection of prostate	can be	a curative treatment
+transurethral resection of prostate	may be	a first-line treatment for BPH
+transurethral resection of prostate	can cause	transient urinary incontinence
+transurethral resection of prostate	can result in	complete removal of the prostate tissue
+transurethral resection of prostate	may require	a catheter for a few days
+transurethral resection of prostate	can be	a minimally invasive procedure
+transurethral resection of prostate	may be recommended	for men with bothersome urinary symptoms
+transurethral resection of prostate	can improve	urinary flow rate
+transurethral resection of prostate	carries a risk of	bladder injury
+transurethral resection of prostate	has a	lower reoperation rate compared to open surgery
+transurethral resection of prostate	may cause	urinary incontinence
+transurethral resection of prostate	can provide	immediate relief of urinary symptoms
+transurethral resection of prostate	is performed	through the urethra
+transurethral resection of prostate	has a	high success rate
+transurethral resection of prostate	is an	effective treatment for BPH
+transurethral resection of prostate	can result in	increased urine flow
+transurethral resection of prostate	may be	a suitable treatment option
+transurethral resection of prostate	can lead to	reduced prostate size
+transurethral resection of prostate	has	long-term outcomes
+transurethral resection of prostate	can be performed	under spinal or general anesthesia
+transurethral resection of prostate	may require	postoperative catheterization
+transurethral resection of prostate	is a standard treatment option	for BPH
+transurethral resection of prostate	can cause	urinary urgency
+transurethral resection of prostate	can provide	relief of urinary obstruction
+transurethral resection of prostate	carries	risks such as bleeding and infection
+transurethral resection of prostate	requires	postoperative follow-up
+transurethral resection of prostate	can result in	improved bladder emptying
+transurethral resection of prostate	may be indicated	for men with urinary problems
+transurethral resection of prostate	is	a common surgery
+transurethral resection of prostate	can be	an effective treatment
+transurethral resection of prostate	may relieve	urinary symptoms
+transurethral resection of prostate	can be performed	using different surgical techniques
+transurethral resection of prostate	may be necessary	for urine flow obstruction
+transurethral resection of prostate	can lead to	reduced symptoms of enlarged prostate
+transurethral resection of prostate	has	high patient satisfaction
+transurethral resection of prostate	may be performed	with laser technology
+transurethral resection of prostate	can improve	quality of life in men with urinary symptoms
+transurethral resection of prostate	is indicated	for men with moderate to severe urinary symptoms
+transurethral resection of prostate	can be done	as a day-surgery procedure
+transurethral resection of prostate	may cause	urinary retention
+transurethral resection of prostate	has a	low risk of complications
+transurethral resection of prostate	is a	well-established treatment
+transurethral resection of prostate	can lead to	improved urine flow rate
+transurethral resection of prostate	may require	urethral dilatation
+transurethral resection of prostate	is a surgery	performed using a specialized instrument
+transurethral resection of prostate	can provide	relief from urinary obstruction
+transurethral resection of prostate	carries a risk of	urinary infection
+transurethral resection of prostate	requires	preoperative evaluation and assessment
+transurethral resection of prostate	can be	a definitive treatment
+transurethral resection of prostate	may be	a suitable option for men with urinary symptoms
+transurethral resection of prostate	can improve	urinary flow and symptoms
+transurethral resection of prostate	has a	low recurrence rate
+transurethral resection of prostate	can be	a long-lasting treatment
+transurethral resection of prostate	may involve	removing prostate tissue
+transurethral resection of prostate	is commonly used	for BPH treatment
+transurethral resection of prostate	can be performed	with minimal incisions
+transurethral resection of prostate	may cause	temporary urinary problems
+transurethral resection of prostate	can result in	decreased urinary flow obstruction
+transurethral resection of prostate	may require	a stay in the hospital
+transurethral resection of prostate	is a	commonly performed procedure
+transurethral resection of prostate	can provide	relief from urinary symptoms
+transurethral resection of prostate	carries a risk of	urinary tract injury
+transurethral resection of prostate	may cause	sexual side effects
+transurethral resection of prostate	can lead to	improved urinary function
+transurethral resection of prostate	has	long-term effectiveness
+transurethral resection of prostate	can be performed	with minimally invasive techniques
+transurethral resection of prostate	may result in	decreased need for medication
+transurethral resection of prostate	may be a	recommended treatment option
+transurethral resection of prostate	can be	an effective therapy
+transurethral resection of prostate	may alleviate	lower urinary tract symptoms
+transurethral resection of prostate	can improve	urine flow and reduce obstruction
+transurethral resection of prostate	may require	a longer hospital stay
+transurethral resection of prostate	has a	risk of retrograde ejaculation
+transurethral resection of prostate	is a	common surgical intervention
+transurethral resection of prostate	can relieve	bladder outlet obstruction
+transurethral resection of prostate	is performed	using a resectoscope
+transurethral resection of prostate	has	good outcomes
+transurethral resection of prostate	can be performed	with minimal bleeding
+transurethral resection of prostate	may be recommended	for men with enlarged prostate
+transurethral resection of prostate	can alleviate	lower urinary tract obstruction
+transurethral resection of prostate	may cause	temporary urinary incontinence
+transurethral resection of prostate	offers	long-term relief of lower urinary tract symptoms
+transurethral resection of prostate	can result in	improved quality of life
+transurethral resection of prostate	may involve	removing part of the prostate gland
+transurethral resection of prostate	is a	commonly performed surgery for BPH
+transurethral resection of prostate	can be performed	using a cystoscope
+transurethral resection of prostate	may require	repeat procedures
+transurethral resection of prostate	can provide	relief from urinary obstruction
+transurethral resection of prostate	requires	careful patient selection
+transurethral resection of prostate	can lead to	decreased frequency of urination
+transurethral resection of prostate	is	an effective treatment option
+transurethral resection of prostate	can improve	voiding symptoms
+transurethral resection of prostate	carries a risk of	complications such as infection
+transurethral resection of prostate	has a	high success rate of symptom improvement
+transurethral resection of prostate	may cause	urinary problems
+transurethral resection of prostate	can be	a definitive therapy
+transurethral resection of prostate	may be recommended	for men with bothersome urinary problems
+transurethral resection of prostate	can result in	improved urinary flow and symptom relief
+transurethral resection of prostate	may require	postoperative medication
+transurethral resection of prostate	is associated with	postoperative complications
+transurethral resection of prostate	can provide	relief from lower urinary tract symptoms
+transurethral resection of prostate	carries a risk of	erectile dysfunction
+transurethral resection of prostate	may be	an appropriate treatment choice
+transurethral resection of prostate	can lead to	improved urinary function and quality of life
+transurethral resection of prostate	has	long-term success
+transurethral resection of prostate	may require	postoperative catheter care
+transurethral resection of prostate	can be	a suitable option for men with BPH
+transurethral resection of prostate	may cause	urinary tract infections
+transurethral resection of prostate	has a	high success rate in reducing urinary symptoms
+transurethral resection of prostate	can provide	effective relief from obstructive urinary symptoms
+transurethral resection of prostate	requires	careful consideration of patient selection
+transurethral resection of prostate	can result in	decreased urgency to urinate
+transurethral resection of prostate	is	a well-established surgical procedure
+transurethral resection of prostate	can be performed	with minimal side effects
+transurethral resection of prostate	may be recommended	for men with urinary retention
+transurethral resection of prostate	can alleviate	bothersome urinary symptoms
+transurethral resection of prostate	carries a risk of	incontinence
+transurethral resection of prostate	has a	high success rate for symptom relief
+transurethral resection of prostate	may cause	urinary urgency and frequency
+transurethral resection of prostate	can improve	urinary flow and voiding
+transurethral resection of prostate	may require	catheterization after surgery
+transurethral resection of prostate	is	a commonly performed procedure for BPH treatment
+transurethral resection of prostate	can be performed	using different energy sources
+transurethral resection of prostate	may result in	decreased prostate size
+transurethral resection of prostate	is a	well-established surgical treatment for BPH
+transurethral resection of prostate	can lead to	reduced urinary tract symptoms
+transurethral resection of prostate	has a	high success rate in relieving obstructive symptoms
+transurethral resection of prostate	may be considered	as a first-line treatment option
+transurethral resection of prostate	can be	a successful intervention
+transurethral resection of prostate	may relieve	lower urinary tract obstruction
+transurethral resection of prostate	can decrease	prostate size
+transurethral resection of prostate	has	long-term efficacy
+transurethral resection of prostate	can be performed	with minimal complications
+transurethral resection of prostate	may be recommended	for patients with urinary obstruction
+transurethral resection of prostate	can improve	urinary symptoms and flow
+transurethral resection of prostate	carries a risk of	retrograde ejaculation
+transurethral resection of prostate	is a	commonly performed surgical procedure for BPH
+transurethral resection of prostate	can provide	relief from urinary problems
+transurethral resection of prostate	requires	careful patient counseling
+transurethral resection of prostate	can lead to	decreased prostate-related symptoms
+transurethral resection of prostate	is	an effective treatment for BPH

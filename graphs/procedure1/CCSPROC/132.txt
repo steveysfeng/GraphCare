@@ -1,0 +1,240 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	removal of uterus
+salpingectomy	is a	surgical procedure
+salpingectomy	used for	removal of fallopian tubes
+oophorectomy	is a	surgical procedure
+oophorectomy	used for	removal of ovaries
+cervical biopsy	is a	diagnostic procedure
+cervical biopsy	used for	evaluation of abnormal cervical cells
+endometrial biopsy	is a	diagnostic procedure
+endometrial biopsy	used for	evaluation of uterine lining
+colposcopy	is a	diagnostic procedure
+colposcopy	used for	examination of cervix
+hysteroscopy	is a	diagnostic procedure
+hysteroscopy	used for	evaluation of uterus
+myomectomy	is a	surgical procedure
+myomectomy	used for	removal of uterine fibroids
+polypectomy	is a	therapeutic procedure
+polypectomy	used for	removal of uterine polyps
+laparoscopy	is a	diagnostic procedure
+laparoscopy	used for	examination of internal organs
+dilation and curettage	is a	therapeutic procedure
+dilation and curettage	used for	removal of uterine lining
+tubal ligation	is a	surgical procedure
+tubal ligation	used for	permanent birth control
+cystoscopy	is a	diagnostic procedure
+cystoscopy	used for	examination of bladder
+urethral dilation	is a	therapeutic procedure
+urethral dilation	used for	widening of urethra
+ovarian cystectomy	is a	surgical procedure
+ovarian cystectomy	used for	removal of ovarian cysts
+uterine artery embolization	is a	therapeutic procedure
+uterine artery embolization	used for	treatment of uterine fibroids
+pelvic exenteration	is a	surgical procedure
+pelvic exenteration	used for	removal of pelvic organs
+transvaginal ultrasound	is a	diagnostic procedure
+transvaginal ultrasound	used for	imaging of female reproductive organs
+cone biopsy	is a	therapeutic procedure
+cone biopsy	used for	removal of precancerous lesions
+adenoidectomy	is a	surgical procedure
+adenoidectomy	used for	removal of adenoids
+tonsillectomy	is a	surgical procedure
+tonsillectomy	used for	removal of tonsils
+septoplasty	is a	surgical procedure
+septoplasty	used for	correction of deviated septum
+rhinoplasty	is a	surgical procedure
+rhinoplasty	used for	reshaping of nose
+laryngoscopy	is a	diagnostic procedure
+laryngoscopy	used for	examination of larynx
+thoracentesis	is a	diagnostic procedure
+thoracentesis	used for	removal of fluid from chest cavity
+paracentesis	is a	diagnostic procedure
+paracentesis	used for	removal of fluid from abdominal cavity
+electroencephalogram	is a	diagnostic procedure
+electroencephalogram	used for	recording brain activity
+electrocardiogram	is a	diagnostic procedure
+electrocardiogram	used for	recording heart activity
+echocardiogram	is a	diagnostic procedure
+echocardiogram	used for	imaging of heart
+transesophageal echocardiogram	is a	diagnostic procedure
+transesophageal echocardiogram	used for	detailed imaging of heart
+cardiac catheterization	is a	diagnostic procedure
+cardiac catheterization	used for	evaluation of heart function
+coronary angiography	is a	diagnostic procedure
+coronary angiography	used for	imaging of coronary arteries
+angioplasty	is a	therapeutic procedure
+angioplasty	used for	widening of narrowed blood vessels
+coronary artery bypass grafting	is a	surgical procedure
+coronary artery bypass grafting	used for	treatment of blocked coronary arteries
+heart transplantation	is a	surgical procedure
+heart transplantation	used for	replacement of a diseased heart
+carotid endarterectomy	is a	surgical procedure
+carotid endarterectomy	used for	removal of plaque in carotid arteries
+carotid stenting	is a	therapeutic procedure
+carotid stenting	used for	treatment of narrowed carotid arteries
+endarterectomy	is a	surgical procedure
+endarterectomy	used for	removal of plaque in blood vessels
+vascular bypass	is a	surgical procedure
+vascular bypass	used for	rerouting blood flow
+abdominal aortic aneurysm repair	is a	surgical procedure
+abdominal aortic aneurysm repair	used for	treatment of aortic aneurysm
+craniotomy	is a	surgical procedure
+craniotomy	used for	removal of brain tumor
+lumbar puncture	is a	diagnostic procedure
+lumbar puncture	used for	collection of cerebrospinal fluid
+spinal fusion	is a	surgical procedure
+spinal fusion	used for	stabilization of spinal column
+disc replacement	is a	surgical procedure
+disc replacement	used for	replacement of spinal disc
+kyphoplasty	is a	therapeutic procedure
+kyphoplasty	used for	treatment of vertebral compression fractures
+bone marrow biopsy	is a	diagnostic procedure
+bone marrow biopsy	used for	evaluation of bone marrow function
+hysterectomy	is a	therapeutic procedure
+hysterectomy	used for	removal
+hysterectomy	performed on	female organs
+myomectomy	is a	therapeutic procedure
+myomectomy	used for	fibroid removal
+myomectomy	performed on	female organs
+oophorectomy	is a	therapeutic procedure
+oophorectomy	used for	ovary removal
+oophorectomy	performed on	female organs
+salpingectomy	is a	therapeutic procedure
+salpingectomy	used for	tube removal
+salpingectomy	performed on	female organs
+tubal ligation	is a	therapeutic procedure
+tubal ligation	used for	sterilization
+tubal ligation	performed on	female organs
+laparoscopy	is a	therapeutic procedure
+laparoscopy	used for	diagnosis
+laparoscopy	performed on	female organs
+colposcopy	is a	therapeutic procedure
+colposcopy	used for	cervix examination
+colposcopy	performed on	female organs
+hysteroscopy	is a	therapeutic procedure
+hysteroscopy	used for	uterus examination
+hysteroscopy	performed on	female organs
+endometrial biopsy	is a	therapeutic procedure
+endometrial biopsy	used for	tissue sampling
+endometrial biopsy	performed on	female organs
+transvaginal ultrasound	is a	diagnostic procedure
+transvaginal ultrasound	used for	imaging
+transvaginal ultrasound	performed on	female organs
+pelvic exam	is a	diagnostic procedure
+pelvic exam	used for	evaluation
+pelvic exam	performed on	female organs
+pap smear	is a	diagnostic procedure
+pap smear	used for	screening
+pap smear	performed on	female organs
+mammogram	is a	diagnostic procedure
+mammogram	used for	breast imaging
+mammogram	performed on	female organs
+ultrasound	is a	diagnostic procedure
+ultrasound	used for	imaging
+ultrasound	performed on	female organs
+MRI	is a	diagnostic procedure
+MRI	used for	imaging
+MRI	performed on	female organs
+biopsy	is a	diagnostic procedure
+biopsy	used for	tissue sampling
+biopsy	performed on	female organs
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	removal of uterus
+oophorectomy	is a	surgical procedure
+oophorectomy	used for	removal of ovaries
+myomectomy	is a	surgical procedure
+myomectomy	used for	removal of uterine fibroids
+tubal ligation	is a	surgical procedure
+tubal ligation	used for	permanent contraception
+colposcopy	is a	medical procedure
+colposcopy	used for	examination of the cervix
+laparoscopy	is a	medical procedure
+laparoscopy	used for	diagnostic imaging of female organs
+hysteroscopy	is a	medical procedure
+hysteroscopy	used for	examination of the uterus
+dilation and curettage	is a	surgical procedure
+dilation and curettage	used for	removal of uterine tissue
+endometrial ablation	is a	medical procedure
+endometrial ablation	used for	removal of the uterine lining
+hormone therapy	is a	therapeutic procedure
+hormone therapy	used for	treatment of menopause symptoms
+ovarian stimulation	is a	therapeutic procedure
+ovarian stimulation	used for	fertility treatment
+intrauterine device placement	is a	therapeutic procedure
+intrauterine device placement	used for	contraception
+uterine fibroid embolization	is a	therapeutic procedure
+uterine fibroid embolization	used for	treatment of uterine fibroids
+pelvic floor physical therapy	is a	therapeutic procedure
+pelvic floor physical therapy	used for	treatment of pelvic floor dysfunction
+cervical cerclage	is a	surgical procedure
+cervical cerclage	used for	prevention of preterm labor
+hysteropexy	is a	surgical procedure
+hysteropexy	used for	treatment of uterine prolapse
+endometrial biopsy	is a	medical procedure
+endometrial biopsy	used for	sampling the uterine lining
+tubal recanalization	is a	therapeutic procedure
+tubal recanalization	used for	restoration of fallopian tube patency
+vaginal pessary placement	is a	therapeutic procedure
+vaginal pessary placement	used for	treatment of pelvic organ prolapse
+loop electrosurgical excision procedure (LEEP)	is a	surgical procedure
+loop electrosurgical excision procedure (LEEP)	used for	removal of abnormal cervical tissue
+transvaginal ultrasound	is a	medical procedure
+transvaginal ultrasound	used for	imaging of female pelvic organs
+gamete intrafallopian transfer (GIFT)	is a	therapeutic procedure
+gamete intrafallopian transfer (GIFT)	used for	fertility treatment
+zona pellucida drilling	is a	surgical procedure
+zona pellucida drilling	used for	treatment of polycystic ovary syndrome
+sonohysterography	is a	medical procedure
+sonohysterography	used for	imaging of the uterus
+ovarian cystectomy	is a	surgical procedure
+ovarian cystectomy	used for	removal of ovarian cysts
+hysterectomy reversal	is a	surgical procedure
+hysterectomy reversal	used for	restoration of fertility
+cautery ablation	is a	surgical procedure
+cautery ablation	used for	treatment of cervical dysplasia
+uterine septum resection	is a	surgical procedure
+uterine septum resection	used for	removal of uterine septum
+pelvic lymph node dissection	is a	surgical procedure
+pelvic lymph node dissection	used for	staging of gynecologic cancers
+myolysis	is a	surgical procedure
+myolysis	used for	removal of uterine fibroids
+endoscopic surgery	is a	surgical procedure
+endoscopic surgery	used for	minimally invasive treatment of gynecologic conditions
+magnetic resonance imaging (MRI)	is a	medical procedure
+magnetic resonance imaging (MRI)	used for	detailed imaging of female pelvic organs
+radiation therapy	is a	therapeutic procedure
+radiation therapy	used for	treatment of gynecologic cancers
+artificial insemination	is a	therapeutic procedure
+artificial insemination	used for	fertility treatment
+hormone replacement therapy	is a	therapeutic procedure
+hormone replacement therapy	used for	treatment of menopause symptoms
+vulvar biopsy	is a	medical procedure
+vulvar biopsy	used for	sampling of vulvar tissue
+uterine artery embolization	is a	therapeutic procedure
+uterine artery embolization	used for	treatment of uterine fibroids
+ovarian drilling	is a	surgical procedure
+ovarian drilling	used for	treatment of polycystic ovary syndrome
+ovarian transposition	is a	surgical procedure
+ovarian transposition	used for	preservation of ovarian function during radiation therapy
+hysterectomy with salpingo-oophorectomy	is a	surgical procedure
+hysterectomy with salpingo-oophorectomy	used for	removal of uterus	fallopian tubes	and ovaries
+cervical polypectomy	is a	surgical procedure
+cervical polypectomy	used for	removal of cervical polyps
+cervical conization	is a	surgical procedure
+cervical conization	used for	removal of abnormal cervical tissue
+salpingectomy	is a	surgical procedure
+salpingectomy	used for	removal of fallopian tubes
+interventional radiology	is a	therapeutic procedure
+interventional radiology	used for	minimally invasive treatment of gynecologic conditions
+vaginal birth after cesarean (VBAC)	is a	therapeutic procedure
+vaginal birth after cesarean (VBAC)	used for	successful vaginal delivery following cesarean section
+perineal massage	is a	therapeutic procedure
+perineal massage	used for	prevention of perineal tearing during childbirth
+vaginal birth	is a	therapeutic procedure
+vaginal birth	used for	delivery of a baby
+cesarean section	is a	surgical procedure
+cesarean section	used for	delivery of a baby
+forceps delivery	is a	therapeutic procedure
+forceps delivery	used for	assistance during vaginal delivery
+vacuum-assisted delivery	is a	therapeutic procedure
+vacuum-assisted delivery	used for	assistance during vaginal delivery

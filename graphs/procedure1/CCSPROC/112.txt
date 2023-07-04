@@ -1,0 +1,184 @@
+urinary tract infection	can be treated with	antibiotics
+urinary catheterization	is a	therapeutic procedure
+urinary catheterization	can be used for	urine drainage
+cystoscopy	is a	diagnostic procedure
+cystoscopy	can detect	bladder tumors
+ureteroscopy	is a	surgical procedure
+ureteroscopy	can remove	kidney stones
+extracorporeal shock wave lithotripsy	is a	non-invasive procedure
+extracorporeal shock wave lithotripsy	can break up	kidney stones
+urethral dilation	is a	therapeutic procedure
+urethral dilation	can treat	urethral strictures
+percutaneous nephrostomy	is a	interventional procedure
+percutaneous nephrostomy	can drain	blocked kidneys
+transurethral resection of the prostate	is a	surgical procedure
+transurethral resection of the prostate	can alleviate	urinary symptoms
+urinary diversion	is a	surgical procedure
+urinary diversion	can redirect	urine flow
+bladder augmentation	is a	surgical procedure
+bladder augmentation	can increase	bladder capacity
+ureteral reimplantation	is a	surgical procedure
+ureteral reimplantation	can correct	vesicoureteral reflux
+urostomy	is a	surgical procedure
+urostomy	can create	an artificial opening for urine
+nephrectomy	is a	surgical procedure
+nephrectomy	can remove	diseased kidneys
+urethral sling	is a	surgical procedure
+urethral sling	can treat	stress urinary incontinence
+ureteral stent placement	is a	interventional procedure
+ureteral stent placement	can alleviate	ureteral obstruction
+intravesical instillation	is a	therapeutic procedure
+intravesical instillation	can treat	bladder cancer
+urethrotomy	is a	surgical procedure
+urethrotomy	can treat	urethral strictures
+ultrasound-guided percutaneous nephrostomy	is a	interventional procedure
+ultrasound-guided percutaneous nephrostomy	can drain	blocked kidneys
+bladder neck suspension	is a	surgical procedure
+bladder neck suspension	can treat	urinary incontinence
+vesicostomy	is a	surgical procedure
+vesicostomy	can create	an artificial opening for urine
+ureteroscopic lithotripsy	is a	surgical procedure
+ureteroscopic lithotripsy	can remove	kidney stones
+cystectomy	is a	surgical procedure
+cystectomy	can remove	the bladder
+ureterostomy	is a	surgical procedure
+ureterostomy	can create	an artificial opening for urine
+laser lithotripsy	is a	non-invasive procedure
+laser lithotripsy	can break up	kidney stones
+urinary diversion with ileal conduit	is a	surgical procedure
+urinary diversion with ileal conduit	can reroute	urine flow
+ureteral reimplantation with psoas hitch	is a	surgical procedure
+ureteral reimplantation with psoas hitch	can correct	vesicoureteral reflux
+radical prostatectomy	is a	surgical procedure
+radical prostatectomy	can remove	the prostate gland
+cystoplasty	is a	surgical procedure
+cystoplasty	can increase	bladder capacity
+bladder stone removal	is a	therapeutic procedure
+bladder stone removal	can remove	bladder stones
+ureteral catheterization	is a	therapeutic procedure
+ureteral catheterization	can be used for	urine drainage
+percutaneous nephrolithotomy	is a	surgical procedure
+percutaneous nephrolithotomy	can remove	large kidney stones
+diathermy	is a	therapeutic procedure
+diathermy	can cauterize	bleeding vessels
+ureteral meatotomy	is a	surgical procedure
+ureteral meatotomy	can treat	ureteral strictures
+urinary diversion with continent reservoir	is a	surgical procedure
+urinary diversion with continent reservoir	can create	a continent urinary diversion
+robotic-assisted radical cystectomy	is a	surgical procedure
+robotic-assisted radical cystectomy	can remove	the bladder
+bladder augmentation with bowel segment	is a	surgical procedure
+bladder augmentation with bowel segment	can increase	bladder capacity
+ureteral reimplantation with ureteroneocystostomy	is a	surgical procedure
+ureteral reimplantation with ureteroneocystostomy	can correct	vesicoureteral reflux
+retropubic suspension	is a	surgical procedure
+retropubic suspension	can treat	pelvic organ prolapse
+continent cutaneous urinary diversion	is a	surgical procedure
+continent cutaneous urinary diversion	can create	a continent urinary diversion
+ureterosigmoidostomy	is a	surgical procedure
+ureterosigmoidostomy	can reroute	urine flow
+percutaneous nephrostomy with antegrade pyelography	is a	interventional procedure
+percutaneous nephrostomy with antegrade pyelography	can visualize	the upper urinary tract
+cytodiagnosis	is a	diagnostic procedure
+cytodiagnosis	can detect	abnormal cells in urine
+ureterovesical anastomosis	is a	surgical procedure
+ureterovesical anastomosis	can connect	the ureter to the bladder
+percutaneous nephrostomy with retrograde pyelography	is a	interventional procedure
+percutaneous nephrostomy with retrograde pyelography	can visualize	the upper urinary tract
+robotic-assisted radical prostatectomy	is a	surgical procedure
+robotic-assisted radical prostatectomy	can remove	the prostate gland
+cystectomy with urinary reservoir	is a	surgical procedure
+cystectomy with urinary reservoir	can remove	the bladder
+ureterocystoplasty	is a	surgical procedure
+ureterocystoplasty	can increase	bladder capacity
+bladder stone fragmentation	is a	therapeutic procedure
+bladder stone fragmentation	can break up	bladder stones
+ureteral reimplantation with bladder flap	is a	surgical procedure
+ureteral reimplantation with bladder flap	can correct	vesicoureteral reflux
+closed bladder drainage	is a	therapeutic procedure
+closed bladder drainage	can assist in	urine flow
+ureteral stent placement with antegrade pyelography	is a	interventional procedure
+ureteral stent placement with antegrade pyelography	can visualize	the upper urinary tract
+neobladder construction	is a	surgical procedure
+neobladder construction	can create	a new bladder
+retrograde ureteric stenting	is a	interventional procedure
+retrograde ureteric stenting	can manage	urinary obstruction
+robotic-assisted radical nephrectomy	is a	surgical procedure
+robotic-assisted radical nephrectomy	can remove	the kidney
+ureteroscopy with laser lithotripsy	is a	surgical procedure
+ureteroscopy with laser lithotripsy	can remove	kidney stones
+ileal conduit diversion	is a	surgical procedure
+ileal conduit diversion	can reroute	urine flow
+urethral meatoplasty	is a	surgical procedure
+urethral meatoplasty	can treat	urethral strictures
+ureteral reimplantation with ureteral tailoring	is a	surgical procedure
+ureteral reimplantation with ureteral tailoring	can correct	vesicoureteral reflux
+urodynamic testing	is a	diagnostic procedure
+urodynamic testing	can evaluate	bladder function
+ureteroscopy with basket extraction	is a	surgical procedure
+ureteroscopy with basket extraction	can remove	kidney stones
+ileal conduit construction	is a	surgical procedure
+ileal conduit construction	can create	a urinary diversion
+urethral calibration	is a	therapeutic procedure
+urethral calibration	can dilate	the urethra
+antegrade nephrostomy	is a	interventional procedure
+antegrade nephrostomy	can drain	blocked kidneys
+dyna method	is a	therapeutic procedure
+dyna method	can treat	urinary incontinence
+urethrectomy	is a	surgical procedure
+urethrectomy	can remove	the urethra
+neobladder diversion	is a	surgical procedure
+neobladder diversion	can create	a new bladder
+flexible cystoscopy	is a	diagnostic procedure
+flexible cystoscopy	can visualize	the lower urinary tract
+ureteroneocystostomy	is a	surgical procedure
+ureteroneocystostomy	can connect	the ureter to the bladder
+therapeutic procedures	are used for	treating diseases
+urinary tract	is a part of	the body
+therapeutic procedures of urinary tract	can include	surgery
+surgery	can be used for	removing tumors
+tumors	can be present in	the urinary tract
+therapeutic procedures of urinary tract	can include	medication
+medication	is used for	treating infections
+infections	can occur in	the urinary tract
+therapeutic procedures of urinary tract	can include	catheterization
+catheterization	is used for	draining urine
+urine	can accumulate in	the urinary tract
+therapeutic procedures of urinary tract	can include	lithotripsy
+lithotripsy	is used for	breaking down kidney stones
+kidney stones	can form in	the urinary tract
+therapeutic procedures of urinary tract	can include	stent placement
+stent placement	is used for	keeping the urinary tract open
+therapeutic procedures of urinary tract	can include	laser surgery
+laser surgery	is used for	treating urinary tract obstructions
+urinary tract obstructions	can block	the flow of urine
+therapeutic procedures of urinary tract	can include	radiofrequency ablation
+radiofrequency ablation	is used for	destroying abnormal tissue
+abnormal tissue	can be present in	the urinary tract
+therapeutic procedures of urinary tract	can include	urinary diversion
+urinary diversion	is used for	redirecting urine flow
+therapeutic procedures of urinary tract	can include	tube insertion
+tube insertion	is used for	draining fluid from the urinary tract
+fluid	can accumulate in	the urinary tract
+therapeutic procedures of urinary tract	can include	ureteroscopy
+ureteroscopy	is used for	treating conditions in the ureter
+conditions	can affect	the urinary tract
+therapeutic procedures of urinary tract	can include	bladder augmentation
+bladder augmentation	is used for	increasing bladder capacity
+bladder capacity	can be reduced in	the urinary tract
+therapeutic procedures of urinary tract	can include	urethral dilation
+urethral dilation	is used for	widening the urethra
+urethral narrowing	can occur in	the urinary tract
+therapeutic procedures of urinary tract	can include	prostatectomy
+prostatectomy	is used for	removing the prostate gland
+prostate gland	can be affected by	conditions in the urinary tract
+therapeutic procedures of urinary tract	can include	cystoscopy
+cystoscopy	is used for	examining the bladder
+bladder	is part of	the urinary tract
+therapeutic procedures of urinary tract	can include	urinary incontinence surgery
+urinary incontinence surgery	is used for	treating urinary incontinence
+urinary incontinence	can occur in	the urinary tract
+therapeutic procedures of urinary tract	can include	urethral sling surgery
+urethral sling surgery	is used for	treating urinary incontinence
+therapeutic procedures of urinary tract	can include	urinary diversion surgery
+urinary diversion surgery	is used for	redirecting urine flow

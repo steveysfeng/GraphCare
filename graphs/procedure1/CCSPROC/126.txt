@@ -1,0 +1,223 @@
+abortion	is a	medical procedure
+abortion	can be performed	surgically
+abortion	can be performed	medically
+medical abortion	involves	medication
+surgical abortion	involves	a surgical procedure
+abortion	can be done	in the first trimester
+abortion	can be done	in the second trimester
+abortion	can be done	in the third trimester
+abortion	is legal	in certain countries
+abortion	is illegal	in certain countries
+abortion	can be performed	for various reasons
+abortion	can be performed	for health reasons
+abortion	can be performed	for socioeconomic reasons
+abortion	can be performed	for fetal abnormalities
+abortion	can be performed	for rape or incest cases
+abortion	can have	emotional consequences
+abortion	can have	physical consequences
+abortion	can have	legal implications
+abortion	can result in	infertility
+abortion	can increase	risk of future complications
+abortion	can lead to	post-abortion syndrome
+abortion	can be a	controversial topic
+abortion	is regulated	by law
+abortion	statistics vary	across countries
+abortion	is a	divisive issue
+abortion	rates	are influenced by cultural factors
+abortion	rates	can differ	among different demographics
+abortion	can be performed	in a clinic
+abortion	can be performed	in a hospital
+abortion	can be performed	by a healthcare provider
+abortion	can be performed	by a trained professional
+abortion	can be performed	in a safe and legal manner
+abortion	can be performed	with proper consent
+abortion	access	is a human right
+abortion	can be a	sensitive topic
+abortion	can be a	difficult decision
+abortion	is a	reproductive healthcare option
+abortion	can be used	for family planning
+abortion	can be a	source of debate
+abortion	can be a	political issue
+abortion	can be	emotionally challenging
+abortion	can be a	polarizing topic
+abortion	can be a	moral dilemma
+abortion	can be considered	a form of contraception
+abortion	can be performed	by trained professionals
+abortion	can be an	individual choice
+abortion	can be	stigmatized
+abortion	can have	long-term effects
+abortion	can be	psychologically distressing
+abortion	can be	financially burdensome
+abortion	can be a	fundamental right
+abortion	can lead to	complications
+abortion	access	can be limited
+abortion	legality	is a contentious issue
+abortion	can be	traumatic
+abortion	can involve	counseling
+abortion	can be	physically safe
+abortion	can be	emotionally challenging
+abortion	can be	ethically debated
+abortion	can lead to	reproductive health concerns
+abortion	can have	a psychological impact
+abortion	is a	reproductive choice
+abortion	can be performed	under certain circumstances
+abortion	can be a	feminist issue
+abortion	can have	religious implications
+abortion	can have	societal consequences
+abortion	can result in	legal battles
+abortion	can be a	human rights issue
+abortion	can have	public health implications
+abortion	can be	emotionally charged
+abortion	can be	emotionally difficult
+abortion	can have	medical risks
+abortion	can have	social repercussions
+abortion	access	can be restricted
+abortion	can be used	in cases of fetal anomalies
+abortion	can be	medically necessary
+abortion	can be a	highly debated topic
+abortion	can be a	contested right
+abortion	can be a	constitutional issue
+abortion	can face	legal challenges
+abortion	can have	psychological consequences
+abortion	can be	time-sensitive
+abortion	can be	a matter of personal choice
+abortion	can be	politically charged
+abortion	can be	emotionally draining
+abortion	can have	societal implications
+abortion	can raise	ethical concerns
+abortion	can lead to	public outcry
+abortion	can be a	medical necessity
+abortion	can have	physical risks
+abortion	can be a	women's rights issue
+abortion	can be	life-saving
+abortion	can be	mentally and emotionally challenging
+abortion	can be a	global health concern
+abortion	can be	a woman's choice
+abortion	can have	cultural and religious significance
+abortion	can be	emotionally distressing
+abortion	can carry	social implications
+abortion	can be	a source of debate and controversy
+abortion	can be	a personal decision
+abortion	can be considered	moral
+abortion	can be	physically complicated
+abortion	can be a	constitutional right
+abortion	can cause	debate
+abortion	can be	politically sensitive
+abortion	can be	psychologically challenging
+abortion	can be	a social issue
+abortion	can have	personal and societal impact
+abortion	can lead to	healing
+abortion	can be	emotionally tough
+abortion	can be	a political debate
+abortion	can be	a matter of reproductive freedom
+abortion	can have	legal and ethical implications
+abortion	can be	a divisive subject
+abortion	can be	legally restricted
+abortion	can provoke	mixed opinions
+abortion	can have	long-lasting effects
+abortion	can be	socially stigmatized
+abortion	can be an	emotionally charged issue
+abortion	can be	ethically complex
+abortion	is a	medical procedure
+abortion	used for	terminating pregnancy
+surgical abortion	is a type of	abortion
+medical abortion	is a type of	abortion
+surgical abortion	performed by	a qualified doctor
+medical abortion	performed by	a qualified doctor
+surgical abortion	involves	removing the fetus
+medical abortion	involves	taking medication to induce miscarriage
+abortion	legality	varies by country
+abortion	controversial	topic
+abortion	can be	emotionally challenging
+abortion	can be	physically challenging
+abortion	requires	informed consent
+abortion	has	potential risks
+abortion	potential risks	include infection
+abortion	potential risks	include bleeding
+abortion	potential risks	include damage to the cervix
+abortion	potential risks	include scarring of the uterus
+abortion	potential risks	include emotional distress
+abortion	potential risks	include future fertility issues
+abortion	should be	performed in a safe and legal environment
+abortion	is	time-sensitive
+abortion	available	in different methods
+abortion	methods	include vacuum aspiration
+abortion	methods	include dilation and curettage
+abortion	methods	include medication abortion
+abortion	methods	include induced labor
+abortion	methods	vary based on gestational age
+abortion	gestational age	determines the available methods
+abortion	gestational age	measured in weeks
+abortion	legality	influenced by cultural and religious beliefs
+abortion	legality	influenced by political factors
+abortion	legality	influenced by healthcare policies
+abortion	has	potential complications
+abortion	potential complications	include incomplete abortion
+abortion	potential complications	include uterine perforation
+abortion	potential complications	include infection
+abortion	potential complications	include blood clots
+abortion	potential complications	include heavy bleeding
+abortion	potential complications	include adverse reactions to anesthesia
+abortion	potential complications	include damage to surrounding organs
+abortion	potential complications	include psychological effects
+abortion	potential complications	include negative social stigma
+abortion	emotional impact	varies for each individual
+abortion	physical recovery	varies for each individual
+abortion	requires	follow-up care
+abortion	follow-up care	may include a post-procedure checkup
+abortion	follow-up care	may include counseling
+abortion	follow-up care	should address any complications
+abortion	follow-up care	should provide emotional support
+abortion	decision	influenced by personal circumstances
+abortion	decision	influenced by financial considerations
+abortion	decision	influenced by support systems
+abortion	decision	influenced by future plans
+abortion	decision	influenced by health factors
+abortion	decision	influenced by relationship status
+abortion	decision	influenced by personal beliefs
+abortion	decision	influenced by access to healthcare
+abortion	decision	influenced by legal restrictions
+abortion	decision	should be	carefully considered
+abortion	should be	a safe and legal option
+abortion	should be	available to those who need it
+abortion	support	includes counseling services
+abortion	support	includes post-abortion care
+abortion	support	includes access to contraception
+abortion	support	includes reproductive health education
+abortion	can be	a difficult decision
+abortion	can have	long-term emotional impacts
+abortion	can have	long-term physical impacts
+abortion	choice	should be respected
+abortion	choice	should be free from judgement
+abortion	choice	should be supported with compassion
+abortion	decision-making	should involve healthcare providers
+abortion	decision-making	should involve support networks
+abortion	decision-making	should prioritize the well-being of the individual
+abortion	decision-making	should consider possible outcomes
+abortion	decision-making	should consider alternatives
+abortion	decision-making	should be	individualized
+abortion	decision-making	should be	an informed choice
+abortion	access	should be	equitable
+abortion	access	should be	available regardless of socioeconomic status
+abortion	access	should be	available regardless of geographic location
+abortion	access	should be	free from barriers
+abortion	access	should be	timely
+abortion	access	should be	confidential
+abortion	access	should be	non-judgmental
+abortion	awareness	is important
+abortion	awareness	promotes understanding
+abortion	awareness	reduces stigma
+abortion	awareness	ensures informed decision-making
+abortion	education	is important for healthcare providers
+abortion	education	is important for the general public
+abortion	education	promotes reproductive health knowledge
+abortion	education	promotes empathy and support
+abortion	research	is necessary for improving healthcare practices
+abortion	research	contributes to evidence-based guidelines
+abortion	research	informs policy-making
+abortion	research	identifies potential risks and benefits
+abortion	research	explores long-term outcomes
+abortion	research	evaluates the effectiveness of different methods
+abortion	research	investigates the impact on mental health
+abortion	research	examines the role of stigma
+abortion	research	is	the foundation for evidence-based care

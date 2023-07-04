@@ -1,0 +1,273 @@
+kidney transplant	is a	surgical procedure
+kidney transplant	used for	treating kidney failure
+kidney transplant	involves	transplanting a healthy kidney
+kidney transplant	can be done	from a living donor
+kidney transplant	can be done	from a deceased donor
+kidney transplant	requires	immunosuppressant medication
+kidney transplant	can improve	quality of life
+kidney transplant	can increase	life expectancy
+kidney transplant	has a risk of	rejection
+kidney transplant	may require	dialysis post-transplant
+kidney transplant	requires	a matching blood type
+kidney transplant	has a waiting list	for deceased donor organs
+kidney transplant	has a shorter wait time	for living donor organs
+kidney transplant	may require	a second transplant
+kidney transplant	can be complicated by	infection
+kidney transplant	can be complicated by	surgical complications
+kidney transplant	can be complicated by	rejection
+kidney transplant	can be complicated by	graft failure
+kidney transplant	can be complicated by	clotting of blood vessels
+kidney transplant	can be complicated by	side effects of medications
+kidney transplant	is not recommended	for individuals with other major health issues
+kidney transplant	may be recommended	for individuals with kidney disease
+kidney transplant	may be recommended	for individuals on dialysis
+kidney transplant	has a higher success rate	with a living donor
+kidney transplant	can improve	kidney function
+kidney transplant	is a major surgery	with a long recovery period
+kidney transplant	requires	lifelong medical follow-up
+kidney transplant	involves	matching the donor and recipient's human leukocyte antigens (HLAs)
+kidney transplant	can be complicated by	organ rejection
+kidney transplant	can be complicated by	infection
+kidney transplant	can be complicated by	post-operative complications
+kidney transplant	can be complicated by	side effects of immunosuppressant medications
+kidney transplant	is a treatment option	for end-stage renal disease (ESRD)
+kidney transplant	requires	a rigorous evaluation process for both donor and recipient
+kidney transplant	has a higher success rate	in younger patients
+kidney transplant	has a higher success rate	in recipients without other significant health issues
+kidney transplant	can be complicated by	cardiovascular disease
+kidney transplant	can be complicated by	diabetes
+kidney transplant	can be complicated by	high blood pressure
+kidney transplant	can be complicated by	obesity
+kidney transplant	can be complicated by	organ rejection
+kidney transplant	can be complicated by	delayed graft function
+kidney transplant	has a risk of	infection
+kidney transplant	has a risk of	bleeding
+kidney transplant	has a risk of	complications from anesthesia
+kidney transplant	has a risk of	blood clots
+kidney transplant	requires	long-term immunosuppressant therapy
+kidney transplant	requires	lifelong medical follow-up
+kidney transplant	requires	regular monitoring of kidney function
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	routine blood work
+kidney transplant	requires	monitoring for signs of organ rejection
+kidney transplant	has a risk of	post-transplant lymphoproliferative disorder (PTLD)
+kidney transplant	has a risk of	certain types of cancer
+kidney transplant	may require	additional surgeries
+kidney transplant	can be complicated by	non-adherence to medication regimen
+kidney transplant	can be complicated by	non-adherence to follow-up appointments
+kidney transplant	can be complicated by	kidney infection
+kidney transplant	has a risk of	recurrent kidney disease
+kidney transplant	requires	close coordination between the transplant team and the recipient's primary care physician
+kidney transplant	is a treatment option	for individuals with end-stage kidney disease
+kidney transplant	requires	a compatible donor
+kidney transplant	requires	a thorough evaluation of both donor and recipient
+kidney transplant	can lead to	improved quality of life
+kidney transplant	can reduce	the need for dialysis
+kidney transplant	can restore	kidney function
+kidney transplant	can alleviate	symptoms of kidney failure
+kidney transplant	has a risk of	complications
+kidney transplant	has a risk of	rejection
+kidney transplant	has a risk of	infection
+kidney transplant	requires	lifelong immunosuppressant therapy
+kidney transplant	requires	regular follow-up care
+kidney transplant	requires	regular monitoring of kidney function
+kidney transplant	requires	adherence to medication regimen
+kidney transplant	requires	lifestyle modifications
+kidney transplant	is a complex procedure	with potential risks
+kidney transplant	may not be suitable	for every individual with kidney failure
+kidney transplant	can prolong	survival
+kidney transplant	can improve	overall health
+kidney transplant	can improve	quality of life
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can reduce	mortality risk
+kidney transplant	can reduce	hospital readmission rates
+kidney transplant	has a higher success rate	in individuals who are younger
+kidney transplant	has a higher success rate	in individuals without significant comorbidities
+kidney transplant	can be lifesaving	for individuals with kidney failure
+kidney transplant	requires	a rigorous screening process for potential donors
+kidney transplant	requires	careful evaluation of the recipient's medical history
+kidney transplant	can be a viable	long-term treatment option
+kidney transplant	can lead to	improved kidney function
+kidney transplant	can restore	kidney function
+kidney transplant	can result in	improved overall health
+kidney transplant	can improve	quality of life
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can increase	life expectancy
+kidney transplant	has a risk of	complications
+kidney transplant	has a risk of	organ rejection
+kidney transplant	has a risk of	infection
+kidney transplant	requires	lifelong immunosuppressant medication
+kidney transplant	requires	regular follow-up appointments
+kidney transplant	requires	lifelong monitoring of kidney function
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	careful management of immunosuppressant therapy
+kidney transplant	requires	lifestyle modifications
+kidney transplant	may not be suitable	for every individual with end-stage renal disease
+kidney transplant	may be recommended	for individuals with kidney failure
+kidney transplant	can have	short-term complications
+kidney transplant	can have	long-term complications
+kidney transplant	can require	a lengthy recovery period
+kidney transplant	can improve	overall health outcomes
+kidney transplant	can decrease	healthcare costs
+kidney transplant	has a risk of	graft failure
+kidney transplant	requires	a multidisciplinary healthcare team
+kidney transplant	requires	coordination between the transplant center and the recipient's primary care physician
+kidney transplant	is associated with	improved patient survival
+kidney transplant	is associated with	improved quality of life
+kidney transplant	is associated with	improved renal function
+kidney transplant	has a better	long-term prognosis
+kidney transplant	has a higher success rate	with a well-matched donor
+kidney transplant	can be a cost-effective	treatment option
+kidney transplant	can provide	better outcomes compared to dialysis
+kidney transplant	can result in	improved kidney function and overall health
+kidney transplant	can lead to	decreased healthcare utilization
+kidney transplant	can reduce	the need for dialysis and associated complications
+kidney transplant	requires	pre-transplant evaluation and testing
+kidney transplant	requires	long-term management of immunosuppressant therapy
+kidney transplant	requires	regular follow-up care and monitoring
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	close coordination between the patient	transplant center	and primary care physician
+kidney transplant	involves	evaluation of potential living donors
+kidney transplant	requires	a compatible donor
+kidney transplant	can be performed	using laparoscopic surgery
+kidney transplant	requires	careful matching of human leukocyte antigens (HLAs)
+kidney transplant	can result in	improved outcomes compared to dialysis
+kidney transplant	may be recommended	for individuals with end-stage renal disease (ESRD)
+kidney transplant	can improve	patient survival
+kidney transplant	can improve	quality of life
+kidney transplant	can improve	overall health outcomes
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can reduce	mortality risk
+kidney transplant	can reduce	hospital readmission rates
+kidney transplant	has a higher success rate	in individuals who are younger
+kidney transplant	has a higher success rate	in individuals without significant comorbidities
+kidney transplant	can be lifesaving	for individuals with kidney failure
+kidney transplant	requires	a rigorous screening process for potential donors
+kidney transplant	requires	careful evaluation of the recipient's medical history
+kidney transplant	can be a viable	long-term treatment option
+kidney transplant	can lead to	improved kidney function
+kidney transplant	can restore	kidney function
+kidney transplant	can result in	improved overall health
+kidney transplant	can improve	quality of life
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can increase	life expectancy
+kidney transplant	has a risk of	complications
+kidney transplant	has a risk of	organ rejection
+kidney transplant	has a risk of	infection
+kidney transplant	requires	lifelong immunosuppressant medication
+kidney transplant	requires	regular follow-up appointments
+kidney transplant	requires	lifelong monitoring of kidney function
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	careful management of immunosuppressant therapy
+kidney transplant	requires	lifestyle modifications
+kidney transplant	may not be suitable	for every individual with end-stage renal disease
+kidney transplant	may be recommended	for individuals with kidney failure
+kidney transplant	can have	short-term complications
+kidney transplant	can have	long-term complications
+kidney transplant	can require	a lengthy recovery period
+kidney transplant	can improve	overall health outcomes
+kidney transplant	can decrease	healthcare costs
+kidney transplant	has a risk of	graft failure
+kidney transplant	requires	a multidisciplinary healthcare team
+kidney transplant	requires	coordination between the transplant center and the recipient's primary care physician
+kidney transplant	is associated with	improved patient survival
+kidney transplant	is associated with	improved quality of life
+kidney transplant	is associated with	improved renal function
+kidney transplant	has a better	long-term prognosis
+kidney transplant	has a higher success rate	with a well-matched donor
+kidney transplant	can be a cost-effective	treatment option
+kidney transplant	can provide	better outcomes compared to dialysis
+kidney transplant	can result in	improved kidney function and overall health
+kidney transplant	can lead to	decreased healthcare utilization
+kidney transplant	can reduce	the need for dialysis and associated complications
+kidney transplant	requires	pre-transplant evaluation and testing
+kidney transplant	requires	long-term management of immunosuppressant therapy
+kidney transplant	requires	regular follow-up care and monitoring
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	close coordination between the patient	transplant center	and primary care physician
+kidney transplant	involves	evaluation of potential living donors
+kidney transplant	requires	a compatible donor
+kidney transplant	can be performed	using laparoscopic surgery
+kidney transplant	requires	careful matching of human leukocyte antigens (HLAs)
+kidney transplant	can result in	improved outcomes compared to dialysis
+kidney transplant	may be recommended	for individuals with end-stage renal disease (ESRD)
+kidney transplant	can improve	patient survival
+kidney transplant	can improve	quality of life
+kidney transplant	can improve	overall health outcomes
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can reduce	mortality risk
+kidney transplant	can reduce	hospital readmission rates
+kidney transplant	has a higher success rate	in individuals who are younger
+kidney transplant	has a higher success rate	in individuals without significant comorbidities
+kidney transplant	can be lifesaving	for individuals with kidney failure
+kidney transplant	requires	a rigorous screening process for potential donors
+kidney transplant	requires	careful evaluation of the recipient's medical history
+kidney transplant	can be a viable	long-term treatment option
+kidney transplant	can lead to	improved kidney function
+kidney transplant	can restore	kidney function
+kidney transplant	can result in	improved overall health
+kidney transplant	can improve	quality of life
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can increase	life expectancy
+kidney transplant	has a risk of	complications
+kidney transplant	has a risk of	organ rejection
+kidney transplant	has a risk of	infection
+kidney transplant	requires	lifelong immunosuppressant medication
+kidney transplant	requires	regular follow-up appointments
+kidney transplant	requires	lifelong monitoring of kidney function
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	careful management of immunosuppressant therapy
+kidney transplant	requires	lifestyle modifications
+kidney transplant	may not be suitable	for every individual with end-stage renal disease
+kidney transplant	may be recommended	for individuals with kidney failure
+kidney transplant	can have	short-term complications
+kidney transplant	can have	long-term complications
+kidney transplant	can require	a lengthy recovery period
+kidney transplant	can improve	overall health outcomes
+kidney transplant	can decrease	healthcare costs
+kidney transplant	has a risk of	graft failure
+kidney transplant	requires	a multidisciplinary healthcare team
+kidney transplant	requires	coordination between the transplant center and the recipient's primary care physician
+kidney transplant	is associated with	improved patient survival
+kidney transplant	is associated with	improved quality of life
+kidney transplant	is associated with	improved renal function
+kidney transplant	has a better	long-term prognosis
+kidney transplant	has a higher success rate	with a well-matched donor
+kidney transplant	can be a cost-effective	treatment option
+kidney transplant	can provide	better outcomes compared to dialysis
+kidney transplant	can result in	improved kidney function and overall health
+kidney transplant	can lead to	decreased healthcare utilization
+kidney transplant	can reduce	the need for dialysis and associated complications
+kidney transplant	requires	pre-transplant evaluation and testing
+kidney transplant	requires	long-term management of immunosuppressant therapy
+kidney transplant	requires	regular follow-up care and monitoring
+kidney transplant	requires	adherence to a strict medication regimen
+kidney transplant	requires	close coordination between the patient	transplant center	and primary care physician
+kidney transplant	involves	evaluation of potential living donors
+kidney transplant	requires	a compatible donor
+kidney transplant	can be performed	using laparoscopic surgery
+kidney transplant	requires	careful matching of human leukocyte antigens (HLAs)
+kidney transplant	can result in	improved outcomes compared to dialysis
+kidney transplant	may be recommended	for individuals with end-stage renal disease (ESRD)
+kidney transplant	can improve	patient survival
+kidney transplant	can improve	quality of life
+kidney transplant	can improve	overall health outcomes
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can reduce	mortality risk
+kidney transplant	can reduce	hospital readmission rates
+kidney transplant	has a higher success rate	in individuals who are younger
+kidney transplant	has a higher success rate	in individuals without significant comorbidities
+kidney transplant	can be lifesaving	for individuals with kidney failure
+kidney transplant	requires	a rigorous screening process for potential donors
+kidney transplant	requires	careful evaluation of the recipient's medical history
+kidney transplant	can be a viable	long-term treatment option
+kidney transplant	can lead to	improved kidney function
+kidney transplant	can restore	kidney function
+kidney transplant	can result in	improved overall health
+kidney transplant	can improve	quality of life
+kidney transplant	can decrease	the need for dialysis
+kidney transplant	can increase	life expectancy
+kidney transplant	has a risk of	complications
+kidney transplant	has a risk of	organ rejection
+kidney transplant	has a risk of	infection
+kidney transplant	requires	lifelong immunosuppressant medication

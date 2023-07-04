@@ -1,0 +1,236 @@
+routine chest x-ray	is a	medical procedure
+routine chest x-ray	used for	screening
+routine chest x-ray	can detect	lung abnormalities
+routine chest x-ray	exposes	patient to radiation
+routine chest x-ray	is recommended for	smokers
+routine chest x-ray	may require	follow-up imaging
+routine chest x-ray	is commonly performed in	primary care settings
+routine chest x-ray	is non-invasive
+routine chest x-ray	can help diagnose	pneumonia
+routine chest x-ray	can identify	lung tumors
+routine chest x-ray	may show	enlarged heart
+routine chest x-ray	is not recommended for	pregnant women
+routine chest x-ray	is performed	by radiologists
+routine chest x-ray	can be ordered	by a physician
+routine chest x-ray	can be done	in a hospital
+routine chest x-ray	may show signs of	tuberculosis
+routine chest x-ray	provides	images of the chest
+routine chest x-ray	is typically done	in a standing position
+routine chest x-ray	may require	removal of jewelry
+routine chest x-ray	may reveal	fractured ribs
+routine chest x-ray	can detect signs of	lung infection
+routine chest x-ray	helps evaluate	heart size
+routine chest x-ray	can identify	lung nodules
+routine chest x-ray	may require	patient to hold their breath
+routine chest x-ray	can be interpreted by	a radiologist
+routine chest x-ray	may reveal	collapsed lung
+routine chest x-ray	is used to diagnose	chest trauma
+routine chest x-ray	can detect	pulmonary edema
+routine chest x-ray	may require	shielding for pregnant patients
+routine chest x-ray	can be done	in a mobile unit
+routine chest x-ray	is often part of	a pre-employment physical
+routine chest x-ray	is a common imaging test
+routine chest x-ray	may reveal	fluid in the lungs
+routine chest x-ray	allows visualization of	the heart
+routine chest x-ray	can identify	enlarged lymph nodes
+routine chest x-ray	is performed	using x-ray equipment
+routine chest x-ray	may require	multiple views
+routine chest x-ray	is useful for	evaluating pneumonia treatment response
+routine chest x-ray	can detect	lung cancer
+routine chest x-ray	may reveal	aortic aneurysm
+routine chest x-ray	is often the first imaging test for	respiratory symptoms
+routine chest x-ray	can identify	foreign objects in the lungs
+routine chest x-ray	may require	patient to wear a gown
+routine chest x-ray	can help diagnose	emphysema
+routine chest x-ray	may require	patient to remove clothing above the waist
+routine chest x-ray	is performed	in a radiology department
+routine chest x-ray	may show signs of	bronchitis
+routine chest x-ray	is a quick and painless procedure
+routine chest x-ray	can detect	rib fractures
+routine chest x-ray	is often requested by	primary care physicians
+routine chest x-ray	may require	patient to stand near the x-ray tube
+routine chest x-ray	is not always necessary for	respiratory symptoms
+routine chest x-ray	can identify	pleural effusion
+routine chest x-ray	may reveal	lung collapse
+routine chest x-ray	can help evaluate	tuberculosis treatment response
+routine chest x-ray	is commonly performed	on smokers
+routine chest x-ray	is typically performed	in a hospital setting
+routine chest x-ray	may require	patient to lie down
+routine chest x-ray	can detect	pneumonia in children
+routine chest x-ray	may show	lung inflammation
+routine chest x-ray	is a valuable tool for	diagnosing respiratory conditions
+routine chest x-ray	can identify	mediastinal masses
+routine chest x-ray	is an important diagnostic tool
+routine chest x-ray	may require	patient to hold their breath in different positions
+routine chest x-ray	can help evaluate	lung function
+routine chest x-ray	may reveal	pleural thickening
+routine chest x-ray	can detect	lung fibrosis
+routine chest x-ray	is commonly ordered	for occupational health assessments
+routine chest x-ray	may require	patient to remove jewelry and metallic objects
+routine chest x-ray	can detect	pulmonary embolism
+routine chest x-ray	helps assess	lung anatomy
+routine chest x-ray	may reveal	lung abscess
+routine chest x-ray	is used to diagnose	collapsed lung
+routine chest x-ray	can identify	pulmonary infiltrates
+routine chest x-ray	may require	patient to breathe in a specific way
+routine chest x-ray	is performed	by trained radiologic technologists
+routine chest x-ray	may show signs of	sarcoidosis
+routine chest x-ray	is an essential tool for	diagnosing respiratory infections
+routine chest x-ray	can detect	lung metastases
+routine chest x-ray	may reveal	pneumothorax
+routine chest x-ray	is often part of	a pre-operative evaluation
+routine chest x-ray	can identify	pulmonary hypertension
+routine chest x-ray	may require	patient to wear a lead apron
+routine chest x-ray	is commonly performed	in emergency departments
+routine chest x-ray	may require	patient to change into a gown
+routine chest x-ray	can detect	interstitial lung disease
+routine chest x-ray	helps evaluate	chest pain
+routine chest x-ray	may reveal	pulmonary edema
+routine chest x-ray	is used to diagnose	bronchial obstruction
+routine chest x-ray	can identify	lung cysts
+routine chest x-ray	may require	patient to remove any metal objects
+routine chest x-ray	is essential for	monitoring lung health
+routine chest x-ray	can detect	pleural effusion in heart failure
+routine chest x-ray	helps assess	rib fractures
+routine chest x-ray	may reveal	pulmonary tuberculosis
+routine chest x-ray	is commonly used	to evaluate respiratory symptoms
+routine chest x-ray	can identify	lung scarring
+routine chest x-ray	may require	patient to hold their breath for a few seconds
+routine chest x-ray	is performed	in outpatient clinics
+routine chest x-ray	may show signs of	pulmonary fibrosis
+routine chest x-ray	is often requested	for pre-surgical assessments
+routine chest x-ray	can detect	lung consolidation
+routine chest x-ray	provides	a snapshot of lung health
+routine chest x-ray	may reveal	lung masses
+routine chest x-ray	is useful for	monitoring progress of lung disease
+routine chest x-ray	can identify	pleural plaques
+routine chest x-ray	may require	patient to stand straight with arms raised
+routine chest x-ray	is commonly performed	in radiology clinics
+routine chest x-ray	may require	patient to remove clothing from the waist up
+routine chest x-ray	can detect	lung nodules
+routine chest x-ray	helps evaluate	chest trauma
+routine chest x-ray	may show signs of	pneumonia in elderly patients
+routine chest x-ray	is performed	in a standing position
+routine chest x-ray	may require	patient to lie down on a table
+routine chest x-ray	can identify	aortic aneurysm
+routine chest x-ray	is often the initial imaging test for	respiratory symptoms
+routine chest x-ray	can detect	foreign bodies in the lungs
+routine chest x-ray	may require	patient to sit or stand still during the procedure
+routine chest x-ray	is useful for	diagnosing lung diseases
+routine chest x-ray	can reveal signs of	lung infection
+routine chest x-ray	may show	abnormal heart size
+routine chest x-ray	is a standard test for	evaluating respiratory health
+routine chest x-ray	can identify	enlarged lymph nodes in the chest
+routine chest x-ray	is readily available	in most healthcare facilities
+routine chest x-ray	may require	patient to remove metal objects from the chest area
+routine chest x-ray	can detect	fluid in the lungs
+routine chest x-ray	helps visualize	the heart
+routine chest x-ray	may reveal	lung collapse due to trauma
+routine chest x-ray	is commonly used	to diagnose chest infections
+routine chest x-ray	may require	patient to stand against an x-ray machine
+routine chest x-ray	is not always necessary for	evaluating respiratory symptoms
+routine chest x-ray	can identify	pleural effusion in pneumonia
+routine chest x-ray	may show signs of	lung cancer
+routine chest x-ray	is typically performed	in a radiology department
+routine chest x-ray	may require	patient to breathe normally during the procedure
+routine chest x-ray	can detect	pneumonia in infants
+routine chest x-ray	may reveal	lung inflammation in asthma
+routine chest x-ray	is a common diagnostic tool
+routine chest x-ray	can help evaluate	tuberculosis treatment effectiveness
+routine chest x-ray	is commonly ordered	for occupational health screenings
+routine chest x-ray	may require	patient to hold their breath for a few seconds in different positions
+routine chest x-ray	can help assess	lung function in COPD
+routine chest x-ray	may reveal	pleural thickening in asbestos exposure
+routine chest x-ray	can detect	lung fibrosis in interstitial lung disease
+routine chest x-ray	is commonly performed	for pre-employment physicals
+routine chest x-ray	may require	patient to remove metal objects from the chest area
+routine chest x-ray	can detect	pulmonary embolism in certain cases
+routine chest x-ray	helps assess	lung anatomy and structure
+routine chest x-ray	may reveal	lung abscess in pneumonia
+routine chest x-ray	is used to diagnose	pneumothorax
+routine chest x-ray	can identify	pulmonary infiltrates in lung infections
+routine chest x-ray	may require	patient to hold their breath in different positions
+routine chest x-ray	is performed	by trained technicians
+routine chest x-ray	may show signs of	sarcoidosis in lung disease
+routine chest x-ray	is essential for	diagnosing respiratory conditions
+routine chest x-ray	can detect	lung metastases in cancer patients
+routine chest x-ray	may reveal	pneumothorax in trauma cases
+routine chest x-ray	is often part of	a pre-operative evaluation for chest surgery
+routine chest x-ray	can identify	pulmonary hypertension in heart disease
+routine chest x-ray	may require	patient to wear a lead apron for radiation protection
+routine chest x-ray	is commonly performed	in emergency departments for urgent cases
+routine chest x-ray	may require	patient to change into a gown for the procedure
+routine chest x-ray	can detect	interstitial lung disease in autoimmune conditions
+routine chest x-ray	helps evaluate	chest pain of unknown origin
+routine chest x-ray	may reveal	pulmonary edema in heart failure
+routine chest x-ray	is used to diagnose	bronchial obstruction in chronic bronchitis
+routine chest x-ray	can identify	lung cysts in congenital conditions
+routine chest x-ray	may require	patient to remove any metal objects from the chest area
+routine chest x-ray	is essential for	monitoring lung function in chronic respiratory diseases
+routine chest x-ray	can detect	pleural effusion in heart failure
+routine chest x-ray	helps assess	rib fractures in trauma cases
+routine chest x-ray	may reveal	pulmonary tuberculosis in high-risk individuals
+routine chest x-ray	is commonly used	to evaluate respiratory symptoms in outpatient settings
+routine chest x-ray	can identify	lung scarring in pulmonary fibrosis
+routine chest x-ray	may require	patient to hold their breath for a few seconds during the procedure
+routine chest x-ray	is performed	in radiology departments
+routine chest x-ray	may show signs of	pneumonia in elderly patients
+routine chest x-ray	is a non-invasive imaging test
+routine chest x-ray	can detect	rib fractures in trauma cases
+routine chest x-ray	is often requested	by primary care physicians for diagnostic purposes
+routine chest x-ray	may require	patient to stand near the x-ray tube for certain views
+routine chest x-ray	is not always necessary for	evaluating respiratory symptoms in young and healthy individuals
+routine chest x-ray	can identify	pleural effusion in heart failure patients
+routine chest x-ray	may reveal	lung collapse due to trauma or injury
+routine chest x-ray	is commonly used	to diagnose chest infections such as pneumonia
+routine chest x-ray	may require	patient to lie down on a table for certain views
+routine chest x-ray	can detect	pneumonia in infants and children
+routine chest x-ray	may show	lung inflammation in asthma or bronchitis
+routine chest x-ray	is a standard imaging tool for	diagnosing respiratory conditions
+routine chest x-ray	can help evaluate	effectiveness of tuberculosis treatment
+routine chest x-ray	is commonly ordered	for occupational health assessments in industries with exposure to respiratory hazards
+routine chest x-ray	may require	patient to hold their breath for a few seconds in different positions during the procedure
+routine chest x-ray	can help assess	lung function in chronic obstructive pulmonary disease
+routine chest x-ray	may reveal	pleural thickening in patients with asbestos exposure
+routine chest x-ray	can detect	lung fibrosis in interstitial lung diseases such as sarcoidosis
+routine chest x-ray	is commonly performed	for pre-employment physical examinations
+routine chest x-ray	may require	patient to remove metal objects from the chest area for radiation protection
+routine chest x-ray	can detect	pulmonary embolism in specific cases such as suspected deep vein thrombosis
+routine chest x-ray	helps assess	lung anatomy and structure in various conditions
+routine chest x-ray	may reveal	lung abscess in patients with pneumonia or sepsis
+routine chest x-ray	is used to diagnose	pneumothorax in trauma or lung diseases
+routine chest x-ray	can identify	pulmonary infiltrates in lung infections such as tuberculosis
+routine chest x-ray	may require	patient to hold their breath in different positions during the procedure
+routine chest x-ray	is performed	by trained technicians or radiology technologists
+routine chest x-ray	may show signs of	sarcoidosis in patients with systemic symptoms
+routine chest x-ray	is essential for	diagnosing respiratory conditions and guiding treatment decisions
+routine chest x-ray	can detect	lung metastases in cancer patients during staging
+routine chest x-ray	may reveal	pneumothorax in trauma cases or patients on mechanical ventilation
+routine chest x-ray	is often part of	a pre-operative evaluation for thoracic surgeries or procedures
+routine chest x-ray	can identify	pulmonary hypertension in patients with heart and lung diseases
+routine chest x-ray	may require	patient to wear a lead apron for radiation protection during the procedure
+routine chest x-ray	is commonly performed	in emergency departments for urgent cases requiring immediate assessment
+routine chest x-ray	may require	patient to change into a gown for the procedure to ensure clear images
+routine chest x-ray	can detect	interstitial lung disease in patients with autoimmune conditions such as rheumatoid arthritis
+routine chest x-ray	helps evaluate	chest pain of unknown origin and guide further diagnostic workup
+routine chest x-ray	may reveal	pulmonary edema in heart failure patients or those with fluid overload
+routine chest x-ray	is used to diagnose	bronchial obstruction in chronic bronchitis or foreign body aspiration
+routine chest x-ray	can identify	lung cysts in patients with congenital lung abnormalities
+routine chest x-ray	may require	patient to remove any metal objects from the chest area to avoid interference with imaging
+routine chest x-ray	is essential for	monitoring lung function and disease progression in patients with chronic respiratory diseases
+routine chest x-ray	can detect	pleural effusion in heart failure patients and guide treatment decisions
+routine chest x-ray	helps assess	rib fractures in trauma cases and guide management
+routine chest x-ray	may reveal	pulmonary tuberculosis in high-risk individuals with respiratory symptoms
+routine chest x-ray	is commonly used	to evaluate respiratory symptoms and guide further diagnostic workup in outpatient settings
+routine chest x-ray	can identify	lung scarring in patients with a history of lung infections or chronic lung diseases
+routine chest x-ray	may require	patient to hold their breath for a few seconds in different positions during the procedure to optimize image quality
+routine chest x-ray	is performed	in dedicated radiology departments with trained personnel
+routine chest x-ray	may show signs of	sarcoidosis in patients with granulomatous diseases and systemic involvement
+routine chest x-ray	is essential for	diagnosing and monitoring respiratory conditions in order to provide appropriate treatment
+routine chest x-ray	can detect	lung metastases in cancer patients and guide treatment decisions
+routine chest x-ray	may reveal	pneumothorax in trauma cases or patients with underlying lung disease
+routine chest x-ray	is often part of	a pre-operative evaluation for thoracic surgeries and interventions
+routine chest x-ray	can identify	pulmonary hypertension in patients with heart and lung diseases and guide management
+routine chest x-ray	may require	patient to wear a lead apron for radiation protection during the procedure
+routine chest x-ray	is commonly performed	in emergency departments for urgent cases requiring rapid evaluation
+routine chest x-ray	may require	patient to change into a gown to ensure accurate and clear images

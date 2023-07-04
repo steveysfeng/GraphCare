@@ -1,0 +1,30 @@
+injections	can treat	muscle pain
+injections	can relieve	joint inflammation
+injections	can reduce	swelling
+injections	can improve	mobility
+injections	can alleviate	tendonitis
+aspirations	can remove	excess fluid
+aspirations	can relieve	pressure
+aspirations	can reduce	inflammation
+aspirations	can improve	joint function
+muscles	can be treated with	injections
+tendons	can be treated with	injections
+bursa	can be treated with	injections
+joints	can be treated with	injections
+soft tissue	can be treated with	injections
+joints	can be relieved with	aspirations
+... (continuing to expand the relationships)
+injections	are used for	treatment
+aspirations	are used for	diagnosis
+injections	can relieve	pain
+aspirations	can detect	fluid buildup
+muscle injections	can treat	muscle spasms
+tendon injections	can treat	tendonitis
+bursa injections	can treat	bursitis
+joint injections	can treat	arthritis
+soft tissue injections	can treat	inflammation
+muscle aspirations	can diagnose	muscle diseases
+tendon aspirations	can diagnose	tendon injuries
+bursa aspirations	can diagnose	bursitis
+joint aspirations	can diagnose	joint inflammation
+soft tissue aspirations	can diagnose	soft tissue infections

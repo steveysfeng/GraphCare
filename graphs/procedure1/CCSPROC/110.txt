@@ -1,0 +1,198 @@
+other diagnostic procedures of urinary tract	are used for	diagnosis
+other diagnostic procedures of urinary tract	can detect	urinary tract infections
+intravenous pyelogram	is a type of	other diagnostic procedures of urinary tract
+intravenous pyelogram	can identify	kidney stones
+cystoscopy	is a type of	other diagnostic procedures of urinary tract
+cystoscopy	used for	visual examination of bladder
+cystoscopy	can detect	bladder tumors
+urethrogram	is a type of	other diagnostic procedures of urinary tract
+urethrogram	used for	assessing urethral structure
+urethrogram	can identify	urethral strictures
+renal ultrasound	is a type of	other diagnostic procedures of urinary tract
+renal ultrasound	used for	imaging of kidneys
+renal ultrasound	can detect	kidney stones
+CT urography	is a type of	other diagnostic procedures of urinary tract
+CT urography	used for	detailed imaging of urinary tract
+CT urography	can detect	urinary tract obstructions
+magnetic resonance urography	is a type of	other diagnostic procedures of urinary tract
+magnetic resonance urography	used for	detailed imaging of urinary tract
+magnetic resonance urography	can identify	urinary tract abnormalities
+cystogram	is a type of	other diagnostic procedures of urinary tract
+cystogram	used for	assessing bladder function
+cystogram	can detect	bladder prolapse
+urodynamics	is a type of	other diagnostic procedures of urinary tract
+urodynamics	used for	assessing bladder and urethra function
+urodynamics	can identify	urinary incontinence
+diagnostic procedures	are used for	urinary tract
+cystoscopy	is a type of	diagnostic procedure
+cystoscopy	used to	examine bladder
+cystoscopy	can identify	bladder tumors
+ultrasound	is a type of	diagnostic procedure
+ultrasound	used to	evaluate kidney stones
+ultrasound	can detect	urinary obstruction
+urodynamics	is a type of	diagnostic procedure
+urodynamics	used to	assess bladder function
+urodynamics	can diagnose	urinary incontinence
+intravenous pyelogram	is a type of	diagnostic procedure
+intravenous pyelogram	used to	visualize kidneys
+intravenous pyelogram	can detect	kidney stones
+retrograde pyelogram	is a type of	diagnostic procedure
+retrograde pyelogram	used to	diagnose ureteral obstruction
+retrograde pyelogram	can identify	urinary tract abnormalities
+magnetic resonance imaging (MRI)	is a type of	diagnostic procedure
+MRI	used to	assess renal masses
+MRI	can detect	renal cysts
+computed tomography (CT) scan	is a type of	diagnostic procedure
+CT scan	used to	evaluate urinary tract tumors
+CT scan	can detect	kidney stones
+nuclear medicine renal scan	is a type of	diagnostic procedure
+renal scan	used to	evaluate kidney function
+renal scan	can detect	urinary tract infection
+urethrogram	is a type of	diagnostic procedure
+urethrogram	used to	assess urethral abnormalities
+urethrogram	can diagnose	urethral strictures
+cystourethroscopy	is a type of	diagnostic procedure
+cystourethroscopy	used to	examine bladder and urethra
+cystourethroscopy	can detect	bladder stones
+urine cytology	is a type of	diagnostic procedure
+urine cytology	used to	detect cancer cells
+urine cytology	can diagnose	bladder cancer
+uroflowmetry	is a type of	diagnostic procedure
+uroflowmetry	used to	evaluate urinary flow
+uroflowmetry	can assess	bladder outlet obstruction
+glomerular filtration rate (GFR) measurement	is a type of	diagnostic procedure
+GFR measurement	used to	evaluate kidney function
+GFR measurement	can detect	chronic kidney disease
+cystogram	is a type of	diagnostic procedure
+cystogram	used to	evaluate bladder function
+cystogram	can diagnose	vesicoureteral reflux
+renal biopsy	is a type of	diagnostic procedure
+renal biopsy	used to	diagnose kidney diseases
+renal biopsy	can identify	glomerulonephritis
+ureteroscopy	is a type of	diagnostic procedure
+ureteroscopy	used to	examine ureters
+ureteroscopy	can detect	kidney stones
+urography	is a type of	diagnostic procedure
+urography	used to	visualize urinary tract
+urography	can identify	urinary tract abnormalities
+fluoroscopy	is a type of	diagnostic procedure
+fluoroscopy	used to	evaluate urinary system function
+fluoroscopy	can detect	urinary reflux
+cystometry	is a type of	diagnostic procedure
+cystometry	used to	assess bladder function
+cystometry	can diagnose	neurogenic bladder
+cytoscopy	is a type of	diagnostic procedure
+cytoscopy	used to	examine bladder and urethra
+cytoscopy	can detect	bladder stones
+ureteropyelography	is a type of	diagnostic procedure
+ureteropyelography	used to	evaluate upper urinary tract
+ureteropyelography	can diagnose	ureteral obstruction
+retrograde urethrogram	is a type of	diagnostic procedure
+retrograde urethrogram	used to	evaluate urethral abnormalities
+retrograde urethrogram	can detect	urethral strictures
+nephrostogram	is a type of	diagnostic procedure
+nephrostogram	used to	visualize kidneys
+nephrostogram	can identify	urinary tract abnormalities
+radionuclide cystogram	is a type of	diagnostic procedure
+radionuclide cystogram	used to	assess bladder function
+radionuclide cystogram	can diagnose	vesicoureteral reflux
+ureteral stent placement	is a type of	diagnostic procedure
+ureteral stent placement	used to	relieve ureteral obstruction
+ureteral stent placement	can treat	kidney stones
+renal angiography	is a type of	diagnostic procedure
+renal angiography	used to	evaluate blood supply to kidneys
+renal angiography	can detect	renal artery stenosis
+cystourethrogram	is a type of	diagnostic procedure
+cystourethrogram	used to	diagnose urethral abnormalities
+cystourethrogram	can detect	urethral strictures
+radionuclide renogram	is a type of	diagnostic procedure
+radionuclide renogram	used to	assess kidney function
+radionuclide renogram	can detect	renal artery stenosis
+percutaneous nephrostomy	is a type of	diagnostic procedure
+percutaneous nephrostomy	used to	drain urine from kidneys
+percutaneous nephrostomy	can treat	hydronephrosis
+other diagnostic procedures of urinary tract	are used for	diagnosing urinary tract infections
+urinary catheterization	is a type of	diagnostic procedures of urinary tract
+urinary catheterization	can detect	blockages in the urinary tract
+urinary catheterization	can cause	urinary tract infections
+urinary cytology	is a type of	diagnostic procedures of urinary tract
+urinary cytology	can detect	cancerous cells in the urinary tract
+urinary cytology	is used for	monitoring the effectiveness of cancer treatment
+cystoscopy	is a type of	diagnostic procedures of urinary tract
+cystoscopy	can detect	abnormalities in the bladder
+cystoscopy	is used for	diagnosing bladder conditions
+urodynamics	is a type of	diagnostic procedures of urinary tract
+urodynamics	measures	bladder and urethral function
+urodynamics	can diagnose	bladder dysfunction
+renal ultrasound	is a type of	diagnostic procedures of urinary tract
+renal ultrasound	can detect	kidney stones
+renal ultrasound	is used for	evaluating kidney function
+voiding cystourethrogram	is a type of	diagnostic procedures of urinary tract
+voiding cystourethrogram	can detect	abnormalities in the urinary tract
+voiding cystourethrogram	is used for	diagnosing urinary tract reflux
+magnetic resonance urography	is a type of	diagnostic procedures of urinary tract
+magnetic resonance urography	provides	detailed images of the urinary tract
+magnetic resonance urography	can detect	structural abnormalities in the urinary tract
+intravenous pyelogram	is a type of	diagnostic procedures of urinary tract
+intravenous pyelogram	can detect	blockages in the urinary tract
+intravenous pyelogram	is used for	diagnosing kidney and urinary tract disorders
+urethrography	is a type of	diagnostic procedures of urinary tract
+urethrography	can detect	abnormalities in the urethra
+urethrography	is used for	diagnosing urethral strictures
+cystourethrography	is a type of	diagnostic procedures of urinary tract
+cystourethrography	can detect	abnormalities in the bladder and urethra
+cystourethrography	is used for	diagnosing urinary incontinence
+bladder scan	is a type of	diagnostic procedures of urinary tract
+bladder scan	measures	urine retention in the bladder
+bladder scan	is used for	assessing bladder function
+urine culture	is a type of	diagnostic procedures of urinary tract
+urine culture	can detect	urinary tract infections
+urine culture	is used for	selecting appropriate antibiotics
+urinary tract x-ray	is a type of	diagnostic procedures of urinary tract
+urinary tract x-ray	can detect	abnormalities in the urinary tract
+urinary tract x-ray	is used for	evaluating urinary tract obstructions
+ureteroscopy	is a type of	diagnostic procedures of urinary tract
+ureteroscopy	is used for	visualizing and treating conditions in the ureter
+ureteroscopy	can detect	kidney stones
+urine cytology	is a type of	diagnostic procedures of urinary tract
+urine cytology	can detect	cancerous cells in the urinary tract
+urine cytology	is used for	diagnosing bladder cancer
+voiding uroflowmetry	is a type of	diagnostic procedures of urinary tract
+voiding uroflowmetry	measures	urine flow rate
+voiding uroflowmetry	is used for	evaluating urinary tract obstruction
+cystometry	is a type of	diagnostic procedures of urinary tract
+cystometry	measures	bladder pressure and function
+cystometry	can diagnose	bladder dysfunction
+retrograde urethrogram	is a type of	diagnostic procedures of urinary tract
+retrograde urethrogram	can detect	abnormalities in the urethra
+retrograde urethrogram	is used for	diagnosing urethral strictures
+urethral pressure profile	is a type of	diagnostic procedures of urinary tract
+urethral pressure profile	measures	urethral pressure and function
+urethral pressure profile	is used for	diagnosing urethral dysfunction
+intravenous urogram	is a type of	diagnostic procedures of urinary tract
+intravenous urogram	provides	detailed images of the urinary tract
+intravenous urogram	can detect	blockages or abnormalities in the urinary tract
+cystogram	is a type of	diagnostic procedures of urinary tract
+cystogram	can detect	abnormalities in the bladder
+cystogram	is used for	evaluating bladder function
+percutaneous nephrostomy	is a type of	diagnostic procedures of urinary tract
+percutaneous nephrostomy	can detect	blockages in the urinary tract
+percutaneous nephrostomy	is used for	draining urine from the kidney
+kidney biopsy	is a type of	diagnostic procedures of the urinary tract
+kidney biopsy	can detect	kidney diseases
+kidney biopsy	is used for	diagnosing and evaluating kidney conditions
+bladder biopsy	is a type of	diagnostic procedures of the urinary tract
+bladder biopsy	can detect	bladder cancer or other abnormalities
+bladder biopsy	is used for	diagnosing and evaluating bladder conditions
+ureteral stenting	is a type of	diagnostic procedures of the urinary tract
+ureteral stenting	can detect	blockages in the urinary tract
+ureteral stenting	is used for	relieving urinary obstruction
+renal scintigraphy	is a type of	diagnostic procedures of the urinary tract
+renal scintigraphy	measures	kidney function
+renal scintigraphy	is used for	diagnosing kidney conditions
+urinary incontinence testing	is a type of	diagnostic procedures of the urinary tract
+urinary incontinence testing	assesses	bladder control and function
+urinary incontinence testing	is used for	diagnosing and evaluating urinary incontinence
+bladder pressure testing	is a type of	diagnostic procedures of the urinary tract
+bladder pressure testing	measures	bladder pressure and function
+bladder pressure testing	is used for	diagnosing and evaluating bladder conditions

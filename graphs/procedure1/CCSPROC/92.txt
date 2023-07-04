@@ -1,0 +1,14 @@
+bowel diagnostic procedures	is a	medical procedure
+bowel diagnostic procedures	used for	diagnosis
+colonoscopy	is a type of	bowel diagnostic procedures
+colonoscopy	can detect	polyps
+sigmoidoscopy	is a type of	bowel diagnostic procedures
+sigmoidoscopy	can detect	inflammation
+CT scan	is a type of	bowel diagnostic procedures
+CT scan	can detect	tumors
+MRI	is a type of	bowel diagnostic procedures
+MRI	can detect	abnormalities
+barium enema	is a type of	bowel diagnostic procedures
+barium enema	can detect	blockages
+virtual colonoscopy	is a type of	bowel diagnostic procedures
+virtual colonoscopy	can detect	polyps

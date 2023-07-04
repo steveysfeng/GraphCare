@@ -1,0 +1,223 @@
+other operations on ovary	are types of	surgical procedures
+other operations on ovary	can be performed for	ovarian cysts
+ovarian cystectomy	is a type of	other operations on ovary
+ovarian cystectomy	is used to	remove ovarian cysts
+ovarian cystectomy	can be performed through	laparoscopy
+laparoscopic surgery	is a type of	surgical procedure
+laparoscopic surgery	uses	small incisions
+laparoscopic surgery	is minimally invasive
+ovariotomy	is a type of	other operations on ovary
+ovariotomy	is used to	remove part of the ovary
+ovariotomy	can be performed as	open surgery
+open surgery	is a type of	surgical procedure
+open surgery	uses	large incisions
+other operations on ovary	can be performed to	address ovarian tumors
+ovariectomy	is a type of	other operations on ovary
+ovariectomy	is used to	remove the entire ovary
+ovariectomy	can be performed through	laparotomy
+laparotomy	is a type of	surgical procedure
+laparotomy	uses	large incisions
+other operations on ovary	can be performed to	address ovarian cancer
+other operations on ovary	can be performed to	address ovarian torsion
+ovarian detorsion	is a type of	other operations on ovary
+ovarian detorsion	is used to	untwist the ovary
+ovarian detorsion	can be performed through	laparoscopy
+ovarian detorsion	can be performed through	laparotomy
+other operations on ovary	can be performed to	address endometriomas
+cystectomy	is a type of	other operations on ovary
+cystectomy	is used to	remove ovarian cysts
+cystectomy	can be performed through	laparoscopy
+cystectomy	can be performed through	laparotomy
+other operations on ovary	can be performed to	address poly cystic ovarian syndrome
+ovarian drilling	is a type of	other operations on ovary
+ovarian drilling	is used to	stimulate ovulation
+ovarian drilling	can be performed through	laparoscopy
+ovarian drilling	can be performed through	laparotomy
+other operations on ovary	can be performed to	address tubo-ovarian abscess
+ovarian abscess drainage	is a type of	other operations on ovary
+ovarian abscess drainage	is used to	drain infected fluid
+ovarian abscess drainage	can be performed through	laparoscopy
+ovarian abscess drainage	can be performed through	laparotomy
+other operations on ovary	can be performed to	address ovarian remnant syndrome
+ovarian remnant removal	is a type of	other operations on ovary
+ovarian remnant removal	is used to	remove ovarian tissue remnants
+ovarian remnant removal	can be performed through	laparoscopy
+ovarian remnant removal	can be performed through	laparotomy
+other operations on ovary	can be performed to	address ovarian hyperstimulation syndrome
+ovarian cyst fenestration	is a type of	other operations on ovary
+ovarian cyst fenestration	is used to	drain ovarian cysts
+ovarian cyst fenestration	can be performed through	laparoscopy
+ovarian cyst fenestration	can be performed through	laparotomy
+other operations on ovary	can be performed to	address ovarian torsion in pregnancy
+laparoscopic oophoropexy	is a type of	other operations on ovary
+laparoscopic oophoropexy	is used to	prevent future ovarian torsion
+laparoscopic oophoropexy	can be performed through	laparoscopy
+ovarian drilling	can be performed through	laparotomy
+other operations on ovary	can be performed to	address ovarian torsion in children
+laparoscopic oophoropexy	can be performed to	prevent future ovarian torsion in children
+laparoscopic oophoropexy	can be performed through	laparoscopy
+ovarian drilling	can be performed through	laparotomy
+other operations on ovary	are	surgical procedures
+other operations on ovary	performed for	ovarian conditions
+ovarian cystectomy	is a type of	other operations on ovary
+ovarian cystectomy	used to treat	ovarian cysts
+ovarian cystectomy	can be performed via	laparoscopy
+laparoscopy	is a type of	surgical procedure
+laparoscopy	uses	small incisions
+laparoscopy	allows for	quicker recovery
+laparoscopy	associated with	lower risk of complications
+ovarian cystectomy	may result in	temporary infertility
+ovarian cystectomy	can reduce	ovarian cancer risk
+ovarian cystectomy	may require	general anesthesia
+general anesthesia	is a	medical procedure
+general anesthesia	used during	surgeries
+general anesthesia	induces	unconsciousness
+general anesthesia	managed by	anesthesiologist
+anesthesiologist	is a	healthcare professional
+anesthesiologist	specializes in	anesthesia administration
+anesthesiologist	works closely with	surgeon
+anesthesiologist	monitors	patient's vital signs
+ovarian cystectomy	can be performed	laparotomy
+laparotomy	is a type of	surgical procedure
+laparotomy	uses	larger incisions
+laparotomy	associated with	longer recovery time
+laparotomy	may result in	higher risk of complications
+ovarian cystectomy	may require	blood transfusion
+blood transfusion	is a	medical procedure
+blood transfusion	used to replenish	blood loss
+blood transfusion	performed by	nurses
+blood transfusion	monitored by	hematologist
+hematologist	is a	medical specialist
+hematologist	treats	blood disorders
+hematologist	orders	blood tests
+ovarian cystectomy	may cause	pain
+pain	is a	symptom
+pain	managed with	analgesics
+analgesics	are	medications
+analgesics	reduce	pain
+analgesics	prescribed by	physician
+ovarian cystectomy	can result in	scarring
+scarring	is a	complication
+scarring	can cause	adhesions
+adhesions	are	abnormal tissue connections
+adhesions	may lead to	pain
+adhesions	may cause	infertility
+ovarian cystectomy	may require	hospitalization
+hospitalization	is a	medical procedure
+hospitalization	necessary for	post-operative care
+hospitalization	managed by	nursing staff
+hospitalization	provides	24/7 medical supervision
+ovarian cystectomy	associated with	risk of infection
+infection	is a	complication
+infection	can occur	at surgical site
+infection	treated with	antibiotics
+antibiotics	are	medications
+antibiotics	inhibit	bacterial growth
+antibiotics	prescribed by	infectious disease specialist
+infectious disease specialist	is a	medical specialist
+infectious disease specialist	treats	infectious diseases
+infectious disease specialist	may perform	diagnostic tests
+ovarian cystectomy	carries	risk of bleeding
+bleeding	is a	complication
+bleeding	treated with	hemostatic agents
+hemostatic agents	are	medications
+hemostatic agents	promote	blood clotting
+hemostatic agents	administered by	healthcare professionals
+healthcare professionals	include	nurses
+healthcare professionals	include	physicians
+healthcare professionals	include	surgeons
+healthcare professionals	include	anesthesiologists
+ovarian cystectomy	requires	pre-operative evaluation
+pre-operative evaluation	is a	medical assessment
+pre-operative evaluation	helps determine	surgical suitability
+pre-operative evaluation	includes	physical examination
+pre-operative evaluation	includes	laboratory tests
+laboratory tests	are	diagnostic tests
+laboratory tests	provide	information about patient's health
+laboratory tests	include	complete blood count
+laboratory tests	include	blood chemistry panel
+ovarian cystectomy	may be performed	bilaterally
+bilateral ovarian cystectomy	is a type of	ovarian surgery
+bilateral ovarian cystectomy	involves	removal of both ovaries
+bilateral ovarian cystectomy	may cause	menopausal symptoms
+menopausal symptoms	include	hot flashes
+menopausal symptoms	include	vaginal dryness
+menopausal symptoms	managed with	hormone replacement therapy
+hormone replacement therapy	is a	medical treatment
+hormone replacement therapy	involves	administration of hormones
+hormone replacement therapy	prescribed by	gynecologist
+ovarian cystectomy	is a type of	operation
+ovarian cystectomy	removes	ovarian cysts
+ovarian cyst	can cause	pain
+ovarian cyst	can lead to	infertility
+ovarian cystectomy	can improve	fertility
+ovarian cystectomy	may be performed	laparoscopically
+laparoscopic surgery	requires	small incisions
+laparoscopic surgery	results in	shorter recovery time
+laparoscopic surgery	reduces	risk of infection
+laparoscopic surgery	can leave	less visible scars
+ovarian cystectomy	has risks	such as bleeding
+ovarian cystectomy	can be performed	under general anesthesia
+general anesthesia	induces	unconsciousness
+general anesthesia	requires	careful monitoring
+general anesthesia	carries	potential risks
+general anesthesia	is administered	by an anesthesiologist
+anesthesiologist	specializes in	anesthesia
+anesthesiologist	plays a crucial role	in surgery
+ovarian cystectomy	may require	post-operative pain management
+post-operative pain management	involves	medication
+post-operative pain management	aims to	relieve pain
+post-operative pain management	can have	side effects
+ovarian cystectomy	may require	hospitalization
+hospitalization	involves	staying in a hospital
+hospitalization	provides	round-the-clock care
+hospitalization	can be costly
+hospitalization	may be necessary	for monitoring
+ovarian cystectomy	may have	long-term effects
+long-term effects	can include	scar tissue formation
+long-term effects	can impact	fertility
+ovarian cystectomy	may require	follow-up appointments
+follow-up appointments	are important	for monitoring recovery
+follow-up appointments	allow	addressing any concerns
+ovarian cystectomy	may have	benefits
+ovarian cystectomy	can improve	quality of life
+ovarian cystectomy	may prevent	complications
+ovarian cystectomy	may be recommended	for large cysts
+large cysts	can cause	more severe symptoms
+large cysts	have	higher risk of rupture
+ovarian cystectomy	may be performed	as a preventive measure
+ovarian cystectomy	can be performed	robotically
+robotic surgery	uses	robotic arms
+robotic surgery	provides	enhanced precision
+robotic surgery	requires	specialized training
+ovarian cystectomy	carries	risks of complications
+complications	can include	infection
+complications	can require	additional treatment
+complications	can prolong	recovery
+ovarian cystectomy	requires	a skilled surgeon
+skilled surgeon	has experience	in ovarian surgery
+skilled surgeon	may be recommended	for complex cases
+ovarian cystectomy	may be performed	in conjunction with other procedures
+ovarian cystectomy	can be combined	with hysterectomy
+hysterectomy	involves	removal of the uterus
+hysterectomy	can impact	hormonal balance
+hysterectomy	requires	careful consideration
+hysterectomy	may be recommended	for certain conditions
+ovarian cystectomy	may be performed	during exploratory surgery
+exploratory surgery	is used	to diagnose conditions
+exploratory surgery	involves	examining the abdominal cavity
+exploratory surgery	can provide	valuable information
+ovarian cystectomy	may be recommended	based on symptom severity
+ovarian cystectomy	is considered	a major surgery
+ovarian cystectomy	should be	evaluated on a case-by-case basis
+ovarian cystectomy	has	potential risks
+ovarian cystectomy	requires	informed consent
+informed consent	ensures	patient understanding
+informed consent	is obtained	prior to surgery
+ovarian cystectomy	may require	preoperative tests
+preoperative tests	assess	overall health
+preoperative tests	help	plan the surgery
+ovarian cystectomy	may be an option	for recurrent cysts
+recurrent cysts	can cause	persistent symptoms
+ovarian cystectomy	is one	treatment option
+ovarian cystectomy	should be	considered alongside other options

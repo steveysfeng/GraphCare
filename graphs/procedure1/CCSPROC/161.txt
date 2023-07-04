@@ -1,0 +1,180 @@
+other or therapeutic procedures on bone	are	medical procedures
+other or therapeutic procedures on bone	used for	treating bone conditions
+bone grafting	is a type of	other or therapeutic procedures on bone
+bone grafting	used for	promoting bone growth
+joint replacement	is a type of	other or therapeutic procedures on bone
+joint replacement	used for	treating joint pain
+osteotomy	is a type of	other or therapeutic procedures on bone
+osteotomy	used for	correcting bone deformities
+bone fusion	is a type of	other or therapeutic procedures on bone
+bone fusion	used for	stabilizing bones
+external fixation	is a type of	other or therapeutic procedures on bone
+external fixation	used for	immobilizing fractures
+internal fixation	is a type of	other or therapeutic procedures on bone
+internal fixation	used for	stabilizing bone fractures
+bone resection	is a type of	other or therapeutic procedures on bone
+bone resection	used for	removing tumors
+bone drilling	is a type of	other or therapeutic procedures on bone
+bone drilling	used for	creating holes for screws or wires
+bone grafting	involves	taking bone from another part of the body
+bone grafting	can be	autograft or allograft
+joint replacement	may involve	metal or plastic prostheses
+joint replacement	requires	extensive rehabilitation
+osteotomy	may involve	cutting or reshaping bones
+osteotomy	may be	open or minimally invasive
+bone fusion	involves	joining two bones together
+bone fusion	requires	bone grafts or implants
+external fixation	uses	pins or screws to hold bones in place
+external fixation	can be	temporary or permanent
+internal fixation	uses	metal plates or screws to hold bones in place
+internal fixation	can be	used with bone grafts
+bone resection	involves	removal of part of a bone
+bone resection	may require	reconstruction with bone grafts
+bone drilling	is often	performed with a drill or burr
+bone drilling	may be	combined with bone grafting
+other procedures	can treat	fractures
+bone grafting	is a type of	therapeutic procedure on bone
+bone grafting	can be used for	bone regeneration
+brace	is a type of	therapeutic procedure on bone
+brace	can be used for	immobilization
+arthroscopy	is a type of	therapeutic procedure on bone
+arthroscopy	can be used for	joint repair
+joint replacement	is a type of	therapeutic procedure on bone
+joint replacement	can be used for	osteoarthritis treatment
+osteotomy	is a type of	therapeutic procedure on bone
+osteotomy	can be used for	correcting bone deformities
+external fixation	is a type of	therapeutic procedure on bone
+external fixation	can be used for	stabilizing fractures
+internal fixation	is a type of	therapeutic procedure on bone
+internal fixation	can be used for	fracture repair
+spinal fusion	is a type of	therapeutic procedure on bone
+spinal fusion	can be used for	treating spinal conditions
+ankle fusion	is a type of	therapeutic procedure on bone
+ankle fusion	can be used for	treating arthritis in the ankle
+hip replacement	is a type of	therapeutic procedure on bone
+hip replacement	can be used for	treating hip arthritis
+knee replacement	is a type of	therapeutic procedure on bone
+knee replacement	can be used for	treating knee arthritis
+joint aspiration	is a type of	therapeutic procedure on bone
+joint aspiration	can be used for	analyzing joint fluid
+tenotomy	is a type of	therapeutic procedure on bone
+tenotomy	can be used for	treating tendon injuries
+bunion surgery	is a type of	therapeutic procedure on bone
+bunion surgery	can be used for	correcting foot deformities
+limb lengthening	is a type of	therapeutic procedure on bone
+limb lengthening	can be used for	correcting limb length disparities
+fracture reduction	is a type of	therapeutic procedure on bone
+fracture reduction	can be used for	aligning broken bones
+bone resurfacing	is a type of	therapeutic procedure on bone
+bone resurfacing	can be used for	repairing damaged bone surfaces
+percutaneous vertebroplasty	is a type of	therapeutic procedure on bone
+percutaneous vertebroplasty	can be used for	stabilizing vertebral fractures
+bone biopsy	is a type of	therapeutic procedure on bone
+bone biopsy	can be used for	diagnosing bone diseases
+kirschner wire fixation	is a type of	therapeutic procedure on bone
+kirschner wire fixation	can be used for	fixing bone fractures
+cervical fusion	is a type of	therapeutic procedure on bone
+cervical fusion	can be used for	treating cervical spine conditions
+ulnar nerve transposition	is a type of	therapeutic procedure on bone
+ulnar nerve transposition	can be used for	relieving ulnar nerve compression
+shoulder arthroplasty	is a type of	therapeutic procedure on bone
+shoulder arthroplasty	can be used for	treating shoulder arthritis
+elbow arthroplasty	is a type of	therapeutic procedure on bone
+elbow arthroplasty	can be used for	treating elbow arthritis
+ankle arthroplasty	is a type of	therapeutic procedure on bone
+ankle arthroplasty	can be used for	treating ankle arthritis
+shoulder resurfacing	is a type of	therapeutic procedure on bone
+shoulder resurfacing	can be used for	repairing damaged shoulder bone surfaces
+tibial osteotomy	is a type of	therapeutic procedure on bone
+tibial osteotomy	can be used for	correcting knee alignment
+endoscopic carpal tunnel release	is a type of	therapeutic procedure on bone
+endoscopic carpal tunnel release	can be used for	relieving carpal tunnel syndrome
+spinal cord stimulation	is a type of	therapeutic procedure on bone
+spinal cord stimulation	can be used for	managing chronic pain
+bone stimulation	is a type of	therapeutic procedure on bone
+bone stimulation	can be used for	promoting bone healing
+amputation	is a type of	therapeutic procedure on bone
+amputation	can be used for	removing diseased limbs
+joint debridement	is a type of	therapeutic procedure on bone
+joint debridement	can be used for	removing damaged tissues from joints
+radial head replacement	is a type of	therapeutic procedure on bone
+radial head replacement	can be used for	treating radial head fractures
+limb salvage	is a type of	therapeutic procedure on bone
+limb salvage	can be used for	preserving a limb threatened by disease or injury
+external fixation removal	is a type of	therapeutic procedure on bone
+external fixation removal	can be used for	removing external fixation devices
+internal fixation removal	is a type of	therapeutic procedure on bone
+internal fixation removal	can be used for	removing internal fixation devices
+bone resection	is a type of	therapeutic procedure on bone
+bone resection	can be used for	removing bone tumors
+bone marrow aspiration	is a type of	therapeutic procedure on bone
+bone marrow aspiration	can be used for	collecting bone marrow samples
+laminectomy	is a type of	therapeutic procedure on bone
+laminectomy	can be used for	removing a portion of the vertebral bone
+bone cyst aspiration	is a type of	therapeutic procedure on bone
+bone cyst aspiration	can be used for	draining bone cysts
+cortical screw fixation	is a type of	therapeutic procedure on bone
+cortical screw fixation	can be used for	stabilizing bone fractures
+osteochondral transplantation	is a type of	therapeutic procedure on bone
+osteochondral transplantation	can be used for	repairing cartilage defects in joints
+bone realignment	is a type of	therapeutic procedure on bone
+bone realignment	can be used for	correcting misaligned bones
+radial head arthroplasty	is a type of	therapeutic procedure on bone
+radial head arthroplasty	can be used for	treating radial head fractures
+calcaneal osteotomy	is a type of	therapeutic procedure on bone
+calcaneal osteotomy	can be used for	correcting foot deformities in the heel
+lumbar spinal fusion	is a type of	therapeutic procedure on bone
+lumbar spinal fusion	can be used for	treating lumbar spine conditions
+intervertebral disk arthroplasty	is a type of	therapeutic procedure on bone
+intervertebral disk arthroplasty	can be used for	replacing a damaged intervertebral disk
+bone fixation	is a type of	therapeutic procedure on bone
+bone fixation	can be used for	stabilizing fractures or bones
+muscle biopsy	is a type of	therapeutic procedure on bone
+muscle biopsy	can be used for	analyzing muscle tissue
+spinal decompression	is a type of	therapeutic procedure on bone
+spinal decompression	can be used for	relieving pressure on spinal nerves
+knee arthroscopy	is a type of	therapeutic procedure on bone
+knee arthroscopy	can be used for	diagnosing and treating knee conditions
+hip arthroscopy	is a type of	therapeutic procedure on bone
+hip arthroscopy	can be used for	diagnosing and treating hip conditions
+electroconvulsive therapy	is a type of	therapeutic procedure on bone
+electroconvulsive therapy	can be used for	treating severe depression
+spinal cord surgery	is a type of	therapeutic procedure on bone
+spinal cord surgery	can be used for	treating spinal cord injuries
+radius osteotomy	is a type of	therapeutic procedure on bone
+radius osteotomy	can be used for	correcting forearm bone alignment
+tumor excision	is a type of	therapeutic procedure on bone
+tumor excision	can be used for	removing bone tumors
+pelvic osteotomy	is a type of	therapeutic procedure on bone
+pelvic osteotomy	can be used for	correcting pelvic bone deformities
+craniotomy	is a type of	therapeutic procedure on bone
+craniotomy	can be used for	accessing the brain for surgery
+bone marrow transplant	is a type of	therapeutic procedure on bone
+bone marrow transplant	can be used for	treating certain types of cancers and disorders
+bone screws	are used in	therapeutic procedures on bone
+bone screws	can help with	bone fixation
+bone plates	are used in	therapeutic procedures on bone
+bone plates	can help with	bone stabilization
+bone cement	is used in	therapeutic procedures on bone
+bone cement	can help with	stabilizing prosthetic implants
+bone grafts	are used in	therapeutic procedures on bone
+bone grafts	can help with	bone regeneration
+prosthetic joints	are used in	therapeutic procedures on bone
+prosthetic joints	can help with	joint replacement
+bone spurs	can cause	bone impingement
+bone spurs	can lead to	joint pain
+bone spurs	are associated with	osteoarthritis
+bone infections	can occur after	therapeutic procedures on bone
+bone infections	can lead to	osteomyelitis
+bone infections	are treated with	antibiotics
+bone fractures	can occur during	therapeutic procedures on bone
+bone fractures	can result from	trauma or stress
+bone fractures	are treated with	fracture reduction and stabilization
+osteoporosis	can increase the risk of	bone fractures
+osteoporosis	is treated with	medications
+osteoporosis	is associated with	bone density loss
+cancer	can affect	bone health
+cancer	can lead to	bone metastasis
+cancer	is treated with	chemotherapy
+arthritis	can cause	joint pain
+arthritis	is treated with	medication and therapy

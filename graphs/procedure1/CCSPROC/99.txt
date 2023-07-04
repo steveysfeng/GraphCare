@@ -1,0 +1,56 @@
+other procedures	are	medical procedures
+gastrointestinal therapeutic procedures	are	medical procedures
+gastrointestinal therapeutic procedures	used for	treatment
+other procedures	used for	treatment
+other procedures	used for	diagnosis
+gastrointestinal therapeutic procedures	used for	diagnosis
+gastrointestinal therapeutic procedures	treat	gastrointestinal conditions
+other procedures	treat	gastrointestinal conditions
+gastrointestinal therapeutic procedures	treat	digestive disorders
+other procedures	treat	digestive disorders
+gastrointestinal therapeutic procedures	treat	stomach problems
+other procedures	treat	stomach problems
+gastrointestinal therapeutic procedures	treat	esophagus problems
+other procedures	treat	esophagus problems
+gastrointestinal therapeutic procedures	treat	intestine problems
+other procedures	treat	intestine problems
+gastrointestinal therapeutic procedures	treat	colon problems
+other procedures	treat	colon problems
+gastrointestinal therapeutic procedures	treat	liver problems
+other procedures	treat	liver problems
+gastrointestinal therapeutic procedures	treat	pancreas problems
+other procedures	treat	pancreas problems
+gastrointestinal therapeutic procedures	treat	gallbladder problems
+other procedures	treat	gallbladder problems
+gastrointestinal therapeutic procedures	treat	appendix problems
+other procedures	treat	appendix problems
+gastrointestinal therapeutic procedures	treat	rectum problems
+other procedures	treat	rectum problems
+gastrointestinal therapeutic procedures	treat	anus problems
+other procedures	treat	anus problems
+gastrointestinal therapeutic procedures	used for	symptom relief
+other procedures	used for	symptom relief
+gastrointestinal therapeutic procedures	relieve	pain
+other procedures	relieve	pain
+gastrointestinal therapeutic procedures	relieve	inflammation
+other procedures	relieve	inflammation
+gastrointestinal therapeutic procedures	relieve	bleeding
+other procedures	relieve	bleeding
+gastrointestinal therapeutic procedures	used for	narrowing of the intestine
+gastrointestinal therapeutic procedures	used for	narrowing of the esophagus
+gastrointestinal therapeutic procedures	used for	narrowing of the stomach
+gastrointestinal therapeutic procedures	used for	narrowing of the colon
+gastrointestinal therapeutic procedures	used for	narrowing of the liver
+gastrointestinal therapeutic procedures	used for	narrowing of the pancreas
+gastrointestinal therapeutic procedures	used for	narrowing of the gallbladder
+gastrointestinal therapeutic procedures	used for	narrowing of the appendix
+gastrointestinal therapeutic procedures	used for	narrowing of the rectum
+gastrointestinal therapeutic procedures	used for	narrowing of the anus
+gastrointestinal therapeutic procedures	used for	digestive system repair
+other procedures	used for	digestive system repair
+gastrointestinal therapeutic procedures	used for	removal of tumors
+other procedures	used for	removal of tumors
+gastrointestinal therapeutic procedures	used for	removal of polyps
+other procedures	used for	removal of polyps
+gastrointestinal therapeutic procedures	used for	removal of foreign bodies
+other procedures	used for	removal of foreign bodies

@@ -1,0 +1,160 @@
+transurethral excision	is a	medical procedure
+transurethral excision	used for	removal urinary obstruction
+transurethral excision	can be performed using	endoscope
+endoscope	is a	medical instrument
+removal urinary obstruction	can be achieved by	drainage
+drainage	is a	medical procedure
+drainage	used for	relieving pressure
+drainage	can be achieved by	inserting catheter
+catheter	is a	medical device
+inserting catheter	can provide	temporary relief
+transurethral excision	can be followed by	catheterization
+catheterization	is a	medical procedure
+catheterization	used for	maintaining urine flow
+catheterization	can lead to	urinary tract infection
+urinary tract infection	is a	medical condition
+urinary tract infection	can be caused by	catheterization
+transurethral excision	can cause	bleeding
+bleeding	is a	medical condition
+bleeding	can be managed by	blood transfusion
+blood transfusion	is a	medical procedure
+blood transfusion	used for	replacing lost blood
+blood transfusion	can transmit	bloodborne infections
+bloodborne infections	are	medical conditions
+transurethral excision	can result in	urinary incontinence
+urinary incontinence	is a	medical condition
+urinary incontinence	can be managed with	medication
+medication	is a	medical treatment
+medication	used for	controlling symptoms
+medication	can have	side effects
+side effects	are	medical conditions
+transurethral excision	can be performed under	anesthesia
+anesthesia	is a	medical procedure
+anesthesia	used for	pain management
+anesthesia	can have	risks
+risks	are	medical conditions
+transurethral excision	can lead to	reobstruction
+reobstruction	is a	medical condition
+reobstruction	can require	repeat surgery
+repeat surgery	is a	medical procedure
+repeat surgery	used for	clearing obstruction
+repeat surgery	can have	complications
+complications	are	medical conditions
+transurethral excision	can increase risk of	urinary tract injury
+urinary tract injury	is a	medical condition
+urinary tract injury	can require	surgical repair
+surgical repair	is a	medical procedure
+surgical repair	used for	restoring normal function
+surgical repair	can have	long recovery time
+long recovery time	is a	medical condition
+transurethral excision	can lead to	postoperative pain
+postoperative pain	is a	medical condition
+postoperative pain	can be managed with	pain medication
+pain medication	is a	medical treatment
+pain medication	used for	pain relief
+pain medication	can cause	addiction
+addiction	is a	medical condition
+transurethral excision	can result in	scarring
+scarring	is a	medical condition
+scarring	can lead to	urinary flow restriction
+urinary flow restriction	is a	medical condition
+urinary flow restriction	can require	further treatment
+further treatment	is a	medical procedure
+further treatment	used for	improving urinary flow
+further treatment	can have	limited success
+limited success	is a	medical condition
+transurethral excision	can cause	erectile dysfunction
+erectile dysfunction	is a	medical condition
+erectile dysfunction	can be treated with	medication
+medication	is a	medical treatment
+medication	used for	improving sexual function
+medication	can have	adverse effects
+adverse effects	are	medical conditions
+transurethral excision	can lead to	bladder perforation
+bladder perforation	is a	medical condition
+bladder perforation	can require	surgical repair
+surgical repair	is a	medical procedure
+surgical repair	used for	closing the perforation
+surgical repair	can result in	infection
+infection	is a	medical condition
+infection	can be treated with	antibiotics
+antibiotics	are	medical treatments
+antibiotics	used for	killing bacteria
+antibiotics	can cause	allergic reactions
+allergic reactions	are	medical conditions
+transurethral excision	is a	medical procedure
+transurethral excision	used for	treating urinary obstruction
+transurethral excision	can remove	urinary obstruction
+transurethral drainage	is a	medical procedure
+transurethral drainage	used for	draining urinary obstruction
+transurethral drainage	can relieve	urinary obstruction
+transurethral removal	is a	medical procedure
+transurethral removal	used for	removing urinary obstruction
+transurethral removal	can eliminate	urinary obstruction
+urinary obstruction	can cause	pain
+urinary obstruction	can lead to	kidney damage
+urinary obstruction	can result in	urine retention
+urinary obstruction	can increase	risk of urinary tract infections
+urinary obstruction	can require	surgical intervention
+urinary obstruction	may require	transurethral excision
+urinary obstruction	may require	transurethral drainage
+urinary obstruction	may require	transurethral removal
+urinary obstruction	can be caused by	kidney stones
+urinary obstruction	can be caused by	enlarged prostate
+urinary obstruction	can be caused by	urethral stricture
+urinary obstruction	can be caused by	bladder tumors
+urinary obstruction	can be diagnosed with	imaging tests
+urinary obstruction	can be diagnosed with	uroflowmetry
+urinary obstruction	can be diagnosed with	cystoscopy
+urinary obstruction	can be managed with	medications
+urinary obstruction	can be managed with	catheterization
+urinary obstruction	can be managed with	urethral stenting
+urinary obstruction	can be managed with	surgery
+urinary obstruction	can lead to	hydroureter
+urinary obstruction	can lead to	hydronephrosis
+urinary obstruction	can lead to	urinary retention
+urinary obstruction	can lead to	kidney failure
+urinary obstruction	can increase	risk of urinary tract infections
+urinary obstruction	can cause	urinary incontinence
+urinary obstruction	can result in	bladder damage
+urinary obstruction	can affect	urinary flow
+urinary obstruction	can be treated with	transurethral excision
+urinary obstruction	can be treated with	transurethral drainage
+urinary obstruction	can be treated with	transurethral removal
+urinary obstruction	can be prevented by	maintaining good urinary hygiene
+urinary obstruction	can be prevented by	managing underlying conditions
+urinary obstruction	can be prevented by	avoiding risky behaviors
+urinary obstruction	can be prevented by	regular check-ups
+urinary obstruction	can be prevented by	staying hydrated
+urinary obstruction	can cause	discomfort
+urinary obstruction	can cause	urinary frequency
+urinary obstruction	can cause	urinary urgency
+urinary obstruction	can cause	weak urine flow
+urinary obstruction	can cause	dribbling urine
+urinary obstruction	can cause	blood in urine
+urinary obstruction	can cause	cloudy urine
+urinary obstruction	can cause	foul-smelling urine
+urinary obstruction	can cause	back pain
+urinary obstruction	can cause	abdominal pain
+urinary obstruction	can cause	flank pain
+urinary obstruction	can cause	nausea
+urinary obstruction	can cause	vomiting
+urinary obstruction	can cause	fever
+urinary obstruction	can cause	chills
+urinary obstruction	can cause	fatigue
+urinary obstruction	can cause	weight loss
+transurethral excision	is performed under	general anesthesia
+transurethral drainage	is performed under	local anesthesia
+transurethral removal	is performed under	regional anesthesia
+transurethral excision	can be performed in	outpatient settings
+transurethral drainage	can be performed in	outpatient settings
+transurethral removal	can be performed in	outpatient settings
+transurethral excision	carries the risk of	bleeding
+transurethral drainage	carries the risk of	infection
+transurethral removal	carries the risk of	injury
+transurethral excision	requires	specialized instruments
+transurethral drainage	requires	catheters
+transurethral removal	requires	endoscopic tools
+transurethral excision	may require	urethral dilation
+transurethral drainage	may require	temporary stenting
+transurethral removal	may require	postoperative catheterization
