@@ -1,0 +1,303 @@
+division of joint capsule	is a	medical procedure
+division of joint capsule	used for	surgical treatment
+ligament	is a	connective tissue
+cartilage	is a	connective tissue
+division of joint capsule	can lead to	instability
+division of joint capsule	can be caused by	trauma
+division of joint capsule	may require	rehabilitation
+division of joint capsule	can result in	pain
+ligament	can be damaged by	overstretching
+ligament	can be repaired with	surgery
+cartilage	can be damaged by	wear and tear
+cartilage	can be treated with	joint replacement
+division of joint capsule	can result in	joint stiffness
+ligament	can be strengthened with	physical therapy
+cartilage	can be protected by	proper alignment
+division of joint capsule	can cause	joint instability
+ligament	can be injured during	sports activities
+cartilage	can deteriorate due to	aging
+division of joint capsule	can lead to	joint degeneration
+ligament	can be torn during	sudden movements
+cartilage	can be damaged by	repetitive stress
+division of joint capsule	can be performed with	arthroscopy
+ligament	is important for	joint stability
+cartilage	is important for	joint cushioning
+division of joint capsule	can result in	joint dislocation
+ligament	can be strained by	excessive force
+cartilage	can be protected by	proper nutrition
+division of joint capsule	can cause	joint inflammation
+ligament	can be weakened by	aging
+cartilage	can be affected by	inflammatory conditions
+division of joint capsule	can be done through	open surgery
+ligament	can be damaged by	improper technique
+cartilage	can be repaired with	tissue engineering
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be sprained during	accidents
+cartilage	can be degraded by	osteoarthritis
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	hormonal changes
+cartilage	can be damaged by	autoimmune diseases
+division of joint capsule	can be performed under	anesthesia
+ligament	can be injured by	repetitive motions
+cartilage	can be protected by	weight management
+division of joint capsule	can cause	joint instability
+ligament	can be stretched by	stretching exercises
+cartilage	can be damaged by	trauma
+division of joint capsule	can require	physical therapy
+ligament	can be strained during	physical activities
+cartilage	can be affected by	genetic factors
+division of joint capsule	can lead to	joint immobility
+ligament	can be damaged by	overuse
+cartilage	can be protected by	proper warm-up
+division of joint capsule	can result in	joint swelling
+ligament	can be weakened by	poor nutrition
+cartilage	can be damaged by	inflammatory joint diseases
+division of joint capsule	can be performed with	minimally invasive techniques
+ligament	can be injured by	sudden movements
+cartilage	can be repaired with	cartilage transplantation
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained during	sports injuries
+cartilage	can be degraded by	rheumatoid arthritis
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive stretching
+cartilage	can be protected by	proper footwear
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	improper form
+cartilage	can be affected by	metabolic disorders
+division of joint capsule	can require	rest and immobilization
+ligament	can be injured by	falls
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dislocation
+ligament	can be weakened by	hormonal changes
+cartilage	can be damaged by	systemic diseases
+division of joint capsule	can result in	joint inflammation
+ligament	can be strained by	repetitive stress
+cartilage	can be repaired with	microfracture surgery
+division of joint capsule	can be associated with	post-surgical complications
+ligament	can be damaged by	sudden impacts
+cartilage	can be protected by	joint braces
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be injured by	accidents
+cartilage	can be degraded by	joint infections
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	autoimmune conditions
+cartilage	can be damaged by	mechanical stress
+division of joint capsule	can require	pain management
+ligament	can be strained by	repetitive motions
+cartilage	can be protected by	joint-friendly exercises
+division of joint capsule	can cause	joint instability
+ligament	can be damaged by	twisting movements
+cartilage	can be affected by	inflammatory response
+division of joint capsule	can lead to	joint immobility
+ligament	can be weakened by	aging
+cartilage	can be damaged by	joint inflammation
+division of joint capsule	can result in	joint swelling
+ligament	can be strained by	sudden exertion
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained by	sudden changes in direction
+cartilage	can be degraded by	post-traumatic arthritis
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive use
+cartilage	can be damaged by	overuse injuries
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	genetic factors
+cartilage	can be affected by	joint malalignment
+division of joint capsule	can require	joint replacement
+ligament	can be injured by	inadequate conditioning
+cartilage	can be protected by	knee braces
+division of joint capsule	can cause	joint dislocation
+ligament	can be weakened by	improper warm-up
+cartilage	can be damaged by	sports injuries
+division of joint capsule	can result in	joint inflammation
+ligament	can be strained by	overexertion
+cartilage	can be repaired with	osteochondral autograft
+division of joint capsule	can be associated with	post-operative pain
+ligament	can be damaged by	abrupt stops
+cartilage	can be protected by	joint injections
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be injured by	overextension
+cartilage	can be degraded by	chondromalacia
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	joint hypermobility
+cartilage	can be damaged by	joint trauma
+division of joint capsule	can require	physical rehabilitation
+ligament	can be strained by	jerking movements
+cartilage	can be protected by	joint-friendly diet
+division of joint capsule	can cause	joint instability
+ligament	can be damaged by	sudden twists
+cartilage	can be affected by	joint infections
+division of joint capsule	can lead to	joint immobility
+ligament	can be weakened by	inadequate rest
+cartilage	can be damaged by	inflammatory response
+division of joint capsule	can result in	joint swelling
+ligament	can be strained by	sudden movements
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained by	improper technique
+cartilage	can be degraded by	osteochondritis dissecans
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive force
+cartilage	can be damaged by	repetitive use
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	poor conditioning
+cartilage	can be affected by	joint misalignment
+division of joint capsule	can require	joint fusion
+ligament	can be injured by	inadequate warm-up
+cartilage	can be protected by	joint-friendly activities
+division of joint capsule	can cause	joint dislocation
+ligament	can be weakened by	hormonal changes
+cartilage	can be damaged by	systemic diseases
+division of joint capsule	can result in	joint inflammation
+ligament	can be strained by	overuse
+cartilage	can be repaired with	autologous chondrocyte implantation
+division of joint capsule	can be associated with	infection risk
+ligament	can be damaged by	sudden impacts
+cartilage	can be protected by	joint braces
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be injured by	accidents
+cartilage	can be degraded by	joint infections
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	autoimmune conditions
+cartilage	can be damaged by	mechanical stress
+division of joint capsule	can require	pain management
+ligament	can be strained by	repetitive motions
+cartilage	can be protected by	joint-friendly exercises
+division of joint capsule	can cause	joint instability
+ligament	can be damaged by	twisting movements
+cartilage	can be affected by	inflammatory response
+division of joint capsule	can lead to	joint immobility
+ligament	can be weakened by	aging
+cartilage	can be damaged by	joint inflammation
+division of joint capsule	can result in	joint swelling
+ligament	can be strained by	sudden exertion
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained by	sudden changes in direction
+cartilage	can be degraded by	post-traumatic arthritis
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive use
+cartilage	can be damaged by	overuse injuries
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	genetic factors
+cartilage	can be affected by	joint malalignment
+division of joint capsule	can require	joint replacement
+ligament	can be injured by	inadequate conditioning
+cartilage	can be protected by	knee braces
+division of joint capsule	can cause	joint dislocation
+ligament	can be weakened by	improper warm-up
+cartilage	can be damaged by	sports injuries
+division of joint capsule	can result in	joint inflammation
+ligament	can be strained by	overexertion
+cartilage	can be repaired with	osteochondral autograft
+division of joint capsule	can be associated with	post-operative pain
+ligament	can be damaged by	abrupt stops
+cartilage	can be protected by	joint injections
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be injured by	overextension
+cartilage	can be degraded by	chondromalacia
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	joint hypermobility
+cartilage	can be damaged by	joint trauma
+division of joint capsule	can require	physical rehabilitation
+ligament	can be strained by	jerking movements
+cartilage	can be protected by	joint-friendly diet
+division of joint capsule	can cause	joint instability
+ligament	can be damaged by	sudden twists
+cartilage	can be affected by	joint infections
+division of joint capsule	can lead to	joint immobility
+ligament	can be weakened by	inadequate rest
+cartilage	can be damaged by	inflammatory response
+division of joint capsule	can result in	joint swelling
+ligament	can be strained by	sudden movements
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained by	improper technique
+cartilage	can be degraded by	osteochondritis dissecans
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive force
+cartilage	can be damaged by	repetitive use
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	poor conditioning
+cartilage	can be affected by	joint misalignment
+division of joint capsule	can require	joint fusion
+ligament	can be injured by	inadequate warm-up
+cartilage	can be protected by	joint-friendly activities
+division of joint capsule	can cause	joint dislocation
+ligament	can be weakened by	hormonal changes
+cartilage	can be damaged by	systemic diseases
+division of joint capsule	can result in	joint inflammation
+ligament	can be strained by	overuse
+cartilage	can be repaired with	autologous chondrocyte implantation
+division of joint capsule	can be associated with	infection risk
+ligament	can be damaged by	sudden impacts
+cartilage	can be protected by	joint braces
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be injured by	accidents
+cartilage	can be degraded by	joint infections
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	autoimmune conditions
+cartilage	can be damaged by	mechanical stress
+division of joint capsule	can require	pain management
+ligament	can be strained by	repetitive motions
+cartilage	can be protected by	joint-friendly exercises
+division of joint capsule	can cause	joint instability
+ligament	can be damaged by	twisting movements
+cartilage	can be affected by	inflammatory response
+division of joint capsule	can lead to	joint immobility
+ligament	can be weakened by	aging
+cartilage	can be damaged by	joint inflammation
+division of joint capsule	can result in	joint swelling
+ligament	can be strained by	sudden exertion
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained by	sudden changes in direction
+cartilage	can be degraded by	post-traumatic arthritis
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive use
+cartilage	can be damaged by	overuse injuries
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	genetic factors
+cartilage	can be affected by	joint malalignment
+division of joint capsule	can require	joint replacement
+ligament	can be injured by	inadequate conditioning
+cartilage	can be protected by	knee braces
+division of joint capsule	can cause	joint dislocation
+ligament	can be weakened by	improper warm-up
+cartilage	can be damaged by	sports injuries
+division of joint capsule	can result in	joint inflammation
+ligament	can be strained by	overexertion
+cartilage	can be repaired with	osteochondral autograft
+division of joint capsule	can be associated with	post-operative pain
+ligament	can be damaged by	abrupt stops
+cartilage	can be protected by	joint injections
+division of joint capsule	can lead to	joint dysfunction
+ligament	can be injured by	overextension
+cartilage	can be degraded by	chondromalacia
+division of joint capsule	can result in	joint pain
+ligament	can be affected by	joint hypermobility
+cartilage	can be damaged by	joint trauma
+division of joint capsule	can require	physical rehabilitation
+ligament	can be strained by	jerking movements
+cartilage	can be protected by	joint-friendly diet
+division of joint capsule	can cause	joint instability
+ligament	can be damaged by	sudden twists
+cartilage	can be affected by	joint infections
+division of joint capsule	can lead to	joint immobility
+ligament	can be weakened by	inadequate rest
+cartilage	can be damaged by	inflammatory response
+division of joint capsule	can result in	joint swelling
+ligament	can be strained by	sudden movements
+cartilage	can be protected by	joint supplements
+division of joint capsule	can cause	joint dysfunction
+ligament	can be sprained by	improper technique
+cartilage	can be degraded by	osteochondritis dissecans
+division of joint capsule	can result in	joint stiffness
+ligament	can be strained by	excessive force
+cartilage	can be damaged by	repetitive use
+division of joint capsule	can lead to	joint degeneration
+ligament	can be damaged by	poor conditioning
+cartilage	can be affected by	joint misalignment
+division of joint capsule	can require	joint fusion
+ligament	can be injured by	inadequate warm-up
+cartilage	can be protected by	joint-friendly activities

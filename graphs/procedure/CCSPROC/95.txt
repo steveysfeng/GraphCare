@@ -1,0 +1,92 @@
+other non-or lower gi therapeutic procedures	are	medical procedures
+other non-or lower gi therapeutic procedures	used for	treatment
+endoscopic variceal ligation	is a type of	other non-or lower gi therapeutic procedures
+endoscopic variceal ligation	can treat	esophageal varices
+polypectomy	is a type of	other non-or lower gi therapeutic procedures
+polypectomy	used for	removing polyps
+colonic stent placement	is a type of	other non-or lower gi therapeutic procedures
+colonic stent placement	can be used for	relieving colonic obstruction
+esophageal dilation	is a type of	other non-or lower gi therapeutic procedures
+esophageal dilation	used for	widening the esophagus
+endoscopic mucosal resection	is a type of	other non-or lower gi therapeutic procedures
+endoscopic mucosal resection	can remove	early-stage gastrointestinal tumors
+sclerotherapy	is a type of	other non-or lower gi therapeutic procedures
+sclerotherapy	used for	treating varicose veins
+endoscopic hemostasis	is a type of	other non-or lower gi therapeutic procedures
+endoscopic hemostasis	used for	stopping bleeding in the gastrointestinal tract
+endoscopic lithotripsy	is a type of	other non-or lower gi therapeutic procedures
+endoscopic lithotripsy	used for	breaking up stones in the digestive tract
+esophageal stent placement	is a type of	other non-or lower gi therapeutic procedures
+esophageal stent placement	can be used for	treating esophageal strictures
+endoscopic ultrasound	is a type of	other non-or lower gi therapeutic procedures
+endoscopic ultrasound	used for	imaging the digestive tract
+paracentesis	is a type of	other non-or lower gi therapeutic procedures
+paracentesis	used for	draining fluid from the abdomen
+enteric stent placement	is a type of	other non-or lower gi therapeutic procedures
+enteric stent placement	used for	relieving bowel obstruction
+endoscopic retrograde cholangiopancreatography (ERCP)	is a type of	other non-or lower gi therapeutic procedures
+endoscopic retrograde cholangiopancreatography (ERCP)	used for	diagnosing and treating conditions of the bile and pancreatic ducts
+stent insertion	is a type of	other non-or lower gi therapeutic procedures
+stent insertion	used for	opening narrowed or blocked blood vessels
+endoscopic sphincterotomy	is a type of	other non-or lower gi therapeutic procedures
+endoscopic sphincterotomy	used for	cutting the muscle at the end of the bile duct or pancreatic duct
+feeding tube placement	is a type of	other non-or lower gi therapeutic procedures
+feeding tube placement	used for	providing nutrition and medications
+endoscopic mucosal resection (EMR)	is a type of	other non-or lower gi therapeutic procedures
+endoscopic mucosal resection (EMR)	used for	removing abnormal tissue in the digestive tract
+bilateral ureteral stent placement	is a type of	other non-or lower gi therapeutic procedures
+bilateral ureteral stent placement	used for	treating blocked or narrowed ureters
+placement of peritoneal dialysis catheter	is a type of	other non-or lower gi therapeutic procedures
+placement of peritoneal dialysis catheter	used for	introducing a tube into the peritoneal cavity
+endoscopic dacryocystorhinostomy	is a type of	other non-or lower gi therapeutic procedures
+endoscopic dacryocystorhinostomy	used for	treating a blocked tear duct
+endoscope-assisted microneurosurgery	is a type of	other non-or lower gi therapeutic procedures
+endoscope-assisted microneurosurgery	used for	performing delicate brain and spinal surgeries
+placement of pleural catheter	is a type of	other non-or lower gi therapeutic procedures
+placement of pleural catheter	used for	draining fluid from the pleural space
+endoscopic third ventriculostomy	is a type of	other non-or lower gi therapeutic procedures
+endoscopic third ventriculostomy	used for	treating hydrocephalus
+cystoscopy with ureteral stent placement	is a type of	other non-or lower gi therapeutic procedures
+cystoscopy with ureteral stent placement	used for	diagnosing and treating conditions of the bladder and ureters
+transhepatic portography	is a type of	other non-or lower gi therapeutic procedures
+transhepatic portography	used for	visualizing the hepatic portal system
+endoscopic lung surgery	is a type of	other non-or lower gi therapeutic procedures
+endoscopic lung surgery	used for	removing lung nodules
+endoscopic retrograde pyelography	is a type of	other non-or lower gi therapeutic procedures
+endoscopic retrograde pyelography	used for	diagnosing and treating conditions of the urinary tract
+bronchoscopy with biopsy	is a type of	other non-or lower gi therapeutic procedures
+bronchoscopy with biopsy	used for	diagnosing lung diseases
+placement of ventriculoperitoneal shunt	is a type of	other non-or lower gi therapeutic procedures
+placement of ventriculoperitoneal shunt	used for	treating hydrocephalus
+endoscopic sleeve gastroplasty	is a type of	other non-or lower gi therapeutic procedures
+endoscopic sleeve gastroplasty	used for	weight loss
+pulmonary artery catheterization	is a type of	other non-or lower gi therapeutic procedures
+pulmonary artery catheterization	used for	monitoring heart function
+endoscopic antral ostomy	is a type of	other non-or lower gi therapeutic procedures
+endoscopic antral ostomy	used for	treating gastric outlet obstruction
+cholecystectomy with common bile duct exploration	is a type of	other non-or lower gi therapeutic procedures
+cholecystectomy with common bile duct exploration	used for	treating gallbladder and bile duct conditions
+endoscopic mucosal ablation	is a type of	other non-or lower gi therapeutic procedures
+endoscopic mucosal ablation	used for	treating early-stage cancers in the digestive tract
+placement of transjugular intrahepatic portosystemic shunt (TIPS)	is a type of	other non-or lower gi therapeutic procedures
+placement of transjugular intrahepatic portosystemic shunt (TIPS)	used for	treating portal hypertension
+gastrostomy tube placement	is a type of	other non-or lower gi therapeutic procedures
+gastrostomy tube placement	used for	providing nutrition and medications
+placement of central venous catheter	is a type of	other non-or lower gi therapeutic procedures
+placement of central venous catheter	used for	administering medications and fluids
+endoscopic variceal obturation	is a type of	other non-or lower gi therapeutic procedures
+endoscopic variceal obturation	used for	treating bleeding esophageal varices
+jejunostomy tube placement	is a type of	other non-or lower gi therapeutic procedures
+jejunostomy tube placement	used for	providing nutrition and medications
+endoscopic nasal surgery	is a type of	other non-or lower gi therapeutic procedures
+endoscopic nasal surgery	used for	treating sinus and nasal cavity conditions
+balloon dilation	is a type of	other non-or lower gi therapeutic procedures
+balloon dilation	used for	expanding narrowed blood vessels
+placement of arteriovenous fistula	is a type of	other non-or lower gi therapeutic procedures
+placement of arteriovenous fistula	used for	providing long-term access for hemodialysis
+endoscopic ultrasound-guided fine needle aspiration (EUS-FNA)	is a type of	other non-or lower gi therapeutic procedures
+endoscopic ultrasound-guided fine needle aspiration (EUS-FNA)	used for	obtaining tissue samples for diagnosis
+loop electrosurgical excision procedure (LEEP)	is a type of	other non-or lower gi therapeutic procedures
+loop electrosurgical excision procedure (LEEP)	used for	removing abnormal cervical tissue
+placement of pulmonary artery catheter	is a type of	other non-or lower gi therapeutic procedures
+placement of pulmonary artery catheter	used for	monitoring heart and lung function

@@ -1,0 +1,80 @@
+debridement of wound	is a	medical procedure
+debridement of wound	used for	wound care
+debridement of wound	can prevent	infection
+debridement of wound	can facilitate	healing
+debridement of wound	performed by	healthcare professionals
+debridement of burn	is a	medical procedure
+debridement of burn	used for	burn care
+debridement of burn	can prevent	infection
+debridement of burn	can facilitate	healing
+debridement of burn	performed by	healthcare professionals
+infection	can occur after	debridement of wound
+burn	can occur after	debridement of burn
+infection	can complicate	wound healing
+burn	can complicate	burn healing
+infection	can lead to	sepsis
+burn	can lead to	scarring
+sepsis	can lead to	organ failure
+scarring	can cause	disfigurement
+organ failure	can result in	death
+disfigurement	can affect	self-esteem
+death	can occur from	organ failure
+self-esteem	can influence	mental health
+organ failure	can be caused by	sepsis
+disfigurement	can lead to	depression
+mental health	can affect	overall well-being
+sepsis	can be caused by	infection
+depression	can impact	quality of life
+overall well-being	can affect	physical health
+infection	can spread through	blood
+depression	can be treated with	psychotherapy
+physical health	can be compromised by	poor mental well-being
+blood	can carry	bacteria
+psychotherapy	can help manage	depression
+mental well-being	can be improved through	self-care
+bacteria	can cause	septicemia
+psychotherapy	can support	emotional well-being
+self-care	can involve	exercise
+septicemia	can lead to	septic shock
+emotional well-being	can be supported by	social connections
+exercise	can improve	physical health
+septic shock	can result in	multiple organ failure
+social connections	can enhance	mental well-being
+exercise	can promote	wound healing
+multiple organ failure	can be fatal
+social connections	can provide	emotional support
+wound healing	can be affected by	nutrition
+fatal	means	death
+emotional support	can be received from	friends and family
+nutrition	can influence	healing process
+death	can be caused by	complications
+friends and family	can offer	comfort
+healing process	can be slow
+complications	can arise from	underlying health conditions
+comfort	can be found in	support groups
+slow healing	can be a sign of	impaired immune function
+complications	can lead to	readmission
+support groups	can provide	coping strategies
+impaired immune function	can increase	infection risk
+readmission	can be costly
+coping strategies	can help manage	emotional distress
+infection risk	can be mitigated with	proper wound care
+emotional distress	can impact	mental health
+wound care	can involve	dressing changes
+mental health	can affect	overall well-being
+dressing changes	should be done with	sterile supplies
+overall well-being	can influence	recovery process
+sterile supplies	are important for	infection prevention
+recovery process	can be lengthy
+infection prevention	is crucial for	positive outcomes
+lengthy recovery	can require	rehabilitation
+positive outcomes	can be achieved through	proper wound care
+rehabilitation	can improve	functional abilities
+proper wound care	can minimize	scarring
+functional abilities	can impact	quality of life
+scarring	can be reduced with	scar treatments
+quality of life	can be improved with	a multidisciplinary approach
+scar treatments	can include	laser therapy
+a multidisciplinary approach	involves	collaboration between different healthcare professionals
+laser therapy	can be used for	scar removal
+collaboration between different healthcare professionals	can optimize	patient care

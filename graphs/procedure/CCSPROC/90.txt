@@ -1,0 +1,100 @@
+excision	is a	surgical procedure
+lysis	is a	surgical procedure
+peritoneal adhesions	can be treated with	excision
+peritoneal adhesions	can be treated with	lysis
+excision	can be used to remove	tumors
+excision	can be used to remove	cysts
+excision	can be used to remove	lesions
+excision	can be performed on	skin
+excision	can be performed on	organs
+excision	can be performed on	tumors
+excision	can be performed on	lesions
+lysis	can be used to remove	scar tissue
+lysis	can be used to remove	adhesions
+lysis	can be performed on	organs
+lysis	can be performed on	tissue
+lysis	can be performed on	adhesions
+excision	requires	anesthesia
+lysis	requires	anesthesia
+excision	may cause	bleeding
+lysis	may cause	bleeding
+excision	may lead to	infection
+lysis	may lead to	infection
+excision	may have	complications
+lysis	may have	complications
+excision	is performed by	surgeons
+lysis	is performed by	surgeons
+excision	can be done	minimally invasive
+lysis	can be done	minimally invasive
+excision	can be done	laparoscopically
+lysis	can be done	laparoscopically
+excision	can be done	robotically
+lysis	can be done	robotically
+excision	can be done	open
+lysis	can be done	open
+excision	can be done	under general anesthesia
+lysis	can be done	under general anesthesia
+excision	can be done	under local anesthesia
+lysis	can be done	under local anesthesia
+excision	can be done	outpatient
+lysis	can be done	outpatient
+excision	can be done	inpatient
+lysis	can be done	inpatient
+excision	may require	post-operative care
+lysis	may require	post-operative care
+excision	can lead to	scarring
+lysis	can lead to	scarring
+excision	may require	stitches
+lysis	may require	stitches
+excision	may require	dressings
+lysis	may require	dressings
+excision	may require	drainage
+lysis	may require	drainage
+excision	may require	pain medication
+lysis	may require	pain medication
+excision	may require	physical therapy
+lysis	may require	physical therapy
+excision	may require	follow-up appointments
+lysis	may require	follow-up appointments
+excision	has	risks
+lysis	has	risks
+excision	has	benefits
+lysis	has	benefits
+excision	is used for	treatment
+lysis	is used for	treatment
+excision	can improve	symptoms
+lysis	can improve	symptoms
+excision	can be	effective
+lysis	can be	effective
+excision	may be	necessary
+lysis	may be	necessary
+excision	is recommended for	certain conditions
+lysis	is recommended for	certain conditions
+excision	can be	life-saving
+lysis	can be	life-saving
+excision	can lead to	improved outcomes
+lysis	can lead to	improved outcomes
+excision	should be	performed by experienced surgeons
+lysis	should be	performed by experienced surgeons
+excision	is often performed	in a hospital
+lysis	is often performed	in a hospital
+excision	may require	pre-operative testing
+lysis	may require	pre-operative testing
+excision	may require	pre-operative preparation
+lysis	may require	pre-operative preparation
+excision	may require	post-operative monitoring
+lysis	may require	post-operative monitoring
+excision	may require	post-operative rehabilitation
+lysis	may require	post-operative rehabilitation
+excision	may result in	improved quality of life
+lysis	may result in	improved quality of life
+excision	may reduce	disease progression
+lysis	may reduce	disease progression
+excision	may prevent	complications
+lysis	may prevent	complications
+excision	is	expensive
+lysis	is	expensive
+excision	may have	long-term effects
+lysis	may have	long-term effects
+excision	should be	considered carefully
+lysis	should be	considered carefully

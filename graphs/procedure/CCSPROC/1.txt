@@ -1,0 +1,171 @@
+incision and excision of CNS	is a	neurosurgical procedure
+incision and excision of CNS	used for	tumor removal
+cerebral incision	is a type of	incision and excision of CNS
+cerebral incision	used for	brain surgery
+cerebral incision	can treat	epilepsy
+incision and excision of CNS	can cause	bleeding
+incision and excision of CNS	can lead to	infection
+incision and excision of CNS	requires	anesthesia
+incision and excision of CNS	performed by	neurosurgeons
+incision and excision of CNS	has risks of	nerve damage
+incision and excision of CNS	may result in	improved neurological function
+incision and excision of CNS	can be done using	minimally invasive techniques
+cerebral incision	can be done using	stereotactic guidance
+stereotactic guidance	is a type of	navigation system
+stereotactic guidance	used for	precise targeting
+stereotactic guidance	can assist in	deep brain stimulation
+deep brain stimulation	is a type of	CNS intervention
+deep brain stimulation	used for	Parkinson's disease
+deep brain stimulation	can alleviate	tremors
+deep brain stimulation	requires	implantation of electrodes
+deep brain stimulation	may improve	quality of life
+cerebral incision	can result in	edema
+cerebral incision	can lead to	post-operative complications
+post-operative complications	include	infection
+post-operative complications	can result in	readmission
+cerebral incision	can cause	scarring
+cerebral incision	may require	rehabilitation
+rehabilitation	can involve	physical therapy
+rehabilitation	can help in	recovery
+rehabilitation	may be necessary for	motor function restoration
+incision and excision of CNS	can be done using	laser techniques
+laser techniques	can assist in	tissue ablation
+laser techniques	used for	tumor destruction
+laser techniques	can minimize	bleeding
+laser techniques	require	specialized training
+laser techniques	may result in	reduced hospital stay
+incision and excision of CNS	can involve	craniotomy
+craniotomy	is a type of	skull surgery
+craniotomy	used for	access to the brain
+craniotomy	can be done for	aneurysm repair
+craniotomy	can be performed using	neuroendoscopy
+neuroendoscopy	is a type of	minimally invasive surgery
+neuroendoscopy	used for	visualization of the brain
+neuroendoscopy	can assist in	hydrocephalus treatment
+hydrocephalus treatment	involves	CSF diversion
+hydrocephalus treatment	can involve	ventriculoperitoneal shunt
+ventriculoperitoneal shunt	is a type of	CSF diversion procedure
+ventriculoperitoneal shunt	used for	excess fluid drainage
+ventriculoperitoneal shunt	can treat	normal pressure hydrocephalus
+ventriculoperitoneal shunt	may require	revision surgery
+ventriculoperitoneal shunt	can improve	cognitive function
+incision and excision of CNS	can result in	functional deficits
+functional deficits	can include	motor impairment
+functional deficits	can affect	speech and language
+functional deficits	may require	rehabilitation
+rehabilitation	can involve	occupational therapy
+rehabilitation	can assist in	daily activities
+rehabilitation	can help in	regaining independence
+incision and excision of CNS	can be performed using	image-guided techniques
+image-guided techniques	used for	precise localization
+image-guided techniques	can assist in	tumor resection
+image-guided techniques	can improve	surgical outcomes
+image-guided techniques	require	pre-operative imaging
+image-guided techniques	may result in	reduced surgical time
+cerebral incision	can involve	awake craniotomy
+awake craniotomy	used for	tumor resection
+awake craniotomy	can assist in	functional mapping
+awake craniotomy	can minimize	post-operative deficits
+awake craniotomy	requires	conscious sedation
+awake craniotomy	may require	intraoperative monitoring
+intraoperative monitoring	involves	electrical stimulation
+intraoperative monitoring	used for	preserving brain function
+intraoperative monitoring	can reduce	neurological complications
+awake craniotomy	can improve	quality of life
+incision and excision of CNS	can be done using	robotic techniques
+robotic techniques	can assist in	precision surgery
+robotic techniques	used for	tumor resection
+robotic techniques	can minimize	surgical trauma
+robotic techniques	require	surgeon expertise
+robotic techniques	may result in	faster recovery
+incision and excision of CNS	can result in	scar formation
+scar formation	can cause	cosmetic concerns
+scar formation	may require	scar revision
+scar revision	is a type of	plastic surgery
+scar revision	used for	improving appearance
+scar revision	can involve	tissue rearrangement
+incision and excision of CNS	can lead to	cerebrospinal fluid leak
+cerebrospinal fluid leak	can cause	infection
+cerebrospinal fluid leak	may require	repair surgery
+cerebrospinal fluid leak	can result in	meningitis
+cerebrospinal fluid leak	require	conservative management
+incision and excision of CNS	can be done using	endoscopic techniques
+endoscopic techniques	used for	visualization
+endoscopic techniques	can assist in	tumor removal
+endoscopic techniques	require	smaller incisions
+endoscopic techniques	may result in	faster recovery
+incision	is a	medical procedure
+excision	is a	medical procedure
+CNS	is a	part of the body
+incision	can be used for	treatment
+excision	can be used for	treatment
+CNS	can be treated with	incision
+CNS	can be treated with	excision
+incision	can lead to	complications
+excision	can lead to	complications
+complications	can result in	readmission
+incision	requires	anesthesia
+excision	requires	anesthesia
+anesthesia	can be administered by	an anesthesiologist
+anesthesiologist	is a	healthcare professional
+incision	is performed by	a surgeon
+excision	is performed by	a surgeon
+surgeon	is a	healthcare professional
+CNS	can be affected by	diseases
+CNS disease	can be treated with	incision
+CNS disease	can be treated with	excision
+incision	can result in	scarring
+excision	can result in	scarring
+scarring	can be treated with	topical creams
+topical creams	can be prescribed by	a dermatologist
+dermatologist	is a	healthcare professional
+incision	may require	stitches
+excision	may require	stitches
+stitches	can be removed by	a nurse
+nurse	is a	healthcare professional
+incision	may result in	bleeding
+excision	may result in	bleeding
+bleeding	can be controlled by	suturing
+suturing	is a	medical technique
+incision	can be closed with	sutures
+excision	can be closed with	sutures
+incision	can be performed with	a scalpel
+excision	can be performed with	a scalpel
+scalpel	is a	surgical instrument
+incision	can be performed in	an operating room
+excision	can be performed in	an operating room
+operating room	is a	medical facility
+incision	may require	post-operative care
+excision	may require	post-operative care
+post-operative care	can be provided by	nurses
+incision	can be used to	remove tissue
+excision	can be used to	remove tissue
+tissue removal	can be analyzed for	pathology
+incision	can be performed under	general anesthesia
+excision	can be performed under	general anesthesia
+general anesthesia	is administered by	an anesthesiologist
+excision	can be guided by	imaging
+imaging	can include	MRI
+MRI	is a	medical test
+MRI	can be performed by	a radiologist
+radiologist	is a	healthcare professional
+incision	can be used to	drain fluid
+excision	can be used to	remove tumors
+fluid drainage	can be performed by	a surgeon
+excision	can be used to	treat tumors
+tumor treatment	can include	chemotherapy
+chemotherapy	can be prescribed by	an oncologist
+oncologist	is a	healthcare professional
+incision	can be done with	minimally invasive techniques
+excision	can be done with	minimally invasive techniques
+minimally invasive techniques	can include	laparoscopy
+laparoscopy	is a	surgical procedure
+laparoscopy	can be performed by	a surgeon
+incision	can be used to	implant devices
+excision	can be used to	remove foreign objects
+device implantation	can be performed by	a specialist
+specialist	is a	healthcare professional
+incision	is a	surgical technique
+excision	is a	surgical technique
+surgical technique	can be used for	treatment
+excision	can be used for	biopsy

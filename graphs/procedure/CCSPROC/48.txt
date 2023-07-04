@@ -1,0 +1,46 @@
+insertion	is a	medical procedure
+insertion	used for	treatment
+insertion	can be done	for cardiac pacemaker
+insertion	can be done	for cardioverter/defibrillator
+revision	is a	medical procedure
+revision	used for	adjustment
+revision	can be done	for cardiac pacemaker
+revision	can be done	for cardioverter/defibrillator
+replacement	is a	medical procedure
+replacement	used for	replacement
+replacement	can be done	for cardiac pacemaker
+replacement	can be done	for cardioverter/defibrillator
+removal	is a	medical procedure
+removal	used for	removal
+removal	can be done	for cardiac pacemaker
+removal	can be done	for cardioverter/defibrillator
+insertion	can cause	infection
+insertion	can cause	bleeding
+insertion	can cause	pain
+insertion	can cause	scarring
+insertion	can cause	complications
+revision	can cause	infection
+revision	can cause	bleeding
+revision	can cause	pain
+revision	can cause	scarring
+revision	can cause	complications
+replacement	can cause	infection
+replacement	can cause	bleeding
+replacement	can cause	pain
+replacement	can cause	scarring
+replacement	can cause	complications
+removal	can cause	infection
+removal	can cause	bleeding
+removal	can cause	pain
+removal	can cause	scarring
+removal	can cause	complications
+cardiac pacemaker	is a	medical device
+cardiac pacemaker	used for	regulating heartbeat
+cardiac pacemaker	can be inserted	during insertion
+cardiac pacemaker	can be replaced	during replacement
+cardiac pacemaker	can be removed	during removal
+cardioverter/defibrillator	is a	medical device
+cardioverter/defibrillator	used for	correcting abnormal heart rhythms
+cardioverter/defibrillator	can be inserted	during insertion
+cardioverter/defibrillator	can be replaced	during replacement
+cardioverter/defibrillator	can be removed	during removal

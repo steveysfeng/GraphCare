@@ -1,0 +1,87 @@
+dilatation and curettage	is a	medical procedure
+dilatation and curettage	used for	uterine evacuation
+aspiration after delivery	is a	medical procedure
+aspiration after delivery	used for	removal of retained products of conception
+aspiration after abortion	is a	medical procedure
+aspiration after abortion	used for	removal of retained products of conception
+dilatation and curettage	can be performed	after delivery
+aspiration after delivery	can be performed	after delivery
+dilatation and curettage	can be performed	after abortion
+aspiration after abortion	can be performed	after abortion
+dilatation and curettage	is recommended	for incomplete abortion
+aspiration after delivery	is recommended	for incomplete abortion
+aspiration after abortion	is recommended	for incomplete abortion
+dilatation and curettage	is recommended	for missed abortion
+aspiration after delivery	is recommended	for missed abortion
+aspiration after abortion	is recommended	for missed abortion
+dilatation and curettage	can cause	uterine perforation
+aspiration after delivery	can cause	uterine perforation
+aspiration after abortion	can cause	uterine perforation
+dilatation and curettage	can lead to	infection
+aspiration after delivery	can lead to	infection
+aspiration after abortion	can lead to	infection
+dilatation and curettage	can result in	heavy bleeding
+aspiration after delivery	can result in	heavy bleeding
+aspiration after abortion	can result in	heavy bleeding
+dilatation and curettage	is contraindicated	in pregnancy
+aspiration after delivery	is contraindicated	in pregnancy
+aspiration after abortion	is contraindicated	in pregnancy
+dilatation and curettage	is contraindicated	in current infection
+aspiration after delivery	is contraindicated	in current infection
+aspiration after abortion	is contraindicated	in current infection
+dilatation and curettage	is contraindicated	in cervical incompetence
+aspiration after delivery	is contraindicated	in cervical incompetence
+aspiration after abortion	is contraindicated	in cervical incompetence
+dilatation and curettage	can be followed by	hormonal therapy
+aspiration after delivery	can be followed by	hormonal therapy
+aspiration after abortion	can be followed by	hormonal therapy
+dilatation and curettage	can be followed by	antibiotics
+aspiration after delivery	can be followed by	antibiotics
+aspiration after abortion	can be followed by	antibiotics
+dilatation and curettage	can lead to	scarring of the uterus
+aspiration after delivery	can lead to	scarring of the uterus
+aspiration after abortion	can lead to	scarring of the uterus
+dilatation and curettage	should be performed	under anesthesia
+aspiration after delivery	should be performed	under anesthesia
+aspiration after abortion	should be performed	under anesthesia
+dilatation and curettage	can be performed	in an outpatient setting
+aspiration after delivery	can be performed	in an outpatient setting
+aspiration after abortion	can be performed	in an outpatient setting
+dilatation and curettage	can be performed	in a hospital setting
+aspiration after delivery	can be performed	in a hospital setting
+aspiration after abortion	can be performed	in a hospital setting
+dilatation and curettage	can be used	for therapeutic abortion
+aspiration after delivery	can be used	for therapeutic abortion
+dilatation and curettage	can be used	for incomplete miscarriage
+aspiration after delivery	can be used	for incomplete miscarriage
+aspiration after abortion	can be used	for incomplete miscarriage
+dilatation and curettage	is a surgical	procedure
+aspiration after delivery	is a surgical	procedure
+aspiration after abortion	is a surgical	procedure
+dilatation and curettage	is performed	in women with abnormal uterine bleeding
+aspiration after delivery	is performed	in women with abnormal uterine bleeding
+aspiration after abortion	is performed	in women with abnormal uterine bleeding
+dilatation and curettage	can detect	molar pregnancy
+aspiration after delivery	can detect	molar pregnancy
+aspiration after abortion	can detect	molar pregnancy
+dilatation and curettage	can be followed by	hysteroscopy
+aspiration after delivery	can be followed by	hysteroscopy
+aspiration after abortion	can be followed by	hysteroscopy
+dilatation and curettage	can be followed by	uterine packing
+aspiration after delivery	can be followed by	uterine packing
+aspiration after abortion	can be followed by	uterine packing
+dilatation and curettage	is used	for endometrial cancer staging
+aspiration after delivery	is used	for endometrial cancer staging
+aspiration after abortion	is used	for endometrial cancer staging
+dilatation and curettage	can be performed	after miscarriage
+aspiration after delivery	can be performed	after miscarriage
+aspiration after abortion	can be performed	after miscarriage
+dilatation and curettage	can be performed	after stillbirth
+aspiration after delivery	can be performed	after stillbirth
+aspiration after abortion	can be performed	after stillbirth
+dilatation and curettage	should be performed	by a trained healthcare professional
+aspiration after delivery	should be performed	by a trained healthcare professional
+aspiration after abortion	should be performed	by a trained healthcare professional
+dilatation and curettage	can be performed	by a gynecologist
+aspiration after delivery	can be performed	by a gynecologist
+aspiration after abortion	can be performed	by a gynecologist

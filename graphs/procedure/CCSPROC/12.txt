@@ -1,0 +1,190 @@
+other therapeutic endocrine procedures	are	medical procedures
+other therapeutic endocrine procedures	used for	treatment
+pituitary surgery	is a type of	other therapeutic endocrine procedures
+pituitary surgery	can be used for	tumor removal
+radioactive iodine therapy	is a type of	other therapeutic endocrine procedures
+radioactive iodine therapy	used for	thyroid ablation
+adrenalectomy	is a type of	other therapeutic endocrine procedures
+adrenalectomy	used for	adrenal tumor removal
+thyroidectomy	is a type of	other therapeutic endocrine procedures
+thyroidectomy	used for	thyroid gland removal
+pancreatectomy	is a type of	other therapeutic endocrine procedures
+pancreatectomy	used for	pancreatic tumor removal
+parathyroidectomy	is a type of	other therapeutic endocrine procedures
+parathyroidectomy	used for	parathyroid gland removal
+adrenocorticotropic hormone (ACTH) stimulation test	is a type of	other therapeutic endocrine procedures
+ACTH stimulation test	used for	adrenal function evaluation
+growth hormone stimulation test	is a type of	other therapeutic endocrine procedures
+growth hormone stimulation test	used for	growth hormone deficiency evaluation
+thyroid-stimulating hormone (TSH) stimulation test	is a type of	other therapeutic endocrine procedures
+TSH stimulation test	used for	thyroid function evaluation
+insulin tolerance test	is a type of	other therapeutic endocrine procedures
+insulin tolerance test	used for	growth hormone deficiency evaluation
+thyrotropin-releasing hormone (TRH) stimulation test	is a type of	other therapeutic endocrine procedures
+TRH stimulation test	used for	thyroid function evaluation
+corticotropin-releasing hormone (CRH) stimulation test	is a type of	other therapeutic endocrine procedures
+CRH stimulation test	used for	adrenal function evaluation
+glucagon stimulation test	is a type of	other therapeutic endocrine procedures
+glucagon stimulation test	used for	insulinoma diagnosis
+arginine stimulation test	is a type of	other therapeutic endocrine procedures
+arginine stimulation test	used for	growth hormone deficiency evaluation
+gliclazide stimulation test	is a type of	other therapeutic endocrine procedures
+gliclazide stimulation test	used for	insulinoma diagnosis
+glucose tolerance test	is a type of	other therapeutic endocrine procedures
+glucose tolerance test	used for	diabetes diagnosis
+luteinizing hormone-releasing hormone (LHRH) stimulation test	is a type of	other therapeutic endocrine procedures
+LHRH stimulation test	used for	hormonal disorder evaluation
+thyrotropin-releasing hormone (TRH) stimulation test	is a type of	other therapeutic endocrine procedures
+TRH stimulation test	used for	thyroid function evaluation
+cosyntropin stimulation test	is a type of	other therapeutic endocrine procedures
+cosyntropin stimulation test	used for	adrenal insufficiency diagnosis
+dexamethasone suppression test	is a type of	other therapeutic endocrine procedures
+dexamethasone suppression test	used for	Cushing's syndrome diagnosis
+thyroglobulin	is a type of	other therapeutic endocrine procedures
+thyroglobulin	used for	thyroid cancer marker
+insulin	is a type of	other therapeutic endocrine procedures
+insulin	used for	diabetes treatment
+growth hormone	is a type of	other therapeutic endocrine procedures
+growth hormone	used for	growth hormone deficiency treatment
+hydrocortisone	is a type of	other therapeutic endocrine procedures
+hydrocortisone	used for	adrenal insufficiency treatment
+levothyroxine	is a type of	other therapeutic endocrine procedures
+levothyroxine	used for	hypothyroidism treatment
+methimazole	is a type of	other therapeutic endocrine procedures
+methimazole	used for	hyperthyroidism treatment
+propylthiouracil	is a type of	other therapeutic endocrine procedures
+propylthiouracil	used for	hyperthyroidism treatment
+selegiline	is a type of	other therapeutic endocrine procedures
+selegiline	used for	Parkinson's disease treatment
+somatostatin	is a type of	other therapeutic endocrine procedures
+somatostatin	used for	acromegaly treatment
+octreotide	is a type of	other therapeutic endocrine procedures
+octreotide	used for	acromegaly treatment
+leuprolide	is a type of	other therapeutic endocrine procedures
+leuprolide	used for	hormonal disorder treatment
+metformin	is a type of	other therapeutic endocrine procedures
+metformin	used for	diabetes treatment
+cabergoline	is a type of	other therapeutic endocrine procedures
+cabergoline	used for	prolactinoma treatment
+desmopressin	is a type of	other therapeutic endocrine procedures
+desmopressin	used for	diabetes insipidus treatment
+thyrotropin	is a type of	other therapeutic endocrine procedures
+thyrotropin	used for	thyroid cancer treatment
+triiodothyronine	is a type of	other therapeutic endocrine procedures
+triiodothyronine	used for	hypothyroidism treatment
+corticotropin	is a type of	other therapeutic endocrine procedures
+corticotropin	used for	adrenal insufficiency treatment
+prednisone	is a type of	other therapeutic endocrine procedures
+prednisone	used for	inflammation treatment
+fludrocortisone	is a type of	other therapeutic endocrine procedures
+fludrocortisone	used for	adrenal insufficiency treatment
+testosterone	is a type of	other therapeutic endocrine procedures
+testosterone	used for	testosterone deficiency treatment
+carbidopa	is a type of	other therapeutic endocrine procedures
+carbidopa	used for	Parkinson's disease treatment
+levodopa	is a type of	other therapeutic endocrine procedures
+levodopa	used for	Parkinson's disease treatment
+dopamine	is a type of	other therapeutic endocrine procedures
+dopamine	used for	Parkinson's disease treatment
+propylthiouracil	is a type of	other therapeutic endocrine procedures
+propylthiouracil	used for	hyperthyroidism treatment
+radioactive iodine	is a type of	other therapeutic endocrine procedures
+radioactive iodine	used for	thyroid cancer treatment
+octreotide	is a type of	other therapeutic endocrine procedures
+octreotide	used for	acromegaly treatment
+human growth hormone	is a type of	other therapeutic endocrine procedures
+human growth hormone	used for	growth hormone deficiency treatment
+levothyroxine	is a type of	other therapeutic endocrine procedures
+levothyroxine	used for	hypothyroidism treatment
+estradiol	is a type of	other therapeutic endocrine procedures
+estradiol	used for	estrogen replacement therapy
+progesterone	is a type of	other therapeutic endocrine procedures
+progesterone	used for	hormone replacement therapy
+testosterone	is a type of	other therapeutic endocrine procedures
+testosterone	used for	testosterone replacement therapy
+prednisone	is a type of	other therapeutic endocrine procedures
+prednisone	used for	inflammation treatment
+medroxyprogesterone	is a type of	other therapeutic endocrine procedures
+medroxyprogesterone	used for	hormone replacement therapy
+hydrocortisone	is a type of	other therapeutic endocrine procedures
+hydrocortisone	used for	adrenal insufficiency treatment
+glucagon	is a type of	other therapeutic endocrine procedures
+glucagon	used for	hypoglycemia treatment
+insulin	is a type of	other therapeutic endocrine procedures
+insulin	used for	diabetes treatment
+carbidopa	is a type of	other therapeutic endocrine procedures
+carbidopa	used for	Parkinson's disease treatment
+levodopa	is a type of	other therapeutic endocrine procedures
+levodopa	used for	Parkinson's disease treatment
+dopamine	is a type of	other therapeutic endocrine procedures
+dopamine	used for	Parkinson's disease treatment
+octreotide	is a type of	other therapeutic endocrine procedures
+octreotide	used for	acromegaly treatment
+carvedilol	is a type of	other therapeutic endocrine procedures
+carvedilol	used for	hypertension treatment
+pindolol	is a type of	other therapeutic endocrine procedures
+pindolol	used for	hypertension treatment
+atenolol	is a type of	other therapeutic endocrine procedures
+atenolol	used for	hypertension treatment
+metoprolol	is a type of	other therapeutic endocrine procedures
+metoprolol	used for	hypertension treatment
+bisoprolol	is a type of	other therapeutic endocrine procedures
+bisoprolol	used for	hypertension treatment
+propranolol	is a type of	other therapeutic endocrine procedures
+propranolol	used for	hypertension treatment
+hydrochlorothiazide	is a type of	other therapeutic endocrine procedures
+hydrochlorothiazide	used for	hypertension treatment
+lisinopril	is a type of	other therapeutic endocrine procedures
+lisinopril	used for	hypertension treatment
+losartan	is a type of	other therapeutic endocrine procedures
+losartan	used for	hypertension treatment
+ramipril	is a type of	other therapeutic endocrine procedures
+ramipril	used for	hypertension treatment
+valsartan	is a type of	other therapeutic endocrine procedures
+valsartan	used for	hypertension treatment
+olmesartan	is a type of	other therapeutic endocrine procedures
+olmesartan	used for	hypertension treatment
+telmisartan	is a type of	other therapeutic endocrine procedures
+telmisartan	used for	hypertension treatment
+irbesartan	is a type of	other therapeutic endocrine procedures
+irbesartan	used for	hypertension treatment
+candesartan	is a type of	other therapeutic endocrine procedures
+candesartan	used for	hypertension treatment
+epinephrine	is a type of	other therapeutic endocrine procedures
+epinephrine	used for	anaphylaxis treatment
+norepinephrine	is a type of	other therapeutic endocrine procedures
+norepinephrine	used for	hypotension treatment
+dopamine	is a type of	other therapeutic endocrine procedures
+dopamine	used for	circulatory shock treatment
+dobutamine	is a type of	other therapeutic endocrine procedures
+dobutamine	used for	heart failure treatment
+phenylephrine	is a type of	other therapeutic endocrine procedures
+phenylephrine	used for	nasal congestion treatment
+bezafibrate	is a type of	other therapeutic endocrine procedures
+bezafibrate	used for	dyslipidemia treatment
+paracetamol	is a type of	other therapeutic endocrine procedures
+paracetamol	used for	fever treatment
+aspirin	is a type of	other therapeutic endocrine procedures
+aspirin	used for	pain relief
+dexamethasone	is a type of	other therapeutic endocrine procedures
+dexamethasone	used for	inflammation treatment
+hydrocortisone	is a type of	other therapeutic endocrine procedures
+hydrocortisone	used for	adrenal insufficiency treatment
+prednisone	is a type of	other therapeutic endocrine procedures
+prednisone	used for	inflammation treatment
+famotidine	is a type of	other therapeutic endocrine procedures
+famotidine	used for	gastric acid reduction
+ranitidine	is a type of	other therapeutic endocrine procedures
+ranitidine	used for	gastric acid reduction
+cimetidine	is a type of	other therapeutic endocrine procedures
+cimetidine	used for	gastric acid reduction
+omeprazole	is a type of	other therapeutic endocrine procedures
+omeprazole	used for	gastric acid reduction
+lansoprazole	is a type of	other therapeutic endocrine procedures
+lansoprazole	used for	gastric acid reduction
+pantoprazole	is a type of	other therapeutic endocrine procedures
+pantoprazole	used for	gastric acid reduction
+esomeprazole	is a type of	other therapeutic endocrine procedures
+esomeprazole	used for	gastric acid reduction
+rabeprazole	is a type of	other therapeutic endocrine procedures
+rabeprazole	used for	gastric acid reduction

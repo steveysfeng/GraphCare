@@ -1,0 +1,108 @@
+cholecystectomy	is a	surgical procedure
+cholecystectomy	used for	gallbladder removal
+common duct exploration	is a	surgical procedure
+common duct exploration	used for	examination of bile ducts
+cholecystectomy	can lead to	bile duct injury
+common duct exploration	can lead to	bile duct injury
+bile duct injury	can cause	jaundice
+bile duct injury	can cause	abdominal pain
+bile duct injury	can cause	bile leakage
+jaundice	can indicate	liver damage
+jaundice	can indicate	biliary obstruction
+abdominal pain	can indicate	infection
+abdominal pain	can indicate	bile leak
+bile leakage	can lead to	abscess formation
+liver damage	can lead to	liver failure
+liver damage	can lead to	cirrhosis
+biliary obstruction	can lead to	cholangitis
+biliary obstruction	can lead to	pancreatitis
+infection	can lead to	sepsis
+infection	can lead to	peritonitis
+abscess formation	can require	drainage
+abscess formation	can require	antibiotics
+liver failure	can require	liver transplant
+cirrhosis	can lead to	portal hypertension
+cirrhosis	can lead to	hepatic encephalopathy
+cholangitis	can lead to	septic shock
+cholangitis	can lead to	liver abscess
+pancreatitis	can lead to	pancreatic necrosis
+pancreatitis	can lead to	pseudocyst formation
+sepsis	can lead to	multiple organ failure
+sepsis	can lead to	death
+peritonitis	can lead to	septic shock
+peritonitis	can lead to	abdominal compartment syndrome
+portal hypertension	can lead to	variceal bleeding
+portal hypertension	can lead to	ascites
+hepatic encephalopathy	can present with	altered mental status
+hepatic encephalopathy	can present with	asterixis
+septic shock	can result in	hypotension
+septic shock	can result in	decreased urine output
+liver abscess	can require	drainage
+liver abscess	can require	antibiotics
+pancreatic necrosis	can require	surgical debridement
+pancreatic necrosis	can require	antibiotics
+pseudocyst formation	can require	drainage
+pseudocyst formation	can require	endoscopic intervention
+multiple organ failure	can lead to	death
+death	is a	potential outcome
+hypotension	can result in	organ ischemia
+hypotension	can result in	cardiac arrest
+decreased urine output	can indicate	kidney injury
+decreased urine output	can indicate	renal failure
+organ ischemia	can result in	tissue necrosis
+organ ischemia	can result in	organ dysfunction
+cardiac arrest	can result in	brain damage
+cardiac arrest	can result in	death
+kidney injury	can lead to	acute kidney injury
+kidney injury	can lead to	chronic kidney disease
+renal failure	can lead to	dialysis
+renal failure	can lead to	kidney transplant
+tissue necrosis	can require	debridement
+tissue necrosis	can require	amputation
+organ dysfunction	can require	supportive care
+organ dysfunction	can require	organ replacement therapy
+brain damage	can lead to	permanent disability
+brain damage	can lead to	coma
+acute kidney injury	can lead to	kidney failure
+acute kidney injury	can lead to	dialysis
+chronic kidney disease	can progress to	end-stage renal disease
+dialysis	can require	access placement
+dialysis	can require	anticoagulation
+kidney transplant	can require	immunosuppression
+permanent disability	can require	long-term care
+permanent disability	can require	rehabilitation
+coma	can result in	vegetative state
+coma	can result in	death
+kidney failure	can lead to	dialysis
+kidney failure	can lead to	kidney transplant
+end-stage renal disease	can require	dialysis
+end-stage renal disease	can require	kidney transplant
+access placement	can lead to	infection
+access placement	can lead to	thrombosis
+anticoagulation	can increase	bleeding risk
+anticoagulation	can increase	thrombosis risk
+immunosuppression	can increase	infection risk
+immunosuppression	can increase	cancer risk
+infection	can lead to	septicemia
+infection	can lead to	abscess
+thrombosis	can lead to	tissue ischemia
+thrombosis	can lead to	embolism
+bleeding risk	can result in	hemorrhage
+bleeding risk	can result in	hematoma
+cancer risk	can result in	malignancy
+cancer risk	can result in	recurrence
+septicemia	can lead to	septic shock
+septicemia	can lead to	organ failure
+abscess	can require	drainage
+abscess	can require	antibiotics
+tissue ischemia	can result in	necrosis
+tissue ischemia	can result in	infarction
+embolism	can lead to	ischemia
+embolism	can lead to	infarction
+hemorrhage	can require	transfusion
+hemorrhage	can require	surgical repair
+hematoma	can require	drainage
+hematoma	can require	compression
+malignancy	can require	chemotherapy
+malignancy	can require	radiation therapy
+recurrence	can require	additional treatment

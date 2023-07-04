@@ -1,0 +1,106 @@
+injection of esophageal varices	is a	medical procedure
+ligation of esophageal varices	is a	medical procedure
+esophageal varices	can be caused by	liver cirrhosis
+injection of esophageal varices	used for	treatment
+ligation of esophageal varices	used for	treatment
+injection of esophageal varices	can reduce	bleeding
+ligation of esophageal varices	can prevent	bleeding
+esophageal varices	can lead to	gastrointestinal bleeding
+esophageal varices	can cause	portal hypertension
+esophageal varices	can result in	death
+injection of esophageal varices	requires	anesthesia
+ligation of esophageal varices	requires	anesthesia
+injection of esophageal varices	can have	complications
+ligation of esophageal varices	can have	complications
+esophageal varices	can be diagnosed by	endoscopy
+esophageal varices	can be treated with	medication
+injection of esophageal varices	helps to	reduce vessel size
+ligation of esophageal varices	helps to	stop bleeding
+injection of esophageal varices	used in combination with	ligation
+ligation of esophageal varices	used in combination with	injection
+esophageal varices	can cause	esophageal rupture
+esophageal varices	associated with	portal vein thrombosis
+injection of esophageal varices	can lead to	esophageal ulcer
+ligation of esophageal varices	can lead to	esophageal stenosis
+esophageal varices	can be treated by	gastroenterologist
+injection of esophageal varices	performed by	interventional radiologist
+ligation of esophageal varices	performed by	gastroenterologist
+injection of esophageal varices	can be done in	outpatient setting
+ligation of esophageal varices	can be done in	outpatient setting
+injection of esophageal varices	requires	endoscopy
+ligation of esophageal varices	requires	endoscopy
+injection of esophageal varices	can be done under	fluoroscopy
+ligation of esophageal varices	can be done under	endoscopic guidance
+esophageal varices	can be classified as	small	medium or large
+injection of esophageal varices	can cause	esophageal stricture
+ligation of esophageal varices	can cause	esophageal perforation
+injection of esophageal varices	can lead to	rebleeding
+ligation of esophageal varices	can lead to	deep ulceration
+injection of esophageal varices	can decrease	blood pressure
+ligation of esophageal varices	can increase	blood pressure
+esophageal varices	can be managed by	banding
+esophageal varices	can be managed by	sclerotherapy
+injection of esophageal varices	requires	informed consent
+ligation of esophageal varices	requires	informed consent
+injection of esophageal varices	can cause	pain
+ligation of esophageal varices	can cause	dysphagia
+injection of esophageal varices	can lead to	esophagitis
+ligation of esophageal varices	can lead to	gastrointestinal perforation
+injection of esophageal varices	can be performed	under sedation
+ligation of esophageal varices	can be performed	under general anesthesia
+esophageal varices	can be managed by	TIPS procedure
+injection of esophageal varices	can result in	esophageal necrosis
+ligation of esophageal varices	can result in	esophageal scarring
+injection of esophageal varices	can cause	transient dysphagia
+ligation of esophageal varices	can cause	dyspepsia
+injection of esophageal varices	should be done by	experienced physician
+ligation of esophageal varices	should be done by	gastroenterologist
+injection of esophageal varices	performed under	fluoroscopic guidance
+ligation of esophageal varices	performed under	endoscopic ultrasound guidance
+injection of esophageal varices	can be associated with	infectious complications
+ligation of esophageal varices	can be associated with	gastric ulceration
+esophageal varices	can be prevented by	treating underlying liver disease
+injection of esophageal varices	can result in	post-treatment ulceration
+ligation of esophageal varices	can result in	retrosternal pain
+injection of esophageal varices	can lead to	transient hypertension
+ligation of esophageal varices	can lead to	esophageal stricture
+injection of esophageal varices	can cause	aspiration pneumonia
+ligation of esophageal varices	can cause	variceal rebleeding
+injection of esophageal varices	can be performed	using endoscopy
+ligation of esophageal varices	can be performed	using an endoscope
+injection of esophageal varices	can involve	sclerosant injection
+ligation of esophageal varices	can involve	rubber band application
+injection of esophageal varices	can lead to	esophageal ulceration
+ligation of esophageal varices	can lead to	esophageal stricture
+injection of esophageal varices	can cause	intramural hematoma
+ligation of esophageal varices	can cause	esophageal necrosis
+injection of esophageal varices	associated with	increased risk of infection
+ligation of esophageal varices	associated with	increased risk of bleeding
+injection of esophageal varices	can result in	esophageal perforation
+ligation of esophageal varices	can result in	esophageal obstruction
+esophageal varices	can be managed with	vasoconstrictor therapy
+esophageal varices	can be managed with	endoscopic therapy
+injection of esophageal varices	can cause	allergic reaction
+ligation of esophageal varices	can cause	chest pain
+injection of esophageal varices	can lead to	mediastinal emphysema
+ligation of esophageal varices	can lead to	deep ulcer
+injection of esophageal varices	can be used	as a prophylaxis
+ligation of esophageal varices	can be used	as a treatment
+injection of esophageal varices	can be effective	in stopping active bleeding
+ligation of esophageal varices	can be effective	in preventing rebleeding
+injection of esophageal varices	can be done	in emergency setting
+ligation of esophageal varices	can be done	in elective setting
+injection of esophageal varices	can cause	temporary dysphagia
+ligation of esophageal varices	can cause	regurgitation
+injection of esophageal varices	can lead to	esophageal reflux
+ligation of esophageal varices	can lead to	esophageal narrowing
+injection of esophageal varices	can result in	transient chest pain
+ligation of esophageal varices	can result in	retrosternal discomfort
+injection of esophageal varices	can reduce	esophageal variceal pressure
+ligation of esophageal varices	can increase	esophageal variceal pressure
+injection of esophageal varices	can cause	transient hypertension
+ligation of esophageal varices	can cause	acute esophageal obstruction
+injection of esophageal varices	can lead to	post-injection ulceration
+ligation of esophageal varices	can lead to	deep esophageal ulceration
+injection of esophageal varices	can be performed	using intramuscular injection
+ligation of esophageal varices	can be performed	using endoscopy

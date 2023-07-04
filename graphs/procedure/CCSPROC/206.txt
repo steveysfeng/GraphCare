@@ -1,0 +1,14 @@
+microscopic examination	is a	medical procedure
+microscopic examination	used for	diagnosis
+bacterial smear	is a type of	microscopic examination
+culture	is a type of	microscopic examination
+toxicology	is a type of	microscopic examination
+bacterial smear	used for	detecting bacterial infections
+culture	used for	identifying specific bacteria
+toxicology	used for	detecting toxins
+bacterial infections	can cause	sepsis
+specific bacteria	can cause	pneumonia
+toxins	can cause	poisoning
+sepsis	can lead to	organ failure
+pneumonia	can lead to	respiratory failure
+poisoning	can lead to	organ damage

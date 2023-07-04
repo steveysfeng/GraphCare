@@ -1,0 +1,88 @@
+exploratory laparotomy	is a	surgical procedure
+exploratory laparotomy	used for	diagnosis
+exploratory laparotomy	can determine	source of abdominal pain
+exploratory laparotomy	can detect	internal bleeding
+exploratory laparotomy	can identify	organ damage
+exploratory laparotomy	can diagnose	appendicitis
+exploratory laparotomy	can diagnose	tumors
+exploratory laparotomy	can identify	infection
+exploratory laparotomy	can diagnose	hernias
+exploratory laparotomy	used to	evaluate abdominal trauma
+exploratory laparotomy	can detect	adhesions
+exploratory laparotomy	can diagnose	ovarian cysts
+exploratory laparotomy	can identify	gallstones
+exploratory laparotomy	can detect	bowel obstruction
+exploratory laparotomy	can diagnose	ectopic pregnancy
+exploratory laparotomy	can determine	extent of disease
+exploratory laparotomy	can diagnose	endometriosis
+exploratory laparotomy	can detect	pelvic inflammatory disease
+exploratory laparotomy	can identify	kidney stones
+exploratory laparotomy	can diagnose	adnexal masses
+exploratory laparotomy	can determine	cause of pelvic pain
+exploratory laparotomy	can detect	perforation
+exploratory laparotomy	can diagnose	diverticulitis
+exploratory laparotomy	can identify	cystic fibrosis
+exploratory laparotomy	can detect	pancreatic pseudocysts
+exploratory laparotomy	can diagnose	peritonitis
+exploratory laparotomy	can determine	stage of cancer
+exploratory laparotomy	can diagnose	lymphoma
+exploratory laparotomy	can identify	liver disease
+exploratory laparotomy	can detect	ascites
+exploratory laparotomy	can diagnose	gastric ulcers
+exploratory laparotomy	can determine	bowel ischemia
+exploratory laparotomy	can detect	mesenteric lymphadenitis
+exploratory laparotomy	can identify	cholecystitis
+exploratory laparotomy	can diagnose	appendiceal abscess
+exploratory laparotomy	can determine	cause of ascites
+exploratory laparotomy	can detect	hepatobiliary disease
+exploratory laparotomy	can diagnose	ovarian torsion
+exploratory laparotomy	can identify	splenic cysts
+exploratory laparotomy	can detect	retroperitoneal hemorrhage
+exploratory laparotomy	can diagnose	adrenocortical carcinoma
+exploratory laparotomy	can determine	presence of metastasis
+exploratory laparotomy	can diagnose	gastric adenocarcinoma
+exploratory laparotomy	can identify	peritoneal metastasis
+exploratory laparotomy	can detect	bladder rupture
+exploratory laparotomy	can diagnose	ovarian cancer
+exploratory laparotomy	can determine	lymph node involvement
+exploratory laparotomy	can identify	gastric lymphoma
+exploratory laparotomy	can detect	rectal injury
+exploratory laparotomy	can diagnose	colon cancer
+exploratory laparotomy	can determine	presence of abscess
+exploratory laparotomy	can diagnose	renal cell carcinoma
+exploratory laparotomy	can identify	ureteral obstruction
+exploratory laparotomy	can detect	ureteral injury
+exploratory laparotomy	can determine	stage of endometrial cancer
+exploratory laparotomy	can diagnose	neuroblastoma
+exploratory laparotomy	can identify	small bowel obstruction
+exploratory laparotomy	can detect	splenic injury
+exploratory laparotomy	can diagnose	prostate cancer
+exploratory laparotomy	can determine	mesenteric ischemia
+exploratory laparotomy	can identify	rectal cancer
+exploratory laparotomy	can detect	jejunal injury
+exploratory laparotomy	can diagnose	ovarian germ cell tumor
+exploratory laparotomy	can determine	stage of colorectal cancer
+exploratory laparotomy	can identify	pancreatic cancer
+exploratory laparotomy	can detect	urethral injury
+exploratory laparotomy	can diagnose	testicular cancer
+exploratory laparotomy	can determine	stage of pancreatic cancer
+exploratory laparotomy	can identify	adrenal masses
+exploratory laparotomy	can detect	gastric injury
+exploratory laparotomy	can diagnose	retroperitoneal sarcoma
+exploratory laparotomy	can determine	stage of ovarian cancer
+exploratory laparotomy	can identify	bladder injury
+exploratory laparotomy	can detect	testicular injury
+exploratory laparotomy	can diagnose	gallbladder cancer
+exploratory laparotomy	can determine	extent of liver disease
+exploratory laparotomy	can identify	colon polyps
+exploratory laparotomy	can detect	ureteral strictures
+exploratory laparotomy	can diagnose	leiomyosarcoma
+exploratory laparotomy	can determine	extent of metastasis
+exploratory laparotomy	can identify	gastric necrosis
+exploratory laparotomy	can detect	urethral strictures
+exploratory laparotomy	can diagnose	adrenal masses
+exploratory laparotomy	can determine	resectability of tumor
+exploratory laparotomy	can identify	umbilical hernias
+exploratory laparotomy	can detect	vericoceles
+exploratory laparotomy	can diagnose	duodenal cancer
+exploratory laparotomy	can determine	presence of tumor

@@ -1,0 +1,76 @@
+other bowel diagnostic procedures	are	medical procedures
+other bowel diagnostic procedures	used for	diagnosis
+colonoscopy	is a type of	other bowel diagnostic procedures
+colonoscopy	used for	colon cancer screening
+sigmoidoscopy	is a type of	other bowel diagnostic procedures
+sigmoidoscopy	used for	rectal cancer screening
+barium enema	is a type of	other bowel diagnostic procedures
+barium enema	used for	detecting abnormalities in the colon
+virtual colonoscopy	is a type of	other bowel diagnostic procedures
+virtual colonoscopy	used for	colon cancer screening
+guaiac-based fecal occult blood test	is a type of	other bowel diagnostic procedures
+guaiac-based fecal occult blood test	used for	detecting blood in the stool
+fecal immunochemical test	is a type of	other bowel diagnostic procedures
+fecal immunochemical test	used for	colon cancer screening
+computed tomography colonography	is a type of	other bowel diagnostic procedures
+computed tomography colonography	used for	colon cancer screening
+double-contrast barium enema	is a type of	other bowel diagnostic procedures
+double-contrast barium enema	used for	detecting abnormalities in the colon
+flexible sigmoidoscopy	is a type of	other bowel diagnostic procedures
+flexible sigmoidoscopy	used for	rectal cancer screening
+stool DNA test	is a type of	other bowel diagnostic procedures
+stool DNA test	used for	detecting DNA changes in stool associated with colon cancer
+magnetic resonance colonography	is a type of	other bowel diagnostic procedures
+magnetic resonance colonography	used for	colon cancer screening
+capsule endoscopy	is a type of	other bowel diagnostic procedures
+capsule endoscopy	used for	visualizing the small intestine
+fecal occult blood test	is a type of	other bowel diagnostic procedures
+fecal occult blood test	used for	detecting blood in the stool
+wireless capsule endoscopy	is a type of	other bowel diagnostic procedures
+wireless capsule endoscopy	used for	visualizing the small intestine
+radionuclide scanning	is a type of	other bowel diagnostic procedures
+radionuclide scanning	used for	detecting inflammation or infection in the bowel
+fecal immunochemical test	is a type of	other bowel diagnostic procedures
+fecal immunochemical test	used for	detecting blood in the stool
+balloon-assisted enteroscopy	is a type of	other bowel diagnostic procedures
+balloon-assisted enteroscopy	used for	examining the small intestine
+fecal DNA test	is a type of	other bowel diagnostic procedures
+fecal DNA test	used for	detecting DNA changes in stool associated with colon cancer
+stool-based DNA test	is a type of	other bowel diagnostic procedures
+stool-based DNA test	used for	detecting DNA changes in stool associated with colon cancer
+fecal blood test	is a type of	other bowel diagnostic procedures
+fecal blood test	used for	detecting blood in the stool
+wireless capsule endoscopy of the colon	is a type of	other bowel diagnostic procedures
+wireless capsule endoscopy of the colon	used for	visualizing the colon
+ethylene glycol electrolyte solution	is used for	colonoscopy preparation
+magnesium citrate	is used for	colonoscopy preparation
+polyethylene glycol electrolyte solution	is used for	colonoscopy preparation
+trisodium citrate	is used for	colonoscopy preparation
+oral sodium phosphate	is used for	colonoscopy preparation
+sulfate-based solution	is used for	colonoscopy preparation
+bowel preparation	is necessary for	colonoscopy
+bowel preparation	involves	clearing the bowels of fecal matter
+colorectal cancer	is detected through	other bowel diagnostic procedures
+colorectal cancer	is a potential diagnosis for	other bowel diagnostic procedures
+polyps	can be detected through	other bowel diagnostic procedures
+polyps	are a potential finding in	other bowel diagnostic procedures
+inflammatory bowel disease	can be diagnosed through	other bowel diagnostic procedures
+inflammatory bowel disease	is a potential diagnosis for	other bowel diagnostic procedures
+colon cancer	can be detected through	other bowel diagnostic procedures
+colon cancer	is a potential diagnosis for	other bowel diagnostic procedures
+rectal cancer	can be detected through	other bowel diagnostic procedures
+rectal cancer	is a potential diagnosis for	other bowel diagnostic procedures
+abnormalities in the colon	can be detected through	other bowel diagnostic procedures
+abnormalities in the colon	are a potential finding in	other bowel diagnostic procedures
+blood in the stool	can be detected through	other bowel diagnostic procedures
+blood in the stool	is a potential finding in	other bowel diagnostic procedures
+DNA changes in stool associated with colon cancer	can be detected through	other bowel diagnostic procedures
+DNA changes in stool associated with colon cancer	is a potential finding in	other bowel diagnostic procedures
+visualizing the small intestine	can be done through	other bowel diagnostic procedures
+visualizing the small intestine	is a potential use for	other bowel diagnostic procedures
+inflammation or infection in the bowel	can be detected through	other bowel diagnostic procedures
+inflammation or infection in the bowel	is a potential finding in	other bowel diagnostic procedures
+examining the small intestine	can be done through	other bowel diagnostic procedures
+examining the small intestine	is a potential use for	other bowel diagnostic procedures
+visualizing the colon	can be done through	other bowel diagnostic procedures
+visualizing the colon	is a potential use for	other bowel diagnostic procedures

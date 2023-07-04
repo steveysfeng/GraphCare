@@ -1,0 +1,88 @@
+bone marrow transplant	is a	medical procedure
+bone marrow transplant	used for	treatment
+bone marrow transplant	can treat	leukemia
+bone marrow transplant	can treat	lymphoma
+bone marrow transplant	can treat	multiple myeloma
+bone marrow transplant	can treat	aplastic anemia
+bone marrow transplant	can treat	sickle cell disease
+bone marrow transplant	can treat	thalassemia
+bone marrow transplant	can treat	immune deficiency disorders
+bone marrow transplant	can treat	inherited metabolic disorders
+bone marrow transplant	can treat	bone marrow failure syndromes
+bone marrow transplant	can treat	certain cancers
+bone marrow transplant	can treat	non-cancerous diseases
+bone marrow transplant	requires	a donor
+bone marrow transplant	can be	autologous
+bone marrow transplant	can be	allogeneic
+bone marrow transplant	can be	syngeneic
+bone marrow transplant	has	risks
+bone marrow transplant	may cause	graft-versus-host disease
+bone marrow transplant	can lead to	infection
+bone marrow transplant	can lead to	organ damage
+bone marrow transplant	can lead to	graft failure
+bone marrow transplant	can lead to	rejection
+bone marrow transplant	can lead to	relapse
+bone marrow transplant	requires	pre-transplant evaluation
+bone marrow transplant	requires	preparatory regimen
+bone marrow transplant	requires	conditioning therapy
+bone marrow transplant	requires	chemotherapy
+bone marrow transplant	requires	radiation therapy
+bone marrow transplant	requires	immunosuppressive therapy
+bone marrow transplant	requires	hospitalization
+bone marrow transplant	involves	transplanting stem cells
+bone marrow transplant	can use	peripheral blood stem cells
+bone marrow transplant	can use	bone marrow cells
+bone marrow transplant	can use	umbilical cord blood cells
+transplanted cells	can replace	damaged or destroyed cells
+transplanted cells	can produce	new blood cells
+bone marrow transplant	requires	follow-up care
+bone marrow transplant	may require	long-term medication
+bone marrow transplant	may require	lifelong monitoring
+bone marrow transplant	requires	regular check-ups
+bone marrow transplant	can improve	quality of life
+bone marrow transplant	can prolong	survival
+bone marrow transplant	can increase	chances of cure
+bone marrow transplant	can have	complications
+bone marrow transplant	can have	side effects
+bone marrow transplant	can have	psychological impact
+bone marrow transplant	can have	financial impact
+bone marrow transplant	can have	emotional impact
+bone marrow transplant	requires	multidisciplinary team
+bone marrow transplant	requires	specialized facilities
+bone marrow transplant	requires	supportive care
+bone marrow transplant	requires	patient and caregiver education
+bone marrow transplant	requires	informed consent
+bone marrow transplant	is	expensive
+bone marrow transplant	may be	covered by insurance
+bone marrow transplant	is	time-consuming
+bone marrow transplant	may require	travel
+bone marrow transplant	may require	relocation
+bone marrow transplant	may require	temporary separation
+bone marrow transplant	impacts	fertility
+bone marrow transplant	requires	fertility preservation
+bone marrow transplant	requires	donor matching
+bone marrow transplant	requires	HLA typing
+bone marrow transplant	requires	histocompatibility testing
+bone marrow transplant	requires	immunological compatibility
+bone marrow transplant	can have	ethical considerations
+bone marrow transplant	requires	ethical guidelines
+bone marrow transplant	requires	ethical decision-making
+bone marrow transplant	has	clinical trials
+bone marrow transplant	requires	ongoing research
+bone marrow transplant	has	advancements
+bone marrow transplant	requires	improving outcomes
+bone marrow transplant	requires	personalized medicine
+bone marrow transplant	requires	shared decision-making
+bone marrow transplant	requires	patient advocacy
+bone marrow transplant	requires	patient support groups
+bone marrow transplant	requires	psychological counseling
+bone marrow transplant	requires	emotional support
+bone marrow transplant	requires	financial assistance
+bone marrow transplant	requires	community resources
+bone marrow transplant	has	survivorship programs
+bone marrow transplant	requires	long-term follow-up
+bone marrow transplant	requires	post-transplant care
+bone marrow transplant	involves	collaboration
+bone marrow transplant	involves	coordination
+bone marrow transplant	involves	communication
+bone marrow transplant	requires	teamwork

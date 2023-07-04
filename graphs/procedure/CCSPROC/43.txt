@@ -1,0 +1,111 @@
+heart valve procedures	is a	medical treatment
+heart valve procedures	used for	repairing damaged heart valves
+open heart surgery	is a type of	heart valve procedures
+open heart surgery	can be used for	replacing heart valves
+tissue valves	are a type of	heart valves
+tissue valves	can be used in	heart valve procedures
+mechanical valves	are a type of	heart valves
+mechanical valves	can be used in	heart valve procedures
+tissue valves	may cause	calcification over time
+mechanical valves	require	lifelong blood thinners
+heart valve procedures	may be performed	minimally invasively
+minimally invasive surgery	is a type of	heart valve procedures
+minimally invasive surgery	requires	smaller incisions
+heart valve procedures	carry a risk of	infection
+heart valve procedures	can improve	cardiac function
+heart valve procedures	may be necessary	for congenital heart defects
+heart valve procedures	can lead to	improved quality of life
+heart valve procedures	may require	valve replacement in the future
+heart valve procedures	have a risk of	bleeding
+heart valve procedures	can be done	using catheter-based techniques
+catheter-based techniques	are a type of	heart valve procedures
+catheter-based techniques	are less invasive than	open heart surgery
+heart valve procedures	may require	post-operative rehabilitation
+heart valve procedures	can be performed	using robotic-assisted technology
+robotic-assisted technology	is a type of	heart valve procedures
+robotic-assisted technology	can improve	surgical precision
+heart valve procedures	may be recommended for	valve regurgitation
+heart valve procedures	may require	long-term follow-up care
+heart valve procedures	can lead to	long-term survival
+heart valve procedures	can be recommended	for valve stenosis
+heart valve procedures	have a risk of	valve dysfunction
+heart valve procedures	may be necessary	for heart valve infections
+heart valve procedures	can be performed	using minimally invasive methods
+minimally invasive methods	are a type of	heart valve procedures
+minimally invasive methods	result in	shorter hospital stays
+heart valve procedures	may be contraindicated	in certain patients
+heart valve procedures	have a risk of	stroke
+heart valve procedures	can be used	in older adults
+heart valve procedures	have a risk of	blood clots
+heart valve procedures	may require	valve repair instead of replacement
+heart valve procedures	can be performed	to treat valve prolapse
+heart valve procedures	may be required	for aortic valve diseases
+heart valve procedures	can be performed	to treat mitral valve diseases
+heart valve procedures	may require	a multidisciplinary team
+heart valve procedures	can improve	exercise tolerance
+heart valve procedures	may be necessary	for tricuspid valve diseases
+heart valve procedures	carry a risk of	arrhythmias
+heart valve procedures	can be done	using minimally invasive techniques
+minimally invasive techniques	are a type of	heart valve procedures
+minimally invasive techniques	result in	faster recovery times
+heart valve procedures	may be recommended for	valve regurgitation
+heart valve procedures	may require	long-term medication
+heart valve procedures	can lead to	improved heart function
+heart valve procedures	may be necessary	for pulmonary valve diseases
+heart valve procedures	can be performed	to treat aortic valve stenosis
+heart valve procedures	may require	lifestyle modifications
+heart valve procedures	have a risk of	valve thrombosis
+heart valve procedures	can be used	in younger adults
+heart valve procedures	have a risk of	heart failure
+heart valve procedures	may be performed	to treat congenital heart valve abnormalities
+heart valve procedures	can improve	overall quality of life
+heart valve procedures	may be necessary	for patients with prosthetic valves
+heart valve procedures	can be done	using minimally invasive approaches
+minimally invasive approaches	are a type of	heart valve procedures
+minimally invasive approaches	result in	less pain and scarring
+heart valve procedures	may be recommended for	valve stenosis
+heart valve procedures	may require	cardiac rehabilitation
+heart valve procedures	can lead to	improved long-term outcomes
+heart valve procedures	may be necessary	for patients with endocarditis
+heart valve procedures	can be performed	to treat tricuspid valve stenosis
+heart valve procedures	may require	anticoagulation therapy
+heart valve procedures	have a risk of	valve degeneration
+heart valve procedures	can be used	in patients with heart valve disease
+heart valve procedures	have a risk of	valve regurgitation
+heart valve procedures	may be performed	to repair leaking heart valves
+heart valve procedures	can improve	survival rates
+heart valve procedures	may be necessary	for patients with valvular heart disease
+heart valve procedures	can be done	using minimally invasive surgery
+minimally invasive surgery	is a type of	heart valve procedures
+minimally invasive surgery	results in	faster recovery times
+heart valve procedures	carry a risk of	post-operative complications
+heart valve procedures	can be recommended	for patients with valve diseases
+heart valve procedures	may require	long-term monitoring
+heart valve procedures	can lead to	improved outcomes
+heart valve procedures	may be necessary	for patients with heart murmurs
+heart valve procedures	have a risk of	valve obstruction
+heart valve procedures	can be performed	to repair or replace heart valves
+heart valve procedures	may require	a stay in the intensive care unit
+heart valve procedures	can be used	in patients with structural heart defects
+heart valve procedures	have a risk of	valve leakage
+heart valve procedures	may be performed	to treat mitral valve regurgitation
+heart valve procedures	can improve	cardiac rehabilitation outcomes
+heart valve procedures	may be necessary	for patients with valve calcification
+heart valve procedures	can be done	using minimally invasive techniques
+minimally invasive techniques	are a type of	heart valve procedures
+minimally invasive techniques	result in	shorter recovery times
+heart valve procedures	may be recommended for	valve stenosis
+heart valve procedures	may require	long-term anticoagulation therapy
+heart valve procedures	can lead to	improved quality of life
+heart valve procedures	may be necessary	for patients with valve prolapse
+heart valve procedures	carry a risk of	valve thrombosis
+heart valve procedures	can be used	in patients with rheumatic heart disease
+heart valve procedures	have a risk of	valve rupture
+heart valve procedures	may be performed	to treat aortic valve regurgitation
+heart valve procedures	can improve	long-term survival rates
+heart valve procedures	may be necessary	for patients with cardiomyopathy
+heart valve procedures	can be done	using minimally invasive approaches
+minimally invasive approaches	are a type of	heart valve procedures
+minimally invasive approaches	result in	less scarring
+heart valve procedures	may require	long-term medication therapy
+heart valve procedures	can lead to	improved left ventricular function

@@ -1,0 +1,207 @@
+tracheostomy	is a	medical procedure
+tracheostomy	used for	airway management
+tracheostomy	can be	temporary
+temporary tracheostomy	used when	upper airway is obstructed
+temporary tracheostomy	can be	life-saving
+tracheostomy	can be	permanent
+permanent tracheostomy	used when	long-term airway management is needed
+permanent tracheostomy	can be	due to severe respiratory conditions
+tracheostomy	requires	surgical placement
+surgical placement	performed by	an ENT surgeon
+tracheostomy	may lead to	complications
+complications of tracheostomy	include	infection
+complications of tracheostomy	can lead to	scarring
+tracheostomy	requires	ongoing care
+ongoing care of tracheostomy	involves	regular cleaning
+ongoing care of tracheostomy	requires	specialized training
+tracheostomy	can improve	patient's quality of life
+tracheostomy	can facilitate	weaning from mechanical ventilation
+tracheostomy	can be	irreversible
+irreversible tracheostomy	may impact	speech and swallowing abilities
+tracheostomy	may require	tracheostomy tube changes
+tracheostomy tube changes	should be done	under medical supervision
+tracheostomy	should be considered	carefully in pediatric patients
+tracheostomy	can be	performed in emergency situations
+tracheostomy	may require	monitoring of oxygen saturation
+tracheostomy	can be	performed using different techniques
+tracheostomy	can be	performed using open surgical technique
+tracheostomy	can be	performed using percutaneous technique
+tracheostomy	can be	performed using bedside technique
+percutaneous tracheostomy	has	shorter recovery time
+bedside tracheostomy	is suitable for	critical care patients
+tracheostomy	may necessitate	use of ventilator
+tracheostomy	requires	regular follow-up visits
+tracheostomy	may lead to	tracheostomal stenosis
+tracheostomal stenosis	can cause	difficulty in breathing
+tracheostomy	can be	performed under local anesthesia
+tracheostomy	may be	recommended for patients with head and neck cancer
+tracheostomy	may be performed	as a surgical emergency
+tracheostomy	can be	performed in patients with spinal cord injuries
+tracheostomy	may be	required in patients with neuromuscular diseases
+tracheostomy	can be	performed using a surgical incision
+tracheostomy	can be	performed using a dilation technique
+dilation tracheostomy	is less invasive than	surgical tracheostomy
+tracheostomy	may result in	scar formation
+tracheostomy	can be	performed in the ICU
+tracheostomy	requires	preoperative assessment
+tracheostomy	may require	postoperative suctioning
+tracheostomy	can be	performed in patients with burns
+tracheostomy	can be	performed in patients with facial trauma
+tracheostomy	should be	considered for patients with severe obstructive sleep apnea
+tracheostomy	may be	performed to aid in long-term ventilation
+tracheostomy	can be	performed in patients with laryngeal cancer
+tracheostomy	can be	performed using local anesthesia
+tracheostomy	may be	performed in patients with vocal cord paralysis
+vocal cord paralysis	can result in	breathing difficulties
+tracheostomy	may be	performed in patients with tracheal stenosis
+tracheostomy	can be	performed with or without sedation
+tracheostomy	can be	performed using general anesthesia
+tracheostomy	requires	informed consent
+tracheostomy	can be	performed using a tracheostomy set
+tracheostomy set	includes	a tracheostomy tube
+tracheostomy	can be	performed in patients with chronic respiratory failure
+tracheostomy	can be	performed in patients with vocal cord dysfunction
+tracheostomy	can be	performed in patients with bilateral vocal cord paralysis
+tracheostomy	may be	recommended for patients with severe dysphagia
+tracheostomy	may be	performed in patients with laryngotracheitis
+tracheostomy	can be	performed in patients with acute respiratory distress syndrome
+tracheostomy	can be	performed in patients with epiglottitis
+tracheostomy	can be	performed in patients with retropharyngeal abscess
+tracheostomy	may be	performed to alleviate airway obstruction
+tracheostomy	may be	performed as part of a head and neck surgery
+tracheostomy	may be	performed to facilitate weaning from a ventilator
+weaning from a ventilator	may require	gradual reduction of support
+tracheostomy	may be	performed to manage tracheal stenosis
+tracheostomy	can be	performed in patients with severe tracheomalacia
+tracheostomy	can be	performed in patients with glottic stenosis
+tracheostomy	can be	performed in patients with subglottic stenosis
+tracheostomy	may be	recommended for patients with vocal cord granuloma
+tracheostomy	may be	performed in patients with vocal cord cyst
+tracheostomy	may be	performed in patients with vocal cord polyp
+tracheostomy	can be	performed in patients with bilateral vocal cord palsy
+tracheostomy	may be	performed to manage chronic aspiration
+tracheostomy	can be	performed in patients with tracheoesophageal fistula
+tracheostomy	may be	performed in patients with laryngeal fracture
+tracheostomy	can be	performed using a cuffed tracheostomy tube
+tracheostomy	can be	performed using an uncuffed tracheostomy tube
+tracheostomy	can be	performed using a fenestrated tracheostomy tube
+tracheostomy	can be	performed using a non-fenestrated tracheostomy tube
+tracheostomy	can be	performed using a metal tracheostomy tube
+tracheostomy	can be	performed using a disposable tracheostomy tube
+tracheostomy	can be	performed using a silicone tracheostomy tube
+tracheostomy	can be	performed using a plastic tracheostomy tube
+tracheostomy	can be	performed using a silver tracheostomy tube
+tracheostomy	can be	performed using a foam cuff tracheostomy tube
+tracheostomy	can be	performed using a low-pressure cuff tracheostomy tube
+tracheostomy	can be	performed using a high-pressure cuff tracheostomy tube
+tracheostomy	can be	performed using a regular tracheostomy tube
+tracheostomy	can be	performed using a reinforced tracheostomy tube
+tracheostomy	can be	performed using a speaking tracheostomy tube
+tracheostomy	can be	performed using a non-speaking tracheostomy tube
+tracheostomy	can be	performed using a double-lumen tracheostomy tube
+tracheostomy	can be	performed using a metal inner cannula tracheostomy tube
+tracheostomy	can be	performed using a disposable inner cannula tracheostomy tube
+tracheostomy	can be	performed using an adjustable flange tracheostomy tube
+tracheostomy	can be	performed using a one-piece tracheostomy tube
+tracheostomy	can be	performed using a two-piece tracheostomy tube
+tracheostomy	can be	performed using a three-piece tracheostomy tube
+tracheostomy	can be	performed using a fenestrated inner cannula tracheostomy tube
+tracheostomy	can be	performed using a non-fenestrated inner cannula tracheostomy tube
+tracheostomy	can be	performed using a curved tracheostomy tube
+tracheostomy	can be	performed using a straight tracheostomy tube
+tracheostomy	can be	performed using a non-metallic tracheostomy tube
+tracheostomy	can be	performed using a low-profile tracheostomy tube
+tracheostomy	can be	performed using a double-cannula tracheostomy tube
+tracheostomy	can be	performed using a double-ended tracheostomy tube
+tracheostomy	can be	performed using a suction port tracheostomy tube
+tracheostomy	can be	performed using a laryngectomy tube
+tracheostomy	can be	performed using an open tracheostomy tube
+tracheostomy	can be	performed using a close tracheostomy tube
+tracheostomy	can be	performed using a bypass tracheostomy tube
+tracheostomy	can be	performed using a low-flow tracheotomy tube
+tracheostomy	can be	performed using a high-flow tracheotomy tube
+tracheostomy	can be	performed using a cuffed fenestrated tracheostomy tube
+tracheostomy	can be	performed using an uncuffed fenestrated tracheostomy tube
+tracheostomy	can be	performed using a fenestrated inner cannula cuffed tracheostomy tube
+tracheostomy	can be	performed using a fenestrated inner cannula uncuffed tracheostomy tube
+tracheostomy	can be	performed using a fenestrated inner cannula disposable tracheostomy tube
+tracheostomy	can be	performed using a speaking inner cannula tracheostomy tube
+tracheostomy	can be	performed using a non-speaking inner cannula tracheostomy tube
+tracheostomy	can be	performed using a curved inner cannula tracheostomy tube
+tracheostomy	can be	performed using a straight inner cannula tracheostomy tube
+tracheostomy	can be	performed using a non-metallic inner cannula tracheostomy tube
+tracheostomy	can be	performed using a low-profile inner cannula tracheostomy tube
+tracheostomy	can be	performed using a double-cannula inner cannula tracheostomy tube
+tracheostomy	can be	performed using a suction port inner cannula tracheostomy tube
+tracheostomy	can be	performed using an open inner cannula tracheostomy tube
+tracheostomy	can be	performed using a close inner cannula tracheostomy tube
+tracheostomy	can be	performed using a bypass inner cannula tracheostomy tube
+tracheostomy	can be	performed using a low-flow inner cannula tracheotomy tube
+tracheostomy	can be	performed using a high-flow inner cannula tracheotomy tube
+tracheostomy	can be	performed using a fenestrated cuff tracheostomy tube
+tracheostomy	can be	performed using an uncuffed cuff tracheostomy tube
+tracheostomy	can be	performed using a fenestrated cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using an uncuffed cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a fenestrated cuff inner cannula disposable tracheostomy tube
+tracheostomy	can be	performed using a speaking cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a non-speaking cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a curved cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a straight cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a non-metallic cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a low-profile cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a double-cannula cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a suction port cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using an open cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a close cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a bypass cuff inner cannula tracheostomy tube
+tracheostomy	can be	performed using a low-flow cuff inner cannula tracheotomy tube
+tracheostomy	can be	performed using a high-flow cuff inner cannula tracheotomy tube
+tracheostomy	may require	humidification of inspired air
+tracheostomy	can be	performed in patients with myasthenia gravis
+tracheostomy	can be	performed in patients with amyotrophic lateral sclerosis
+tracheostomy	can be	performed in patients with Guillain-Barré syndrome
+tracheostomy	can be	performed in patients with bulbar palsy
+tracheostomy	can be	performed in patients with traumatic brain injury
+tracheostomy	can be	performed in patients with spinal cord injury
+tracheostomy	can be	performed in patients with carbon monoxide poisoning
+tracheostomy	can be	performed in patients with severe asthma
+tracheostomy	can be	performed in patients with chronic obstructive pulmonary disease
+tracheostomy	can be	performed in patients with bronchiectasis
+tracheostomy	can be	performed in patients with cystic fibrosis
+tracheostomy	can be	performed in patients with vocal cord dysfunction
+tracheostomy	can be	performed in patients with severe pneumonia
+tracheostomy	can be	performed in patients with lung cancer
+tracheostomy	can be	performed in patients with chronic lung disease
+tracheostomy	can be	performed in patients with interstitial lung disease
+tracheostomy	can be	performed in patients with respiratory failure
+tracheostomy	can be	performed in patients with neuromuscular diseases
+tracheostomy	can be	performed in patients with chronic lung infections
+tracheostomy	can be	performed in patients with upper airway obstruction
+tracheostomy	can be	performed in patients with tracheal stenosis
+tracheostomy	can be	performed in patients with tracheomalacia
+tracheostomy	can be	performed in patients with chronic stridor
+tracheostomy	can be	performed in patients with vocal cord paralysis
+tracheostomy	may be	recommended for patients with severe oropharyngeal dysphagia
+tracheostomy	may be	performed in patients with tracheal tumors
+tracheostomy	may be	performed in patients with tracheal injuries
+tracheostomy	can be	performed in patients with neuromuscular weakness
+tracheostomy	can be	performed in patients with critical illness
+tracheostomy	may be	performed in patients with tracheobronchomegaly
+tracheostomy	may be	performed in patients with tracheo-innominate artery fistula
+tracheostomy	can be	performed in patients with tracheal web
+tracheostomy	may be	performed in patients with tracheal tumors
+tracheostomy	can be	performed in patients with upper airway obstruction
+tracheostomy	may be	performed in patients with tracheal disruption
+tracheostomy	can be	performed in patients with tracheal tumors
+tracheostomy	may be	performed in patients with laryngeal edema
+tracheostomy	may be	performed in patients with tracheal stenosis
+tracheostomy	may be	performed in patients with tracheomalacia
+tracheostomy	may be	performed in patients with subglottic stenosis
+tracheostomy	may be	performed in patients with laryngeal fracture
+tracheostomy	may be	performed in patients with retropharyngeal abscess
+tracheostomy	may be	performed in patients with tracheoesophageal fistula
+tracheostomy	may be	performed in patients with bacterial tracheitis
+tracheostomy	may be	performed in patients with tracheal foreign body
+tracheostomy	may be	performed in patients with tracheal mass
+tracheostomy	may be	performed in patients with tracheal aspiration
+tracheostomy	may be	performed in patients with tracheal bronchus

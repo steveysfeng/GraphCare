@@ -1,0 +1,78 @@
+lens	is a	medical device
+cataract procedures	are a type of	surgical procedure
+cataract procedures	used for	treating cataracts
+lens replacement	is a type of	cataract procedure
+intraocular lens	is used in	lens replacement
+intraocular lens	improves	vision
+intraocular lens	can correct	astigmatism
+phacoemulsification	is a technique used in	cataract procedures
+phacoemulsification	involves	breaking up the cataract
+phacoemulsification	uses	ultrasonic waves
+laser-assisted cataract surgery	is another technique used in	cataract procedures
+laser-assisted cataract surgery	uses	laser technology
+laser-assisted cataract surgery	may result in	faster recovery
+complications	can occur during	cataract procedures
+complications	include	infection
+complications	include	bleeding
+complications	can lead to	vision loss
+cataract procedures	have	risks
+cataract procedures	have	benefits
+cataract procedures	have	high success rates
+cataract procedures	are performed by	ophthalmologists
+cataract procedures	require	anesthesia
+cataract surgery	is recommended for	significant vision loss
+cataract surgery	is not recommended for	mild cataracts
+cataract surgery	is not performed on	patients with active eye infections
+cataract surgery	can improve	quality of life
+cataract surgery	is covered by	insurance
+cataract surgery	may require	post-operative care
+cataract surgery	may require	prescription eye drops
+cataract surgery	may require	follow-up appointments
+cataract surgery	can be	outpatient
+cataract surgery	can be	performed bilaterally
+cataract surgery	can be	performed in one eye at a time
+cataract surgery	can be	combined with other eye surgeries
+cataract surgery	can be	customized based on patient needs
+cataract surgery	has	different lens options
+multifocal lenses	are a type of	intraocular lens
+multifocal lenses	can provide	better near and distance vision
+toric lenses	are a type of	intraocular lens
+toric lenses	can correct	astigmatism
+extended depth of focus lenses	are a type of	intraocular lens
+extended depth of focus lenses	can provide	clear vision across different distances
+cataract surgery	can result in	improved color perception
+cataract surgery	can result in	reduced dependence on glasses
+cataract surgery	can result in	improved night vision
+cataract surgery	can result in	improved depth perception
+cataract surgery	can result in	improved contrast sensitivity
+cataract surgery	can result in	improved visual acuity
+cataract surgery	can result in	reduced glare
+cataract surgery	can result in	improved overall visual function
+cataract surgery	can result in	improved quality of life
+cataract surgery	can result in	increased independence
+cataract surgery	can result in	improved ability to perform daily activities
+cataract surgery	can result in	enhanced self-esteem
+cataract surgery	can result in	improved psychological well-being
+cataract surgery	can result in	improved confidence
+cataract surgery	can result in	reduced risk of falls
+cataract surgery	can result in	improved driving safety
+cataract surgery	can result in	decreased medication burden
+cataract surgery	can result in	improved cognitive function
+cataract surgery	can result in	improved occupational performance
+cataract surgery	can result in	increased participation in social activities
+cataract surgery	can result in	improved overall health
+cataract surgery	can result in	extended lifespan
+cataract surgery	can result in	improved postural stability
+cataract surgery	can result in	improved adherence to medication regimens
+cataract surgery	can result in	improved cardiovascular health
+cataract surgery	can result in	improved mental health
+cataract surgery	can result in	reduced healthcare utilization
+cataract surgery	can result in	decreased risk of depression
+cataract surgery	can result in	reduced risk of anxiety
+cataract surgery	can result in	improved sleep patterns
+cataract surgery	can result in	overall improved well-being
+cataract surgery	can result in	reduced mortality
+cataract surgery	can result in	reduced healthcare costs
+cataract surgery	can result in	improved patient satisfaction
+cataract surgery	can result in	improved caregiver satisfaction
+cataract surgery	can result in	improved quality-adjusted life years (QALYs)

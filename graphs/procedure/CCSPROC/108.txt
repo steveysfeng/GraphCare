@@ -1,0 +1,59 @@
+indwelling catheter	is a	medical device
+indwelling catheter	used for	urinary retention
+indwelling catheter	can cause	urinary tract infection
+urinary tract infection	can lead to	sepsis
+indwelling catheter	increases	risk of bacteremia
+bacteremia	can lead to	endocarditis
+indwelling catheter	needs regular	maintenance
+indwelling catheter	reduces	patient mobility
+patient mobility	is associated with	pressure ulcers
+pressure ulcers	can lead to	infection
+indwelling catheter	increases	risk of bladder stones
+indwelling catheter	can cause	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can lead to	pyelonephritis
+indwelling catheter	requires	proper hygiene
+indwelling catheter	may cause	discomfort
+discomfort	can lead to	catheter removal
+indwelling catheter	requires	insertion by healthcare professional
+indwelling catheter	can be	temporary
+temporary catheter	may be used	after surgery
+indwelling catheter	should be	changed regularly
+regular change of catheter	reduces	risk of infection
+indwelling catheter	can cause	urethral stricture
+urethral stricture	may require	surgical intervention
+indwelling catheter	should be	secured properly
+properly secured catheter	prevents	accidental removal
+indwelling catheter	should be	flushed regularly
+flushing the catheter	prevents	blockages
+indwelling catheter	can be	managed at home
+indwelling catheter	is associated with	long-term care
+long-term care	requires	specialized nursing
+indwelling catheter	can be	used in palliative care
+palliative care	focuses on	symptom management
+indwelling catheter	can be	used in spinal cord injury
+spinal cord injury	may cause	neurogenic bladder
+indwelling catheter	can be	used in prostate enlargement
+prostate enlargement	can cause	urinary retention
+indwelling catheter	can be	used in childbirth
+childbirth	can cause	temporary urinary incontinence
+temporary urinary incontinence	resolves	within few weeks
+indwelling catheter	can be	used in critically ill patients
+critically ill patients	require	frequent monitoring
+indwelling catheter	can be	used in urinary incontinence
+urinary incontinence	can be	caused by weak pelvic floor muscles
+weak pelvic floor muscles	can be	strengthened with exercises
+indwelling catheter	can be	used in surgery
+surgery	may require	post-operative catheterization
+indwelling catheter	can be	used in bedridden patients
+bedridden patients	are at	increased risk of skin breakdown
+indwelling catheter	can be	used in older adults
+older adults	may experience	cognitive impairment
+cognitive impairment	can affect	catheter adherence
+indwelling catheter	can be	used in spinal cord injury
+spinal cord injury	may cause	neurogenic bladder
+indwelling catheter	can be	used in urinary retention
+urinary retention	can be	caused by prostate problems
+indwelling catheter	can be	used in postoperative care
+postoperative care	focuses on	wound healing
+indwelling catheter	can be	used in end-of-life care
+end-of-life care	prioritizes	comfort

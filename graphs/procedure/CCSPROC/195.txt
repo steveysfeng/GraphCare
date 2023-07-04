@@ -1,0 +1,74 @@
+diagnostic ultrasound	is a	medical procedure
+diagnostic ultrasound	used for	diagnosis
+urinary tract	is a part of	human body
+urinary tract	can be examined by	diagnostic ultrasound
+diagnostic ultrasound	identifies	abnormalities
+diagnostic ultrasound	assists in	treatment planning
+diagnostic ultrasound	helps in	monitoring progress
+diagnostic ultrasound	provides	real-time images
+ultrasound machine	is used for	diagnostic ultrasound
+ultrasound machine	emits	sound waves
+sound waves	penetrate	tissues
+sound waves	bounce off	organs
+echoes	are produced by	sound waves
+echoes	are captured by	ultrasound machine
+transducer	converts	echoes into electrical signals
+electrical signals	are processed by	ultrasound machine
+images	are generated based on	electrical signals
+radiologist	interprets	ultrasound images
+urologist	specializes in	urinary tract
+urologist	relies on	diagnostic ultrasound
+diagnostic ultrasound	helps in	early detection
+diagnostic ultrasound	detects	kidney stones
+diagnostic ultrasound	detects	bladder tumors
+diagnostic ultrasound	assists in	guided biopsies
+biopsy	provides	tissue samples
+tissue samples	are examined for	abnormalities
+diagnostic ultrasound	detects	urinary tract infections
+diagnostic ultrasound	evaluates	urinary obstruction
+diagnostic ultrasound	measures	bladder capacity
+urologist	uses	diagnostic ultrasound for treatment planning
+urologist	performs	surgical procedures based on ultrasound findings
+diagnostic ultrasound	identifies	urinary tract stones
+diagnostic ultrasound	assesses	prostate size
+diagnostic ultrasound	measures	residual urine volume
+diagnostic ultrasound	guides	catheter placement
+catheter	drains	urine
+diagnostic ultrasound	visualizes	kidney size
+diagnostic ultrasound	evaluates	renal blood flow
+diagnostic ultrasound	measures	urethral diameter
+diagnostic ultrasound	detects	urethral strictures
+diagnostic ultrasound	assesses	urinary incontinence
+diagnostic ultrasound	detects	kidney cysts
+diagnostic ultrasound	evaluates	hydronephrosis
+hydronpehrosis	is a	kidney condition
+diagnostic ultrasound	aids in	post-treatment evaluation
+diagnostic ultrasound	detects	recurrent urinary tract infections
+diagnostic ultrasound	identifies	urethral diverticulum
+diagnostic ultrasound	assesses	urinary reflux
+diagnostic ultrasound	evaluates	bladder outlet obstruction
+diagnostic ultrasound	helps in	catheter removal
+ultrasound technician	performs	diagnostic ultrasound
+ultrasound technician	positions	patient for optimal imaging
+ultrasound gel	is applied to	patient skin
+ultrasound gel	enhances	sound wave transmission
+patient	lies down	during diagnostic ultrasound
+ultrasound room	provides	privacy
+diagnostic ultrasound	is non-invasive
+diagnostic ultrasound	is painless
+diagnostic ultrasound	has no radiation
+diagnostic ultrasound	produces	high-frequency waves
+diagnostic ultrasound	is safe for	pregnant women
+ultrasound report	includes	findings
+ultrasound report	aids in	diagnosis
+ultrasound report	is reviewed by	healthcare provider
+diagnostic ultrasound	assists in	preoperative planning
+diagnostic ultrasound	reduces	need for invasive procedures
+diagnostic ultrasound	helps in	monitoring treatment response
+emergency department	uses	diagnostic ultrasound
+diagnostic ultrasound	aids in	triage decisions
+diagnostic ultrasound	measures	urinary bladder volume
+diagnostic ultrasound	detects	urinary retention
+diagnostic ultrasound	assists in	urinary catheterization
+diagnostic ultrasound	guides	percutaneous nephrostomy placement
+percutaneous nephrostomy	drains	urine from kidney

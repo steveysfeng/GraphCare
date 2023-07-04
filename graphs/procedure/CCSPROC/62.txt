@@ -1,0 +1,70 @@
+diagnostic cardiovascular procedures	is a	medical condition
+diagnostic cardiovascular procedures	used for	diagnosis
+electrocardiography	is a type of	diagnostic cardiovascular procedures
+electrocardiography	measures	electrical activity of the heart
+echocardiography	is a type of	diagnostic cardiovascular procedures
+echocardiography	uses	sound waves to create images of the heart
+cardiac catheterization	is a type of	diagnostic cardiovascular procedures
+cardiac catheterization	involves	threading a thin tube into the heart
+coronary angiography	is a type of	diagnostic cardiovascular procedures
+coronary angiography	looks for	blockages in the coronary arteries
+stress testing	is a type of	diagnostic cardiovascular procedures
+stress testing	evaluates	heart function during exercise
+nuclear imaging	is a type of	diagnostic cardiovascular procedures
+nuclear imaging	uses	radioactive tracers to create images of the heart
+computed tomography angiography	is a type of	diagnostic cardiovascular procedures
+computed tomography angiography	produces	detailed images of the heart and blood vessels
+magnetic resonance imaging	is a type of	diagnostic cardiovascular procedures
+magnetic resonance imaging	uses	magnetic fields and radio waves to create images of the heart
+coronary calcium scan	is a type of	diagnostic cardiovascular procedures
+coronary calcium scan	measures	calcium buildup in the coronary arteries
+cardiac ultrasound	is a type of	diagnostic cardiovascular procedures
+cardiac ultrasound	uses	sound waves to create images of the heart
+Holter monitor	is a type of	diagnostic cardiovascular procedures
+Holter monitor	monitors	heart activity for 24 hours
+event monitor	is a type of	diagnostic cardiovascular procedures
+event monitor	records	heart activity when symptoms occur
+tilt table test	is a type of	diagnostic cardiovascular procedures
+tilt table test	evaluates	the cause of fainting
+electrophysiology study	is a type of	diagnostic cardiovascular procedures
+electrophysiology study	evaluates	heart rhythm abnormalities
+myocardial perfusion imaging	is a type of	diagnostic cardiovascular procedures
+myocardial perfusion imaging	assesses	blood flow to the heart
+intravascular ultrasound	is a type of	diagnostic cardiovascular procedures
+intravascular ultrasound	uses	sound waves to create images of blood vessels
+cardiovascular magnetic resonance	is a type of	diagnostic cardiovascular procedures
+cardiovascular magnetic resonance	provides	detailed images of the heart and blood vessels
+exercise stress test	is a type of	diagnostic cardiovascular procedures
+exercise stress test	evaluates	heart function during exercise
+transthoracic echocardiogram	is a type of	diagnostic cardiovascular procedures
+transthoracic echocardiogram	uses	sound waves to create images of the heart through the chest wall
+transesophageal echocardiogram	is a type of	diagnostic cardiovascular procedures
+transesophageal echocardiogram	uses	sound waves to create detailed images of the heart through the esophagus
+stress echocardiogram	is a type of	diagnostic cardiovascular procedures
+stress echocardiogram	evaluates	heart function during exercise
+cardiac magnetic resonance imaging	is a type of	diagnostic cardiovascular procedures
+cardiac magnetic resonance imaging	uses	magnetic fields and radio waves to create detailed images of the heart
+intracardiac ultrasound	is a type of	diagnostic cardiovascular procedures
+intracardiac ultrasound	uses	sound waves to create detailed images of the heart
+coronary flow reserve	is a type of	diagnostic cardiovascular procedures
+coronary flow reserve	measures	blood flow through the coronary arteries
+coronary intravascular ultrasound	is a type of	diagnostic cardiovascular procedures
+coronary intravascular ultrasound	uses	sound waves to create images of the inside of the coronary arteries
+intravascular optical coherence tomography	is a type of	diagnostic cardiovascular procedures
+intravascular optical coherence tomography	provides	high-resolution images of the inside of blood vessels
+fractional flow reserve	is a type of	diagnostic cardiovascular procedures
+fractional flow reserve	measures	blood flow through the coronary arteries
+coronary pressure wire	is a type of	diagnostic cardiovascular procedures
+coronary pressure wire	measures	blood flow and pressure in the coronary arteries
+coronary optical coherence tomography	is a type of	diagnostic cardiovascular procedures
+coronary optical coherence tomography	provides	high-resolution images of the inside of the coronary arteries
+intracoronary ultrasound	is a type of	diagnostic cardiovascular procedures
+intracoronary ultrasound	uses	sound waves to create images of the inside of the coronary arteries
+intracoronary optical coherence tomography	is a type of	diagnostic cardiovascular procedures
+intracoronary optical coherence tomography	provides	detailed images of the inside of the coronary arteries
+intravascular palpography	is a type of	diagnostic cardiovascular procedures
+intravascular palpography	measures	mechanical properties of the coronary arteries
+intracoronary angioscopy	is a type of	diagnostic cardiovascular procedures
+intracoronary angioscopy	uses	a tiny camera to visualize the inside of the coronary arteries
+coronary pressure-derived collateral flow index	is a type of	diagnostic cardiovascular procedures
+coronary pressure-derived collateral flow index	evaluates	the blood flow through collateral vessels in the coronary arteries

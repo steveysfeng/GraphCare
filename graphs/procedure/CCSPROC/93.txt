@@ -1,0 +1,130 @@
+other non-or upper gi therapeutic procedures	is a	medical procedure
+other non-or upper gi therapeutic procedures	used for	treatment
+transcatheter arterial chemoembolization	is a type of	other non-or upper gi therapeutic procedures
+transcatheter arterial chemoembolization	used for	cancer treatment
+laparoscopic hernia repair	is a type of	other non-or upper gi therapeutic procedures
+laparoscopic hernia repair	used for	hernia treatment
+laparoscopic cholecystectomy	is a type of	other non-or upper gi therapeutic procedures
+laparoscopic cholecystectomy	used for	gallbladder removal
+esophageal dilation	is a type of	other non-or upper gi therapeutic procedures
+esophageal dilation	used for	widening the esophagus
+colonic stent placement	is a type of	other non-or upper gi therapeutic procedures
+colonic stent placement	used for	relieving bowel obstruction
+ultrasound-guided liver biopsy	is a type of	other non-or upper gi therapeutic procedures
+ultrasound-guided liver biopsy	used for	liver disease diagnosis
+barium swallow	is a type of	other non-or upper gi therapeutic procedures
+barium swallow	used for	evaluating the esophagus	stomach	and small intestine
+percutaneous endoscopic gastrostomy (peg) tube placement	is a type of	other non-or upper gi therapeutic procedures
+percutaneous endoscopic gastrostomy (peg) tube placement	used for	feeding tube insertion
+endoscopic retrograde cholangiopancreatography (ercp)	is a type of	other non-or upper gi therapeutic procedures
+endoscopic retrograde cholangiopancreatography (ercp)	used for	diagnosing and treating problems in the liver	gallbladder	bile ducts	and pancreas
+endoluminal stent placement	is a type of	other non-or upper gi therapeutic procedures
+endoluminal stent placement	used for	opening blocked blood vessels
+laparoscopic gastric bypass	is a type of	other non-or upper gi therapeutic procedures
+laparoscopic gastric bypass	used for	weight loss
+laparoscopic gastric banding	is a type of	other non-or upper gi therapeutic procedures
+laparoscopic gastric banding	used for	weight loss
+endoscopic mucosal resection	is a type of	other non-or upper gi therapeutic procedures
+endoscopic mucosal resection	used for	removing abnormal tissues
+endoscopic ultrasound (eus)	is a type of	other non-or upper gi therapeutic procedures
+endoscopic ultrasound (eus)	used for	imaging and biopsy of the digestive tract
+heller myotomy	is a type of	other non-or upper gi therapeutic procedures
+heller myotomy	used for	esophageal achalasia treatment
+double-balloon enteroscopy (dbe)	is a type of	other non-or upper gi therapeutic procedures
+double-balloon enteroscopy (dbe)	used for	diagnosing and treating small intestine diseases
+transjugular intrahepatic portosystemic shunt (tips)	is a type of	other non-or upper gi therapeutic procedures
+transjugular intrahepatic portosystemic shunt (tips)	used for	treating portal hypertension
+endoscopic variceal ligation (evl)	is a type of	other non-or upper gi therapeutic procedures
+endoscopic variceal ligation (evl)	used for	treating variceal bleeding
+sphincterotomy	is a type of	other non-or upper gi therapeutic procedures
+sphincterotomy	used for	opening the bile or pancreatic ducts
+gastroenterostomy	is a type of	other non-or upper gi therapeutic procedures
+gastroenterostomy	used for	connecting the stomach and small intestine
+esophageal stenting	is a type of	other non-or upper gi therapeutic procedures
+esophageal stenting	used for	treating esophageal strictures
+transarterial branch embolization (tabs)	is a type of	other non-or upper gi therapeutic procedures
+transarterial branch embolization (tabs)	used for	treating liver cancer
+endoscopic submucosal dissection (esd)	is a type of	other non-or upper gi therapeutic procedures
+endoscopic submucosal dissection (esd)	used for	removing early-stage gastrointestinal tumors
+magnetic resonance enterography (mre)	is a type of	other non-or upper gi therapeutic procedures
+magnetic resonance enterography (mre)	used for	diagnosing and monitoring gastrointestinal diseases
+endoscopic hemostasis	is a type of	other non-or upper gi therapeutic procedures
+endoscopic hemostasis	used for	stopping gastrointestinal bleeding
+transrectal ultrasound-guided prostate biopsy (trus)	is a type of	other non-or upper gi therapeutic procedures
+transrectal ultrasound-guided prostate biopsy (trus)	used for	prostate cancer diagnosis
+endoscopic injection sclerotherapy (es)	is a type of	other non-or upper gi therapeutic procedures
+endoscopic injection sclerotherapy (es)	used for	treating esophageal varices
+transanal endoscopic microsurgery (tem)	is a type of	other non-or upper gi therapeutic procedures
+transanal endoscopic microsurgery (tem)	used for	removing rectal tumors
+transthoracic esophagectomy	is a type of	other non-or upper gi therapeutic procedures
+transthoracic esophagectomy	used for	removing part or all of the esophagus
+endoscopic transoral incisionless fundoplication (tif)	is a type of	other non-or upper gi therapeutic procedures
+endoscopic transoral incisionless fundoplication (tif)	used for	treating gastroesophageal reflux disease (gerd)
+enteral stent placement	is a type of	other non-or upper gi therapeutic procedures
+enteral stent placement	used for	relieving gastrointestinal obstruction
+endoscopic sphincterotomy	is a type of	other non-or upper gi therapeutic procedures
+endoscopic sphincterotomy	used for	treating biliary and pancreatic duct disorders
+transhiatal esophagectomy with gastric interposition	is a type of	other non-or upper gi therapeutic procedures
+transhiatal esophagectomy with gastric interposition	used for	removing the esophagus and replacing it with part of the stomach
+transduodenal sphincteroplasty	is a type of	other non-or upper gi therapeutic procedures
+transduodenal sphincteroplasty	used for	treating sphincter of oddi dysfunction
+zygomatic arch fracture repair	is a type of	other non-or upper gi therapeutic procedures
+zygomatic arch fracture repair	used for	fixing a fractured zygomatic arch
+drainage of bile duct	is a type of	other non-or upper gi therapeutic procedures
+drainage of bile duct	used for	removing bile from the bile duct
+gastric balloon placement	is a type of	other non-or upper gi therapeutic procedures
+gastric balloon placement	used for	weight loss
+endoscopic clips	is a type of	other non-or upper gi therapeutic procedures
+endoscopic clips	used for	closing blood vessels or gastrointestinal tissue
+transnasal esophagoscopy (tne)	is a type of	other non-or upper gi therapeutic procedures
+transnasal esophagoscopy (tne)	used for	diagnosing esophageal conditions
+endoscopic foreign body removal	is a type of	other non-or upper gi therapeutic procedures
+endoscopic foreign body removal	used for	extracting foreign objects from the digestive tract
+exploratory laparotomy	is a type of	other non-or upper gi therapeutic procedures
+exploratory laparotomy	used for	exploring and examining the abdomen
+transscleral cyclophotocoagulation (ts-cpc)	is a type of	other non-or upper gi therapeutic procedures
+transscleral cyclophotocoagulation (ts-cpc)	used for	reducing intraocular pressure in glaucoma
+iridotomy	is a type of	other non-or upper gi therapeutic procedures
+iridotomy	used for	treating narrow-angle glaucoma
+laparoscopic nissen fundoplication	is a type of	other non-or upper gi therapeutic procedures
+laparoscopic nissen fundoplication	used for	treating severe gastroesophageal reflux disease (gerd)
+transvaginal mesh removal	is a type of	other non-or upper gi therapeutic procedures
+transvaginal mesh removal	used for	removing vaginal mesh implants
+endoscopic nasopharyngectomy	is a type of	other non-or upper gi therapeutic procedures
+endoscopic nasopharyngectomy	used for	removing nasopharyngeal tumors
+endoscopic frontal sinusotomy	is a type of	other non-or upper gi therapeutic procedures
+endoscopic frontal sinusotomy	used for	opening the frontal sinus
+enteral feeding tube placement	is a type of	other non-or upper gi therapeutic procedures
+enteral feeding tube placement	used for	delivering nutrition directly to the stomach or small intestine
+hepatic artery infusion pump placement	is a type of	other non-or upper gi therapeutic procedures
+hepatic artery infusion pump placement	used for	delivering chemotherapy directly to the liver
+laparoscopic gastric sleeve	is a type of	other non-or upper gi therapeutic procedures
+laparoscopic gastric sleeve	used for	weight loss
+endoscopic rectal polypectomy	is a type of	other non-or upper gi therapeutic procedures
+endoscopic rectal polypectomy	used for	removing polyps from the rectum
+endoscopic sinus surgery	is a type of	other non-or upper gi therapeutic procedures
+endoscopic sinus surgery	used for	treating sinusitis
+esophagectomy	is a type of	other non-or upper gi therapeutic procedures
+esophagectomy	used for	removing part or all of the esophagus
+colonic decompression	is a type of	other non-or upper gi therapeutic procedures
+colonic decompression	used for	relieving colonic obstruction
+secondary intraocular lens (iol) implantation	is a type of	other non-or upper gi therapeutic procedures
+secondary intraocular lens (iol) implantation	used for	replacing a clouded or damaged intraocular lens
+radiofrequency ablation (rfa)	is a type of	other non-or upper gi therapeutic procedures
+radiofrequency ablation (rfa)	used for	destroying abnormal tissues with heat
+myringotomy	is a type of	other non-or upper gi therapeutic procedures
+myringotomy	used for	relieving pressure or fluid from the middle ear
+meckel diverticulum resection	is a type of	other non-or upper gi therapeutic procedures
+meckel diverticulum resection	used for	removing a meckel diverticulum
+esophagogastrectomy	is a type of	other non-or upper gi therapeutic procedures
+esophagogastrectomy	used for	removing part or all of the esophagus and stomach
+transrectal ultrasound-guided ablation (trus)	is a type of	other non-or upper gi therapeutic procedures
+transrectal ultrasound-guided ablation (trus)	used for	destroying prostate tissue with heat
+endoscopic biliary stent placement	is a type of	other non-or upper gi therapeutic procedures
+endoscopic biliary stent placement	used for	relieving biliary obstruction
+endoscopic sphincterotomy and stone extraction	is a type of	other non-or upper gi therapeutic procedures
+endoscopic sphincterotomy and stone extraction	used for	removing stones from the bile or pancreatic ducts
+endoscopic mucosal resection of the colon	is a type of	other non-or upper gi therapeutic procedures
+endoscopic mucosal resection of the colon	used for	removing abnormal tissues from the colon
+hallpike maneuver	is a type of	other non-or upper gi therapeutic procedures
+hallpike maneuver	used for	diagnosing benign paroxysmal positional vertigo (bppv)

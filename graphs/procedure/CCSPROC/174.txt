@@ -1,0 +1,14 @@
+other non-or therapeutic procedures	are performed on	skin
+other non-or therapeutic procedures	are performed on	breast
+skin	can undergo	surgical procedures
+skin	can undergo	non-surgical procedures
+breast	can undergo	surgical procedures
+breast	can undergo	non-surgical procedures
+surgical procedures	can be used for	skin
+surgical procedures	can be used for	breast
+non-surgical procedures	can be used for	skin
+non-surgical procedures	can be used for	breast
+skin	can be treated with	therapeutic procedures
+breast	can be treated with	therapeutic procedures
+therapeutic procedures	can be used for	skin
+therapeutic procedures	can be used for	breast

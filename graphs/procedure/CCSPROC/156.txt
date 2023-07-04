@@ -1,0 +1,98 @@
+injections	used for	treatment
+aspirations	used for	diagnosis
+muscles	can be injected with	medication
+tendons	can be injected with	medication
+bursa	can be injected with	medication
+joints	can be injected with	medication
+soft tissue	can be injected with	medication
+injections	can relieve	pain
+aspirations	can help diagnose	infections
+muscle injections	can treat	muscle strains
+tendon injections	can treat	tendonitis
+bursal injections	can treat	bursitis
+joint injections	can treat	arthritis
+soft tissue injections	can treat	inflammation
+injections	can improve	mobility
+aspirations	can remove	excess fluid
+muscle injections	can reduce	muscle spasms
+tendon injections	can promote	healing
+bursal injections	can alleviate	swelling
+joint injections	can decrease	joint pain
+soft tissue injections	can reduce	swelling
+injections	can be done with	local anesthesia
+aspirations	can be done with	ultrasound guidance
+muscle injections	can be performed by	a physician
+tendon injections	can be performed by	a healthcare provider
+bursal injections	can be performed by	a healthcare professional
+joint injections	can be performed by	a rheumatologist
+soft tissue injections	can be performed by	a orthopedic surgeon
+injections	may cause	infection
+aspirations	may cause	bleeding
+muscle injections	may cause	bruising
+tendon injections	may cause	tendon rupture
+bursal injections	may cause	allergic reaction
+joint injections	may cause	joint infection
+soft tissue injections	may cause	nerve damage
+injections	should be done by	a trained professional
+aspirations	should be done in	a sterile environment
+muscle injections	should be performed under	sterile conditions
+tendon injections	should be performed using	aseptic technique
+bursal injections	should be performed with	caution
+joint injections	should be performed with	fluoroscopy guidance
+soft tissue injections	should be performed using	ultrasound guidance
+injections	can be repeated	as needed
+aspirations	can help determine	a diagnosis
+muscle injections	can be administered	in office
+tendon injections	can be administered	in clinic
+bursal injections	can be administered	in hospital
+joint injections	can be administered	in outpatient setting
+soft tissue injections	can be administered	in ambulatory surgery center
+injections	are safe	when done properly
+aspirations	are helpful	for joint fluid analysis
+muscle injections	are beneficial	for muscle pain
+tendon injections	are effective	for tendon disorders
+bursal injections	are useful	for bursa inflammation
+joint injections	are recommended	for arthritis management
+soft tissue injections	are commonly used	for pain relief
+injections	can be covered	by insurance
+aspirations	can be uncomfortable	for patients
+muscle injections	can be costly	without insurance
+tendon injections	can be time-consuming	for healthcare providers
+bursal injections	can be challenging	due to anatomical variations
+joint injections	can be contraindicated	in certain conditions
+soft tissue injections	can be invasive	depending on the site
+injections	should be monitored	for adverse effects
+aspirations	should be documented	for medical records
+muscle injections	should be evaluated	for effectiveness
+tendon injections	should be assessed	for response
+bursal injections	should be considered	in recurrent cases
+joint injections	should be reviewed	periodically
+soft tissue injections	should be discussed	with the patient
+injections	may require	premedication
+aspirations	may necessitate	rest afterwards
+muscle injections	may require	physical therapy
+tendon injections	may necessitate	immobilization
+bursal injections	may require	follow-up appointments
+joint injections	may necessitate	joint protection
+soft tissue injections	may require	post-procedure care
+injections	can be performed	in various settings
+aspirations	can be guided	by imaging
+muscle injections	can be beneficial	for sports injuries
+tendon injections	can provide relief	for chronic pain
+bursal injections	can reduce	inflammation
+joint injections	can improve	joint function
+soft tissue injections	can decrease	pain and swelling
+injections	can be localized	to specific areas
+aspirations	can help identify	underlying infections
+muscle injections	can target	specific muscles
+tendon injections	can deliver	medication directly
+bursal injections	can reduce	excess fluid
+joint injections	can provide	long-term relief
+soft tissue injections	can promote	tissue healing
+injections	are commonly used	in orthopedics
+aspirations	are often performed	in rheumatology
+muscle injections	are frequently used	in sports medicine
+tendon injections	are commonly prescribed	in podiatry
+bursal injections	are commonly recommended	in physical therapy
+joint injections	are commonly administered	in pain management
+soft tissue injections	are often utilized	in dermatology

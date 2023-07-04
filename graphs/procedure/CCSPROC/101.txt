@@ -1,0 +1,126 @@
+transurethral excision	is a	medical procedure
+transurethral excision	used for	removing urinary obstruction
+drainage	is a	medical procedure
+drainage	used for	relieving urinary obstruction
+removal	is a	medical procedure
+removal	used for	treating urinary obstruction
+transurethral excision	can cause	bleeding
+transurethral excision	can result in	infection
+transurethral excision	can lead to	urinary incontinence
+drainage	can cause	pain
+drainage	can result in	infection
+drainage	can lead to	urinary tract infection
+removal	can cause	pain
+removal	can result in	infection
+removal	can lead to	urinary retention
+transurethral excision	is performed by	urologist
+drainage	is performed by	urologist
+removal	is performed by	urologist
+transurethral excision	requires	anesthesia
+drainage	requires	anesthesia
+removal	requires	anesthesia
+transurethral excision	is performed in	hospital
+drainage	is performed in	hospital
+removal	is performed in	hospital
+transurethral excision	can be done under	local anesthesia
+drainage	can be done under	local anesthesia
+removal	can be done under	local anesthesia
+transurethral excision	can be done under	general anesthesia
+drainage	can be done under	general anesthesia
+removal	can be done under	general anesthesia
+transurethral excision	is a common	urological procedure
+drainage	is a common	urological procedure
+removal	is a common	urological procedure
+transurethral excision	sometimes requires	catheterization
+drainage	sometimes requires	catheterization
+removal	sometimes requires	catheterization
+transurethral excision	can be done as an	outpatient procedure
+drainage	can be done as an	outpatient procedure
+removal	can be done as an	outpatient procedure
+transurethral excision	can be done as an	inpatient procedure
+drainage	can be done as an	inpatient procedure
+removal	can be done as an	inpatient procedure
+transurethral excision	may be recommended for	bladder stones
+drainage	may be recommended for	abscesses
+removal	may be recommended for	tumors
+transurethral excision	may result in	temporary urinary catheter
+transurethral excision	may result in	blood in urine
+transurethral excision	may result in	urinary urgency
+drainage	may result in	drainage tube
+drainage	may result in	wound infection
+drainage	may result in	urinary tract infection
+removal	may result in	urinary retention
+removal	may result in	wound infection
+removal	may result in	bleeding
+transurethral excision	is covered by	health insurance
+drainage	is covered by	health insurance
+removal	is covered by	health insurance
+transurethral excision	has a	recovery period
+drainage	has a	recovery period
+removal	has a	recovery period
+transurethral excision	can lead to	scarring
+drainage	can lead to	scarring
+removal	can lead to	scarring
+transurethral excision	can be performed	with laser
+drainage	can be performed	with ultrasound
+removal	can be performed	with laparoscope
+transurethral excision	is a procedure	for men
+drainage	is a procedure	for both men and women
+removal	is a procedure	for both men and women
+transurethral excision	is performed in	operating room
+drainage	is performed in	operating room
+removal	is performed in	operating room
+transurethral excision	may require	preoperative testing
+drainage	may require	preoperative testing
+removal	may require	preoperative testing
+transurethral excision	may be recommended for	prostate enlargement
+drainage	may be recommended for	urinary tract infection
+removal	may be recommended for	kidney stones
+transurethral excision	may be done in	emergency situation
+drainage	may be done in	emergency situation
+removal	may be done in	emergency situation
+transurethral excision	may require	blood transfusion
+drainage	may require	blood transfusion
+removal	may require	blood transfusion
+transurethral excision	can be performed	with resectoscope
+drainage	can be performed	with tube
+removal	can be performed	with forceps
+transurethral excision	is a minimally invasive	procedure
+drainage	is a minimally invasive	procedure
+removal	is a minimally invasive	procedure
+transurethral excision	is associated with	bladder trauma
+drainage	is associated with	drainage complications
+removal	is associated with	renal injury
+transurethral excision	can be done with	electric current
+drainage	can be done with	catheter
+removal	can be done with	robotic assistance
+transurethral excision	can result in	urinary incontinence
+transurethral excision	can result in	erectile dysfunction
+transurethral excision	can result in	retrograde ejaculation
+drainage	can result in	urinary retention
+drainage	can result in	bladder infection
+drainage	can result in	urinary fistula
+removal	can result in	kidney damage
+removal	can result in	ureteral injury
+removal	can result in	bowel injury
+transurethral excision	is an	invasive procedure
+drainage	is an	invasive procedure
+removal	is an	invasive procedure
+transurethral excision	can be performed	with anesthesia
+drainage	can be performed	with anesthesia
+removal	can be performed	with anesthesia
+transurethral excision	can be performed	with cystoscope
+drainage	can be performed	with needle
+removal	can be performed	with endoscope
+transurethral excision	can be done with	ablation technique
+drainage	can be done with	incision technique
+removal	can be done with	extraction technique
+transurethral excision	may be used to	treat stricture
+drainage	may be used to	treat abscess
+removal	may be used to	treat tumor
+transurethral excision	can be done in	supine position
+drainage	can be done in	prone position
+removal	can be done in	lithotomy position
+transurethral excision	requires	bladder irrigation
+drainage	requires	wound care
+removal	requires	pain management

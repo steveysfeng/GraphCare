@@ -1,0 +1,203 @@
+diagnostic endocrine procedures	are	medical tests
+diagnostic endocrine procedures	used for	diagnosing hormonal disorders
+thyroid function test	is a	diagnostic endocrine procedure
+thyroid function test	measures	hormone levels
+hormonal imbalance	can be detected by	diagnostic endocrine procedures
+hormonal imbalance	may lead to	infertility
+diagnostic endocrine procedures	can help in	fertility evaluation
+laboratory assays	are used for	diagnostic endocrine procedures
+laboratory assays	analyze	hormonal levels
+diagnostic endocrine procedures	assist in	determining treatment options
+diagnostic endocrine procedures	aid in	monitoring response to treatment
+diagnostic endocrine procedures	can assess	adrenal function
+adrenal insufficiency	can be diagnosed by	diagnostic endocrine procedures
+diagnostic endocrine procedures	can detect	pituitary tumors
+pituitary tumors	can cause	hormonal disturbances
+diagnostic endocrine procedures	are essential for	diabetes management
+diabetes management	involves	monitoring blood glucose levels
+diagnostic endocrine procedures	help in	identifying thyroid disorders
+thyroid disorders	affect	hormone production
+diagnostic endocrine procedures	are crucial for	managing growth abnormalities
+growth hormone deficiency	can be diagnosed by	diagnostic endocrine procedures
+diagnostic endocrine procedures	can diagnose	polycystic ovary syndrome
+polycystic ovary syndrome	is a	hormonal disorder
+diagnostic endocrine procedures	play a role in	assessing bone health
+low bone density	can be identified using	diagnostic endocrine procedures
+diagnostic endocrine procedures	are used in	obesity evaluation
+obesity	is associated with	hormonal imbalances
+diagnostic endocrine procedures	help in	diagnosing and managing thyroid cancer
+thyroid cancer	may require	surgical intervention
+hormonal imbalances	can be treated with	hormone replacement therapy
+hormone replacement therapy	is prescribed based on	diagnostic endocrine procedures
+diagnostic endocrine procedures	contribute to	fertility preservation
+fertility preservation	is important for	cancer patients undergoing treatment
+diagnostic endocrine procedures	assist in	evaluating pubertal development
+abnormal pubertal development	can be identified through	diagnostic endocrine procedures
+diagnostic endocrine procedures	are used to	diagnose and manage adrenal disorders
+adrenal disorders	affect	hormone production
+diagnostic endocrine procedures	help in	diagnosing and managing pituitary disorders
+pituitary disorders	can disrupt	hormone regulation
+diagnostic endocrine procedures	assist in	diagnosing and managing insulin resistance
+insulin resistance	is associated with	metabolic disorders
+diagnostic endocrine procedures	are important for	managing menopausal symptoms
+menopausal symptoms	are caused by	hormonal changes
+diagnostic endocrine procedures	help in	diagnosing and managing parathyroid disorders
+parathyroid disorders	affect	calcium levels
+diagnostic endocrine procedures	play a role in	evaluating adrenal gland function
+adrenal gland dysfunction	can be assessed through	diagnostic endocrine procedures
+diagnostic endocrine procedures	help in	diagnosing and managing gonadal disorders
+gonadal disorders	affect	reproductive function
+diagnostic endocrine procedures	assist in	diagnosing and managing metabolic bone diseases
+metabolic bone diseases	affect	bone health
+diagnostic endocrine procedures	play a role in	assessing and managing osteoporosis
+osteoporosis	is characterized by	low bone density
+diagnostic endocrine procedures	aid in	understanding the etiology of hormonal disorders
+etiology of hormonal disorders	can be determined through	diagnostic endocrine procedures
+diagnostic endocrine procedures	contribute to	assessing and managing diabetes mellitus
+diabetes mellitus	requires	careful monitoring of blood glucose levels
+diagnostic endocrine procedures	help in	diagnosing and managing Cushing's syndrome
+Cushing's syndrome	is caused by	excessive cortisol production
+diagnostic endocrine procedures	are used to	diagnose and manage hypothyroidism
+hypothyroidism	is characterized by	low thyroid hormone levels
+diagnostic endocrine procedures	assist in	diagnosing and managing hyperthyroidism
+hyperthyroidism	is characterized by	high thyroid hormone levels
+diagnostic endocrine procedures	aid in	diagnosing and managing adrenal insufficiency
+adrenal insufficiency	results in	insufficient cortisol production
+diagnostic endocrine procedures	help in	diagnosing and managing pheochromocytoma
+pheochromocytoma	is a	tumor of the adrenal glands
+diagnostic endocrine procedures	play a role in	assessing and managing acromegaly
+acromegaly	is caused by	excessive growth hormone production
+diagnostic endocrine procedures	assist in	diagnosing and managing hyperparathyroidism
+hyperparathyroidism	is characterized by	excessive parathyroid hormone levels
+diagnostic endocrine procedures	contribute to	assessing and managing hypoparathyroidism
+hypoparathyroidism	is characterized by	low parathyroid hormone levels
+diagnostic endocrine procedures	help in	diagnosing and managing primary aldosteronism
+primary aldosteronism	is characterized by	excessive aldosterone production
+diagnostic endocrine procedures	are used to	diagnose and manage hypogonadism
+hypogonadism	results in	insufficient sex hormone production
+diagnostic endocrine procedures	assist in	diagnosing and managing hypergonadism
+hypergonadism	results in	excessive sex hormone production
+diagnostic endocrine procedures	contribute to	assessing and managing hypercalcemia
+hypercalcemia	is characterized by	high levels of calcium in the blood
+diagnostic endocrine procedures	play a role in	evaluating and managing hypocalcemia
+hypocalcemia	is characterized by	low levels of calcium in the blood
+diagnostic endocrine procedures	help in	diagnosing and managing hypoglycemia
+hypoglycemia	is characterized by	low blood glucose levels
+diagnostic endocrine procedures	assist in	diagnosing and managing insulinoma
+insulinoma	is a	tumor of the pancreas
+diagnostic endocrine procedures	contribute to	assessing and managing Graves' disease
+Graves' disease	is an	autoimmune disorder
+diagnostic endocrine procedures	play a role in	diagnosing and managing Hashimoto's thyroiditis
+Hashimoto's thyroiditis	is an	autoimmune disorder
+diagnostic endocrine procedures	are used to	diagnose and manage Addison's disease
+Addison's disease	results in	insufficient adrenal gland function
+diagnostic endocrine procedures	help in	diagnosing and managing polycystic adrenal syndrome
+polycystic adrenal syndrome	is characterized by	the presence of multiple cysts on the adrenal glands
+diagnostic endocrine procedures	assist in	diagnosing and managing disorder of sexual development
+disorder of sexual development	affects	reproductive function
+diagnostic endocrine procedures	are important for	managing congenital adrenal hyperplasia
+congenital adrenal hyperplasia	results in	abnormal hormone production
+diagnostic endocrine procedures	contribute to	assessing and managing acanthosis nigricans
+acanthosis nigricans	is a	skin condition associated with insulin resistance
+diagnostic endocrine procedures	play a role in	diagnosing and managing hirsutism
+hirsutism	is characterized by	excessive hair growth
+diagnostic endocrine procedures	assist in	diagnosing and managing gynecomastia
+gynecomastia	is characterized by	enlargement of breast tissue in males
+diagnostic endocrine procedures	contribute to	assessing and managing metabolic syndrome
+metabolic syndrome	is characterized by	a combination of factors that increase the risk of cardiovascular disease and diabetes
+diagnostic endocrine procedures	help in	diagnosing and managing hypopituitarism
+hypopituitarism	results in	insufficient pituitary hormone production
+diagnostic endocrine procedures	are used to	diagnose and manage adrenal adenoma
+adrenal adenoma	is a	noncancerous tumor of the adrenal gland
+diagnostic endocrine procedures	assist in	diagnosing and managing Cushing's disease
+Cushing's disease	is caused by	excess production of adrenocorticotropic hormone
+diagnostic endocrine procedures	contribute to	assessing and managing hyperthyroidism during pregnancy
+hyperthyroidism during pregnancy	can have	adverse effects on maternal and fetal health
+diagnostic endocrine procedures	play a role in	diagnosing and managing hypothyroidism during pregnancy
+hypothyroidism during pregnancy	can have	adverse effects on maternal and fetal health
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational diabetes
+gestational diabetes	is a	type of diabetes that occurs during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing preeclampsia
+preeclampsia	is a	pregnancy complication characterized by high blood pressure and organ damage
+diagnostic endocrine procedures	help in	diagnosing and managing gestational trophoblastic disease
+gestational trophoblastic disease	is a	group of rare tumors that develop in the uterus during pregnancy
+diagnostic endocrine procedures	are used to	diagnose and manage gestational thyrotoxicosis
+gestational thyrotoxicosis	is a	temporary condition of high thyroid hormone levels during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hypothyroidism
+gestational hypothyroidism	is a	temporary condition of low thyroid hormone levels during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational adrenocortical insufficiency
+gestational adrenocortical insufficiency	is a	temporary condition of insufficient adrenal gland function during pregnancy
+diagnostic endocrine procedures	play a role in	diagnosing and managing gestational diabetes insipidus
+gestational diabetes insipidus	is a	temporary condition of excessive urine production during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hypercalcemia
+gestational hypercalcemia	is a	temporary condition of high levels of calcium in the blood during pregnancy
+diagnostic endocrine procedures	are important for	assessing and managing gestational hypocalcemia
+gestational hypocalcemia	is a	temporary condition of low levels of calcium in the blood during pregnancy
+diagnostic endocrine procedures	help in	diagnosing and managing gestational hypoglycemia
+gestational hypoglycemia	is a	temporary condition of low blood glucose levels during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational insulinoma
+gestational insulinoma	is a	temporary condition of a tumor of the pancreas causing excessive insulin production during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational hyperthyroidism
+gestational hyperthyroidism	is a	temporary condition of high thyroid hormone levels during pregnancy
+diagnostic endocrine procedures	play a role in	diagnosing and managing gestational hypothyroidism
+gestational hypothyroidism	is a	temporary condition of low thyroid hormone levels during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational adrenal adenoma
+gestational adrenal adenoma	is a	temporary condition of a noncancerous tumor of the adrenal gland during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational Cushing's disease
+gestational Cushing's disease	is a	temporary condition caused by excess production of adrenocorticotropic hormone during pregnancy
+diagnostic endocrine procedures	help in	diagnosing and managing gestational hyperprolactinemia
+gestational hyperprolactinemia	is a	temporary condition of high prolactin levels during pregnancy
+diagnostic endocrine procedures	are used to	diagnose and manage gestational thyrotoxic adenoma
+gestational thyrotoxic adenoma	is a	noncancerous tumor of the thyroid gland causing high thyroid hormone production during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hypothyroid adenoma
+gestational hypothyroid adenoma	is a	noncancerous tumor of the thyroid gland causing low thyroid hormone production during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational pituitary adenoma
+gestational pituitary adenoma	is a	noncancerous tumor of the pituitary gland during pregnancy
+diagnostic endocrine procedures	play a role in	diagnosing and managing gestational hyperparathyroidism
+gestational hyperparathyroidism	is a	temporary condition of excessive parathyroid hormone levels during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hypoparathyroidism
+gestational hypoparathyroidism	is a	temporary condition of low parathyroid hormone levels during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational primary hyperaldosteronism
+gestational primary hyperaldosteronism	is a	temporary condition of excessive aldosterone production during pregnancy
+diagnostic endocrine procedures	help in	diagnosing and managing gestational secondary hyperaldosteronism
+gestational secondary hyperaldosteronism	is a	temporary condition of excessive aldosterone production due to other medical conditions during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hypogonadism
+gestational hypogonadism	is a	temporary condition of insufficient sex hormone production during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational hypergonadism
+gestational hypergonadism	is a	temporary condition of excessive sex hormone production during pregnancy
+diagnostic endocrine procedures	play a role in	diagnosing and managing gestational hypercalcemia
+gestational hypercalcemia	is a	temporary condition of high levels of calcium in the blood during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hypocalcemia
+gestational hypocalcemia	is a	temporary condition of low levels of calcium in the blood during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational hypoglycemia
+gestational hypoglycemia	is a	temporary condition of low blood glucose levels during pregnancy
+diagnostic endocrine procedures	help in	diagnosing and managing gestational insulinoma
+gestational insulinoma	is a	temporary condition of a tumor of the pancreas causing excessive insulin production during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational insulin resistance
+gestational insulin resistance	is a	temporary condition of decreased sensitivity to insulin during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational hyperthyroidism
+gestational hyperthyroidism	is a	temporary condition of high thyroid hormone levels during pregnancy
+diagnostic endocrine procedures	play a role in	diagnosing and managing gestational hypothyroidism
+gestational hypothyroidism	is a	temporary condition of low thyroid hormone levels during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational Graves' disease
+gestational Graves' disease	is a	temporary condition of an autoimmune disorder causing excess thyroid hormone production during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational Hashimoto's thyroiditis
+gestational Hashimoto's thyroiditis	is a	temporary condition of an autoimmune disorder causing low thyroid hormone production during pregnancy
+diagnostic endocrine procedures	help in	diagnosing and managing gestational Addison's disease
+gestational Addison's disease	is a	temporary condition of insufficient adrenal gland function during pregnancy
+diagnostic endocrine procedures	are used to	diagnose and manage gestational adrenal adenoma
+gestational adrenal adenoma	is a	temporary condition of a noncancerous tumor of the adrenal gland during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational Cushing's disease
+gestational Cushing's disease	is a	temporary condition caused by excess production of adrenocorticotropic hormone during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational hyperprolactinemia
+gestational hyperprolactinemia	is a	temporary condition of high prolactin levels during pregnancy
+diagnostic endocrine procedures	play a role in	diagnosing and managing gestational parathyroid adenoma
+gestational parathyroid adenoma	is a	noncancerous tumor of the parathyroid gland during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational hyperparathyroidism
+gestational hyperparathyroidism	is a	temporary condition of excessive parathyroid hormone levels during pregnancy
+diagnostic endocrine procedures	contribute to	assessing and managing gestational hypoparathyroidism
+gestational hypoparathyroidism	is a	temporary condition of low parathyroid hormone levels during pregnancy
+diagnostic endocrine procedures	help in	diagnosing and managing gestational primary hyperaldosteronism
+gestational primary hyperaldosteronism	is a	temporary condition of excessive aldosterone production during pregnancy
+diagnostic endocrine procedures	assist in	diagnosing and managing gestational secondary hyperaldosteronism
+gestational secondary hyperaldosteronism	is a	temporary condition of excessive aldosterone production due to other medical conditions during pregnancy

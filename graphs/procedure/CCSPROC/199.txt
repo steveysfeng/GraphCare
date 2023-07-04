@@ -1,0 +1,225 @@
+electroencephalogram	is a	medical test
+electroencephalogram	measures	electrical activity
+electroencephalogram	used for	diagnosing epilepsy
+electroencephalogram	can detect	brain abnormalities
+electroencephalogram	records	brain waves
+brain waves	indicate	sleep stages
+electroencephalogram	used for	sleep disorder diagnosis
+electroencephalogram	monitors	brain activity
+brain activity	correlates with	cognitive function
+electroencephalogram	used for	studying seizures
+seizures	can be	epileptic
+seizures	can be	non-epileptic
+electroencephalogram	used for	monitoring anesthesia
+electroencephalogram	can identify	sedation levels
+electroencephalogram	used for	research in neuroscience
+electroencephalogram	can help	predict outcomes
+electroencephalogram	used for	brain mapping
+brain mapping	helps	plan surgeries
+electroencephalogram	used for	monitoring brain injury
+electroencephalogram	can indicate	brain death
+brain death	is	irreversible
+electroencephalogram	used for	assessing coma
+electroencephalogram	can determine	brain function
+electroencephalogram	used for	diagnosing sleep disorders
+sleep disorders	include	insomnia
+sleep disorders	include	sleep apnea
+electroencephalogram	can detect	abnormal sleep patterns
+electroencephalogram	used for	diagnosing encephalopathy
+encephalopathy	is a	neurological disorder
+electroencephalogram	used for	monitoring brain activity during surgery
+electroencephalogram	can detect	surgical complications
+electroencephalogram	used for	evaluating brain injury
+electroencephalogram	can detect	subclinical seizures
+subclinical seizures	do not have	outward symptoms
+electroencephalogram	used for	monitoring treatment response
+electroencephalogram	can show	effectiveness of medication
+electroencephalogram	used for	evaluating dizziness
+electroencephalogram	can help	diagnose vertigo
+electroencephalogram	used for	evaluating memory disorders
+memory disorders	include	Alzheimer's disease
+memory disorders	include	dementia
+electroencephalogram	can detect	abnormal brain activity
+electroencephalogram	used for	researching sleep
+electroencephalogram	used in	neuroscience studies
+electroencephalogram	can help	predict seizure risk
+electroencephalogram	used for	evaluating cognitive impairment
+electroencephalogram	can detect	brain tumors
+electroencephalogram	used for	assessing brain function
+electroencephalogram	can detect	brain injury
+electroencephalogram	used for	diagnosing migraines
+electroencephalogram	can help	differentiate migraine types
+electroencephalogram	used for	assessing brain development
+electroencephalogram	can indicate	neurological disorders
+electroencephalogram	used for	diagnosing psychiatric disorders
+psychiatric disorders	include	schizophrenia
+psychiatric disorders	include	depression
+electroencephalogram	can detect	abnormal brain waves
+electroencephalogram	used for	diagnosing sleepwalking
+electroencephalogram	can help	identify sleep-related behaviors
+electroencephalogram	used for	monitoring brain activity during sleep
+electroencephalogram	can assess	sleep quality
+electroencephalogram	used for	diagnosing brain infections
+brain infections	include	encephalitis
+brain infections	include	meningitis
+electroencephalogram	can detect	abnormal brain patterns
+electroencephalogram	used for	assessing brain function in infants
+electroencephalogram	can detect	developmental delays
+developmental delays	may indicate	neurological conditions
+electroencephalogram	used for	monitoring brain activity in comatose patients
+electroencephalogram	can help	predict coma outcome
+electroencephalogram	used for	diagnosing brain damage
+electroencephalogram	can detect	abnormal electrical activity
+electroencephalogram	used for	diagnosing attention deficit hyperactivity disorder (ADHD)
+attention deficit hyperactivity disorder (ADHD)	affects	attention and behavior
+electroencephalogram	can show	brain wave patterns in ADHD
+electroencephalogram	used for	monitoring brain activity during anesthesia
+electroencephalogram	can detect	depth of anesthesia
+electroencephalogram	used for	diagnosing brain trauma
+electroencephalogram	can detect	seizure activity in trauma patients
+electroencephalogram	used for	evaluating brain function in elderly patients
+electroencephalogram	can detect	cognitive impairment in elderly
+electroencephalogram	used for	diagnosing panic disorder
+electroencephalogram	can help	differentiate panic disorder from seizures
+electroencephalogram	used for	diagnosing brain hemorrhage
+electroencephalogram	can detect	abnormal brain activity in hemorrhage
+electroencephalogram	used for	diagnosing brain tumor
+electroencephalogram	can detect	abnormal electrical patterns in tumors
+electroencephalogram	used for	evaluating brain function in children
+electroencephalogram	can detect	developmental disorders in children
+electroencephalogram	used for	diagnosing multiple sclerosis
+multiple sclerosis	is a	neurological disease
+electroencephalogram	can detect	abnormalities in multiple sclerosis
+electroencephalogram	used for	monitoring brain activity during seizures
+electroencephalogram	can help	guide epilepsy treatment
+electroencephalogram	used for	diagnosing brain abscess
+electroencephalogram	can detect	abnormal brain waves in abscess
+electroencephalogram	used for	evaluating brain function in stroke patients
+electroencephalogram	can detect	abnormalities in stroke
+electroencephalogram	used for	diagnosing brain ischemia
+brain ischemia	is a	condition of reduced blood flow to the brain
+electroencephalogram	can detect	abnormal brain waves in ischemia
+electroencephalogram	used for	evaluating brain function in traumatic brain injury
+electroencephalogram	can detect	abnormalities in traumatic brain injury
+electroencephalogram	used for	diagnosing sleep-related epilepsy
+sleep-related epilepsy	is a	type of epilepsy
+electroencephalogram	can detect	abnormal brain waves in sleep-related epilepsy
+electroencephalogram	used for	evaluating brain function in depression
+electroencephalogram	can detect	abnormal brain activity in depression
+electroencephalogram	used for	diagnosing brain inflammation
+electroencephalogram	can detect	abnormal brain waves in inflammation
+electroencephalogram	used for	evaluating brain function in bipolar disorder
+electroencephalogram	can detect	abnormal brain activity in bipolar disorder
+electroencephalogram	used for	diagnosing autism spectrum disorder
+autism spectrum disorder	is a	developmental disorder
+electroencephalogram	can detect	abnormal brain waves in autism spectrum disorder
+electroencephalogram	used for	evaluating brain function in Parkinson's disease
+electroencephalogram	can detect	abnormal brain activity in Parkinson's disease
+electroencephalogram	used for	diagnosing brain tumors
+electroencephalogram	can detect	abnormal brain waves in tumors
+electroencephalogram	used for	monitoring brain activity during brain surgery
+electroencephalogram	can assess	effectiveness of anesthesia during surgery
+electroencephalogram	used for	diagnosing brain cysts
+electroencephalogram	can detect	abnormal brain waves in cysts
+electroencephalogram	used for	evaluating brain function in viral encephalitis
+electroencephalogram	can detect	abnormal brain activity in encephalitis
+electroencephalogram	used for	diagnosing brain injury in sports
+electroencephalogram	can detect	abnormal brain waves in sports-related injuries
+electroencephalogram	used for	monitoring brain activity in intensive care unit
+electroencephalogram	can detect	seizures in intensive care unit patients
+electroencephalogram	used for	diagnosing brain tumors in children
+electroencephalogram	can detect	abnormal brain waves in tumors in children
+electroencephalogram	used for	evaluating brain function in brain tumor patients
+electroencephalogram	can detect	abnormalities in brain tumor patients
+electroencephalogram	used for	diagnosing brain tumor recurrence
+electroencephalogram	can detect	abnormal brain waves in tumor recurrence
+electroencephalogram	used for	evaluating brain function in traumatic brain injury
+electroencephalogram	can detect	abnormalities in traumatic brain injury
+electroencephalogram	used for	diagnosing brain tumor in pregnancy
+electroencephalogram	can detect	abnormal brain waves in tumor in pregnancy
+electroencephalogram	used for	evaluating brain function in brain infection
+electroencephalogram	can detect	abnormal brain activity in brain infection
+electroencephalogram	used for	diagnosing stroke in newborns
+electroencephalogram	can detect	abnormal brain waves in stroke in newborns
+electroencephalogram	used for	evaluating brain function in development disorders
+electroencephalogram	can detect	abnormalities in development disorders
+electroencephalogram	used for	diagnosing brain tumor in infants
+electroencephalogram	can detect	abnormal brain waves in tumor in infants
+electroencephalogram	used for	evaluating brain function in epilepsy patients
+electroencephalogram	can detect	abnormalities in epilepsy
+electroencephalogram	used for	diagnosing brain tumor in children
+electroencephalogram	can detect	abnormal brain waves in tumor in children
+electroencephalogram	used for	evaluating brain function in brain trauma
+electroencephalogram	can detect	abnormalities in brain trauma
+electroencephalogram	used for	diagnosing brain tumor in elderly
+electroencephalogram	can detect	abnormal brain waves in tumor in elderly
+electroencephalogram	used for	evaluating brain function in seizures
+electroencephalogram	can detect	abnormalities in seizures
+electroencephalogram	used for	diagnosing brain tumor in adults
+electroencephalogram	can detect	abnormal brain waves in tumor in adults
+electroencephalogram	used for	evaluating brain function in brain injury
+electroencephalogram	can detect	abnormalities in brain injury
+electroencephalogram	used for	diagnosing brain tumor in stroke patients
+electroencephalogram	can detect	abnormal brain waves in tumor in stroke patients
+electroencephalogram	used for	evaluating brain function in brain infections
+electroencephalogram	can detect	abnormalities in brain infections
+electroencephalogram	used for	diagnosing brain tumor in Parkinson's disease
+electroencephalogram	can detect	abnormal brain waves in tumor in Parkinson's disease
+electroencephalogram	used for	evaluating brain function in brain cysts
+electroencephalogram	can detect	abnormalities in brain cysts
+electroencephalogram	used for	diagnosing brain tumor in viral encephalitis
+electroencephalogram	can detect	abnormal brain waves in tumor in viral encephalitis
+electroencephalogram	used for	evaluating brain function in sports-related brain injury
+electroencephalogram	can detect	abnormalities in sports-related brain injury
+electroencephalogram	used for	diagnosing brain tumor in intensive care unit
+electroencephalogram	can detect	abnormal brain waves in tumor in intensive care unit
+electroencephalogram	used for	evaluating brain function in brain trauma in children
+electroencephalogram	can detect	abnormalities in brain trauma in children
+electroencephalogram	used for	diagnosing brain tumor recurrence in brain tumor patients
+electroencephalogram	can detect	abnormal brain waves in tumor recurrence in brain tumor patients
+electroencephalogram	used for	evaluating brain function in brain infection in newborns
+electroencephalogram	can detect	abnormal brain activity in brain infection in newborns
+electroencephalogram	used for	diagnosing brain tumor in development disorders
+electroencephalogram	can detect	abnormal brain waves in tumor in development disorders
+electroencephalogram	used for	evaluating brain function in epilepsy patients
+electroencephalogram	can detect	abnormalities in epilepsy
+electroencephalogram	used for	diagnosing brain tumor in brain trauma
+electroencephalogram	can detect	abnormal brain waves in tumor in brain trauma
+electroencephalogram	used for	evaluating brain function in brain tumor in elderly
+electroencephalogram	can detect	abnormalities in brain tumor in elderly
+electroencephalogram	used for	diagnosing brain tumor in seizures
+electroencephalogram	can detect	abnormal brain waves in tumor in seizures
+electroencephalogram	used for	evaluating brain function in brain injury in adults
+electroencephalogram	can detect	abnormalities in brain injury in adults
+electroencephalogram	used for	diagnosing brain tumor in brain infections
+electroencephalogram	can detect	abnormal brain waves in tumor in brain infections
+electroencephalogram	used for	evaluating brain function in brain infection in Parkinson's disease
+electroencephalogram	can detect	abnormal brain activity in brain infection in Parkinson's disease
+electroencephalogram	used for	diagnosing brain tumor in brain cysts
+electroencephalogram	can detect	abnormal brain waves in tumor in brain cysts
+electroencephalogram	used for	evaluating brain function in brain tumor in viral encephalitis
+electroencephalogram	can detect	abnormalities in brain tumor in viral encephalitis
+electroencephalogram	used for	diagnosing brain tumor in sports-related brain injury
+electroencephalogram	can detect	abnormal brain waves in tumor in sports-related brain injury
+electroencephalogram	used for	evaluating brain function in brain trauma in stroke patients
+electroencephalogram	can detect	abnormalities in brain trauma in stroke patients
+electroencephalogram	used for	diagnosing brain tumor recurrence in brain infections
+electroencephalogram	can detect	abnormal brain waves in tumor recurrence in brain infections
+electroencephalogram	used for	evaluating brain function in brain infection in Parkinson's disease
+electroencephalogram	can detect	abnormal brain activity in brain infection in Parkinson's disease
+electroencephalogram	used for	diagnosing brain tumor in brain cysts in elderly
+electroencephalogram	can detect	abnormal brain waves in tumor in brain cysts in elderly
+electroencephalogram	used for	evaluating brain function in brain trauma in seizures
+electroencephalogram	can detect	abnormalities in brain trauma in seizures
+electroencephalogram	used for	diagnosing brain tumor in brain injury in adults
+electroencephalogram	can detect	abnormal brain waves in tumor in brain injury in adults
+electroencephalogram	used for	evaluating brain function in brain infection in brain infections
+electroencephalogram	can detect	abnormalities in brain infection in brain infections
+electroencephalogram	used for	diagnosing brain tumor in brain tumor in Parkinson's disease
+electroencephalogram	can detect	abnormal brain waves in tumor in brain tumor in Parkinson's disease
+electroencephalogram	used for	evaluating brain function in brain infection in brain cysts
+electroencephalogram	can detect	abnormal brain activity in brain infection in brain cysts
+electroencephalogram	used for	diagnosing brain tumor in brain tumor in viral encephalitis
+electroencephalogram	can detect	abnormal brain waves in tumor in brain tumor in viral encephalitis
+electroencephalogram	used for	evaluating brain function in brain infection in sports-related brain injury
+electroencephalogram	can detect	abnormalities in brain infection in sports-related brain injury

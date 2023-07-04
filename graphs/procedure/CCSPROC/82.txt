@@ -1,0 +1,11 @@
+fluoroscopy	is a	medical procedure
+fluoroscopy	used for	imaging
+biliary ducts	are part of	digestive system
+pancreatic ducts	are part of	digestive system
+fluoroscopy	can detect	blockages in biliary ducts
+fluoroscopy	can detect	blockages in pancreatic ducts
+endoscopic retrograde cholangiopancreatography (ERCP)	is a type of	fluoroscopy
+ERCP	used for	diagnosis
+ERCP	used for	treatment of blockages
+ERCP	can detect	tumors in biliary ducts
+ERCP	can detect	tumors in pancreatic ducts

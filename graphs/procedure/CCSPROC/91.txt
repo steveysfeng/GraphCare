@@ -1,0 +1,82 @@
+peritoneal dialysis	is a	medical procedure
+peritoneal dialysis	used for	renal replacement therapy
+peritoneal dialysis	involves	cleansing of blood
+peritoneal dialysis	requires	catheter insertion
+peritoneal dialysis	can lead to	peritonitis
+peritonitis	is a complication of	peritoneal dialysis
+peritoneal dialysis	requires	dialysis fluid
+dialysis fluid	contains	glucose
+peritoneal dialysis	can cause	fluid overload
+peritoneal dialysis	may induce	ultrafiltration failure
+ultrafiltration failure	results in	edema
+peritoneal dialysis	requires	frequent monitoring
+frequent monitoring	helps in	early detection
+peritoneal dialysis	can lead to	hernia
+hernia	is a complication of	peritoneal dialysis
+peritoneal dialysis	can cause	catheter-related complications
+catheter-related complications	include	infection
+peritoneal dialysis	needs	regular exchanges
+regular exchanges	involve	draining and filling
+peritoneal dialysis	requires	strict aseptic technique
+peritoneal dialysis	has	different modalities
+continuous ambulatory peritoneal dialysis	is a type of	peritoneal dialysis
+continuous ambulatory peritoneal dialysis	does not require	machine
+automated peritoneal dialysis	is a type of	peritoneal dialysis
+automated peritoneal dialysis	involves	machine for exchanges
+automated peritoneal dialysis	allows	night-time dialysis
+peritoneal dialysis	has	advantages over hemodialysis
+hemodialysis	is another type of	renal replacement therapy
+hemodialysis	is based on	diffusion and osmosis
+hemodialysis	requires	vascular access
+vascular access	can be	arteriovenous fistula
+arteriovenous fistula	requires	surgical creation
+hemodialysis	can cause	hypotension
+peritoneal dialysis	is suitable for	certain patient populations
+certain patient populations	include	children
+certain patient populations	include	elderly
+peritoneal dialysis	can be	done at home
+peritoneal dialysis	allows	greater flexibility
+peritoneal dialysis	is associated with	improved quality of life
+peritoneal dialysis	has	long-term complications
+long-term complications	include	abdominal wall hernia
+long-term complications	include	encapsulating peritoneal sclerosis
+peritoneal dialysis	requires	regular follow-up
+regular follow-up	helps in	early detection of complications
+peritoneal dialysis	can lead to	protein loss
+protein loss	may require	dietary modifications
+peritoneal dialysis	can lead to	catheter malfunction
+catheter malfunction	necessitates	surgical intervention
+peritoneal dialysis	can lead to	dialysate leaks
+dialysate leaks	can cause	peritonitis
+peritoneal dialysis	requires	education and training
+education and training	helps in	patient self-management
+peritoneal dialysis	requires	comprehensive assessment
+comprehensive assessment	includes	nutritional evaluation
+comprehensive assessment	includes	adequacy of dialysis
+adequacy of dialysis	can be evaluated using	peritoneal equilibration test
+peritoneal equilibration test	assesses	small solute transport
+peritoneal dialysis	may require	adjustments in medication
+medication	should be	carefully monitored
+peritoneal dialysis	can cause	electrolyte imbalances
+electrolyte imbalances	require	correction
+peritoneal dialysis	allows	preservation of residual renal function
+residual renal function	is beneficial for	overall health
+peritoneal dialysis	is a	cost-effective option
+peritoneal dialysis	has	contraindications
+contraindications	include	prior abdominal surgeries
+peritoneal dialysis	requires	compliance
+compliance	is crucial for	treatment success
+peritoneal dialysis	requires	regular access care
+access care	involves	catheter site care
+peritoneal dialysis	can be	interrupted by infection
+infection	can lead to	peritonitis
+peritonitis	requires	antibiotic treatment
+peritoneal dialysis	requires	strict fluid management
+strict fluid management	helps in	preventing complications
+peritoneal dialysis	can lead to	technique failure
+technique failure	may require	switch to alternative therapy
+peritoneal dialysis	has	limitations
+limitations	include	peritoneal membrane failure
+peritoneal membrane failure	results in	inadequate ultrafiltration
+peritoneal dialysis	can lead to	loss of residual renal function
+loss of residual renal function	may necessitate	switch to hemodialysis

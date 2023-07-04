@@ -1,0 +1,171 @@
+tonsillectomy	is a	medical procedure
+tonsillectomy	used for	treating tonsillitis
+adenoidectomy	is a	medical procedure
+adenoidectomy	used for	treating recurrent sinusitis
+tonsillectomy	can be performed with	adenoidectomy
+tonsillectomy	can reduce	episodes of tonsillitis
+adenoidectomy	can reduce	episodes of sinusitis
+tonsillectomy	can lead to	post-operative bleeding
+adenoidectomy	can lead to	nasal regrowth
+tonsillectomy	has risks of	infection
+adenoidectomy	has risks of	respiratory complications
+tonsillectomy	can result in	changes in voice quality
+adenoidectomy	can result in	improvements in breathing
+tonsillectomy	recommended for	severe tonsillitis
+adenoidectomy	recommended for	chronic sinusitis
+tonsillectomy	may be necessary if	tonsil stones are present
+adenoidectomy	may be necessary if	adenoid hypertrophy is present
+tonsillectomy	can be necessary for	sleep apnea
+adenoidectomy	can be necessary for	obstructive sleep apnea
+tonsillectomy	can be performed using	various techniques
+adenoidectomy	can be performed using	various techniques
+tonsillectomy	performed under	general anesthesia
+adenoidectomy	performed under	general anesthesia
+tonsillectomy	can be performed as	outpatient surgery
+adenoidectomy	can be performed as	outpatient surgery
+tonsillectomy	has a	long recovery time
+adenoidectomy	has a	shorter recovery time
+tonsillectomy	has a	risk of dehydration
+adenoidectomy	has a	risk of infection
+tonsillectomy	has a	risk of bleeding
+adenoidectomy	has a	risk of regrowth
+tonsillectomy	can cause	temporary difficulty swallowing
+adenoidectomy	can cause	nasal discomfort
+tonsillectomy	can cause	bad breath
+adenoidectomy	can cause	voice changes
+tonsillectomy	can lead to	weight loss
+adenoidectomy	can lead to	improved sleep
+tonsillectomy	can affect	taste perception
+adenoidectomy	can affect	olfactory function
+tonsillectomy	may be necessary for	recurrent strep throat
+adenoidectomy	may be necessary for	chronic ear infections
+tonsillectomy	may be necessary for	sleep-disordered breathing
+adenoidectomy	may be necessary for	chronic nasal obstruction
+tonsillectomy	may be necessary for	obstructive sleep apnea
+adenoidectomy	may be necessary for	snoring
+tonsillectomy	can result in	post-operative pain
+adenoidectomy	can result in	post-operative congestion
+tonsillectomy	can result in	delayed bleeding
+adenoidectomy	can result in	nasal voice
+tonsillectomy	can cause	jaw pain
+adenoidectomy	can cause	ear discomfort
+tonsillectomy	can cause	throat swelling
+adenoidectomy	can cause	difficulty swallowing
+tonsillectomy	can improve	quality of life
+adenoidectomy	can improve	breathing problems
+tonsillectomy	can improve	sleep-disordered breathing
+adenoidectomy	can improve	chronic nasal congestion
+tonsillectomy	can be recommended for	children with recurrent strep throat
+adenoidectomy	can be recommended for	children with chronic ear infections
+tonsillectomy	can be recommended for	adults with sleep-disordered breathing
+adenoidectomy	can be recommended for	adults with chronic nasal obstruction
+tonsillectomy	can relieve	chronic tonsillitis
+adenoidectomy	can relieve	chronic sinusitis
+tonsillectomy	can treat	obstructive sleep apnea
+adenoidectomy	can treat	recurrent sinusitis
+tonsillectomy	can prevent	further tonsil infections
+adenoidectomy	can prevent	further sinus infections
+tonsillectomy	can be performed in	a hospital setting
+adenoidectomy	can be performed in	an outpatient clinic
+tonsillectomy	is a	common pediatric procedure
+adenoidectomy	is a	common pediatric procedure
+tonsillectomy	is usually recommended after	trying other treatments
+adenoidectomy	is usually recommended after	trying other treatments
+tonsillectomy	should be considered when	tonsil stones are causing recurrent infections
+adenoidectomy	should be considered when	adenoids are causing recurrent infections
+tonsillectomy	can be performed using	laser-assisted techniques
+adenoidectomy	can be performed using	endoscopic techniques
+tonsillectomy	is more common in	children
+adenoidectomy	is more common in	children
+tonsillectomy	can be performed due to	persistent halitosis
+adenoidectomy	can be performed due to	chronic nasal congestion
+tonsillectomy	can be performed for	obstructive hypertrophy
+adenoidectomy	can be performed for	infectious hypertrophy
+tonsillectomy	can be performed due to	peritonsillar abscess
+adenoidectomy	can be performed due to	recurrent otitis media
+tonsillectomy	should be considered when	tonsillar cancer is present
+adenoidectomy	should be considered when	adenoid hypertrophy is present
+tonsillectomy	can cause	temporary speech problems
+adenoidectomy	can cause	short-term mouth breathing
+tonsillectomy	can result in	altered oral flora
+adenoidectomy	can result in	improved nasal breathing
+tonsillectomy	can be performed using	electrocautery technique
+adenoidectomy	can be performed using	coblation technique
+tonsillectomy	can be performed using	radiofrequency technique
+adenoidectomy	can be performed using	microdebrider technique
+tonsillectomy	can improve	chronic throat infections
+adenoidectomy	can improve	chronic ear infections
+tonsillectomy	can be used to treat	recurrent tonsillitis
+adenoidectomy	can be used to treat	obstructive sleep apnea
+tonsillectomy	can lead to	post-operative pain
+adenoidectomy	can lead to	nasal regrowth
+tonsillectomy	can cause	bleeding
+adenoidectomy	can cause	voice changes
+tonsillectomy	can result in	weight loss
+adenoidectomy	can result in	improved sleep
+tonsillectomy	can affect	taste perception
+adenoidectomy	can affect	olfactory function
+tonsillectomy	can cause	post-operative pain
+adenoidectomy	can cause	post-operative congestion
+tonsillectomy	can cause	delayed bleeding
+adenoidectomy	can cause	nasal voice
+tonsillectomy	can cause	jaw pain
+adenoidectomy	can cause	ear discomfort
+tonsillectomy	can cause	throat swelling
+adenoidectomy	can cause	difficulty swallowing
+tonsillectomy	can improve	quality of life
+adenoidectomy	can improve	breathing problems
+tonsillectomy	can reduce	frequency of tonsillitis
+adenoidectomy	can reduce	frequency of sinusitis
+tonsillectomy	can treat	obstructive sleep apnea
+adenoidectomy	can treat	chronic sinusitis
+tonsillectomy	can prevent	further tonsillitis
+adenoidectomy	can prevent	further sinusitis
+tonsillectomy	can be performed in	a hospital
+adenoidectomy	can be performed in	an outpatient clinic
+tonsillectomy	is a	common procedure
+adenoidectomy	is a	common procedure
+tonsillectomy	can be performed after	trying other treatments
+adenoidectomy	can be performed after	trying other treatments
+tonsillectomy	should be considered when	tonsilloliths are causing recurrent infections
+adenoidectomy	should be considered when	adenoiditis is causing recurrent infections
+tonsillectomy	can be performed using	laser-assisted techniques
+adenoidectomy	can be performed using	endoscopic techniques
+tonsillectomy	is more common in	children
+adenoidectomy	is more common in	children
+tonsillectomy	can be performed due to	chronic halitosis
+adenoidectomy	can be performed due to	chronic nasal congestion
+tonsillectomy	can be performed for	obstructive hypertrophy
+adenoidectomy	can be performed for	infectious hypertrophy
+tonsillectomy	can be performed due to	peritonsillar abscess
+adenoidectomy	can be performed due to	recurrent otitis media
+tonsillectomy	can be performed when	tonsillar cancer is present
+adenoidectomy	can be performed when	adenoid hypertrophy is present
+tonsillectomy	can cause	temporary speech problems
+adenoidectomy	can cause	short-term mouth breathing
+tonsillectomy	can result in	altered oral flora
+adenoidectomy	can result in	improved nasal breathing
+tonsillectomy	can be performed using	electrocautery technique
+adenoidectomy	can be performed using	coblation technique
+tonsillectomy	can be performed using	radiofrequency technique
+adenoidectomy	can be performed using	microdebrider technique
+tonsillectomy	can be used to treat	recurrent tonsillitis
+adenoidectomy	can be used to treat	obstructive sleep apnea
+tonsillectomy	can lead to	post-operative pain
+adenoidectomy	can lead to	nasal regrowth
+tonsillectomy	can cause	bleeding
+adenoidectomy	can cause	voice changes
+tonsillectomy	can result in	weight loss
+adenoidectomy	can result in	improved sleep
+tonsillectomy	can affect	taste perception
+adenoidectomy	can affect	olfactory function
+tonsillectomy	can cause	post-operative pain
+adenoidectomy	can cause	post-operative congestion
+tonsillectomy	can cause	delayed bleeding
+adenoidectomy	can cause	nasal voice
+tonsillectomy	can cause	jaw pain
+adenoidectomy	can cause	ear discomfort
+tonsillectomy	can cause	throat swelling
+adenoidectomy	can cause	difficulty swallowing
+tonsillectomy	can improve	quality of life
+adenoidectomy	can improve	breathing problems

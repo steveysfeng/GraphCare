@@ -1,0 +1,130 @@
+other or gastrointestinal therapeutic procedures	are	medical interventions
+other or gastrointestinal therapeutic procedures	used for	treatment
+surgery	is a type of	other or gastrointestinal therapeutic procedures
+surgery	can be used for	removal of tumors
+chemotherapy	can be used for	other or gastrointestinal therapeutic procedures
+chemotherapy	can treat	cancer
+radiation therapy	can be used for	other or gastrointestinal therapeutic procedures
+radiation therapy	can treat	cancer
+endoscopy	is a type of	other or gastrointestinal therapeutic procedures
+endoscopy	used for	diagnosis
+laparoscopy	is a type of	other or gastrointestinal therapeutic procedures
+laparoscopy	used for	surgical procedures
+colonoscopy	is a type of	other or gastrointestinal therapeutic procedures
+colonoscopy	used for	screening for colon cancer
+esophagoscopy	is a type of	other or gastrointestinal therapeutic procedures
+esophagoscopy	used for	diagnosing problems with the esophagus
+gastroduodenoscopy	is a type of	other or gastrointestinal therapeutic procedures
+gastroduodenoscopy	used for	examining the stomach and duodenum
+flexible sigmoidoscopy	is a type of	other or gastrointestinal therapeutic procedures
+flexible sigmoidoscopy	used for	examining the rectum and lower colon
+barium swallow	is a type of	other or gastrointestinal therapeutic procedures
+barium swallow	used for	diagnosing problems with the esophagus or swallowing
+cholecystectomy	is a type of	other or gastrointestinal therapeutic procedures
+cholecystectomy	used for	gallbladder removal
+esophageal dilation	is a type of	other or gastrointestinal therapeutic procedures
+esophageal dilation	used for	widening a narrowed esophagus
+intra-abdominal abscess drainage	is a type of	other or gastrointestinal therapeutic procedures
+intra-abdominal abscess drainage	used for	draining fluid from an abscess in the abdomen
+liver biopsy	is a type of	other or gastrointestinal therapeutic procedures
+liver biopsy	used for	diagnosing liver conditions
+endoscopic retrograde cholangiopancreatography (ERCP)	is a type of	other or gastrointestinal therapeutic procedures
+endoscopic retrograde cholangiopancreatography (ERCP)	used for	diagnosing and treating problems in the bile and pancreatic ducts
+transjugular intrahepatic portosystemic shunt (TIPS)	is a type of	other or gastrointestinal therapeutic procedures
+transjugular intrahepatic portosystemic shunt (TIPS)	used for	treating high blood pressure in the liver
+colon and rectal surgery	is a type of	other or gastrointestinal therapeutic procedures
+colon and rectal surgery	used for	treating conditions in the colon and rectum
+gallbladder surgery	is a type of	other or gastrointestinal therapeutic procedures
+gallbladder surgery	used for	removing the gallbladder
+hemorrhoidectomy	is a type of	other or gastrointestinal therapeutic procedures
+hemorrhoidectomy	used for	removing hemorrhoids
+jejunostomy tube placement	is a type of	other or gastrointestinal therapeutic procedures
+jejunostomy tube placement	used for	providing nutrition directly to the small intestine
+pancreatic surgery	is a type of	other or gastrointestinal therapeutic procedures
+pancreatic surgery	used for	treating conditions in the pancreas
+total parenteral nutrition (TPN)	is a type of	other or gastrointestinal therapeutic procedures
+total parenteral nutrition (TPN)	used for	providing nutrition through a vein when the digestive system cannot be used
+balloon enteroscopy	is a type of	other or gastrointestinal therapeutic procedures
+balloon enteroscopy	used for	examining and treating conditions in the small intestine
+hepatic resection	is a type of	other or gastrointestinal therapeutic procedures
+hepatic resection	used for	removing part of the liver
+biliopancreatic diversion with duodenal switch	is a type of	other or gastrointestinal therapeutic procedures
+biliopancreatic diversion with duodenal switch	used for	weight loss surgery
+small bowel resection	is a type of	other or gastrointestinal therapeutic procedures
+small bowel resection	used for	removing part of the small intestine
+transabdominal cerclage	is a type of	other or gastrointestinal therapeutic procedures
+transabdominal cerclage	used for	preventing preterm birth
+upper endoscopy	is a type of	other or gastrointestinal therapeutic procedures
+upper endoscopy	used for	examining the upper gastrointestinal tract
+zygoma fracture repair	is a type of	other or gastrointestinal therapeutic procedures
+zygoma fracture repair	used for	treating a fractured zygoma bone
+gastrectomy	is a type of	other or gastrointestinal therapeutic procedures
+gastrectomy	used for	removing part or all of the stomach
+colorectal surgery	is a type of	other or gastrointestinal therapeutic procedures
+colorectal surgery	used for	treating conditions in the colon and rectum
+endoscopic stent placement	is a type of	other or gastrointestinal therapeutic procedures
+endoscopic stent placement	used for	treating narrowed or blocked passages in the gastrointestinal tract
+appendectomy	is a type of	other or gastrointestinal therapeutic procedures
+appendectomy	used for	removing the appendix
+biliary stenting	is a type of	other or gastrointestinal therapeutic procedures
+biliary stenting	used for	treating blocked bile ducts
+pancreas transplant	is a type of	other or gastrointestinal therapeutic procedures
+pancreas transplant	used for	replacing a diseased pancreas with a healthy one
+pancreaticojejunostomy	is a type of	other or gastrointestinal therapeutic procedures
+pancreaticojejunostomy	used for	creating a connection between the pancreas and the small intestine
+enteral nutrition	is a type of	other or gastrointestinal therapeutic procedures
+enteral nutrition	used for	providing nutrition through a feeding tube
+hepatobiliary surgery	is a type of	other or gastrointestinal therapeutic procedures
+hepatobiliary surgery	used for	treating conditions in the liver	bile ducts	and gallbladder
+thrombectomy	is a type of	other or gastrointestinal therapeutic procedures
+thrombectomy	used for	removing blood clots
+sphincterotomy	is a type of	other or gastrointestinal therapeutic procedures
+sphincterotomy	used for	treating a blocked or narrowed sphincter
+choledochojejunostomy	is a type of	other or gastrointestinal therapeutic procedures
+choledochojejunostomy	used for	creating a connection between the bile duct and the small intestine
+partial colectomy	is a type of	other or gastrointestinal therapeutic procedures
+partial colectomy	used for	removing part of the colon
+esophagectomy	is a type of	other or gastrointestinal therapeutic procedures
+esophagectomy	used for	removing part or all of the esophagus
+transduodenal sphincteroplasty	is a type of	other or gastrointestinal therapeutic procedures
+transduodenal sphincteroplasty	used for	repairing the sphincter of Oddi
+percutaneous endoscopic gastrostomy (PEG) tube placement	is a type of	other or gastrointestinal therapeutic procedures
+percutaneous endoscopic gastrostomy (PEG) tube placement	used for	providing nutrition directly into the stomach
+jejunal resection	is a type of	other or gastrointestinal therapeutic procedures
+jejunal resection	used for	removing part of the jejunum
+t-tube cholangiography	is a type of	other or gastrointestinal therapeutic procedures
+t-tube cholangiography	used for	imaging the bile ducts
+strictureplasty	is a type of	other or gastrointestinal therapeutic procedures
+strictureplasty	used for	widening narrowed areas of the intestine
+enteroscopy	is a type of	other or gastrointestinal therapeutic procedures
+enteroscopy	used for	examining the small intestine
+whipple procedure	is a type of	other or gastrointestinal therapeutic procedures
+whipple procedure	used for	treating pancreatic cancer
+bowel resection	is a type of	other or gastrointestinal therapeutic procedures
+bowel resection	used for	removing part of the intestine
+ileostomy	is a type of	other or gastrointestinal therapeutic procedures
+ileostomy	used for	creating an opening in the abdomen for waste to exit the body
+bloating	is a symptom of	other or gastrointestinal therapeutic procedures
+nausea	is a symptom of	other or gastrointestinal therapeutic procedures
+vomiting	is a symptom of	other or gastrointestinal therapeutic procedures
+abdominal pain	is a symptom of	other or gastrointestinal therapeutic procedures
+diarrhea	is a symptom of	other or gastrointestinal therapeutic procedures
+constipation	is a symptom of	other or gastrointestinal therapeutic procedures
+weight loss	is a symptom of	other or gastrointestinal therapeutic procedures
+anemia	is a complication of	other or gastrointestinal therapeutic procedures
+obstruction	is a complication of	other or gastrointestinal therapeutic procedures
+hemorrhage	is a complication of	other or gastrointestinal therapeutic procedures
+infection	is a complication of	other or gastrointestinal therapeutic procedures
+leakage	is a complication of	other or gastrointestinal therapeutic procedures
+inflammation	is a complication of	other or gastrointestinal therapeutic procedures
+stricture	is a complication of	other or gastrointestinal therapeutic procedures
+dehydration	is a complication of	other or gastrointestinal therapeutic procedures
+perforation	is a complication of	other or gastrointestinal therapeutic procedures
+margin status	is a factor in	other or gastrointestinal therapeutic procedures
+intraoperative complications	can affect	other or gastrointestinal therapeutic procedures
+postoperative complications	can affect	other or gastrointestinal therapeutic procedures
+operative time	is a factor in	other or gastrointestinal therapeutic procedures
+operative blood loss	is a factor in	other or gastrointestinal therapeutic procedures
+reoperation	is a complication of	other or gastrointestinal therapeutic procedures
+readmission	is a complication of	other or gastrointestinal therapeutic procedures
+mortality	is a factor in	other or gastrointestinal therapeutic procedures

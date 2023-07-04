@@ -1,0 +1,54 @@
+urinary tract	has	diagnostic procedures
+diagnostic procedures	are used for	diagnosis
+cystoscopy	is a type of	diagnostic procedure of urinary tract
+ureteroscopy	is a type of	diagnostic procedure of urinary tract
+urodynamic testing	is a type of	diagnostic procedure of urinary tract
+cystoscopy	is used for	examining the bladder
+ureteroscopy	is used for	examining the ureters
+urodynamic testing	is used for	evaluating bladder function
+urinary tract	can be affected by	infections
+urinary tract	can be affected by	tumors
+urinary tract	can be affected by	stones
+urinary tract	can be affected by	inflammation
+cystoscopy	can detect	bladder infections
+cystoscopy	can detect	bladder tumors
+cystoscopy	can detect	bladder stones
+cystoscopy	can detect	bladder inflammation
+ureteroscopy	can detect	ureteral infections
+ureteroscopy	can detect	ureteral tumors
+ureteroscopy	can detect	ureteral stones
+ureteroscopy	can detect	ureteral inflammation
+urodynamic testing	can identify	bladder dysfunctions
+urodynamic testing	can identify	bladder overactivity
+urodynamic testing	can identify	bladder underactivity
+urodynamic testing	can identify	bladder obstruction
+urodynamic testing	can assess	bladder capacity
+urodynamic testing	can assess	bladder pressure
+urodynamic testing	can assess	bladder compliance
+urodynamic testing	can assess	bladder sensation
+cystoscopy	can help in	guiding treatment decisions
+ureteroscopy	can help in	guiding treatment decisions
+urodynamic testing	can help in	guiding treatment decisions
+cystoscopy	can be performed under	local anesthesia
+ureteroscopy	can be performed under	general anesthesia
+urodynamic testing	can be performed using	catheters
+cystoscopy	is performed by	urologists
+ureteroscopy	is performed by	urologists
+urodynamic testing	is performed by	urologists
+cystoscopy	is a	minimally invasive procedure
+ureteroscopy	is a	minimally invasive procedure
+urodynamic testing	is a	non-invasive procedure
+cystoscopy	carries a	risk of infection
+cystoscopy	carries a	risk of bleeding
+ureteroscopy	carries a	risk of injury
+urodynamic testing	carries a	risk of urinary tract infection
+urodynamic testing	carries a	risk of discomfort
+cystoscopy	is often used to	investigate urinary symptoms
+ureteroscopy	is often used to	diagnose and treat ureteral conditions
+urodynamic testing	is often used to	evaluate bladder function
+urinary tract	may require	surgery
+urinary tract	may require	medication
+urinary tract	may require	lifestyle modifications
+cystoscopy	is commonly used in	urology practice
+ureteroscopy	is commonly used in	urology practice
+urodynamic testing	is commonly used in	urology practice

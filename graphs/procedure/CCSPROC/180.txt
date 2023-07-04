@@ -1,0 +1,97 @@
+CT scan	is a	medical imaging procedure
+CT scan	used for	diagnostic purposes
+CT scan	can detect	tumors
+CT scan	is non-invasive
+CT scan	produces detailed images
+CT scan	used to visualize internal organs
+CT scan	uses X-ray technology
+Radiation	is used in	CT scan
+CT scan	can diagnose	fractures
+Contrast dye	is sometimes used in	CT scan
+CT scan	can detect	blood clots
+CT scan	can be performed on	different body parts
+CT scan	can reveal	infections
+CT scan	can guide	surgical procedures
+CT scan	is commonly ordered by	physicians
+CT scan	can identify	abnormal growths
+CT scan	can monitor	treatment progress
+CT scan	can assess	organ function
+CT scan	may have	side effects
+CT scan	provides	cross-sectional images
+CT scan	can be used in	emergency situations
+CT scan	useful in	evaluating trauma
+CT scan	can be used in	cancer staging
+CT scan	can diagnose	vascular diseases
+CT scan	can be used in	lung diseases
+CT scan	can detect	gallstones
+CT scan	can evaluate	liver diseases
+CT scan	can visualize	kidney problems
+CT scan	can assess	brain disorders
+CT scan	can determine	spinal conditions
+CT scan	can detect	gastrointestinal issues
+CT scan	can evaluate	pelvic abnormalities
+CT scan	can identify	urinary tract blockages
+CT scan	can diagnose	heart conditions
+CT scan	helpful in	planning radiation therapy
+CT scan	can detect	bone density changes
+Computed Tomography	is an alternative name for	CT scan
+CT scan	widely available	in medical facilities
+CT scan	has become	an important tool
+CT scan	offers	fast imaging
+CT scan	can provide	3D images
+CT scan	commonly used	with contrast
+CT scan	can guide	needle biopsies
+CT scan	used in	medical research
+CT scan	can be used in	forensic investigations
+CT scan	can identify	abdominal masses
+CT scan	can assess	blood vessel conditions
+CT scan	can determine	source of pain
+CT scan	can detect	bone infections
+CT scan	can evaluate	lymph node enlargement
+CT scan	can diagnose	pancreatic disorders
+CT scan	can visualize	thyroid issues
+CT scan	can detect	brain tumors
+CT scan	can evaluate	lung nodules
+CT scan	useful in	diagnosing bowel diseases
+CT scan	can detect	herniated discs
+CT scan	can evaluate	spinal injuries
+CT scan	can assess	joint conditions
+CT scan	can identify	sinus infections
+CT scan	can diagnose	musculoskeletal conditions
+CT scan	can visualize	pelvic masses
+Radiologist	interprets	CT scan images
+CT scan	can be used in	pediatric patients
+CT scan	can detect	pulmonary embolism
+CT scan	can evaluate	cardiac function
+CT scan	can identify	appendix inflammation
+CT scan	can detect	kidney stones
+CT scan	can diagnose	liver tumors
+CT scan	can visualize	brain hemorrhage
+CT scan	can determine	bowel obstructions
+CT scan	can detect	prostate cancer
+CT scan	can evaluate	bladder conditions
+CT scan	helpful in	detecting fractures
+CT scan	can identify	spinal tumors
+CT scan	can diagnose	gallbladder diseases
+CT scan	can visualize	gastrointestinal bleeding
+CT scan	can assess	lung cancer
+CT scan	can detect	aortic aneurysm
+CT scan	can evaluate	renal cysts
+CT scan	can assess	adrenal gland disorders
+CT scan	can identify	head injuries
+CT scan	can diagnose	kidney cancer
+CT scan	can visualize	eye abnormalities
+CT scan	can detect	ovarian cysts
+CT scan	can evaluate	cervical spine conditions
+CT scan	can determine	lung infections
+CT scan	can detect	lymphoma
+CT scan	can diagnose	esophageal disorders
+CT scan	can visualize	penile abnormalities
+CT scan	useful in	identifying fractures
+CT scan	can identify	spinal cord injuries
+CT scan	can diagnose	pleural effusion
+CT scan	can visualize	adrenal gland tumors
+CT scan	can detect	skin conditions
+CT scan	can evaluate	bone tumors
+CT scan	can assess	neurological disorders
+CT scan	can determine	bile duct obstruction

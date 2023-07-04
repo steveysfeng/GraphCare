@@ -1,0 +1,72 @@
+intraocular therapeutic procedures	are	medical procedures
+intraocular therapeutic procedures	used for	treatment
+vitreoretinal surgery	is a type of	intraocular therapeutic procedures
+vitreoretinal surgery	used for	retinal detachment repair
+laser trabeculoplasty	is a type of	intraocular therapeutic procedures
+laser trabeculoplasty	used for	glaucoma treatment
+intravitreal injections	is a type of	intraocular therapeutic procedures
+intravitreal injections	used for	macular degeneration treatment
+scleral buckle	is a type of	intraocular therapeutic procedures
+scleral buckle	used for	retinal detachment repair
+corneal transplant	is a type of	intraocular therapeutic procedures
+corneal transplant	used for	corneal disease treatment
+other intraocular therapeutic procedures	can cause	complications
+complications	include	infection
+complications	include	bleeding
+complications	include	inflammation
+complications	include	increased intraocular pressure
+complications	include	graft rejection
+complications	include	vision loss
+complications	include	corneal astigmatism
+complications	can require	additional surgeries
+intraocular therapeutic procedures	can improve	vision
+intraocular therapeutic procedures	can alleviate	eye pain
+intraocular therapeutic procedures	can prevent	further vision deterioration
+intraocular therapeutic procedures	can restore	ocular function
+intraocular therapeutic procedures	can enhance	quality of life
+intraocular therapeutic procedures	can prolong	visual acuity
+intraocular therapeutic procedures	can improve	patient outcomes
+intraocular therapeutic procedures	can reduce	future surgeries
+intraocular therapeutic procedures	should be	performed by a trained specialist
+intraocular therapeutic procedures	should be	carefully monitored
+intraocular therapeutic procedures	should be	followed by post-operative care
+intraocular therapeutic procedures	should be	discussed with the patient
+intraocular therapeutic procedures	should be	tailored to patient's needs
+intraocular therapeutic procedures	should be	considered for high-risk patients
+intraocular therapeutic procedures	require	informed consent
+intraocular therapeutic procedures	involve	anesthesia
+intraocular therapeutic procedures	require	pre-operative evaluation
+intraocular therapeutic procedures	may not be	suitable for all patients
+intraocular therapeutic procedures	may not be	effective for all conditions
+intraocular therapeutic procedures	can be	expensive
+intraocular therapeutic procedures	may be	covered by insurance
+intraocular therapeutic procedures	can be	time-consuming
+intraocular therapeutic procedures	can lead to	temporary visual disturbances
+intraocular therapeutic procedures	can result in	post-operative discomfort
+intraocular therapeutic procedures	can have	long-term effects
+intraocular therapeutic procedures	should be	part of comprehensive eye care
+intraocular therapeutic procedures	should be	included in treatment plans
+intraocular therapeutic procedures	should be	recommended based on patient's condition
+intraocular therapeutic procedures	can require	subsequent follow-up visits
+intraocular therapeutic procedures	may require	frequent monitoring
+intraocular therapeutic procedures	can be	performed in an outpatient setting
+intraocular therapeutic procedures	can be	conducted in a hospital
+intraocular therapeutic procedures	may be	associated with specific risks
+intraocular therapeutic procedures	may have	contraindications
+intraocular therapeutic procedures	should be	performed with aseptic technique
+intraocular therapeutic procedures	require	specialized instruments
+intraocular therapeutic procedures	demand	precision
+intraocular therapeutic procedures	depend on	advanced technology
+intraocular therapeutic procedures	should be	continuously evaluated for safety
+intraocular therapeutic procedures	should be	updated with new advancements
+intraocular therapeutic procedures	are	essential in ophthalmology
+intraocular therapeutic procedures	have	revolutionized eye care
+intraocular therapeutic procedures	play a	crucial role in managing ocular conditions
+intraocular therapeutic procedures	contribute to	better visual outcomes
+intraocular therapeutic procedures	contribute to	reduced vision impairment
+intraocular therapeutic procedures	contribute to	improved patient satisfaction
+intraocular therapeutic procedures	contribute to	patient-centered care
+intraocular therapeutic procedures	contribute to	overall well-being
+intraocular therapeutic procedures	contribute to	better quality of life
+intraocular therapeutic procedures	are	a cornerstone of modern ophthalmology
+intraocular therapeutic procedures	empower	patients to take control of their eye health

@@ -1,0 +1,103 @@
+diagnostic ultrasound	is a	medical procedure
+diagnostic ultrasound	used for	diagnosis
+gastrointestinal tract	is a part of	body
+diagnostic ultrasound	can visualize	gastrointestinal tract
+diagnostic ultrasound	can detect	abnormalities
+diagnostic ultrasound	can determine	the cause of symptoms
+diagnostic ultrasound	can guide	treatment decisions
+diagnostic ultrasound	can monitor	the effectiveness of treatment
+diagnostic ultrasound	can be used to	assess organ function
+diagnostic ultrasound	can assess	blood flow
+diagnostic ultrasound	can evaluate	tissue elasticity
+diagnostic ultrasound	can measure	organ size
+diagnostic ultrasound	can guide	needle placement
+diagnostic ultrasound	can assist in	biopsies
+diagnostic ultrasound	can aid in	surgical planning
+diagnostic ultrasound	can assess	response to therapy
+diagnostic ultrasound	can monitor	disease progression
+diagnostic ultrasound	can screen	for certain conditions
+diagnostic ultrasound	can identify	infection
+diagnostic ultrasound	can detect	tumors
+diagnostic ultrasound	can assess	inflammation
+diagnostic ultrasound	can evaluate	trauma
+diagnostic ultrasound	can guide	drainage procedures
+diagnostic ultrasound	can visualize	blood vessels
+diagnostic ultrasound	can monitor	fetal development
+diagnostic ultrasound	can evaluate	fetal position
+diagnostic ultrasound	can assess	placental health
+diagnostic ultrasound	can determine	gestational age
+diagnostic ultrasound	can identify	multiple pregnancies
+diagnostic ultrasound	can detect	fetal abnormalities
+diagnostic ultrasound	can assess	amniotic fluid
+diagnostic ultrasound	can guide	fetal interventions
+diagnostic ultrasound	can monitor	fetal well-being
+diagnostic ultrasound	can assess	breastfeeding issues
+diagnostic ultrasound	can evaluate	swallowing difficulties
+diagnostic ultrasound	can detect	bowel obstructions
+diagnostic ultrasound	can guide	feeding tube placement
+diagnostic ultrasound	can assess	liver function
+diagnostic ultrasound	can evaluate	gallbladder health
+diagnostic ultrasound	can detect	kidney stones
+diagnostic ultrasound	can assess	bladder function
+diagnostic ultrasound	can guide	urinary catheter placement
+diagnostic ultrasound	can evaluate	prostate health
+diagnostic ultrasound	can detect	ovarian cysts
+diagnostic ultrasound	can assess	uterine health
+diagnostic ultrasound	can guide	intrauterine device placement
+diagnostic ultrasound	can monitor	fallopian tube patency
+diagnostic ultrasound	can detect	breast abnormalities
+diagnostic ultrasound	can evaluate	lymph nodes
+diagnostic ultrasound	can guide	breast biopsy
+diagnostic ultrasound	can assess	thyroid health
+diagnostic ultrasound	can detect	nodules
+diagnostic ultrasound	can evaluate	neck pain
+diagnostic ultrasound	can guide	joint injections
+diagnostic ultrasound	can assess	muscle tears
+diagnostic ultrasound	can monitor	tendon healing
+diagnostic ultrasound	can detect	bone fractures
+diagnostic ultrasound	can guide	needle aspirations
+diagnostic ultrasound	can evaluate	hernias
+diagnostic ultrasound	can guide	drain abscesses
+diagnostic ultrasound	can assess	varicose veins
+diagnostic ultrasound	can detect	blood clots
+diagnostic ultrasound	can evaluate	lymphatic system
+diagnostic ultrasound	can guide	lymph node biopsies
+diagnostic ultrasound	can assess	cardiac function
+diagnostic ultrasound	can detect	heart defects
+diagnostic ultrasound	can evaluate	blood flow in the heart
+diagnostic ultrasound	can assess	lung health
+diagnostic ultrasound	can guide	thoracentesis
+diagnostic ultrasound	can detect	pulmonary embolism
+diagnostic ultrasound	can evaluate	nervous system health
+diagnostic ultrasound	can guide	nerve blocks
+diagnostic ultrasound	can assess	brain function
+diagnostic ultrasound	can detect	brain tumors
+diagnostic ultrasound	can evaluate	eye health
+diagnostic ultrasound	can guide	interventional radiology procedures
+diagnostic ultrasound	can assess	vascular health
+diagnostic ultrasound	can detect	aneurysms
+diagnostic ultrasound	can evaluate	peripheral artery disease
+diagnostic ultrasound	can guide	vascular access procedures
+diagnostic ultrasound	can monitor	blood flow in transplants
+diagnostic ultrasound	can assess	bone health
+diagnostic ultrasound	can detect	osteoporosis
+diagnostic ultrasound	can evaluate	joint inflammation
+diagnostic ultrasound	can guide	joint aspirations
+diagnostic ultrasound	can monitor	wound healing
+diagnostic ultrasound	can assess	skin conditions
+diagnostic ultrasound	can detect	abscesses
+diagnostic ultrasound	can evaluate	lymphedema
+diagnostic ultrasound	can guide	lymphatic drainage
+diagnostic ultrasound	can monitor	response to lymphedema treatment
+diagnostic ultrasound	can assess	digestive disorders
+diagnostic ultrasound	can detect	gallstones
+diagnostic ultrasound	can evaluate	liver disease
+diagnostic ultrasound	can guide	liver biopsy
+diagnostic ultrasound	can assess	pancreatic health
+diagnostic ultrasound	can detect	splenic abnormalities
+diagnostic ultrasound	can evaluate	kidney function
+diagnostic ultrasound	can guide	dialysis access procedures
+diagnostic ultrasound	can assess	bladder function
+diagnostic ultrasound	can detect	urinary tract abnormalities
+diagnostic ultrasound	can evaluate	reproductive health
+diagnostic ultrasound	can guide	fertility treatments

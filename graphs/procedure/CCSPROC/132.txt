@@ -1,0 +1,65 @@
+therapeutic procedure	is a	medical procedure
+therapeutic procedure	used for	treatment
+therapeutic procedure	can be	surgical
+hysterectomy	is a type of	therapeutic procedure
+hysterectomy	used for	female organ removal
+hysterectomy	can be	laparoscopic
+laparoscopic surgery	is a type of	surgical procedure
+laparoscopic surgery	used for	minimally invasive treatment
+laparoscopic surgery	can be	performed on ovaries
+oophorectomy	is a type of	laparoscopic surgery
+oophorectomy	used for	ovarian removal
+oophorectomy	can be	bilateral
+bilateral oophorectomy	is a type of	oophorectomy
+bilateral oophorectomy	used for	removal of both ovaries
+bilateral oophorectomy	can cause	menopause
+menopause	is a	natural process
+menopause	associated with	hormonal changes
+hormonal changes	can cause	mood swings
+mood swings	can lead to	depression
+depression	is a	mental health condition
+depression	treated with	antidepressant medication
+antidepressant medication	can cause	side effects
+side effects	include	nausea
+nausea	can be	managed with medication
+medication	prescribed by	healthcare provider
+healthcare provider	can be	a doctor
+doctor	specialized in	gynecology
+gynecology	focuses on	female reproductive system
+gynecology	involves	pelvic exams
+pelvic exam	used to	evaluate female organs
+pelvic exam	can detect	abnormalities
+abnormalities	may require	further testing
+further testing	includes	imaging studies
+imaging studies	such as	ultrasound
+ultrasound	used to	visualize organs
+ultrasound	can detect	ovarian cysts
+ovarian cysts	may cause	pelvic pain
+pelvic pain	can be	managed with pain medication
+pain medication	prescribed by	healthcare provider
+healthcare provider	can refer to	physical therapist
+physical therapist	specialized in	pelvic floor exercises
+pelvic floor exercises	can improve	muscle strength
+muscle strength	important for	bladder control
+bladder control	can be	affected by childbirth
+childbirth	is	a natural process
+childbirth	may cause	vaginal tears
+vaginal tears	can be	repaired with stitches
+stitches	performed by	healthcare provider
+healthcare provider	can be	a midwife
+midwife	provides	prenatal care
+prenatal care	involves	regular check-ups
+regular check-ups	important for	monitoring pregnancy
+monitoring pregnancy	ensures	maternal and fetal well-being
+maternal and fetal well-being	assessed through	ultrasound
+ultrasound	used to	monitor fetal development
+fetal development	can be	affected by genetic conditions
+genetic conditions	may require	genetic testing
+genetic testing	can detect	chromosomal abnormalities
+chromosomal abnormalities	associated with	birth defects
+birth defects	may require	medical intervention
+medical intervention	provided by	healthcare team
+healthcare team	includes	obstetrician
+obstetrician	specializes in	pregnancy and childbirth
+pregnancy and childbirth	involves	hormonal changes
+hormonal changes	can affect	mood

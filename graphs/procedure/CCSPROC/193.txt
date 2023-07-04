@@ -1,0 +1,103 @@
+echocardiogram	is a	diagnostic procedure
+echocardiogram	used for	imaging the heart
+echocardiogram	can detect	abnormalities
+echocardiogram	used for	assessing heart function
+echocardiogram	can be used to diagnose	heart conditions
+echocardiogram	used in	cardiology
+echocardiogram	performed by	ultrasound technician
+ultrasound technician	operates	echocardiogram machine
+echocardiogram machine	uses	sound waves
+sound waves	produce	images
+images	show	heart structures
+echocardiogram	requires	specialized training
+echocardiogram	usually painless
+echocardiogram	considered safe	for most patients
+echocardiogram	may cause	discomfort
+echocardiogram	may need to be	repeated
+echocardiogram	performed in	a medical facility
+echocardiogram	provides	real-time images
+echocardiogram	can be used to	guide procedures
+echocardiogram	can help	monitor treatment progress
+echocardiogram	may be followed by	additional tests
+additional tests	may include	stress echocardiogram
+additional tests	may include	transesophageal echocardiography
+echocardiogram	used to evaluate	heart valve function
+echocardiogram	used to assess	wall motion abnormalities
+echocardiogram	used to measure	heart chamber size
+echocardiogram	used in	prenatal care
+echocardiogram	used to monitor	fetal development
+echocardiogram	can be used to	guide fetal interventions
+echocardiogram	may be used to	assess congenital heart defects
+echocardiogram	used to monitor	response to treatment
+echocardiogram	used in	emergency situations
+echocardiogram	used in	research studies
+echocardiogram	can be performed	on patients of all ages
+echocardiogram	helps doctors	make treatment decisions
+echocardiogram	can help	detect heart failure
+echocardiogram	used to evaluate	coronary artery disease
+echocardiogram	used to assess	heart muscle function
+echocardiogram	used to diagnose	heart murmurs
+echocardiogram	helps guide	cardiac surgery
+echocardiogram	used to monitor	implanted devices
+echocardiogram	may be used to	evaluate chest pain
+echocardiogram	can help	diagnose infections
+echocardiogram	used to assess	blood flow
+echocardiogram	used to evaluate	congenital heart disease
+echocardiogram	can help	assess treatment response
+echocardiogram	used to assess	heart rhythm disorders
+echocardiogram	can help	identify blood clots
+echocardiogram	used to evaluate	heart muscle function
+echocardiogram	used to assess	pulmonary hypertension
+echocardiogram	can help	diagnose aortic dissection
+echocardiogram	used to evaluate	chest pain
+echocardiogram	used to assess	heart valve abnormalities
+echocardiogram	used to diagnose	pericardial effusion
+echocardiogram	helps diagnose	heart tumors
+echocardiogram	used to evaluate	cardiomyopathy
+echocardiogram	helps assess	treatment response
+echocardiogram	used to evaluate	infective endocarditis
+echocardiogram	used to assess	cardiac function
+echocardiogram	helps guide	interventional procedures
+echocardiogram	used to diagnose	left ventricular hypertrophy
+echocardiogram	used to assess	heart transplant
+echocardiogram	used to evaluate	mitral valve disease
+echocardiogram	used to diagnose	pulmonary embolism
+echocardiogram	helps monitor	chemotherapy-induced cardiac toxicity
+echocardiogram	used to assess	ventricular function
+echocardiogram	used to evaluate	systolic dysfunction
+echocardiogram	helps guide	ethical decision-making
+echocardiogram	used to identify	cardiac masses
+echocardiogram	used to assess	myocardial infarction
+echocardiogram	helps guide	procedural interventions
+echocardiogram	used to evaluate	aortic regurgitation
+echocardiogram	used to diagnose	tricuspid valve disease
+echocardiogram	helps diagnose	heart failure with preserved ejection fraction
+echocardiogram	used to evaluate	ventricular septal defect
+echocardiogram	helps guide	pericardiocentesis
+echocardiogram	used to diagnose	dilated cardiomyopathy
+echocardiogram	used to assess	ventricular filling pressures
+echocardiogram	helps guide	heart failure treatment
+echocardiogram	used to evaluate	prosthetic valves
+echocardiogram	helps diagnose	hypovolemia
+echocardiogram	used to measure	ejection fraction
+echocardiogram	helps monitor	heart transplantation
+echocardiogram	used to assess	right ventricular function
+echocardiogram	used to evaluate	ascending aortic aneurysm
+echocardiogram	helps diagnose	myocarditis
+echocardiogram	used to diagnose	aortic stenosis
+echocardiogram	helps guide	ablation procedures
+echocardiogram	used to evaluate	patent foramen ovale
+echocardiogram	helps diagnose	cardiac tamponade
+echocardiogram	used to assess	hypertrophic cardiomyopathy
+echocardiogram	used to diagnose	bicuspid aortic valve
+echocardiogram	helps assess	mechanical circulatory support
+echocardiogram	used to evaluate	left ventricular assist device
+echocardiogram	helps diagnose	acute coronary syndrome
+echocardiogram	used to assess	myocardial ischemia
+echocardiogram	helps guide	heart valve repair
+echocardiogram	used to evaluate	left atrial enlargement
+echocardiogram	used to diagnose	atrial septal defect
+echocardiogram	helps diagnose	noncompaction cardiomyopathy
+echocardiogram	used to assess	myocardial viability
+echocardiogram	used to evaluate	heart transplantation
+echocardiogram	helps guide	transcatheter valve interventions

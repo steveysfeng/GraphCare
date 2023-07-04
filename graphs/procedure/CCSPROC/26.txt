@@ -1,0 +1,13 @@
+other therapeutic ear procedures	are	medical procedures
+tympanoplasty	is a type of	other therapeutic ear procedures
+tympanoplasty	used for	ear drum repair
+tympanoplasty	can improve	hearing loss
+myringotomy tube placement	is a type of	other therapeutic ear procedures
+myringotomy tube placement	used for	ear infections
+myringotomy tube placement	can prevent	ear fluid build-up
+mastoidectomy	is a type of	other therapeutic ear procedures
+mastoidectomy	used for	chronic ear infections
+mastoidectomy	can treat	bone erosion
+stapedectomy	is a type of	other therapeutic ear procedures
+stapedectomy	used for	hearing loss
+stapedectomy	can improve	conductive hearing loss

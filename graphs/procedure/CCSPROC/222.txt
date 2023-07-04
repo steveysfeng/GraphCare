@@ -1,0 +1,169 @@
+blood transfusion	is a	medical procedure
+blood transfusion	used for	treating anemia
+blood transfusion	can save	lives
+blood transfusion	increases	blood volume
+blood transfusion	can transmit	infections
+blood transfusion	requires	matching blood types
+blood transfusion	can cause	allergic reactions
+blood transfusion	can result in	fluid overload
+blood transfusion	can lead to	iron overload
+blood transfusion	can cause	clotting disorders
+blood transfusion	should be	monitored closely
+blood transfusion	can be	life-saving
+blood transfusion	is performed	in hospitals
+blood transfusion	requires	informed consent
+blood transfusion	can cause	transfusion reactions
+blood transfusion	should be	carefully timed
+blood transfusion	can be	life-threatening
+blood transfusion	can be	expensive
+blood transfusion	can improve	oxygenation
+blood transfusion	can be	life-giving
+blood transfusion	can lead to	fluid imbalance
+blood transfusion	can result in	graft-versus-host disease
+blood transfusion	can be	necessary
+blood transfusion	should be	performed by qualified professionals
+blood transfusion	can be	lifesaving
+blood transfusion	can be	risky
+blood transfusion	can cause	immunologic complications
+blood transfusion	should be	closely monitored
+blood transfusion	can be	time-consuming
+blood transfusion	can lead to	hemolytic reactions
+blood transfusion	can cause	adverse effects
+blood transfusion	can be	essential
+blood transfusion	is a	common procedure
+blood transfusion	can require	blood typing
+blood transfusion	can be	a critical intervention
+blood transfusion	can improve	hemoglobin levels
+blood transfusion	can be	a life-sustaining treatment
+blood transfusion	can lead to	infection transmission
+blood transfusion	can be	a vital therapy
+blood transfusion	can increase	the risk of infection
+blood transfusion	can be	a necessary procedure
+blood transfusion	can cause	complications
+blood transfusion	can result in	transfusion-associated lung injury
+blood transfusion	can be	lifesaving
+blood transfusion	is a	common treatment
+blood transfusion	can be	life-preserving
+blood transfusion	can cause	graft rejection
+blood transfusion	can be	vital
+blood transfusion	can restore	blood loss
+blood transfusion	can lead to	fluid retention
+blood transfusion	can be	beneficial
+blood transfusion	can require	crossmatching
+blood transfusion	can be	a necessary intervention
+blood transfusion	may be	needed
+blood transfusion	can prevent	severe complications
+blood transfusion	can be	a critical procedure
+blood transfusion	can improve	tissue oxygenation
+blood transfusion	can result in	allergic reactions
+blood transfusion	can be	a life-saving therapy
+blood transfusion	can increase	the risk of adverse reactions
+blood transfusion	can be	a life-sustaining therapy
+blood transfusion	can cause	delayed hemolytic reactions
+blood transfusion	can be	a potential treatment
+blood transfusion	can restore	hematocrit levels
+blood transfusion	can lead to	iron deficiency
+blood transfusion	can be	necessary for survival
+blood transfusion	should be	administered with caution
+blood transfusion	can be	a complex procedure
+blood transfusion	can improve	oxygen-carrying capacity
+blood transfusion	can cause	circulatory overload
+blood transfusion	can be	a necessary therapy
+blood transfusion	can prevent	life-threatening complications
+blood transfusion	can be	a life-saving intervention
+blood transfusion	can increase	the risk of transfusion-transmitted diseases
+blood transfusion	can be	a life-extending treatment
+blood transfusion	can result in	bacterial contamination
+blood transfusion	can be	a vital procedure
+blood transfusion	can restore	red blood cell count
+blood transfusion	can lead to	citrate toxicity
+blood transfusion	can be	life-preserving
+blood transfusion	can improve	oxygen delivery
+blood transfusion	can cause	fluid overload
+blood transfusion	can be	a necessary treatment
+blood transfusion	can boost	hemoglobin levels
+blood transfusion	can be	a life-sustaining intervention
+blood transfusion	can reduce	the risk of complications
+blood transfusion	can be	a critical therapy
+blood transfusion	can restore	blood supply
+blood transfusion	can lead to	acute transfusion reactions
+blood transfusion	can cause	immune reactions
+blood transfusion	should be	performed under proper conditions
+blood transfusion	can be	a potentially life-saving procedure
+blood transfusion	can improve	blood oxygenation
+blood transfusion	can result in	transfusion-related acute lung injury
+blood transfusion	can be	a necessary intervention
+blood transfusion	should be	carefully monitored
+blood transfusion	can be	a time-dependent treatment
+blood transfusion	can provide	needed blood components
+blood transfusion	can lead to	fluid imbalance
+blood transfusion	can be	a critical procedure
+blood transfusion	can improve	blood circulation
+blood transfusion	can cause	sensitization
+blood transfusion	can be	an essential procedure
+blood transfusion	can restore	oxygen-carrying capacity
+blood transfusion	can be	a life-sustaining therapy
+blood transfusion	can increase	the risk of transfusion reactions
+blood transfusion	can be	a life-saving therapy
+blood transfusion	can result in	delayed hemolytic reactions
+blood transfusion	can be	a potential treatment
+blood transfusion	can restore	hematocrit levels
+blood transfusion	can lead to	iron overload
+blood transfusion	can be	necessary for survival
+blood transfusion	should be	administered with caution
+blood transfusion	can improve	tissue perfusion
+blood transfusion	can cause	circulatory overload
+blood transfusion	can be	a necessary therapy
+blood transfusion	can prevent	life-threatening complications
+blood transfusion	can be	a life-saving intervention
+blood transfusion	can increase	the risk of transmission of infectious diseases
+blood transfusion	can be	a life-extending procedure
+blood transfusion	can result in	bacterial contamination
+blood transfusion	can be	a vital intervention
+blood transfusion	can restore	red blood cell production
+blood transfusion	can lead to	transfusion reactions
+blood transfusion	can be	life-preserving
+blood transfusion	can improve	oxygen delivery
+blood transfusion	can cause	fluid overload
+blood transfusion	can be	a necessary treatment
+blood transfusion	can boost	hemoglobin levels
+blood transfusion	can be	a life-sustaining intervention
+blood transfusion	can reduce	the risk of complications
+blood transfusion	can be	a critical therapy
+blood transfusion	can restore	blood supply
+blood transfusion	can lead to	acute reactions
+blood transfusion	can cause	immune reactions
+blood transfusion	should be	performed under proper conditions
+blood transfusion	can be	a potentially life-saving procedure
+blood transfusion	can improve	blood oxygenation
+blood transfusion	can result in	transfusion-related lung injury
+blood transfusion	can be	a necessary intervention
+blood transfusion	should be	closely monitored
+blood transfusion	can be	a time-dependent treatment
+blood transfusion	can provide	needed blood components
+blood transfusion	can lead to	fluid imbalance
+blood transfusion	can be	a critical procedure
+blood transfusion	can improve	blood circulation
+blood transfusion	can cause	sensitization
+blood transfusion	can be	an essential procedure
+blood transfusion	can restore	oxygen-carrying capacity
+blood transfusion	can be	a life-sustaining therapy
+blood transfusion	can increase	the risk of transfusion reactions
+blood transfusion	can be	a life-saving therapy
+blood transfusion	can result in	delayed reactions
+blood transfusion	can be	a potential treatment
+blood transfusion	can restore	hematocrit levels
+blood transfusion	can lead to	iron deficiency
+blood transfusion	can be	necessary for survival
+blood transfusion	should be	administered with caution
+blood transfusion	can improve	tissue perfusion
+blood transfusion	can cause	circulatory overload
+blood transfusion	can be	a necessary therapy
+blood transfusion	can prevent	complications
+blood transfusion	can be	a life-saving intervention
+blood transfusion	can increase	the risk of transmission
+blood transfusion	can be	a life-extending procedure
+blood transfusion	can result in	contamination
+blood transfusion	can be	a vital intervention
+blood transfusion	can restore	red blood cell production
+blood transfusion	can lead to	reactions

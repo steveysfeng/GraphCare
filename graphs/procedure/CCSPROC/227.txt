@@ -1,0 +1,6 @@
+other diagnostic procedures	include	blood test
+other diagnostic procedures	include	imaging study
+blood test	can detect	infection
+blood test	can detect	cancer
+imaging study	can visualize	organs
+imaging study	can detect	tumors

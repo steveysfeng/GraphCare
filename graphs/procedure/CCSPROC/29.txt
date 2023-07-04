@@ -1,0 +1,127 @@
+dental procedures	is a	category of treatments
+dental procedures	perform	by dentists
+extractions	is a type of	dental procedures
+fillings	is a type of	dental procedures
+cleanings	is a type of	dental procedures
+root canals	is a type of	dental procedures
+oral surgery	is a type of	dental procedures
+orthodontics	is a type of	dental procedures
+cosmetic dentistry	is a type of	dental procedures
+dental procedures	can prevent	cavities
+dental procedures	can correct	tooth misalignment
+fillings	can treat	dental caries
+extractions	can remove	damaged teeth
+cleanings	can remove	plaque and tartar
+root canals	can save	infected teeth
+orthodontics	can straighten	misaligned teeth
+oral surgery	can treat	impacted teeth
+cosmetic dentistry	can improve	smile aesthetics
+dental procedures	require	local anesthesia
+dental procedures	may cause	temporary discomfort
+dental procedures	can improve	oral health
+dental procedures	can restore	tooth functionality
+cleanings	should be done	regularly
+dental procedures	can be expensive
+dental procedures	may have	insurance coverage
+fillings	can restore	tooth structure
+extractions	may be necessary	for wisdom teeth
+orthodontics	may require	braces
+root canals	may be needed	for severe tooth decay
+cleanings	are recommended	every six months
+dental procedures	can improve	self-confidence
+dental procedures	can enhance	speech clarity
+dental procedures	can improve	chewing ability
+oral surgery	may involve	tooth extraction
+cosmetic dentistry	can include	teeth whitening
+dental procedures	can help	prevent tooth loss
+fillings	can be made	from different materials
+cleanings	can prevent	gum disease
+root canals	can alleviate	tooth pain
+dental procedures	can correct	bite problems
+dental procedures	can restore	damaged teeth
+orthodontics	can improve	jaw alignment
+fillings	can be placed	in cavities
+dental procedures	may require	dental X-rays
+cosmetic dentistry	can involve	dental implants
+extractions	can be performed	for overcrowded teeth
+dental procedures	can improve	overall appearance
+cleanings	can help	prevent bad breath
+dental procedures	can address	tooth sensitivity
+root canals	can prevent	tooth abscess
+dental procedures	can enhance	quality of life
+dental procedures	can mitigate	dental infections
+fillings	can be done	in a single appointment
+cleanings	can remove	surface stains
+dental procedures	can reduce	tooth decay risk
+dental procedures	can correct	speech impediments
+root canals	can preserve	natural teeth
+fillings	can be customized	to match tooth color
+orthodontics	can improve	bite function
+dental procedures	can protect	tooth enamel
+dental procedures	can improve	oral hygiene
+dental procedures	can address	tooth discoloration
+fillings	can be placed	in baby teeth
+dental procedures	can prevent	tooth erosion
+dental procedures	can restore	tooth shape
+dental procedures	can alleviate	jaw pain
+dental procedures	can fix	broken teeth
+dental procedures	can prevent	dental emergencies
+dental procedures	can enhance	tooth durability
+dental procedures	can promote	gum health
+root canals	can prevent	tooth extraction
+cleanings	can remove	dental plaque
+orthodontics	can improve	facial aesthetics
+fillings	can be recommended	for tooth repair
+dental procedures	can treat	tooth sensitivity
+dental procedures	can correct	tooth gaps
+dental procedures	can restore	bite function
+cosmetic dentistry	can involve	dental bonding
+extractions	can be performed	for damaged teeth
+oral surgery	can correct	oral abnormalities
+dental procedures	can improve	oral function
+dental procedures	can reduce	tooth sensitivity
+dental procedures	can alleviate	tooth overcrowding
+cleanings	can prevent	gum inflammation
+dental procedures	can restore	chewing ability
+dental procedures	can enhance	facial symmetry
+orthodontics	can address	speech problems
+fillings	can strengthen	weakened teeth
+cleanings	can be done	by dental hygienists
+dental procedures	can fix	tooth fractures
+dental procedures	can prevent	tooth wear
+fillings	can be placed	in front teeth
+dental procedures	can improve	overall oral health
+dental procedures	can correct	tooth misalignment
+orthodontics	can involve	retainers
+root canals	can be performed	by endodontists
+dental procedures	can restore	natural smile
+cosmetic dentistry	can involve	dental veneers
+dental procedures	can address	temporomandibular joint disorder
+dental procedures	can improve	bite alignment
+extractions	can be done	under sedation
+dental procedures	can prevent	gum recession
+cleanings	can remove	food particles
+dental procedures	can alleviate	tooth sensitivity
+dental procedures	can restore	missing teeth
+dental procedures	can improve	dental aesthetics
+dental procedures	can correct	teeth crowding
+dental procedures	can enhance	facial appearance
+fillings	can be placed	in back teeth
+oral surgery	can involve	bone grafting
+dental procedures	can prevent	tooth staining
+root canals	can save	infected tooth pulp
+dental procedures	can improve	oral comfort
+dental procedures	can alleviate	tooth grinding
+cleanings	can polish	tooth enamel
+extractions	can be necessary	for orthodontic purposes
+dental procedures	can restore	bite function
+dental procedures	can enhance	tooth strength
+dental procedures	can promote	dental health
+dental procedures	can correct	tooth shape
+dental procedures	can prevent	tooth sensitivity
+fillings	can be recommended	after cavity removal
+cosmetic dentistry	can involve	gum contouring
+cleanings	can prevent	tooth loss
+root canals	can preserve	tooth structure
+dental procedures	can improve	self-esteem
+dental procedures	can restore	oral function

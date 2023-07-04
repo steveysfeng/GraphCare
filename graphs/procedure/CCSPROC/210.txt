@@ -1,0 +1,118 @@
+nuclear medicine imaging	is a	medical procedure
+nuclear medicine imaging	uses	radioactive materials
+nuclear medicine imaging	can detect	tumors
+nuclear medicine imaging	helps in	staging cancer
+nuclear medicine imaging	evaluates	organ function
+nuclear medicine imaging	guides	treatment
+nuclear medicine imaging	assesses	response to treatment
+nuclear medicine imaging	measures	blood flow
+nuclear medicine imaging	provides	molecular information
+nuclear medicine imaging	detects	infections
+nuclear medicine imaging	identifies	bone fractures
+nuclear medicine imaging	locates	sources of bleeding
+nuclear medicine imaging	evaluates	thyroid function
+nuclear medicine imaging	monitors	heart function
+nuclear medicine imaging	diagnoses	lung disorders
+nuclear medicine imaging	detects	brain abnormalities
+nuclear medicine imaging	visualizes	gastrointestinal tract
+nuclear medicine imaging	assesses	kidney function
+nuclear medicine imaging	studies	muscle and skeletal systems
+nuclear medicine imaging	identifies	gallbladder disease
+nuclear medicine imaging	helps in	planning radiation therapy
+nuclear medicine imaging	detects	cardiac abnormalities
+nuclear medicine imaging	diagnoses	liver diseases
+nuclear medicine imaging	evaluates	lung function
+nuclear medicine imaging	maps	the lymphatic system
+nuclear medicine imaging	identifies	neuroendocrine tumors
+nuclear medicine imaging	detects	blood clots
+nuclear medicine imaging	assesses	splenic function
+nuclear medicine imaging	monitors	infection response
+nuclear medicine imaging	studies	metabolism
+nuclear medicine imaging	guides	biopsy procedures
+nuclear medicine imaging	detects	bone infections
+nuclear medicine imaging	assesses	liver function
+nuclear medicine imaging	visualizes	urinary tract
+nuclear medicine imaging	identifies	prostate cancer
+nuclear medicine imaging	localizes	parathyroid adenomas
+nuclear medicine imaging	detects	biliary tract abnormalities
+nuclear medicine imaging	evaluates	ovarian and testicular function
+nuclear medicine imaging	diagnoses	gastrointestinal bleeding
+nuclear medicine imaging	helps in	identifying metastatic disease
+nuclear medicine imaging	measures	lung ventilation
+nuclear medicine imaging	identifies	adrenal gland disorders
+nuclear medicine imaging	detects	bone marrow disorders
+nuclear medicine imaging	assesses	gastric emptying
+nuclear medicine imaging	images	joint inflammation
+nuclear medicine imaging	evaluates	cerebral blood flow
+nuclear medicine imaging	identifies	lymphoma
+nuclear medicine imaging	helps in	evaluating transplant rejection
+nuclear medicine imaging	detects	pulmonary embolism
+nuclear medicine imaging	monitors	therapy response
+nuclear medicine imaging	identifies	soft tissue infections
+nuclear medicine imaging	assesses	esophageal function
+nuclear medicine imaging	studies	gastrointestinal motility
+nuclear medicine imaging	visualizes	skin and bone infections
+nuclear medicine imaging	localizes	insulinoma
+nuclear medicine imaging	detects	abscesses
+nuclear medicine imaging	assesses	cerebrospinal fluid flow
+nuclear medicine imaging	images	renal function
+nuclear medicine imaging	evaluates	hepatobiliary function
+nuclear medicine imaging	diagnoses	immune system disorders
+nuclear medicine imaging	helps in	identifying bleeding sites
+nuclear medicine imaging	measures	lung perfusion
+nuclear medicine imaging	identifies	pheochromocytoma
+nuclear medicine imaging	detects	lymphatic leaks
+nuclear medicine imaging	assesses	lymphedema
+nuclear medicine imaging	studies	cerebrovascular disease
+nuclear medicine imaging	visualizes	salivary gland function
+nuclear medicine imaging	localizes	thyroid nodules
+nuclear medicine imaging	detects	lung nodules
+nuclear medicine imaging	assesses	mucociliary clearance
+nuclear medicine imaging	images	pancreatic beta cell mass
+nuclear medicine imaging	evaluates	urinary reflux
+nuclear medicine imaging	diagnoses	pulmonary hypertension
+nuclear medicine imaging	helps in	locating sentinel lymph nodes
+nuclear medicine imaging	measures	cardiac output
+nuclear medicine imaging	identifies	endocrine tumors
+nuclear medicine imaging	detects	lymphoma
+nuclear medicine imaging	assesses	renal scarring
+nuclear medicine imaging	studies	bone turnover
+nuclear medicine imaging	visualizes	pancreatic function
+nuclear medicine imaging	localizes	intussusception
+nuclear medicine imaging	detects	neurodegenerative disorders
+nuclear medicine imaging	assesses	kidney transplant function
+nuclear medicine imaging	images	prostate specific membrane antigen expression
+nuclear medicine imaging	evaluates	gastrointestinal bleeding
+nuclear medicine imaging	identifies	breast cancer metastases
+nuclear medicine imaging	helps in	evaluating hearing loss
+nuclear medicine imaging	measures	gallbladder function
+nuclear medicine imaging	detects	shunt infections
+nuclear medicine imaging	assesses	pancreatic exocrine function
+nuclear medicine imaging	studies	infection localization
+nuclear medicine imaging	visualizes	gastrointestinal reflux
+nuclear medicine imaging	localizes	intracranial bleeding
+nuclear medicine imaging	detects	cardiac amyloidosis
+nuclear medicine imaging	assesses	mucosal immunity
+nuclear medicine imaging	images	cerebrospinal fluid flow
+nuclear medicine imaging	evaluates	esophageal reflux
+nuclear medicine imaging	identifies	neuroendocrine tumors
+nuclear medicine imaging	detects	bile leak
+nuclear medicine imaging	assesses	salivary gland function
+nuclear medicine imaging	monitors	chemoembolization therapy response
+nuclear medicine imaging	studies	hepatic perfusion
+nuclear medicine imaging	visualizes	blood pool activity
+nuclear medicine imaging	localizes	gastrointestinal bleeding
+nuclear medicine imaging	detects	pancreatic cysts
+nuclear medicine imaging	assesses	lacrimal duct function
+nuclear medicine imaging	images	cerebral blood flow
+nuclear medicine imaging	evaluates	pediatric reflux
+nuclear medicine imaging	identifies	infection sites
+nuclear medicine imaging	detects	brain death
+nuclear medicine imaging	assesses	penile blood flow
+nuclear medicine imaging	studies	renal function
+nuclear medicine imaging	visualizes	bile ducts
+nuclear medicine imaging	localizes	infection foci
+nuclear medicine imaging	helps in	evaluating osteomyelitis
+nuclear medicine imaging	measures	renal perfusion
+nuclear medicine imaging	identifies	pheochromocytoma
+nuclear medicine imaging	detects	salivary gland dysfunction

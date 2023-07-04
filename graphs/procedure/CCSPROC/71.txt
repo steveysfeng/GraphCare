@@ -1,0 +1,101 @@
+gastrostomy	is a	medical procedure
+gastrostomy	used for	feeding
+gastrostomy tube	is inserted during	gastrostomy
+gastrostomy tube	delivers	nutrition
+gastrostomy tube	can be used for	both temporary and permanent feeding
+temporary gastrostomy	is a type of	gastrostomy
+temporary gastrostomy	is used for	short-term feeding
+permanent gastrostomy	is a type of	gastrostomy
+permanent gastrostomy	is used for	long-term feeding
+gastrostomy tube	is surgically inserted into	stomach
+gastrostomy tube	connects	stomach to external source
+gastrostomy tube	requires	medical supervision
+gastrostomy tube	needs to be cleaned	regularly
+gastrostomy tube	has risk of	infection
+gastrostomy tube	can cause	skin irritation
+gastrostomy tube	should be flushed	regularly
+gastrostomy tube	may need	replacement
+gastrostomy tube	should be removed	when no longer needed
+patients with	swallowing difficulties	may require gastrostomy
+patients with	head or neck cancer	may require gastrostomy
+gastrostomy tube	can be used for	medication administration
+gastrostomy tube	can be used for	fluid administration
+gastrostomy tube	allows	enteral nutrition
+gastrostomy tube	minimizes	risk of aspiration pneumonia
+gastrostomy	is performed under	anesthesia
+patients with	gastrointestinal obstruction	may require gastrostomy
+gastrostomy tube	is inserted through	abdominal wall
+gastrostomy tube	has risk of	dislodgement
+gastrostomy tube	can cause	abdominal pain
+patients with	neurologic disorders	may require gastrostomy
+gastrostomy tube	is used when	oral feeding is not possible
+gastrostomy tube	can improve	nutritional status
+gastrostomy tube	requires	regular monitoring
+gastrostomy tube	can be placed	endoscopically
+patients with	swallowing disorders	may require gastrostomy
+gastrostomy tube	can be placed	radiologically
+gastrostomy tube	can be placed	surgically
+gastrostomy tube	allows	feeding directly into stomach
+gastrostomy tube	is suitable for	patients with impaired swallowing
+gastrostomy tube	requires	proper care
+gastrostomy tube	enables	nutritional support
+gastrostomy tube	needs to be secured	to the skin
+gastrostomy tube	can improve	quality of life
+gastrostomy tube	can be removed	when no longer needed
+gastrostomy tube	can be replaced	if necessary
+gastrostomy tube	can be used in	pediatric patients
+gastrostomy tube	allows	enteral feeding
+gastrostomy tube	can be inserted	percutaneously
+gastrostomy tube	requires	sterile technique
+gastrostomy tube	needs to be replaced	periodically
+gastrostomy tube	can cause	bloating
+gastrostomy tube	can cause	reflux
+gastrostomy tube	can cause	diarrhea
+gastrostomy tube	can cause	constipation
+gastrostomy tube	can cause	tube blockage
+gastrostomy tube	can cause	granulation tissue formation
+gastrostomy tube	can cause	dislocation
+gastrostomy tube	can cause	necrosis
+gastrostomy tube	can cause	peritonitis
+gastrostomy tube	can cause	bleeding
+patients with	impaired swallowing	may require gastrostomy
+gastrostomy tube	can be inserted	surgically or endoscopically
+gastrostomy tube	may be required for	enteral nutrition
+gastrostomy tube	helps	maintain caloric intake
+gastrostomy tube	provides	direct access to stomach
+gastrostomy tube	can be used for	medication delivery
+gastrostomy tube	should be inserted	by a healthcare professional
+gastrostomy tube	requires	ongoing care
+gastrostomy tube	allows	administration of formula or food
+gastrostomy tube	can cause	wound infection
+gastrostomy tube	can cause	tube migration
+gastrostomy tube	can cause	tube obstruction
+gastrostomy tube	can cause	wound dehiscence
+gastrostomy tube	is used when	oral intake is not possible
+gastrostomy tube	is used for	enteral feeding
+patients with	esophageal cancer	may require gastrostomy
+gastrostomy tube	allows	direct delivery of nutrients to the stomach
+gastrostomy tube	can be placed	percutaneously or surgically
+gastrostomy tube	can be used in	critically ill patients
+gastrostomy tube	can be used in	patients with neurological conditions
+patients with	swallowing dysfunction	may require gastrostomy
+gastrostomy tube	helps	prevent malnutrition
+gastrostomy tube	requires	regular assessment
+gastrostomy tube	can cause	local infection
+gastrostomy tube	should be flushed	with water
+gastrostomy tube	should be flushed	with saline
+gastrostomy tube	can be inserted	with or without balloon
+gastrostomy tube	can be inserted	with or without sutures
+gastrostomy tube	requires	cleaning with soap and water
+gastrostomy tube	can be used in	patients with gastrointestinal disorders
+gastrostomy tube	can be used in	patients with swallowing difficulties
+gastrostomy tube	can cause	tube dislodgment
+patients with	head and neck trauma	may require gastrostomy
+patients with	prolonged mechanical ventilation	may require gastrostomy
+gastrostomy tube	can be used for	medication administration
+gastrostomy tube	can be used for	hydration
+gastrostomy tube	allows	early initiation of enteral nutrition
+gastrostomy tube	enables	administration of tube feeding
+gastrostomy tube	is suitable for	patients with poor oral intake
+gastrostomy tube	requires	frequent site care
+gastrostomy tube	can improve	overall health status

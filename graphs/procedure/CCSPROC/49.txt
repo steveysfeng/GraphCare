@@ -1,0 +1,112 @@
+heart procedure	is a	medical procedure
+heart catheterization	is a type of	heart procedure
+heart catheterization	used for	diagnosis
+angioplasty	is a type of	heart procedure
+angioplasty	used for	treatment
+coronary artery bypass graft surgery	is a type of	heart procedure
+coronary artery bypass graft surgery	used for	treatment
+valve replacement	is a type of	heart procedure
+valve replacement	used for	treatment
+pacemaker insertion	is a type of	heart procedure
+pacemaker insertion	used for	treatment
+implantable cardioverter defibrillator implantation	is a type of	heart procedure
+implantable cardioverter defibrillator implantation	used for	treatment
+heart procedure	can be performed	minimally invasive
+heart procedure	may require	anesthesia
+heart procedure	may have	complications
+heart procedure	is associated with	hospitalization
+heart procedure	may involve	rehabilitation
+heart procedure	may result in	readmission
+heart procedure	can improve	quality of life
+heart procedure	may extend	lifespan
+heart procedure	may cause	side effects
+heart procedure	requires	specialized equipment
+heart procedure	performed by	cardiologist
+heart procedure	is covered by	insurance
+heart procedure	can be expensive
+heart procedure	can be time-consuming
+heart procedure	requires	preoperative evaluation
+heart procedure	may require	blood transfusion
+heart procedure	may involve	imaging tests
+heart procedure	may involve	blood tests
+heart procedure	requires	consent
+heart procedure	may require	hospital stay
+heart procedure	may need	follow-up care
+heart procedure	may require	medication
+heart procedure	may involve	dietary restrictions
+heart procedure	may require	lifestyle changes
+heart procedure	linked to	mortality
+heart procedure	linked to	complications
+heart procedure	linked to	infection
+heart procedure	linked to	bleeding
+heart procedure	linked to	reoperation
+heart procedure	linked to	arrhythmia
+heart procedure	can be done	on an outpatient basis
+heart procedure	associated with	scarring
+heart procedure	may have	long-term effects
+heart procedure	may require	physical therapy
+heart procedure	may be restricted	by age
+heart procedure	may be restricted	by health conditions
+heart procedure	may have	contraindications
+heart procedure	may have	risks
+heart procedure	may be contraindicated	in pregnancy
+heart procedure	may be contraindicated	in certain medications
+heart procedure	can be a	life-saving intervention
+heart procedure	involves	catheterization
+heart procedure	can be	performed under local anesthesia
+heart procedure	can be	performed with sedation
+heart procedure	can be	performed under general anesthesia
+heart procedure	involves	accessing the heart
+heart procedure	involves	manipulating blood vessels
+heart procedure	requires	sterile environment
+heart procedure	involves	incision
+heart procedure	may involve	sutures
+heart procedure	may require	postoperative care
+heart procedure	may have	physical restrictions
+heart procedure	may require	lifestyle modifications
+heart procedure	may be	contraindicated in certain cardiac conditions
+heart procedure	may be	contraindicated in certain vascular conditions
+heart procedure	may be	contraindicated in certain surgical history
+heart procedure	linked to	improved outcomes
+heart procedure	linked to	decreased symptoms
+heart procedure	linked to	decreased hospitalizations
+heart procedure	linked to	decreased morbidity
+heart procedure	linked to	improved prognosis
+heart procedure	associated with	laboratory tests
+heart procedure	associated with	imaging studies
+heart procedure	associated with	electrocardiogram
+heart procedure	associated with	echocardiogram
+heart procedure	associated with	stress testing
+heart procedure	associated with	cardiac catheterization
+heart procedure	associated with	angiography
+heart procedure	associated with	Doppler ultrasound
+heart procedure	associated with	computerized tomography
+heart procedure	associated with	magnetic resonance imaging
+heart procedure	associated with	blood transfusions
+heart procedure	associated with	recovery time
+heart procedure	associated with	postoperative complications
+heart procedure	requires	patient education
+heart procedure	may require	psychological support
+heart procedure	requires	informed consent
+heart procedure	requires	surgical team
+heart procedure	requires	preoperative preparation
+heart procedure	requires	postoperative monitoring
+heart procedure	requires	postoperative follow-up
+heart procedure	may require	lifestyle counseling
+heart procedure	may need	dietary education
+heart procedure	may involve	cardiac rehabilitation
+heart procedure	requires	multidisciplinary care
+heart procedure	requires	collaboration
+cardiologist	performs	heart procedure
+heart procedure	involves	surgical team
+heart procedure	may require	an anesthesiologist
+heart procedure	may involve	nursing care
+heart procedure	involves	imaging specialists
+heart procedure	may require	physical and occupational therapists
+heart procedure	linked to	recovery time
+heart procedure	linked to	improved quality of life
+heart procedure	linked to	decreased readmissions
+heart procedure	linked to	reduced mortality
+heart procedure	linked to	improved survival
+heart procedure	may have	emotional impact
+heart procedure	may require	support groups

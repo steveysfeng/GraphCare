@@ -1,0 +1,100 @@
+lumpectomy	is a	surgical procedure
+lumpectomy	used for	breast cancer treatment
+lumpectomy	removes	tumor
+lumpectomy	leaves	breast intact
+lumpectomy	can be combined with	radiation therapy
+lumpectomy	may have	complications
+lumpectomy	can result in	breast deformity
+lumpectomy	can cause	pain
+lumpectomy	is an alternative to	mastectomy
+lumpectomy	has	lower mortality rate compared to mastectomy
+quadrantectomy	is a	type of lumpectomy
+quadrantectomy	removes	a quarter of the breast
+quadrantectomy	used for	larger tumors
+quadrantectomy	may require	lymph node removal
+quadrantectomy	has	higher risk of complications compared to lumpectomy
+quadrantectomy	can result in	breast asymmetry
+quadrantectomy	may be followed by	radiation therapy
+quadrantectomy	can cause	changes in nipple sensation
+quadrantectomy	is not suitable for	all breast cancer cases
+quadrantectomy	may require	reconstruction surgery
+quadrantectomy	has	longer recovery time compared to lumpectomy
+breast cancer	can be treated with	lumpectomy
+breast cancer	can be treated with	mastectomy
+breast cancer	can be treated with	chemotherapy
+breast cancer	can be treated with	radiation therapy
+breast cancer	can metastasize to	lymph nodes
+breast cancer	has	different stages
+breast cancer	can recur	after treatment
+breast cancer	has	different subtypes
+breast cancer	can be hormone receptor positive
+breast cancer	can be HER2 positive
+breast cancer	can be triple negative
+breast cancer	can be detected by	mammography
+breast cancer	can be detected by	biopsy
+mammography	is a	screening method
+mammography	uses	X-rays
+mammography	can detect	breast abnormalities
+mammography	is recommended	for early detection of breast cancer
+mammography	can result in	false positives
+mammography	can result in	false negatives
+biopsy	is a	diagnostic procedure
+biopsy	can be	needle biopsy
+biopsy	can be	surgical biopsy
+biopsy	can be	incisional biopsy
+biopsy	can be	excisional biopsy
+needle biopsy	uses	a thin needle
+needle biopsy	can be	fine needle aspiration
+needle biopsy	can be	core needle biopsy
+surgical biopsy	involves	removing tissue
+surgical biopsy	can be	open biopsy
+surgical biopsy	can be	ultrasound-guided biopsy
+incisional biopsy	takes	a small part of the tumor
+incisional biopsy	used when	complete removal is not possible
+excisional biopsy	removes	the entire tumor
+excisional biopsy	used when	complete removal is possible
+biopsy	can confirm	presence of cancer
+biopsy	can determine	cancer stage
+biopsy	can provide	information about tumor subtype
+biopsy	can assess	hormone receptor status
+biopsy	can assess	HER2 status
+biopsy	can assess	tumor grade
+biopsy	can assess	lymph node involvement
+biopsy	can assist in	treatment planning
+radiation therapy	is a	cancer treatment
+radiation therapy	uses	high-energy rays
+radiation therapy	can kill	cancer cells
+radiation therapy	can be	external beam radiation
+radiation therapy	can be	brachytherapy
+radiation therapy	can be	adjuvant therapy
+radiation therapy	can be	neoadjuvant therapy
+radiation therapy	can cause	side effects
+radiation therapy	can cause	skin changes
+radiation therapy	can cause	fatigue
+radiation therapy	can cause	hair loss
+radiation therapy	can cause	lymphedema
+radiation therapy	can reduce	risk of local recurrence
+radiation therapy	can be combined with	chemotherapy
+radiation therapy	can be combined with	targeted therapy
+radiation therapy	can be combined with	hormone therapy
+radiation therapy	can be used	after lumpectomy
+radiation therapy	can be used	after mastectomy
+radiation therapy	can be used	to shrink tumors before surgery
+radiation therapy	can be used	to relieve symptoms in advanced breast cancer
+mastectomy	is a	surgical procedure
+mastectomy	removes	the entire breast
+mastectomy	can be	total mastectomy
+mastectomy	can be	modified radical mastectomy
+mastectomy	can be	radical mastectomy
+mastectomy	can be	skin-sparing mastectomy
+mastectomy	can be	nipple-sparing mastectomy
+mastectomy	can be	bilateral mastectomy
+mastectomy	can be followed by	breast reconstruction
+mastectomy	can result in	loss of breast sensation
+mastectomy	can result in	psychological impact
+mastectomy	can reduce	risk of local recurrence
+mastectomy	can be accompanied by	lymph node removal
+mastectomy	can be used	for risk reduction in high-risk individuals
+mastectomy	can be used	as a treatment for advanced breast cancer
+mastectomy	has	longer recovery time compared to lumpectomy
+mastectomy	can be	emotionally challenging

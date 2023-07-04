@@ -1,0 +1,16 @@
+other non-or therapeutic procedures on respiratory system	is a	medical procedure
+other non-or therapeutic procedures on respiratory system	used for	treatment
+bronchoscopy	is a type of	other non-or therapeutic procedures on respiratory system
+bronchoscopy	can detect	tumors
+tracheostomy	is a type of	other non-or therapeutic procedures on respiratory system
+tracheostomy	used for	airway management
+thoracentesis	is a type of	other non-or therapeutic procedures on respiratory system
+thoracentesis	used for	removal of fluid from the pleural cavity
+adenoidectomy	is a type of	other non-or therapeutic procedures on respiratory system
+adenoidectomy	used for	removal of the adenoids
+tonsillectomy	is a type of	other non-or therapeutic procedures on respiratory system
+tonsillectomy	used for	removal of the tonsils
+laryngoscopy	is a type of	other non-or therapeutic procedures on respiratory system
+laryngoscopy	used for	examination of the larynx
+sinusotomy	is a type of	other non-or therapeutic procedures on respiratory system
+sinusotomy	used for	opening of the sinuses

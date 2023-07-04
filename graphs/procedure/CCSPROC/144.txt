@@ -1,0 +1,178 @@
+treatment	is for	facial fracture
+treatment	is for	facial dislocation
+facial fracture	can result from	trauma
+facial dislocation	can result from	trauma
+facial fracture	can cause	pain
+facial dislocation	can cause	pain
+facial fracture	can cause	swelling
+facial dislocation	can cause	swelling
+facial fracture	can lead to	difficulty chewing
+facial dislocation	can lead to	difficulty chewing
+facial fracture	can require	surgery
+facial dislocation	can require	surgery
+facial fracture	can be treated with	pain medication
+facial dislocation	can be treated with	pain medication
+facial fracture	can be treated with	anti-inflammatory medication
+facial dislocation	can be treated with	anti-inflammatory medication
+facial fracture	can be treated with	immobilization
+facial dislocation	can be treated with	immobilization
+facial fracture	can be treated with	physical therapy
+facial dislocation	can be treated with	physical therapy
+facial fracture	can be treated with	surgery
+facial dislocation	can be treated with	surgery
+facial fracture	can be prevented by	wearing protective gear
+facial dislocation	can be prevented by	wearing protective gear
+facial fracture	can lead to	deformity
+facial dislocation	can lead to	deformity
+facial fracture	can result in	nerve damage
+facial dislocation	can result in	nerve damage
+facial fracture	can result in	loss of function
+facial dislocation	can result in	loss of function
+facial fracture	can result in	scarring
+facial dislocation	can result in	scarring
+facial fracture	can require	rehabilitation
+facial dislocation	can require	rehabilitation
+facial fracture	can lead to	complications
+facial dislocation	can lead to	complications
+facial fracture	can cause	bleeding
+facial dislocation	can cause	bleeding
+facial fracture	can cause	infection
+facial dislocation	can cause	infection
+facial fracture	can be treated with	antibiotics
+facial dislocation	can be treated with	antibiotics
+facial fracture	can be diagnosed with	imaging tests
+facial dislocation	can be diagnosed with	imaging tests
+facial fracture	can require	hospitalization
+facial dislocation	can require	hospitalization
+facial fracture	can affect	facial symmetry
+facial dislocation	can affect	facial symmetry
+facial fracture	can lead to	airway obstruction
+facial dislocation	can lead to	airway obstruction
+facial fracture	can lead to	vision problems
+facial dislocation	can lead to	vision problems
+facial fracture	can lead to	hearing loss
+facial dislocation	can lead to	hearing loss
+facial fracture	can lead to	difficulty speaking
+facial dislocation	can lead to	difficulty speaking
+facial fracture	can lead to	difficulty breathing
+facial dislocation	can lead to	difficulty breathing
+facial fracture	can lead to	difficulty swallowing
+facial dislocation	can lead to	difficulty swallowing
+facial fracture	can lead to	difficulty seeing
+facial dislocation	can lead to	difficulty seeing
+facial fracture	can lead to	difficulty hearing
+facial dislocation	can lead to	difficulty hearing
+facial fracture	can lead to	difficulty speaking
+facial dislocation	can lead to	difficulty speaking
+facial fracture	can lead to	changes in sensation
+facial dislocation	can lead to	changes in sensation
+facial fracture	can lead to	changes in appearance
+facial dislocation	can lead to	changes in appearance
+facial fracture	can lead to	changes in function
+facial dislocation	can lead to	changes in function
+facial fracture	can lead to	changes in facial structure
+facial dislocation	can lead to	changes in facial structure
+facial fracture	can require	reconstructive surgery
+facial dislocation	can require	reconstructive surgery
+facial fracture	can result in	bone fragments
+facial dislocation	can result in	bone fragments
+facial fracture	can result in	bruising
+facial dislocation	can result in	bruising
+facial fracture	can result in	difficulty speaking
+facial dislocation	can result in	difficulty speaking
+facial fracture	can result in	difficulty swallowing
+facial dislocation	can result in	difficulty swallowing
+facial fracture	can result in	difficulty breathing
+facial dislocation	can result in	difficulty breathing
+facial fracture	can require	analgesics
+facial dislocation	can require	analgesics
+facial fracture	can require	anti-inflammatory drugs
+facial dislocation	can require	anti-inflammatory drugs
+facial fracture	can require	nerve blocks
+facial dislocation	can require	nerve blocks
+facial fracture	can require	physical therapy
+facial dislocation	can require	physical therapy
+facial fracture	can require	surgery
+facial dislocation	can require	surgery
+facial fracture	can require	hospitalization
+facial dislocation	can require	hospitalization
+facial fracture	can require	rehabilitation
+facial dislocation	can require	rehabilitation
+facial fracture	can require	antibiotics
+facial dislocation	can require	antibiotics
+facial fracture	can result in	facial deformity
+facial dislocation	can result in	facial deformity
+facial fracture	can result in	loss of vision
+facial dislocation	can result in	loss of vision
+facial fracture	can result in	loss of hearing
+facial dislocation	can result in	loss of hearing
+facial fracture	can result in	difficulty seeing
+facial dislocation	can result in	difficulty seeing
+facial fracture	can result in	difficulty hearing
+facial dislocation	can result in	difficulty hearing
+facial fracture	can result in	changes in facial sensation
+facial dislocation	can result in	changes in facial sensation
+facial fracture	can result in	changes in facial appearance
+facial dislocation	can result in	changes in facial appearance
+facial fracture	can result in	changes in facial function
+facial dislocation	can result in	changes in facial function
+facial fracture	can result in	changes in facial structure
+facial dislocation	can result in	changes in facial structure
+facial fracture	can result in	bone fragments
+facial dislocation	can result in	bone fragments
+facial fracture	can result in	difficulty speaking
+facial dislocation	can result in	difficulty speaking
+facial fracture	can result in	difficulty swallowing
+facial dislocation	can result in	difficulty swallowing
+facial fracture	can result in	difficulty breathing
+facial dislocation	can result in	difficulty breathing
+facial fracture	can require	pain relief
+facial dislocation	can require	pain relief
+facial fracture	can require	inflammation relief
+facial dislocation	can require	inflammation relief
+facial fracture	can require	nerve pain relief
+facial dislocation	can require	nerve pain relief
+facial fracture	can require	physical therapy
+facial dislocation	can require	physical therapy
+facial fracture	can require	surgery
+facial dislocation	can require	surgery
+facial fracture	can require	hospitalization
+facial dislocation	can require	hospitalization
+facial fracture	can require	rehabilitation
+facial dislocation	can require	rehabilitation
+facial fracture	can require	antibiotics
+facial dislocation	can require	antibiotics
+facial fracture	can cause	scarring
+facial dislocation	can cause	scarring
+facial fracture	can cause	bleeding
+facial dislocation	can cause	bleeding
+facial fracture	can cause	infection
+facial dislocation	can cause	infection
+facial fracture	can cause	difficulty speaking
+facial dislocation	can cause	difficulty speaking
+facial fracture	can cause	difficulty swallowing
+facial dislocation	can cause	difficulty swallowing
+facial fracture	can cause	difficulty breathing
+facial dislocation	can cause	difficulty breathing
+facial fracture	can result in	bone fragments
+facial dislocation	can result in	bone fragments
+facial fracture	can result in	bruising
+facial dislocation	can result in	bruising
+facial fracture	can result in	loss of vision
+facial dislocation	can result in	loss of vision
+facial fracture	can result in	loss of hearing
+facial dislocation	can result in	loss of hearing
+facial fracture	can result in	difficulty seeing
+facial dislocation	can result in	difficulty seeing
+facial fracture	can result in	difficulty hearing
+facial dislocation	can result in	difficulty hearing
+facial fracture	can result in	changes in facial sensation
+facial dislocation	can result in	changes in facial sensation
+facial fracture	can result in	changes in facial appearance
+facial dislocation	can result in	changes in facial appearance
+facial fracture	can result in	changes in facial function
+facial dislocation	can result in	changes in facial function
+facial fracture	can result in	changes in facial structure
+facial dislocation	can result in	changes in facial structure
+facial fracture	can require	reconstructive surgery
+facial dislocation	can require	reconstructive surgery

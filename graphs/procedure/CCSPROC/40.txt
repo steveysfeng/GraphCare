@@ -1,0 +1,246 @@
+diagnostic procedures	are used for	diagnosis
+diagnostic procedures	can detect	respiratory tract conditions
+diagnostic procedures	can evaluate	mediastinal abnormalities
+respiratory tract conditions	can cause	breathing difficulties
+respiratory tract conditions	can lead to	lung infections
+respiratory tract conditions	can result in	coughing
+respiratory tract conditions	can be treated with	medication
+lung infections	can require	hospitalization
+lung infections	can be caused by	bacteria
+lung infections	can be prevented by	vaccination
+coughing	can be relieved by	cough syrup
+coughing	can be a symptom of	asthma
+coughing	can be a sign of	respiratory infection
+cough syrup	can contain	expectorants
+cough syrup	can be available over-the-counter
+cough syrup	should be used under	medical supervision
+asthma	is a chronic	respiratory condition
+asthma	can be managed with	inhalers
+asthma	can be triggered by	allergies
+respiratory infection	can be caused by	viruses
+respiratory infection	can spread through	close contact
+respiratory infection	can be prevented by	hand hygiene
+medication	can be taken orally
+medication	can have	side effects
+medication	should be taken as	prescribed
+hospitalization	can be required for	severe cases
+hospitalization	can be necessary for	monitoring
+hospitalization	can increase the risk of	complications
+bacteria	can be resistant to	antibiotics
+bacteria	can cause	secondary infections
+bacteria	can be treated with	antibiotics
+vaccination	can provide	immunity
+vaccination	can protect against	respiratory diseases
+vaccination	can be recommended for	high-risk individuals
+expectorants	can help to	loosen mucus
+expectorants	can be included in	cough syrup
+expectorants	can be prescribed by	healthcare providers
+over-the-counter	medications	can interact with	prescription drugs
+over-the-counter medications	should be used	as directed
+over-the-counter medications	can provide	temporary relief
+medical supervision	is necessary for	monitoring
+medical supervision	can ensure	proper usage
+medical supervision	is important for	dose adjustment
+inhalers	are commonly used for	asthma treatment
+inhalers	should be used	as prescribed
+inhalers	can have	different types
+allergies	can be triggered by	pollen
+allergies	can cause	respiratory symptoms
+allergies	can be managed with	antihistamines
+viruses	can cause	respiratory illnesses
+viruses	can be transmitted through	respiratory droplets
+viruses	can be prevented by	vaccination
+hand hygiene	is important for	preventing infections
+hand hygiene	can include	handwashing
+hand hygiene	can reduce	disease transmission
+side effects	can vary depending on	the medication
+side effects	can range from	mild to severe
+side effects	should be reported to	healthcare providers
+complications	can include	organ damage
+complications	can require	additional treatment
+complications	can be life-threatening
+antibiotics	should be taken	as prescribed
+antibiotics	can cause	gastrointestinal upset
+antibiotics	can lead to	antibiotic resistance
+immunity	can provide	protection
+immunity	can be acquired through	vaccination
+immunity	can help to	fight infections
+immune system	can be weakened by	certain medications
+immune system	can be compromised by	underlying conditions
+immune system	can be strengthened through	healthy lifestyle choices
+dose adjustment	can be done	by healthcare providers
+dose adjustment	can be necessary for	optimal treatment
+dose adjustment	should be discussed with	healthcare providers
+respiratory droplets	can be generated during	coughing
+respiratory droplets	can travel	short distances
+respiratory droplets	can be inhaled by	others
+cough syrup	can contain	cough suppressants
+cough syrup	can help to	reduce coughing
+cough syrup	should be used	according to instructions
+asthma treatment	can also include	lifestyle modifications
+asthma treatment	may require	regular medication use
+asthma treatment	should be individualized for	each patient
+pollen	can be present	in outdoor environments
+pollen	can trigger	allergic reactions
+pollen	can be managed through	avoidance strategies
+antihistamines	can provide	relief from allergy symptoms
+antihistamines	can cause	drowsiness
+antihistamines	should be used	as recommended
+respiratory symptoms	can include	congestion
+respiratory symptoms	can be treated with	decongestants
+respiratory symptoms	should be evaluated by	healthcare providers
+decongestants	can help to	relieve congestion
+decongestants	can have	potential side effects
+decongestants	should not be used for	long periods
+mild to severe	respiratory symptoms	can be present
+mild to severe	respiratory symptoms	can indicate	the severity of the condition
+mild to severe	respiratory symptoms	should be assessed by	healthcare providers
+organ damage	can be caused by	infections
+organ damage	can result in	long-term complications
+organ damage	may require	surgical intervention
+additional treatment	may include	additional medications
+additional treatment	can be required for	symptom management
+additional treatment	should be discussed with	healthcare providers
+gastrointestinal upset	can include	nausea
+gastrointestinal upset	can be temporary
+gastrointestinal upset	should be reported to	healthcare providers
+antibiotic resistance	can make	infections harder to treat
+antibiotic resistance	can lead to	treatment failures
+antibiotic resistance	should be monitored by	healthcare providers
+protection	can be enhanced through	vaccination
+protection	can reduce	disease severity
+protection	can be achieved through	immunization
+underlying conditions	can increase the risk of	complications
+underlying conditions	should be managed	as recommended
+underlying conditions	require	appropriate medical care
+healthy lifestyle choices	can support	immune system health
+healthy lifestyle choices	can include	regular exercise
+healthy lifestyle choices	can help to	reduce the risk of infections
+short distances	respiratory droplets	can travel
+short distances	respiratory droplets	can contribute to	disease transmission
+short distances	respiratory droplets	can be inhaled	by others
+cough suppressants	can help to	reduce the frequency of coughing
+cough suppressants	can be included in	cough syrup
+cough suppressants	may not be recommended for	certain individuals
+cough suppressants	should be used	as directed
+lifestyle modifications	can include	avoiding triggers
+lifestyle modifications	can be beneficial for	asthma management
+lifestyle modifications	should be discussed	with healthcare providers
+healthy lifestyle choices	can include	a balanced diet
+healthy lifestyle choices	can contribute to	overall well-being
+healthy lifestyle choices	can support	respiratory health
+avoidance strategies	can include	staying indoors during high pollen days
+avoidance strategies	can help to	reduce exposure to allergens
+avoidance strategies	should be personalized for	each individual
+drowsiness	can be a	common side effect
+drowsiness	can impair	daily activities
+drowsiness	should be reported to	healthcare providers
+respiratory symptoms	should be assessed	in a clinical setting
+respiratory symptoms	can be indicative of	an underlying respiratory condition
+respiratory symptoms	can be managed through	appropriate treatment
+congestion	can be relieved by	nasal decongestants
+congestion	can cause	breathing difficulties
+congestion	can be a symptom of	respiratory infections
+nasal decongestants	can help to	reduce nasal congestion
+nasal decongestants	can have	a temporary effect
+nasal decongestants	should be used	according to instructions
+symptom management	can involve	medication adjustments
+symptom management	may require	multiple approaches
+symptom management	should be individualized for	each patient
+nausea	can be a	side effect
+nausea	can be transient
+nausea	can be managed with	anti-nausea medication
+nausea	should be reported to	healthcare providers
+respiratory droplets	can be released during	talking
+respiratory droplets	can be inhaled	by others
+respiratory droplets	can contribute to	disease transmission
+severity of the condition	can be assessed based on	respiratory symptoms
+severity of the condition	may require	hospitalization
+severity of the condition	should be evaluated by	healthcare providers
+long-term complications	can affect	quality of life
+long-term complications	may require	ongoing management
+long-term complications	should be addressed by	healthcare providers
+surgical intervention	may be necessary for	organ repair
+surgical intervention	can be performed	by a surgeon
+surgical intervention	should be discussed with	healthcare providers
+additional medications	may be prescribed for	symptom relief
+additional medications	can be necessary for	disease management
+additional medications	should be taken	as prescribed
+treatment failures	can result in	prolonged illness
+treatment failures	can require	alternative treatment options
+treatment failures	should be reported to	healthcare providers
+immunization	can provide	long-lasting protection
+immunization	can reduce the likelihood of	complications
+immunization	should be recommended for	eligible individuals
+complications	can have	long-term consequences
+complications	can require	specialized care
+complications	should be monitored	by healthcare providers
+nausea	can be managed through	dietary modifications
+nausea	can be relieved by	rest and relaxation
+nausea	should be evaluated by	healthcare providers
+talking	can generate	respiratory droplets
+talking	can contribute to	disease transmission
+talking	should be done	while wearing a mask
+hospitalization	can be required for	respiratory support
+hospitalization	can be necessary for	intensive treatment
+hospitalization	may be recommended for	high-risk individuals
+ongoing management	may involve	regular follow-up appointments
+ongoing management	should be coordinated with	healthcare providers
+ongoing management	can include	medication adjustments
+respiratory infections	can be caused by	bacteria and viruses
+respiratory infections	can lead to	complications
+respiratory infections	should be treated	promptly
+respiratory droplets	can be produced during	sneezing
+respiratory droplets	can travel	long distances
+respiratory droplets	can be inhaled	by others
+anti-nausea medication	can help to	alleviate nausea
+anti-nausea medication	should be used	as directed
+anti-nausea medication	may require	a prescription
+talking	can be a	source of disease transmission
+talking	can result in	close contact with respiratory droplets
+talking	should be done	while maintaining physical distance
+rest and relaxation	can help to	reduce nausea
+rest and relaxation	can promote	overall well-being
+rest and relaxation	should be incorporated	into daily routines
+respiratory support	can include	oxygen therapy
+respiratory support	may be provided	through a ventilator
+respiratory support	should be tailored to	the patient's needs
+intensive treatment	can involve	supportive care
+intensive treatment	may require	specialized interventions
+intensive treatment	should be provided	by a multidisciplinary team
+respiratory droplets	can be produced during	singing
+respiratory droplets	can contribute to	disease transmission
+respiratory droplets	can be minimized by	wearing a mask
+mask-wearing	can help to	reduce respiratory droplet spread
+mask-wearing	should be practiced	in crowded settings
+mask-wearing	can be effective in	preventing infections
+respiratory support	may be needed for	respiratory failure
+respiratory support	can be necessary for	adequate oxygenation
+respiratory support	should be provided by	trained healthcare professionals
+supportive care	can involve	pain management
+supportive care	may include	psychological support
+supportive care	should be individualized for	each patient
+specialized interventions	may be required for	complex cases
+specialized interventions	can include	surgical procedures
+specialized interventions	should be performed by	experienced healthcare professionals
+singing	can generate	respiratory droplets
+singing	can contribute to	disease transmission
+singing	should be done	while wearing a mask
+wearing a mask	can help to	reduce respiratory droplet spread
+wearing a mask	should cover	the nose and mouth
+wearing a mask	can be effective in	preventing infections
+respiratory failure	can be life-threatening
+respiratory failure	may require	immediate medical intervention
+respiratory failure	should be managed in	critical care settings
+adequate oxygenation	is important for	tissue oxygen delivery
+adequate oxygenation	can support	organ function
+adequate oxygenation	should be monitored	regularly
+pain management	can involve	medication administration
+pain management	may require	non-pharmacological interventions
+pain management	can improve	patient comfort
+psychological support	can help to	reduce anxiety
+psychological support	should be integrated into	comprehensive care plans
+psychological support	can enhance	overall well-being
+surgical procedures	may be performed for	disease management
+surgical procedures	can be necessary for	tissue repair
+surgical procedures	should be discussed	with healthcare providers

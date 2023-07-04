@@ -1,0 +1,76 @@
+nonoperative removal	is a	procedure
+foreign body	can be removed by	nonoperative removal
+foreign body	can be swallowed accidentally
+children	are more prone to	swallowing foreign bodies
+endoscopy	can be used for	foreign body removal
+endoscopy	is a	medical procedure
+complications	can occur during	foreign body removal
+bleeding	can occur during	foreign body removal
+infection	can occur after	foreign body removal
+nonoperative removal	has a	lower risk of complications than surgery
+surgery	can be an alternative to	nonoperative removal
+surgery	is a	medical procedure
+children	may require	general anesthesia for foreign body removal
+foreign body	can cause	choking
+choking	can result in	respiratory distress
+foreign body	can cause	blockage of the digestive tract
+blockage	can require	surgery to remove foreign body
+foreign body	can cause	tissue damage
+tissue damage	can lead to	infection
+infection	can require	antibiotic treatment
+foreign body	can cause	perforation of the digestive tract
+perforation	can be life-threatening
+foreign body	can cause	damage to surrounding organs
+surrounding organs	can require	surgery
+foreign body	can cause	internal bleeding
+internal bleeding	can require	blood transfusion
+foreign body	can cause	abscess formation
+abscess	can require	drainage
+foreign body	can cause	fistula formation
+fistula	may require	surgical repair
+foreign body	can cause	obstruction of the airway
+obstruction	can require	emergency intervention
+foreign body	can cause	pneumonia
+pneumonia	can require	hospitalization
+foreign body	can cause	sepsis
+sepsis	can be life-threatening
+foreign body	can cause	lung collapse
+lung collapse	can require	chest tube insertion
+foreign body	can cause	damage to the esophagus
+esophageal damage	can require	esophageal dilation
+foreign body	can cause	damage to the stomach
+stomach damage	can require	surgical repair
+foreign body	can cause	damage to the intestines
+intestinal damage	can require	surgical repair
+foreign body	can cause	damage to the rectum
+rectal damage	can require	surgical repair
+foreign body	can cause	damage to the bladder
+bladder damage	can require	surgical repair
+foreign body	can cause	damage to the urethra
+urethral damage	can require	surgical repair
+foreign body	can cause	damage to the vagina
+vaginal damage	can require	surgical repair
+foreign body	can cause	damage to the penis
+penile damage	can require	surgical repair
+foreign body	can cause	damage to the eye
+eye damage	can require	surgical repair
+foreign body	can cause	damage to the ear
+ear damage	can require	surgical repair
+foreign body	can cause	damage to the nose
+nasal damage	can require	surgical repair
+foreign body	can cause	damage to the throat
+throat damage	can require	surgical repair
+foreign body	can cause	damage to the lungs
+lung damage	can require	surgical repair
+foreign body	can cause	damage to the liver
+liver damage	can require	surgical repair
+foreign body	can cause	damage to the spleen
+splenic damage	can require	surgical repair
+foreign body	can cause	damage to the kidneys
+renal damage	can require	surgical repair
+foreign body	can cause	damage to the pancreas
+pancreatic damage	can require	surgical repair
+foreign body	can cause	damage to the gallbladder
+gallbladder damage	can require	surgical repair
+foreign body	can cause	damage to the appendix
+appendiceal damage	can require	surgical repair

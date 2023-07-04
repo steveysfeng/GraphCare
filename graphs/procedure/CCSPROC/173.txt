@@ -1,0 +1,91 @@
+diagnostic procedures	used for	diagnosis
+skin	is a part of	subcutaneous tissue
+diagnostic procedures	performed on	skin
+diagnostic procedures	can detect	diseases
+diagnostic procedures	can identify	infections
+diagnostic procedures	help in	treatment planning
+diagnostic procedures	aid in	monitoring progress
+diagnostic procedures	can assess	response to treatment
+diagnostic procedures	are important for	early detection
+diagnostic procedures	assist in	disease management
+diagnostic procedures	contribute to	accurate diagnosis
+diagnostic procedures	are essential for	clinical decision-making
+diagnostic procedures	facilitate	patient care
+diagnostic procedures	improve	patient outcomes
+diagnostic procedures	reduce	unnecessary interventions
+diagnostic procedures	minimize	complications
+diagnostic procedures	increase	patient satisfaction
+diagnostic procedures	have	diagnostic value
+diagnostic procedures	are	non-invasive
+diagnostic procedures	are	painless
+diagnostic procedures	are	quick
+diagnostic procedures	are	reliable
+diagnostic procedures	are	cost-effective
+diagnostic procedures	require	specialized equipment
+diagnostic procedures	need	trained personnel
+diagnostic procedures	are	safe
+diagnostic procedures	are	accurate
+diagnostic procedures	can differentiate	between conditions
+diagnostic procedures	are	evidence-based
+diagnostic procedures	are	widely used
+diagnostic procedures	can be performed	in outpatient settings
+diagnostic procedures	are	time-saving
+diagnostic procedures	avoid	unnecessary surgeries
+diagnostic procedures	assist in	disease staging
+diagnostic procedures	aid in	patient counseling
+diagnostic procedures	help in	risk assessment
+diagnostic procedures	can guide	treatment decisions
+diagnostic procedures	improve	patient compliance
+diagnostic procedures	reduce	healthcare costs
+diagnostic procedures	contribute to	research
+diagnostic procedures	play a role in	clinical trials
+diagnostic procedures	are	minimally invasive
+diagnostic procedures	help in	disease monitoring
+diagnostic procedures	assist in	follow-up care
+diagnostic procedures	can detect	genetic abnormalities
+diagnostic procedures	aid in	personalized medicine
+diagnostic procedures	are	evidence-based
+diagnostic procedures	are important for	public health
+diagnostic procedures	support	epidemiological studies
+diagnostic procedures	can identify	disease patterns
+diagnostic procedures	assist in	outbreak management
+diagnostic procedures	help in	prevention strategies
+diagnostic procedures	aid in	resource allocation
+diagnostic procedures	are used in	research studies
+diagnostic procedures	provide	objective data
+diagnostic procedures	are	non-toxic
+diagnostic procedures	have	minimal side effects
+diagnostic procedures	are	easily reproducible
+diagnostic procedures	are	non-allergenic
+diagnostic procedures	are	non-irritant
+diagnostic procedures	are	non-inflammatory
+diagnostic procedures	are	non-carcinogenic
+diagnostic procedures	are	non-mutagenic
+diagnostic procedures	are	non-teratogenic
+diagnostic procedures	are	sterile
+diagnostic procedures	are	accessible
+diagnostic procedures	can be used	in neonates
+diagnostic procedures	help in	targeted therapy
+diagnostic procedures	assist in	disease surveillance
+diagnostic procedures	guide	patient management
+diagnostic procedures	are	clinically validated
+diagnostic procedures	are	evidence-based
+diagnostic procedures	are	accurate
+diagnostic procedures	are	reliable
+diagnostic procedures	are	fast
+diagnostic procedures	are	efficient
+diagnostic procedures	are	effective
+diagnostic procedures	are	sensitive
+diagnostic procedures	are	specific
+diagnostic procedures	have	high diagnostic yield
+diagnostic procedures	can identify	rare conditions
+diagnostic procedures	have	diagnostic accuracy
+diagnostic procedures	play a role in	differential diagnosis
+diagnostic procedures	can determine	disease severity
+diagnostic procedures	aid in	treatment selection
+diagnostic procedures	assist in	patient stratification
+diagnostic procedures	help in	prognosis prediction
+diagnostic procedures	can detect	therapeutic response
+diagnostic procedures	are	image-guided
+diagnostic procedures	provide	histological analysis
+diagnostic procedures	are	pathologically confirmed

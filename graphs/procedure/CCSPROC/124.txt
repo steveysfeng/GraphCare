@@ -1,0 +1,111 @@
+hysterectomy	is a	surgical procedure
+hysterectomy	used for	removal of the uterus
+abdominal hysterectomy	is a type of	hysterectomy
+vaginal hysterectomy	is a type of	hysterectomy
+hysterectomy	can be performed	for various conditions
+hysterectomy	may require	general anesthesia
+abdominal hysterectomy	requires	an incision in the abdomen
+vaginal hysterectomy	requires	an incision in the vaginal wall
+hysterectomy	carries	risks and complications
+hysterectomy	can result in	infertility
+hysterectomy	can relieve	symptoms of certain medical conditions
+hysterectomy	may be recommended	for uterine fibroids
+hysterectomy	may be recommended	for endometriosis
+hysterectomy	may be recommended	for uterine prolapse
+hysterectomy	may be recommended	for gynecologic cancer
+hysterectomy	may be recommended	for chronic pelvic pain
+hysterectomy	can be performed	with or without removal of the ovaries
+hysterectomy	with bilateral salpingo-oophorectomy	can induce	menopause
+hormone replacement therapy	is often recommended	after hysterectomy
+hysterectomy	requires	post-operative care
+hysterectomy	has a recovery period	of several weeks
+hysterectomy	can be associated	with post-operative complications
+hysterectomy	has a risk	of bleeding
+hysterectomy	has a risk	of infection
+hysterectomy	has a risk	of damage to surrounding structures
+hysterectomy	can require	hospitalization
+hysterectomy	may have	long-term effects on sexual function
+hysterectomy	may have	psychological effects
+hysterectomy	may affect	urinary function
+hysterectomy	may affect	bowel function
+hysterectomy	may impact	hormone levels
+hysterectomy	may be performed	as an elective surgery
+hysterectomy	may be performed	as an emergency procedure
+hysterectomy	may be performed	after childbirth
+hysterectomy	may be performed	for transgender men
+hysterectomy	can be performed	with minimally invasive techniques
+laparoscopic hysterectomy	is a type of	minimally invasive hysterectomy
+robotic-assisted hysterectomy	is a type of	minimally invasive hysterectomy
+hysterectomy	is a major surgery
+hysterectomy	may be followed by	physical therapy
+hysterectomy	may necessitate	hormone replacement therapy
+hysterectomy	can have	long-term effects on bone health
+hysterectomy	may increase	the risk of cardiovascular disease
+hysterectomy	may result in	changes in body shape
+hysterectomy	can be performed	with preservation of the cervix
+cervical hysterectomy	is a type of	hysterectomy
+subtotal hysterectomy	is a type of	hysterectomy
+hysterectomy	is a common procedure
+hysterectomy	is one of the most common	gynecological surgeries
+hysterectomy	may impact	future fertility
+hysterectomy	may be recommended	for abnormal uterine bleeding
+hysterectomy	may be recommended	for pelvic inflammatory disease
+hysterectomy	may be recommended	for adenomyosis
+hysterectomy	may be recommended	for ovarian cysts
+hysterectomy	may be recommended	for chronic pelvic inflammatory disease
+hysterectomy	may be recommended	for precancerous or cancerous conditions
+hysterectomy	may be recommended	for uterine sarcoma
+hysterectomy	may be recommended	for uterine hemorrhage
+hysterectomy	may be recommended	for uterine rupture
+hysterectomy	may be recommended	for uterine infection
+hysterectomy	may be recommended	for uterine adhesions
+hysterectomy	may be recommended	for genital prolapse
+hysterectomy	may be recommended	for cervical cancer
+hysterectomy	may be recommended	for ovarian cancer
+hysterectomy	may be recommended	for fallopian tube cancer
+hysterectomy	may be recommended	for vaginal cancer
+hysterectomy	may be recommended	for vulvar cancer
+hysterectomy	may be recommended	for gestational trophoblastic disease
+hysterectomy	may be recommended	for gestational cancers
+hysterectomy	may be recommended	for gestational choriocarcinoma
+hysterectomy	may be recommended	for gestational placental-site trophoblastic tumors
+hysterectomy	may be recommended	for gestational epithelioid trophoblastic tumors
+hysterectomy	may be recommended	for gestational invasive mole
+hysterectomy	may be recommended	for gestational placental-site nodule
+hysterectomy	may be recommended	for gestational micropapillary serous carcinoma
+hysterectomy	may be recommended	for gestational metastatic trophoblastic disease
+hysterectomy	may be recommended	for gestational placental-site trophoblastic tumors
+hysterectomy	may be recommended	for gestational choriocarcinoma
+hysterectomy	may be recommended	for gestational epithelioid trophoblastic tumors
+hysterectomy	may be recommended	for gestational invasive mole
+hysterectomy	may be recommended	for gestational placental-site nodule
+hysterectomy	may be recommended	for gestational nontrophoblastic tumors
+hysterectomy	may be recommended	for gestational ovarian pregnancy
+hysterectomy	may be recommended	for gestational primary extragenital gestation
+hysterectomy	may be recommended	for gestational accessory uterine (CA-125) cancer
+hysterectomy	may be recommended	for gestational extragenital tumors
+hysterectomy	may be recommended	for gestational lymphatic dissemination
+hysterectomy	may be recommended	for gestational distant metastasis
+hysterectomy	may be recommended	for gestational survival
+hysterectomy	may be recommended	for gestational incomplete mole
+hysterectomy	may be recommended	for gestational complete mole
+hysterectomy	may be recommended	for gestational molar pregnancy
+hysterectomy	may be recommended	for gestational molar pregnancies
+hysterectomy	may be recommended	for gestational hydatidiform mole
+hysterectomy	may be recommended	for gestational molar-type gestational trophoblastic neoplasms
+hysterectomy	may be recommended	for gestational choriocarcinoma
+hysterectomy	may be recommended	for gestational epithelioid trophoblastic tumors
+hysterectomy	may be recommended	for gestational placental-site trophoblastic tumors
+hysterectomy	may be recommended	for gestational invasive moles
+hysterectomy	may be recommended	for gestational placental-site nodules
+hysterectomy	may be recommended	for gestational molar pregnancies
+hysterectomy	may be recommended	for gestational progestin-refractory metastatic cancer
+hysterectomy	may be recommended	for gestational progestin-refractory trophoblastic neoplasms
+hysterectomy	may be recommended	for gestational progestin-refractory choriocarcinoma
+hysterectomy	may be recommended	for gestational progestin-refractory epithelioid trophoblastic tumors
+hysterectomy	may be recommended	for gestational progestin-refractory placental-site trophoblastic tumors
+hysterectomy	may be recommended	for gestational progestin-refractory invasive moles
+hysterectomy	may be recommended	for gestational progestin-refractory placental-site nodules
+hysterectomy	may be recommended	for gestational tumors resisting progestin
+hysterectomy	may be recommended	for gestational tumors resisting chemotherapy
+hysterectomy	may be recommended	for gestational tumors resisting radiation therapy

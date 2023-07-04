@@ -1,0 +1,164 @@
+ileostomy	is a	surgical procedure
+ileostomy	creates	an opening
+ileostomy	diverts	intestinal content
+ileostomy	used for	waste elimination
+ileostomy	can be temporary
+ileostomy	can be permanent
+ileostomy	requires	a stoma
+stoma	is a	surgical opening
+stoma	allows	stool elimination
+stoma	requires	a pouch
+stoma	can be located	on the abdominal wall
+enterostomy	is a	surgical procedure
+enterostomy	creates	an opening
+enterostomy	diverts	intestinal content
+enterostomy	used for	waste elimination
+enterostomy	can be temporary
+enterostomy	can be permanent
+enterostomy	requires	a stoma
+stoma	is a	surgical opening
+stoma	allows	stool elimination
+stoma	requires	a pouch
+stoma	can be located	on the abdominal wall
+ileostomy	has a	higher risk of complications
+ileostomy	can lead to	infection
+ileostomy	can cause	bowel obstruction
+ileostomy	can result in	dehydration
+enterostomy	has a	lower risk of complications
+enterostomy	can lead to	infection
+enterostomy	can cause	bowel obstruction
+enterostomy	can result in	dehydration
+ileostomy	can be performed	in emergency situations
+enterostomy	can be performed	in emergency situations
+ileostomy	is needed	in certain medical conditions
+enterostomy	is needed	in certain medical conditions
+ileostomy	requires	education and support
+enterostomy	requires	education and support
+ileostomy	can affect	body image
+enterostomy	can affect	body image
+ileostomy	requires	lifestyle adjustments
+enterostomy	requires	lifestyle adjustments
+ileostomy	requires	careful hygiene practices
+enterostomy	requires	careful hygiene practices
+ileostomy	may lead to	psychological distress
+enterostomy	may lead to	psychological distress
+ileostomy	can be a	permanent solution
+enterostomy	can be a	permanent solution
+ileostomy	can be a	temporary solution
+enterostomy	can be a	temporary solution
+ileostomy	requires	regular monitoring
+enterostomy	requires	regular monitoring
+ileostomy	can improve	quality of life
+enterostomy	can improve	quality of life
+ileostomy	can cause	electrolyte imbalances
+enterostomy	can cause	electrolyte imbalances
+ileostomy	can cause	nutritional deficiencies
+enterostomy	can cause	nutritional deficiencies
+ileostomy	can result in	weight loss
+enterostomy	can result in	weight loss
+ileostomy	can result in	malabsorption
+enterostomy	can result in	malabsorption
+ileostomy	can lead to	urinary tract infections
+enterostomy	can lead to	urinary tract infections
+ileostomy	can affect	sexual function
+enterostomy	can affect	sexual function
+ileostomy	can cause	abdominal pain
+enterostomy	can cause	abdominal pain
+ileostomy	can require	additional surgeries
+enterostomy	can require	additional surgeries
+ileostomy	can require	dietary changes
+enterostomy	can require	dietary changes
+ileostomy	can affect	fertility
+enterostomy	can affect	fertility
+ileostomy	can result in	scar tissue formation
+enterostomy	can result in	scar tissue formation
+ileostomy	can cause	hernia
+enterostomy	can cause	hernia
+ileostomy	can affect	physical activity
+enterostomy	can affect	physical activity
+ileostomy	can result in	skin irritation
+enterostomy	can result in	skin irritation
+ileostomy	can interfere with	clothing choices
+enterostomy	can interfere with	clothing choices
+ileostomy	can increase	risk of bacterial overgrowth
+enterostomy	can increase	risk of bacterial overgrowth
+ileostomy	can impair	the sense of smell
+enterostomy	can impair	the sense of smell
+ileostomy	can affect	sleep patterns
+enterostomy	can affect	sleep patterns
+ileostomy	can impact	social interactions
+enterostomy	can impact	social interactions
+ileostomy	can result in	fatigue
+enterostomy	can result in	fatigue
+ileostomy	can impair	physical functioning
+enterostomy	can impair	physical functioning
+ileostomy	can require	changes in medication
+enterostomy	can require	changes in medication
+ileostomy	can affect	body temperature regulation
+enterostomy	can affect	body temperature regulation
+ileostomy	can require	dietary restrictions
+enterostomy	can require	dietary restrictions
+ileostomy	can cause	gas and odor issues
+enterostomy	can cause	gas and odor issues
+ileostomy	can impact	work productivity
+enterostomy	can impact	work productivity
+ileostomy	can affect	self-esteem
+enterostomy	can affect	self-esteem
+ileostomy	can require	financial resources
+enterostomy	can require	financial resources
+ileostomy	can result in	complications
+enterostomy	can result in	complications
+ileostomy	can affect	the immune system
+enterostomy	can affect	the immune system
+ileostomy	can be a	life-saving procedure
+enterostomy	can be a	life-saving procedure
+ileostomy	can be a	challenging adjustment
+enterostomy	can be a	challenging adjustment
+ileostomy	can be a	long-term solution
+enterostomy	can be a	long-term solution
+ileostomy	requires	ongoing medical care
+enterostomy	requires	ongoing medical care
+ileostomy	can result in	scar formation
+enterostomy	can result in	scar formation
+ileostomy	can disrupt	body fluid balance
+enterostomy	can disrupt	body fluid balance
+ileostomy	can affect	digestion
+enterostomy	can affect	digestion
+ileostomy	can require	dietary supplements
+enterostomy	can require	dietary supplements
+ileostomy	can require	frequent pouch emptying
+enterostomy	can require	frequent pouch emptying
+ileostomy	can limit	food choices
+enterostomy	can limit	food choices
+ileostomy	can affect	the sense of taste
+enterostomy	can affect	the sense of taste
+ileostomy	can cause	dehydration
+enterostomy	can cause	dehydration
+ileostomy	can lead to	fluid and electrolyte imbalances
+enterostomy	can lead to	fluid and electrolyte imbalances
+ileostomy	can affect	nutrient absorption
+enterostomy	can affect	nutrient absorption
+ileostomy	can cause	nutritional deficiencies
+enterostomy	can cause	nutritional deficiencies
+ileostomy	can result in	body image concerns
+enterostomy	can result in	body image concerns
+ileostomy	can affect	self-confidence
+enterostomy	can affect	self-confidence
+ileostomy	can affect	sexual intimacy
+enterostomy	can affect	sexual intimacy
+ileostomy	can require	bowel management
+enterostomy	can require	bowel management
+ileostomy	can cause	pain and discomfort
+enterostomy	can cause	pain and discomfort
+ileostomy	can cause	anxiety and stress
+enterostomy	can cause	anxiety and stress
+ileostomy	can require	regular pouch changes
+enterostomy	can require	regular pouch changes
+ileostomy	can affect	sleep quality
+enterostomy	can affect	sleep quality
+ileostomy	can interfere with	physical activities
+enterostomy	can interfere with	physical activities
+ileostomy	can impact	social life
+enterostomy	can impact	social life
+ileostomy	can affect	body temperature
+enterostomy	can affect	body temperature

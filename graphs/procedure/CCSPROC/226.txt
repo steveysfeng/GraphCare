@@ -1,0 +1,82 @@
+diagnostic radiology	is a	medical field
+diagnostic radiology	involves	imaging techniques
+imaging techniques	use	radiation
+imaging techniques	can produce	detailed images
+detailed images	help in	diagnosis
+detailed images	aid in	treatment planning
+treatment planning	is important for	accurate treatment
+accurate treatment	leads to	better outcomes
+imaging techniques	include	X-ray
+X-ray	is a type of	imaging technique
+X-ray	can detect	fractures
+X-ray	can identify	tumors
+X-ray	used for	chest imaging
+X-ray	used for	dental imaging
+imaging techniques	include	computed tomography (CT)
+CT	provides	cross-sectional images
+CT	used for	abdominal scans
+CT	used for	brain scans
+CT	used for	cardiac imaging
+CT	used for	lung scans
+CT	used for	musculoskeletal imaging
+imaging techniques	include	magnetic resonance imaging (MRI)
+MRI	uses	magnetic fields
+MRI	provides	detailed images of soft tissues
+MRI	used for	brain scans
+MRI	used for	spinal cord imaging
+MRI	used for	joint imaging
+MRI	used for	breast imaging
+imaging techniques	include	ultrasound
+ultrasound	uses	sound waves
+ultrasound	used for	abdominal scans
+ultrasound	used for	obstetric imaging
+ultrasound	used for	cardiac imaging
+ultrasound	used for	musculoskeletal imaging
+imaging techniques	include	nuclear medicine
+nuclear medicine	involves	radioactive tracers
+nuclear medicine	used for	diagnosing diseases
+nuclear medicine	used for	evaluating organ function
+nuclear medicine	used for	cancer staging
+nuclear medicine	used for	monitoring treatment response
+imaging techniques	include	positron emission tomography (PET)
+PET	uses	radioactive tracers
+PET	provides	functional images
+PET	used for	cancer imaging
+PET	used for	neurologic imaging
+PET	used for	cardiac imaging
+PET	used for	psychiatric imaging
+imaging techniques	include	mammography
+mammography	is a type of	X-ray
+mammography	used for	breast cancer screening
+mammography	used for	breast cancer diagnosis
+mammography	used for	breast cancer staging
+imaging techniques	include	fluoroscopy
+fluoroscopy	uses	continuous X-rays
+fluoroscopy	used for	real-time imaging
+fluoroscopy	used for	interventional procedures
+fluoroscopy	used for	swallowing studies
+fluoroscopy	used for	cardiac catheterization
+imaging techniques	include	interventional radiology
+interventional radiology	uses	image guidance
+interventional radiology	used for	minimally invasive procedures
+interventional radiology	used for	cancer treatments
+interventional radiology	used for	pain management
+imaging techniques	include	cone beam CT
+cone beam CT	provides	3D images
+cone beam CT	used for	dental imaging
+cone beam CT	used for	maxillofacial imaging
+imaging techniques	include	angiography
+angiography	uses	contrast dye
+angiography	used for	imaging blood vessels
+angiography	used for	diagnosing vascular diseases
+imaging techniques	include	bone density scanning
+bone density scanning	measures	bone mineral density
+bone density scanning	used for	osteoporosis diagnosis
+bone density scanning	used for	fracture risk assessment
+imaging techniques	include	thermography
+thermography	measures	heat patterns
+thermography	used for	breast cancer screening
+thermography	used for	identifying inflammation
+imaging techniques	include	elastography
+elastography	measures	tissue stiffness
+elastography	used for	liver fibrosis assessment

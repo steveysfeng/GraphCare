@@ -1,0 +1,5 @@
+physical therapy	is a	type of rehabilitation
+physical therapy	used for	injury recovery
+rehabilitation	can help with	functional improvement
+injury recovery	is a	goal of rehabilitation
+functional improvement	can lead to	improved quality of life

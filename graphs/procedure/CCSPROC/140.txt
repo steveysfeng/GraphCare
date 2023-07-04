@@ -1,0 +1,118 @@
+repair	is a	medical procedure
+repair	used for	laceration
+obstetric laceration	is a type of	laceration
+obstetric laceration	occurs during	childbirth
+repair	is done after	childbirth
+repair	prevents	infection
+repair	promotes	healing
+repair	reduces	pain
+repair	stops	bleeding
+repair	improves	function
+repair	increases	comfort
+repair	reduces	scarring
+repair	requires	anesthesia
+repair	is performed by	a surgeon
+repair	may involve	sutures
+repair	may require	stitches
+repair	may involve	the use of a local anesthetic
+repair	may take	several hours
+repair	is typically followed by	a recovery period
+repair	may require	follow-up visits
+repair	can be done	in a hospital
+repair	can be done	in an outpatient clinic
+repair	can be done	in a doctor's office
+repair	may be covered by	insurance
+repair	may be	expensive
+repair	may be	painful
+repair	carries	risks
+repair	is necessary	to prevent complications
+repair	is recommended	for severe lacerations
+repair	is not always	required
+anesthesia	is necessary	for repair
+anesthesia	can be	general anesthesia
+anesthesia	can be	regional anesthesia
+anesthesia	can be	local anesthesia
+anesthesia	has	risks
+anesthesia	requires	monitoring
+anesthesia	is administered	by an anesthesiologist
+anesthesia	can cause	side effects
+stitches	are used	to close the wound
+stitches	are	absorbable
+stitches	are	non-absorbable
+stitches	may be removed	after a certain period of time
+stitches	can cause	scarring
+stitches	can cause	infection
+stitches	can cause	pain
+stitches	can cause	discomfort
+stitches	can cause	itching
+stitches	can cause	bleeding
+stitches	can be	dissolvable
+stitches	can be	non-dissolvable
+stitches	may be	visible
+stitches	may be	hidden
+recovery period	is necessary	after repair
+recovery period	can vary	depending on the individual
+recovery period	can last	for several weeks
+recovery period	involves	rest
+recovery period	involves	wound care
+recovery period	involves	pain management
+recovery period	involves	monitoring for complications
+recovery period	involves	avoiding strenuous activities
+recovery period	involves	follow-up visits
+recovery period	requires	patience
+recovery period	requires	support
+recovery period	can be	emotionally challenging
+follow-up visits	are needed	after repair
+follow-up visits	allow	monitoring of healing
+follow-up visits	allow	evaluation for complications
+follow-up visits	may involve	wound care
+follow-up visits	may involve	suture removal
+follow-up visits	may be	at regular intervals
+follow-up visits	may be	less frequent over time
+follow-up visits	may be	done by a nurse
+follow-up visits	may be	done by a physician
+complications	can occur	after repair
+complications	may include	infection
+complications	may include	delayed wound healing
+complications	may include	scarring
+complications	may include	pain
+complications	may include	bleeding
+complications	may require	additional treatment
+complications	should be	reported to a healthcare provider
+complications	can be	managed
+complications	can be	prevented
+insurance	may cover	the cost of repair
+insurance	may require	prior authorization
+insurance	may have	limitations on coverage
+insurance	may have	co-pays or deductibles
+insurance	may be	necessary
+insurance	may be	confusing
+insurance	may be	time-consuming to navigate
+insurance	may have	restrictions on providers
+insurance	may have	restrictions on facilities
+insurance	may have	restrictions on anesthesia coverage
+insurance	may have	restrictions on follow-up care
+expensive	care	can lead to	financial burden
+expensive	care	can lead to	medical debt
+expensive	care	can be	a barrier to access
+expensive	care	can lead to	healthcare disparities
+expensive	care	can be	a source of stress
+pain	can be	managed
+pain	can be	acute
+pain	can be	chronic
+pain	can be	localized
+pain	can be	general
+pain	can be	temporary
+pain	can be	long-lasting
+pain	can be	severe
+pain	can be	mild
+pain	can be	intermittent
+pain	can be	constant
+pain	can be	throbbing
+pain	can be	sharp
+pain	can be	dull
+pain	can be	aching
+pain	can be	burning
+pain	can be	shooting
+pain	can be	tingling
+pain	can be	stabbing

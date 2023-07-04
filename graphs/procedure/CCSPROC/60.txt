@@ -1,0 +1,100 @@
+embolectomy	is a	medical procedure
+embolectomy	used for	removing blood clots
+endarterectomy	is a	medical procedure
+endarterectomy	used for	removing plaque from arteries
+embolectomy	performed on	lower limbs
+endarterectomy	performed on	lower limbs
+embolectomy	can be used to treat	arterial embolism
+endarterectomy	can be used to treat	arterial stenosis
+embolectomy	can improve	blood flow
+endarterectomy	can improve	blood flow
+embolectomy	may be performed in	emergency situations
+endarterectomy	may be performed in	elective cases
+embolectomy	can reduce	the risk of amputation
+endarterectomy	can reduce	the risk of stroke
+embolectomy	involves	surgical removal of blood clots
+endarterectomy	involves	surgical removal of plaque
+embolectomy	is typically performed by	a vascular surgeon
+endarterectomy	is typically performed by	a vascular surgeon
+embolectomy	is considered	a standard treatment
+endarterectomy	is considered	a standard treatment
+embolectomy	requires	anesthesia
+endarterectomy	requires	anesthesia
+embolectomy	has	potential complications
+endarterectomy	has	potential complications
+embolectomy	is covered by	insurance
+endarterectomy	is covered by	insurance
+embolectomy	is performed under	sterile conditions
+endarterectomy	is performed under	sterile conditions
+embolectomy	is a	surgical procedure
+endarterectomy	is a	surgical procedure
+embolectomy	can be performed	bilaterally
+endarterectomy	can be performed	bilaterally
+embolectomy	is associated with	post-operative care
+endarterectomy	is associated with	post-operative care
+embolectomy	carries	risks
+endarterectomy	carries	risks
+embolectomy	requires	rehabilitation
+endarterectomy	requires	rehabilitation
+embolectomy	may require	anticoagulant therapy
+endarterectomy	may require	anticoagulant therapy
+embolectomy	has	long-term outcomes
+endarterectomy	has	long-term outcomes
+embolectomy	should be followed by	regular check-ups
+endarterectomy	should be followed by	regular check-ups
+embolectomy	is performed in	hospital settings
+endarterectomy	is performed in	hospital settings
+embolectomy	can be	life-saving
+endarterectomy	can reduce	symptoms
+embolectomy	is a	major surgery
+endarterectomy	is a	major surgery
+embolectomy	is effective in	restoring blood flow
+endarterectomy	is effective in	preventing complications
+embolectomy	can be	minimally invasive
+endarterectomy	can be	open
+embolectomy	requires	pre-operative evaluation
+endarterectomy	requires	pre-operative evaluation
+embolectomy	is performed with	specialized instruments
+endarterectomy	is performed with	specialized instruments
+embolectomy	is a	last resort treatment
+endarterectomy	is a	recommended treatment
+embolectomy	may result in	wound infection
+endarterectomy	may result in	bleeding
+embolectomy	is a	vascular surgery
+endarterectomy	is a	vascular surgery
+embolectomy	can be followed by	physical therapy
+endarterectomy	can be followed by	diet modifications
+embolectomy	requires	careful monitoring
+endarterectomy	requires	careful monitoring
+embolectomy	has	recovery time
+endarterectomy	has	recovery time
+embolectomy	can be	performed with a bypass
+endarterectomy	can be	performed to prevent complications
+embolectomy	can lead to	improved quality of life
+endarterectomy	can lead to	improved circulation
+embolectomy	is performed using	general anesthesia
+endarterectomy	is performed using	local anesthesia
+embolectomy	can be	life-altering
+endarterectomy	can be	life-changing
+embolectomy	is typically	covered by insurance
+endarterectomy	is usually	covered by insurance
+embolectomy	requires	pre-operative evaluation
+endarterectomy	requires	pre-operative evaluation
+embolectomy	requires	post-operative care
+endarterectomy	requires	post-operative care
+embolectomy	typically requires	hospitalization
+endarterectomy	typically requires	hospitalization
+embolectomy	may cause	complications
+endarterectomy	may cause	complications
+embolectomy	has	high success rates
+endarterectomy	has	high success rates
+embolectomy	is effective in	restoring blood flow
+endarterectomy	is effective in	preventing complications
+embolectomy	is recommended for	certain patients
+endarterectomy	is recommended for	specific conditions
+embolectomy	can be	challenging
+endarterectomy	can be	complex
+embolectomy	can be	technically demanding
+endarterectomy	can be	technically difficult
+embolectomy	can be performed	using minimally invasive techniques
+endarterectomy	can be performed	using conventional techniques

@@ -1,0 +1,123 @@
+fracture	can be treated with	surgery
+fracture	can be treated with	casting
+fracture	can lead to	deformity
+fracture	can cause	pain
+fracture	can result in	limited mobility
+fracture	can be caused by	trauma
+fracture	can be prevented by	protective equipment
+fracture	can require	physical therapy
+fracture	can lead to	decreased strength
+fracture	can require	pain management
+fracture	can lead to	swelling
+fracture	can result in	nerve damage
+fracture	can result in	blood loss
+fracture	can be classified as	open or closed
+fracture	can require	immobilization
+fracture	can lead to	loss of function
+fracture	can result in	joint instability
+fracture	can be diagnosed with	x-rays
+fracture	can require	follow-up appointments
+fracture	can be treated with	medication
+fracture	can be caused by	osteoporosis
+fracture	can increase the risk of	infection
+fracture	can lead to	compartment syndrome
+fracture	can result in	muscle atrophy
+fracture	can be associated with	ligament damage
+fracture	can be a result of	repetitive stress
+fracture	can lead to	delayed healing
+fracture	can require	surgical intervention
+fracture	can cause	loss of sensation
+fracture	can be a result of	falls
+fracture	can result in	difficulty in daily activities
+fracture	can lead to	post-traumatic arthritis
+fracture	can be treated with	physical therapy
+fracture	can be associated with	muscle strains
+fracture	can cause	bruising
+fracture	can result in	edema
+fracture	can require	rehabilitation
+fracture	can lead to	malunion
+fracture	can result in	nonunion
+fracture	can be a consequence of	sports injuries
+fracture	can cause	bone fragments
+fracture	can lead to	bone infection
+fracture	can require	assistive devices
+fracture	can result in	joint stiffness
+fracture	can be treated with	traction
+fracture	can be prevented by	strength training
+fracture	can cause	instability
+fracture	can result in	ligament tears
+fracture	can require	occupational therapy
+fracture	can lead to	compartment syndrome
+fracture	can be associated with	tendon damage
+fracture	can cause	cartilage damage
+fracture	can result in	bone marrow leakage
+fracture	can require	bone graft
+fracture	can lead to	joint dislocation
+fracture	can be diagnosed with	MRI
+fracture	can require	brace
+fracture	can cause	disfigurement
+dislocation	can be treated with	reduction
+dislocation	can cause	joint instability
+dislocation	can result in	pain
+dislocation	can be caused by	trauma
+dislocation	can be prevented by	protective equipment
+dislocation	can require	immobilization
+dislocation	can lead to	nerve damage
+dislocation	can result in	blood vessel injury
+dislocation	can be associated with	ligament tear
+dislocation	can require	physical therapy
+dislocation	can require	pain management
+dislocation	can result in	limited mobility
+dislocation	can be diagnosed with	x-rays
+dislocation	can require	follow-up appointments
+dislocation	can be treated with	braces
+dislocation	can be caused by	falls
+dislocation	can increase the risk of	re-dislocation
+dislocation	can lead to	loss of function
+dislocation	can result in	muscle weakness
+dislocation	can require	surgical intervention
+dislocation	can cause	loss of sensation
+dislocation	can be a result of	repetitive stress
+dislocation	can lead to	delayed healing
+dislocation	can result in	joint deformity
+dislocation	can be associated with	muscle strains
+dislocation	can cause	bruising
+dislocation	can require	rehabilitation
+dislocation	can lead to	post-traumatic arthritis
+dislocation	can be treated with	physical therapy
+dislocation	can be associated with	muscle tears
+dislocation	can result in	edema
+dislocation	can require	assistive devices
+dislocation	can cause	cartilage damage
+dislocation	can result in	bone marrow leakage
+dislocation	can lead to	joint dislocation
+dislocation	can be diagnosed with	MRI
+dislocation	can require	brace
+dislocation	can cause	disfigurement
+dislocation	can be a result of	sports injuries
+dislocation	can result in	joint stiffness
+dislocation	can require	occupational therapy
+dislocation	can be associated with	tendon damage
+dislocation	can result in	bone infection
+dislocation	can require	surgery
+dislocation	can result in	muscle atrophy
+dislocation	can lead to	malunion
+dislocation	can result in	nonunion
+dislocation	can be prevented by	strength training
+dislocation	can cause	instability
+dislocation	can be diagnosed with	physical examination
+dislocation	can result in	ligament tears
+dislocation	can require	joint replacement
+dislocation	can be treated with	injections
+dislocation	can cause	nerve impingement
+dislocation	can be prevented by	proper technique
+dislocation	can result in	ligament laxity
+dislocation	can lead to	muscle strains
+dislocation	can require	arthroscopy
+dislocation	can be associated with	osteoarthritis
+dislocation	can cause	muscle spasms
+dislocation	can result in	bone loss
+dislocation	can lead to	tendonitis
+dislocation	can require	bone graft
+dislocation	can result in	stress fractures
+dislocation	can be a consequence of	falls

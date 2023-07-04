@@ -1,0 +1,233 @@
+diagnostic nervous system procedures	are	medical procedures
+diagnostic nervous system procedures	used for	diagnosis
+electroencephalogram	is a type of	diagnostic nervous system procedures
+electroencephalogram	measures	electrical activity of the brain
+nerve conduction study	is a type of	diagnostic nervous system procedures
+nerve conduction study	measures	how well nerves in the body are functioning
+electromyography	is a type of	diagnostic nervous system procedures
+electromyography	measures	muscle activity
+magnetic resonance imaging	is a type of	diagnostic nervous system procedures
+magnetic resonance imaging	provides	detailed images of the brain and spinal cord
+lumbar puncture	is a type of	diagnostic nervous system procedures
+lumbar puncture	collects	cerebrospinal fluid for analysis
+nerve biopsy	is a type of	diagnostic nervous system procedures
+nerve biopsy	examines	a sample of nerve tissue
+nerve conduction velocity test	is a type of	diagnostic nervous system procedures
+nerve conduction velocity test	measures	how fast electrical impulses travel along nerves
+somatosensory evoked potentials	is a type of	diagnostic nervous system procedures
+somatosensory evoked potentials	measures	how nerves respond to stimulation
+brain biopsy	is a type of	diagnostic nervous system procedures
+brain biopsy	examines	a sample of brain tissue
+electrooculogram	is a type of	diagnostic nervous system procedures
+electrooculogram	measures	eye movements
+neuroimaging	is a type of	diagnostic nervous system procedures
+neuroimaging	provides	images of the brain and spinal cord
+cerebral angiography	is a type of	diagnostic nervous system procedures
+cerebral angiography	visualizes	blood vessels in the brain
+nerve root block	is a type of	diagnostic nervous system procedures
+nerve root block	injects	medication into the nerve root
+evoked potentials	is a type of	diagnostic nervous system procedures
+evoked potentials	measures	the electrical activity of the brain in response to stimuli
+positional testing	is a type of	diagnostic nervous system procedures
+positional testing	evaluates	balance and inner ear function
+neuropsychological testing	is a type of	diagnostic nervous system procedures
+neuropsychological testing	assesses	cognitive function
+computed tomography	is a type of	diagnostic nervous system procedures
+computed tomography	produces	detailed images of the brain
+functional magnetic resonance imaging	is a type of	diagnostic nervous system procedures
+functional magnetic resonance imaging	maps	brain activity
+doppler ultrasound	is a type of	diagnostic nervous system procedures
+doppler ultrasound	assesses	blood flow in the brain
+ventriculostomy	is a type of	diagnostic nervous system procedures
+ventriculostomy	drains	excess cerebrospinal fluid
+neurophysiological monitoring	is a type of	diagnostic nervous system procedures
+neurophysiological monitoring	evaluates	nerve and muscle function
+electroretinography	is a type of	diagnostic nervous system procedures
+electroretinography	measures	the electrical response of the retina
+nerve stimulation studies	is a type of	diagnostic nervous system procedures
+nerve stimulation studies	measure	nerve function
+myelography	is a type of	diagnostic nervous system procedures
+myelography	visualizes	the spinal cord
+nerve conduction velocity	is a measure of	nerve function
+electroencephalography	is a measure of	brain activity
+spinal tap	is a type of	diagnostic nervous system procedures
+spinal tap	collects	cerebrospinal fluid for analysis
+ophthalmoscopy	is a type of	diagnostic nervous system procedures
+ophthalmoscopy	examines	the interior of the eye
+brainstem auditory evoked potentials	is a type of	diagnostic nervous system procedures
+brainstem auditory evoked potentials	measures	hearing function
+transcranial Doppler	is a type of	diagnostic nervous system procedures
+transcranial Doppler	assesses	blood flow in the brain
+nerve stimulation	is a type of	diagnostic nervous system procedures
+nerve stimulation	measures	nerve function
+duplex ultrasound	is a type of	diagnostic nervous system procedures
+duplex ultrasound	assesses	blood flow in the brain and neck
+nerve imaging	is a type of	diagnostic nervous system procedures
+nerve imaging	provides	images of nerves in the body
+cisternography	is a type of	diagnostic nervous system procedures
+cisternography	visualizes	the spaces around the brain and spinal cord
+videonystagmography	is a type of	diagnostic nervous system procedures
+videonystagmography	evaluates	eye movements and balance function
+nerve stimulation testing	is a type of	diagnostic nervous system procedures
+nerve stimulation testing	measures	nerve function
+visual evoked potentials	is a type of	diagnostic nervous system procedures
+visual evoked potentials	measures	electrical activity in the brain in response to visual stimuli
+motor evoked potentials	is a type of	diagnostic nervous system procedures
+motor evoked potentials	assesses	motor function
+carotid ultrasound	is a type of	diagnostic nervous system procedures
+carotid ultrasound	assesses	blood flow in the carotid arteries
+audiometry	is a type of	diagnostic nervous system procedures
+audiometry	assesses	hearing function
+nerve conduction velocity studies	is a type of	diagnostic nervous system procedures
+nerve conduction velocity studies	measure	nerve function
+otolaryngologic examination	is a type of	diagnostic nervous system procedures
+otolaryngologic examination	evaluates	the ear	nose	and throat
+ultrasound	is a type of	diagnostic nervous system procedures
+ultrasound	provides	images of the brain and neck
+needle electromyography	is a type of	diagnostic nervous system procedures
+needle electromyography	measures	muscle activity
+cerebral venography	is a type of	diagnostic nervous system procedures
+cerebral venography	visualizes	the blood vessels in the brain
+nerve testing	is a type of	diagnostic nervous system procedures
+nerve testing	assesses	nerve function
+nerve conduction study of the lower limbs	is a type of	diagnostic nervous system procedures
+nerve conduction study of the lower limbs	measures	how well nerves in the lower limbs are functioning
+functional neuroimaging	is a type of	diagnostic nervous system procedures
+functional neuroimaging	provides	images of brain activity
+brain mapping	is a type of	diagnostic nervous system procedures
+brain mapping	identifies	specific brain functions and areas
+nerve conduction study of the upper limbs	is a type of	diagnostic nervous system procedures
+nerve conduction study of the upper limbs	measures	how well nerves in the upper limbs are functioning
+somatosensory evoked potential testing	is a type of	diagnostic nervous system procedures
+somatosensory evoked potential testing	measures	how nerves respond to stimulation
+cochlear implantation	is a type of	diagnostic nervous system procedures
+cochlear implantation	helps	restore hearing in individuals with severe hearing loss
+brainstem auditory evoked potential testing	is a type of	diagnostic nervous system procedures
+brainstem auditory evoked potential testing	measures	hearing function
+nerve conduction study of the arms	is a type of	diagnostic nervous system procedures
+nerve conduction study of the arms	measures	how well nerves in the arms are functioning
+polysomnography	is a type of	diagnostic nervous system procedures
+polysomnography	evaluates	sleep disorders
+electroencephalographic monitoring	is a type of	diagnostic nervous system procedures
+electroencephalographic monitoring	assesses	brain activity
+brainstem auditory evoked potential	is a measure of	hearing function
+auditory brainstem response	is a type of	diagnostic nervous system procedures
+auditory brainstem response	measures	hearing function
+auditory evoked potentials	is a type of	diagnostic nervous system procedures
+auditory evoked potentials	assesses	hearing function
+ocular motility evaluation	is a type of	diagnostic nervous system procedures
+ocular motility evaluation	assesses	eye movement
+nerve conduction study of the legs	is a type of	diagnostic nervous system procedures
+nerve conduction study of the legs	measures	how well nerves in the legs are functioning
+brainstem auditory evoked potential test	is a type of	diagnostic nervous system procedures
+brainstem auditory evoked potential test	measures	hearing function
+auditory brainstem response testing	is a type of	diagnostic nervous system procedures
+auditory brainstem response testing	measures	hearing function
+optic nerve imaging	is a type of	diagnostic nervous system procedures
+optic nerve imaging	provides	images of the optic nerve
+pupillometry	is a type of	diagnostic nervous system procedures
+pupillometry	measures	changes in pupil size
+neurocognitive testing	is a type of	diagnostic nervous system procedures
+neurocognitive testing	evaluates	cognitive function
+somatosensory evoked potential	is a measure of	how nerves respond to stimulation
+brainstem auditory evoked potential testing	is a measure of	hearing function
+electroencephalogram testing	is a measure of	brain activity
+nerve conduction study of the arm	is a measure of	how well nerves in the arm are functioning
+peripheral nerve block	is a type of	diagnostic nervous system procedures
+peripheral nerve block	injects	medication into a peripheral nerve
+muscle biopsy	is a type of	diagnostic nervous system procedures
+muscle biopsy	examines	a sample of muscle tissue
+functional brain imaging	is a type of	diagnostic nervous system procedures
+functional brain imaging	provides	images of brain activity
+visual evoked potential testing	is a type of	diagnostic nervous system procedures
+visual evoked potential testing	measures	electrical activity in the brain in response to visual stimuli
+nerve root injection	is a type of	diagnostic nervous system procedures
+nerve root injection	injects	medication into the nerve root
+otoacoustic emissions testing	is a type of	diagnostic nervous system procedures
+otoacoustic emissions testing	assesses	hearing function
+myography	is a type of	diagnostic nervous system procedures
+myography	measures	muscle activity
+somatosensory evoked potential test	is a type of	diagnostic nervous system procedures
+somatosensory evoked potential test	measures	how nerves respond to stimulation
+electroencephalographic monitoring of brain activity	is a type of	diagnostic nervous system procedures
+electroencephalographic monitoring of brain activity	assesses	brain activity
+nerve conduction study of the lower extremities	is a type of	diagnostic nervous system procedures
+nerve conduction study of the lower extremities	measures	how well nerves in the lower extremities are functioning
+nerve conduction study of the upper extremities	is a type of	diagnostic nervous system procedures
+nerve conduction study of the upper extremities	measures	how well nerves in the upper extremities are functioning
+brainstem auditory evoked potential	is a type of	diagnostic nervous system procedures
+brainstem auditory evoked potential	measures	hearing function
+auditory brainstem response test	is a type of	diagnostic nervous system procedures
+auditory brainstem response test	measures	hearing function
+visual evoked potential	is a measure of	electrical activity in the brain in response to visual stimuli
+evoked potential testing	is a type of	diagnostic nervous system procedures
+evoked potential testing	measures	the electrical response of the brain in response to stimuli
+neuropsychological evaluation	is a type of	diagnostic nervous system procedures
+neuropsychological evaluation	assesses	cognitive function
+radiographic imaging	is a type of	diagnostic nervous system procedures
+radiographic imaging	provides	images of the brain and spinal cord
+auditory evoked potential testing	is a type of	diagnostic nervous system procedures
+auditory evoked potential testing	measures	hearing function
+brainstem auditory evoked response	is a type of	diagnostic nervous system procedures
+brainstem auditory evoked response	measures	hearing function
+nerve conduction study of the lower limb	is a type of	diagnostic nervous system procedures
+nerve conduction study of the lower limb	measures	how well nerves in the lower limb are functioning
+widefield retinal imaging	is a type of	diagnostic nervous system procedures
+widefield retinal imaging	provides	high-resolution images of the retina
+neuromuscular evaluation	is a type of	diagnostic nervous system procedures
+neuromuscular evaluation	assesses	nerve and muscle function
+auditory brainstem response testing	is a type of	diagnostic nervous system procedures
+auditory brainstem response testing	measures	hearing function
+peripheral nerve testing	is a type of	diagnostic nervous system procedures
+peripheral nerve testing	assesses	nerve function
+sensory nerve conduction velocity	is a measure of	nerve function
+somatosensory evoked potential test	is a measure of	how nerves respond to stimulation
+nerve conduction study of the leg	is a measure of	how well nerves in the leg are functioning
+ambulatory electroencephalogram monitoring	is a type of	diagnostic nervous system procedures
+ambulatory electroencephalogram monitoring	assesses	brain activity during daily activities
+respiratory polygraphy	is a type of	diagnostic nervous system procedures
+respiratory polygraphy	evaluates	respiratory function during sleep
+nerve conduction study of the arm and leg	is a type of	diagnostic nervous system procedures
+nerve conduction study of the arm and leg	measures	how well nerves in the arm and leg are functioning
+brainstem auditory evoked potential	is a measure of	hearing function
+nerve conduction study of the upper extremity	is a measure of	how well nerves in the upper extremity are functioning
+somatosensory evoked potentials testing	is a type of	diagnostic nervous system procedures
+somatosensory evoked potentials testing	measures	how nerves respond to stimulation
+neuropsychological assessment	is a type of	diagnostic nervous system procedures
+neuropsychological assessment	evaluates	cognitive function
+peripheral nerve stimulation	is a type of	diagnostic nervous system procedures
+peripheral nerve stimulation	measures	nerve function
+caloric test	is a type of	diagnostic nervous system procedures
+caloric test	evaluates	inner ear and balance function
+intraoperative neurophysiological monitoring	is a type of	diagnostic nervous system procedures
+intraoperative neurophysiological monitoring	assesses	nerve and spinal cord function during surgery
+optical coherence tomography	is a type of	diagnostic nervous system procedures
+optical coherence tomography	provides	high-resolution images of the retina
+neuropsychological testing and evaluation	is a type of	diagnostic nervous system procedures
+neuropsychological testing and evaluation	assesses	cognitive function
+nerve conduction study of the lower extremity	is a measure of	how well nerves in the lower extremity are functioning
+neuropsychological assessment and testing	is a type of	diagnostic nervous system procedures
+neuropsychological assessment and testing	evaluates	cognitive function
+brainstem auditory evoked potential test	is a measure of	hearing function
+motor nerve conduction velocity	is a measure of	nerve function
+polygraphic recording	is a type of	diagnostic nervous system procedures
+polygraphic recording	evaluates	physiological signals during sleep
+nerve conduction velocity study	is a type of	diagnostic nervous system procedures
+nerve conduction velocity study	measures	how fast electrical impulses travel along nerves
+transepidermal nerve fiber density	is a measure of	nerve function in the skin
+nerve conduction velocity of the median nerve	is a measure of	how well the median nerve is functioning
+multimodal evoked potentials	is a type of	diagnostic nervous system procedures
+multimodal evoked potentials	measures	how the brain responds to multiple stimuli
+visual evoked potentials testing	is a type of	diagnostic nervous system procedures
+visual evoked potentials testing	measures	electrical activity in the brain in response to visual stimuli
+nerve conduction study of the arms and legs	is a type of	diagnostic nervous system procedures
+nerve conduction study of the arms and legs	measures	how well nerves in the arms and legs are functioning
+nerve conduction studies	is a type of	diagnostic nervous system procedures
+nerve conduction studies	measure	nerve function
+evoked potential testing	is a measure of	the electrical response of the brain in response to stimuli
+nerve conduction study of the lower limb	is a measure of	how well nerves in the lower limb are functioning
+electroretinography testing	is a type of	diagnostic nervous system procedures
+electroretinography testing	measures	the electrical response of the retina
+auditory brainstem response evoked potential	is a type of	diagnostic nervous system procedures
+auditory brainstem response evoked potential	measures	hearing function
+nerve conduction study of the upper limb	is a type of	diagnostic nervous system procedures

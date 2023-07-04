@@ -1,0 +1,40 @@
+suture	is a	medical procedure
+suture	used for	wound closure
+skin	is a	tissue
+subcutaneous tissue	is a	tissue
+skin	located above	subcutaneous tissue
+wound	located in	skin
+wound	closed using	suture
+suture	can cause	scarring
+suture	can prevent	infection
+suture	can be absorbed by	body
+suture	can be removed by	healthcare provider
+suture	can lead to	tissue inflammation
+suture	can cause	allergic reactions
+wound	can heal	without suture
+wound closure	can improve	cosmetic appearance
+wound closure	can reduce	bleeding
+wound closure	can promote	faster healing
+wound closure	can decrease	risk of complications
+wound closure	can be performed using	various techniques
+wound closure	can be done using	non-absorbable sutures
+wound closure	can be done using	absorbable sutures
+wound closure	can be done using	staples
+wound closure	can be done using	adhesive strips
+wound closure	can be done using	surgical glue
+non-absorbable sutures	can be made of	nylon
+non-absorbable sutures	can be made of	silk
+non-absorbable sutures	can be made of	polyester
+non-absorbable sutures	can be made of	polypropylene
+absorbable sutures	can be made of	catgut
+absorbable sutures	can be made of	synthetic materials
+catgut	is derived from	animal intestine
+surgical glue	is a	adhesive
+surgical glue	used for	wound closure
+surgical glue	can cause	allergic reactions
+staples	used for	wound closure
+staples	can cause	scarring
+staples	can be removed by	healthcare provider
+adhesive strips	used for	wound closure
+adhesive strips	can cause	allergic reactions
+adhesive strips	can be removed by	healthcare provider

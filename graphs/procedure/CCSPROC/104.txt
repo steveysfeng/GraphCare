@@ -1,0 +1,99 @@
+nephrectomy	is a	surgical procedure
+nephrectomy	used for	kidney removal
+partial nephrectomy	is a type of	nephrectomy
+partial nephrectomy	preserves	kidney function
+partial nephrectomy	recommended for	small tumors
+partial nephrectomy	reduces	risk of chronic kidney disease
+partial nephrectomy	associated with	shorter hospital stay
+complete nephrectomy	is a type of	nephrectomy
+complete nephrectomy	used for	total kidney removal
+complete nephrectomy	may be necessary for	large tumors
+complete nephrectomy	increases	risk of chronic kidney disease
+complete nephrectomy	associated with	longer hospital stay
+kidney	affected by	nephrectomy
+kidney removal	can lead to	changes in renal function
+nephrectomy	performed to	treat kidney cancer
+nephrectomy	can be performed	laparoscopically
+laparoscopic nephrectomy	is a type of	nephrectomy
+laparoscopic nephrectomy	associated with	shorter recovery time
+laparoscopic nephrectomy	minimally invasive compared to	open nephrectomy
+open nephrectomy	is a type of	nephrectomy
+open nephrectomy	requires	larger incision
+open nephrectomy	associated with	longer recovery time
+nephrectomy	can cause	bleeding
+nephrectomy	may result in	infection
+nephrectomy	carries the risk of	complications
+nephrectomy	recommended when	kidney function is severely impaired
+nephrectomy	can be performed	robotically
+robotic nephrectomy	is a type of	nephrectomy
+robotic nephrectomy	associated with	shorter hospital stay
+robotic nephrectomy	allows for	improved surgical precision
+nephrectomy	can lead to	changes in blood pressure
+nephrectomy	may result in	changes in urine production
+nephrectomy	can affect	overall kidney function
+nephrectomy	may be necessary to	prevent further kidney damage
+kidney cancer	treated with	nephrectomy
+nephrectomy	can be performed	under general anesthesia
+nephrectomy	can be performed	under regional anesthesia
+regional anesthesia	used for	pain control during nephrectomy
+nephrectomy	can cause	post-operative pain
+nephrectomy	associated with	post-operative recovery
+nephrectomy	used in	organ transplantation
+kidney donation	may require	nephrectomy
+nephrectomy	can be performed	through an abdominal incision
+nephrectomy	can be performed	through a flank incision
+nephrectomy	performed to	remove a diseased kidney
+nephrectomy	can be performed	with minimally invasive techniques
+minimally invasive nephrectomy	is a type of	nephrectomy
+minimally invasive nephrectomy	associated with	shorter hospital stay
+minimally invasive nephrectomy	allows for	faster recovery
+nephrectomy	can be performed	using laparoscopic methods
+nephrectomy	can be performed	using robotic methods
+nephrectomy	can lead to	changes in electrolyte levels
+nephrectomy	may result in	scarring
+nephrectomy	can be performed	in emergency situations
+nephrectomy	can be performed	for living kidney donation
+nephrectomy	used to	remove a diseased or damaged kidney
+nephrectomy	recommended when	cancer is confined to the kidney
+kidney function	affected by	nephrectomy
+nephrectomy	can lead to	changes in kidney size
+nephrectomy	can be performed	with minimally invasive surgery
+nephrectomy	associated with	pain management
+nephrectomy	required in cases of	kidney failure
+nephrectomy	used in treatment of	advanced kidney disease
+nephrectomy	can result in	weight loss
+kidney removal	can lead to	changes in hormone levels
+nephrectomy	associated with	post-operative care
+nephrectomy	used for	transplantation
+nephrectomy	performed to	remove a tumor
+kidney removal	can result in	changes in fluid balance
+nephrectomy	can be performed	as a preventative measure
+nephrectomy	performed to	alleviate symptoms
+nephrectomy	can be performed	to remove a polycystic kidney
+nephrectomy	may be indicated for	renal artery stenosis
+kidney function	impaired by	nephrectomy
+nephrectomy	may lead to	long-term kidney damage
+nephrectomy	can cause	changes in medication requirements
+nephrectomy	associated with	long-term follow-up
+nephrectomy	recommended for	kidney donation
+nephrectomy	performed to	treat kidney stones
+kidney stones	treated with	nephrectomy
+nephrectomy	can result in	changes in body composition
+nephrectomy	may be necessary	in cases of severe kidney trauma
+nephrectomy	performed to	remove a non-functioning kidney
+nephrectomy	can affect	renal blood flow
+nephrectomy	associated with	changes in kidney anatomy
+nephrectomy	used to	manage kidney disease
+nephrectomy	performed to	remove a tumor in the kidney
+kidney removal	can lead to	changes in sexual function
+nephrectomy	may result in	changes in sleep patterns
+nephrectomy	can be performed	using a laparoscope
+laparoscopic nephrectomy	associated with	reduced post-operative pain
+laparoscopic nephrectomy	used to	remove the kidney
+nephrectomy	associated with	decreased kidney function
+nephrectomy	performed to	alleviate pain
+kidney removal	can lead to	changes in blood filtration
+nephrectomy	may be performed	as a last resort
+nephrectomy	can cause	renal insufficiency
+nephrectomy	used in cases of	kidney infection
+nephrectomy	can be performed	using a minimally invasive approach

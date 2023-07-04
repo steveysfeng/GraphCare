@@ -1,0 +1,45 @@
+diagnostic ultrasound	is a	medical imaging procedure
+diagnostic ultrasound	used for	diagnosis
+diagnostic ultrasound	performed on	abdomen
+diagnostic ultrasound	performed on	retroperitoneum
+diagnostic ultrasound	can detect	abnormalities
+diagnostic ultrasound	non-invasive	procedure
+diagnostic ultrasound	uses	sound waves
+diagnostic ultrasound	provides	real-time images
+diagnostic ultrasound	helps	visualize organs
+diagnostic ultrasound	helps	guide procedures
+diagnostic ultrasound	commonly used for	pregnancy monitoring
+diagnostic ultrasound	can detect	tumors
+diagnostic ultrasound	may require	fasting
+diagnostic ultrasound	can assess	liver function
+diagnostic ultrasound	can detect	gallstones
+diagnostic ultrasound	can detect	kidney stones
+diagnostic ultrasound	can evaluate	blood flow
+diagnostic ultrasound	can diagnose	appendicitis
+diagnostic ultrasound	can detect	cysts
+diagnostic ultrasound	can assess	abdominal trauma
+diagnostic ultrasound	can diagnose	hernias
+diagnostic ultrasound	can detect	abscesses
+diagnostic ultrasound	can evaluate	lymph nodes
+diagnostic ultrasound	can diagnose	cirrhosis
+diagnostic ultrasound	can detect	aneurysms
+diagnostic ultrasound	can assess	gastrointestinal conditions
+diagnostic ultrasound	can guide	biopsies
+diagnostic ultrasound	can detect	gastrointestinal bleeding
+diagnostic ultrasound	can assess	pancreatic function
+diagnostic ultrasound	can evaluate	spleen health
+diagnostic ultrasound	can diagnose	kidney disease
+diagnostic ultrasound	can detect	liver disease
+diagnostic ultrasound	can evaluate	adrenal glands
+diagnostic ultrasound	can identify	ascites
+diagnostic ultrasound	can detect	bladder issues
+diagnostic ultrasound	can assess	pelvic inflammatory disease
+diagnostic ultrasound	can diagnose	ovarian cysts
+diagnostic ultrasound	can detect	prostate abnormalities
+diagnostic ultrasound	can evaluate	testicular health
+diagnostic ultrasound	can diagnose	uterine fibroids
+diagnostic ultrasound	can detect	ureteral obstructions
+diagnostic ultrasound	can assess	retroperitoneal tumors
+diagnostic ultrasound	can diagnose	gallbladder inflammation
+diagnostic ultrasound	can detect	splenic enlargement
+diagnostic ultrasound	can assess	renal artery stenosis

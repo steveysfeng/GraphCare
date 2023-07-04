@@ -1,0 +1,43 @@
+other therapeutic procedures	is a	medical treatment
+other therapeutic procedures	used for	managing symptoms
+surgery	is a type of	other therapeutic procedures
+surgery	can treat	diseases
+radiation therapy	is a type of	other therapeutic procedures
+radiation therapy	uses	radiation
+radiation therapy	can target	cancer cells
+chemotherapy	is a type of	other therapeutic procedures
+chemotherapy	uses	drugs
+chemotherapy	can kill	cancer cells
+physical therapy	is a type of	other therapeutic procedures
+physical therapy	involves	exercises
+physical therapy	can improve	mobility
+occupational therapy	is a type of	other therapeutic procedures
+occupational therapy	helps	with daily activities
+occupational therapy	can enhance	independence
+speech therapy	is a type of	other therapeutic procedures
+speech therapy	focuses on	speech and language skills
+speech therapy	can improve	communication
+psychological therapy	is a type of	other therapeutic procedures
+psychological therapy	addresses	mental health issues
+psychological therapy	can help	with emotional well-being
+acupuncture	is a type of	other therapeutic procedures
+acupuncture	involves	the insertion of needles
+acupuncture	can alleviate	pain
+massage therapy	is a type of	other therapeutic procedures
+massage therapy	involves	manipulating muscles
+massage therapy	can relieve	tension
+chiropractic therapy	is a type of	other therapeutic procedures
+chiropractic therapy	focuses on	the spine
+chiropractic therapy	can improve	musculoskeletal health
+hydrotherapy	is a type of	other therapeutic procedures
+hydrotherapy	uses	water
+hydrotherapy	can promote	relaxation
+art therapy	is a type of	other therapeutic procedures
+art therapy	uses	creative expression
+art therapy	can enhance	emotional well-being
+music therapy	is a type of	other therapeutic procedures
+music therapy	utilizes	music
+music therapy	can improve	mood
+recreational therapy	is a type of	other therapeutic procedures
+recreational therapy	involves	participating in activities
+recreational therapy	can enhance	quality of life

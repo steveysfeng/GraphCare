@@ -1,0 +1,111 @@
+vascular bypass	is a	surgical procedure
+shunt	is a	medical device
+shunt	used for	redirecting blood flow
+vascular bypass	can be done for	arteries
+vascular bypass	can be done for	veins
+vascular bypass	can be done for	blood vessels
+vascular bypass	used in	peripheral vascular disease
+shunt	used in	hydrocephalus
+shunt	used in	dialysis
+shunt	used in	glaucoma
+vascular bypass	can be used to	bypass blocked arteries
+vascular bypass	can be used to	restore blood flow
+vascular bypass	can be used to	prevent limb amputation
+shunt	can be used to	relieve pressure
+shunt	can be used to	drain excess fluid
+shunt	can be used to	reduce intraocular pressure
+vascular bypass	can	improve circulation
+vascular bypass	can	decrease pain
+vascular bypass	can	increase mobility
+shunt	can	reduce symptoms
+shunt	can	improve quality of life
+vascular bypass	may	require grafts
+vascular bypass	may	require stents
+vascular bypass	may	require bypass machine
+shunt	may	require valve
+shunt	may	require tubing
+shunt	may	require catheter
+vascular bypass	can	be performed with open surgery
+vascular bypass	can	be performed with minimally invasive surgery
+vascular bypass	can	be performed with robotic-assisted surgery
+shunt	can	be implanted surgically
+shunt	can	be implanted percutaneously
+shunt	can	be implanted laparoscopically
+vascular bypass	can	have complications
+vascular bypass	can	have infection
+vascular bypass	can	have bleeding
+shunt	can	have blockage
+shunt	can	have malfunction
+shunt	can	have infection
+vascular bypass	can	have graft occlusion
+vascular bypass	can	have thrombosis
+shunt	can	have catheter-related infection
+shunt	can	have cerebrospinal fluid leakage
+shunt	can	have overdrainage
+vascular bypass	can	be life-saving
+shunt	can	improve survival
+shunt	can	prevent brain damage
+vascular bypass	can	be elective
+vascular bypass	can	be urgent
+shunt	can	be long-term
+shunt	can	be temporary
+shunt	can	be adjustable
+shunt	can	be non-adjustable
+shunt	can	be programmable
+vascular bypass	can	be unilateral
+vascular bypass	can	be bilateral
+shunt	can	require revision
+shunt	can	require removal
+shunt	can	require replacement
+vascular bypass	can	be high-risk
+vascular bypass	can	be low-risk
+vascular bypass	can	be costly
+shunt	can	require monitoring
+shunt	can	require adjustment
+shunt	can	require flushing
+vascular bypass	can	improve limb salvage
+vascular bypass	can	restore blood flow to vital organs
+shunt	can	relieve symptoms of hydrocephalus
+shunt	can	prevent vision loss in glaucoma
+shunt	can	improve kidney function
+vascular bypass	can	improve quality of life
+vascular bypass	can	extend life expectancy
+shunt	can	require regular follow-up
+shunt	can	require valve adjustments
+vascular bypass	can	have long-term benefits
+vascular bypass	can	have short-term benefits
+shunt	can	be associated with complications
+shunt	can	be associated with infections
+vascular bypass	can	be performed by a vascular surgeon
+vascular bypass	can	be performed by a cardiothoracic surgeon
+vascular bypass	can	be performed by an interventional radiologist
+shunt	can	be implanted by a neurosurgeon
+shunt	can	be implanted by an ophthalmologist
+vascular bypass	can	be done under general anesthesia
+vascular bypass	can	be done under local anesthesia
+shunt	can	require adjustment by a neurologist
+shunt	can	require adjustment by an ophthalmologist
+shunt	can	require maintenance by a nephrologist
+shunt	can	require maintenance by an ophthalmologist
+vascular bypass	can	be performed in a hospital
+vascular bypass	can	be performed in an outpatient clinic
+vascular bypass	can	be performed in an ambulatory surgical center
+shunt	can	be implanted in the brain
+shunt	can	be implanted in the abdomen
+shunt	can	be implanted in the eye
+vascular bypass	is	an invasive procedure
+shunt	is	a permanent implant
+shunt	is	a non-invasive treatment
+vascular bypass	can	be a treatment option
+shunt	can	be a treatment option
+shunt	can	be recommended for
+shunt	can	be used alongside medication
+vascular bypass	can	be used alongside medication
+shunt	requires	regular monitoring
+vascular bypass	requires	follow-up care
+vascular bypass	requires	rehabilitation
+shunt	requires	regular adjustments
+shunt	requires	periodic flushing
+shunt	requires	valve adjustments
+shunt	requires	tubing adjustments
+shunt	requires	catheter adjustments

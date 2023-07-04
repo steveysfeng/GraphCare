@@ -1,0 +1,58 @@
+endarterectomy	is a	surgical procedure
+endarterectomy	used for	removing plaque from arteries
+endarterectomy	commonly performed on	carotid arteries
+carotid arteries	supply blood to	brain
+carotid artery stenosis	can lead to	stroke
+carotid artery stenosis	is diagnosed using	doppler ultrasound
+doppler ultrasound	measures	blood flow
+carotid endarterectomy	is a type of	endarterectomy
+carotid endarterectomy	can reduce	risk of stroke
+carotid endarterectomy	performed under	general anesthesia
+general anesthesia	induces	unconsciousness
+stroke	characterized by	sudden loss of brain function
+stroke	can result in	paralysis
+paralysis	is the loss of	muscle function
+paralysis	can affect	one side of the body
+carotid endarterectomy	is associated with	mortality risk
+carotid endarterectomy	may require	hospitalization
+hospitalization	involves	staying in the hospital
+hospitalization	can increase	risk of infection
+infection	may require	antibiotic treatment
+antibiotic treatment	is administered to	kill bacteria
+carotid artery stenting	is an alternative to	carotid endarterectomy
+carotid artery stenting	involves	inserting a stent
+stent	is a	metal mesh tube
+stent	expands to	keep the artery open
+carotid artery stenting	carries a	risk of complications
+complications	can include	bleeding
+complications	may lead to	rehospitalization
+rehospitalization	increases	healthcare costs
+rehospitalization	can be prevented with	proper postoperative care
+endarterectomy	has a	recovery period
+recovery period	varies depending on	individual
+endarterectomy	requires	follow-up appointments
+follow-up appointments	monitor	healing progress
+endarterectomy	is performed by	vascular surgeons
+vascular surgeons	specialize in	blood vessel diseases
+endarterectomy	is covered by	insurance
+insurance	helps with	medical costs
+endarterectomy	has a	success rate
+success rate	is measured by	improved blood flow
+endarterectomy	can improve	quality of life
+quality of life	refers to	overall well-being
+endarterectomy	should be considered	when conservative treatments fail
+conservative treatments	include	medication therapy
+endarterectomy	has	risks and benefits
+benefits	may outweigh	risks
+endarterectomy	may be recommended	for high-risk patients
+high-risk patients	have severe	carotid artery stenosis
+endarterectomy	may be performed	in an outpatient setting
+outpatient setting	allows patients to	go home the same day
+endarterectomy	requires	preoperative evaluation
+preoperative evaluation	assesses	patient's overall health
+endarterectomy	should be performed	by experienced surgeons
+experienced surgeons	have expertise in	the procedure
+endarterectomy	can be performed with	minimally invasive techniques
+minimally invasive techniques	result in	smaller incisions
+endarterectomy	may be contraindicated	in certain patients
+contraindicated patients	include those who	are not fit for surgery

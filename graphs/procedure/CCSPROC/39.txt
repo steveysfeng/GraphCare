@@ -1,0 +1,74 @@
+pleura	has	incision
+pleura	involved in	thoracentesis
+thoracentesis	is a	medical procedure
+thoracentesis	used for	fluid removal
+fluid	drained through	chest drainage
+chest drainage	is a	medical procedure
+chest drainage	used for	draining fluid
+chest drainage	connected to	drainage tube
+drainage tube	inserted into	chest
+chest	contains	lungs
+lungs	surrounded by	pleura
+pleura	can be affected by	infection
+infection	can lead to	pleural effusion
+pleural effusion	can cause	difficulty breathing
+difficulty breathing	can be a symptom of	pneumonia
+pneumonia	can be diagnosed by	thoracentesis
+thoracentesis	can detect	bacterial infection
+bacterial infection	can be treated with	antibiotics
+antibiotics	prescribed for	infection
+chest drainage	can be used in	pneumonia treatment
+pleural effusion	treated by	draining fluid
+thoracentesis	used in	pleural effusion treatment
+chest drainage	can relieve	symptoms
+chest drainage	connected to	drainage system
+drainage system	collects	drained fluid
+drainage system	can be monitored for	drainage amount
+chest drainage	can prevent	lung collapse
+lung collapse	can occur due to	pneumothorax
+pneumothorax	can be treated with	chest drainage
+chest drainage	used in	pneumothorax treatment
+pleural effusion	can be caused by	congestive heart failure
+congestive heart failure	can lead to	fluid accumulation
+fluid accumulation	can result in	pleural effusion
+chest drainage	used in	congestive heart failure treatment
+thoracentesis	can be performed under	local anesthesia
+local anesthesia	used to	numb area
+chest drainage	can be accompanied by	pain
+pain	can be managed with	pain medication
+pain medication	prescribed for	pain relief
+pleural effusion	can be a complication of	lung cancer
+lung cancer	can lead to	fluid build-up
+fluid build-up	can cause	pleural effusion
+thoracentesis	used in	lung cancer diagnosis
+chest drainage	used in	lung cancer treatment
+pleural effusion	can be caused by	tuberculosis
+tuberculosis	can result in	inflammation
+inflammation	can lead to	pleural effusion
+thoracentesis	used in	tuberculosis diagnosis
+chest drainage	used in	tuberculosis treatment
+pleural effusion	can be caused by	kidney disease
+kidney disease	can result in	fluid retention
+fluid retention	can lead to	pleural effusion
+chest drainage	used in	kidney disease treatment
+thoracentesis	can be guided by	ultrasound
+ultrasound	used for	imaging
+chest drainage	can be guided by	imaging
+chest drainage	can be performed by	healthcare provider
+healthcare provider	performs	thoracentesis
+healthcare provider	performs	chest drainage
+thoracentesis	can be performed in	outpatient setting
+chest drainage	can be performed in	hospital setting
+pleural effusion	can be caused by	liver disease
+liver disease	can lead to	fluid accumulation
+pleural effusion	can be a sign of	infection
+infection	can result in	pleural effusion
+pleural effusion	can be caused by	autoimmune disease
+autoimmune disease	can result in	inflammation
+inflammation	can lead to	pleural effusion
+chest drainage	can be a temporary measure for	pleural effusion
+pleural effusion	can be drained by	thoracentesis
+chest drainage	can be a long-term measure for	pleural effusion
+chest drainage	can be used for	palliative care
+palliative care	focused on	symptom management
+chest drainage	can improve	quality of life

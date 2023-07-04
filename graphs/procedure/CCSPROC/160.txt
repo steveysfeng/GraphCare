@@ -1,0 +1,17 @@
+other therapeutic procedures on muscles and tendons	are	medical interventions
+other therapeutic procedures on muscles and tendons	used for	treatment
+other therapeutic procedures on muscles and tendons	target	specific body areas
+muscle release	is a type of	other therapeutic procedures on muscles and tendons
+muscle release	can alleviate	tightness
+tendon repair	is a type of	other therapeutic procedures on muscles and tendons
+tendon repair	involve	suturing damaged tendon
+tendon repair	can restore	normal function
+trigger point injection	is a type of	other therapeutic procedures on muscles and tendons
+trigger point injection	involve	injecting medication into trigger point
+trigger point injection	can relieve	muscle pain
+intramuscular injection	is a type of	other therapeutic procedures on muscles and tendons
+intramuscular injection	involve	administering medication into muscle
+intramuscular injection	can deliver	medication directly into bloodstream
+muscle transfer	is a type of	other therapeutic procedures on muscles and tendons
+muscle transfer	involve	relocating a muscle to another area
+muscle transfer	can improve	muscle function

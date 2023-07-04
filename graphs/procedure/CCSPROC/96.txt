@@ -1,0 +1,30 @@
+other or lower gi therapeutic procedures	is a	medical procedure
+other or lower gi therapeutic procedures	used for	treatment
+colectomy	is a type of	other or lower gi therapeutic procedures
+colectomy	can treat	colon cancer
+cytoreductive surgery	is a type of	other or lower gi therapeutic procedures
+cytoreductive surgery	can treat	peritoneal carcinomatosis
+hemorrhoidectomy	is a type of	other or lower gi therapeutic procedures
+hemorrhoidectomy	can treat	hemorrhoids
+biliary drainage	is a type of	other or lower gi therapeutic procedures
+biliary drainage	can treat	biliary obstruction
+colostomy	is a type of	other or lower gi therapeutic procedures
+colostomy	can treat	bowel incontinence
+endoscopic retrograde cholangiopancreatography	is a type of	other or lower gi therapeutic procedures
+endoscopic retrograde cholangiopancreatography	can treat	pancreatitis
+esophagectomy	is a type of	other or lower gi therapeutic procedures
+esophagectomy	can treat	esophageal cancer
+ileostomy	is a type of	other or lower gi therapeutic procedures
+ileostomy	can treat	inflammatory bowel disease
+laparoscopic colectomy	is a type of	other or lower gi therapeutic procedures
+laparoscopic colectomy	can treat	colon polyps
+liver resection	is a type of	other or lower gi therapeutic procedures
+liver resection	can treat	liver cancer
+liver transplant	is a type of	other or lower gi therapeutic procedures
+liver transplant	can treat	end-stage liver disease
+pancreatectomy	is a type of	other or lower gi therapeutic procedures
+pancreatectomy	can treat	pancreatic cancer
+sigmoidectomy	is a type of	other or lower gi therapeutic procedures
+sigmoidectomy	can treat	diverticulitis
+stoma reversal	is a type of	other or lower gi therapeutic procedures
+stoma reversal	can correct	colostomy

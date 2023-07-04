@@ -1,0 +1,77 @@
+procedures on the urethra	are	medical procedures
+procedures on the urethra	can treat	urinary tract infections
+procedures on the urethra	may cause	pain
+cystoscopy	is a type of	procedure on the urethra
+cystoscopy	used for	diagnosis
+urethral dilation	is a type of	procedure on the urethra
+urethral dilation	used to	treat urethral strictures
+urethral dilation	can cause	temporary discomfort
+urethral sphincterotomy	is a type of	procedure on the urethra
+urethral sphincterotomy	used to	treat urinary incontinence
+urethral sphincterotomy	may result in	temporary difficulty urinating
+urethroplasty	is a type of	procedure on the urethra
+urethroplasty	used to	reconstruct the urethra
+urethroplasty	may require	a long recovery period
+urethral diverticulectomy	is a type of	procedure on the urethra
+urethral diverticulectomy	used to	remove urethral diverticula
+urethral diverticulectomy	may involve	the use of a catheter
+urethral sling surgery	is a type of	procedure on the urethra
+urethral sling surgery	used to	treat stress urinary incontinence
+urethral sling surgery	may result in	temporary urinary retention
+urethral stent placement	is a type of	procedure on the urethra
+urethral stent placement	used to	treat urethral strictures
+urethral stent placement	can cause	infection
+urethral stricture dilation	is a type of	procedure on the urethra
+urethral stricture dilation	used to	treat urethral strictures
+urethral stricture dilation	may require	multiple treatments
+transurethral resection of the prostate (TURP)	is a type of	procedure on the urethra
+transurethral resection of the prostate (TURP)	used to	treat enlarged prostate
+transurethral resection of the prostate (TURP)	may result in	retrograde ejaculation
+urethral foreign body removal	is a type of	procedure on the urethra
+urethral foreign body removal	used to	remove foreign objects from the urethra
+urethral foreign body removal	may require	anesthesia
+urethral stricture incision	is a type of	procedure on the urethra
+urethral stricture incision	used to	treat urethral strictures
+urethral stricture incision	can cause	bleeding
+ureteroureterostomy	is a type of	procedure on the urethra
+ureteroureterostomy	used to	reconstruct the urethra
+ureteroureterostomy	may result in	urinary leakage
+ureteral rerouting	is a type of	procedure on the urethra
+ureteral rerouting	used to	redirect urine flow
+ureteral rerouting	may require	multiple surgeries
+urethral dilation	is a type of	procedure on the urethra
+urethral dilation	used to	treat urethral strictures
+urethral dilation	can cause	temporary discomfort
+urethral sphincterotomy	is a type of	procedure on the urethra
+urethral sphincterotomy	used to	treat urinary incontinence
+urethral sphincterotomy	may result in	temporary difficulty urinating
+urethroplasty	is a type of	procedure on the urethra
+urethroplasty	used to	reconstruct the urethra
+urethroplasty	may require	a long recovery period
+urethral diverticulectomy	is a type of	procedure on the urethra
+urethral diverticulectomy	used to	remove urethral diverticula
+urethral diverticulectomy	may involve	the use of a catheter
+urethral sling surgery	is a type of	procedure on the urethra
+urethral sling surgery	used to	treat stress urinary incontinence
+urethral sling surgery	may result in	temporary urinary retention
+urethral stent placement	is a type of	procedure on the urethra
+urethral stent placement	used to	treat urethral strictures
+urethral stent placement	can cause	infection
+urethral stricture dilation	is a type of	procedure on the urethra
+urethral stricture dilation	used to	treat urethral strictures
+urethral stricture dilation	may require	multiple treatments
+transurethral resection of the prostate (TURP)	is a type of	procedure on the urethra
+transurethral resection of the prostate (TURP)	used to	treat enlarged prostate
+transurethral resection of the prostate (TURP)	may result in	retrograde ejaculation
+urethral foreign body removal	is a type of	procedure on the urethra
+urethral foreign body removal	used to	remove foreign objects from the urethra
+urethral foreign body removal	may require	anesthesia
+urethral stricture incision	is a type of	procedure on the urethra
+urethral stricture incision	used to	treat urethral strictures
+urethral stricture incision	can cause	bleeding
+ureteroureterostomy	is a type of	procedure on the urethra
+ureteroureterostomy	used to	reconstruct the urethra
+ureteroureterostomy	may result in	urinary leakage
+ureteral rerouting	is a type of	procedure on the urethra
+ureteral rerouting	used to	redirect urine flow
+ureteral rerouting	may require	multiple surgeries

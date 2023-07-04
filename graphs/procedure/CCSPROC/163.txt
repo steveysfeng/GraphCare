@@ -1,0 +1,36 @@
+musculoskeletal system	is a	body system
+other non-or therapeutic procedures	performed on	musculoskeletal system
+musculoskeletal system	supports	the body
+musculoskeletal system	allows	movement
+other non-or therapeutic procedures	treat	musculoskeletal conditions
+musculoskeletal system	consists of	bones
+musculoskeletal system	consists of	muscles
+musculoskeletal system	consists of	joints
+musculoskeletal system	consists of	ligaments
+other non-or therapeutic procedures	can repair	broken bones
+other non-or therapeutic procedures	can repair	torn ligaments
+other non-or therapeutic procedures	can remove	tumors in bones
+musculoskeletal system	helps	maintain posture
+musculoskeletal system	helps	protect internal organs
+other non-or therapeutic procedures	can improve	mobility
+other non-or therapeutic procedures	can relieve	pain in muscles
+other non-or therapeutic procedures	can improve	joint function
+other non-or therapeutic procedures	can alleviate	arthritis symptoms
+musculoskeletal system	provides	structural support
+musculoskeletal system	enables	movement
+other non-or therapeutic procedures	are performed	by orthopedic surgeons
+other non-or therapeutic procedures	can correct	bone deformities
+other non-or therapeutic procedures	can correct	muscle imbalances
+musculoskeletal system	is affected by	aging
+other non-or therapeutic procedures	can restore	musculoskeletal function
+other non-or therapeutic procedures	can enhance	athletic performance
+other non-or therapeutic procedures	can improve	quality of life
+musculoskeletal system	can be affected by	diseases
+other non-or therapeutic procedures	can treat	musculoskeletal injuries
+musculoskeletal system	is involved in	movement
+musculoskeletal system	is involved in	locomotion
+other non-or therapeutic procedures	can repair	joint damage
+other non-or therapeutic procedures	can relieve	back pain
+other non-or therapeutic procedures	can repair	muscle tears
+musculoskeletal system	provides	leverage for muscles
+other non-or therapeutic procedures	can enhance	muscle strength

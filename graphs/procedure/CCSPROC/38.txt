@@ -1,0 +1,59 @@
+other diagnostic procedures on lung and bronchus	are used for	diagnosis
+other diagnostic procedures on lung and bronchus	can detect	tumors
+bronchoscopy	is a type of	other diagnostic procedures on lung and bronchus
+bronchoscopy	used for	visual examination
+bronchoscopy	can diagnose	lung infections
+pleural biopsy	is a type of	other diagnostic procedures on lung and bronchus
+pleural biopsy	used for	collecting tissue samples
+pleural biopsy	can detect	cancer cells
+thoracentesis	is a type of	other diagnostic procedures on lung and bronchus
+thoracentesis	used for	removing excess fluid
+thoracentesis	can diagnose	pleural effusion
+thoracentesis	can detect	infection
+thoracentesis	can relieve	dyspnea
+thoracoscopy	is a type of	other diagnostic procedures on lung and bronchus
+thoracoscopy	used for	examining pleural cavity
+thoracoscopy	can detect	pleural abnormalities
+thoracoscopy	can diagnose	mesothelioma
+thoracoscopy	can treat	pleural effusion
+lung biopsy	is a type of	other diagnostic procedures on lung and bronchus
+lung biopsy	used for	collecting lung tissue
+lung biopsy	can detect	cancer
+transbronchial lung biopsy	is a type of	other diagnostic procedures on lung and bronchus
+transbronchial lung biopsy	used for	lung tissue examination
+transbronchial lung biopsy	can detect	lung diseases
+transbronchial lung biopsy	can diagnose	sarcoidosis
+mediastinoscopy	is a type of	other diagnostic procedures on lung and bronchus
+mediastinoscopy	used for	examining mediastinum
+mediastinoscopy	can detect	lymph node involvement
+mediastinoscopy	can diagnose	lung cancer
+thoracotomy	is a type of	other diagnostic procedures on lung and bronchus
+thoracotomy	used for	surgical exploration
+thoracotomy	can detect	mass lesions
+thoracotomy	can diagnose	tuberculosis
+thoracotomy	can treat	collapsed lung
+endobronchial ultrasound	is a type of	other diagnostic procedures on lung and bronchus
+endobronchial ultrasound	used for	lung imaging
+endobronchial ultrasound	can detect	lung cancer
+endobronchial ultrasound	can diagnose	intrathoracic lymph node metastasis
+needle biopsy	is a type of	other diagnostic procedures on lung and bronchus
+needle biopsy	used for	collecting tissue samples
+needle biopsy	can detect	lung tumors
+needle biopsy	can diagnose	granulomas
+thoracic computed tomography	is a type of	other diagnostic procedures on lung and bronchus
+thoracic computed tomography	used for	imaging the chest
+thoracic computed tomography	can detect	lung abnormalities
+thoracic computed tomography	can diagnose	pulmonary embolism
+thoracic computed tomography	can assess	tumor response
+chest x-ray	is a type of	other diagnostic procedures on lung and bronchus
+chest x-ray	used for	imaging the chest
+chest x-ray	can detect	lung infections
+chest x-ray	can diagnose	lung masses
+magnetic resonance imaging	is a type of	other diagnostic procedures on lung and bronchus
+magnetic resonance imaging	used for	imaging the chest
+magnetic resonance imaging	can detect	lung tumors
+magnetic resonance imaging	can diagnose	lung disorders
+positron emission tomography	is a type of	other diagnostic procedures on lung and bronchus
+positron emission tomography	used for	imaging lung tissue
+positron emission tomography	can detect	lung cancer
+positron emission tomography	can diagnose	metastasis

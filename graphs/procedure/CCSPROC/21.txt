@@ -1,0 +1,12 @@
+other extraocular muscle and orbit therapeutic procedures	are	medical procedures
+other extraocular muscle and orbit therapeutic procedures	used for	treating eye conditions
+botulinum toxin injection	is a type of	other extraocular muscle and orbit therapeutic procedures
+botulinum toxin injection	can alleviate	strabismus
+orbital decompression surgery	is a type of	other extraocular muscle and orbit therapeutic procedures
+orbital decompression surgery	used for	treating thyroid eye disease
+orbital fracture repair	is a type of	other extraocular muscle and orbit therapeutic procedures
+orbital fracture repair	can fix	broken eye socket
+eye muscle surgery	is a type of	other extraocular muscle and orbit therapeutic procedures
+eye muscle surgery	used to correct	crossed eyes
+enucleation	is a type of	other extraocular muscle and orbit therapeutic procedures
+enucleation	performed to remove	a diseased or damaged eye

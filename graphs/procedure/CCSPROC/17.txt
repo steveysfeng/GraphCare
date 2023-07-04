@@ -1,0 +1,59 @@
+destruction of lesion of retina and choroid	is a	medical procedure
+destruction of lesion of retina and choroid	used for	treatment
+retinal detachment	can be treated by	destruction of lesion of retina and choroid
+choroidal neovascularization	can be treated by	destruction of lesion of retina and choroid
+laser	used for	destruction of lesion of retina and choroid
+ophthalmologist	performs	destruction of lesion of retina and choroid
+vision loss	can be prevented by	destruction of lesion of retina and choroid
+macular degeneration	can be treated by	destruction of lesion of retina and choroid
+diabetic retinopathy	can be treated by	destruction of lesion of retina and choroid
+retinal vein occlusion	can be treated by	destruction of lesion of retina and choroid
+retinal tear	can be treated by	destruction of lesion of retina and choroid
+retinal hole	can be treated by	destruction of lesion of retina and choroid
+choroidal melanoma	can be treated by	destruction of lesion of retina and choroid
+choroidal detachment	can be treated by	destruction of lesion of retina and choroid
+retinal laser surgery	a type of	destruction of lesion of retina and choroid
+photocoagulation	a type of	destruction of lesion of retina and choroid
+retinal cryotherapy	a type of	destruction of lesion of retina and choroid
+retinal photodynamic therapy	a type of	destruction of lesion of retina and choroid
+retinal detachment surgery	a type of	destruction of lesion of retina and choroid
+retinal detachment repair	a type of	destruction of lesion of retina and choroid
+retinal tear surgery	a type of	destruction of lesion of retina and choroid
+retinal tear repair	a type of	destruction of lesion of retina and choroid
+retinal hole surgery	a type of	destruction of lesion of retina and choroid
+retinal hole repair	a type of	destruction of lesion of retina and choroid
+macular degeneration treatment	a type of	destruction of lesion of retina and choroid
+diabetic retinopathy treatment	a type of	destruction of lesion of retina and choroid
+retinal vein occlusion treatment	a type of	destruction of lesion of retina and choroid
+retinal tear treatment	a type of	destruction of lesion of retina and choroid
+retinal hole treatment	a type of	destruction of lesion of retina and choroid
+choroidal melanoma treatment	a type of	destruction of lesion of retina and choroid
+laser treatment	a type of	destruction of lesion of retina and choroid
+proliferative retinopathy	can be treated by	destruction of lesion of retina and choroid
+retinal detachment prevention	can be achieved by	destruction of lesion of retina and choroid
+retinal detachment repair	can be done using	destruction of lesion of retina and choroid
+macular degeneration prevention	can be achieved by	destruction of lesion of retina and choroid
+macular degeneration treatment	can be achieved using	destruction of lesion of retina and choroid
+diabetic retinopathy prevention	can be achieved by	destruction of lesion of retina and choroid
+diabetic retinopathy treatment	can be achieved using	destruction of lesion of retina and choroid
+retinal vein occlusion prevention	can be achieved by	destruction of lesion of retina and choroid
+retinal vein occlusion treatment	can be achieved using	destruction of lesion of retina and choroid
+retinal tear prevention	can be achieved by	destruction of lesion of retina and choroid
+retinal tear treatment	can be achieved using	destruction of lesion of retina and choroid
+retinal hole prevention	can be achieved by	destruction of lesion of retina and choroid
+retinal hole treatment	can be achieved using	destruction of lesion of retina and choroid
+choroidal melanoma prevention	can be achieved by	destruction of lesion of retina and choroid
+choroidal melanoma treatment	can be achieved using	destruction of lesion of retina and choroid
+retinal tear surgery	is performed to repair	destruction of lesion of retina and choroid
+retinal hole surgery	is performed to repair	destruction of lesion of retina and choroid
+retinal detachment surgery	is performed to repair	destruction of lesion of retina and choroid
+retinal tear repair	is performed to repair	destruction of lesion of retina and choroid
+retinal hole repair	is performed to repair	destruction of lesion of retina and choroid
+macular degeneration treatment	includes	destruction of lesion of retina and choroid
+diabetic retinopathy treatment	includes	destruction of lesion of retina and choroid
+retinal vein occlusion treatment	includes	destruction of lesion of retina and choroid
+retinal tear treatment	includes	destruction of lesion of retina and choroid
+retinal hole treatment	includes	destruction of lesion of retina and choroid
+choroidal melanoma treatment	includes	destruction of lesion of retina and choroid
+laser treatment	includes	destruction of lesion of retina and choroid
+retinal detachment repair	includes	destruction of lesion of retina and choroid

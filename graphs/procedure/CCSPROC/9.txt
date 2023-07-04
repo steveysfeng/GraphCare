@@ -1,0 +1,90 @@
+nervous system	is a	body system
+nervous system	controls	bodily functions
+nervous system	includes	brain
+nervous system	includes	spinal cord
+nervous system	includes	nerves
+nervous system	controls	movement
+nervous system	controls	sensation
+nervous system	controls	thinking
+nervous system	controls	memory
+nervous system	controls	emotions
+therapeutic procedures	are performed on	nervous system
+therapeutic procedures	treat	neurological disorders
+therapeutic procedures	treat	injuries
+therapeutic procedures	treat	chronic pain
+therapeutic procedures	treat	movement disorders
+therapeutic procedures	treat	psychiatric disorders
+therapeutic procedures	treat	neuropathy
+therapeutic procedures	treat	epilepsy
+therapeutic procedures	treat	Parkinson's disease
+therapeutic procedures	treat	multiple sclerosis
+therapeutic procedures	treat	Alzheimer's disease
+therapeutic procedures	treat	stroke
+therapeutic procedures	treat	spinal cord injuries
+therapeutic procedures	treat	brain tumors
+therapeutic procedures	treat	migraines
+therapeutic procedures	treat	trigeminal neuralgia
+therapeutic procedures	treat	Tourette syndrome
+therapeutic procedures	treat	Huntington's disease
+therapeutic procedures	treat	amyotrophic lateral sclerosis
+therapeutic procedures	treat	obsessive-compulsive disorder
+therapeutic procedures	treat	depression
+therapeutic procedures	treat	anxiety disorders
+therapeutic procedures	treat	post-traumatic stress disorder
+therapeutic procedures	treat	schizophrenia
+therapeutic procedures	treat	bipolar disorder
+therapeutic procedures	treat	autism spectrum disorder
+therapeutic procedures	treat	attention deficit hyperactivity disorder
+therapeutic procedures	treat	sleep disorders
+therapeutic procedures	treat	substance abuse disorders
+therapeutic procedures	treat	eating disorders
+therapeutic procedures	treat	Alzheimer's disease
+therapeutic procedures	treat	Parkinson's disease
+therapeutic procedures	treat	multiple sclerosis
+therapeutic procedures	treat	stroke
+therapeutic procedures	treat	spinal cord injuries
+therapeutic procedures	treat	brain tumors
+therapeutic procedures	treat	migraines
+therapeutic procedures	treat	trigeminal neuralgia
+therapeutic procedures	treat	Tourette syndrome
+therapeutic procedures	treat	Huntington's disease
+therapeutic procedures	treat	amyotrophic lateral sclerosis
+therapeutic procedures	treat	obsessive-compulsive disorder
+therapeutic procedures	treat	depression
+therapeutic procedures	treat	anxiety disorders
+therapeutic procedures	treat	post-traumatic stress disorder
+therapeutic procedures	treat	schizophrenia
+therapeutic procedures	treat	bipolar disorder
+therapeutic procedures	treat	autism spectrum disorder
+therapeutic procedures	treat	attention deficit hyperactivity disorder
+therapeutic procedures	treat	sleep disorders
+therapeutic procedures	treat	substance abuse disorders
+therapeutic procedures	treat	eating disorders
+therapeutic procedures	aim to	improve quality of life
+therapeutic procedures	aim to	alleviate symptoms
+therapeutic procedures	aim to	restore function
+therapeutic procedures	aim to	relieve pain
+therapeutic procedures	aim to	improve mobility
+therapeutic procedures	aim to	enhance cognition
+therapeutic procedures	aim to	regulate emotions
+therapeutic procedures	aim to	reduce seizures
+therapeutic procedures	aim to	slow disease progression
+therapeutic procedures	aim to	manage symptoms
+therapeutic procedures	aim to	increase independence
+therapeutic procedures	aim to	optimize medication response
+therapeutic procedures	aim to	decrease hospitalizations
+therapeutic procedures	aim to	minimize complications
+therapeutic procedures	aim to	improve overall health
+therapeutic procedures	aim to	prevent further damage
+therapeutic procedures	aim to	enhance brain function
+therapeutic procedures	aim to	improve cognitive skills
+therapeutic procedures	aim to	promote recovery
+therapeutic procedures	aim to	improve coordination
+therapeutic procedures	aim to	enhance communication
+therapeutic procedures	aim to	facilitate learning
+therapeutic procedures	aim to	promote social skills
+therapeutic procedures	aim to	reduce reliance on medication
+therapeutic procedures	aim to	delay disease progression
+therapeutic procedures	aim to	minimize side effects
+therapeutic procedures	aim to	restore normal bodily functions
+therapeutic procedures	aim to	improve quality of life

@@ -1,0 +1,86 @@
+gastrointestinal diagnostic procedures	are	medical procedures
+gastrointestinal diagnostic procedures	used for	diagnosis
+endoscopy	is a type of	gastrointestinal diagnostic procedure
+colonoscopy	is a type of	gastrointestinal diagnostic procedure
+biopsy	can be performed during	gastrointestinal diagnostic procedures
+barium swallow	can be performed during	gastrointestinal diagnostic procedures
+CT scan	can be performed during	gastrointestinal diagnostic procedures
+MRI	can be performed during	gastrointestinal diagnostic procedures
+ultrasound	can be performed during	gastrointestinal diagnostic procedures
+gastrointestinal diagnostic procedures	can detect	tumors
+gastrointestinal diagnostic procedures	can detect	inflammation
+gastrointestinal diagnostic procedures	can detect	infection
+gastrointestinal diagnostic procedures	can detect	abnormalities
+gastrointestinal diagnostic procedures	can detect	blockages
+gastrointestinal diagnostic procedures	can detect	bleeding
+gastrointestinal diagnostic procedures	can detect	ulcers
+gastrointestinal diagnostic procedures	can detect	polyps
+gastrointestinal diagnostic procedures	can detect	hernias
+gastrointestinal diagnostic procedures	can detect	diverticulosis
+gastrointestinal diagnostic procedures	can detect	cysts
+gastrointestinal diagnostic procedures	can detect	abscesses
+gastrointestinal diagnostic procedures	can detect	strictures
+gastrointestinal diagnostic procedures	can detect	fistulas
+gastrointestinal diagnostic procedures	can detect	perforation
+gastrointestinal diagnostic procedures	can detect	gastritis
+gastrointestinal diagnostic procedures	can detect	colitis
+gastrointestinal diagnostic procedures	can detect	pancreatitis
+gastrointestinal diagnostic procedures	can detect	cholecystitis
+gastrointestinal diagnostic procedures	can detect	appendicitis
+gastrointestinal diagnostic procedures	can detect	diverticulitis
+gastrointestinal diagnostic procedures	can detect	gastroesophageal reflux disease
+gastrointestinal diagnostic procedures	can detect	hiatal hernia
+gastrointestinal diagnostic procedures	can detect	gallstones
+gastrointestinal diagnostic procedures	can detect	kidney stones
+gastrointestinal diagnostic procedures	can detect	liver disease
+gastrointestinal diagnostic procedures	can detect	pancreatic cancer
+gastrointestinal diagnostic procedures	can detect	colorectal cancer
+gastrointestinal diagnostic procedures	can detect	esophageal cancer
+gastrointestinal diagnostic procedures	can detect	stomach cancer
+gastrointestinal diagnostic procedures	can detect	liver cancer
+gastrointestinal diagnostic procedures	can detect	gallbladder cancer
+gastrointestinal diagnostic procedures	can detect	pancreatic cysts
+gastrointestinal diagnostic procedures	can detect	biliary obstruction
+gastrointestinal diagnostic procedures	can detect	gastric outlet obstruction
+gastrointestinal diagnostic procedures	can detect	esophageal strictures
+gastrointestinal diagnostic procedures	can detect	intestinal adhesions
+gastrointestinal diagnostic procedures	can detect	stomach ulcers
+gastrointestinal diagnostic procedures	can detect	esophageal varices
+gastrointestinal diagnostic procedures	can detect	intestinal polyps
+gastrointestinal diagnostic procedures	can detect	abdominal masses
+gastrointestinal diagnostic procedures	can detect	pancreatic abscess
+gastrointestinal diagnostic procedures	can detect	pancreatic pseudocyst
+gastrointestinal diagnostic procedures	can detect	bowel obstruction
+gastrointestinal diagnostic procedures	can detect	peritonitis
+gastrointestinal diagnostic procedures	can detect	appendiceal abscess
+gastrointestinal diagnostic procedures	can detect	hiatal hernia
+gastrointestinal diagnostic procedures	can detect	colon cancer
+gastrointestinal diagnostic procedures	can detect	gastric cancer
+gastrointestinal diagnostic procedures	can detect	duodenal cancer
+gastrointestinal diagnostic procedures	can detect	rectal cancer
+gastrointestinal diagnostic procedures	can detect	anal cancer
+gastrointestinal diagnostic procedures	can detect	polycystic kidney disease
+gastrointestinal diagnostic procedures	can detect	liver cysts
+gastrointestinal diagnostic procedures	can detect	splenic injury
+gastrointestinal diagnostic procedures	can detect	liver cirrhosis
+gastrointestinal diagnostic procedures	can detect	chronic pancreatitis
+gastrointestinal diagnostic procedures	can detect	cholangitis
+gastrointestinal diagnostic procedures	can detect	pseudocyst
+gastrointestinal diagnostic procedures	can detect	cirrhosis
+gastrointestinal diagnostic procedures	can detect	gastrointestinal perforation
+gastrointestinal diagnostic procedures	can detect	acute appendicitis
+gastrointestinal diagnostic procedures	can detect	gastric volvulus
+gastrointestinal diagnostic procedures	can detect	diverticular disease
+gastrointestinal diagnostic procedures	can detect	gastroparesis
+gastrointestinal diagnostic procedures	can detect	gastroenteritis
+gastrointestinal diagnostic procedures	can detect	enterolithiasis
+gastrointestinal diagnostic procedures	can detect	intussusception
+gastrointestinal diagnostic procedures	can detect	peptic ulcers
+gastrointestinal diagnostic procedures	can detect	biliary dyskinesia
+gastrointestinal diagnostic procedures	can detect	achalasia
+gastrointestinal diagnostic procedures	can detect	celiac disease
+gastrointestinal diagnostic procedures	can detect	Crohn's disease
+gastrointestinal diagnostic procedures	can detect	ulcerative colitis
+gastrointestinal diagnostic procedures	can detect	gallbladder polyps
+gastrointestinal diagnostic procedures	can detect	gallbladder sludge
+gastrointestinal diagnostic procedures	can detect	pancreatic pseudocysts

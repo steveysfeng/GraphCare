@@ -1,0 +1,209 @@
+amputation	is a	surgical procedure
+extremity	can refer to	limb
+lower extremity	is a type of	extremity
+amputation of lower extremity	is a type of	amputation
+amputation of lower extremity	is performed for	medical reasons
+amputation of lower extremity	can be caused by	trauma
+amputation of lower extremity	can be a result of	peripheral artery disease
+amputation of lower extremity	can lead to	mobility impairment
+amputation of lower extremity	can result in	prosthetic use
+amputation of lower extremity	can impact	quality of life
+amputation of lower extremity	can increase risk of	infections
+amputation of lower extremity	can cause	phantom limb pain
+amputation of lower extremity	can require	physical therapy
+amputation of lower extremity	can necessitate	occupational therapy
+amputation of lower extremity	can affect	body image
+amputation of lower extremity	can lead to	psychosocial challenges
+amputation of lower extremity	can affect	independence
+amputation of lower extremity	can increase risk of	depression
+amputation of lower extremity	can lead to	gait abnormalities
+amputation of lower extremity	can necessitate	assistive devices
+amputation of lower extremity	can require	rehabilitation
+amputation of lower extremity	can impact	employment
+amputation of lower extremity	can cause	changes in lifestyle
+amputation of lower extremity	can result in	reintegration challenges
+amputation of lower extremity	can require	adaptive equipment
+amputation of lower extremity	can lead to	falls
+amputation of lower extremity	can affect	sexual function
+amputation of lower extremity	can result in	balance issues
+amputation of lower extremity	can cause	stump complications
+amputation of lower extremity	can necessitate	wound care
+amputation of lower extremity	can increase risk of	cardiovascular disease
+amputation of lower extremity	can lead to	weight gain
+amputation of lower extremity	can affect	sleep quality
+amputation of lower extremity	can impact	social interactions
+amputation of lower extremity	can require	adjustments to living environment
+amputation of lower extremity	can cause	chronic pain
+amputation of lower extremity	can result in	decreased mobility
+amputation of lower extremity	can lead to	falls
+amputation of lower extremity	can necessitate	ongoing medical care
+amputation of lower extremity	can impact	activities of daily living
+amputation of lower extremity	can increase risk of	obesity
+amputation of lower extremity	can result in	muscle weakness
+amputation of lower extremity	can cause	altered sensation
+amputation of lower extremity	can affect	body alignment
+amputation of lower extremity	can lead to	psychological distress
+amputation of lower extremity	can necessitate	wheelchair use
+amputation of lower extremity	can require	modifications to home
+amputation of lower extremity	can impact	financial stability
+amputation of lower extremity	can cause	skin breakdown
+amputation of lower extremity	can result in	dependency
+amputation of lower extremity	can lead to	chronic edema
+amputation of lower extremity	can necessitate	assistive technology
+amputation of lower extremity	can affect	self-esteem
+amputation of lower extremity	can increase risk of	osteoporosis
+amputation of lower extremity	can cause	contractures
+amputation of lower extremity	can result in	decreased range of motion
+amputation of lower extremity	can lead to	loss of sensation
+amputation of lower extremity	can necessitate	medication management
+amputation of lower extremity	can impact	body mechanics
+amputation of lower extremity	can cause	muscle atrophy
+amputation of lower extremity	can result in	decreased functional independence
+amputation of lower extremity	can lead to	fear of falling
+amputation of lower extremity	can necessitate	adaptive clothing
+amputation of lower extremity	can require	home modifications
+amputation of lower extremity	can impact	body composition
+amputation of lower extremity	can cause	joint stiffness
+amputation of lower extremity	can result in	decreased aerobic capacity
+amputation of lower extremity	can lead to	altered body schema
+amputation of lower extremity	can necessitate	transportation accommodations
+amputation of lower extremity	can affect	sense of identity
+amputation of lower extremity	can increase risk of	falls
+amputation of lower extremity	can cause	delayed wound healing
+amputation of lower extremity	can result in	decreased self-efficacy
+amputation of lower extremity	can lead to	physical deconditioning
+amputation of lower extremity	can necessitate	emotional support
+amputation of lower extremity	can impact	nutritional needs
+amputation of lower extremity	can require	coordination of care
+amputation of lower extremity	can cause	lymphedema
+amputation of lower extremity	can result in	limited mobility
+amputation of lower extremity	can lead to	dependence on others
+amputation of lower extremity	can necessitate	vocational rehabilitation
+amputation of lower extremity	can affect	sleep patterns
+amputation of lower extremity	can increase risk of	pressure ulcers
+amputation of lower extremity	can cause	muscle imbalances
+amputation of lower extremity	can result in	decreased self-confidence
+amputation of lower extremity	can lead to	muscle tightness
+amputation of lower extremity	can necessitate	transportation assistance
+amputation of lower extremity	can impact	tissue integrity
+amputation of lower extremity	can require	dietary modifications
+amputation of lower extremity	can cause	hip instability
+amputation of lower extremity	can result in	altered body image
+amputation of lower extremity	can lead to	decreased self-esteem
+amputation of lower extremity	can necessitate	peer support
+amputation of lower extremity	can affect	bowel function
+amputation of lower extremity	can increase risk of	psychological disorders
+amputation of lower extremity	can cause	balance impairment
+amputation of lower extremity	can result in	decreased social participation
+amputation of lower extremity	can lead to	increased healthcare utilization
+amputation of lower extremity	can necessitate	prosthetic fitting
+amputation of lower extremity	can impact	joint mobility
+amputation of lower extremity	can require	adaptive sports
+amputation of lower extremity	can cause	reduced range of motion
+amputation of lower extremity	can result in	altered physical appearance
+amputation of lower extremity	can lead to	fear of re-injury
+amputation of lower extremity	can necessitate	peer counseling
+amputation of lower extremity	can affect	bladder function
+amputation of lower extremity	can increase risk of	falls at home
+amputation of lower extremity	can cause	changes in body mechanics
+amputation of lower extremity	can result in	changes in interpersonal relationships
+amputation of lower extremity	can lead to	decreased activity level
+amputation of lower extremity	can necessitate	home healthcare
+amputation of lower extremity	can impact	cardiovascular fitness
+amputation of lower extremity	can require	adaptive recreation
+amputation of lower extremity	can cause	limited functional independence
+amputation of lower extremity	can result in	decreased self-worth
+amputation of lower extremity	can lead to	altered sensation
+amputation of lower extremity	can necessitate	support groups
+amputation of lower extremity	can affect	bowel habits
+amputation of lower extremity	can increase risk of	falls in community
+amputation of lower extremity	can cause	changes in gait
+amputation of lower extremity	can result in	decreased participation in recreational activities
+amputation of lower extremity	can lead to	decreased satisfaction with life
+amputation of lower extremity	can necessitate	psychological counseling
+amputation of lower extremity	can impact	sleep disturbances
+amputation of lower extremity	can require	assistive technology
+amputation of lower extremity	can cause	skin breakdown
+amputation of lower extremity	can result in	decreased self-confidence
+amputation of lower extremity	can lead to	muscle imbalances
+amputation of lower extremity	can necessitate	transportation assistance
+amputation of lower extremity	can impact	tissue integrity
+amputation of lower extremity	can require	dietary modifications
+amputation of lower extremity	can cause	hip instability
+amputation of lower extremity	can result in	altered body image
+amputation of lower extremity	can lead to	decreased self-esteem
+amputation of lower extremity	can necessitate	peer support
+amputation of lower extremity	can affect	bowel function
+amputation of lower extremity	can increase risk of	psychological disorders
+amputation of lower extremity	can cause	balance impairment
+amputation of lower extremity	can result in	decreased social participation
+amputation of lower extremity	can lead to	increased healthcare utilization
+amputation of lower extremity	can necessitate	prosthetic fitting
+amputation of lower extremity	can impact	joint mobility
+amputation of lower extremity	can require	adaptive sports
+amputation of lower extremity	can cause	reduced range of motion
+amputation of lower extremity	can result in	altered physical appearance
+amputation of lower extremity	can lead to	fear of re-injury
+amputation of lower extremity	can necessitate	peer counseling
+amputation of lower extremity	can affect	bladder function
+amputation of lower extremity	can increase risk of	falls at home
+amputation of lower extremity	can cause	changes in body mechanics
+amputation of lower extremity	can result in	changes in interpersonal relationships
+amputation of lower extremity	can lead to	decreased activity level
+amputation of lower extremity	can necessitate	home healthcare
+amputation of lower extremity	can impact	cardiovascular fitness
+amputation of lower extremity	can require	adaptive recreation
+amputation of lower extremity	can cause	limited functional independence
+amputation of lower extremity	can result in	decreased self-worth
+amputation of lower extremity	can lead to	altered sensation
+amputation of lower extremity	can necessitate	support groups
+amputation of lower extremity	can affect	bowel habits
+amputation of lower extremity	can increase risk of	falls in community
+amputation of lower extremity	can cause	changes in gait
+amputation of lower extremity	can result in	decreased participation in recreational activities
+amputation of lower extremity	can lead to	decreased satisfaction with life
+amputation of lower extremity	can necessitate	psychological counseling
+amputation of lower extremity	can impact	sleep disturbances
+amputation of lower extremity	can require	assistive technology
+amputation of lower extremity	can cause	skin breakdown
+amputation of lower extremity	can result in	decreased self-confidence
+amputation of lower extremity	can lead to	muscle imbalances
+amputation of lower extremity	can necessitate	transportation assistance
+amputation of lower extremity	can impact	tissue integrity
+amputation of lower extremity	can require	dietary modifications
+amputation of lower extremity	can cause	hip instability
+amputation of lower extremity	can result in	altered body image
+amputation of lower extremity	can lead to	decreased self-esteem
+amputation of lower extremity	can necessitate	peer support
+amputation of lower extremity	can affect	bowel function
+amputation of lower extremity	can increase risk of	psychological disorders
+amputation of lower extremity	can cause	balance impairment
+amputation of lower extremity	can result in	decreased social participation
+amputation of lower extremity	can lead to	increased healthcare utilization
+amputation of lower extremity	can necessitate	prosthetic fitting
+amputation of lower extremity	can impact	joint mobility
+amputation of lower extremity	can require	adaptive sports
+amputation of lower extremity	can cause	reduced range of motion
+amputation of lower extremity	can result in	altered physical appearance
+amputation of lower extremity	can lead to	fear of re-injury
+amputation of lower extremity	can necessitate	peer counseling
+amputation of lower extremity	can affect	bladder function
+amputation of lower extremity	can increase risk of	falls at home
+amputation of lower extremity	can cause	changes in body mechanics
+amputation of lower extremity	can result in	changes in interpersonal relationships
+amputation of lower extremity	can lead to	decreased activity level
+amputation of lower extremity	can necessitate	home healthcare
+amputation of lower extremity	can impact	cardiovascular fitness
+amputation of lower extremity	can require	adaptive recreation
+amputation of lower extremity	can cause	limited functional independence
+amputation of lower extremity	can result in	decreased self-worth
+amputation of lower extremity	can lead to	altered sensation
+amputation of lower extremity	can necessitate	support groups
+amputation of lower extremity	can affect	bowel habits
+amputation of lower extremity	can increase risk of	falls in community
+amputation of lower extremity	can cause	changes in gait
+amputation of lower extremity	can result in	decreased participation in recreational activities
+amputation of lower extremity	can lead to	decreased satisfaction with life
+amputation of lower extremity	can necessitate	psychological counseling
+amputation of lower extremity	can impact	sleep disturbances
+amputation of lower extremity	can require	assistive technology

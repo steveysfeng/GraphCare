@@ -1,0 +1,103 @@
+hip replacement	is a	surgical procedure
+hip replacement	used for	treating hip arthritis
+partial hip replacement	is a type of	hip replacement
+partial hip replacement	used for	preserving the femoral head
+total hip replacement	is a type of	hip replacement
+total hip replacement	used for	severe hip arthritis
+hip replacement	can improve	mobility
+hip replacement	can relieve	pain
+hip replacement	can restore	joint function
+hip replacement	has risks of	infection
+hip replacement	has risks of	dislocation
+hip replacement	has risks of	blood clots
+hip replacement	has risks of	implant failure
+hip replacement	requires	physical therapy
+hip replacement	requires	post-operative care
+hip replacement	can have	long-term complications
+hip replacement	can result in	improved quality of life
+hip replacement	is recommended for	individuals with severe hip arthritis
+hip replacement	may not be suitable for	individuals with certain medical conditions
+hip replacement	can be performed	with minimally invasive techniques
+hip replacement	can have	varying recovery times
+hip replacement	can be done	under general anesthesia
+hip replacement	can be done	under regional anesthesia
+hip replacement	can be done	under local anesthesia
+hip replacement	has	cost implications
+hip replacement	may need	revision surgery
+hip replacement	may need	future adjustments
+hip replacement	may require	assistive devices post-surgery
+hip replacement	can be done	with different types of implants
+hip replacement	has	different surgical approaches
+hip replacement	may cause	leg length discrepancy
+hip replacement	may result in	restricted range of motion
+hip replacement	may require	lifestyle modifications
+hip replacement	can improve	quality of life
+hip replacement	can lead to	increased physical activity
+hip replacement	can have	limitations in certain activities
+hip replacement	has	rehabilitation programs
+hip replacement	has	pre-operative evaluations
+hip replacement	may require	pre-operative medical clearance
+hip replacement	requires	informed consent
+hip replacement	requires	coordination with healthcare team
+hip replacement	may need	post-operative follow-up appointments
+hip replacement	has	potential complications
+partial hip replacement	is recommended for	individuals with arthritis limited to one side of the hip
+total hip replacement	is recommended for	individuals with severe arthritis in both hips
+partial hip replacement	has	shorter recovery time
+total hip replacement	has	longer recovery time
+partial hip replacement	preserves	bone and tissue
+total hip replacement	replaces	the entire hip joint
+partial hip replacement	may have	lower risk of dislocation
+total hip replacement	may have	higher risk of dislocation
+partial hip replacement	may have	fewer complications
+total hip replacement	may have	more complications
+partial hip replacement	may have	shorter hospital stay
+total hip replacement	may have	longer hospital stay
+partial hip replacement	may have	less post-operative pain
+total hip replacement	may have	more post-operative pain
+partial hip replacement	may require	less physical therapy
+total hip replacement	may require	more physical therapy
+partial hip replacement	may have	better range of motion
+total hip replacement	may have	restricted range of motion
+partial hip replacement	may have	better patient satisfaction
+total hip replacement	may have	varying patient satisfaction
+partial hip replacement	is	a less invasive surgery
+total hip replacement	is	a more extensive surgery
+partial hip replacement	is	a joint preserving surgery
+total hip replacement	is	a joint replacement surgery
+partial hip replacement	is	suitable for younger patients
+total hip replacement	is	suitable for older patients
+partial hip replacement	may require	future revision surgery
+total hip replacement	may require	future revision surgery
+partial hip replacement	has	lower implant costs
+total hip replacement	has	higher implant costs
+partial hip replacement	is	less technically demanding
+total hip replacement	is	more technically demanding
+partial hip replacement	has	shorter operative time
+total hip replacement	has	longer operative time
+partial hip replacement	may have	better post-operative function
+total hip replacement	may have	compromised post-operative function
+partial hip replacement	is	a bone conserving procedure
+total hip replacement	involves	removal of the femoral head and acetabulum
+partial hip replacement	requires	a smaller incision
+total hip replacement	requires	a larger incision
+partial hip replacement	may have	better overall patient outcomes
+total hip replacement	may have	comparable patient outcomes
+partial hip replacement	results in	preserving more natural anatomy
+total hip replacement	results in	completely replacing diseased joint
+partial hip replacement	may be performed	using a posterior approach
+total hip replacement	may be performed	using an anterior approach
+partial hip replacement	may have	better long-term survivorship
+total hip replacement	may have	long-term implant survivorship
+partial hip replacement	may have	lower risk of thigh pain
+total hip replacement	may have	higher risk of thigh pain
+partial hip replacement	may have	lower risk of leg length discrepancy
+total hip replacement	may have	higher risk of leg length discrepancy
+partial hip replacement	has	less blood loss
+total hip replacement	has	higher blood loss
+partial hip replacement	may have	better preservation of bone stock
+total hip replacement	may result in	more bone loss
+partial hip replacement	may have	better function of the hip abductor muscles
+total hip replacement	may have	compromised function of the hip abductor muscles
+partial hip replacement	may have	better gait mechanics
+total hip replacement	may have	altered gait mechanics

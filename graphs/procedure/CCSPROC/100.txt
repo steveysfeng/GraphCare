@@ -1,0 +1,220 @@
+endoscopy	is a	medical procedure
+endoscopy	used for	diagnosis
+endoscopic biopsy	is a type of	endoscopy
+endoscopic biopsy	can detect	ulcers
+endoscopic biopsy	performed on	urinary tract
+endoscopy	used for	urinary tract examination
+urinary tract	can be	visualized with endoscopy
+endoscopy	can identify	tumors in urinary tract
+endoscopic biopsy	can diagnose	urinary tract infections
+endoscopy	can be used for	bladder stone removal
+endoscopic biopsy	can detect	kidney stones
+endoscopy	used for	urethral examination
+endoscopic biopsy	can identify	urethral tumors
+endoscopy	used for	ureter examination
+endoscopic biopsy	can detect	ureteral strictures
+endoscopy	used for	prostate examination
+endoscopic biopsy	can diagnose	prostate cancer
+endoscopy	can visualize	bladder abnormalities
+endoscopic biopsy	can detect	bladder cancer
+endoscopy	used for	urinary incontinence evaluation
+endoscopy	used for	urinary obstruction diagnosis
+endoscopic biopsy	can identify	urinary tract obstruction
+endoscopic biopsy	performed under	anesthesia
+endoscopic biopsy	is a	minimally invasive procedure
+endoscopic biopsy	has	low risk of complications
+endoscopy	can guide	urinary tract surgeries
+endoscopy	used for	postoperative evaluation
+endoscopic biopsy	can monitor	treatment response
+endoscopy	used for	surveillance of urinary tract conditions
+endoscopy	recommended for	patients with recurring urinary tract infections
+endoscopy	useful in	managing urinary tract diseases
+endoscopic biopsy	can assess	bladder function
+endoscopic biopsy	can evaluate	kidney function
+endoscopy	can help	prevent urinary tract complications
+endoscopy	used for	stent placement
+endoscopic biopsy	can diagnose	urethral stricture
+endoscopy	used for	localization of ureteral calculi
+endoscopic biopsy	can guide	urological interventions
+endoscopy	used for	evaluation of urinary fistula
+endoscopic biopsy	essential for	early detection of urinary tract cancers
+endoscopy	can detect	recurring urinary tract infections
+endoscopy	can monitor	treatment effectiveness in urinary tract diseases
+endoscopic biopsy	recommended for	follow-up of urinary tract injuries
+endoscopy	can be used for	biopsy of bladder lesions
+endoscopic biopsy	can diagnose	urethral diverticulum
+endoscopy	used for	evaluation of pelvic organ prolapse
+endoscopic biopsy	can detect	vesicoureteral reflux
+endoscopy	used for	evaluation of urinary retention
+endoscopic biopsy	can identify	urinary fistula
+endoscopy	recommended for	assessment of urinary tract obstructions
+endoscopy	useful for	diagnosing urinary tract abnormalities
+endoscopic biopsy	can guide	management of urinary tract stones
+endoscopic biopsy	can diagnose	urethral stricture
+endoscopy	used for	evaluation of urinary tract trauma
+endoscopic biopsy	can detect	bladder outlet obstruction
+endoscopy	used for	follow-up of urinary tract procedures
+endoscopic biopsy	can diagnose	ureteral stricture
+endoscopy	used for	evaluation of urinary incontinence in women
+endoscopic biopsy	can detect	urethral diverticulum
+endoscopy	recommended for	assessment of renal calculi
+endoscopy	useful for	diagnosing ureteral obstruction
+endoscopic biopsy	can guide	management of urinary tract infections
+endoscopic biopsy	can diagnose	urethral tumor
+endoscopy	used for	evaluation of urinary retention in men
+endoscopic biopsy	can detect	vesicoureteral reflux in children
+endoscopy	recommended for	assessment of bladder stones
+endoscopy	useful for	diagnosing urothelial carcinoma
+endoscopic biopsy	can guide	management of urinary incontinence
+endoscopic biopsy	can diagnose	urethral stricture in women
+endoscopy	used for	evaluation of stress urinary incontinence
+endoscopic biopsy	can detect	bladder outlet obstruction in men
+endoscopy	recommended for	assessment of ureteral calculi
+endoscopy	useful for	diagnosing bladder diverticulum
+endoscopic biopsy	can guide	management of urinary trauma
+endoscopic biopsy	can diagnose	bladder cancer
+endoscopy	used for	evaluation of overactive bladder
+endoscopic biopsy	can detect	vesicoureteral reflux in adults
+endoscopy	recommended for	assessment of ureteral obstruction
+endoscopy	useful for	diagnosing bladder stones
+endoscopic biopsy	can guide	management of urinary retention
+endoscopic biopsy	can diagnose	urethral stricture in men
+endoscopy	used for	evaluation of urinary tract infections
+endoscopic biopsy	can detect	urethral diverticulum in women
+endoscopy	recommended for	assessment of bladder diverticulum
+endoscopy	useful for	diagnosing urethral stricture in women
+endoscopic biopsy	can guide	management of urethral trauma
+endoscopic biopsy	can diagnose	bladder tumor
+endoscopy	used for	evaluation of urinary incontinence in men
+endoscopic biopsy	can detect	vesicoureteral reflux in elderly
+endoscopy	recommended for	assessment of urothelial carcinoma
+endoscopy	useful for	diagnosing bladder outlet obstruction
+endoscopic biopsy	can guide	management of stress urinary incontinence
+endoscopic biopsy	can diagnose	urethral stricture in men
+endoscopy	used for	evaluation of urinary retention in women
+endoscopic biopsy	can detect	bladder outlet obstruction in women
+endoscopy	recommended for	assessment of bladder stones in elderly
+endoscopy	useful for	diagnosing bladder diverticulum in women
+endoscopic biopsy	can guide	management of bladder trauma
+endoscopic biopsy	can diagnose	bladder cancer in men
+endoscopy	used for	evaluation of overactive bladder in women
+endoscopic biopsy	can detect	vesicoureteral reflux in pregnant women
+endoscopy	recommended for	assessment of urethral stricture in men
+endoscopy	useful for	diagnosing bladder stones in women
+endoscopic biopsy	can guide	management of urinary retention in men
+endoscopic biopsy	can diagnose	bladder tumor in women
+endoscopy	used for	evaluation of urinary incontinence in children
+endoscopic biopsy	can detect	bladder outlet obstruction in elderly
+endoscopy	recommended for	assessment of urothelial carcinoma in men
+endoscopy	useful for	diagnosing bladder outlet obstruction in women
+endoscopic biopsy	can guide	management of stress urinary incontinence in women
+endoscopic biopsy	can diagnose	urethral stricture in women in their reproductive years
+endoscopy	used for	evaluation of urinary retention in pregnant women
+endoscopic biopsy	can detect	bladder outlet obstruction in men
+endoscopy	recommended for	assessment of bladder stones in pregnant women
+endoscopy	useful for	diagnosing bladder diverticulum in men
+endoscopic biopsy	can guide	management of bladder trauma in women
+endoscopic biopsy	can diagnose	bladder cancer in women in their reproductive years
+endoscopy	used for	evaluation of overactive bladder in children
+endoscopic biopsy	can detect	vesicoureteral reflux in men
+endoscopy	recommended for	assessment of urethral stricture in women in their reproductive years
+endoscopy	useful for	diagnosing bladder stones in men
+endoscopic biopsy	can guide	management of urinary retention in women
+endoscopic biopsy	can diagnose	bladder tumor in women in their postmenopausal years
+endoscopy	used for	evaluation of urinary incontinence in pregnant women
+endoscopic biopsy	can detect	bladder outlet obstruction in pregnant women
+endoscopy	recommended for	assessment of urothelial carcinoma in women in their reproductive years
+endoscopy	useful for	diagnosing bladder outlet obstruction in men
+endoscopic biopsy	can guide	management of stress urinary incontinence in children
+endoscopic biopsy	can diagnose	urethral stricture in women in their postmenopausal years
+endoscopy	used for	evaluation of urinary retention in men in their postmenopausal years
+endoscopic biopsy	can detect	bladder outlet obstruction in women in their reproductive years
+endoscopy	recommended for	assessment of bladder stones in men
+endoscopy	useful for	diagnosing bladder diverticulum in women in their postmenopausal years
+endoscopic biopsy	can guide	management of bladder trauma in pregnant women
+endoscopic biopsy	can diagnose	bladder cancer in men in their postmenopausal years
+endoscopy	used for	evaluation of overactive bladder in men
+endoscopic biopsy	can detect	vesicoureteral reflux in women in their reproductive years
+endoscopy	recommended for	assessment of urethral stricture in women in their postmenopausal years
+endoscopy	useful for	diagnosing bladder stones in women in their reproductive years
+endoscopic biopsy	can guide	management of urinary retention in pregnant women
+endoscopic biopsy	can diagnose	bladder tumor in women in their postmenopausal years
+endoscopy	used for	evaluation of urinary incontinence in men in their postmenopausal years
+endoscopic biopsy	can detect	bladder outlet obstruction in women in their postmenopausal years
+endoscopy	recommended for	assessment of urothelial carcinoma in men in their postmenopausal years
+endoscopy	useful for	diagnosing bladder outlet obstruction in women in their reproductive years
+endoscopic biopsy	can guide	management of stress urinary incontinence in women in their postmenopausal years
+endoscopic biopsy	can diagnose	urethral stricture in women with reproductive problems
+endoscopy	used for	evaluation of urinary retention in men with reproductive problems
+endoscopic biopsy	can detect	bladder outlet obstruction in men in their reproductive years
+endoscopy	recommended for	assessment of bladder stones in women in their postmenopausal years
+endoscopy	useful for	diagnosing bladder diverticulum in men in their reproductive years
+endoscopic biopsy	can guide	management of bladder trauma in women in their reproductive years
+endoscopic biopsy	can diagnose	bladder cancer in women with reproductive problems
+endoscopy	used for	evaluation of overactive bladder in children with urinary problems
+endoscopic biopsy	can detect	vesicoureteral reflux in women in their postmenopausal years
+endoscopy	recommended for	assessment of urethral stricture in women with reproductive problems
+endoscopy	useful for	diagnosing bladder stones in men in their reproductive years
+endoscopic biopsy	can guide	management of urinary retention in women with reproductive problems
+endoscopic biopsy	can diagnose	bladder tumor in women with reproductive problems
+endoscopy	used for	evaluation of urinary incontinence in pregnant women with urinary problems
+endoscopic biopsy	can detect	bladder outlet obstruction in pregnant women with urinary problems
+endoscopy	recommended for	assessment of urothelial carcinoma in women with reproductive problems
+endoscopy	useful for	diagnosing bladder outlet obstruction in men in their reproductive years
+endoscopic biopsy	can guide	management of stress urinary incontinence in children with urinary problems
+endoscopic biopsy	can diagnose	urethral stricture in women with postmenopausal problems
+endoscopy	used for	evaluation of urinary retention in men with postmenopausal problems
+endoscopic biopsy	can detect	bladder outlet obstruction in women in their reproductive years with urinary problems
+endoscopy	recommended for	assessment of bladder stones in men with reproductive problems
+endoscopy	useful for	diagnosing bladder diverticulum in women with postmenopausal problems
+endoscopic biopsy	can guide	management of bladder trauma in pregnant women with urinary problems
+endoscopic biopsy	can diagnose	bladder cancer in men with postmenopausal problems
+endoscopy	used for	evaluation of overactive bladder in men with reproductive problems
+endoscopic biopsy	can detect	vesicoureteral reflux in women in their reproductive years with urinary problems
+endoscopy	recommended for	assessment of urethral stricture in women with postmenopausal problems
+endoscopy	useful for	diagnosing bladder stones in women with reproductive problems
+endoscopic biopsy	can guide	management of urinary retention in pregnant women with urinary problems
+endoscopic biopsy	can diagnose	bladder tumor in women with postmenopausal problems
+endoscopy	used for	evaluation of urinary incontinence in men with postmenopausal problems
+endoscopic biopsy	can detect	bladder outlet obstruction in women in their postmenopausal years with urinary problems
+endoscopy	recommended for	assessment of urothelial carcinoma in men with postmenopausal problems
+endoscopy	useful for	diagnosing bladder outlet obstruction in women with reproductive problems
+endoscopic biopsy	can guide	management of stress urinary incontinence in women with postmenopausal problems
+endoscopic biopsy	can diagnose	urethral stricture in women with reproductive problems and underlying medical conditions
+endoscopy	used for	evaluation of urinary retention in men with reproductive problems and underlying medical conditions
+endoscopic biopsy	can detect	bladder outlet obstruction in men in their reproductive years with urinary problems
+endoscopy	recommended for	assessment of bladder stones in women with postmenopausal problems
+endoscopy	useful for	diagnosing bladder diverticulum in men with reproductive problems
+endoscopic biopsy	can guide	management of bladder trauma in women with reproductive problems
+endoscopic biopsy	can diagnose	bladder cancer in women with reproductive problems and family history
+endoscopy	used for	evaluation of overactive bladder in children with urinary problems and behavioral issues
+endoscopic biopsy	can detect	vesicoureteral reflux in women with postmenopausal problems and underlying medical conditions
+endoscopy	recommended for	assessment of urethral stricture in women with reproductive problems and underlying medical conditions
+endoscopy	useful for	diagnosing bladder stones in men with reproductive problems
+endoscopic biopsy	can guide	management of urinary retention in women with reproductive problems and underlying medical conditions
+endoscopic biopsy	can diagnose	bladder tumor in women with postmenopausal problems and family history
+endoscopy	used for	evaluation of urinary incontinence in pregnant women with urinary problems and obesity
+endoscopic biopsy	can detect	bladder outlet obstruction in pregnant women with urinary problems and obesity
+endoscopy	recommended for	assessment of urothelial carcinoma in women with reproductive problems and underlying medical conditions
+endoscopy	useful for	diagnosing bladder outlet obstruction in men with postmenopausal problems
+endoscopic biopsy	can guide	management of stress urinary incontinence in children with urinary problems and neurological disorders
+endoscopic biopsy	can diagnose	urethral stricture in women with postmenopausal problems and underlying medical conditions
+endoscopy	used for	evaluation of urinary retention in men with postmenopausal problems and underlying medical conditions
+endoscopic biopsy	can detect	bladder outlet obstruction in women in their reproductive years with urinary problems and obesity
+endoscopy	recommended for	assessment of bladder stones in men with reproductive problems and underlying medical conditions
+endoscopy	useful for	diagnosing bladder diverticulum in women with postmenopausal problems and underlying medical conditions
+endoscopic biopsy	can guide	management of bladder trauma in pregnant women with urinary problems and obesity
+endoscopic biopsy	can diagnose	bladder cancer in men with postmenopausal problems and family history
+endoscopy	used for	evaluation of overactive bladder in men with reproductive problems and underlying medical conditions
+endoscopic biopsy	can detect	vesicoureteral reflux in women in their reproductive years with urinary problems and obesity
+endoscopy	recommended for	assessment of urethral stricture in women with postmenopausal problems and underlying medical conditions
+endoscopy	useful for	diagnosing bladder stones in women with reproductive problems and underlying medical conditions
+endoscopic biopsy	can guide	management of urinary retention in pregnant women with urinary problems and obesity
+endoscopic biopsy	can diagnose	bladder tumor in women with postmenopausal problems and family history of bladder cancer
+endoscopy	used for	evaluation of urinary incontinence in men with postmenopausal problems and underlying medical conditions
+endoscopic biopsy	can detect	bladder outlet obstruction in women in their postmenopausal years with urinary problems and obesity
+endoscopy	recommended for	assessment of urothelial carcinoma in men with postmenopausal problems and underlying medical conditions
+endoscopy	useful for	diagnosing bladder outlet obstruction in women with reproductive problems and underlying medical conditions
+endoscopic biopsy	can guide	management of stress urinary incontinence in women with postmenopausal problems and neurological disorders
+endoscopic biopsy	can diagnose	urethral stricture in women with reproductive problems	underlying medical conditions	and recurrent urinary tract infections
+endoscopy	used for	evaluation of urinary retention in men with reproductive problems	underlying medical conditions	and prostate enlargement

@@ -1,0 +1,29 @@
+joint replacement surgery	is a	therapeutic procedure
+joint replacement surgery	used for	treating joint damage
+joint replacement surgery	can improve	joint function
+arthroscopy	is a	therapeutic procedure
+arthroscopy	used for	diagnosing and treating joint problems
+arthroscopy	can repair	damaged cartilage
+arthroscopic meniscectomy	is a type of	arthroscopy
+arthroscopic meniscectomy	used for	treating meniscus tears
+arthroscopic meniscectomy	can relieve	pain and improve knee function
+joint fusion surgery	is a	therapeutic procedure
+joint fusion surgery	used for	stabilizing a joint
+joint fusion surgery	can eliminate	joint pain
+joint fusion surgery	can result in	limited movement in the joint
+joint aspiration	is a	therapeutic procedure
+joint aspiration	used for	removing fluid or reducing pressure in a joint
+joint aspiration	can provide	pain relief
+joint aspiration	can diagnose	joint infections or diseases
+joint injection	is a	therapeutic procedure
+joint injection	used for	reducing pain and inflammation in a joint
+joint injection	can provide	temporary relief
+joint injection	can be combined with	physical therapy for long-term management
+joint debridement	is a	therapeutic procedure
+joint debridement	used for	removing damaged tissue from a joint
+joint debridement	can improve	joint function
+joint debridement	can be performed	as part of a larger surgery
+joint manipulation	is a	therapeutic procedure
+joint manipulation	used for	restoring joint mobility
+joint manipulation	can help	relieve pain and stiffness
+joint manipulation	should be performed	by a trained healthcare professional

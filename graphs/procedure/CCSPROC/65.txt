@@ -1,0 +1,119 @@
+bone marrow biopsy	is a	medical procedure
+bone marrow biopsy	used for	diagnosis
+bone marrow biopsy	involves	extracting bone marrow tissue
+bone marrow biopsy	can detect	cancer
+bone marrow biopsy	is performed	by a hematologist
+hematologist	is a	medical specialist
+hematologist	performs	bone marrow biopsies
+bone marrow biopsy	can determine	the stage of cancer
+bone marrow biopsy	can evaluate	the effectiveness of treatment
+bone marrow biopsy	can detect	blood disorders
+bone marrow biopsy	can identify	abnormal blood cell production
+bone marrow biopsy	can diagnose	leukemia
+bone marrow biopsy	can diagnose	lymphoma
+bone marrow biopsy	can diagnose	multiple myeloma
+bone marrow biopsy	can identify	bone marrow diseases
+bone marrow biopsy	can evaluate	bone marrow function
+bone marrow biopsy	can monitor	disease progression
+bone marrow biopsy	can guide	treatment decisions
+bone marrow biopsy	can assess	response to therapy
+bone marrow biopsy	can determine	the need for further treatment
+bone marrow biopsy	can identify	infections
+bone marrow biopsy	can detect	inflammation
+bone marrow biopsy	can diagnose	autoimmune diseases
+bone marrow biopsy	can detect	bone marrow fibrosis
+bone marrow biopsy	can detect	metastatic cancer
+bone marrow biopsy	can diagnose	aplastic anemia
+bone marrow biopsy	can diagnose	myelodysplastic syndrome
+bone marrow biopsy	can diagnose	myeloproliferative disorders
+bone marrow biopsy	can diagnose	hemophagocytic lymphohistiocytosis
+bone marrow biopsy	can detect	amyloidosis
+bone marrow biopsy	can detect	Gaucher disease
+bone marrow biopsy	can detect	Niemann-Pick disease
+bone marrow biopsy	can detect	histiocytosis
+bone marrow biopsy	can detect	systemic mastocytosis
+bone marrow biopsy	can detect	hemochromatosis
+bone marrow biopsy	can detect	thalassemia
+bone marrow biopsy	can detect	sickle cell disease
+bone marrow biopsy	can diagnose	graft-versus-host disease
+bone marrow biopsy	can diagnose	hairy cell leukemia
+bone marrow biopsy	can diagnose	myelofibrosis
+bone marrow biopsy	can diagnose	essential thrombocythemia
+bone marrow biopsy	can diagnose	polycythemia vera
+bone marrow biopsy	can diagnose	chronic myeloid leukemia
+bone marrow biopsy	can diagnose	acute myeloid leukemia
+bone marrow biopsy	can diagnose	acute lymphoblastic leukemia
+bone marrow biopsy	can diagnose	chronic lymphocytic leukemia
+bone marrow biopsy	can diagnose	mantle cell lymphoma
+bone marrow biopsy	can diagnose	follicular lymphoma
+bone marrow biopsy	can diagnose	marginal zone lymphoma
+bone marrow biopsy	can diagnose	hairy cell leukemia
+bone marrow biopsy	can diagnose	Waldenstrom macroglobulinemia
+bone marrow biopsy	can diagnose	mycosis fungoides
+bone marrow biopsy	can diagnose	Sezary syndrome
+bone marrow biopsy	can diagnose	non-Hodgkin lymphoma
+bone marrow biopsy	can diagnose	Hodgkin lymphoma
+bone marrow biopsy	can diagnose	myeloma
+bone marrow biopsy	can diagnose	leukemia
+bone marrow biopsy	can diagnose	lymphoma
+bone marrow biopsy	can diagnose	blood cancer
+bone marrow biopsy	can diagnose	bone marrow disorders
+bone marrow biopsy	can diagnose	blood cell disorders
+bone marrow biopsy	can diagnose	immune system disorders
+bone marrow biopsy	can diagnose	genetic disorders
+bone marrow biopsy	can diagnose	metabolic disorders
+bone marrow biopsy	can diagnose	infectious diseases
+bone marrow biopsy	can diagnose	inflammatory diseases
+bone marrow biopsy	can diagnose	endocrine disorders
+bone marrow biopsy	can diagnose	hepatic diseases
+bone marrow biopsy	can diagnose	renal diseases
+bone marrow biopsy	can diagnose	gastrointestinal diseases
+bone marrow biopsy	can diagnose	respiratory diseases
+bone marrow biopsy	can diagnose	cardiovascular diseases
+bone marrow biopsy	can diagnose	neurological diseases
+bone marrow biopsy	can diagnose	musculoskeletal diseases
+bone marrow biopsy	can diagnose	dermatological diseases
+bone marrow biopsy	can diagnose	hematologic diseases
+bone marrow biopsy	can diagnose	oncologic diseases
+bone marrow biopsy	can diagnose	hereditary diseases
+bone marrow biopsy	can diagnose	developmental disorders
+bone marrow biopsy	can diagnose	neoplastic diseases
+bone marrow biopsy	can diagnose	autoimmune disorders
+bone marrow biopsy	can diagnose	rare diseases
+bone marrow biopsy	can determine	the cause of anemia
+bone marrow biopsy	can detect	abnormal levels of blood cells
+bone marrow biopsy	can identify	changes in bone marrow quality
+bone marrow biopsy	can assess	the need for bone marrow transplantation
+bone marrow biopsy	can monitor	response to bone marrow transplantation
+bone marrow biopsy	can identify	bone marrow failure
+bone marrow biopsy	can diagnose	myeloid neoplasms
+bone marrow biopsy	can diagnose	lymphoproliferative disorders
+bone marrow biopsy	can diagnose	disorders of iron metabolism
+bone marrow biopsy	can diagnose	bleeding disorders
+bone marrow biopsy	can diagnose	coagulation disorders
+bone marrow biopsy	can diagnose	platelet disorders
+bone marrow biopsy	can diagnose	red blood cell disorders
+bone marrow biopsy	can diagnose	white blood cell disorders
+bone marrow biopsy	can diagnose	immunodeficiency disorders
+bone marrow biopsy	can diagnose	immunoproliferative diseases
+bone marrow biopsy	can diagnose	lymphocyte disorders
+bone marrow biopsy	can diagnose	antigen receptor rearrangement
+bone marrow biopsy	can diagnose	chromosomal abnormalities
+bone marrow biopsy	can diagnose	genetic mutations
+bone marrow biopsy	can diagnose	chromosomal disorders
+bone marrow biopsy	can diagnose	metabolic disorders
+bone marrow biopsy	can diagnose	vitamin deficiencies
+bone marrow biopsy	can diagnose	mineral deficiencies
+bone marrow biopsy	can diagnose	hematologic deficiencies
+bone marrow biopsy	can diagnose	immunologic deficiencies
+bone marrow biopsy	can diagnose	neurological deficiencies
+bone marrow biopsy	can diagnose	cardiac deficiencies
+bone marrow biopsy	can diagnose	renal deficiencies
+bone marrow biopsy	can diagnose	pulmonary deficiencies
+bone marrow biopsy	can diagnose	hepatic deficiencies
+bone marrow biopsy	can diagnose	gastrointestinal deficiencies
+bone marrow biopsy	can diagnose	endocrine deficiencies
+bone marrow biopsy	can diagnose	musculoskeletal deficiencies
+bone marrow biopsy	can diagnose	dermatological deficiencies
+bone marrow biopsy	can diagnose	oncologic deficiencies
+bone marrow biopsy	can diagnose	hematologic deficiencies

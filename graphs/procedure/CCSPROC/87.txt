@@ -1,0 +1,89 @@
+laparoscopy	is a	medical procedure
+laparoscopy	used for	diagnosis
+laparoscopy	used for	treatment
+laparoscopy	used for	minimally invasive surgery
+laparoscopy	used for	biopsy
+laparoscopy	used for	removal
+laparoscopy	used for	examination
+laparoscopy	used for	visualization
+laparoscopy	used for	intervention
+laparoscopy	used for	repair
+laparoscopy	used for	resection
+laparoscopy	used for	excision
+laparoscopy	used for	drainage
+laparoscopy	used for	reconstruction
+laparoscopy	used for	sampling
+laparoscopy	used for	exploration
+laparoscopy	used for	staging
+laparoscopy	used for	monitoring
+laparoscopy	used for	localization
+laparoscopy	used for	identification
+laparoscopy	used for	closure
+laparoscopy	used for	dissection
+laparoscopy	used for	extraction
+laparoscopy	used for	repair
+laparoscopy	used for	examination
+laparoscopy	used for	visualization
+laparoscopy	used for	intervention
+laparoscopy	used for	biopsy
+laparoscopy	used for	removal
+laparoscopy	used for	treatment
+laparoscopy	used for	diagnosis
+laparoscopy	is used in	gastroenterology
+laparoscopy	is used in	digestive system
+laparoscopy	is used in	gastrointestinal surgery
+laparoscopy	is used in	abdominal region
+laparoscopy	is used in	bariatric surgery
+laparoscopy	is used in	hernia repair
+laparoscopy	is used in	colorectal surgery
+laparoscopy	is used in	gallbladder surgery
+laparoscopy	is used in	appendectomy
+laparoscopy	is used in	gastric bypass
+laparoscopy	is used in	cholecystectomy
+laparoscopy	is used in	splenectomy
+laparoscopy	is used in	colectomy
+laparoscopy	is used in	resection
+laparoscopy	is used in	gastrectomy
+laparoscopy	is used in	adhesiolysis
+laparoscopy	is used in	myomectomy
+laparoscopy	is used in	cystectomy
+laparoscopy	is used in	fundoplication
+laparoscopy	is used in	pyloroplasty
+laparoscopy	is used in	oophorectomy
+laparoscopy	is used in	salpingectomy
+laparoscopy	is used in	sigmoidectomy
+laparoscopy	is used in	lymph node dissection
+laparoscopy	is used in	excision
+laparoscopy	is used in	repair
+laparoscopy	is used in	biopsy
+laparoscopy	is used in	resection
+laparoscopy	is used in	removal
+laparoscopy	is used in	examination
+laparoscopy	is used in	visualization
+laparoscopy	is used in	intervention
+laparoscopy	is used in	sampling
+laparoscopy	is used in	exploration
+laparoscopy	is used in	staging
+laparoscopy	is used in	monitoring
+laparoscopy	is used in	localization
+laparoscopy	is used in	identification
+laparoscopy	is used in	closure
+laparoscopy	is used in	dissection
+laparoscopy	is used in	extraction
+laparoscopy	is used in	repair
+laparoscopy	is used in	examination
+laparoscopy	is used in	visualization
+laparoscopy	is used in	intervention
+laparoscopy	is used in	diagnosis
+laparoscopy	is used in	treatment
+laparoscopy	is used in	minimally invasive surgery
+laparoscopy	is used in	biopsy
+laparoscopy	is used in	removal
+laparoscopy	is used in	examination
+laparoscopy	is used in	visualization
+laparoscopy	is used in	intervention
+laparoscopy	is used in	repair
+laparoscopy	is used in	resection
+laparoscopy	is used in	excision
+laparoscopy	is used in	drainage
+laparoscopy	is used in	reconstruction

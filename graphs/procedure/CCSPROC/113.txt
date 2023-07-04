@@ -1,0 +1,275 @@
+turp	is a	surgical procedure
+turp	used for	treating enlarged prostate
+urinary retention	can be treated by	turp
+turp	can cause	urinary incontinence
+turp	can cause	erectile dysfunction
+turp	can result in	retrograde ejaculation
+turp	can lead to	bladder infection
+turp	can result in	blood in urine
+turp	can lead to	urethral stricture
+turp	can cause	bladder injury
+turp	can cause	urinary tract infection
+turp	can result in	need for repeat procedure
+turp	can cause	complications
+turp	can lead to	sexual dysfunction
+turp	can cause	dry orgasm
+turp	can cause	pain during ejaculation
+turp	can lead to	loss of fertility
+turp	can cause	hyponatremia
+turp	can result in	urinary fistula
+turp	can cause	blood loss
+turp	can lead to	anesthesia complications
+turp	can cause	scarring of urethra
+turp	can result in	urinary urgency
+turp	can lead to	bladder neck contracture
+turp	can cause	urinary frequency
+turp	can cause	urinary retention
+turp	can result in	ejaculatory dysfunction
+turp	can lead to	bladder stone formation
+turp	can cause	urinary stricture
+turp	can lead to	urethral stenosis
+turp	can result in	postoperative bleeding
+turp	can cause	urinary obstruction
+turp	can lead to	urinary leakage
+turp	can cause	urine blockage
+turp	can result in	urethral obstruction
+turp	can lead to	urinary incontinence
+turp	can result in	enlarged prostate relief
+turp	can lead to	urinary flow improvement
+turp	can cause	ejaculation problems
+turp	can lead to	semen flowing into bladder
+turp	can result in	prostate tissue removal
+turp	can lead to	improved quality of life
+turp	can cause	urinary urgency and frequency
+turp	can lead to	reduced risk of urinary tract infections
+turp	can result in	improved urinary symptoms
+turp	can cause	retrograde ejaculation in some cases
+turp	can result in	relief from urinary symptoms
+turp	can lead to	reduced urinary retention
+turp	can cause	ejaculatory dysfunction in some cases
+turp	can lead to	reduced bladder obstruction
+turp	can result in	improved urine flow
+turp	can cause	increased risk of erectile dysfunction
+turp	can lead to	improved bladder emptying
+turp	can result in	decreased need for medication
+turp	can cause	infection in some cases
+turp	can lead to	improved sleep due to reduced nighttime urination
+turp	can result in	improved bladder control
+turp	can cause	prostate capsule perforation
+turp	can lead to	reduced incidence of acute urinary retention
+turp	can result in	reduced risk of kidney damage
+turp	can cause	retrograde ejaculation in most cases
+turp	can lead to	improved urinary flow rate
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	urinary tract infection in some cases
+turp	can lead to	decreased prostate size
+turp	can result in	decreased frequency of urination
+turp	can cause	clot retention
+turp	can lead to	reduced risk of bladder stones
+turp	can result in	reduced risk of urinary tract obstruction
+turp	can cause	increased risk of urethral stricture
+turp	can lead to	reduced risk of chronic kidney disease
+turp	can result in	decreased urgency and frequency of urination
+turp	can cause	hyponatremia in some cases
+turp	can lead to	improved urine flow and stream
+turp	can result in	decreased post-void residual urine volume
+turp	can cause	blood clot formation
+turp	can lead to	reduced risk of urinary urgency
+turp	can result in	decreased nocturia
+turp	can cause	retrograde ejaculation in many cases
+turp	can lead to	improved bladder emptying and control
+turp	can result in	reduced risk of bladder neck contracture
+turp	can cause	urinary tract infection in most cases
+turp	can lead to	decreased postoperative bleeding
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	bladder perforation
+turp	can lead to	improved urinary symptoms and quality of life
+turp	can result in	decreased risk of repeated urinary retention
+turp	can cause	postoperative pain
+turp	can lead to	reduced risk of bladder neck obstruction
+turp	can result in	decreased risk of urinary leakage
+turp	can cause	increased risk of urinary stricture
+turp	can lead to	reduced risk of urethral stricture
+turp	can result in	decreased risk of ejaculatory dysfunction
+turp	can cause	blood transfusion requirement
+turp	can lead to	improved urinary symptoms and flow rate
+turp	can result in	decreased chance of urinary fistula
+turp	can cause	urinary incontinence in some cases
+turp	can lead to	reduced risk of bladder stone formation
+turp	can result in	relief from lower urinary tract symptoms
+turp	can cause	urinary stricture in some cases
+turp	can lead to	reduced risk of urethral stenosis
+turp	can result in	decreased risk of postoperative bleeding
+turp	can cause	increased risk of urinary obstruction
+turp	can lead to	improved quality of life and sexual function
+turp	can result in	decreased risk of urine blockage
+turp	can cause	clot retention in some cases
+turp	can lead to	reduced risk of urinary urgency and frequency
+turp	can result in	decreased risk of prostate cancer
+turp	can cause	infection in many cases
+turp	can lead to	improved sleep
+turp	can result in	decreased risk of bladder control problems
+turp	can cause	prostate capsule perforation in some cases
+turp	can lead to	reduced risk of acute urinary retention
+turp	can result in	decreased risk of kidney damage
+turp	can cause	increased risk of retrograde ejaculation
+turp	can lead to	improved urinary flow rate and stream
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	urinary tract infection in many cases
+turp	can lead to	decreased frequency of urination
+turp	can result in	decreased risk of clot retention
+turp	can cause	increased risk of bladder stones
+turp	can lead to	reduced risk of urinary tract obstruction
+turp	can result in	decreased risk of urethral stricture
+turp	can cause	decreased risk of hyponatremia
+turp	can lead to	improved urine flow	stream and bladder control
+turp	can result in	reduced risk of bladder neck contracture
+turp	can cause	decreased risk of blood clot formation
+turp	can lead to	improved bladder emptying
+turp	can result in	decreased urgency and frequency of urination
+turp	can cause	retrograde ejaculation in most cases
+turp	can lead to	improved quality of life
+turp	can result in	decreased post-void residual urine volume
+turp	can cause	blood clot formation in some cases
+turp	can lead to	reduced risk of urinary urgency
+turp	can result in	decreased nocturia
+turp	can cause	increased risk of retrograde ejaculation in many cases
+turp	can lead to	improved bladder emptying and control
+turp	can result in	decreased risk of bladder neck contracture
+turp	can cause	urinary tract infection in most cases
+turp	can lead to	decreased postoperative bleeding
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	bladder perforation
+turp	can lead to	improved urinary symptoms and quality of life
+turp	can result in	decreased risk of repeated urinary retention
+turp	can cause	postoperative pain
+turp	can lead to	reduced risk of bladder neck obstruction
+turp	can result in	decreased risk of urinary leakage
+turp	can cause	increased risk of urinary stricture
+turp	can lead to	reduced risk of urethral stricture
+turp	can result in	decreased risk of ejaculatory dysfunction
+turp	can cause	blood transfusion requirement
+turp	can lead to	improved urinary symptoms and flow rate
+turp	can result in	decreased chance of urinary fistula
+turp	can cause	urinary incontinence in some cases
+turp	can lead to	reduced risk of bladder stone formation
+turp	can result in	relief from lower urinary tract symptoms
+turp	can cause	urinary stricture in some cases
+turp	can lead to	reduced risk of urethral stenosis
+turp	can result in	decreased risk of postoperative bleeding
+turp	can cause	increased risk of urinary obstruction
+turp	can lead to	improved quality of life and sexual function
+turp	can result in	decreased risk of urine blockage
+turp	can cause	clot retention in some cases
+turp	can lead to	reduced risk of urinary urgency and frequency
+turp	can result in	decreased risk of prostate cancer
+turp	can cause	infection in many cases
+turp	can lead to	improved sleep
+turp	can result in	decreased risk of bladder control problems
+turp	can cause	prostate capsule perforation in some cases
+turp	can lead to	reduced risk of acute urinary retention
+turp	can result in	decreased risk of kidney damage
+turp	can cause	increased risk of retrograde ejaculation
+turp	can lead to	improved urinary flow rate and stream
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	urinary tract infection in many cases
+turp	can lead to	decreased frequency of urination
+turp	can result in	decreased risk of clot retention
+turp	can cause	increased risk of bladder stones
+turp	can lead to	reduced risk of urinary tract obstruction
+turp	can result in	decreased risk of urethral stricture
+turp	can cause	decreased risk of hyponatremia
+turp	can lead to	improved urine flow	stream and bladder control
+turp	can result in	reduced risk of bladder neck contracture
+turp	can cause	decreased risk of blood clot formation
+turp	can lead to	improved bladder emptying
+turp	can result in	decreased urgency and frequency of urination
+turp	can cause	retrograde ejaculation in most cases
+turp	can lead to	improved quality of life
+turp	can result in	decreased post-void residual urine volume
+turp	can cause	blood clot formation in some cases
+turp	can lead to	reduced risk of urinary urgency
+turp	can result in	decreased nocturia
+turp	can cause	increased risk of retrograde ejaculation in many cases
+turp	can lead to	improved bladder emptying and control
+turp	can result in	decreased risk of bladder neck contracture
+turp	can cause	urinary tract infection in most cases
+turp	can lead to	decreased postoperative bleeding
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	bladder perforation
+turp	can lead to	improved urinary symptoms and quality of life
+turp	can result in	decreased risk of repeated urinary retention
+turp	can cause	postoperative pain
+turp	can lead to	reduced risk of bladder neck obstruction
+turp	can result in	decreased risk of urinary leakage
+turp	can cause	increased risk of urinary stricture
+turp	can lead to	reduced risk of urethral stricture
+turp	can result in	decreased risk of ejaculatory dysfunction
+turp	can cause	blood transfusion requirement
+turp	can lead to	improved urinary symptoms and flow rate
+turp	can result in	decreased chance of urinary fistula
+turp	can cause	urinary incontinence in some cases
+turp	can lead to	reduced risk of bladder stone formation
+turp	can result in	relief from lower urinary tract symptoms
+turp	can cause	urinary stricture in some cases
+turp	can lead to	reduced risk of urethral stenosis
+turp	can result in	decreased risk of postoperative bleeding
+turp	can cause	increased risk of urinary obstruction
+turp	can lead to	improved quality of life and sexual function
+turp	can result in	decreased risk of urine blockage
+turp	can cause	clot retention in some cases
+turp	can lead to	reduced risk of urinary urgency and frequency
+turp	can result in	decreased risk of prostate cancer
+turp	can cause	infection in many cases
+turp	can lead to	improved sleep
+turp	can result in	decreased risk of bladder control problems
+turp	can cause	prostate capsule perforation in some cases
+turp	can lead to	reduced risk of acute urinary retention
+turp	can result in	decreased risk of kidney damage
+turp	can cause	increased risk of retrograde ejaculation
+turp	can lead to	improved urinary flow rate and stream
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	urinary tract infection in many cases
+turp	can lead to	decreased frequency of urination
+turp	can result in	decreased risk of clot retention
+turp	can cause	increased risk of bladder stones
+turp	can lead to	reduced risk of urinary tract obstruction
+turp	can result in	decreased risk of urethral stricture
+turp	can cause	decreased risk of hyponatremia
+turp	can lead to	improved urine flow	stream and bladder control
+turp	can result in	reduced risk of bladder neck contracture
+turp	can cause	decreased risk of blood clot formation
+turp	can lead to	improved bladder emptying
+turp	can result in	decreased urgency and frequency of urination
+turp	can cause	retrograde ejaculation in most cases
+turp	can lead to	improved quality of life
+turp	can result in	decreased post-void residual urine volume
+turp	can cause	blood clot formation in some cases
+turp	can lead to	reduced risk of urinary urgency
+turp	can result in	decreased nocturia
+turp	can cause	increased risk of retrograde ejaculation in many cases
+turp	can lead to	improved bladder emptying and control
+turp	can result in	decreased risk of bladder neck contracture
+turp	can cause	urinary tract infection in most cases
+turp	can lead to	decreased postoperative bleeding
+turp	can result in	decreased risk of urinary incontinence
+turp	can cause	bladder perforation
+turp	can lead to	improved urinary symptoms and quality of life
+turp	can result in	decreased risk of repeated urinary retention
+turp	can cause	postoperative pain
+turp	can lead to	reduced risk of bladder neck obstruction
+turp	can result in	decreased risk of urinary leakage
+turp	can cause	increased risk of urinary stricture
+turp	can lead to	reduced risk of urethral stricture
+turp	can result in	decreased risk of ejaculatory dysfunction
+turp	can cause	blood transfusion requirement
+turp	can lead to	improved urinary symptoms and flow rate
+turp	can result in	decreased chance of urinary fistula
+turp	can cause	urinary incontinence in some cases
+turp	can lead to	reduced risk of bladder stone formation
+turp	can result in	relief from lower urinary tract symptoms
+turp	can cause	urinary stricture in some cases
+turp	can lead to	reduced risk of urethral stenosis
+turp	can result in	decreased risk of postoperative bleeding
+turp	can cause	increased risk of urinary obstruction
+turp	can lead to	improved quality of life and sexual function

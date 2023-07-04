@@ -1,0 +1,212 @@
+mastectomy	is a	surgical procedure
+mastectomy	used for	treatment
+mastectomy	performed on	breast
+mastectomy	can be done	for cancer
+mastectomy	can be followed by	breast reconstruction
+breast reconstruction	is a type of	surgery
+breast reconstruction	done after	mastectomy
+breast reconstruction	can be	with implants
+breast reconstruction	can be	with autologous tissue
+implants	are	artificial
+implants	used in	breast reconstruction
+autologous tissue	is	patient's own tissue
+autologous tissue	used in	breast reconstruction
+autologous tissue	can be harvested	from abdomen
+autologous tissue	can be harvested	from buttocks
+autologous tissue	can be harvested	from thighs
+autologous tissue	can be harvested	from back
+abdomen	is a	body part
+buttocks	is a	body part
+thighs	is a	body part
+back	is a	body part
+abdomen	can be used	for tissue harvesting
+buttocks	can be used	for tissue harvesting
+thighs	can be used	for tissue harvesting
+back	can be used	for tissue harvesting
+mastectomy	can cause	pain
+mastectomy	can cause	swelling
+mastectomy	can cause	numbness
+mastectomy	can cause	change in sensation
+mastectomy	can cause	emotional distress
+mastectomy	can lead to	body image concerns
+mastectomy	can lead to	loss of femininity
+mastectomy	can lead to	loss of sexual function
+mastectomy	can lead to	depression
+mastectomy	can lead to	anxiety
+mastectomy	can lead to	post-traumatic stress disorder
+mastectomy	can increase	risk of lymphedema
+mastectomy	can increase	risk of infection
+lymphedema	is a	condition
+infection	is a	complication
+mastectomy	can decrease	risk of breast cancer
+mastectomy	can reduce	risk of recurrence
+breast cancer	is a	disease
+recurrence	is a	term
+mastectomy	can shorten	lifespan
+mastectomy	can improve	survival rate
+survival rate	is	percentage
+mastectomy	can affect	quality of life
+mastectomy	can impact	physical well-being
+mastectomy	can impact	psychological well-being
+quality of life	is a	measure
+physical well-being	is	state
+psychological well-being	is	state
+mastectomy	may require	physical therapy
+mastectomy	may require	psychotherapy
+physical therapy	is a	treatment
+psychotherapy	is a	treatment
+mastectomy	can lead to	complications
+complications	can include	bleeding
+complications	can include	blood clots
+complications	can include	seroma
+complications	can include	hematoma
+complications	can include	wound infection
+complications	can include	skin necrosis
+bleeding	is a	condition
+blood clots	is a	condition
+seroma	is a	condition
+hematoma	is a	condition
+wound infection	is a	condition
+skin necrosis	is a	condition
+mastectomy	can affect	lymph nodes
+lymph nodes	are	part of lymphatic system
+lymphatic system	is	network
+mastectomy	can involve	sentinel lymph node biopsy
+sentinel lymph node biopsy	is a type of	biopsy
+biopsy	is a	procedure
+biopsy	used to	diagnose
+sentinel lymph node biopsy	used to	determine spread of cancer
+mastectomy	can require	general anesthesia
+general anesthesia	is a	anesthesia
+anesthesia	used for	surgery
+mastectomy	can be	unilateral
+mastectomy	can be	bilateral
+unilateral	means	one side
+bilateral	means	both sides
+mastectomy	can be	prophylactic
+prophylactic	means	preventive
+mastectomy	can be	therapeutic
+therapeutic	means	curative
+mastectomy	can be	partial
+partial	means	incomplete
+mastectomy	can be	total
+total	means	complete
+mastectomy	can be	radical
+radical	means	extensive
+radical mastectomy	is a type of	mastectomy
+radical mastectomy	removes	breast tissue
+radical mastectomy	removes	lymph nodes
+radical mastectomy	can cause	disability
+radical mastectomy	can cause	functional limitations
+disability	is a	disability
+functional limitations	is a	limitation
+mastectomy	can be	immediate
+mastectomy	can be	delayed
+immediate	means	without delay
+delayed	means	postponed
+mastectomy	may require	adjuvant therapy
+adjuvant therapy	is a	treatment
+adjuvant therapy	used after	surgery
+adjuvant therapy	used to	kill remaining cancer cells
+mastectomy	can be	palliative
+palliative	means	comforting
+mastectomy	can be	reconversion
+reconversion	means	restoration
+mastectomy	can be	elective
+elective	means	voluntary
+mastectomy	can be	medically necessary
+medically necessary	means	required for health
+mastectomy	can involve	drains
+drains	are	tubes
+drains	used to	remove fluid
+mastectomy	can involve	wound care
+wound care	is a	care
+wound care	used to	prevent infection
+mastectomy	can involve	compression garments
+compression garments	are	tight clothing
+compression garments	used to	reduce swelling
+mastectomy	can involve	scar management
+scar management	is a	process
+scar management	used to	improve appearance
+mastectomy	can involve	physical exercises
+physical exercises	are	exercises
+physical exercises	used to	regain strength
+mastectomy	can involve	hormonal therapy
+hormonal therapy	is a	treatment
+hormonal therapy	used to	prevent recurrence
+mastectomy	can involve	radiation therapy
+radiation therapy	is a	treatment
+radiation therapy	used to	kill cancer cells
+mastectomy	can involve	targeted therapy
+targeted therapy	is a	treatment
+targeted therapy	used to	inhibit cancer growth
+mastectomy	can involve	chemotherapy
+chemotherapy	is a	treatment
+chemotherapy	used to	destroy cancer cells
+mastectomy	can involve	immunotherapy
+immunotherapy	is a	treatment
+immunotherapy	used to	stimulate immune system
+mastectomy	can involve	reconstructive surgery
+reconstructive surgery	is a	surgery
+reconstructive surgery	used to	restore breast shape
+mastectomy	can involve	prosthetics
+prosthetics	are	artificial body parts
+prosthetics	used to	replace breast
+mastectomy	can involve	nipple-sparing mastectomy
+nipple-sparing mastectomy	is a type of	mastectomy
+nipple-sparing mastectomy	preserves	nipple and areola
+mastectomy	can involve	skin-sparing mastectomy
+skin-sparing mastectomy	is a type of	mastectomy
+skin-sparing mastectomy	preserves	skin
+mastectomy	can involve	subcutaneous mastectomy
+subcutaneous mastectomy	is a type of	mastectomy
+subcutaneous mastectomy	removes	breast tissue under skin
+mastectomy	can involve	nipple reconstruction
+nipple reconstruction	is a type of	reconstruction
+nipple reconstruction	used to	create nipple
+mastectomy	can involve	areola reconstruction
+areola reconstruction	is a type of	reconstruction
+areola reconstruction	used to	create areola
+mastectomy	can involve	complications
+complications	can include	bleeding
+complications	can include	infection
+complications	can include	seroma
+complications	can include	hematoma
+complications	can include	breast implant problems
+breast implant problems	can include	rupture
+breast implant problems	can include	capsular contracture
+breast implant problems	can include	implant malposition
+breast implant problems	can include	implant displacement
+rupture	is a	condition
+capsular contracture	is a	condition
+implant malposition	is a	condition
+implant displacement	is a	condition
+mastectomy	can result in	scarring
+mastectomy	can result in	loss of sensation
+mastectomy	can result in	asymmetry
+mastectomy	can result in	change in breast shape
+mastectomy	can result in	tissue necrosis
+mastectomy	can result in	delayed wound healing
+mastectomy	can result in	lymphedema
+lymphedema	is a	condition
+mastectomy	can result in	psychological impact
+psychological impact	can include	body image concerns
+psychological impact	can include	depression
+psychological impact	can include	anxiety
+psychological impact	can include	post-traumatic stress disorder
+body image concerns	is a	concern
+depression	is a	condition
+anxiety	is a	condition
+post-traumatic stress disorder	is a	condition
+mastectomy	can affect	body image
+mastectomy	can affect	self-esteem
+mastectomy	can affect	sexual function
+mastectomy	can affect	intimacy
+mastectomy	can affect	relationships
+mastectomy	can affect	fertility
+mastectomy	can affect	menstruation
+mastectomy	can affect	breastfeeding
+mastectomy	can affect	overall well-being
+mastectomy	can affect	social functioning
+mastectomy	can affect	work
+mastectomy	can affect	daily activities

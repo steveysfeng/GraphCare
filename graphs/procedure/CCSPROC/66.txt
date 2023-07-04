@@ -1,0 +1,39 @@
+procedures on spleen	is a	medical procedure
+procedures on spleen	performed for	spleen disorders
+splenectomy	is a type of	procedures on spleen
+splenectomy	used to	remove the spleen
+splenectomy	can be performed for	splenomegaly
+splenectomy	can be performed for	hypersplenism
+splenectomy	can be performed for	hematologic disorders
+splenectomy	can be performed for	spleen trauma
+splenic artery embolization	is a type of	procedures on spleen
+splenic artery embolization	used to	stop bleeding in the spleen
+splenic artery embolization	can be performed for	traumatic splenic injury
+splenic artery embolization	can be performed for	splenic and portal vein thrombosis
+splenic artery embolization	can be performed for	hypersplenism
+splenic abscess drainage	is a type of	procedures on spleen
+splenic abscess drainage	used to	remove pus from the spleen
+splenic abscess drainage	can be performed for	splenic abscess
+splenic abscess drainage	can be performed for	infected spleen cysts and tumors
+splenic artery aneurysm repair	is a type of	procedures on spleen
+splenic artery aneurysm repair	used to	treat splenic artery aneurysms
+splenic artery aneurysm repair	can be performed for	ruptured splenic artery aneurysm
+splenic artery aneurysm repair	can be performed for	symptomatic splenic artery aneurysm
+splenic cyst fenestration	is a type of	procedures on spleen
+splenic cyst fenestration	used to	treat splenic cyst
+splenic cyst fenestration	can be performed for	nonparasitic splenic cyst
+splenic cyst fenestration	can be performed for	symptomatic splenic cyst
+splenic cyst fenestration	can be performed for	infected splenic cyst
+splenic trauma repair	is a type of	procedures on spleen
+splenic trauma repair	used to	repair injured spleen
+splenic trauma repair	can be performed for	splenic rupture
+splenic trauma repair	can be performed for	traumatic splenic injury
+splenorrhaphy	is a type of	procedures on spleen
+splenorrhaphy	used to	repair spleen
+splenorrhaphy	can be performed for	traumatic splenic injury
+splenorrhaphy	can be performed for	nontraumatic splenic injury
+partial splenectomy	is a type of	procedures on spleen
+partial splenectomy	used to	remove part of the spleen
+partial splenectomy	can be performed for	splenic trauma
+partial splenectomy	can be performed for	tumors of the spleen
+partial splenectomy	can be performed for	splenic cyst

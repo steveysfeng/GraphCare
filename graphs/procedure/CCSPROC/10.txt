@@ -1,0 +1,84 @@
+thyroidectomy	is a	surgical procedure
+thyroid	is a part of	endocrine system
+hyperthyroidism	can be treated with	thyroidectomy
+thyroidectomy	can lead to	hypothyroidism
+thyroidectomy	is indicated for	thyroid cancer
+thyroidectomy	can be performed as	partial or complete
+partial thyroidectomy	removes	part of the thyroid gland
+thyroidectomy	may result in	vocal cord damage
+thyroidectomy	is associated with	risk of bleeding
+thyroidectomy	may require	hormone replacement therapy
+thyroidectomy	can cause	scar formation
+thyroidectomy	is performed under	general anesthesia
+thyroidectomy	can be performed using	minimally invasive techniques
+thyroidectomy	is usually performed by	a surgeon
+thyroidectomy	is a	surgical procedure
+thyroidectomy	used for	treatment
+partial thyroidectomy	is a type of	thyroidectomy
+partial thyroidectomy	performed when	only a portion of the thyroid gland needs to be removed
+complete thyroidectomy	is a type of	thyroidectomy
+complete thyroidectomy	performed when	the entire thyroid gland needs to be removed
+thyroidectomy	can treat	thyroid cancer
+thyroidectomy	can treat	hyperthyroidism
+thyroidectomy	can treat	goiter
+thyroidectomy	can cause	damage to the parathyroid glands
+damage to the parathyroid glands	can result in	hypoparathyroidism
+thyroidectomy	can cause	damage to the recurrent laryngeal nerve
+damage to the recurrent laryngeal nerve	can result in	voice changes or hoarseness
+thyroidectomy	can lead to	hypothyroidism
+hypothyroidism	requires	lifelong hormone replacement therapy
+thyroidectomy	may require	hospitalization
+hospitalization	may increase	risk of infection
+thyroidectomy	may have	complications
+complications of thyroidectomy	can include	bleeding
+complications of thyroidectomy	can include	infection
+complications of thyroidectomy	can include	damage to surrounding structures
+thyroidectomy	may have	long-term effects
+long-term effects of thyroidectomy	can include	weight gain
+long-term effects of thyroidectomy	can include	mood changes
+long-term effects of thyroidectomy	can include	fatigue
+thyroidectomy	may be	performed via open surgery
+thyroidectomy	may be	performed via minimally invasive surgery
+minimally invasive thyroidectomy	has	smaller incisions
+minimally invasive thyroidectomy	has	faster recovery time
+thyroidectomy	may require	neck drainage tubes
+thyroidectomy	may require	post-operative monitoring of thyroid hormone levels
+thyroidectomy	may require	ongoing follow-up care
+thyroidectomy	may affect	voice quality
+voice quality	may improve	over time after thyroidectomy
+thyroidectomy	may affect	swallowing
+swallowing	may be	temporarily affected after thyroidectomy
+thyroidectomy	may affect	body temperature regulation
+body temperature regulation	may be	affected after thyroidectomy
+thyroidectomy	may affect	wound healing
+wound healing	may be	delayed after thyroidectomy
+thyroidectomy	may increase	risk of osteoporosis
+thyroidectomy	may affect	fertility
+fertility	may be	affected after thyroidectomy
+thyroidectomy	may have	financial implications
+financial implications	may include	cost of surgery
+financial implications	may include	cost of follow-up care
+thyroidectomy	can be	performed under general anesthesia
+thyroidectomy	can be	performed under local anesthesia
+thyroidectomy	is	generally safe
+thyroidectomy	is	typically performed by an endocrine surgeon
+thyroidectomy	can be	a life-saving procedure
+thyroidectomy	requires	informed consent
+thyroidectomy	may be	recommended after a biopsy indicates cancer
+thyroidectomy	may be	recommended for patients with severe hyperthyroidism
+thyroidectomy	may be	recommended for patients with a large goiter
+thyroidectomy	should be	performed by an experienced surgeon
+experienced surgeon	has	lower complication rates for thyroidectomy
+thyroidectomy	may be	avoided in some cases with close monitoring
+thyroidectomy	may be	followed by radioactive iodine treatment
+radioactive iodine treatment	is	used to destroy any remaining thyroid tissue
+thyroidectomy	may be	followed by lifelong hormone replacement therapy
+thyroidectomy	may be	followed by regular monitoring of thyroid hormone levels
+thyroidectomy	may be	an outpatient procedure
+thyroidectomy	may require	a short hospital stay
+short hospital stay	may be	necessary after thyroidectomy
+thyroidectomy	may be	covered by insurance
+insurance	may require	pre-authorization for thyroidectomy
+thyroidectomy	has	potential risks and benefits
+risks of thyroidectomy	should be	discussed with the patient
+benefits of thyroidectomy	should be	discussed with the patient

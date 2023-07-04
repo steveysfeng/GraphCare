@@ -1,0 +1,74 @@
+nasogastric tube	is a	medical device
+nasogastric tube	used for	feeding
+nasogastric tube	can be used to administer	medication
+nasogastric tube	used for	decompression
+nasogastric tube	used for	aspiration
+nasogastric tube	can cause	nasal irritation
+nasogastric tube	can lead to	pneumonia
+nasogastric tube	can be inserted via	nose
+nasogastric tube	can be inserted via	mouth
+nasogastric tube	used to	remove stomach contents
+nasogastric tube	used to	drain excess fluids
+nasogastric tube	can help	maintain nutrition
+nasogastric tube	can cause	discomfort
+nasogastric tube	can be	uncomfortable
+patients with	impaired swallowing	may need a nasogastric tube
+nasogastric tube	can be used for	gastric decompression
+nasogastric tube	can be used for	bowel obstruction
+nasogastric tube	can cause	epistaxis
+nasogastric tube	can cause	sinusitis
+nasogastric tube	can be used to measure	gastric residual volume
+using a nasogastric tube	can increase	risk of infection
+nasogastric tube	can be used for	enteral feeding
+patients with	nasopharyngeal cancer	may require nasogastric tube
+patients with	head trauma	may require nasogastric tube
+nasogastric tube	can cause	discomfort during insertion
+patients with	severe burns	may have a nasogastric tube
+nasogastric tube	can be used for	gastric decompression
+nasogastric tube	can be used to	administer fluids
+nasogastric tube	can be used to	administer nutrition
+nasogastric tube	can be used to	measure gastric pH
+nasogastric tube	can be used for	gastric lavage
+patients with	acute pancreatitis	may require nasogastric tube
+nasogastric tube	can be used to	remove gastric contents
+nasogastric tube	can cause	nasal trauma
+nasogastric tube	can cause	esophageal injury
+nasogastric tube	can cause	sinus infection
+nasogastric tube	can be used for	medication administration
+nasogastric tube	can be used for	enteral nutrition
+patients with	intestinal obstruction	may require nasogastric tube
+nasogastric tube	can help	relieve stomach distention
+nasogastric tube	can be used for	gastric decompression
+nasogastric tube	can be used to	measure gastric motility
+nasogastric tube	can be used for	gastrointestinal bleeding
+nasogastric tube	can cause	throat irritation
+nasogastric tube	can cause	tracheal injury
+nasogastric tube	can cause	vocal cord injury
+nasogastric tube	can cause	pharyngeal injury
+nasogastric tube	can be used for	gastric lavage
+nasogastric tube	can be used for	gastric feeding
+nasogastric tube	can be used to	measure gastric emptying
+nasogastric tube	can be used for	gastric decompression
+patients with	head and neck cancer	may need nasogastric tube
+nasogastric tube	can cause	tube dislodgement
+nasogastric tube	can cause	tube blockage
+patients with	severe sepsis	may require nasogastric tube
+nasogastric tube	used to	relieve bowel obstruction
+nasogastric tube	used to	decompress stomach
+nasogastric tube	can cause	gastric ulcers
+nasogastric tube	can cause	nasal discomfort
+nasogastric tube	can cause	tube misplacement
+nasogastric tube	can cause	tube migration
+nasogastric tube	can cause	tube clogging
+nasogastric tube	can cause	tube kinking
+nasogastric tube	can cause	nosebleeds
+nasogastric tube	can cause	abdominal pain
+nasogastric tube	can cause	throat pain
+nasogastric tube	can cause	esophageal rupture
+nasogastric tube	can cause	perforation
+nasogastric tube	can cause	sepsis
+nasogastric tube	can cause	pneumonia
+nasogastric tube	can cause	aspiration pneumonia
+nasogastric tube	can cause	tracheal erosion
+nasogastric tube	can cause	bronchial obstruction
+nasogastric tube	can cause	respiratory distress

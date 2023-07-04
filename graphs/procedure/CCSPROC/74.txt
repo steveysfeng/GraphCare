@@ -1,0 +1,132 @@
+gastrectomy	is a	surgical procedure
+gastrectomy	used for	removing the stomach
+partial gastrectomy	is a type of	gastrectomy
+total gastrectomy	is a type of	gastrectomy
+partial gastrectomy	can treat	stomach tumors
+total gastrectomy	can treat	stomach cancer
+partial gastrectomy	can be performed via open surgery
+total gastrectomy	can be performed via laparoscopic surgery
+partial gastrectomy	requires general anesthesia
+total gastrectomy	requires general anesthesia
+partial gastrectomy	can result in weight loss
+total gastrectomy	can result in weight loss
+partial gastrectomy	may cause vitamin deficiencies
+total gastrectomy	may cause vitamin deficiencies
+partial gastrectomy	is associated with a risk of complications
+total gastrectomy	is associated with a risk of complications
+partial gastrectomy	can lead to changes in digestion
+total gastrectomy	can lead to changes in digestion
+partial gastrectomy	may require dietary changes
+total gastrectomy	may require dietary changes
+partial gastrectomy	is performed by a surgeon
+total gastrectomy	is performed by a surgeon
+partial gastrectomy	can improve quality of life
+total gastrectomy	can improve quality of life
+partial gastrectomy	has a recovery period
+total gastrectomy	has a recovery period
+partial gastrectomy	requires follow-up care
+total gastrectomy	requires follow-up care
+partial gastrectomy	has potential complications
+total gastrectomy	has potential complications
+partial gastrectomy	can be performed as a minimally invasive procedure
+total gastrectomy	can be performed as a minimally invasive procedure
+partial gastrectomy	is a major surgery
+total gastrectomy	is a major surgery
+partial gastrectomy	may require blood transfusion
+total gastrectomy	may require blood transfusion
+partial gastrectomy	may require a hospital stay
+total gastrectomy	may require a hospital stay
+partial gastrectomy	is a treatment option for gastric ulcers
+total gastrectomy	is a treatment option for gastric cancer
+partial gastrectomy	can result in reduced stomach capacity
+total gastrectomy	results in complete removal of the stomach
+partial gastrectomy	may cause dumping syndrome
+total gastrectomy	may cause dumping syndrome
+partial gastrectomy	is a complex procedure
+total gastrectomy	is a complex procedure
+partial gastrectomy	may affect nutrient absorption
+total gastrectomy	may affect nutrient absorption
+partial gastrectomy	can be performed to prevent cancer
+total gastrectomy	can be performed to prevent cancer
+partial gastrectomy	is performed under general anesthesia
+total gastrectomy	is performed under general anesthesia
+partial gastrectomy	involves cutting of the stomach
+total gastrectomy	involves removal of the entire stomach
+partial gastrectomy	requires careful post-operative care
+total gastrectomy	requires careful post-operative care
+partial gastrectomy	can be a curative treatment
+total gastrectomy	can be a curative treatment
+partial gastrectomy	may require a feeding tube
+total gastrectomy	may require a feeding tube
+partial gastrectomy	is a major abdominal surgery
+total gastrectomy	is a major abdominal surgery
+partial gastrectomy	is a treatment option for gastric bleeding
+total gastrectomy	is a treatment option for advanced stomach cancer
+partial gastrectomy	can lead to changes in eating habits
+total gastrectomy	can lead to changes in eating habits
+partial gastrectomy	has long-term implications for the patient
+total gastrectomy	has long-term implications for the patient
+partial gastrectomy	may require long-term dietary modifications
+total gastrectomy	may require long-term dietary modifications
+partial gastrectomy	can be performed in combination with other procedures
+total gastrectomy	can be performed in combination with other procedures
+partial gastrectomy	can improve quality of life for some patients
+total gastrectomy	can improve quality of life for some patients
+partial gastrectomy	can result in a smaller stomach pouch
+total gastrectomy	results in complete removal of the stomach
+partial gastrectomy	may require a longer hospital stay
+total gastrectomy	may require a longer hospital stay
+partial gastrectomy	may require a longer recovery period
+total gastrectomy	may require a longer recovery period
+partial gastrectomy	is a treatment option for early-stage stomach cancer
+total gastrectomy	is a treatment option for advanced stomach cancer
+partial gastrectomy	can be performed to alleviate symptoms
+total gastrectomy	can be performed to remove cancerous tissue
+partial gastrectomy	may require chemotherapy after the procedure
+total gastrectomy	may require chemotherapy after the procedure
+partial gastrectomy	may require radiation therapy after the procedure
+total gastrectomy	may require radiation therapy after the procedure
+partial gastrectomy	can be performed as a minimally invasive surgery
+total gastrectomy	can be performed as a minimally invasive surgery
+partial gastrectomy	may result in improved appetite
+total gastrectomy	may result in permanent changes in eating habits
+partial gastrectomy	is a treatment option for gastric outlet obstruction
+total gastrectomy	is a treatment option for locally advanced gastric cancer
+partial gastrectomy	may require long-term monitoring
+total gastrectomy	may require long-term monitoring
+partial gastrectomy	may require lifelong dietary changes
+total gastrectomy	may require lifelong dietary changes
+partial gastrectomy	can reduce the risk of stomach cancer
+total gastrectomy	can eliminate the risk of stomach cancer
+partial gastrectomy	may require additional treatments
+total gastrectomy	may require additional treatments
+partial gastrectomy	is a major surgical intervention
+total gastrectomy	is a major surgical intervention
+partial gastrectomy	can improve quality of life with proper post-operative care
+total gastrectomy	can improve quality of life with proper post-operative care
+partial gastrectomy	can result in changes in bowel movements
+total gastrectomy	can result in changes in bowel movements
+partial gastrectomy	can be performed using minimally invasive techniques
+total gastrectomy	can be performed using minimally invasive techniques
+partial gastrectomy	may result in improved digestion
+total gastrectomy	may result in impaired digestion
+partial gastrectomy	may require nutritional supplements
+total gastrectomy	may require lifelong nutritional supplements
+partial gastrectomy	requires careful post-operative monitoring
+total gastrectomy	requires careful post-operative monitoring
+partial gastrectomy	may require long-term follow-up care
+total gastrectomy	may require long-term follow-up care
+partial gastrectomy	can result in long-term survival
+total gastrectomy	can result in long-term survival
+partial gastrectomy	may result in decreased appetite
+total gastrectomy	may result in permanent changes in appetite
+partial gastrectomy	is a major surgical procedure
+total gastrectomy	is a major surgical procedure
+partial gastrectomy	may require removal of nearby lymph nodes
+total gastrectomy	may require removal of nearby lymph nodes
+partial gastrectomy	may require physical therapy for recovery
+total gastrectomy	may require physical therapy for recovery
+partial gastrectomy	is a treatment option for early-stage stomach tumors
+total gastrectomy	is a treatment option for advanced stomach tumors
+partial gastrectomy	can result in weight gain
+total gastrectomy	can result in permanent weight loss

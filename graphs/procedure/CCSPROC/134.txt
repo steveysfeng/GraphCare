@@ -1,0 +1,101 @@
+cesarean section	is a	medical procedure
+cesarean section	used for	childbirth
+cesarean section	can prevent	birth complications
+cesarean section	performed in	operating room
+cesarean section	requires	anesthesia
+cesarean section	increases	risk of infection
+cesarean section	may require	longer recovery time
+cesarean section	associated with	higher cost
+cesarean section	can be scheduled	in advance
+cesarean section	recommended for	certain medical conditions
+women	who have	previous cesarean section	may have	subsequent cesarean section
+cesarean section	may result in	postoperative pain
+cesarean section	can be performed	under emergency situations
+cesarean section	can be performed	when natural childbirth is not possible
+cesarean section	can be performed	due to fetal distress
+cesarean section	can be performed	if prolonged labor occurs
+cesarean section	can be performed	in multiple pregnancies
+cesarean section	increases	risk of blood clotting
+cesarean section	may affect	breastfeeding
+cesarean section	can increase	maternal mortality
+cesarean section	can increase	risk of future complications
+cesarean section	may lead to	scarring of the uterus
+cesarean section	may cause	placenta previa in future pregnancies
+cesarean section	increases	risk of neonatal complications
+cesarean section	may require	newborn care in the neonatal intensive care unit
+cesarean section	can be performed	with different incision types
+cesarean section	can be performed	as a planned procedure
+cesarean section	can be performed	during labor
+cesarean section	may be necessary	if the baby is in breech position
+cesarean section	may be necessary	if placental abruption occurs
+cesarean section	may be necessary	if the mother has certain medical conditions
+cesarean section	may be necessary	if the baby is not tolerating labor
+cesarean section	may be necessary	if there is a risk of uterine rupture
+cesarean section	may be necessary	if the mother has an active genital herpes infection
+cesarean section	may be necessary	if there is a prolapsed umbilical cord
+cesarean section	can be performed	with different surgical techniques
+cesarean section	can be performed	with low transverse incision
+cesarean section	can be performed	with classical or vertical incision
+cesarean section	requires	postoperative care
+cesarean section	requires	wound care
+cesarean section	should be followed by	postpartum check-ups
+cesarean section	may require	additional interventions during future pregnancies
+cesarean section	may affect	fertility
+cesarean section	can be performed	with different anesthesia options
+cesarean section	can be performed	with general anesthesia
+cesarean section	can be performed	with regional anesthesia
+cesarean section	increases	risk of complications in obese women
+cesarean section	increases	risk of complications in older women
+cesarean section	can be performed	with different types of sutures
+cesarean section	can be performed	with absorbable sutures
+cesarean section	can be performed	with non-absorbable sutures
+cesarean section	may require	blood transfusion
+cesarean section	may lead to	wound infection
+cesarean section	may require	additional surgeries for wound complications
+cesarean section	may increase	risk of adhesions
+cesarean section	may affect	future pregnancies
+cesarean section	may increase	risk of stillbirth in future pregnancies
+cesarean section	can be performed	with laparoscopic technique
+cesarean section	can be performed	with robotic-assisted technique
+cesarean section	can be performed	with traditional open technique
+cesarean section	may require	blood thinning medication to prevent blood clots
+cesarean section	may involve	neonatal resuscitation
+cesarean section	can be performed	with different wound closure techniques
+cesarean section	can be performed	with staples
+cesarean section	can be performed	with adhesive strips
+cesarean section	may require	longer hospital stay
+cesarean section	may impact	bonding with the baby
+cesarean section	may increase	risk of surgical complications
+cesarean section	may cause	scar tissue formation
+cesarean section	may increase	risk of complications in subsequent pregnancies
+cesarean section	may lead to	surgical adhesions
+cesarean section	may increase	risk of bladder or bowel injuries
+cesarean section	may increase	risk of blood loss
+cesarean section	may require	bladder catheterization
+cesarean section	may lead to	incisional hernia
+cesarean section	may have	long-term effects on maternal health
+cesarean section	may impact	future contraceptive choices
+cesarean section	may affect	future hormonal functioning
+cesarean section	may increase	risk of complications in subsequent pregnancies
+cesarean section	may have	psychological impact on the mother
+cesarean section	may be preferred	in certain maternal or fetal conditions
+cesarean section	may result in	reduced risk of birth trauma
+cesarean section	may require	additional monitoring during labor
+cesarean section	may be performed	due to failed induction of labor
+cesarean section	can be performed	with high vertical incision
+cesarean section	can be performed	with low vertical incision
+cesarean section	can be performed	with inverted T-shaped incision
+cesarean section	can be performed	with J-shaped incision
+cesarean section	may require	blood pressure monitoring
+cesarean section	may require	blood tests
+cesarean section	may require	blood clotting tests
+cesarean section	may require	blood typing and crossmatching
+cesarean section	may require	packed red blood cell transfusion
+cesarean section	may require	intravenous fluids
+cesarean section	may require	bowel preparation
+cesarean section	may require	urethral catheterization
+cesarean section	may require	pelvic exam
+cesarean section	may require	fetal heart rate monitoring
+cesarean section	may require	ultrasound examination
+cesarean section	may require	blood glucose testing
+cesarean section	may require	chest X-ray

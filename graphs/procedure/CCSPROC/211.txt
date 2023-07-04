@@ -1,0 +1,71 @@
+radiation therapy	is a	cancer treatment
+radiation therapy	uses	high-energy radiation
+radiation therapy	destroys	cancer cells
+radiation therapy	can be used	alone or in combination with other treatments
+radiation therapy	may cause	side effects
+side effects	include	fatigue
+radiation therapy	can be administered	externally or internally
+internal radiation therapy	uses	radioactive materials placed directly into the body
+radiation therapy	is delivered	in multiple doses or in a single dose
+radiation therapy	can target	specific areas of the body
+radiation therapy	may be used	for palliative care
+radiation therapy	is typically	planned and coordinated by a radiation oncologist
+radiation oncologist	works closely with	other healthcare providers
+radiation therapy	requires	specialized equipment
+radiation therapy	is performed	in a controlled environment
+radiation therapy	can be	time-consuming
+radiation therapy	may require	immobilization devices
+radiation therapy	is often	delivered in a linear accelerator
+linear accelerator	generates	high-energy radiation
+radiation therapy	can be	curative
+radiation therapy	can be	adjuvant therapy
+adjuvant therapy	is used	to kill any remaining cancer cells
+radiation therapy	may be	neoadjuvant therapy
+neoadjuvant therapy	is used	to shrink tumors before surgery
+radiation therapy	can increase	the risk of developing second cancers
+radiation therapy	has	long-term effects
+radiation therapy	requires	precise planning
+radiation therapy	is often	delivered in fractionated doses
+radiation therapy	can be	delivered as external beam radiation
+external beam radiation	uses	a machine to deliver radiation from outside the body
+radiation therapy	may be	fractionated
+fractionated radiation therapy	delivers	the total dose of radiation in smaller doses
+radiation therapy	can be	used for different types of cancer
+radiation therapy	can cause	tissue damage
+radiation therapy	can be	localized or systemic
+localized radiation therapy	targets	a specific area of the body
+systemic radiation therapy	treats	the whole body
+radiation therapy	can cause	DNA damage
+DNA damage	can lead to	cell death
+radiation therapy	can be	palliative
+palliative radiation therapy	helps	relieve symptoms and improve quality of life
+radiation therapy	may require	immobilization devices
+radiation therapy	is often	delivered in a linear accelerator
+radiation therapy	may cause	skin changes
+skin changes	include	redness and peeling
+radiation therapy	can be	used post-surgery
+radiation therapy	can be	used pre-surgery
+radiation therapy	can cause	temporary hair loss
+radiation therapy	can cause	temporary or permanent infertility
+radiation therapy	can be	used for brain tumors
+radiation therapy	can be	used for prostate cancer
+radiation therapy	can be	used for breast cancer
+radiation therapy	can be	used for lung cancer
+radiation therapy	can be	used for cervical cancer
+radiation therapy	can be	used for head and neck cancers
+radiation therapy	can be	used for gastrointestinal cancers
+radiation therapy	can be	used for lymphoma
+radiation therapy	can be	used for sarcoma
+radiation therapy	can be	used for melanoma
+radiation therapy	can be	used for leukemia
+radiation therapy	can be	used for thyroid cancer
+radiation therapy	can be	used for kidney cancer
+radiation therapy	can be	used for bladder cancer
+radiation therapy	can be	used for pancreatic cancer
+radiation therapy	can be	used for ovarian cancer
+radiation therapy	can be	used for uterine cancer
+radiation therapy	can be	used for esophageal cancer
+radiation therapy	can be	used for testicular cancer
+radiation therapy	can be	used for liver cancer
+radiation therapy	can be	used for bone cancer
+radiation therapy	can be	used for oral cancer

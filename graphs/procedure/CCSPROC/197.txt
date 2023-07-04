@@ -1,0 +1,6 @@
+other diagnostic ultrasound	is a	medical procedure
+other diagnostic ultrasound	used for	diagnosis
+ultrasound technician	performs	other diagnostic ultrasound
+other diagnostic ultrasound	can detect	abnormalities
+other diagnostic ultrasound	is noninvasive
+other diagnostic ultrasound	uses sound waves

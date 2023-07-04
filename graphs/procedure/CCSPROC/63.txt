@@ -1,0 +1,22 @@
+non-or therapeutic cardiovascular procedures	are	medical procedures
+non-or therapeutic cardiovascular procedures	used for	treatment
+coronary artery bypass grafting	is a type of	non-or therapeutic cardiovascular procedures
+coronary artery bypass grafting	can improve	blood flow
+percutaneous coronary intervention	is a type of	non-or therapeutic cardiovascular procedures
+percutaneous coronary intervention	used for	restoring blood flow
+cardiac catheterization	is a type of	non-or therapeutic cardiovascular procedures
+cardiac catheterization	used for	diagnosing heart conditions
+electrophysiology study	is a type of	non-or therapeutic cardiovascular procedures
+electrophysiology study	used for	diagnosing abnormal heart rhythms
+radiofrequency ablation	is a type of	non-or therapeutic cardiovascular procedures
+radiofrequency ablation	used for	treating abnormal heart rhythms
+implantable cardiac defibrillator placement	is a type of	non-or therapeutic cardiovascular procedures
+implantable cardiac defibrillator placement	used for	preventing sudden cardiac arrest
+pacemaker implantation	is a type of	non-or therapeutic cardiovascular procedures
+pacemaker implantation	used for	regulating heart rhythms
+transcatheter aortic valve replacement	is a type of	non-or therapeutic cardiovascular procedures
+transcatheter aortic valve replacement	used for	replacing a damaged aortic valve
+carotid endarterectomy	is a type of	non-or therapeutic cardiovascular procedures
+carotid endarterectomy	used for	removing plaque from the carotid artery
+thrombectomy	is a type of	non-or therapeutic cardiovascular procedures
+thrombectomy	used for	removing blood clots

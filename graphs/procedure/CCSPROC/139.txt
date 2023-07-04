@@ -1,0 +1,246 @@
+fetal monitoring	is a	medical procedure
+fetal monitoring	used for	monitoring fetal heart rate
+fetal monitoring	used for	monitoring uterine contractions
+fetal monitoring	can detect	fetal distress
+fetal monitoring	can detect	preterm labor
+fetal monitoring	can detect	placental abruption
+fetal monitoring	can detect	fetal malposition
+fetal monitoring	can detect	umbilical cord compression
+fetal monitoring	can detect	uterine rupture
+fetal monitoring	can detect	fetal death
+fetal monitoring	can be done with	electronic fetal monitor
+fetal monitoring	can be done with	ultrasound
+fetal monitoring	can be done with	Doppler ultrasound
+fetal monitoring	can be done with	external monitors
+fetal monitoring	can be done with	internal monitors
+fetal monitoring	is recommended for	high-risk pregnancies
+fetal monitoring	is recommended for	multiple pregnancies
+fetal monitoring	is recommended for	post-term pregnancies
+fetal monitoring	is recommended for	reduced fetal movements
+fetal monitoring	is recommended for	maternal complications
+fetal monitoring	is recommended for	suspected fetal growth restriction
+fetal monitoring	is recommended for	suspected placental dysfunction
+fetal monitoring	is recommended for	suspected fetal distress
+fetal monitoring	is recommended for	suspected uterine contractions
+fetal monitoring	is recommended for	suspected placental abruption
+fetal monitoring	is recommended for	suspected placenta previa
+fetal monitoring	is recommended for	suspected fetal malposition
+fetal monitoring	is recommended for	suspected umbilical cord abnormalities
+fetal monitoring	is recommended for	suspected uterine rupture
+fetal monitoring	is recommended for	suspected fetal death
+fetal monitoring	is recommended for	monitoring the effects of medications on the fetus
+fetal monitoring	is recommended for	monitoring the effects of labor induction on the fetus
+fetal monitoring	is recommended for	monitoring the effects of anesthesia on the fetus
+fetal monitoring	is recommended for	monitoring the effects of maternal conditions on the fetus
+fetal monitoring	is recommended for	monitoring the effects of maternal infections on the fetus
+fetal monitoring	is recommended for	monitoring the response to fetal interventions
+fetal monitoring	is recommended for	assessing fetal well-being
+fetal monitoring	is recommended for	assessing fetal distress
+fetal monitoring	is recommended for	assessing fetal oxygenation
+fetal monitoring	is recommended for	assessing fetal heart rate variability
+fetal monitoring	is recommended for	assessing uterine contractions
+fetal monitoring	is recommended for	assessing fetal movement
+fetal monitoring	is recommended for	assessing fetal growth
+fetal monitoring	is recommended for	assessing amniotic fluid volume
+fetal monitoring	is recommended for	assessing placental function
+fetal monitoring	is recommended for	assessing umbilical cord blood flow
+fetal monitoring	is recommended for	assessing fetal position
+fetal monitoring	is recommended for	assessing fetal presentation
+fetal monitoring	is recommended for	assessing fetal weight
+fetal monitoring	is recommended for	assessing fetal well-being
+fetal monitoring	is recommended for	assessing the effects of fetal surgery
+fetal monitoring	is recommended for	assessing the effects of fetal therapy
+fetal monitoring	is recommended for	assessing the effects of fetal gene therapy
+fetal monitoring	is recommended for	assessing the effects of fetal stem cell therapy
+fetal monitoring	is recommended for	assessing the effects of fetal vaccinations
+fetal monitoring	is recommended for	assessing the effects of maternal vaccinations
+fetal monitoring	is recommended for	assessing the effects of maternal medications on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal anesthesia on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal conditions on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal infections on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal smoking on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal alcohol consumption on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal illegal drug use on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal radiation exposure on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal trauma on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal malnutrition on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal hypertension on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal diabetes on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal thyroid disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal autoimmune disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal respiratory disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal renal disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal hepatic disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal gastrointestinal disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal cardiovascular disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal hematologic disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal endocrine disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal neurological disorders on the fetus
+fetal monitoring	is recommended for	assessing the effects of maternal psychiatric disorders on the fetus
+fetal monitoring	can be performed by	obstetrician-gynecologist
+fetal monitoring	can be performed by	nurse
+fetal monitoring	can be performed by	midwife
+fetal monitoring	can be performed by	perinatologist
+fetal monitoring	can be performed by	ultrasound technician
+fetal monitoring	can be performed by	fetal medicine specialist
+fetal monitoring	can be performed by	maternal-fetal medicine specialist
+fetal monitoring	can be performed by	neonatologist
+fetal monitoring	can be performed by	pediatrician
+fetal monitoring	can be performed by	trained nurse
+fetal monitoring	can be performed by	trained midwife
+fetal monitoring	can be performed by	trained technician
+fetal monitoring	can be performed by	trained sonographer
+fetal monitoring	can be performed by	trained physician
+fetal monitoring	can be performed by	trained specialist
+fetal monitoring	can be performed by	trained expert
+fetal monitoring	can be performed by	healthcare provider
+fetal monitoring	can be performed at	hospital
+fetal monitoring	can be performed at	birthing center
+fetal monitoring	can be performed at	clinic
+fetal monitoring	can be performed at	doctor's office
+fetal monitoring	can be performed at	home
+fetal monitoring	can be performed using	external devices
+fetal monitoring	can be performed using	wireless devices
+fetal monitoring	can be performed using	wearable devices
+fetal monitoring	can be performed using	mobile apps
+fetal monitoring	can be performed using	telemedicine
+fetal monitoring	can be performed using	home monitoring kits
+fetal monitoring	can be performed using	telemetry
+fetal monitoring	can be performed using	computer-assisted monitoring
+fetal monitoring	can be performed using	cardiotocography
+fetal monitoring	can be performed using	Doppler ultrasound
+fetal monitoring	can be performed using	fetal electrocardiography
+fetal monitoring	can be performed using	fetal pulse oximetry
+fetal monitoring	can be performed using	fetal scalp electrode
+fetal monitoring	can be performed using	intrauterine pressure catheter
+fetal monitoring	can be performed using	fetal blood sampling
+fetal monitoring	can be performed using	fetal umbilical artery Doppler
+fetal monitoring	can be performed using	uterine activity monitoring
+fetal monitoring	can be performed using	external electronic fetal heart rate monitoring
+fetal monitoring	can be performed using	internal electronic fetal heart rate monitoring
+fetal monitoring	can be performed using	continuous fetal heart rate monitoring
+fetal monitoring	can be performed using	intermittent fetal heart rate monitoring
+fetal monitoring	can be performed using	non-stress test
+fetal monitoring	can be performed using	contraction stress test
+fetal monitoring	can be performed using	vibroacoustic stimulation test
+fetal monitoring	can be performed using	biophysical profile
+fetal monitoring	can be performed at	various stages of pregnancy
+fetal monitoring	can be performed at	first trimester
+fetal monitoring	can be performed at	second trimester
+fetal monitoring	can be performed at	third trimester
+fetal monitoring	can be performed during	prenatal care
+fetal monitoring	can be performed during	labor
+fetal monitoring	can be performed during	childbirth
+fetal monitoring	can be performed during	postpartum period
+fetal monitoring	can be performed during	fetal surgery
+fetal monitoring	can be performed during	fetal therapy
+fetal monitoring	can be performed during	fetal gene therapy
+fetal monitoring	can be performed during	fetal stem cell therapy
+fetal monitoring	can be performed during	fetal vaccinations
+fetal monitoring	can be performed during	maternal vaccinations
+fetal monitoring	can be performed during	maternal medication intake
+fetal monitoring	can be performed during	maternal anesthesia
+fetal monitoring	can be performed during	maternal conditions
+fetal monitoring	can be performed during	maternal infections
+fetal monitoring	can be performed during	maternal smoking
+fetal monitoring	can be performed during	maternal alcohol consumption
+fetal monitoring	can be performed during	maternal illegal drug use
+fetal monitoring	can be performed during	maternal radiation exposure
+fetal monitoring	can be performed during	maternal trauma
+fetal monitoring	can be performed during	maternal malnutrition
+fetal monitoring	can be performed during	maternal hypertension
+fetal monitoring	can be performed during	maternal diabetes
+fetal monitoring	can be performed during	maternal thyroid disorders
+fetal monitoring	can be performed during	maternal autoimmune disorders
+fetal monitoring	can be performed during	maternal respiratory disorders
+fetal monitoring	can be performed during	maternal renal disorders
+fetal monitoring	can be performed during	maternal hepatic disorders
+fetal monitoring	can be performed during	maternal gastrointestinal disorders
+fetal monitoring	can be performed during	maternal cardiovascular disorders
+fetal monitoring	can be performed during	maternal hematologic disorders
+fetal monitoring	can be performed during	maternal endocrine disorders
+fetal monitoring	can be performed during	maternal neurological disorders
+fetal monitoring	can be performed during	maternal psychiatric disorders
+fetal monitoring	can be performed for	monitoring fetal heart rate
+fetal monitoring	can be performed for	monitoring uterine contractions
+fetal monitoring	can be performed for	monitoring fetal oxygenation
+fetal monitoring	can be performed for	monitoring fetal movement
+fetal monitoring	can be performed for	monitoring fetal growth
+fetal monitoring	can be performed for	monitoring amniotic fluid volume
+fetal monitoring	can be performed for	monitoring placental function
+fetal monitoring	can be performed for	monitoring umbilical cord blood flow
+fetal monitoring	can be performed for	monitoring fetal position
+fetal monitoring	can be performed for	monitoring fetal presentation
+fetal monitoring	can be performed for	monitoring fetal weight
+fetal monitoring	can be performed for	monitoring the effects of medications on the fetus
+fetal monitoring	can be performed for	monitoring the effects of labor induction on the fetus
+fetal monitoring	can be performed for	monitoring the effects of anesthesia on the fetus
+fetal monitoring	can be performed for	monitoring the effects of maternal conditions on the fetus
+fetal monitoring	can be performed for	monitoring the effects of maternal infections on the fetus
+fetal monitoring	can be performed for	monitoring the response to fetal interventions
+fetal monitoring	can be performed for	assessing fetal well-being
+fetal monitoring	can be performed for	assessing fetal distress
+fetal monitoring	can be performed for	assessing fetal oxygenation
+fetal monitoring	can be performed for	assessing fetal heart rate variability
+fetal monitoring	can be performed for	assessing uterine contractions
+fetal monitoring	can be performed for	assessing fetal movement
+fetal monitoring	can be performed for	assessing fetal growth
+fetal monitoring	can be performed for	assessing amniotic fluid volume
+fetal monitoring	can be performed for	assessing placental function
+fetal monitoring	can be performed for	assessing umbilical cord blood flow
+fetal monitoring	can be performed for	assessing fetal position
+fetal monitoring	can be performed for	assessing fetal presentation
+fetal monitoring	can be performed for	assessing fetal weight
+fetal monitoring	can be performed for	assessing fetal well-being
+fetal monitoring	can be performed for	assessing the effects of fetal surgery
+fetal monitoring	can be performed for	assessing the effects of fetal therapy
+fetal monitoring	can be performed for	assessing the effects of fetal gene therapy
+fetal monitoring	can be performed for	assessing the effects of fetal stem cell therapy
+fetal monitoring	can be performed for	assessing the effects of fetal vaccinations
+fetal monitoring	can be performed for	assessing the effects of maternal vaccinations
+fetal monitoring	can be performed for	assessing the effects of maternal medications on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal anesthesia on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal conditions on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal infections on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal smoking on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal alcohol consumption on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal illegal drug use on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal radiation exposure on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal trauma on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal malnutrition on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal hypertension on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal diabetes on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal thyroid disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal autoimmune disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal respiratory disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal renal disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal hepatic disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal gastrointestinal disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal cardiovascular disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal hematologic disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal endocrine disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal neurological disorders on the fetus
+fetal monitoring	can be performed for	assessing the effects of maternal psychiatric disorders on the fetus
+fetal monitoring	can lead to	early detection of fetal distress
+fetal monitoring	can lead to	early detection of preterm labor
+fetal monitoring	can lead to	early detection of placental abruption
+fetal monitoring	can lead to	early detection of fetal malposition
+fetal monitoring	can lead to	early detection of umbilical cord compression
+fetal monitoring	can lead to	early detection of uterine rupture
+fetal monitoring	can lead to	early detection of fetal death
+fetal monitoring	can help in	making fetal interventions decisions
+fetal monitoring	can help in	guiding labor management
+fetal monitoring	can help in	preventing adverse fetal outcomes
+fetal monitoring	can help in	reducing perinatal mortality
+fetal monitoring	can help in	reducing neonatal morbidity
+fetal monitoring	can help in predicting	fetal distress
+fetal monitoring	can help in predicting	preterm labor
+fetal monitoring	can help in predicting	placental abruption
+fetal monitoring	can help in predicting	fetal malposition
+fetal monitoring	can help in predicting	umbilical cord compression
+fetal monitoring	can help in predicting	uterine rupture
+fetal monitoring	can help in predicting	fetal death
+fetal monitoring	can assist in	providing personalized care
+fetal monitoring	can assist in	optimizing fetal outcomes
+fetal monitoring	can assist in	clinical decision making
+fetal monitoring	can assist in	timely interventions

@@ -1,0 +1,102 @@
+nuclear medicine imaging	is a	medical procedure
+nuclear medicine imaging	used for	diagnosis
+bone	can be visualized by	nuclear medicine imaging
+nuclear medicine imaging	can detect	fractures
+nuclear medicine imaging	can detect	tumors
+nuclear medicine imaging	can detect	infections
+nuclear medicine imaging	can detect	bone density
+nuclear medicine imaging	can detect	arthritis
+nuclear medicine imaging	can detect	metastases
+nuclear medicine imaging	can detect	bone marrow disorders
+nuclear medicine imaging	can detect	osteomyelitis
+nuclear medicine imaging	can detect	degenerative joint disease
+nuclear medicine imaging	can detect	Paget's disease
+nuclear medicine imaging	can detect	avascular necrosis
+nuclear medicine imaging	can detect	stress fractures
+nuclear medicine imaging	can detect	nonunion fractures
+nuclear medicine imaging	can detect	bone cysts
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can detect	bone metastases
+nuclear medicine imaging	can detect	bone marrow abnormalities
+nuclear medicine imaging	can detect	joint infections
+nuclear medicine imaging	can detect	bone cancer
+nuclear medicine imaging	can detect	bone inflammation
+nuclear medicine imaging	can detect	bone trauma
+nuclear medicine imaging	can detect	bone lesions
+nuclear medicine imaging	can detect	bone deformities
+nuclear medicine imaging	can detect	bone pain
+nuclear medicine imaging	can detect	bone healing
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can detect	bone resorption
+nuclear medicine imaging	can detect	bone remodeling
+nuclear medicine imaging	can detect	bone metabolism
+nuclear medicine imaging	can detect	bone turnover
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone defects
+nuclear medicine imaging	can detect	bone disorders
+nuclear medicine imaging	can detect	bone anomalies
+nuclear medicine imaging	can detect	bone pathologies
+nuclear medicine imaging	can detect	bone lesions
+nuclear medicine imaging	can detect	bone irregularities
+nuclear medicine imaging	can detect	bone erosions
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone diseases
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can detect	bone conditions
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone injuries
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can detect	bone metastases
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone disorders
+nuclear medicine imaging	can detect	bone defects
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone diseases
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can detect	bone conditions
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone injuries
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can detect	bone metastases
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone disorders
+nuclear medicine imaging	can detect	bone defects
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone diseases
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can detect	bone conditions
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone injuries
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can detect	bone metastases
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone disorders
+nuclear medicine imaging	can detect	bone defects
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone diseases
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can detect	bone conditions
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone injuries
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can detect	bone metastases
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can detect	bone malformations
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone disorders
+nuclear medicine imaging	can detect	bone defects
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can detect	bone diseases
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can detect	bone conditions

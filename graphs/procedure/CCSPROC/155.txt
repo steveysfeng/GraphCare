@@ -1,0 +1,99 @@
+arthrocentesis	is a	medical procedure
+arthrocentesis	used for	joint fluid aspiration
+arthrocentesis	can diagnose	joint infections
+joint fluid	is collected by	arthrocentesis
+joint fluid	can indicate	inflammatory conditions
+joint fluid	can relieve	joint pain
+arthrocentesis	can treat	gout
+arthrocentesis	can detect	crystal deposits
+arthrocentesis	performed under	local anesthesia
+arthrocentesis	can be guided by	ultrasound
+arthrocentesis	can be guided by	fluoroscopy
+arthrocentesis	can be guided by	MRI
+arthrocentesis	can be guided by	CT scan
+arthrocentesis	can be done	in outpatient setting
+arthrocentesis	can be done	in office
+arthrocentesis	can be done	in hospital
+complications	may occur after	arthrocentesis
+complications	include	joint infection
+complications	can be prevented by	sterilizing the skin
+complications	can be prevented by	using aseptic technique
+arthrocentesis	can be followed by	joint injection
+arthrocentesis	can be followed by	joint lavage
+arthrocentesis	can be followed by	joint drainage
+arthrocentesis	should be performed by	a trained healthcare provider
+arthrocentesis	should be performed under	sterile conditions
+arthrocentesis	should be performed using	a sterile needle
+arthrocentesis	requires	informed consent
+arthrocentesis	carries	a small risk of bleeding
+arthrocentesis	carries	a small risk of nerve injury
+arthrocentesis	carries	a small risk of allergic reaction
+arthrocentesis	carries	a small risk of joint damage
+arthrocentesis	can be repeated	if necessary
+arthrocentesis	can be done	in multiple joints
+arthrocentesis	can be done	with or without imaging guidance
+arthrocentesis	can be done	in children
+arthrocentesis	can be done	in adults
+arthrocentesis	can be done	in elderly patients
+arthrocentesis	can be done	in pregnant women
+arthrocentesis	can be done	in immunocompromised patients
+arthrocentesis	should be considered	in cases of joint effusion
+arthrocentesis	should be considered	in cases of suspected joint infection
+arthrocentesis	can help	guide treatment decisions
+arthrocentesis	can provide	rapid diagnosis
+arthrocentesis	can reduce	joint inflammation
+arthrocentesis	can improve	joint function
+arthrocentesis	is a	cost-effective procedure
+arthrocentesis	is a	minimally invasive procedure
+arthrocentesis	can be performed	in different joints
+arthrocentesis	can be performed	in large joints
+arthrocentesis	can be performed	in small joints
+arthrocentesis	can be performed	in weight-bearing joints
+arthrocentesis	can be performed	in non-weight-bearing joints
+arthrocentesis	can be performed	under local anesthesia
+arthrocentesis	can be performed	under general anesthesia
+arthrocentesis	has	low complication rates
+arthrocentesis	has	high success rates
+arthrocentesis	has	minimal downtime
+arthrocentesis	has	low risk of infection
+arthrocentesis	has	short recovery time
+arthrocentesis	can be performed	in different positions
+arthrocentesis	can be performed	with different needle sizes
+arthrocentesis	can be performed	with different needle lengths
+arthrocentesis	can be performed	with different needle gauges
+arthrocentesis	can be performed	with different syringe sizes
+arthrocentesis	can be performed	with different syringe volumes
+arthrocentesis	can be performed	with different needle angles
+arthrocentesis	can be performed	with different needle entry points
+arthrocentesis	can be performed	with different joint landmarks
+arthrocentesis	can be performed	using different needle insertion techniques
+arthrocentesis	can be performed	using different joint stabilization techniques
+arthrocentesis	can be performed	using different joint immobilization techniques
+arthrocentesis	can be performed	using different joint distraction techniques
+arthrocentesis	can be performed	using different joint compression techniques
+arthrocentesis	can be performed	using different joint aspiration techniques
+arthrocentesis	can be performed	using different joint injection techniques
+arthrocentesis	can be done	with sterile technique
+arthrocentesis	can be done	with closed technique
+arthrocentesis	can be done	with open technique
+arthrocentesis	can be done	with guided technique
+arthrocentesis	can be done	with blind technique
+arthrocentesis	can be done	with non-image-guided technique
+arthrocentesis	can be done	with image-guided technique
+arthrocentesis	can be done	with single needle technique
+arthrocentesis	can be done	with double needle technique
+arthrocentesis	can be done	with multiple needle technique
+arthrocentesis	can be done	with anterolateral approach
+arthrocentesis	can be done	with anteromedial approach
+arthrocentesis	can be done	with anterolateral suprapatellar approach
+arthrocentesis	can be done	with anteromedial suprapatellar approach
+arthrocentesis	can be done	with lateral suprapatellar approach
+arthrocentesis	can be done	with medial suprapatellar approach
+arthrocentesis	can be done	with retrograde retropatellar approach
+arthrocentesis	can be done	with retromedial retropatellar approach
+arthrocentesis	can be done	with Bunnell technique
+arthrocentesis	can be done	with Watson-Jones technique
+arthrocentesis	can be done	with Bruennler technique
+arthrocentesis	can be done	with new technique
+arthrocentesis	can be done	with modified technique
+arthrocentesis	can be done	with traditional technique

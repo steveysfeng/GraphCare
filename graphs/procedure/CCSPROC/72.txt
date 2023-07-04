@@ -1,0 +1,78 @@
+colostomy	is a	surgical procedure
+colostomy	used for	diverticulitis
+temporary colostomy	is a type of	colostomy
+temporary colostomy	used for	bowel obstruction
+permanent colostomy	is a type of	colostomy
+permanent colostomy	used for	colorectal cancer
+colostomy	can result in	stoma complications
+colostomy	can lead to	changes in body image
+colostomy	requires	ostomy bag
+colostomy bag	needs regular	maintenance
+colostomy	may cause	psychological impact
+colostomy	may require	dietary modifications
+colostomy	can be	reversible
+colostomy	can affect	quality of life
+colostomy	can increase	risk of infection
+colostomy	can cause	skin irritation
+colostomy	requires	professional healthcare support
+colostomy	has	post-operative care
+colostomy	can lead to	bowel dysfunction
+colostomy	can be	life-saving
+colostomy	is performed by	a surgeon
+colostomy	can require	follow-up surgeries
+colostomy	may affect	sexual function
+colostomy	can result in	electrolyte imbalances
+colostomy	can lead to	dehydration
+colostomy	is associated with	risk of hernia
+colostomy	can cause	leakage
+colostomy	necessitates	bowel management
+colostomy	can affect	body temperature regulation
+colostomy	may require	physical therapy
+colostomy	can lead to	fecal impaction
+colostomy	can cause	peristomal skin problems
+colostomy	may require	lifestyle adjustments
+colostomy	can impact	sleep quality
+colostomy	can result in	scar tissue formation
+colostomy	may necessitate	rehabilitation
+colostomy	can lead to	partial or complete bowel obstruction
+colostomy	can require	pain management
+colostomy	can cause	urinary problems
+colostomy	is associated with	risk of prolapse
+colostomy	can result in	hemorrhoids
+colostomy	may affect	physical appearance
+colostomy	can lead to	gas and bloating
+colostomy	can require	dietary counseling
+colostomy	can cause	adhesions
+colostomy	can result in	parastomal hernia
+colostomy	can lead to	body fluid imbalances
+colostomy	may require	support groups
+colostomy	can necessitate	social adjustments
+colostomy	can cause	bowel perforation
+colostomy	can result in	peritonitis
+colostomy	may affect	fertility
+colostomy	can lead to	self-image concerns
+colostomy	may require	emotional support
+colostomy	can cause	constipation
+colostomy	can result in	fecal incontinence
+colostomy	may affect	work and employment
+colostomy	can lead to	malnutrition
+colostomy	can require	ongoing care
+colostomy	can cause	sepsis
+colostomy	can result in	intestinal obstruction
+colostomy	may affect	body mechanics
+colostomy	can lead to	impaired wound healing
+colostomy	may require	changes in clothing
+colostomy	can cause	fistulas
+colostomy	can result in	kidney problems
+colostomy	may affect	body weight
+colostomy	can lead to	ileus
+colostomy	can result in	rectal stump blowout
+colostomy	may require	financial adjustments
+colostomy	can cause	retraction
+colostomy	can result in	necrosis
+colostomy	may affect	physical mobility
+colostomy	can lead to	dumping syndrome
+colostomy	can require	specialized care
+colostomy	can cause	stomal prolapse
+colostomy	can result in	bag leakage
+colostomy	may affect	body mechanics

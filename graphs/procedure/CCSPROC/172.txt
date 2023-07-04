@@ -1,0 +1,121 @@
+skin graft	is a	surgical procedure
+skin graft	used for	treating burns
+autograft	is a type of	skin graft
+autograft	uses	patient's own skin
+allograft	is a type of	skin graft
+allograft	uses	donor's skin
+skin graft	can help	promote wound healing
+skin graft	may cause	infection
+skin graft	can lead to	scarring
+skin graft	can improve	appearance
+skin graft	requires	proper wound care
+skin graft	needs	follow-up appointments
+skin graft	has	risk of rejection
+skin graft	can result in	graft failure
+skin graft	is a	complex procedure
+skin graft	may require	multiple surgeries
+skin graft	can lead to	complications
+skin graft	is performed	by a plastic surgeon
+skin graft	has	recovery time
+skin graft	requires	anesthesia
+skin graft	can be	painful
+skin graft	is	expensive
+skin graft	is	time-consuming
+skin graft	may have	long-term effects
+skin graft	is	performed in a hospital
+skin graft	is	invasive
+skin graft	can be	life-saving
+skin graft	has	success rates
+skin graft	has	limitations
+skin graft	may have	psychological impact
+skin graft	is	specialized
+skin graft	should be	done meticulously
+skin graft	is	preferred method for large wounds
+skin graft	can be	graft-versus-host disease
+skin graft	can lead to	skin contracture
+skin graft	has	alternative treatments
+skin graft	can be	combined with other procedures
+skin graft	is	commonly used in reconstructive surgery
+skin graft	has	different techniques
+skin graft	can be	split-thickness graft
+skin graft	can be	full-thickness graft
+skin graft	can be	mesh graft
+skin graft	can be	sheet graft
+skin graft	can be	pedicle graft
+skin graft	can be	composite graft
+skin graft	can be	free flap graft
+skin graft	can be	rotational flap graft
+skin graft	can be	transposition flap graft
+skin graft	can be	microvascular flap graft
+skin graft	can be	muscle flap graft
+skin graft	can be	myocutaneous flap graft
+skin graft	can be	perforator flap graft
+skin graft	can be	tunneled flap graft
+skin graft	can be	distant flap graft
+skin graft	can be	local flap graft
+skin graft	can be	regional flap graft
+skin graft	can be	composite flap graft
+skin graft	can be	island flap graft
+skin graft	can be	axial pattern flap graft
+skin graft	can be	random pattern flap graft
+skin graft	can be	distally based flap graft
+skin graft	can be	transverse rectus abdominis myocutaneous flap graft
+skin graft	can be	mastectomy flap graft
+skin graft	can be	groin flap graft
+skin graft	can be	forehead flap graft
+skin graft	can be	forearm flap graft
+skin graft	can be	radial forearm flap graft
+skin graft	can be	anterolateral thigh flap graft
+skin graft	can be	deep inferior epigastric perforator flap graft
+skin graft	can be	latissimus dorsi flap graft
+skin graft	can be	deep circumflex iliac artery flap graft
+skin graft	can be	medial plantar artery flap graft
+skin graft	can be	scapular flap graft
+skin graft	can be	serratus anterior flap graft
+skin graft	can be	gluteal artery perforator flap graft
+skin graft	can be	particular artery perforator flap graft
+skin graft	can be	descending branch of lateral circumflex femoral artery flap graft
+skin graft	can be	gracilis flap graft
+skin graft	can be	transverse upper gracilis flap graft
+skin graft	can be	profunda artery perforator flap graft
+skin graft	can be	sural flap graft
+skin graft	can be	trapezius flap graft
+skin graft	can be	temporoparietal flap graft
+skin graft	can be	free muscle flap graft
+skin graft	can be	free osteocutaneous flap graft
+skin graft	can be	free skin flap graft
+skin graft	can be	free fasciocutaneous flap graft
+skin graft	can be	free bone flap graft
+skin graft	can be	free tendon flap graft
+skin graft	can be	free artery flap graft
+skin graft	can be	free nerve flap graft
+skin graft	can be	free vein flap graft
+skin graft	can be	free lymphatic flap graft
+skin graft	can be	free viscus flap graft
+skin graft	can be	free cartilage flap graft
+skin graft	can be	free fat flap graft
+skin graft	can be	free gland flap graft
+skin graft	can be	free ligament flap graft
+skin graft	can be	free duct flap graft
+skin graft	can be	free diverticulum flap graft
+skin graft	can be	free lymph node flap graft
+skin graft	can be	free pacemaker flap graft
+skin graft	can be	free spermatic cord flap graft
+skin graft	can be	free stump graft
+skin graft	can be	free vas deferens graft
+skin graft	can be	free muscle-tendon flap graft
+skin graft	can be	free muscle-nerve flap graft
+skin graft	can be	free muscle-bone flap graft
+skin graft	can be	free bone-fat flap graft
+skin graft	can be	free bone-cartilage flap graft
+skin graft	can be	free bone-lymphatic flap graft
+skin graft	can be	free bone-vein flap graft
+skin graft	can be	free bone-gland flap graft
+skin graft	can be	free bone-ligament flap graft
+skin graft	can be	free bone-duct flap graft
+skin graft	can be	free bone-diverticulum flap graft
+skin graft	can be	free bone-lymph node flap graft
+skin graft	can be	free bone-pacemaker flap graft
+skin graft	can be	free bone-testicular vein flap graft
+skin graft	can be	free bone-stump graft
+skin graft	can be	free bone-nasal bone flap graft

@@ -1,0 +1,14 @@
+respiratory therapy	is a	medical treatment
+respiratory therapy	used for	improving lung function
+pulmonary rehabilitation	is a type of	respiratory therapy
+pulmonary rehabilitation	helps in	reducing symptoms of chronic respiratory diseases
+pulmonary rehabilitation	can include	exercise training
+exercise training	improves	respiratory muscle strength
+respiratory therapy	can be used for	managing asthma
+respiratory therapy	can be used for	managing COPD
+respiratory therapy	can be used for	managing cystic fibrosis
+respiratory therapy	can be used for	managing pneumonia
+respiratory therapy	can be used for	managing respiratory infections
+respiratory therapy	can be used for	managing respiratory distress syndrome
+respiratory therapy	can be used for	managing respiratory failure
+respiratory therapy	can be used for	managing lung cancer

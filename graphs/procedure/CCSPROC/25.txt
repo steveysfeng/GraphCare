@@ -1,0 +1,229 @@
+diagnostic procedures	are performed on	ear
+audiometry	is a type of	diagnostic procedure
+audiometry	measures	hearing loss
+hearing loss	is a	symptom
+audiometry	can be used for	hearing screening
+audiometry	is used in	ENT clinics
+otoacoustic emissions (OAE) test	is a type of	diagnostic procedure
+OAE test	measures	cochlear function
+cochlear function	is related to	hearing loss
+OAE test	can be used for	newborn hearing screening
+OAE test	is often combined with	audiometry
+tympanometry	is a type of	diagnostic procedure
+tympanometry	measures	middle ear function
+middle ear function	is related to	conductive hearing loss
+tympanometry	can be used for	diagnosis of otitis media
+tympanometry	is commonly used in	pediatric clinics
+otoendoscopy	is a type of	diagnostic procedure
+otoendoscopy	visualizes	ear canal and eardrum
+ear canal and eardrum	can show	abnormalities
+otoendoscopy	is used in	ENT clinics
+otoendoscopy	can help with	ear wax removal
+videonystagmography (VNG)	is a type of	diagnostic procedure
+VNG	measures	balance function
+balance function	is related to	dizziness
+VNG	can be used for	testing of vestibular disorders
+VNG	is commonly used in	neurotology clinics
+caloric stimulation	is a type of	diagnostic procedure
+caloric stimulation	assesses	vestibular function
+vestibular function	is related to	vertigo
+caloric stimulation	can be used for	diagnosis of vestibular neuritis
+caloric stimulation	is performed in	audiology clinics
+otoacoustic emissions (OAE) test	is often combined with	diagnostic procedures on ear
+tympanometry	is often combined with	diagnostic procedures on ear
+otoendoscopy	is often combined with	diagnostic procedures on ear
+videonystagmography (VNG)	is often combined with	diagnostic procedures on ear
+caloric stimulation	is often combined with	diagnostic procedures on ear
+audiometry	is commonly used in	ENT clinics
+OAE test	is commonly used in	ENT clinics
+tympanometry	is commonly used in	pediatric clinics
+otoendoscopy	is commonly used in	ENT clinics
+videonystagmography (VNG)	is commonly used in	neurotology clinics
+caloric stimulation	is commonly performed in	audiology clinics
+diagnostic procedures	are performed for	evaluation of hearing loss
+diagnostic procedures	are performed for	evaluation of balance disorders
+diagnostic procedures	are performed for	evaluation of ear infections
+diagnostic procedures	are performed for	evaluation of otosclerosis
+diagnostic procedures	are performed for	assessment of tinnitus
+diagnostic procedures	are performed for	evaluation of dizziness
+diagnostic procedures	are performed for	diagnosis of Meniere's disease
+diagnostic procedures	are performed for	evaluation of acoustic neuroma
+diagnostic procedures	are performed for	assessment of ear trauma
+diagnostic procedures	are performed for	evaluation of cholesteatoma
+diagnostic procedures	are performed for	diagnosis of eustachian tube dysfunction
+diagnostic procedures	are performed for	evaluation of vestibular migraines
+diagnostic procedures	are performed for	assessment of barotrauma
+diagnostic procedures	are performed for	evaluation of ototoxicity
+diagnostic procedures	are performed for	assessment of acoustic trauma
+diagnostic procedures	are performed for	diagnosis of labyrinthitis
+diagnostic procedures	are performed for	evaluation of otolith dysfunction
+diagnostic procedures	are performed for	assessment of perilymphatic fistula
+diagnostic procedures	are performed for	evaluation of superior semicircular canal dehiscence
+diagnostic procedures	are performed for	diagnosis of congenital hearing loss
+diagnostic procedures	are performed for	assessment of noise-induced hearing loss
+diagnostic procedures	are performed for	evaluation of autoimmune inner ear disease
+diagnostic procedures	are performed for	diagnosis of sensorineural hearing loss
+diagnostic procedures	are performed for	assessment of sudden sensorineural hearing loss
+diagnostic procedures	are performed for	evaluation of ototoxic medications
+diagnostic procedures	are performed for	diagnosis of presbycusis
+diagnostic procedures	are performed for	assessment of noise trauma
+diagnostic procedures	are performed for	evaluation of cochlear implants
+diagnostic procedures	are performed for	diagnosis of vestibular schwannoma
+diagnostic procedures	are performed for	assessment of noise exposure
+diagnostic procedures	are performed for	evaluation of otospongiosis
+diagnostic procedures	are performed for	diagnosis of noise-induced hearing loss
+diagnostic procedures	are performed for	assessment of inner ear malformations
+diagnostic procedures	are performed for	evaluation of labyrinthine concussion
+diagnostic procedures	are performed for	diagnosis of sudden deafness
+diagnostic procedures	are performed for	assessment of vestibular migraine
+diagnostic procedures	are performed for	evaluation of enlarged vestibular aqueduct
+diagnostic procedures	are performed for	diagnosis of endolymphatic hydrops
+diagnostic procedures	are performed for	assessment of recurrent otitis media
+diagnostic procedures	are performed for	evaluation of ototoxicity monitoring
+diagnostic procedures	are performed for	diagnosis of vestibular neuronitis
+diagnostic procedures	are performed for	assessment of cochlear implant candidacy
+diagnostic procedures	are performed for	evaluation of noise protection
+diagnostic procedures	are performed for	diagnosis of aminoglycoside toxicity
+diagnostic procedures	are performed for	assessment of foreign body in ear
+diagnostic procedures	are performed for	evaluation of ototoxic antibiotics
+diagnostic procedures	are performed for	diagnosis of perforated eardrum
+diagnostic procedures	are performed for	assessment of sudden hearing loss
+diagnostic procedures	are performed for	evaluation of middle ear infection
+diagnostic procedures	are performed for	diagnosis of otolithic dysfunction
+diagnostic procedures	are performed for	assessment of cochlear implant function
+diagnostic procedures	are performed for	evaluation of eustachian tube dysfunction
+diagnostic procedures	are performed for	diagnosis of tympanic membrane perforation
+diagnostic procedures	are performed for	assessment of vestibular suppressants
+diagnostic procedures	are performed for	evaluation of labyrinthitis ossificans
+diagnostic procedures	are performed for	diagnosis of labyrinthine fistula
+diagnostic procedures	are performed for	assessment of vestibular toxicity
+diagnostic procedures	are performed for	evaluation of recurrent cholesteatoma
+diagnostic procedures	are performed for	diagnosis of cochlear otosclerosis
+diagnostic procedures	are performed for	assessment of noise-induced tinnitus
+diagnostic procedures	are performed for	evaluation of sudden sensorineural hearing loss
+diagnostic procedures	are performed for	diagnosis of vestibular paroxysmia
+diagnostic procedures	are performed for	assessment of Meniere's disease
+diagnostic procedures	are performed for	evaluation of noise-induced hyperacusis
+diagnostic procedures	are performed for	diagnosis of superior semicircular canal dehiscence
+diagnostic procedures	are performed for	assessment of congenital cholesteatoma
+diagnostic procedures	are performed for	evaluation of inner ear concussion
+diagnostic procedures	are performed for	diagnosis of labyrinthine atrophy
+diagnostic procedures	are performed for	assessment of barotitis media
+diagnostic procedures	are performed for	evaluation of recurrent otitis externa
+diagnostic procedures	are performed for	diagnosis of autoimmune inner ear disease
+diagnostic procedures	are performed for	assessment of endolymphatic hydrops
+diagnostic procedures	are performed for	evaluation of otosclerosis surgery
+diagnostic procedures	are performed for	diagnosis of glomus tympanicum tumor
+diagnostic procedures	are performed for	assessment of otosclerotic deafness
+diagnostic procedures	are performed for	evaluation of inner ear trauma
+diagnostic procedures	are performed for	diagnosis of labyrinthine infarction
+diagnostic procedures	are performed for	assessment of vestibular neuritis
+diagnostic procedures	are performed for	evaluation of pulsatile tinnitus
+diagnostic procedures	are performed for	diagnosis of Eustachian tube obstruction
+diagnostic procedures	are performed for	assessment of recurrent vestibular neuritis
+diagnostic procedures	are performed for	evaluation of dizziness with hearing loss
+diagnostic procedures	are performed for	diagnosis of vestibular migraine
+diagnostic procedures	are performed for	assessment of perforated tympanic membrane
+diagnostic procedures	are performed for	evaluation of endolymphatic hydrops treatment
+diagnostic procedures	are performed for	diagnosis of noise-induced tinnitus
+diagnostic procedures	are performed for	assessment of minor head trauma
+diagnostic procedures	are performed for	evaluation of labyrinthitis ossificans surgery
+diagnostic procedures	are performed for	diagnosis of labyrinthine concussion
+diagnostic procedures	are performed for	assessment of glutamate-mediated excitotoxicity
+diagnostic procedures	are performed for	evaluation of sudden idiopathic hearing loss
+diagnostic procedures	are performed for	diagnosis of vestibular schwannoma surgery
+diagnostic procedures	are performed for	assessment of acute labyrinthitis
+diagnostic procedures	are performed for	evaluation of chronic otitis media
+diagnostic procedures	are performed for	diagnosis of sensorineural hearing loss
+diagnostic procedures	are performed for	assessment of congenital aural atresia
+diagnostic procedures	are performed for	evaluation of electro-acoustic stimulation for deafness
+diagnostic procedures	are performed for	diagnosis of ototoxic antibiotic use
+diagnostic procedures	are performed for	assessment of post-traumatic vertigo
+diagnostic procedures	are performed for	evaluation of sudden idiopathic hearing loss treatment
+diagnostic procedures	are performed for	diagnosis of vestibular suppressant use
+diagnostic procedures	are performed for	assessment of autoimmune inner ear disease treatment
+diagnostic procedures	are performed for	evaluation of chronic otitis media with effusion
+diagnostic procedures	are performed for	diagnosis of otoferlin mutation
+diagnostic procedures	are performed for	assessment of expanded genetic testing
+diagnostic procedures	are performed for	evaluation of gusher surgery
+diagnostic procedures	are performed for	diagnosis of cerebrospinal fluid leak
+diagnostic procedures	are performed for	assessment of cholesteatoma resection
+diagnostic procedures	are performed for	evaluation of Cogan's syndrome
+diagnostic procedures	are performed for	diagnosis of labyrinthine concussion surgery
+diagnostic procedures	are performed for	assessment of expandable stapes prosthesis
+diagnostic procedures	are performed for	evaluation of Münchausen syndrome by proxy
+diagnostic procedures	are performed for	diagnosis of perforated inner ear
+diagnostic procedures	are performed for	assessment of traumatic perilymphatic fistula
+diagnostic procedures	are performed for	evaluation of labyrinthitis anesthesia
+diagnostic procedures	are performed for	diagnosis of labyrinthine infarction surgery
+diagnostic procedures	are performed for	assessment of glomus tumor removal
+diagnostic procedures	are performed for	evaluation of bone-anchored hearing aids
+diagnostic procedures	are performed for	diagnosis of labyrinthitis surgery
+diagnostic procedures	are performed for	assessment of vestibular irradiation
+diagnostic procedures	are performed for	evaluation of labryinthectomy surgery
+diagnostic procedures	are performed for	diagnosis of labyrinthine atrophy surgery
+diagnostic procedures	are performed for	assessment of evolving acute labyrinthitis
+diagnostic procedures	are performed for	evaluation of bilateral conductive hearing loss
+diagnostic procedures	are performed for	diagnosis of otosclerotic cochlear otosclerosis
+diagnostic procedures	are performed for	assessment of Dohmen gain calibration
+diagnostic procedures	are performed for	evaluation of habituation therapy for tinnitus
+diagnostic procedures	are performed for	diagnosis of otosclerotic fenestral otosclerosis
+diagnostic procedures	are performed for	assessment of congenital aural atresia treatment
+diagnostic procedures	are performed for	evaluation of inferior colliculus tinnitus
+diagnostic procedures	are performed for	diagnosis of noise-induced hearning loss prevention
+diagnostic procedures	are performed for	assessment of perforated round window membrane
+diagnostic procedures	are performed for	evaluation of sudden scensorineural hearing loss surgery
+diagnostic procedures	are performed for	diagnosis of labyrinthine injury
+diagnostic procedures	are performed for	assessment of bilateral sudden hearing loss
+diagnostic procedures	are performed for	evaluation of chronic otitis media surgery
+diagnostic procedures	are performed for	diagnosis of cochlear otosclerosis with labyrinthine involvement
+diagnostic procedures	are performed for	assessment of cholesteatoma removal surgery
+diagnostic procedures	are performed for	evaluation of labyrinthitis ossificans anesthesia
+diagnostic procedures	are performed for	diagnosis of dilated vestibular aqueduct
+diagnostic procedures	are performed for	assessment of vestibular neuronitis treatment
+diagnostic procedures	are performed for	evaluation of ear irrigation
+diagnostic procedures	are performed for	diagnosis of middle ear microangioma
+diagnostic procedures	are performed for	assessment of sudden sensorineural hearing loss treatment
+diagnostic procedures	are performed for	evaluation of inner ear abscess
+diagnostic procedures	are performed for	diagnosis of labyrinthine concussion surgery
+diagnostic procedures	are performed for	assessment of vestibular assist device
+diagnostic procedures	are performed for	evaluation of en bloc stapes manipulation
+diagnostic procedures	are performed for	diagnosis of labyrinthinesemicircular canal fistula
+diagnostic procedures	are performed for	assessment of vestibular suppressant use
+diagnostic procedures	are performed for	evaluation of sudden sensorineural hearing loss anesthesia
+diagnostic procedures	are performed for	diagnosis of inner ear laceration
+diagnostic procedures	are performed for	assessment of cochlear implant failure
+diagnostic procedures	are performed for	evaluation of enlarged internal cochlear aqueduct
+diagnostic procedures	are performed for	diagnosis of labyrinthine arteriovenous malformation
+diagnostic procedures	are performed for	assessment of labyrinthine concussion anesthesia
+diagnostic procedures	are performed for	evaluation of otosclerosis with saccular involvement
+diagnostic procedures	are performed for	diagnosis of labyrinthine dysplasia
+diagnostic procedures	are performed for	assessment of bilateral idiopathic sudden hearing loss
+diagnostic procedures	are performed for	evaluation of otosclerosis with vestibular involvement
+diagnostic procedures	are performed for	diagnosis of temporal lobe epilepsy
+diagnostic procedures	are performed for	assessment of non-hereditary sudden hearing loss
+diagnostic procedures	are performed for	evaluation of total ossicular reconstruction
+diagnostic procedures	are performed for	diagnosis of perilymphatic fistula surgery
+diagnostic procedures	are performed for	assessment of labyrinthine concussion surgery
+diagnostic procedures	are performed for	evaluation of bilateral idiopathic sudden sensorineural hearing loss
+diagnostic procedures	are performed for	diagnosis of bilateral recurrent otitis media
+diagnostic procedures	are performed for	assessment of glomus tumor radiation
+diagnostic procedures	are performed for	evaluation of labyrinthine migraine
+diagnostic procedures	are performed for	diagnosis of superior semicircular canal dehiscence with labyrinthine involvement
+diagnostic procedures	are performed for	assessment of hemotoxicity otosclerosis
+diagnostic procedures	are performed for	evaluation of dimethyl sulfoxide ototoxicity
+diagnostic procedures	are performed for	diagnosis of saccular otosclerosis
+diagnostic procedures	are performed for	assessment of bilateral congenital aural atresia
+diagnostic procedures	are performed for	evaluation of cochlear otosclerosis surgery
+diagnostic procedures	are performed for	diagnosis of bilateral dilated vestibular aqueduct
+diagnostic procedures	are performed for	assessment of labyrinthine concussion surgery
+diagnostic procedures	are performed for	evaluation of perilymphatic fistula surgery
+diagnostic procedures	are performed for	diagnosis of vestibular schwannoma surgery anesthesia
+diagnostic procedures	are performed for	assessment of meningitis-related sensorineural hearing loss
+diagnostic procedures	are performed for	evaluation of externally coupled cochlear implant
+diagnostic procedures	are performed for	diagnosis of labyrinthine cortex infarction
+diagnostic procedures	are performed for	assessment of labyrinthine concussion anesthesia
+diagnostic procedures	are performed for	evaluation of perilymphatic fistula repair
+diagnostic procedures	are performed for	diagnosis of cerebellopontine angle tumor
+diagnosis of cochlear otosclerosis surgery
+assessment of labyrinthine concussion surgery

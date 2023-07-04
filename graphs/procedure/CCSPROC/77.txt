@@ -1,0 +1,84 @@
+proctoscopy	is a	medical procedure
+proctoscopy	used for	diagnosis
+proctoscopy	examines	rectum
+proctoscopy	examines	anus
+anorectal biopsy	is a type of	proctoscopy
+anorectal biopsy	used for	diagnosis
+anorectal biopsy	collects	tissue sample
+anorectal biopsy	detects	cancer
+anorectal biopsy	detects	infection
+anorectal biopsy	detects	inflammation
+anorectal biopsy	detects	polyps
+anorectal biopsy	detects	hemorrhoids
+anorectal biopsy	detects	ulcers
+anorectal biopsy	detects	abscess
+anorectal biopsy	detects	fistulas
+anorectal biopsy	detects	fissures
+anorectal biopsy	detects	parasites
+anorectal biopsy	detects	sexually transmitted infections
+anorectal biopsy	detects	autoimmune diseases
+anorectal biopsy	detects	Crohn's disease
+anorectal biopsy	detects	ulcerative colitis
+anorectal biopsy	detects	diverticulitis
+anorectal biopsy	detects	proctitis
+anorectal biopsy	detects	rectal prolapse
+anorectal biopsy	detects	rectal polyps
+anorectal biopsy	detects	rectal cancer
+anorectal biopsy	detects	anal fissures
+anorectal biopsy	detects	anal abscess
+anorectal biopsy	detects	anal fistulas
+anorectal biopsy	detects	anal warts
+anorectal biopsy	detects	anal cancer
+anorectal biopsy	detects	anal dysplasia
+anorectal biopsy	detects	anal condyloma
+anorectal biopsy	detects	anal melanoma
+anorectal biopsy	detects	anal squamous cell carcinoma
+anorectal biopsy	detects	anal basal cell carcinoma
+anorectal biopsy	detects	anal gland cysts
+anorectal biopsy	detects	anal melanocytic nevi
+anorectal biopsy	detects	anal intraepithelial neoplasia
+anorectal biopsy	detects	anal adenocarcinoma
+anorectal biopsy	detects	anal sarcoma
+anorectal biopsy	detects	anal leiomyosarcoma
+anorectal biopsy	detects	anal rhabdomyosarcoma
+anorectal biopsy	detects	anal leiomyoma
+anorectal biopsy	detects	anal schwannoma
+anorectal biopsy	detects	anal lipoma
+anorectal biopsy	detects	anal neurofibroma
+anorectal biopsy	detects	anal fibroma
+anorectal biopsy	detects	anal hemangioma
+anorectal biopsy	detects	anal lymphangioma
+anorectal biopsy	detects	anal desmoid tumor
+anorectal biopsy	detects	anal Kaposi sarcoma
+anorectal biopsy	detects	anal neuroendocrine tumors
+anorectal biopsy	detects	anal carcinoid tumor
+anorectal biopsy	detects	anal small cell carcinoma
+anorectal biopsy	detects	anal large cell neuroendocrine carcinoma
+anorectal biopsy	detects	anal Merkel cell carcinoma
+anorectal biopsy	detects	anal mucoepidermoid carcinoma
+anorectal biopsy	detects	anal adenoid cystic carcinoma
+anorectal biopsy	detects	anal acinar cell carcinoma
+anorectal biopsy	detects	anal squamous cell carcinoma
+anorectal biopsy	detects	anal undifferentiated carcinoma
+anorectal biopsy	detects	anal lymphoepithelioma-like carcinoma
+anorectal biopsy	detects	anal sarcomatoid carcinoma
+anorectal biopsy	detects	anal verrucous carcinoma
+anorectal biopsy	detects	anal adenocarcinoma not otherwise specified
+anorectal biopsy	detects	anal transitional cell carcinoma
+anorectal biopsy	detects	anal urothelial carcinoma
+anorectal biopsy	detects	anal angiosarcoma
+anorectal biopsy	detects	anal myxoma
+anorectal biopsy	detects	anal granular cell tumor
+anorectal biopsy	detects	anal gastrointestinal stromal tumor
+anorectal biopsy	detects	anal liposarcoma
+anorectal biopsy	detects	anal papillary serous carcinoma
+anorectal biopsy	detects	anal clear cell carcinoma
+anorectal biopsy	detects	anal endometrioid carcinoma
+anorectal biopsy	detects	anal transitional cell carcinoma
+anorectal biopsy	detects	anal small cell carcinoma
+anorectal biopsy	detects	anal large cell neuroendocrine carcinoma
+anorectal biopsy	detects	anal sarcomatoid carcinoma
+anorectal biopsy	detects	anal verrucous carcinoma
+anorectal biopsy	detects	anal adenocarcinoma not otherwise specified
+anorectal biopsy	detects	anal transitional cell carcinoma
+anorectal biopsy	detects	anal urothelial carcinoma

@@ -1,0 +1,110 @@
+creation of arteriovenous fistula	is a	medical procedure
+creation of arteriovenous fistula	used for	dialysis
+revision of arteriovenous fistula	is a	medical procedure
+revision of arteriovenous fistula	used for	improving dialysis
+removal of arteriovenous fistula	is a	medical procedure
+removal of arteriovenous fistula	used for	discontinuing dialysis
+creation of vessel-to-vessel cannula	is a	medical procedure
+creation of vessel-to-vessel cannula	used for	dialysis
+revision of vessel-to-vessel cannula	is a	medical procedure
+revision of vessel-to-vessel cannula	used for	improving dialysis
+removal of vessel-to-vessel cannula	is a	medical procedure
+removal of vessel-to-vessel cannula	used for	discontinuing dialysis
+creation of arteriovenous fistula	can cause	bleeding
+creation of arteriovenous fistula	can lead to	infection
+creation of arteriovenous fistula	can result in	fistula maturation
+creation of arteriovenous fistula	can result in	increased blood flow
+revision of arteriovenous fistula	can cause	fistula stenosis
+revision of arteriovenous fistula	can lead to	thrombosis
+revision of arteriovenous fistula	can result in	improved dialysis efficiency
+revision of arteriovenous fistula	can result in	prolonging fistula lifespan
+removal of arteriovenous fistula	can cause	fistula site infection
+removal of arteriovenous fistula	can lead to	fistula closure
+removal of arteriovenous fistula	can result in	discontinuation of dialysis
+creation of vessel-to-vessel cannula	can cause	infection
+creation of vessel-to-vessel cannula	can lead to	thrombosis
+creation of vessel-to-vessel cannula	can result in	improved dialysis efficiency
+creation of vessel-to-vessel cannula	can result in	easier access
+revision of vessel-to-vessel cannula	can cause	cannula malfunction
+revision of vessel-to-vessel cannula	can lead to	blood clots formation
+revision of vessel-to-vessel cannula	can result in	prolonging cannula lifespan
+revision of vessel-to-vessel cannula	can result in	improved dialysis efficiency
+removal of vessel-to-vessel cannula	can cause	infection
+removal of vessel-to-vessel cannula	can lead to	discontinuation of dialysis
+removal of vessel-to-vessel cannula	can result in	removal of access point
+creation of arteriovenous fistula	is recommended for	long-term dialysis patients
+creation of arteriovenous fistula	is not suitable for	patients with poor vessel quality
+creation of arteriovenous fistula	is suitable for	patients with adequate vessels
+revision of arteriovenous fistula	is recommended for	patients with compromised dialysis
+revision of arteriovenous fistula	is not suitable for	patients with high risk of complications
+revision of arteriovenous fistula	is suitable for	patients with failing fistulas
+removal of arteriovenous fistula	is recommended for	patients with successful kidney transplant
+removal of arteriovenous fistula	is not suitable for	patients with no alternative access points
+removal of arteriovenous fistula	is suitable for	patients with fistula dysfunction
+creation of vessel-to-vessel cannula	is recommended for	patients with poor vascular anatomy
+creation of vessel-to-vessel cannula	is not suitable for	patients with high risk of infection
+creation of vessel-to-vessel cannula	is suitable for	patients with failed fistula attempts
+revision of vessel-to-vessel cannula	is recommended for	patients with cannula obstruction
+revision of vessel-to-vessel cannula	is not suitable for	patients with complex vascular networks
+revision of vessel-to-vessel cannula	is suitable for	patients with cannula infection
+removal of vessel-to-vessel cannula	is recommended for	patients with successful kidney transplant
+removal of vessel-to-vessel cannula	is not suitable for	patients with high risk of infection
+removal of vessel-to-vessel cannula	is suitable for	patients with cannula dysfunction
+creation of arteriovenous fistula	can improve	dialysis efficiency
+creation of arteriovenous fistula	can increase	patient comfort
+creation of arteriovenous fistula	can decrease	dialysis-related complications
+creation of arteriovenous fistula	can enhance	quality of life
+revision of arteriovenous fistula	can improve	cannulation success rate
+revision of arteriovenous fistula	can increase	dialysis adequacy
+revision of arteriovenous fistula	can decrease	hospitalization rate
+revision of arteriovenous fistula	can enhance	patient satisfaction
+removal of arteriovenous fistula	can decrease	need for vascular access maintenance
+removal of arteriovenous fistula	can improve	patient mobility
+removal of arteriovenous fistula	can reduce	infection risk
+creation of vessel-to-vessel cannula	can improve	dialysis adequacy
+creation of vessel-to-vessel cannula	can increase	cannulation success rate
+creation of vessel-to-vessel cannula	can decrease	hospitalization rate
+creation of vessel-to-vessel cannula	can enhance	patient satisfaction
+revision of vessel-to-vessel cannula	can improve	cannulation success rate
+revision of vessel-to-vessel cannula	can increase	dialysis efficiency
+revision of vessel-to-vessel cannula	can decrease	risk of infection
+revision of vessel-to-vessel cannula	can enhance	patient comfort
+removal of vessel-to-vessel cannula	can decrease	need for vascular access maintenance
+removal of vessel-to-vessel cannula	can improve	patient mobility
+removal of vessel-to-vessel cannula	can reduce	infection risk
+creation of arteriovenous fistula	is performed by	vascular surgeon
+creation of arteriovenous fistula	is assisted by	vascular access nurse
+revision of arteriovenous fistula	is performed by	interventional radiologist
+revision of arteriovenous fistula	is assisted by	dialysis technician
+removal of arteriovenous fistula	is performed by	general surgeon
+removal of arteriovenous fistula	is assisted by	surgical nurse
+creation of vessel-to-vessel cannula	is performed by	interventional radiologist
+creation of vessel-to-vessel cannula	is assisted by	dialysis technician
+revision of vessel-to-vessel cannula	is performed by	vascular surgeon
+revision of vessel-to-vessel cannula	is assisted by	surgical nurse
+removal of vessel-to-vessel cannula	is performed by	general surgeon
+removal of vessel-to-vessel cannula	is assisted by	surgical nurse
+creation of arteriovenous fistula	can be performed	in an outpatient setting
+creation of arteriovenous fistula	can be performed	under local anesthesia
+creation of arteriovenous fistula	can take	1-2 hours
+creation of arteriovenous fistula	can require	stitches
+revision of arteriovenous fistula	can be performed	in an outpatient setting
+revision of arteriovenous fistula	can be performed	under local anesthesia
+revision of arteriovenous fistula	can take	1-2 hours
+revision of arteriovenous fistula	can require	catheter insertion
+removal of arteriovenous fistula	can be performed	in an outpatient setting
+removal of arteriovenous fistula	can be performed	under local anesthesia
+removal of arteriovenous fistula	can take	1-2 hours
+removal of arteriovenous fistula	can require	sutures
+creation of vessel-to-vessel cannula	can be performed	in an outpatient setting
+creation of vessel-to-vessel cannula	can be performed	under local anesthesia
+creation of vessel-to-vessel cannula	can take	1-2 hours
+creation of vessel-to-vessel cannula	can require	tunneling technique
+revision of vessel-to-vessel cannula	can be performed	in an outpatient setting
+revision of vessel-to-vessel cannula	can be performed	under local anesthesia
+revision of vessel-to-vessel cannula	can take	1-2 hours
+revision of vessel-to-vessel cannula	can require	catheter replacement
+removal of vessel-to-vessel cannula	can be performed	in an outpatient setting
+removal of vessel-to-vessel cannula	can be performed	under local anesthesia
+removal of vessel-to-vessel cannula	can take	1-2 hours
+removal of vessel-to-vessel cannula	can require	sutures

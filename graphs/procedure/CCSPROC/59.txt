@@ -1,0 +1,229 @@
+other	is a	medical procedure
+procedures	can be performed on	vessels
+vessels	are part of	head and neck
+procedures	can be performed on	head and neck
+procedures	can treat	vascular conditions
+procedures	can be invasive
+procedures	can require anesthesia
+procedures	can have complications
+procedures	can be life-saving
+procedures	can be minimally invasive
+procedures	can be performed in a hospital
+procedures	can be performed in an outpatient setting
+procedures	can be performed by a surgeon
+procedures	can require specialized equipment
+procedures	can require imaging guidance
+procedures	can be performed using endovascular techniques
+procedures	can be performed using open surgery
+procedures	can have long recovery times
+procedures	can improve blood flow
+procedures	can prevent stroke
+procedures	can relieve pain
+procedures	can restore function
+procedures	can be done for both medical and cosmetic reasons
+procedures	can be covered by insurance
+procedures	can be expensive
+procedures	can require pre-operative evaluation
+procedures	can require post-operative follow-up
+procedures	can require physical therapy
+procedures	can require medications
+procedures	can require lifestyle changes
+procedures	can be recommended by a healthcare provider
+procedures	can be discussed in a consultation
+procedures	can be scheduled at a convenient time
+procedures	can be tailored to individual needs
+procedures	can be performed by a team of healthcare professionals
+procedures	can be performed under local anesthesia
+procedures	can be performed under general anesthesia
+procedures	can be performed with the patient awake
+procedures	can be performed with the patient sedated
+procedures	can be performed with the patient unconscious
+procedures	can be performed by making small incisions
+procedures	can be performed through a larger incision
+procedures	can require hospitalization
+procedures	can require overnight stay
+procedures	can require multiple sessions
+procedures	can require ongoing monitoring
+procedures	can require rehabilitation
+procedures	can have different success rates
+procedures	can have different complication rates
+procedures	can have different recovery times
+procedures	can be performed by different specialists
+procedures	can be performed by a neurologist
+procedures	can be performed by a neurosurgeon
+procedures	can be performed by an interventional radiologist
+procedures	can be performed by a vascular surgeon
+procedures	can be performed by an otolaryngologist
+procedures	can be performed by a plastic surgeon
+procedures	can be performed by an ophthalmologist
+procedures	can be performed by a dentist
+procedures	can be performed by a maxillofacial surgeon
+procedures	can be performed by an oral surgeon
+procedures	can be performed by a head and neck surgeon
+procedures	can be performed by a facial plastic surgeon
+procedures	can be performed by a reconstructive surgeon
+procedures	can be performed by a radiation oncologist
+procedures	can be performed by an oral and maxillofacial surgeon
+procedures	can be performed by a speech therapist
+procedures	can be performed by a physical therapist
+procedures	can be performed by an occupational therapist
+procedures	can be performed by a radiologist
+procedures	can be performed by a cardiologist
+procedures	can be performed by an anesthesiologist
+procedures	can be performed by a rheumatologist
+procedures	can be performed by a dermatologist
+procedures	can be performed by a gastroenterologist
+procedures	can be performed by an otorhinolaryngologist
+procedures	can be performed by a pulmonologist
+procedures	can be performed by an internist
+procedures	can be performed by an obstetrician-gynecologist
+procedures	can be performed by a general surgeon
+procedures	can be performed by a thoracic surgeon
+procedures	can be performed by a vascular medicine specialist
+procedures	can be performed by a nephrologist
+procedures	can be performed by an orthopedic surgeon
+procedures	can be performed by a urologist
+procedures	can be performed by a pediatric surgeon
+procedures	can be performed by an endocrinologist
+procedures	can be performed by a hematologist
+procedures	can be performed by an oncologist
+procedures	can be performed by a hepatologist
+procedures	can be performed by a geneticist
+procedures	can be performed by a surgeon specializing in craniofacial surgery
+procedures	can be performed by a surgeon specializing in microneurovascular reconstruction
+procedures	can be performed by a surgeon specializing in skull base surgery
+procedures	can be performed by a surgeon specializing in cerebrovascular surgery
+procedures	can be performed by a surgeon specializing in facial trauma
+procedures	can be performed by a surgeon specializing in head and neck oncology
+procedures	can be performed by a surgeon specializing in facial nerve disorders
+procedures	can be performed by a surgeon specializing in facial pain disorders
+procedures	can be performed by a surgeon specializing in sleep apnea
+procedures	can be performed by a surgeon specializing in voice disorders
+procedures	can be performed by a surgeon specializing in swallowing disorders
+procedures	can be performed by a surgeon specializing in laryngotracheal reconstruction
+procedures	can be performed by a surgeon specializing in salivary gland disorders
+procedures	can be performed by a surgeon specializing in nasal airway obstruction
+procedures	can be performed by a surgeon specializing in sinus disorders
+procedures	can be performed by a surgeon specializing in orbitofacial trauma
+procedures	can be performed by a surgeon specializing in craniofacial trauma
+procedures	can be performed by a surgeon specializing in skull base tumors
+procedures	can be performed by a surgeon specializing in mandibular reconstruction
+procedures	can be performed by a surgeon specializing in pharyngeal reconstruction
+procedures	can be performed by a surgeon specializing in esophageal reconstruction
+procedures	can be performed by a surgeon specializing in head and neck reconstruction
+procedures	can be performed by a surgeon specializing in vascular malformations
+procedures	can be performed by a surgeon specializing in carotid artery disease
+procedures	can be performed by a surgeon specializing in aneurysm repair
+procedures	can be performed by a surgeon specializing in arteriovenous malformations
+procedures	can be performed by a surgeon specializing in temporal bone disorders
+procedures	can be performed by a surgeon specializing in skull base defects
+procedures	can be performed by a surgeon specializing in tympanic membrane perforation
+procedures	can be performed by a surgeon specializing in cochlear implants
+procedures	can be performed by a surgeon specializing in stapedectomy
+procedures	can be performed by a surgeon specializing in ossicular chain reconstruction
+procedures	can be performed by a surgeon specializing in ossiculoplasty
+procedures	can be performed by a surgeon specializing in closure of cerebrospinal fluid leaks
+procedures	can be performed by a surgeon specializing in head and neck cancer
+procedures	can be performed by a surgeon specializing in facial nerve reconstruction
+procedures	can be performed by a surgeon specializing in vocal cord paralysis
+procedures	can be performed by a surgeon specializing in coblation tonsillectomy
+procedures	can be performed by a surgeon specializing in adenoidectomy
+procedures	can be performed by a surgeon specializing in uvulopalatopharyngoplasty
+procedures	can be performed by a surgeon specializing in palatoplasty
+procedures	can be performed by a surgeon specializing in pharyngoplasty
+procedures	can be performed by a surgeon specializing in lingual tonsillectomy
+procedures	can be performed by a surgeon specializing in salivary gland removal
+procedures	can be performed by a surgeon specializing in tracheostomy
+procedures	can be performed by a surgeon specializing in laryngoscopy
+procedures	can be performed by a surgeon specializing in neck dissection
+procedures	can be performed by a surgeon specializing in thyroidectomy
+procedures	can be performed by a surgeon specializing in parathyroidectomy
+procedures	can be performed by a surgeon specializing in parotidectomy
+procedures	can be performed by a surgeon specializing in neck mass excision
+procedures	can be performed by a surgeon specializing in submandibular gland removal
+procedures	can be performed by a surgeon specializing in jugular vein reconstruction
+procedures	can be performed by a surgeon specializing in carotid artery stenting
+procedures	can be performed by a surgeon specializing in carotid artery endarterectomy
+procedures	can be performed by a surgeon specializing in carotid artery bypass
+procedures	can be performed by a surgeon specializing in transoral robotic surgery
+procedures	can be performed by a surgeon specializing in tracheal reconstruction
+procedures	can be performed by a surgeon specializing in laryngeal reconstruction
+procedures	can be performed by a surgeon specializing in skull base reconstruction
+procedures	can be performed by a surgeon specializing in pharyngeal flap
+procedures	can be performed by a surgeon specializing in nasal septal reconstruction
+procedures	can be performed by a surgeon specializing in nasal valve reconstruction
+procedures	can be performed by a surgeon specializing in nasal turbinate reduction
+procedures	can be performed by a surgeon specializing in nasal polyp removal
+procedures	can be performed by a surgeon specializing in ethmoidectomy
+procedures	can be performed by a surgeon specializing in sphenoidectomy
+procedures	can be performed by a surgeon specializing in frontal sinusotomy
+procedures	can be performed by a surgeon specializing in maxillary antrostomy
+procedures	can be performed by a surgeon specializing in orbital decompression
+procedures	can be performed by a surgeon specializing in eustachian tube dilation
+procedures	can be performed by a surgeon specializing in skull base repair
+procedures	can be performed by a surgeon specializing in tympanoplasty
+procedures	can be performed by a surgeon specializing in incudostapedioplasty
+procedures	can be performed by a surgeon specializing in canthopexy
+procedures	can be performed by a surgeon specializing in midface lift
+procedures	can be performed by a surgeon specializing in forehead lift
+procedures	can be performed by a surgeon specializing in brow lift
+procedures	can be performed by a surgeon specializing in neck lift
+procedures	can be performed by a surgeon specializing in neck liposuction
+procedures	can be performed by a surgeon specializing in facelift
+procedures	can be performed by a surgeon specializing in eyelid surgery
+procedures	can be performed by a surgeon specializing in rhinoplasty
+procedures	can be performed by a surgeon specializing in otoplasty
+procedures	can be performed by a surgeon specializing in facial implants
+procedures	can be performed by a surgeon specializing in facial reconstruction
+procedures	can be performed by a surgeon specializing in hair restoration
+procedures	can be performed by a surgeon specializing in facial rejuvenation
+procedures	can be performed by a surgeon specializing in scar revision
+procedures	can be performed by a surgeon specializing in skin cancer removal
+procedures	can be performed by a surgeon specializing in facial laceration repair
+procedures	can be performed by a surgeon specializing in lymph node biopsy
+procedures	can be performed by a surgeon specializing in sentinel lymph node biopsy
+procedures	can be performed by a surgeon specializing in lymphadenectomy
+procedures	can be performed by a surgeon specializing in vascular tumor resection
+procedures	can be performed by a surgeon specializing in vascular birthmark treatment
+procedures	can be performed by a surgeon specializing in carotid body tumor excision
+procedures	can be performed by a surgeon specializing in head and neck lymphedema treatment
+procedures	can be performed by a surgeon specializing in cerebrovascular malformation treatment
+procedures	can be performed by a surgeon specializing in head and neck tumor resection
+procedures	can be performed by a surgeon specializing in neurotologic surgery
+procedures	can be performed by a surgeon specializing in endoscopic sinus surgery
+procedures	can be performed by a surgeon specializing in sialendoscopy
+procedures	can be performed by a surgeon specializing in nasal airway surgery
+procedures	can be performed by a surgeon specializing in sinonasal tumor resection
+procedures	can be performed by a surgeon specializing in parotid gland surgery
+procedures	can be performed by a surgeon specializing in cochlear implantation
+procedures	can be performed by a surgeon specializing in vestibular nerve section
+procedures	can be performed by a surgeon specializing in vestibular schwannoma removal
+procedures	can be performed by a surgeon specializing in ossicular chain reconstruction
+procedures	can be performed by a surgeon specializing in mastoidectomy
+procedures	can be performed by a surgeon specializing in cholesteatoma removal
+procedures	can be performed by a surgeon specializing in stapedotomy
+procedures	can be performed by a surgeon specializing in cochlear nerve implantation
+procedures	can be performed by a surgeon specializing in oral cavity reconstruction
+procedures	can be performed by a surgeon specializing in jaw reconstruction
+procedures	can be performed by a surgeon specializing in tongue reconstruction
+procedures	can be performed by a surgeon specializing in pharyngeal flap
+procedures	can be performed by a surgeon specializing in reconstructive microsurgery
+procedures	can be performed by a surgeon specializing in facial reanimation
+procedures	can be performed by a surgeon specializing in oral cancer removal
+procedures	can be performed by a surgeon specializing in tracheal reconstruction
+procedures	can be performed by a surgeon specializing in laryngeal reconstruction
+procedures	can be performed by a surgeon specializing in voice restoration
+procedures	can be performed by a surgeon specializing in laryngotracheal reconstruction
+procedures	can be performed by a surgeon specializing in airway stenosis treatment
+procedures	can be performed by a surgeon specializing in esophageal reconstruction
+procedures	can be performed by a surgeon specializing in head and neck reconstruction
+procedures	can be performed by a surgeon specializing in microvascular surgery
+procedures	can be performed by a surgeon specializing in vascularized bone graft
+procedures	can be performed by a surgeon specializing in free tissue transfer
+procedures	can be performed by a surgeon specializing in neck lymphadenectomy
+procedures	can be performed by a surgeon specializing in neck dissection
+procedures	can be performed by a surgeon specializing in thyroidectomy
+procedures	can be performed by a surgeon specializing in parathyroidectomy
+procedures	can be performed by a surgeon specializing in neck mass excision
+procedures	can be performed by a surgeon specializing in salivary gland surgery
+procedures	can be performed by a surgeon specializing in tracheostomy

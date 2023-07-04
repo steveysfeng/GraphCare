@@ -1,0 +1,109 @@
+diagnostic amniocentesis	is a	medical procedure
+diagnostic amniocentesis	used for	prenatal diagnosis
+diagnostic amniocentesis	performed during	pregnancy
+diagnostic amniocentesis	can detect	chromosomal abnormalities
+diagnostic amniocentesis	carries a risk of	miscarriage
+diagnostic amniocentesis	recommended for	high-risk pregnancies
+diagnostic amniocentesis	requires	ultrasound guidance
+diagnostic amniocentesis	can determine	fetal lung maturity
+diagnostic amniocentesis	can detect	neural tube defects
+diagnostic amniocentesis	can be used to	diagnose genetic disorders
+diagnostic amniocentesis	performed by	a specialist
+diagnostic amniocentesis	may cause	temporary discomfort
+diagnostic amniocentesis	involves	removing a small amount of amniotic fluid
+diagnostic amniocentesis	is usually done	after 15 weeks of pregnancy
+diagnostic amniocentesis	can diagnose	Down syndrome
+diagnostic amniocentesis	can detect	genetic abnormalities
+diagnostic amniocentesis	can determine	fetal sex
+diagnostic amniocentesis	recommended for	advanced maternal age
+diagnostic amniocentesis	can detect	fetal infections
+diagnostic amniocentesis	can be used to	diagnose birth defects
+diagnostic amniocentesis	carries a	small risk of complications
+diagnostic amniocentesis	requires	sterile technique
+diagnostic amniocentesis	can detect	metabolic disorders
+diagnostic amniocentesis	can identify	Rh incompatibility
+diagnostic amniocentesis	may be	emotionally challenging
+diagnostic amniocentesis	can assess	fetal lung maturity
+diagnostic amniocentesis	can detect	spina bifida
+diagnostic amniocentesis	can determine	paternity
+diagnostic amniocentesis	is considered	an invasive procedure
+diagnostic amniocentesis	can be	a diagnostic tool
+diagnostic amniocentesis	can detect	Turner syndrome
+diagnostic amniocentesis	can detect	cystic fibrosis
+diagnostic amniocentesis	can detect	Tay-Sachs disease
+diagnostic amniocentesis	can detect	sickle cell disease
+diagnostic amniocentesis	can detect	muscular dystrophy
+diagnostic amniocentesis	can detect	spinal muscular atrophy
+diagnostic amniocentesis	can detect	hemophilia
+diagnostic amniocentesis	can detect	phenylketonuria
+diagnostic amniocentesis	can detect	Down syndrome
+diagnostic amniocentesis	can detect	Edwards syndrome
+diagnostic amniocentesis	can detect	Patau syndrome
+diagnostic amniocentesis	can detect	Klinefelter syndrome
+diagnostic amniocentesis	can detect	Fragile X syndrome
+diagnostic amniocentesis	can detect	DiGeorge syndrome
+diagnostic amniocentesis	can detect	Williams syndrome
+diagnostic amniocentesis	can detect	Prader-Willi syndrome
+diagnostic amniocentesis	can detect	Angelman syndrome
+diagnostic amniocentesis	can detect	cri-du-chat syndrome
+diagnostic amniocentesis	can detect	neurofibromatosis
+diagnostic amniocentesis	can detect	tuberous sclerosis
+diagnostic amniocentesis	can detect	Duchenne muscular dystrophy
+diagnostic amniocentesis	can detect	Rett syndrome
+diagnostic amniocentesis	can detect	fragile X-associated tremor/ataxia syndrome
+diagnostic amniocentesis	can detect	Down syndrome
+diagnostic amniocentesis	can detect	trisomy 18
+diagnostic amniocentesis	can detect	trisomy 13
+diagnostic amniocentesis	can detect	triploidy
+diagnostic amniocentesis	can detect	sex chromosome abnormalities
+diagnostic amniocentesis	can detect	congenital infections
+diagnostic amniocentesis	can detect	microdeletion syndromes
+diagnostic amniocentesis	can detect	other genetic disorders
+diagnostic amniocentesis	can detect	chromosomal translocations
+diagnostic amniocentesis	can detect	balanced chromosomal rearrangements
+diagnostic amniocentesis	can detect	uniparental disomy
+diagnostic amniocentesis	can detect	mosaicism
+diagnostic amniocentesis	can detect	marker chromosomes
+diagnostic amniocentesis	can detect	structural abnormalities
+diagnostic amniocentesis	can detect	metabolic disorders
+diagnostic amniocentesis	can detect	lysosomal storage disorders
+diagnostic amniocentesis	can detect	peroxisomal disorders
+diagnostic amniocentesis	can detect	glycogen storage disorders
+diagnostic amniocentesis	can detect	amino acid disorders
+diagnostic amniocentesis	can detect	fatty acid oxidation disorders
+diagnostic amniocentesis	can detect	organic acidemias
+diagnostic amniocentesis	can detect	urea cycle disorders
+diagnostic amniocentesis	can detect	other inborn errors of metabolism
+diagnostic amniocentesis	can detect	immune deficiencies
+diagnostic amniocentesis	can detect	Hemoglobinopathies
+diagnostic amniocentesis	can detect	alpha-thalassemias
+diagnostic amniocentesis	can detect	beta-thalassemias
+diagnostic amniocentesis	can detect	sickle cell disease
+diagnostic amniocentesis	can detect	hemophilia
+diagnostic amniocentesis	can detect	von Willebrand disease
+diagnostic amniocentesis	can detect	rare bleeding disorders
+diagnostic amniocentesis	can detect	thrombophilias
+diagnostic amniocentesis	can detect	metabolic disorders
+diagnostic amniocentesis	can detect	lysosomal storage disorders
+diagnostic amniocentesis	can detect	peroxisomal disorders
+diagnostic amniocentesis	can detect	glycogen storage disorders
+diagnostic amniocentesis	can detect	neurotransmitter disorders
+diagnostic amniocentesis	can detect	other biochemical disorders
+diagnostic amniocentesis	can detect	endocrine disorders
+diagnostic amniocentesis	can detect	adrenal disorders
+diagnostic amniocentesis	can detect	thyroid disorders
+diagnostic amniocentesis	can detect	other hormone disorders
+diagnostic amniocentesis	can detect	gastrointestinal disorders
+diagnostic amniocentesis	can detect	liver disorders
+diagnostic amniocentesis	can detect	metabolic disorders
+diagnostic amniocentesis	can detect	kidney disorders
+diagnostic amniocentesis	can detect	bladder disorders
+diagnostic amniocentesis	can detect	other abnormalities
+diagnostic amniocentesis	can detect	musculoskeletal disorders
+diagnostic amniocentesis	can detect	connective tissue disorders
+diagnostic amniocentesis	can detect	muscular dystrophy
+diagnostic amniocentesis	can detect	CNS disorders
+diagnostic amniocentesis	can detect	eye disorders
+diagnostic amniocentesis	can detect	ear disorders
+diagnostic amniocentesis	can detect	other organ disorders
+diagnostic amniocentesis	can detect	other genetic disorders

@@ -1,0 +1,230 @@
+tracheoscopy	is a	medical procedure
+tracheoscopy	used for	diagnosis
+laryngoscopy	is a	medical procedure
+laryngoscopy	used for	diagnosis
+biopsy	is a	medical procedure
+biopsy	used for	diagnosis
+tracheoscopy	can detect	tumors
+laryngoscopy	can detect	tumors
+biopsy	can detect	cancer
+tracheoscopy	can help in	airway evaluation
+laryngoscopy	can help in	airway evaluation
+biopsy	can help in	determining the extent of disease
+tracheoscopy	can be used to	remove foreign bodies
+laryngoscopy	can be used to	remove foreign bodies
+biopsy	can be used to	obtain tissue samples for analysis
+tracheoscopy	can be performed using	a flexible or rigid scope
+laryngoscopy	can be performed using	a flexible or rigid scope
+biopsy	can be performed using	a flexible or rigid scope
+tracheoscopy	is commonly performed	under local anesthesia
+laryngoscopy	is commonly performed	under local anesthesia
+biopsy	is commonly performed	under local anesthesia
+tracheoscopy	is often used	in patients with suspected airway abnormalities
+laryngoscopy	is often used	in patients with suspected airway abnormalities
+biopsy	is often used	to confirm a diagnosis
+tracheoscopy	can be helpful for	guiding the placement of tracheostomy tubes
+laryngoscopy	can be helpful for	guiding the placement of tracheostomy tubes
+biopsy	can provide	valuable information for treatment planning
+tracheoscopy	can be performed	in both children and adults
+laryngoscopy	can be performed	in both children and adults
+biopsy	can be performed	in both children and adults
+tracheoscopy	may be necessary	for evaluating chronic cough
+laryngoscopy	may be necessary	for evaluating chronic cough
+biopsy	may be necessary	for evaluating chronic cough
+tracheoscopy	can help in	diagnosing and treating voice disorders
+laryngoscopy	can help in	diagnosing and treating voice disorders
+biopsy	can help in	diagnosing and treating voice disorders
+tracheoscopy	can aid in	diagnosing and treating swallowing disorders
+laryngoscopy	can aid in	diagnosing and treating swallowing disorders
+biopsy	can aid in	diagnosing and treating swallowing disorders
+tracheoscopy	may be used	to evaluate vocal cord function
+laryngoscopy	may be used	to evaluate vocal cord function
+biopsy	may be used	to evaluate vocal cord function
+tracheoscopy	can assist in	diagnosing and managing tracheal stenosis
+laryngoscopy	can assist in	diagnosing and managing tracheal stenosis
+biopsy	can assist in	diagnosing and managing tracheal stenosis
+tracheoscopy	can be used	in the evaluation of hoarseness
+laryngoscopy	can be used	in the evaluation of hoarseness
+biopsy	can be used	in the evaluation of hoarseness
+tracheoscopy	can aid in	the evaluation of chronic cough
+laryngoscopy	can aid in	the evaluation of chronic cough
+biopsy	can aid in	the evaluation of chronic cough
+tracheoscopy	can be helpful for	diagnosing and treating vocal cord paralysis
+laryngoscopy	can be helpful for	diagnosing and treating vocal cord paralysis
+biopsy	can provide	important information for determining the cause of symptoms
+tracheoscopy	can assist in	diagnosing and treating tracheomalacia
+laryngoscopy	can assist in	diagnosing and treating tracheomalacia
+biopsy	can assist in	diagnosing and treating tracheomalacia
+tracheoscopy	can be used	to assess the effectiveness of treatment
+laryngoscopy	can be used	to assess the effectiveness of treatment
+biopsy	can be used	to assess the effectiveness of treatment
+tracheoscopy	can be used to	evaluate vocal cord nodules
+laryngoscopy	can be used to	evaluate vocal cord nodules
+biopsy	can be used to	evaluate vocal cord nodules
+tracheoscopy	is performed	by inserting a thin	flexible tube into the trachea
+laryngoscopy	is performed	by inserting a thin	flexible tube into the larynx
+biopsy	is performed	by removing a small tissue sample for analysis
+tracheoscopy	may be recommended	if other tests have been inconclusive
+laryngoscopy	may be recommended	if other tests have been inconclusive
+biopsy	may be recommended	if other tests have been inconclusive
+tracheoscopy	can be used	to evaluate the upper airway
+laryngoscopy	can be used	to evaluate the larynx
+biopsy	can be used	to obtain tissue samples for analysis
+tracheoscopy	is a	minimally invasive procedure
+laryngoscopy	is a	minimally invasive procedure
+biopsy	is a	minimally invasive procedure
+tracheoscopy	can be performed	in an outpatient setting
+laryngoscopy	can be performed	in an outpatient setting
+biopsy	can be performed	in an outpatient setting
+tracheoscopy	allows for	direct visualization of the airway
+laryngoscopy	allows for	direct visualization of the larynx
+biopsy	allows for	direct sampling of tissue
+tracheoscopy	may be performed	with the use of a local anesthetic
+laryngoscopy	may be performed	with the use of a local anesthetic
+biopsy	may be performed	with the use of a local anesthetic
+tracheoscopy	can be used	to guide the placement of tracheostomy tubes
+laryngoscopy	can be used	to guide the placement of tracheostomy tubes
+biopsy	can provide	valuable information for treatment planning
+tracheoscopy	can be performed	with the patient under sedation
+laryngoscopy	can be performed	with the patient under sedation
+biopsy	can be performed	with the patient under sedation
+tracheoscopy	can help in	the evaluation of airway obstruction
+laryngoscopy	can help in	the evaluation of airway obstruction
+biopsy	can help in	the evaluation of airway obstruction
+tracheoscopy	can assist in	the diagnosis and management of laryngeal trauma
+laryngoscopy	can assist in	the diagnosis and management of laryngeal trauma
+biopsy	can assist in	the diagnosis and management of laryngeal trauma
+tracheoscopy	may be performed	with the use of a sedative
+laryngoscopy	may be performed	with the use of a sedative
+biopsy	may be performed	with the use of a sedative
+tracheoscopy	is a	diagnostic procedure
+laryngoscopy	is a	diagnostic procedure
+biopsy	is a	diagnostic procedure
+tracheoscopy	can be used	to evaluate the trachea
+laryngoscopy	can be used	to evaluate the larynx
+biopsy	can be used	to obtain samples for analysis
+tracheoscopy	can help in	the evaluation of airway abnormalities
+laryngoscopy	can help in	the evaluation of airway abnormalities
+biopsy	can help in	the evaluation of airway abnormalities
+tracheoscopy	can be performed	with the patient under general anesthesia
+laryngoscopy	can be performed	with the patient under general anesthesia
+biopsy	can be performed	with the patient under general anesthesia
+tracheoscopy	can be performed	with the patient awake
+laryngoscopy	can be performed	with the patient awake
+biopsy	can be performed	with the patient awake
+tracheoscopy	can be used	in the investigation of recurrent infections
+laryngoscopy	can be used	in the investigation of recurrent infections
+biopsy	can be used	in the investigation of recurrent infections
+tracheoscopy	can be helpful for	diagnosing and treating subglottic stenosis
+laryngoscopy	can be helpful for	diagnosing and treating subglottic stenosis
+biopsy	can provide	information for treatment planning
+tracheoscopy	can aid in	the evaluation of respiratory distress
+laryngoscopy	can aid in	the evaluation of respiratory distress
+biopsy	can aid in	the evaluation of respiratory distress
+tracheoscopy	can be used	in the evaluation of throat pain
+laryngoscopy	can be used	in the evaluation of throat pain
+biopsy	can be used	in the evaluation of throat pain
+tracheoscopy	can be performed	using a fiberoptic bronchoscope
+laryngoscopy	can be performed	using a fiberoptic laryngoscope
+biopsy	can be performed	using a fiberoptic scope
+tracheoscopy	is used	to examine the trachea
+laryngoscopy	is used	to examine the larynx
+biopsy	is used	to obtain tissue samples for analysis
+tracheoscopy	is performed	by a trained specialist
+laryngoscopy	is performed	by a trained specialist
+biopsy	is performed	by a trained specialist
+tracheoscopy	can be performed	in a hospital setting
+laryngoscopy	can be performed	in a hospital setting
+biopsy	can be performed	in a hospital setting
+tracheoscopy	can be used	in the evaluation of obstructive sleep apnea
+laryngoscopy	can be used	in the evaluation of obstructive sleep apnea
+biopsy	can help in	confirming a diagnosis
+tracheoscopy	can assist in	diagnosing and treating tracheal tumors
+laryngoscopy	can assist in	diagnosing and treating laryngeal tumors
+biopsy	can assist in	diagnosing and treating tumors
+tracheoscopy	is used	to examine the trachea for abnormalities
+laryngoscopy	is used	to examine the larynx for abnormalities
+biopsy	is used	to obtain tissue samples for analysis
+tracheoscopy	can help in	diagnosing and managing tracheobronchomalacia
+laryngoscopy	can help in	diagnosing and managing laryngomalacia
+biopsy	can assist in	diagnosing and managing tumors
+tracheoscopy	can help in	the evaluation of tracheal stenosis
+laryngoscopy	can help in	the evaluation of laryngeal stenosis
+biopsy	can help in	the evaluation of tumors
+tracheoscopy	can be performed	using a rigid scope
+laryngoscopy	can be performed	using a rigid laryngoscope
+biopsy	can be performed	using a rigid scope
+tracheoscopy	can be used	to assess the integrity of the tracheal wall
+laryngoscopy	can be used	to assess the integrity of the laryngeal structures
+biopsy	can be used	to assess the integrity of the tissue
+tracheoscopy	can be performed	in an office-based setting
+laryngoscopy	can be performed	in an office-based setting
+biopsy	can be performed	in an office-based setting
+tracheoscopy	can help in	the evaluation of stridor
+laryngoscopy	can help in	the evaluation of stridor
+biopsy	can help in	the evaluation of stridor
+tracheoscopy	can be used	to evaluate the subglottic region
+laryngoscopy	can be used	to evaluate the glottic region
+biopsy	can be used	to obtain samples for analysis
+tracheoscopy	can assist in	diagnosing and managing tracheobronchial foreign bodies
+laryngoscopy	can assist in	diagnosing and managing laryngeal foreign bodies
+biopsy	can assist in	diagnosing and managing foreign bodies
+tracheoscopy	may be performed	with the use of sedation
+laryngoscopy	may be performed	with the use of sedation
+biopsy	may be performed	with the use of sedation
+tracheoscopy	can be helpful for	diagnosing and treating vocal cord polyps
+laryngoscopy	can be helpful for	diagnosing and treating vocal cord polyps
+biopsy	can provide	information for treatment planning
+tracheoscopy	can aid in	the evaluation of tracheal stenosis
+laryngoscopy	can aid in	the evaluation of laryngeal stenosis
+biopsy	can aid in	the evaluation of tumors
+tracheoscopy	can assist in	diagnosing and treating tracheobronchial stenosis
+laryngoscopy	can assist in	diagnosing and treating laryngopharyngeal reflux
+biopsy	can assist in	diagnosing and treating malignancies
+tracheoscopy	can be used	to evaluate the upper respiratory tract
+laryngoscopy	can be used	to evaluate the lower respiratory tract
+biopsy	can be used	to obtain tissue samples for analysis
+tracheoscopy	can help in	the evaluation of tracheal tumors
+laryngoscopy	can help in	the evaluation of laryngeal tumors
+biopsy	can assist in	the diagnosis and management of malignancies
+tracheoscopy	can be performed	with the patient under general anesthesia
+laryngoscopy	can be performed	with the patient under general anesthesia
+biopsy	can be performed	with the patient under general anesthesia
+tracheoscopy	can be done	in an outpatient setting
+laryngoscopy	can be done	in an outpatient setting
+biopsy	can be done	in an outpatient setting
+tracheoscopy	can be used	to evaluate the trachea and bronchi
+laryngoscopy	can be used	to evaluate the larynx and pharynx
+biopsy	can be used	to obtain tissue samples for analysis
+tracheoscopy	can help in	diagnosing and treating tracheal strictures
+laryngoscopy	can help in	diagnosing and treating laryngeal strictures
+biopsy	can assist in	diagnosing and treating strictures
+tracheoscopy	can help in	the evaluation of tracheomalacia
+laryngoscopy	can help in	the evaluation of laryngomalacia
+biopsy	can help in	the evaluation of mucosal lesions
+tracheoscopy	can be helpful for	diagnosing and managing tracheal neoplasms
+laryngoscopy	can be helpful for	diagnosing and managing laryngeal neoplasms
+biopsy	can provide	important information for treatment planning
+tracheoscopy	can be used	to evaluate the upper airway
+laryngoscopy	can be used	to evaluate the larynx
+biopsy	can be used	to obtain samples for analysis
+tracheoscopy	is performed	by a medical specialist
+laryngoscopy	is performed	by a medical specialist
+biopsy	is performed	by a medical specialist
+tracheoscopy	can be performed	in a clinic setting
+laryngoscopy	can be performed	in a clinic setting
+biopsy	can be performed	in a clinic setting
+tracheoscopy	can be used	to evaluate the vocal cords
+laryngoscopy	can be used	to evaluate the vocal cords
+biopsy	can be used	to obtain tissue samples for analysis
+tracheoscopy	can help in	the evaluation of tracheal infections
+laryngoscopy	can help in	the evaluation of laryngeal infections
+biopsy	can help in	the evaluation of infections
+tracheoscopy	can be useful in	monitoring treatment response
+laryngoscopy	can be useful in	monitoring treatment response
+biopsy	can be useful in	monitoring treatment response
+tracheoscopy	can be helpful for	diagnosing and treating tracheobronchomalacia
+laryngoscopy	can be helpful for	diagnosing and treating laryngomalacia
+biopsy	can provide	information for treatment planning
+tracheoscopy	can aid in	the evaluation of tracheal masses
+laryngoscopy	can aid in	the evaluation of laryngeal masses

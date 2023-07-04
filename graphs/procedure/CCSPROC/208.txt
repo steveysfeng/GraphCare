@@ -1,0 +1,497 @@
+nuclear medicine imaging
+medical procedure
+nuclear medicine imaging
+diagnosis
+pulmonary
+medical condition
+nuclear medicine imaging
+pulmonary condition
+nuclear medicine imaging
+treatment planning
+nuclear medicine imaging
+disease severity
+nuclear medicine imaging
+lung function
+pulmonary
+breathing
+nuclear medicine imaging
+lung perfusion
+nuclear medicine imaging
+pulmonary embolism
+nuclear medicine imaging
+lung nodules
+pulmonary nodules
+malignant
+nuclear medicine imaging
+cancer staging
+nuclear medicine imaging
+radiotherapy planning
+nuclear medicine imaging
+pulmonary hypertension
+pulmonary hypertension
+heart strain
+nuclear medicine imaging
+pulmonary fibrosis
+pulmonary fibrosis
+lung scarring
+nuclear medicine imaging
+lung infections
+nuclear medicine imaging
+pulmonary edema
+pulmonary edema
+fluid accumulation
+nuclear medicine imaging
+lung ventilation
+lung ventilation
+oxygenation
+nuclear medicine imaging
+lung metastases
+lung metastases
+cancer spread
+nuclear medicine imaging
+pulmonary function
+pulmonary function
+respiratory capacity
+nuclear medicine imaging
+pleural effusion
+pleural effusion
+fluid buildup
+nuclear medicine imaging
+evaluating lung transplants
+nuclear medicine imaging
+lung shunts
+lung shunts
+blood flow
+nuclear medicine imaging
+lung abscesses
+lung abscesses
+pus-filled cavities
+nuclear medicine imaging
+pulmonary sarcoidosis
+pulmonary sarcoidosis
+granulomas in lungs
+nuclear medicine imaging
+evaluating interstitial lung disease
+nuclear medicine imaging
+pulmonary artery anomalies
+nuclear medicine imaging
+pulmonary arteriovenous malformation
+pulmonary arteriovenous malformation
+abnormal blood flow
+nuclear medicine imaging
+pulmonary embolism
+pulmonary embolism
+blockage in lung arteries
+nuclear medicine imaging
+pulmonary vascular disease
+pulmonary vascular disease
+blood vessels in lungs
+nuclear medicine imaging
+evaluating primary pulmonary hypertension
+nuclear medicine imaging
+pulmonary alveolar proteinosis
+pulmonary alveolar proteinosis
+accumulation of surfactant
+nuclear medicine imaging
+pulmonary thromboembolism
+pulmonary thromboembolism
+death
+nuclear medicine imaging
+pulmonary hamartoma
+pulmonary hamartoma
+benign tumor
+nuclear medicine imaging
+pulmonary amyloidosis
+pulmonary amyloidosis
+abnormal protein deposits
+nuclear medicine imaging
+evaluating lung cancer
+nuclear medicine imaging
+lung scintigraphy
+lung scintigraphy
+ventilation and perfusion matching
+nuclear medicine imaging
+pleural plaques
+pleural plaques
+asbestos exposure
+nuclear medicine imaging
+pleural thickening
+pleural thickening
+lung disease
+nuclear medicine imaging
+pleural tumors
+pleural tumors
+malignant
+nuclear medicine imaging
+pulmonary sequestration
+pulmonary sequestration
+congenital malformation
+nuclear medicine imaging
+evaluating postoperative complications
+nuclear medicine imaging
+lung trauma
+lung trauma
+pneumothorax
+nuclear medicine imaging
+pleural effusion
+pleural effusion
+symptomatic
+nuclear medicine imaging
+evaluating pulmonary hypertension
+nuclear medicine imaging
+lung inflammation
+lung inflammation
+pneumonia
+nuclear medicine imaging
+pulmonary arteritis
+pulmonary arteritis
+inflammation of lung arteries
+nuclear medicine imaging
+evaluating pulmonary fibrosis
+nuclear medicine imaging
+lung perfusion anomalies
+nuclear medicine imaging
+pulmonary infarction
+pulmonary infarction
+blood clot
+nuclear medicine imaging
+pulmonary hypoplasia
+pulmonary hypoplasia
+lung tissue
+nuclear medicine imaging
+lung hemorrhage
+lung hemorrhage
+blood in lungs
+nuclear medicine imaging
+evaluating lung infections
+nuclear medicine imaging
+pulmonary embolism severity
+pulmonary embolism severity
+low	intermediate	or high risk
+nuclear medicine imaging
+pulmonary thromboembolism
+pulmonary thromboembolism
+blood clot
+nuclear medicine imaging
+pulmonary nodules
+pulmonary nodules
+benign or malignant
+nuclear medicine imaging
+pulmonary metastases
+pulmonary metastases
+cancer spread
+nuclear medicine imaging
+evaluating lung function impairment
+nuclear medicine imaging
+lung ventilation anomalies
+nuclear medicine imaging
+pulmonary fibrosis
+pulmonary fibrosis
+lung scarring
+nuclear medicine imaging
+evaluating pleural effusion
+nuclear medicine imaging
+lung inflammation severity
+lung inflammation severity
+mild to severe
+nuclear medicine imaging
+pleural thickening
+pleural thickening
+lung disease
+nuclear medicine imaging
+pleural tumors
+pleural tumors
+benign or malignant
+nuclear medicine imaging
+pleural plaques
+pleural plaques
+asbestos exposure
+nuclear medicine imaging
+evaluating pulmonary edema
+nuclear medicine imaging
+pulmonary artery anomalies
+nuclear medicine imaging
+pulmonary arteriovenous malformation
+pulmonary arteriovenous malformation
+abnormal blood flow
+nuclear medicine imaging
+evaluating primary pulmonary hypertension
+nuclear medicine imaging
+pulmonary alveolar proteinosis
+pulmonary alveolar proteinosis
+accumulation of surfactant
+nuclear medicine imaging
+pulmonary sarcoidosis
+pulmonary sarcoidosis
+granulomas in lungs
+nuclear medicine imaging
+evaluating interstitial lung disease
+nuclear medicine imaging
+pulmonary arteritis
+pulmonary arteritis
+inflammation of lung arteries
+nuclear medicine imaging
+pulmonary amyloidosis
+pulmonary amyloidosis
+abnormal protein deposits
+nuclear medicine imaging
+evaluating pulmonary embolism
+nuclear medicine imaging
+pulmonary hypertension severity
+pulmonary hypertension severity
+mild to severe
+nuclear medicine imaging
+pulmonary vascular disease
+pulmonary vascular disease
+blood vessels in lungs
+nuclear medicine imaging
+postoperative complications
+postoperative complications
+pulmonary complications
+nuclear medicine imaging
+evaluating lung trauma
+nuclear medicine imaging
+pneumothorax
+nuclear medicine imaging
+pleural effusion
+pleural effusion
+transudative or exudative
+nuclear medicine imaging
+evaluating lung infections
+nuclear medicine imaging
+pulmonary embolism prognosis
+pulmonary embolism prognosis
+mortality risk
+nuclear medicine imaging
+pulmonary thromboembolism
+pulmonary thromboembolism
+blood clot
+nuclear medicine imaging
+lung nodules
+lung nodules
+benign or malignant
+nuclear medicine imaging
+pulmonary metastases
+pulmonary metastases
+cancer spread
+nuclear medicine imaging
+evaluating lung function impairment
+nuclear medicine imaging
+lung perfusion anomalies
+nuclear medicine imaging
+pulmonary fibrosis
+pulmonary fibrosis
+lung scarring
+nuclear medicine imaging
+evaluating pleural effusion
+nuclear medicine imaging
+lung inflammation severity
+lung inflammation severity
+mild to severe
+nuclear medicine imaging
+pleural thickening
+pleural thickening
+lung disease
+nuclear medicine imaging
+pleural tumors
+pleural tumors
+benign or malignant
+nuclear medicine imaging
+pleural plaques
+pleural plaques
+asbestos exposure
+nuclear medicine imaging
+evaluating pulmonary edema
+nuclear medicine imaging
+pulmonary artery anomalies
+nuclear medicine imaging
+pulmonary arteriovenous malformation
+pulmonary arteriovenous malformation
+abnormal blood flow
+nuclear medicine imaging
+evaluating primary pulmonary hypertension
+nuclear medicine imaging
+pulmonary alveolar proteinosis
+pulmonary alveolar proteinosis
+accumulation of surfactant
+nuclear medicine imaging
+pulmonary sarcoidosis
+pulmonary sarcoidosis
+granulomas in lungs
+nuclear medicine imaging
+evaluating interstitial lung disease
+nuclear medicine imaging
+pulmonary arteritis
+pulmonary arteritis
+inflammation of lung arteries
+nuclear medicine imaging
+pulmonary amyloidosis
+pulmonary amyloidosis
+abnormal protein deposits
+nuclear medicine imaging
+evaluating pulmonary embolism
+nuclear medicine imaging
+pulmonary hypertension severity
+pulmonary hypertension severity
+mild to severe
+nuclear medicine imaging
+pulmonary vascular disease
+pulmonary vascular disease
+blood vessels in lungs
+nuclear medicine imaging
+postoperative complications
+postoperative complications
+pulmonary complications
+nuclear medicine imaging
+evaluating lung trauma
+nuclear medicine imaging
+pneumothorax
+nuclear medicine imaging
+pleural effusion
+pleural effusion
+transudative or exudative
+nuclear medicine imaging
+evaluating lung infections
+nuclear medicine imaging
+pulmonary embolism prognosis
+pulmonary embolism prognosis
+mortality risk
+nuclear medicine imaging
+pulmonary thromboembolism
+pulmonary thromboembolism
+blood clot
+nuclear medicine imaging
+lung nodules
+lung nodules
+benign or malignant
+nuclear medicine imaging
+pulmonary metastases
+pulmonary metastases
+cancer spread
+nuclear medicine imaging
+evaluating lung function impairment
+nuclear medicine imaging
+lung perfusion anomalies
+nuclear medicine imaging
+pulmonary fibrosis
+pulmonary fibrosis
+lung scarring
+nuclear medicine imaging
+evaluating pleural effusion
+nuclear medicine imaging
+lung inflammation severity
+lung inflammation severity
+mild to severe
+nuclear medicine imaging
+pleural thickening
+pleural thickening
+lung disease
+nuclear medicine imaging
+pleural tumors
+pleural tumors
+benign or malignant
+nuclear medicine imaging
+pleural plaques
+pleural plaques
+asbestos exposure
+nuclear medicine imaging
+evaluating pulmonary edema
+nuclear medicine imaging
+pulmonary artery anomalies
+nuclear medicine imaging
+pulmonary arteriovenous malformation
+pulmonary arteriovenous malformation
+abnormal blood flow
+nuclear medicine imaging
+evaluating primary pulmonary hypertension
+nuclear medicine imaging
+pulmonary alveolar proteinosis
+pulmonary alveolar proteinosis
+accumulation of surfactant
+nuclear medicine imaging
+pulmonary sarcoidosis
+pulmonary sarcoidosis
+granulomas in lungs
+nuclear medicine imaging
+evaluating interstitial lung disease
+nuclear medicine imaging
+pulmonary arteritis
+pulmonary arteritis
+inflammation of lung arteries
+nuclear medicine imaging
+pulmonary amyloidosis
+pulmonary amyloidosis
+abnormal protein deposits
+nuclear medicine imaging
+evaluating pulmonary embolism
+nuclear medicine imaging
+pulmonary hypertension severity
+pulmonary hypertension severity
+mild to severe
+nuclear medicine imaging
+pulmonary vascular disease
+pulmonary vascular disease
+blood vessels in lungs
+nuclear medicine imaging
+postoperative complications
+postoperative complications
+pulmonary complications
+nuclear medicine imaging
+evaluating lung trauma
+nuclear medicine imaging
+pneumothorax
+nuclear medicine imaging
+pleural effusion
+pleural effusion
+transudative or exudative
+nuclear medicine imaging
+evaluating lung infections
+nuclear medicine imaging
+pulmonary embolism prognosis
+pulmonary embolism prognosis
+mortality risk
+nuclear medicine imaging
+pulmonary thromboembolism
+pulmonary thromboembolism
+blood clot
+nuclear medicine imaging
+lung nodules
+lung nodules
+benign or malignant
+nuclear medicine imaging
+pulmonary metastases
+pulmonary metastases
+cancer spread
+nuclear medicine imaging
+evaluating lung function impairment
+nuclear medicine imaging
+lung perfusion anomalies
+nuclear medicine imaging
+pulmonary fibrosis
+pulmonary fibrosis
+lung scarring
+nuclear medicine imaging
+evaluating pleural effusion
+nuclear medicine imaging
+lung inflammation severity
+lung inflammation severity
+mild to severe
+nuclear medicine imaging
+pleural thickening
+pleural thickening
+lung disease
+nuclear medicine imaging
+pleural tumors
+pleural tumors
+benign or malignant
+nuclear medicine imaging
+pleural plaques
+pleural plaques
+asbestos exposure
+nuclear medicine imaging
+evaluating pulmonary edema
+nuclear medicine imaging
+pulmonary artery anomalies
+nuclear medicine imaging
+pulmonary arteriovenous malformation
+pulmonary arteriovenous malformation

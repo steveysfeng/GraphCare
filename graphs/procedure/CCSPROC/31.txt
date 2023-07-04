@@ -1,0 +1,77 @@
+diagnostic procedures	performed on	nose
+diagnostic procedures	performed on	mouth
+diagnostic procedures	performed on	pharynx
+nose	can be examined using	rhinoscopy
+nose	can be examined using	nasopharyngoscopy
+nose	can be examined using	endoscopy
+nose	can be examined using	biopsy
+mouth	can be examined using	oral examination
+mouth	can be examined using	biopsy
+pharynx	can be examined using	pharyngoscopy
+pharynx	can be examined using	biopsy
+rhinoscopy	is a type of	nasal examination
+nasopharyngoscopy	is a type of	nasal examination
+endoscopy	is a type of	nasal examination
+biopsy	is a type of	tissue sampling
+pharyngoscopy	is a type of	throat examination
+biopsy	is a type of	tissue sampling
+oral examination	can detect	oral cancer
+biopsy	can detect	oral cancer
+pharyngoscopy	can detect	throat cancer
+biopsy	can detect	throat cancer
+rhinoscopy	can detect	nasal polyps
+nasopharyngoscopy	can detect	nasal polyps
+endoscopy	can detect	nasal polyps
+biopsy	can detect	nasal polyps
+oral examination	can detect	oral infections
+biopsy	can detect	oral infections
+pharyngoscopy	can detect	pharyngeal infections
+biopsy	can detect	pharyngeal infections
+rhinoscopy	can detect	nasal abnormalities
+nasopharyngoscopy	can detect	nasal abnormalities
+endoscopy	can detect	nasal abnormalities
+biopsy	can detect	nasal abnormalities
+oral examination	can detect	oral ulcers
+biopsy	can detect	oral ulcers
+pharyngoscopy	can detect	pharyngeal ulcers
+biopsy	can detect	pharyngeal ulcers
+rhinoscopy	can detect	nasal tumors
+nasopharyngoscopy	can detect	nasal tumors
+endoscopy	can detect	nasal tumors
+biopsy	can detect	nasal tumors
+oral examination	can detect	oral lesions
+biopsy	can detect	oral lesions
+pharyngoscopy	can detect	pharyngeal lesions
+biopsy	can detect	pharyngeal lesions
+rhinoscopy	can detect	nasal obstructions
+nasopharyngoscopy	can detect	nasal obstructions
+endoscopy	can detect	nasal obstructions
+biopsy	can detect	nasal obstructions
+oral examination	can detect	oral deformities
+biopsy	can detect	oral deformities
+pharyngoscopy	can detect	pharyngeal deformities
+biopsy	can detect	pharyngeal deformities
+rhinoscopy	can detect	nasal infections
+nasopharyngoscopy	can detect	nasal infections
+endoscopy	can detect	nasal infections
+biopsy	can detect	nasal infections
+oral examination	can detect	oral abnormalities
+biopsy	can detect	oral abnormalities
+pharyngoscopy	can detect	pharyngeal abnormalities
+biopsy	can detect	pharyngeal abnormalities
+rhinoscopy	can detect	nasal inflammations
+nasopharyngoscopy	can detect	nasal inflammations
+endoscopy	can detect	nasal inflammations
+biopsy	can detect	nasal inflammations
+oral examination	can detect	oral tumors
+biopsy	can detect	oral tumors
+pharyngoscopy	can detect	pharyngeal tumors
+biopsy	can detect	pharyngeal tumors
+rhinoscopy	can detect	nasal lesions
+nasopharyngoscopy	can detect	nasal lesions
+endoscopy	can detect	nasal lesions
+biopsy	can detect	nasal lesions
+oral examination	can detect	oral masses
+biopsy	can detect	oral masses
+pharyngoscopy	can detect	pharyngeal masses
+biopsy	can detect	pharyngeal masses

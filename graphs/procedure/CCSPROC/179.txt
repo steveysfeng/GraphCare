@@ -1,0 +1,125 @@
+ct scan abdomen	is a	medical procedure
+ct scan abdomen	used for	diagnosis
+abdominal cancer	can be detected by	ct scan abdomen
+ct scan abdomen	can detect	tumors
+ct scan abdomen	can detect	inflammation
+ct scan abdomen	can detect	abscesses
+ct scan abdomen	can detect	kidney stones
+ct scan abdomen	can detect	liver disease
+ct scan abdomen	can detect	gallstones
+ct scan abdomen	can detect	appendicitis
+ct scan abdomen	can detect	bowel obstruction
+ct scan abdomen	can detect	diverticulitis
+ct scan abdomen	can detect	pancreatitis
+ct scan abdomen	can detect	hernias
+ct scan abdomen	can detect	cysts
+ct scan abdomen	can detect	aneurysms
+ct scan abdomen	can detect	lymphoma
+ct scan abdomen	can detect	leukemia
+ct scan abdomen	can detect	mesothelioma
+ct scan abdomen	can detect	ovarian cancer
+ct scan abdomen	can detect	prostate cancer
+ct scan abdomen	can detect	colorectal cancer
+ct scan abdomen	can detect	uterine fibroids
+ct scan abdomen	can detect	endometriosis
+ct scan abdomen	can detect	adhesions
+ct scan abdomen	can detect	ectopic pregnancy
+ct scan abdomen	can detect	pelvis fractures
+ct scan abdomen	can detect	abdominal trauma
+ct scan abdomen	can detect	liver cirrhosis
+ct scan abdomen	can detect	pancreas cysts
+ct scan abdomen	can detect	adrenal gland tumors
+ct scan abdomen	can detect	ovarian cysts
+ct scan abdomen	can detect	kidney cysts
+ct scan abdomen	can detect	bladder cancer
+ct scan abdomen	can detect	kidney cancer
+ct scan abdomen	can detect	gallbladder cancer
+ct scan abdomen	can detect	stomach cancer
+ct scan abdomen	can detect	pancreatic cancer
+ct scan abdomen	can detect	liver cancer
+ct scan abdomen	can detect	lung cancer
+ct scan abdomen	can detect	lymphoma cancer
+ct scan abdomen	can detect	bone cancer
+ct scan abdomen	can detect	neuroendocrine tumors
+ct scan abdomen	can detect	gastrointestinal stromal tumors
+ct scan abdomen	can detect	colorectal polyps
+ct scan abdomen	can detect	fibroids
+ct scan abdomen	can detect	ovarian masses
+ct scan abdomen	can detect	peritoneal implants
+ct scan abdomen	can detect	kidney stones
+ct scan abdomen	can detect	bladder stones
+ct scan abdomen	can detect	appendiceal masses
+ct scan abdomen	can detect	pancreatic cysts
+ct scan abdomen	can detect	adrenal adenoma
+ct scan abdomen	can detect	adrenal metastases
+ct scan abdomen	can detect	cholangiocarcinoma
+ct scan abdomen	can detect	esophageal cancer
+ct scan abdomen	can detect	thyroid cancer
+ct scan abdomen	can detect	pituitary adenomas
+ct scan abdomen	can detect	adrenal pheochromocytoma
+ct scan abdomen	can detect	retroperitoneal masses
+ct scan abdomen	can detect	splenic rupture
+ct scan abdomen	can detect	renal cell carcinoma
+ct scan abdomen	can detect	prostate adenocarcinoma
+ct scan abdomen	can detect	testicular cancer
+ct scan abdomen	can detect	leiomyosarcoma
+ct scan abdomen	can detect	mesenteric adenitis
+ct scan abdomen	can detect	lymphadenopathy
+ct scan abdomen	can detect	inguinal hernia
+ct scan abdomen	can detect	paraesophageal hernia
+ct scan abdomen	can detect	hiatal hernia
+ct scan abdomen	can detect	ventral hernia
+ct scan abdomen	can detect	incisional hernia
+ct scan abdomen	can detect	femoral hernia
+ct scan abdomen	can detect	umbilical hernia
+ct scan abdomen	can detect	diaphragmatic hernia
+ct scan abdomen	can detect	rectus sheath hematoma
+ct scan abdomen	can detect	splenic abscess
+ct scan abdomen	can detect	adrenal insufficiency
+ct scan abdomen	can detect	adrenal hyperplasia
+ct scan abdomen	can detect	polyarteritis nodosa
+ct scan abdomen	can detect	thrombosed splenic vein
+ct scan abdomen	can detect	hydronephrosis
+ct scan abdomen	can detect	urinary bladder diverticula
+ct scan abdomen	can detect	urinary bladder rupture
+ct scan abdomen	can detect	stomach ulcers
+ct scan abdomen	can detect	kidney infections
+ct scan abdomen	can detect	liver abscess
+ct scan abdomen	can detect	bowel ischemia
+ct scan abdomen	can detect	bowel perforation
+ct scan abdomen	can detect	pancreatic necrosis
+ct scan abdomen	can detect	pancreatic pseudocyst
+ct scan abdomen	can detect	abdominal aortic aneurysm
+ct scan abdomen	can detect	mesenteric artery ischemia
+ct scan abdomen	can detect	peritonitis
+ct scan abdomen	can detect	abdominal wall abscess
+ct scan abdomen	can detect	vascular malformations
+ct scan abdomen	can detect	portal hypertension
+ct scan abdomen	can detect	splenic artery aneurysm
+ct scan abdomen	can detect	gastrostomy tubes
+ct scan abdomen	can detect	colostomy bags
+ct scan abdomen	can detect	intraperitoneal fluid
+ct scan abdomen	can detect	ascites
+ct scan abdomen	can detect	peritoneal thickening
+ct scan abdomen	can detect	peritoneal carcinomatosis
+ct scan abdomen	can detect	bowel obstructions
+ct scan abdomen	can detect	intestinal carcinoids
+ct scan abdomen	can detect	interstitial lung disease
+ct scan abdomen	can detect	chronic kidney disease
+ct scan abdomen	can detect	deep venous thrombosis
+ct scan abdomen	can detect	pelvic varices
+ct scan abdomen	can detect	retroperitoneal fibrosis
+ct scan abdomen	can detect	ovarian torsion
+ct scan abdomen	can detect	pelvic congestion syndrome
+ct scan abdomen	can detect	arteriovenous malformations
+ct scan abdomen	can detect	retroperitoneal lymphadenopathy
+ct scan abdomen	can detect	retroperitoneal fibromatosis
+ct scan abdomen	can detect	retroperitoneal liposarcoma
+ct scan abdomen	can detect	inguinofemoral hernia
+ct scan abdomen	can detect	illeocecal valve ulcers
+ct scan abdomen	can detect	renal pelvis enlargement
+ct scan abdomen	can detect	aortoenteric fistula
+ct scan abdomen	can detect	retroperitoneal lymphoma
+ct scan abdomen	can detect	retroperitoneal metastases
+ct scan abdomen	can detect	ascariasis
+ct scan abdomen	can detect	necrotizing enterocolitis

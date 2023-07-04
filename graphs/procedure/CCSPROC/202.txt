@@ -1,0 +1,81 @@
+electrocardiogram	is a	medical test
+electrocardiogram	used for	heart monitoring
+electrocardiogram	measures	electrical activity of the heart
+electrocardiogram	can detect	irregular heart rhythms
+electrocardiogram	helps in	diagnosing heart conditions
+electrocardiogram	used to	evaluate the effectiveness of medications
+electrocardiogram	used for	risk assessment of heart disease
+electrocardiogram	can indicate	heart attacks
+electrocardiogram	used to	monitor response to treatment
+electrocardiogram	used to	assess heart health
+electrocardiogram	can predict	future cardiac events
+electrocardiogram	helps in	determining proper treatment
+electrocardiogram	used in	preoperative evaluation
+electrocardiogram	used for	screening purposes
+electrocardiogram	used in	emergency settings
+electrocardiogram	provides	real-time heart activity information
+electrocardiogram	used to	monitor heart function during exercise
+electrocardiogram	used in	telemedicine
+electrocardiogram	can identify	electrolyte imbalances
+electrocardiogram	used to	guide cardiac procedures
+electrocardiogram	used for	remote patient monitoring
+electrocardiogram	can indicate	heart valve disorders
+electrocardiogram	used to	assess response to therapy
+electrocardiogram	helps in	determining appropriate interventions
+electrocardiogram	used to	evaluate the risk of arrhythmias
+electrocardiogram	can detect	conduction abnormalities
+electrocardiogram	used in	clinical trials
+electrocardiogram	helps in	monitoring overall cardiovascular health
+electrocardiogram	used to	classify heart diseases
+electrocardiogram	can indicate	blood flow problems to the heart
+electrocardiogram	used to	assess the impact of lifestyle on heart health
+electrocardiogram	helps in	managing heart-related conditions
+electrocardiogram	used to	monitor heart recovery post-surgery
+electrocardiogram	can indicate	cardiac stress
+electrocardiogram	used to	assess the effectiveness of interventions
+electrocardiogram	helps in	identifying medication side effects
+electrocardiogram	used to	evaluate the impact of heart disease on daily activities
+electrocardiogram	can identify	abnormal heart rhythms
+electrocardiogram	used to	assess the risk of sudden cardiac death
+electrocardiogram	helps in	optimizing medication therapy
+electrocardiogram	used to	monitor heart health in athletes
+electrocardiogram	can indicate	heart blockages
+electrocardiogram	used to	monitor the impact of heart disease on quality of life
+electrocardiogram	helps in	identifying heart muscle damage
+electrocardiogram	used to	assess drug efficacy
+electrocardiogram	can indicate	electrolyte imbalances
+electrocardiogram	used to	evaluate heart function in neonates
+electrocardiogram	helps in	tracking treatment progress
+electrocardiogram	used to	evaluate the risk of stroke
+electrocardiogram	can detect	heart abnormalities
+electrocardiogram	used for	assessing heart rate variability
+electrocardiogram	helps in	identifying heart diseases in children
+electrocardiogram	used to	guide pacemaker implantation
+electrocardiogram	can indicate	myocardial infarction
+electrocardiogram	used to	monitor heart function during anesthesia
+electrocardiogram	helps in	adjusting medication dosages
+electrocardiogram	used to	diagnose pericarditis
+electrocardiogram	can detect	heart murmurs
+electrocardiogram	used to	evaluate cardiac rehabilitation progress
+electrocardiogram	helps in	deciding surgical interventions
+electrocardiogram	used to	diagnose atrial fibrillation
+electrocardiogram	can identify	heart muscle disorders
+electrocardiogram	used to	monitor response to cardiac resynchronization therapy
+electrocardiogram	helps in	preventing complications from heart disease
+electrocardiogram	used to	detect congenital heart defects
+electrocardiogram	can detect	heart enlargement
+electrocardiogram	used to	assess prognosis in heart conditions
+electrocardiogram	helps in	optimizing medication management
+electrocardiogram	used to	diagnose ventricular fibrillation
+electrocardiogram	can indicate	arrhythmogenic right ventricular cardiomyopathy
+electrocardiogram	used to	assess heart function during pregnancy
+electrocardiogram	helps in	managing hypertension
+electrocardiogram	used to	evaluate electrical conduction in the heart
+electrocardiogram	can detect	heart rhythm disturbances
+electrocardiogram	used for	monitoring patients with heart failure
+electrocardiogram	helps in	identifying heart conditions in older adults
+electrocardiogram	used to	evaluate the risk of coronary artery disease
+electrocardiogram	can indicate	angina
+electrocardiogram	used to	diagnose Wolff-Parkinson-White syndrome
+electrocardiogram	helps in	optimizing cardiovascular health
+electrocardiogram	used to	monitor response to cardiac rehabilitation

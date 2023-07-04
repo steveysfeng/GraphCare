@@ -1,0 +1,74 @@
+myelogram	is a	medical procedure
+myelogram	used for	diagnosis
+myelogram	involves	injecting dye
+dye	helps	visualize spinal cord
+myelogram	can detect	spinal cord compression
+myelogram	may cause	headache
+headache	can be relieved by	drinking fluids
+myelogram	can be performed	with CT scan
+CT scan	provides	detailed images
+myelogram	can be used	to guide injections
+myelogram	helps	evaluate spinal abnormalities
+myelogram	is essential	for pre-surgical planning
+myelogram	is performed	by a radiologist
+myelogram	is a	minimally invasive procedure
+myelogram	carries	small risk of complications
+myelogram	is	safe
+myelogram	has	high diagnostic accuracy
+myelogram	is	time-consuming
+myelogram	requires	patient cooperation
+myelogram	is	cost-effective
+myelogram	is	commonly used
+myelogram	can be done	on an outpatient basis
+myelogram	helps	determine appropriate treatment
+myelogram	can identify	spinal infections
+myelogram	assists	in diagnosing tumors
+myelogram	assists	in diagnosing herniated discs
+myelogram	is	contraindicated in pregnancy
+myelogram	is	contraindicated in patients with allergy to iodine
+myelogram	can be	painful
+painful	sensation can be	transient
+myelogram	is	effective
+myelogram	can help	prevent complications
+myelogram	may require	sedation
+sedation	is administered	by an anesthesiologist
+myelogram	can be	time-consuming
+myelogram	can cause	allergic reactions
+myelogram	can cause	nausea
+myelogram	may require	overnight hospital stay
+myelogram	can be performed	under local anesthesia
+myelogram	has	low radiation exposure
+myelogram	can be used	for guided spinal injections
+myelogram	can identify	narrowing of spinal canal
+myelogram	can determine	the cause of back pain
+myelogram	may require	follow-up imaging
+myelogram	can provide	detailed spinal anatomy
+myelogram	can assist	in surgical planning
+myelogram	can reveal	spinal cord abnormalities
+myelogram	is	useful in patients with contraindications to MRI
+myelogram	is	a valuable diagnostic tool
+myelogram	can help	select appropriate treatment
+myelogram	allows	visualization of nerve roots
+myelogram	can be	uncomfortable
+myelogram	can help	relieve symptoms
+myelogram	can detect	spinal fractures
+myelogram	is	performed by injecting contrast dye
+myelogram	is	performed under fluoroscopy
+myelogram	may require	overnight observation
+myelogram	is	performed in a radiology department
+myelogram	can be	performed with MRI
+myelogram	can detect	spinal stenosis
+myelogram	can reveal	spinal cord tumors
+myelogram	can be used	to guide spinal procedures
+myelogram	can be	diagnostic
+myelogram	can help	determine prognosis
+myelogram	is	invasive
+myelogram	can detect	nerve root impingement
+myelogram	can identify	spinal deformities
+myelogram	can assist	in diagnosing spinal infections
+myelogram	is	commonly performed
+myelogram	can be	performed with local anesthesia
+myelogram	can be used	for image-guided pain management
+myelogram	may require	follow-up care
+myelogram	is	a specialized test
+myelogram	can be	performed in an outpatient setting

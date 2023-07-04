@@ -1,0 +1,96 @@
+traction	is a	medical treatment
+traction	used for	bone fractures
+splints	is a	medical device
+splints	used for	immobilization
+wound care	is a	medical treatment
+wound care	used for	healing wounds
+traction	helps with	bone alignment
+splints	help with	immobilization
+wound care	helps with	wound healing
+traction	used in conjunction with	splints
+traction	used in conjunction with	wound care
+splints	used in conjunction with	traction
+splints	used in conjunction with	wound care
+wound care	used in conjunction with	traction
+wound care	used in conjunction with	splints
+traction	recommended for	certain fractures
+traction	recommended for	bone realignment
+splints	recommended for	immobilizing fractures
+splints	recommended for	joint protection
+wound care	recommended for	wound healing
+wound care	recommended for	infection prevention
+traction	used before	surgery
+traction	used after	surgery
+splints	used before	surgery
+splints	used after	surgery
+wound care	used before	surgery
+wound care	used after	surgery
+traction	associated with	pain relief
+traction	associated with	improved bone healing
+splints	associated with	stability
+splints	associated with	protection
+wound care	associated with	reduced scarring
+wound care	associated with	improved healing
+traction	may cause	skin breakdown
+traction	may cause	muscle spasms
+splints	may cause	skin irritation
+splints	may cause	pressure sores
+wound care	may cause	allergic reactions
+wound care	may cause	delayed wound healing
+traction	used in	orthopedics
+splints	used in	orthopedics
+wound care	used in	wound clinics
+traction	provided by	healthcare professionals
+traction	provided by	physical therapists
+splints	provided by	orthotists
+splints	provided by	doctors
+wound care	provided by	nurses
+wound care	provided by	wound care specialists
+traction	can be	continuous
+traction	can be	intermittent
+splints	can be	customized
+splints	can be	prefabricated
+wound care	can be	moist
+wound care	can be	dry
+traction	helps with	bone realignment
+splints	help with	joint stabilization
+wound care	helps with	wound cleansing
+traction	used for	pain relief
+traction	used for	immobilization
+splints	used for	joint support
+splints	used for	stability
+wound care	used for	wound closure
+wound care	used for	infection prevention
+traction	recommended for	fractures
+traction	recommended for	bone realignment
+splints	recommended for	fractures
+splints	recommended for	joint stabilization
+wound care	recommended for	wounds
+wound care	recommended for	infection prevention
+traction	used during	limb stretching
+traction	used during	fracture reduction
+splints	used during	joint immobilization
+splints	used during	fracture stabilization
+wound care	used during	wound cleansing
+wound care	used during	wound dressing
+traction	used to	align bones
+traction	used to	relieve pressure
+splints	used to	stabilize joints
+splints	used to	protect against injury
+wound care	used to	promote healing
+wound care	used to	prevent infection
+traction	associated with	improved mobility
+traction	associated with	reduced pain
+splints	associated with	enhanced function
+splints	associated with	decreased swelling
+wound care	associated with	reduced scarring
+wound care	associated with	improved granulation
+traction	may require	hospitalization
+traction	may require	sedation
+splints	may require	cast application
+splints	may require	orthopedic consultation
+wound care	may require	debridement
+wound care	may require	advanced wound care
+traction	used in	orthopedic clinics
+splints	used in	sports medicine
+wound care	used in	burn units

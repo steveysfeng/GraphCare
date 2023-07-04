@@ -1,0 +1,208 @@
+ophthalmologic diagnosis and treatment	is a	medical specialty
+otologic diagnosis and treatment	is a	medical specialty
+ophthalmologic diagnosis and treatment	involves	assessment of eye conditions
+otologic diagnosis and treatment	involves	assessment of ear conditions
+ophthalmologic diagnosis and treatment	can involve	use of ophthalmoscope
+otologic diagnosis and treatment	can involve	use of otoscope
+ophthalmologic diagnosis and treatment	may include	prescription of eyeglasses
+otologic diagnosis and treatment	may include	prescription of hearing aids
+ophthalmologic diagnosis and treatment	can detect	cataracts
+otologic diagnosis and treatment	can detect	hearing loss
+ophthalmologic diagnosis and treatment	can treat	refractive errors
+otologic diagnosis and treatment	can treat	ear infections
+ophthalmologic diagnosis and treatment	requires	specialized training
+otologic diagnosis and treatment	requires	specialized training
+ophthalmologic diagnosis and treatment	is provided by	ophthalmologists
+otologic diagnosis and treatment	is provided by	otolaryngologists
+ophthalmologic diagnosis and treatment	is important for	maintaining eye health
+otologic diagnosis and treatment	is important for	maintaining ear health
+ophthalmologic diagnosis and treatment	can prevent	vision loss
+otologic diagnosis and treatment	can prevent	hearing loss
+ophthalmologic diagnosis and treatment	can improve	visual acuity
+otologic diagnosis and treatment	can improve	hearing ability
+ophthalmologic diagnosis and treatment	is necessary for	managing eye conditions
+otologic diagnosis and treatment	is necessary for	managing ear conditions
+ophthalmologic diagnosis and treatment	can diagnose	glaucoma
+otologic diagnosis and treatment	can diagnose	ear wax impaction
+ophthalmologic diagnosis and treatment	can recommend	contact lenses
+otologic diagnosis and treatment	can recommend	ear protection
+ophthalmologic diagnosis and treatment	plays a role in	eye surgery
+otologic diagnosis and treatment	plays a role in	ear surgery
+ophthalmologic diagnosis and treatment	can result in	improved vision
+otologic diagnosis and treatment	can result in	improved hearing
+ophthalmologic diagnosis and treatment	is essential for	managing eye diseases
+otologic diagnosis and treatment	is essential for	managing ear diseases
+ophthalmologic diagnosis and treatment	focuses on	visual system
+otologic diagnosis and treatment	focuses on	auditory system
+ophthalmologic diagnosis and treatment	can diagnose	cataracts
+otologic diagnosis and treatment	can diagnose	ear infections
+ophthalmologic diagnosis and treatment	can perform	laser eye surgery
+otologic diagnosis and treatment	can perform	ear tube placement
+ophthalmologic diagnosis and treatment	contributes to	overall health
+otologic diagnosis and treatment	contributes to	overall health
+ophthalmologic diagnosis and treatment	can recommend	eye exercises
+otologic diagnosis and treatment	can recommend	hearing exercises
+ophthalmologic diagnosis and treatment	can result in	improved eye function
+otologic diagnosis and treatment	can result in	improved ear function
+ophthalmologic diagnosis and treatment	can assess	visual field
+otologic diagnosis and treatment	can assess	hearing ability
+ophthalmologic diagnosis and treatment	can diagnose	macular degeneration
+otologic diagnosis and treatment	can diagnose	tinnitus
+ophthalmologic diagnosis and treatment	can perform	corneal transplant
+otologic diagnosis and treatment	can perform	ear wax removal
+ophthalmologic diagnosis and treatment	specializes in	eye care
+otologic diagnosis and treatment	specializes in	ear care
+ophthalmologic diagnosis and treatment	can prescribe	eye drops
+otologic diagnosis and treatment	can prescribe	ear drops
+ophthalmologic diagnosis and treatment	involves	careful examination of the eye
+otologic diagnosis and treatment	involves	careful examination of the ear
+ophthalmologic diagnosis and treatment	can manage	eye injuries
+otologic diagnosis and treatment	can manage	ear injuries
+ophthalmologic diagnosis and treatment	can diagnose	retinal detachment
+otologic diagnosis and treatment	can diagnose	ear drum perforation
+ophthalmologic diagnosis and treatment	can refer to	other specialists
+otologic diagnosis and treatment	can refer to	other specialists
+ophthalmologic diagnosis and treatment	can perform	eye muscle surgery
+otologic diagnosis and treatment	can perform	cochlear implantation
+ophthalmologic diagnosis and treatment	can prevent	eye infections
+otologic diagnosis and treatment	can prevent	ear infections
+ophthalmologic diagnosis and treatment	can recommend	eye protection
+otologic diagnosis and treatment	can recommend	ear cleaning
+ophthalmologic diagnosis and treatment	can detect	macular degeneration
+otologic diagnosis and treatment	can detect	hearing loss in newborns
+ophthalmologic diagnosis and treatment	can prescribe	eye ointment
+otologic diagnosis and treatment	can prescribe	ear plugs
+ophthalmologic diagnosis and treatment	can diagnose	diabetic retinopathy
+otologic diagnosis and treatment	can diagnose	Meniere's disease
+ophthalmologic diagnosis and treatment	can refer for	eye surgery
+otologic diagnosis and treatment	can refer for	ear surgery
+ophthalmologic diagnosis and treatment	is important for	managing eye disorders
+otologic diagnosis and treatment	is important for	managing ear disorders
+ophthalmologic diagnosis and treatment	can diagnose	glaucoma
+otologic diagnosis and treatment	can diagnose	hearing loss
+ophthalmologic diagnosis and treatment	can perform	corrective eye surgery
+otologic diagnosis and treatment	can perform	ear reconstruction
+ophthalmologic diagnosis and treatment	can improve	visual function
+otologic diagnosis and treatment	can improve	auditory function
+ophthalmologic diagnosis and treatment	can evaluate	eye movement
+otologic diagnosis and treatment	can evaluate	ear drainage
+ophthalmologic diagnosis and treatment	can diagnose	macular degeneration
+otologic diagnosis and treatment	can diagnose	tinnitus
+ophthalmologic diagnosis and treatment	can perform	cataract surgery
+otologic diagnosis and treatment	can perform	ear cleaning
+ophthalmologic diagnosis and treatment	specializes in	eye health
+otologic diagnosis and treatment	specializes in	ear health
+ophthalmologic diagnosis and treatment	can prescribe	eye medications
+otologic diagnosis and treatment	can prescribe	ear medications
+ophthalmologic diagnosis and treatment	requires	detailed examination
+otologic diagnosis and treatment	requires	detailed examination
+ophthalmologic diagnosis and treatment	can manage	eye allergies
+otologic diagnosis and treatment	can manage	ear allergies
+ophthalmologic diagnosis and treatment	can diagnose	retinal detachment
+otologic diagnosis and treatment	can diagnose	ear canal stenosis
+ophthalmologic diagnosis and treatment	can refer for	eye care
+otologic diagnosis and treatment	can refer for	ear care
+ophthalmologic diagnosis and treatment	can perform	eye surgery
+otologic diagnosis and treatment	can perform	ear surgery
+ophthalmologic diagnosis and treatment	can prevent	eye diseases
+otologic diagnosis and treatment	can prevent	ear diseases
+ophthalmologic diagnosis and treatment	can recommend	eye hygiene
+otologic diagnosis and treatment	can recommend	ear hygiene
+ophthalmologic diagnosis and treatment	can result in	improved eye health
+otologic diagnosis and treatment	can result in	improved ear health
+ophthalmologic diagnosis and treatment	can assess	visual acuity
+otologic diagnosis and treatment	can assess	hearing loss
+ophthalmologic diagnosis and treatment	can diagnose	macular degeneration
+otologic diagnosis and treatment	can diagnose	ear infections
+ophthalmologic diagnosis and treatment	can perform	laser eye surgery
+otologic diagnosis and treatment	can perform	ear tube placement
+ophthalmologic diagnosis and treatment	can contribute to	overall well-being
+otologic diagnosis and treatment	can contribute to	overall well-being
+ophthalmologic diagnosis and treatment	can examine	eye structure
+otologic diagnosis and treatment	can examine	ear structure
+ophthalmologic diagnosis and treatment	can diagnose	cataracts
+otologic diagnosis and treatment	can diagnose	ear infections
+ophthalmologic diagnosis and treatment	can recommend	eye protection
+otologic diagnosis and treatment	can recommend	ear protection
+ophthalmologic diagnosis and treatment	can detect	macular degeneration
+otologic diagnosis and treatment	can detect	hearing loss in children
+ophthalmologic diagnosis and treatment	can prescribe	eye drops
+otologic diagnosis and treatment	can prescribe	ear drops
+ophthalmologic diagnosis and treatment	involves	comprehensive eye care
+otologic diagnosis and treatment	involves	comprehensive ear care
+ophthalmologic diagnosis and treatment	can manage	eye diseases
+otologic diagnosis and treatment	can manage	ear diseases
+ophthalmologic diagnosis and treatment	can diagnose	retinal detachment
+otologic diagnosis and treatment	can diagnose	ear drum perforation
+ophthalmologic diagnosis and treatment	can refer to	other healthcare professionals
+otologic diagnosis and treatment	can refer to	other healthcare professionals
+ophthalmologic diagnosis and treatment	can perform	eye muscle surgery
+otologic diagnosis and treatment	can perform	cochlear implantation
+ophthalmologic diagnosis and treatment	can prevent	eye infections
+otologic diagnosis and treatment	can prevent	ear infections
+ophthalmologic diagnosis and treatment	can recommend	eye care tips
+otologic diagnosis and treatment	can recommend	ear care tips
+ophthalmologic diagnosis and treatment	can result in	improved visual function
+otologic diagnosis and treatment	can result in	improved auditory function
+ophthalmologic diagnosis and treatment	can evaluate	eye health
+otologic diagnosis and treatment	can evaluate	ear health
+ophthalmologic diagnosis and treatment	can diagnose	macular degeneration
+otologic diagnosis and treatment	can diagnose	tinnitus
+ophthalmologic diagnosis and treatment	can perform	corneal transplant
+otologic diagnosis and treatment	can perform	ear wax removal
+ophthalmologic diagnosis and treatment	specializes in	eye disorders
+otologic diagnosis and treatment	specializes in	ear disorders
+ophthalmologic diagnosis and treatment	can prescribe	eye ointment
+otologic diagnosis and treatment	can prescribe	ear plugs
+ophthalmologic diagnosis and treatment	involves	comprehensive eye exam
+otologic diagnosis and treatment	involves	comprehensive ear exam
+ophthalmologic diagnosis and treatment	can manage	eye allergies
+otologic diagnosis and treatment	can manage	ear allergies
+ophthalmologic diagnosis and treatment	can diagnose	retinal detachment
+otologic diagnosis and treatment	can diagnose	ear canal stenosis
+ophthalmologic diagnosis and treatment	can refer for	eye surgery
+otologic diagnosis and treatment	can refer for	ear surgery
+ophthalmologic diagnosis and treatment	can perform	eye surgery
+otologic diagnosis and treatment	can perform	ear surgery
+ophthalmologic diagnosis and treatment	can prevent	eye diseases
+otologic diagnosis and treatment	can prevent	ear diseases
+ophthalmologic diagnosis and treatment	can recommend	eye hygiene
+otologic diagnosis and treatment	can recommend	ear hygiene
+ophthalmologic diagnosis and treatment	can result in	improved eye health
+otologic diagnosis and treatment	can result in	improved ear health
+ophthalmologic diagnosis and treatment	can assess	visual acuity
+otologic diagnosis and treatment	can assess	hearing loss
+ophthalmologic diagnosis and treatment	can diagnose	macular degeneration
+otologic diagnosis and treatment	can diagnose	ear infections
+ophthalmologic diagnosis and treatment	can perform	laser eye surgery
+otologic diagnosis and treatment	can perform	ear tube placement
+ophthalmologic diagnosis and treatment	can contribute to	overall health
+otologic diagnosis and treatment	can contribute to	overall health
+ophthalmologic diagnosis and treatment	can examine	eye structure
+otologic diagnosis and treatment	can examine	ear structure
+ophthalmologic diagnosis and treatment	can diagnose	cataracts
+otologic diagnosis and treatment	can diagnose	ear infections
+ophthalmologic diagnosis and treatment	can recommend	eye protection
+otologic diagnosis and treatment	can recommend	ear protection
+ophthalmologic diagnosis and treatment	can detect	macular degeneration
+otologic diagnosis and treatment	can detect	hearing loss in adults
+ophthalmologic diagnosis and treatment	can prescribe	eye drops
+otologic diagnosis and treatment	can prescribe	ear drops
+ophthalmologic diagnosis and treatment	provides	comprehensive eye care
+otologic diagnosis and treatment	provides	comprehensive ear care
+ophthalmologic diagnosis and treatment	can manage	eye diseases
+otologic diagnosis and treatment	can manage	ear diseases
+ophthalmologic diagnosis and treatment	can diagnose	retinal detachment
+otologic diagnosis and treatment	can diagnose	ear drum perforation
+ophthalmologic diagnosis and treatment	can refer to	other healthcare providers
+otologic diagnosis and treatment	can refer to	other healthcare providers
+ophthalmologic diagnosis and treatment	can perform	eye muscle surgery
+otologic diagnosis and treatment	can perform	cochlear implantation
+ophthalmologic diagnosis and treatment	can prevent	eye infections
+otologic diagnosis and treatment	can prevent	ear infections
+ophthalmologic diagnosis and treatment	can recommend	eye care practices
+otologic diagnosis and treatment	can recommend	ear care practices
+ophthalmologic diagnosis and treatment	can result in	improved visual acuity
+otologic diagnosis and treatment	can result in	improved hearing ability
+ophthalmologic diagnosis and treatment	can evaluate	eye health
+otologic diagnosis and treatment	can evaluate	ear health

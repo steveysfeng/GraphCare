@@ -1,0 +1,84 @@
+therapeutic procedures	is a type of	medical procedure
+eyelids	can undergo	therapeutic procedures
+conjunctiva	can undergo	therapeutic procedures
+cornea	can undergo	therapeutic procedures
+conjunctiva	can be affected by	therapeutic procedures
+cornea	can be affected by	therapeutic procedures
+therapeutic procedures	can treat	eyelids
+therapeutic procedures	can treat	conjunctiva
+therapeutic procedures	can treat	cornea
+eyelids	can be affected by	therapeutic procedures
+conjunctiva	can be affected by	therapeutic procedures
+cornea	can be affected by	therapeutic procedures
+therapeutic procedures	can correct	eyelids
+therapeutic procedures	can correct	conjunctiva
+therapeutic procedures	can correct	cornea
+eyelids	can be corrected by	therapeutic procedures
+conjunctiva	can be corrected by	therapeutic procedures
+cornea	can be corrected by	therapeutic procedures
+eyelids	can be treated with	therapeutic procedures
+conjunctiva	can be treated with	therapeutic procedures
+cornea	can be treated with	therapeutic procedures
+eyelids	can be corrected with	therapeutic procedures
+conjunctiva	can be corrected with	therapeutic procedures
+cornea	can be corrected with	therapeutic procedures
+eye disorders	can be treated with	therapeutic procedures
+therapeutic procedures	can correct	eye disorders
+therapeutic procedures	can diagnose	eye disorders
+therapeutic procedures	can repair	eye disorders
+eye disorders	can be repaired with	therapeutic procedures
+eye disorders	can be diagnosed with	therapeutic procedures
+eyelids	can be repaired with	therapeutic procedures
+conjunctiva	can be repaired with	therapeutic procedures
+cornea	can be repaired with	therapeutic procedures
+therapeutic procedures	can repair	eyelids
+therapeutic procedures	can repair	conjunctiva
+therapeutic procedures	can repair	cornea
+eyelids	can be corrected from	therapeutic procedures
+conjunctiva	can be corrected from	therapeutic procedures
+cornea	can be corrected from	therapeutic procedures
+conjunctiva	can be corrected to	therapeutic procedures
+cornea	can be corrected to	therapeutic procedures
+eyelids	can be corrected to	therapeutic procedures
+conjunctiva	can be treated from	therapeutic procedures
+cornea	can be treated from	therapeutic procedures
+eyelids	can be treated from	therapeutic procedures
+eyelids	can be treated to	therapeutic procedures
+conjunctiva	can be treated to	therapeutic procedures
+cornea	can be treated to	therapeutic procedures
+therapeutic procedures	can help with	eyelids
+therapeutic procedures	can help with	conjunctiva
+therapeutic procedures	can help with	cornea
+eyelids	can benefit from	therapeutic procedures
+conjunctiva	can benefit from	therapeutic procedures
+cornea	can benefit from	therapeutic procedures
+eyelids	can be helped with	therapeutic procedures
+conjunctiva	can be helped with	therapeutic procedures
+cornea	can be helped with	therapeutic procedures
+eyelids	can be benefited from	therapeutic procedures
+conjunctiva	can be benefited from	therapeutic procedures
+cornea	can be benefited from	therapeutic procedures
+therapeutic procedures	can be performed on	eyelids
+therapeutic procedures	can be performed on	conjunctiva
+therapeutic procedures	can be performed on	cornea
+eyelids	can have	therapeutic procedures
+conjunctiva	can have	therapeutic procedures
+cornea	can have	therapeutic procedures
+eyelids	can undergo	therapeutic procedures
+conjunctiva	can undergo	therapeutic procedures
+cornea	can undergo	therapeutic procedures
+eyelids	can be affected with	therapeutic procedures
+eyelids	can be affected from	therapeutic procedures
+conjunctiva	can be affected from	therapeutic procedures
+conjunctiva	can be affected with	therapeutic procedures
+cornea	can be affected from	therapeutic procedures
+cornea	can be affected with	therapeutic procedures
+eyelids	can correct	therapeutic procedures
+eyelids	can treat	therapeutic procedures
+conjunctiva	can correct	therapeutic procedures
+conjunctiva	can treat	therapeutic procedures
+cornea	can correct	therapeutic procedures
+cornea	can treat	therapeutic procedures
+eyelids	can be corrected by	therapeutic procedures
+conjunctiva	can be corrected by	therapeutic procedures
+cornea	can be corrected by	therapeutic procedures

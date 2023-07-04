@@ -1,0 +1,278 @@
+repair of cystocele	is a	surgical procedure
+repair of rectocele	is a	surgical procedure
+repair of cystocele	used for	treatment
+repair of rectocele	used for	treatment
+obliteration of vaginal vault	is a	surgical procedure
+repair of cystocele	can be done with	mesh
+repair of rectocele	can be done with	mesh
+repair of cystocele	can be done with	sutures
+repair of rectocele	can be done with	sutures
+repair of cystocele	can be done with	graft
+repair of rectocele	can be done with	graft
+mesh	is a type of	material
+mesh	used in	surgical procedures
+sutures	are a type of	material
+sutures	used in	surgical procedures
+graft	is a	tissue
+graft	used in	surgical procedures
+repair of cystocele	can cause	pain
+repair of rectocele	can cause	pain
+repair of cystocele	can cause	bladder injury
+repair of rectocele	can cause	bowel injury
+obliteration of vaginal vault	can cause	vaginal stenosis
+obliteration of vaginal vault	used to prevent	prolapse
+mesh	can increase	risk of complications
+sutures	can increase	risk of complications
+graft	can increase	risk of complications
+repair of cystocele	can lead to	recurrence
+repair of rectocele	can lead to	recurrence
+repair of cystocele	can improve	quality of life
+repair of rectocele	can improve	quality of life
+obliteration of vaginal vault	can improve	pelvic support
+repair of cystocele	usually done	under anesthesia
+repair of rectocele	usually done	under anesthesia
+obliteration of vaginal vault	usually done	under anesthesia
+repair of cystocele	done by	gynecologist
+repair of rectocele	done by	gynecologist
+obliteration of vaginal vault	done by	gynecologist
+repair of cystocele	can be performed	laparoscopically
+repair of rectocele	can be performed	laparoscopically
+obliteration of vaginal vault	can be performed	laparoscopically
+laparoscopic repair of cystocele	is a type of	repair of cystocele
+laparoscopic repair of rectocele	is a type of	repair of rectocele
+laparoscopic repair of cystocele	can be done	with mesh
+laparoscopic repair of rectocele	can be done	with mesh
+laparoscopic repair of cystocele	can be done	with sutures
+laparoscopic repair of rectocele	can be done	with sutures
+laparoscopic repair of cystocele	can be done	with graft
+laparoscopic repair of rectocele	can be done	with graft
+repair of cystocele	is indicated in	symptomatic cystocele
+repair of rectocele	is indicated in	symptomatic rectocele
+obliteration of vaginal vault	is indicated in	post-hysterectomy vault prolapse
+repair of cystocele	is contraindicated in	patients with high surgical risk
+repair of rectocele	is contraindicated in	patients with high surgical risk
+obliteration of vaginal vault	is contraindicated in	patients wishing to retain sexual function
+repair of cystocele	requires	preoperative evaluation
+repair of rectocele	requires	preoperative evaluation
+obliteration of vaginal vault	requires	preoperative evaluation
+repair of cystocele	has	postoperative care
+repair of rectocele	has	postoperative care
+obliteration of vaginal vault	has	postoperative care
+repair of cystocele	has	potential complications
+repair of rectocele	has	potential complications
+obliteration of vaginal vault	has	potential complications
+repair of cystocele	has	recovery time
+repair of rectocele	has	recovery time
+obliteration of vaginal vault	has	recovery time
+repair of cystocele	can be done	vaginally
+repair of rectocele	can be done	vaginally
+obliteration of vaginal vault	can be done	vaginally
+vaginal repair of cystocele	is a type of	repair of cystocele
+vaginal repair of rectocele	is a type of	repair of rectocele
+vaginal repair of cystocele	can be done	with mesh
+vaginal repair of rectocele	can be done	with mesh
+vaginal repair of cystocele	can be done	with sutures
+vaginal repair of rectocele	can be done	with sutures
+vaginal repair of cystocele	can be done	with graft
+vaginal repair of rectocele	can be done	with graft
+repair of cystocele	may require	hospitalization
+repair of rectocele	may require	hospitalization
+obliteration of vaginal vault	may require	hospitalization
+repair of cystocele	can be performed	using minimally invasive techniques
+repair of rectocele	can be performed	using minimally invasive techniques
+obliteration of vaginal vault	can be performed	using minimally invasive techniques
+minimally invasive repair of cystocele	is a type of	repair of cystocele
+minimally invasive repair of rectocele	is a type of	repair of rectocele
+minimally invasive repair of cystocele	can be done	with mesh
+minimally invasive repair of rectocele	can be done	with mesh
+minimally invasive repair of cystocele	can be done	with sutures
+minimally invasive repair of rectocele	can be done	with sutures
+minimally invasive repair of cystocele	can be done	with graft
+minimally invasive repair of rectocele	can be done	with graft
+laparoscopic repair of cystocele	has	shorter recovery time
+laparoscopic repair of rectocele	has	shorter recovery time
+vaginal repair of cystocele	has	shorter recovery time
+vaginal repair of rectocele	has	shorter recovery time
+minimally invasive repair of cystocele	has	shorter recovery time
+minimally invasive repair of rectocele	has	shorter recovery time
+repair of cystocele	can have	high success rate
+repair of rectocele	can have	high success rate
+vaginal repair of cystocele	has	lower complication rate
+vaginal repair of rectocele	has	lower complication rate
+minimally invasive repair of cystocele	has	lower complication rate
+minimally invasive repair of rectocele	has	lower complication rate
+repair of cystocele	can be	outpatient procedure
+repair of rectocele	can be	outpatient procedure
+obliteration of vaginal vault	can be	outpatient procedure
+repair of cystocele	usually done	in the operating room
+repair of rectocele	usually done	in the operating room
+obliteration of vaginal vault	usually done	in the operating room
+gynecologist	specializes in	repair of cystocele
+gynecologist	specializes in	repair of rectocele
+gynecologist	specializes in	obliteration of vaginal vault
+mesh	is	synthetic material
+sutures	are	absorbable material
+graft	is	biological material
+symptomatic cystocele	is	a symptom
+symptomatic rectocele	is	a symptom
+post-hysterectomy vault prolapse	is	a condition
+patients with high surgical risk	have	comorbidities
+patients wishing to retain sexual function	have	specific goals
+preoperative evaluation	includes	physical examination
+postoperative care	involves	wound care
+potential complications	include	infection
+recovery time	depends on	individual
+vaginal repair of cystocele	is an alternative to	abdominal repair
+vaginal repair of rectocele	is an alternative to	abdominal repair
+minimally invasive repair of cystocele	is an alternative to	open repair
+minimally invasive repair of rectocele	is an alternative to	open repair
+repair of cystocele	is covered by	insurance
+repair of rectocele	is covered by	insurance
+obliteration of vaginal vault	is covered by	insurance
+outpatient procedure	saves	cost
+mesh	has	long-term risks
+sutures	are	biodegradable
+graft	is	harvested from patient
+symptomatic cystocele	requires	surgical intervention
+symptomatic rectocele	requires	surgical intervention
+post-hysterectomy vault prolapse	requires	surgical intervention
+patients with high surgical risk	require	careful consideration
+postoperative care	is important for	recovery
+potential complications	should be discussed with	patients
+recovery time	varies depending on	procedure
+vaginal repair of cystocele	is preferred in	some patients
+vaginal repair of rectocele	is preferred in	some patients
+minimally invasive repair of cystocele	is preferred in	some patients
+minimally invasive repair of rectocele	is preferred in	some patients
+repair of cystocele	may not be	necessary
+repair of rectocele	may not be	necessary
+obliteration of vaginal vault	may not be	necessary
+insurance	covers	some costs
+outpatient procedure	has	shorter recovery time
+mesh	has	potential complications
+sutures	have	shorter recovery time
+graft	has	lower risk of infection
+symptomatic cystocele	causes	discomfort
+symptomatic rectocele	causes	discomfort
+post-hysterectomy vault prolapse	causes	vaginal protrusion
+patients with high surgical risk	have	surgical contraindications
+patients wishing to retain sexual function	have	specific concerns
+preoperative evaluation	involves	patient history
+postoperative care	is essential for	healing
+potential complications	can be	serious
+recovery time	can be	several weeks
+vaginal repair of cystocele	is appropriate for	selected patients
+vaginal repair of rectocele	is appropriate for	selected patients
+minimally invasive repair of cystocele	is appropriate for	selected patients
+minimally invasive repair of rectocele	is appropriate for	selected patients
+repair of cystocele	is performed	by experienced surgeons
+repair of rectocele	is performed	by experienced surgeons
+obliteration of vaginal vault	is performed	by experienced surgeons
+gynecologist	has	specialized training
+mesh	can cause	erosion
+sutures	can cause	granuloma formation
+graft	can cause	infection
+symptomatic cystocele	can be	bothersome
+symptomatic rectocele	can be	bothersome
+post-hysterectomy vault prolapse	can be	bothersome
+patients with high surgical risk	may require	alternative treatment
+patients wishing to retain sexual function	may require	alternative treatment
+preoperative evaluation	helps in	surgical planning
+postoperative care	ensures	optimal outcomes
+potential complications	require	close monitoring
+recovery time	varies depending on	patient factors
+vaginal repair of cystocele	offers	shorter recovery time
+vaginal repair of rectocele	offers	shorter recovery time
+minimally invasive repair of cystocele	offers	shorter recovery time
+minimally invasive repair of rectocele	offers	shorter recovery time
+repair of cystocele	has	high success rate
+repair of rectocele	has	high success rate
+vaginal repair of cystocele	has	low recurrence rate
+vaginal repair of rectocele	has	low recurrence rate
+minimally invasive repair of cystocele	has	low recurrence rate
+minimally invasive repair of rectocele	has	low recurrence rate
+repair of cystocele	requires	short hospital stay
+repair of rectocele	requires	short hospital stay
+obliteration of vaginal vault	requires	short hospital stay
+repair of cystocele	can be performed	using robotic-assisted techniques
+repair of rectocele	can be performed	using robotic-assisted techniques
+obliteration of vaginal vault	can be performed	using robotic-assisted techniques
+repair of cystocele	has	positive outcomes
+repair of rectocele	has	positive outcomes
+vaginal repair of cystocele	has	minimal scarring
+vaginal repair of rectocele	has	minimal scarring
+minimally invasive repair of cystocele	has	minimal scarring
+minimally invasive repair of rectocele	has	minimal scarring
+repair of cystocele	may be	elective
+repair of rectocele	may be	elective
+obliteration of vaginal vault	may be	elective
+insurance	may require	preauthorization
+outpatient procedure	minimizes	hospital costs
+mesh	is associated with	higher risk of complications
+graft	may require	additional surgical site
+symptomatic cystocele	affects	quality of life
+symptomatic rectocele	affects	quality of life
+post-hysterectomy vault prolapse	affects	quality of life
+patients with high surgical risk	may need	alternative treatment options
+patients wishing to retain sexual function	may need	alternative treatment options
+preoperative evaluation	helps in	surgical decision-making
+postoperative care	promotes	healing process
+potential complications	require	prompt management
+recovery time	depends on	individual factors
+vaginal repair of cystocele	offers	better cosmetic outcomes
+vaginal repair of rectocele	offers	better cosmetic outcomes
+minimally invasive repair of cystocele	offers	better cosmetic outcomes
+minimally invasive repair of rectocele	offers	better cosmetic outcomes
+repair of cystocele	has	high satisfaction rates
+repair of rectocele	has	high satisfaction rates
+vaginal repair of cystocele	is considered	gold standard
+vaginal repair of rectocele	is considered	gold standard
+minimally invasive repair of cystocele	is considered	gold standard
+minimally invasive repair of rectocele	is considered	gold standard
+gynecologist	performs	repair of cystocele
+gynecologist	performs	repair of rectocele
+gynecologist	performs	obliteration of vaginal vault
+mesh	can lead to	organ damage
+sutures	can lead to	abscess formation
+graft	can lead to	rejection
+symptomatic cystocele	requires	intervention
+symptomatic rectocele	requires	intervention
+post-hysterectomy vault prolapse	requires	intervention
+patients with high surgical risk	require	alternative options
+patients wishing to retain sexual function	require	alternative options
+preoperative evaluation	includes	medical history
+postoperative care	is crucial for	optimal recovery
+potential complications	need	monitoring and management
+recovery time	varies according to	patient characteristics
+vaginal repair of cystocele	may be	recommended
+vaginal repair of rectocele	may be	recommended
+minimally invasive repair of cystocele	may be	recommended
+minimally invasive repair of rectocele	may be	recommended
+repair of cystocele	can be	elective
+repair of rectocele	may be	elective
+obliteration of vaginal vault	may be	elective
+insurance	often covers	the procedure
+outpatient procedure	is cost-effective
+mesh	carries	long-term risks
+sutures	are	absorbable
+graft	has	lower risk of infection
+symptomatic cystocele	may cause	discomfort
+symptomatic rectocele	may cause	discomfort
+post-hysterectomy vault prolapse	may cause	vaginal bulge
+patients with high surgical risk	often have	comorbidities
+patients wishing to retain sexual function	often have	specific concerns
+preoperative evaluation	involves	physical exam
+postoperative care	ensures	optimal healing
+potential complications	require	vigilance
+recovery time	can range from	weeks to months
+vaginal repair of cystocele	is an option for	selected patients
+vaginal repair of rectocele	is an option for	selected patients
+minimally invasive repair of cystocele	is an option for	selected patients
+minimally invasive repair of rectocele	is an option for	selected patients
+repair of cystocele	can be	necessary
+repair of rectocele	can be	necessary
+obliteration of vaginal vault	can be	necessary
+insurance	may cover	some expenses
+outpatient procedure	reduces	healthcare costs
+mesh	may cause	complications
+sutures	may cause	granulomas

@@ -1,0 +1,83 @@
+diagnostic cardiac catheterization	is a	medical procedure
+diagnostic cardiac catheterization	used for	diagnosis
+coronary arteriography	is a	medical procedure
+coronary arteriography	used for	diagnosis
+diagnostic cardiac catheterization	can detect	coronary artery disease
+coronary arteriography	can detect	coronary artery disease
+coronary artery disease	can lead to	heart attack
+heart attack	can cause	death
+coronary artery disease	increases the risk of	stroke
+stroke	can lead to	disability
+diagnostic cardiac catheterization	can determine	the need for coronary artery bypass grafting
+coronary artery bypass grafting	is a type of	heart surgery
+heart surgery	can improve	blood flow
+blood flow	is essential for	proper organ function
+diagnostic cardiac catheterization	can identify	the location of blockages
+blockages	can impede	blood flow
+diagnostic cardiac catheterization	can help in	planning treatment options
+planning treatment options	can include	medication therapy
+medication therapy	can reduce	symptoms
+planning treatment options	can include	angioplasty
+angioplasty	is a	medical procedure
+angioplasty	used for	widening narrowed arteries
+planning treatment options	can include	stent placement
+stent placement	is a	medical procedure
+stent placement	used for	keeping arteries open
+diagnostic cardiac catheterization	can guide	interventional procedures
+interventional procedures	can restore	proper blood flow
+proper blood flow	is important for	tissue oxygenation
+diagnostic cardiac catheterization	can assess	the severity of blockages
+blockages	can result in	reduced blood supply
+diagnostic cardiac catheterization	can evaluate	the function of the heart
+heart function	is crucial for	overall health
+diagnostic cardiac catheterization	can identify	abnormalities in heart valves
+heart valve abnormalities	can impair	blood flow
+diagnostic cardiac catheterization	can measure	blood pressure in the heart
+blood pressure	is a	vital sign
+diagnostic cardiac catheterization	can check	for the presence of blood clots
+blood clots	can cause	complications
+diagnostic cardiac catheterization	can determine	the need for cardiac surgery
+cardiac surgery	is a	medical procedure
+cardiac surgery	used for	treating heart conditions
+diagnostic cardiac catheterization	can evaluate	the success of previous treatments
+previous treatments	can affect	long-term outcomes
+diagnostic cardiac catheterization	can monitor	disease progression
+disease progression	may require	adjustments in treatment
+diagnostic cardiac catheterization	can assess	the effectiveness of medication therapy
+medication therapy	can control	symptoms
+diagnostic cardiac catheterization	can identify	complications
+complications	may necessitate	additional interventions
+diagnostic cardiac catheterization	can provide	valuable information for patient management
+patient management	involves	optimizing health outcomes
+diagnostic cardiac catheterization	can assist in	determining prognosis
+prognosis	is a	prediction of future outcomes
+diagnostic cardiac catheterization	can detect	abnormalities in coronary arteries
+abnormalities in coronary arteries	can indicate	the presence of disease
+diagnostic cardiac catheterization	can guide	further diagnostic testing
+further diagnostic testing	can provide	additional information
+diagnostic cardiac catheterization	can help in	risk stratification
+risk stratification	aids in	treatment decisions
+diagnostic cardiac catheterization	can be performed	under local anesthesia
+local anesthesia	numbs	the area
+diagnostic cardiac catheterization	has	potential risks
+potential risks	should be weighed	against the benefits
+diagnostic cardiac catheterization	is	an invasive procedure
+invasive procedure	involves	entering the body
+diagnostic cardiac catheterization	requires	specialized equipment
+specialized equipment	is necessary for	accurate results
+diagnostic cardiac catheterization	is usually performed	in a catheterization lab
+catheterization lab	is equipped with	advanced imaging technology
+diagnostic cardiac catheterization	is	a well-established diagnostic tool
+well-established diagnostic tools	have	standardized protocols
+diagnostic cardiac catheterization	is typically performed	by a cardiologist
+cardiologist	specializes in	heart conditions
+diagnostic cardiac catheterization	can be performed	on an outpatient basis
+outpatient basis	allows for	shorter hospital stays
+diagnostic cardiac catheterization	is	considered safe
+safe	when performed	by experienced practitioners
+diagnostic cardiac catheterization	can provide	real-time images
+real-time images	enable	immediate interpretation
+diagnostic cardiac catheterization	is	sometimes necessary
+necessary	to diagnose	complex heart conditions
+diagnostic cardiac catheterization	can be used	in combination with other diagnostic tests
+other diagnostic tests	can provide	complementary information

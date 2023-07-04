@@ -1,0 +1,103 @@
+other diagnostic procedures on musculoskeletal system	include	X-ray
+other diagnostic procedures on musculoskeletal system	include	MRI
+other diagnostic procedures on musculoskeletal system	include	CT scan
+other diagnostic procedures on musculoskeletal system	help in	diagnosis
+X-ray	is a	diagnostic procedure
+MRI	is a	diagnostic procedure
+CT scan	is a	diagnostic procedure
+diagnostic procedures	help in	identifying
+diagnosis	is used for	treatment
+diagnosis	helps in	prognosis
+diagnosis	aids in	decision-making
+treatment	depends on	diagnosis
+prognosis	is influenced by	diagnosis
+decision-making	is based on	diagnosis
+musculoskeletal system	can be affected by	various conditions
+various conditions	may require	diagnostic procedures
+diagnostic procedures	play a role in	healthcare
+healthcare	involves	patients
+patients	benefit from	diagnostic procedures
+diagnostic procedures	help in	management
+diagnostic procedures	contribute to	research
+diagnostic procedures	assist in	planning
+diagnostic procedures	assist in	monitoring
+diagnostic procedures	contribute to	prevention
+diagnostic procedures	contribute to	quality improvement
+diagnostic procedures	contribute to	cost-effectiveness
+diagnostic procedures	can lead to	interventions
+diagnostic procedures	can lead to	referrals
+diagnostic procedures	can lead to	further testing
+diagnostic procedures	can lead to	follow-up
+diagnostic procedures	can lead to	treatment
+diagnostic procedures	can lead to	counseling
+diagnostic procedures	can lead to	patient education
+diagnostic procedures	can lead to	support services
+diagnostic procedures	can lead to	palliative care
+diagnostic procedures	can lead to	patient empowerment
+diagnostic procedures	can lead to	patient outcomes
+diagnostic procedures	can lead to	healthcare outcomes
+palliative care	may be needed for	some patients
+patient empowerment	is important for	healthcare outcomes
+patient outcomes	can be improved by	diagnostic procedures
+healthcare outcomes	can be improved by	diagnostic procedures
+diagnostic procedures	can be invasive
+invasive diagnostic procedures	carry risks
+risks	should be discussed with	patients
+patients	should be informed about	risks
+risks	can be minimized by	experienced healthcare professionals
+experienced healthcare professionals	perform	diagnostic procedures
+diagnostic procedures	require	specialized equipment
+specialized equipment	is used in	diagnostic procedures
+diagnostic procedures	can be costly
+cost of diagnostic procedures	should be considered	during planning
+diagnostic procedures	should be accessible to	all patients
+diagnostic procedures	should be equitable for	all patients
+diagnostic procedures	contribute to	evidence-based medicine
+diagnostic procedures	contribute to	best practices
+diagnostic procedures	contribute to	guidelines
+diagnostic procedures	contribute to	standard of care
+diagnostic procedures	contribute to	quality assurance
+diagnostic procedures	contribute to	patient safety
+diagnostic procedures	contribute to	infection control
+diagnostic procedures	should be performed	based on clinical indication
+clinical indication	determines	diagnostic procedures
+diagnostic procedures	can be uncomfortable
+patient comfort	should be considered	during diagnostic procedures
+diagnostic procedures	can cause anxiety
+anxiety management	should be provided	during diagnostic procedures
+diagnostic procedures	can cause pain
+pain management	should be provided	during diagnostic procedures
+diagnostic procedures	can cause complications
+complications	should be monitored	during diagnostic procedures
+diagnostic procedures	can have limitations
+limitations	should be considered	during interpretation
+diagnostic procedures	can have false results
+false results	can lead to	further testing
+diagnostic procedures	can have varying accuracy
+accuracy	should be taken into account	during interpretation
+diagnostic procedures	can have radiation exposure
+radiation exposure	should be minimized	during diagnostic procedures
+diagnostic procedures	can have contrast-related risks
+contrast-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have allergy-related risks
+allergy-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have claustrophobia-related risks
+claustrophobia-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have sedation-related risks
+sedation-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have bleeding-related risks
+bleeding-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have infection-related risks
+infection-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have perforation-related risks
+perforation-related risks	should be assessed	before diagnostic procedures
+diagnostic procedures	can have misdiagnosis-related risks
+misdiagnosis-related risks	should be minimized	during diagnostic procedures
+diagnostic procedures	can have overdiagnosis-related risks
+overdiagnosis-related risks	should be minimized	during diagnostic procedures
+diagnostic procedures	can have overtreatment-related risks
+overtreatment-related risks	should be minimized	during diagnostic procedures
+diagnostic procedures	can have underdiagnosis-related risks
+underdiagnosis-related risks	should be minimized	during diagnostic procedures
+diagnostic procedures	can have undertreatment-related risks
+undertreatment-related risks	should be minimized	during diagnostic procedures

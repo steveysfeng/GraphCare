@@ -1,0 +1,107 @@
+nephrotomy	is a	surgical procedure
+nephrostomy	is a	surgical procedure
+nephrostomy	used for	urinary obstruction
+nephrotomy	used for	kidney stone removal
+nephrostomy	used for	drainage of fluid from the kidney
+nephrotomy	used for	tumor removal
+nephrostomy	used for	placement of stent
+nephrotomy	can be performed	laparoscopically
+nephrotomy	can be performed	robotically
+nephrostomy	can be performed	percutaneously
+nephrotomy	can be performed	open
+nephrotomy	can be performed	with general anesthesia
+nephrostomy	can be performed	with local anesthesia
+nephrostomy	can be performed	under sedation
+nephrotomy	requires	incision
+nephrostomy	requires	percutaneous access
+nephrotomy	involves	removal of kidney stones
+nephrostomy	involves	placement of a tube into the kidney
+nephrotomy	may result in	bleeding
+nephrostomy	may result in	infection
+nephrotomy	may result in	scarring
+nephrostomy	may result in	urine leak
+nephrotomy	may require	post-operative pain medication
+nephrostomy	may require	antibiotic prophylaxis
+nephrotomy	can be followed by	nephrostomy tube removal
+nephrostomy tube	is used for	drainage of urine
+nephrotomy	is performed by	urologist
+nephrostomy	is performed by	interventional radiologist
+nephrotomy	can be performed	on adults
+nephrostomy	can be performed	on children
+nephrotomy	can be performed	on infants
+nephrostomy	can be performed	during pregnancy
+nephrotomy	can be performed	on patients with kidney cancer
+nephrostomy	can be performed	on patients with urinary obstruction
+nephrotomy	can be performed	on patients with unilateral kidney
+nephrostomy	can be performed	on patients with bilateral kidney
+nephrotomy	can be performed	in emergency situations
+nephrostomy	can be performed	as a palliative measure
+nephrotomy	can be performed	prior to a planned kidney surgery
+nephrostomy	can be performed	to alleviate pain
+nephrotomy	can be performed	to improve kidney function
+nephrostomy	can be performed	to prevent kidney damage
+nephrotomy	has	potential complications
+nephrostomy	has	contraindications
+nephrotomy	has	post-operative care requirements
+nephrostomy	can lead to	improved urinary flow
+nephrotomy	can lead to	pain relief
+nephrostomy	can lead to	reduced risk of infection
+nephrotomy	can lead to	improved kidney function
+nephrostomy	can lead to	prevention of kidney damage
+nephrotomy	can lead to	improved quality of life
+nephrostomy	can lead to	reduced risk of kidney stone formation
+nephrotomy	can be	a life-saving procedure
+nephrostomy	can be	a temporary measure
+nephrotomy	can be	a permanent solution
+nephrostomy	can be	a minimally invasive procedure
+nephrotomy	can be	a complex surgery
+nephrostomy	can be	a low-risk procedure
+nephrotomy	can be	a high-risk procedure
+nephrostomy	can potentially	prolong survival
+nephrotomy	can potentially	improve quality of life
+nephrostomy	can potentially	prevent kidney failure
+nephrotomy	can potentially	prevent sepsis
+nephrostomy	can potentially	prevent urinary obstruction
+nephrotomy	can potentially	treat urinary tract infections
+nephrostomy	can potentially	treat kidney stones
+nephrotomy	can potentially	treat urinary incontinence
+nephrostomy	can potentially	treat hydronephrosis
+nephrotomy	can potentially	treat kidney cancer
+nephrostomy	can potentially	treat polycystic kidney disease
+nephrotomy	can potentially	treat ureteral strictures
+nephrostomy	can potentially	treat ureteropelvic junction obstruction
+nephrotomy	can potentially	treat renal artery stenosis
+nephrostomy	can potentially	treat urethral strictures
+nephrotomy	is	a standard procedure
+nephrostomy	is	widely used
+nephrotomy	is	recommended in certain cases
+nephrostomy	is	an effective treatment
+nephrotomy	is	an established technique
+nephrostomy	is	a well-tolerated procedure
+nephrotomy	is	a cost-effective intervention
+nephrostomy	is	performed under imaging guidance
+nephrotomy	is	performed under fluoroscopic guidance
+nephrostomy	is	performed under ultrasound guidance
+nephrostomy	is	performed under CT guidance
+nephrostomy	is	performed under MRI guidance
+nephrotomy	is	performed under endoscopic guidance
+nephrostomy	has	various types
+nephrotomy	is	a relatively common procedure
+nephrostomy	is	a relatively rare procedure
+nephrotomy	has	a low rate of complications
+nephrostomy	has	a high rate of success
+nephrotomy	can	improve patient outcomes
+nephrostomy	can	reduce hospital stay
+nephrotomy	can	reduce healthcare costs
+nephrostomy	can	improve quality of life
+nephrotomy	can	prevent disease progression
+nephrostomy	can	reduce morbidity
+nephrotomy	can	reduce mortality
+nephrostomy	should	be performed by a skilled healthcare provider
+nephrotomy	should	be performed in a sterile environment
+nephrostomy	should	be performed with proper consent
+nephrotomy	should	be performed with appropriate pain management
+nephrostomy	should	be performed with clear communication with the patient
+nephrotomy	may	require pre-operative preparation
+nephrostomy	may	require post-operative follow-up
+nephrotomy	may	require additional interventions

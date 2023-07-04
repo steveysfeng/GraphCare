@@ -1,0 +1,72 @@
+non-imaging nuclear medicine probe	is a	medical device
+non-imaging nuclear medicine probe	used for	diagnosis
+non-imaging nuclear medicine probe	emits	gamma rays
+gamma rays	can be detected by	detector
+detector	measures	radiation intensity
+non-imaging nuclear medicine assay	is a type of	non-imaging nuclear medicine probe
+non-imaging nuclear medicine assay	used to	detect specific molecules
+specific molecules	can indicate	disease
+non-imaging nuclear medicine probe	can identify	tumor location
+tumor location	helps in	surgical planning
+non-imaging nuclear medicine assay	can monitor	treatment progress
+treatment progress	helps in	adjusting medication
+non-imaging nuclear medicine probe	can measure	organ function
+organ function	indicates	overall health
+overall health	influences	treatment outcomes
+non-imaging nuclear medicine probe	can analyze	metabolic processes
+metabolic processes	provide information about	disease progression
+non-imaging nuclear medicine assay	can quantify	biomarkers
+biomarkers	can predict	treatment response
+non-imaging nuclear medicine probe	can measure	blood flow
+blood flow	can assess	cardiovascular health
+cardiovascular health	affects	mortality risk
+non-imaging nuclear medicine assay	can detect	thyroid disorders
+thyroid disorders	can lead to	hormonal imbalances
+hormonal imbalances	can cause	infertility
+non-imaging nuclear medicine probe	can evaluate	bone strength
+bone strength	is related to	fracture risk
+fracture risk	influences	mobility
+non-imaging nuclear medicine assay	can identify	infection
+infection	may lead to	complications
+complications	can affect	recovery
+non-imaging nuclear medicine probe	can detect	inflammation
+inflammation	is associated with	autoimmune diseases
+autoimmune diseases	require	long-term management
+non-imaging nuclear medicine assay	can determine	lung function
+lung function	predicts	respiratory health
+respiratory health	impacts	quality of life
+non-imaging nuclear medicine probe	can localize	infection site
+infection site	guides	treatment plan
+non-imaging nuclear medicine assay	can assess	liver function
+liver function	is important for	metabolism
+metabolism	affects	drug response
+drug response	influences	treatment effectiveness
+non-imaging nuclear medicine probe	can visualize	tumor size
+tumor size	aids in	staging cancer
+staging cancer	determines	treatment approach
+non-imaging nuclear medicine assay	can measure	hormone levels
+hormone levels	provide insights into	endocrine disorders
+endocrine disorders	require	hormonal therapies
+non-imaging nuclear medicine probe	can evaluate	brain activity
+brain activity	correlates with	cognitive function
+cognitive function	impacts	daily activities
+non-imaging nuclear medicine assay	can identify	cardiac abnormalities
+cardiac abnormalities	increase	cardiovascular risk
+cardiovascular risk	influences	management decisions
+non-imaging nuclear medicine probe	can trace	drug distribution
+drug distribution	helps in	pharmacokinetic studies
+pharmacokinetic studies	optimize	drug dosing
+non-imaging nuclear medicine assay	can detect	renal dysfunction
+renal dysfunction	affects	fluid balance
+fluid balance	is crucial for	homeostasis
+non-imaging nuclear medicine probe	can monitor	therapeutic response
+therapeutic response	guides	treatment adjustments
+non-imaging nuclear medicine assay	can measure	gastric emptying
+gastric emptying	affects	digestion
+digestion	impacts	nutrient absorption
+nutrient absorption	influences	nutritional status
+nutritional status	is important for	overall health
+overall health	affects	prognosis
+non-imaging nuclear medicine probe	can localize	bleeding
+bleeding	may require	intervention
+intervention	improves	patient outcomes

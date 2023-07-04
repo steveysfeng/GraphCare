@@ -1,0 +1,42 @@
+lower gastrointestinal x-ray	is a	medical procedure
+lower gastrointestinal x-ray	used for	diagnosis
+lower gastrointestinal x-ray	can detect	abnormalities
+lower gastrointestinal x-ray	requires	contrast dye
+contrast dye	can cause	allergic reactions
+lower gastrointestinal x-ray	can help	diagnose bowel obstruction
+bowel obstruction	can lead to	severe pain
+lower gastrointestinal x-ray	can assist	in treatment planning
+lower gastrointestinal x-ray	can be used	to evaluate	cancer
+cancer	may require	surgery
+lower gastrointestinal x-ray	can be performed	in outpatient settings
+outpatient settings	provide	convenience
+lower gastrointestinal x-ray	can help	monitor	treatment progress
+lower gastrointestinal x-ray	may need	prior preparation
+prior preparation	involves	fasting
+lower gastrointestinal x-ray	involves	exposure to radiation
+exposure to radiation	carries	potential risks
+lower gastrointestinal x-ray	is commonly	ordered	by gastroenterologists
+gastroenterologists	specialize in	digestive system disorders
+lower gastrointestinal x-ray	is usually	safe
+lower gastrointestinal x-ray	is sometimes	replaced by	colonoscopy
+colonoscopy	is a	more invasive procedure
+lower gastrointestinal x-ray	is non-invasive	compared to	colonoscopy
+lower gastrointestinal x-ray	can detect	polyps
+polyps	may be	precursors	to cancer
+lower gastrointestinal x-ray	can help	evaluate	inflammation
+inflammation	can indicate	inflammatory bowel disease
+lower gastrointestinal x-ray	can identify	strictures
+strictures	can cause	narrowing of the bowel
+lower gastrointestinal x-ray	can be	time-consuming
+lower gastrointestinal x-ray	may require	multiple images
+lower gastrointestinal x-ray	can be	uncomfortable
+lower gastrointestinal x-ray	is commonly	ordered	for abdominal pain
+abdominal pain	can have	various causes
+lower gastrointestinal x-ray	has	potential risks
+lower gastrointestinal x-ray	can help	rule out	certain conditions
+certain conditions	may require	further testing
+lower gastrointestinal x-ray	may require	sedation
+sedation	can help	relax the patient
+lower gastrointestinal x-ray	can reveal	abnormalities	in the colon
+lower gastrointestinal x-ray	can be	diagnostic
+lower gastrointestinal x-ray	is helpful	in evaluating	the lower digestive system

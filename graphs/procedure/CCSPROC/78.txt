@@ -1,0 +1,144 @@
+colorectal resection	is a	surgical procedure
+colorectal resection	used for	treating colorectal cancer
+colorectal resection	can be performed as	open surgery
+colorectal resection	can be performed as	laparoscopic surgery
+open surgery	has	longer recovery time
+laparoscopic surgery	has	shorter recovery time
+colorectal resection	can result in	complications
+complications	can include	infection
+complications	can include	bleeding
+colorectal resection	can lead to	changes in bowel habits
+colorectal resection	can lead to	temporary or permanent colostomy
+colorectal resection	can be done with	robotic assistance
+robotic assistance	can improve	surgical precision
+colorectal resection	can be done with	transanal minimally invasive surgery
+transanal minimally invasive surgery	requires	specialized instruments
+colorectal resection	can lead to	long-term effects on digestion
+colorectal resection	can result in	altered nutritional needs
+colorectal resection	can affect	quality of life
+colorectal resection	can have	post-operative complications
+post-operative complications	can include	bowel obstruction
+post-operative complications	can include	anastomotic leak
+colorectal resection	requires	pre-operative evaluation
+pre-operative evaluation	includes	medical history
+pre-operative evaluation	includes	physical examination
+colorectal resection	may require	neoadjuvant therapy
+colorectal resection	may require	adjuvant therapy
+neoadjuvant therapy	aims to	shrink tumors prior to surgery
+adjuvant therapy	aims to	kill remaining cancer cells after surgery
+colorectal resection	can lead to	changes in sexual function
+colorectal resection	can result in	temporary or permanent infertility
+colorectal resection	can affect	fertility preservation options
+colorectal resection	may require	post-operative imaging
+post-operative imaging	is used to	monitor healing progress
+colorectal resection	is associated with	risk of recurrence
+recurrence	can be detected through	regular check-ups
+colorectal resection	can be performed as	minimally invasive surgery
+minimally invasive surgery	offers	smaller incisions
+minimally invasive surgery	offers	faster recovery
+colorectal resection	can result in	changes in body image
+colorectal resection	can lead to	emotional distress
+colorectal resection	requires	post-operative care
+post-operative care	includes	wound management
+post-operative care	includes	pain management
+colorectal resection	can impact	ability to work
+colorectal resection	can affect	social relationships
+colorectal resection	can require	long-term follow-up
+long-term follow-up	involves	regular surveillance
+colorectal resection	can be done as	segmental resection
+colorectal resection	can be done as	total colectomy
+segmental resection	involves	removal of a portion of the colon
+total colectomy	involves	removal of the entire colon
+colorectal resection	can have	long-term survival benefits
+colorectal resection	can decrease	risk of cancer spread
+colorectal resection	can improve	overall survival
+colorectal resection	can require	bowel preparation
+bowel preparation	involves	emptying the colon before surgery
+colorectal resection	is associated with	post-operative pain
+colorectal resection	can result in	scar formation
+colorectal resection	can be performed as	minimally invasive robotic surgery
+minimally invasive robotic surgery	offers	enhanced visualization
+minimally invasive robotic surgery	offers	increased control for the surgeon
+colorectal resection	can be performed as	local excision
+local excision	is used for	early-stage tumors
+local excision	involves	removal of the tumor and a small margin of healthy tissue
+colorectal resection	can result in	changes in bowel function
+colorectal resection	can result in	long-term bowel dysfunction
+colorectal resection	can be done with	hand-assisted laparoscopic surgery
+hand-assisted laparoscopic surgery	allows	the surgeon to insert their hand into the abdomen
+colorectal resection	can lead to	post-operative ileus
+colorectal resection	can require	post-operative rehabilitation
+post-operative rehabilitation	involves	physical therapy
+colorectal resection	can be performed as	posterior resection
+colorectal resection	can be performed as	anterior resection
+posterior resection	involves	removal of the rectum
+anterior resection	involves	removal of part of the rectum and sigmoid colon
+colorectal resection	can result in	changes in bowel consistency
+colorectal resection	can lead to	surgical site infections
+colorectal resection	can require	post-operative dietary modifications
+colorectal resection	can lead to	malabsorption
+colorectal resection	can affect	body weight
+colorectal resection	can increase	risk of anemia
+colorectal resection	can lead to	chronic pain
+colorectal resection	can result in	changes in urinary function
+colorectal resection	can be performed as	low anterior resection
+colorectal resection	can be performed as	abdominal perineal resection
+low anterior resection	involves	removal of part of the rectum and sigmoid colon
+abdominal perineal resection	involves	removal of the rectum	anus	and part of the sigmoid colon
+colorectal resection	can require	post-operative chemotherapy
+post-operative chemotherapy	is used to	kill any remaining cancer cells
+colorectal resection	can require	post-operative radiation therapy
+post-operative radiation therapy	is used to	destroy remaining cancer cells
+colorectal resection	can result in	changes in dietary habits
+colorectal resection	can lead to	changes in urinary continence
+colorectal resection	can be performed as	ileoanal anastomosis
+ileoanal anastomosis	involves	connecting the ileum to the anus
+colorectal resection	can be performed as	coloanal anastomosis
+coloanal anastomosis	involves	connecting the rectum to the anus
+colorectal resection	can require	blood transfusion
+colorectal resection	can involve	removal of lymph nodes
+colorectal resection	can result in	altered body image
+colorectal resection	can lead to	changes in fertility
+colorectal resection	can require	temporary or permanent ostomy
+temporary ostomy	involves	diverting waste through a stoma
+permanent ostomy	involves	permanently diverting waste through a stoma
+colorectal resection	can be performed as	right colectomy
+colorectal resection	can be performed as	left colectomy
+right colectomy	involves	removal of the right side of the colon
+left colectomy	involves	removal of the left side of the colon
+colorectal resection	can result in	compromised immune function
+colorectal resection	can lead to	post-operative fatigue
+colorectal resection	can be performed as	transverse colectomy
+colorectal resection	can be performed as	sigmoid colectomy
+transverse colectomy	involves	removal of the transverse colon
+sigmoid colectomy	involves	removal of the sigmoid colon
+colorectal resection	can require	post-operative enemas
+colorectal resection	can lead to	changes in body weight
+colorectal resection	is associated with	risk of anastomotic leakage
+colorectal resection	can affect	absorption of nutrients
+colorectal resection	can lead to	long-term fatigue
+colorectal resection	can result in	changes in sexual relationships
+colorectal resection	can impact	quality of life
+colorectal resection	can require	psychological support
+psychological support	involves	counseling
+colorectal resection	can lead to	changes in exercise tolerance
+colorectal resection	can require	post-operative catheterization
+colorectal resection	can result in	changes in body composition
+colorectal resection	can lead to	post-operative constipation
+colorectal resection	can be performed as	subtotal colectomy
+subtotal colectomy	involves	removal of most of the colon
+colorectal resection	can be performed as	total proctocolectomy
+total proctocolectomy	involves	removal of the entire colon and rectum
+colorectal resection	can require	post-operative physical therapy
+colorectal resection	can lead to	changes in body shape
+colorectal resection	can result in	impaired wound healing
+colorectal resection	can be performed as	Hartmann's procedure
+Hartmann's procedure	involves	removal of the rectosigmoid colon and creation of an end colostomy
+colorectal resection	can be performed as	proctectomy
+proctectomy	involves	removal of the rectum
+colorectal resection	can require	post-operative support groups
+colorectal resection	can affect	body image perception
+colorectal resection	can lead to	changes in sleep patterns
+colorectal resection	can result in	impaired wound healing
+colorectal resection	can be performed as	colectomy with ileorectal anastomosis
+colectomy with ileorectal anastomosis	involves	removal of the colon and connection of the ileum to the rectum

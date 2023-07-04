@@ -1,0 +1,300 @@
+ct scan chest	is a	medical procedure
+ct scan chest	used for	diagnosis
+ct scan chest	can detect	lung cancer
+ct scan chest	can detect	pneumonia
+ct scan chest	can detect	pulmonary embolism
+ct scan chest	can detect	tuberculosis
+ct scan chest	can detect	pleural effusion
+ct scan chest	can detect	chest trauma
+ct scan chest	can detect	interstitial lung disease
+ct scan chest	can detect	cystic fibrosis
+ct scan chest	can detect	bronchiectasis
+ct scan chest	can detect	foreign body in the lungs
+ct scan chest	can detect	chest tumors
+ct scan chest	can detect	aortic aneurysm
+ct scan chest	can detect	mediastinal masses
+ct scan chest	can detect	lymphadenopathy
+ct scan chest	can detect	hiatal hernia
+ct scan chest	can detect	esophageal cancer
+ct scan chest	can detect	pleural tumors
+ct scan chest	can detect	thymoma
+ct scan chest	can detect	sarcoidosis
+ct scan chest	can detect	emphysema
+ct scan chest	can detect	pulmonary fibrosis
+ct scan chest	can detect	pulmonary edema
+ct scan chest	can detect	pulmonary hypertension
+ct scan chest	can detect	pneumothorax
+ct scan chest	can detect	hemothorax
+ct scan chest	can detect	diaphragmatic hernia
+ct scan chest	can detect	pulmonary metastases
+ct scan chest	can detect	chest wall tumors
+ct scan chest	can detect	rib fractures
+ct scan chest	can detect	sternum fractures
+ct scan chest	can detect	clavicle fractures
+ct scan chest	can detect	scapula fractures
+ct scan chest	can detect	shoulder dislocation
+ct scan chest	can detect	dislocated rib
+ct scan chest	can detect	lung abscess
+ct scan chest	can detect	esophageal perforation
+ct scan chest	can detect	tracheal rupture
+ct scan chest	can detect	bronchial injury
+ct scan chest	can detect	pleural thickening
+ct scan chest	can detect	pleural plaques
+ct scan chest	can detect	pulmonary nodule
+ct scan chest	can detect	lung mass
+ct scan chest	can detect	ground-glass opacity
+ct scan chest	can detect	consolidation
+ct scan chest	can detect	cavitation
+ct scan chest	can detect	airway obstruction
+ct scan chest	can detect	atelectasis
+ct scan chest	can detect	lymphoma
+ct scan chest	can detect	leukemia
+ct scan chest	can detect	mycobacterial infection
+ct scan chest	can detect	fungal infection
+ct scan chest	can detect	viral infection
+ct scan chest	can detect	bacterial infection
+ct scan chest	can detect	autoimmune disease
+ct scan chest	can detect	radiation-induced lung injury
+ct scan chest	can detect	drug-induced lung injury
+ct scan chest	can detect	chronic obstructive pulmonary disease
+ct scan chest	can detect	asthma
+ct scan chest	can detect	bronchiolitis
+ct scan chest	can detect	pulmonary embolism
+ct scan chest	can detect	pneumocystis pneumonia
+ct scan chest	can detect	histoplasmosis
+ct scan chest	can detect	pneumonia due to covid-19
+ct scan chest	can detect	lung infections due to immunocompromised state
+ct scan chest	can detect	respiratory distress syndrome
+ct scan chest	can detect	pulmonary sarcoidosis
+ct scan chest	can detect	pulmonary tuberculosis
+pulmonary embolism	can cause	shortness of breath
+pulmonary embolism	can cause	chest pain
+pulmonary embolism	can cause	cough
+pulmonary embolism	can cause	rapid breathing
+pulmonary embolism	can cause	lightheadedness
+pulmonary embolism	can cause	irregular heartbeat
+pulmonary embolism	can cause	hemoptysis
+pulmonary embolism	can cause	cyanosis
+pulmonary embolism	can cause	fainting
+pulmonary embolism	can cause	low blood pressure
+pulmonary embolism	can cause	anxiety
+pulmonary embolism	can cause	syncope
+pulmonary embolism	can cause	pulmonary infarction
+pulmonary embolism	can cause	pleural effusion
+pulmonary embolism	can cause	right heart failure
+pulmonary embolism	can cause	shock
+pulmonary embolism	can cause	death
+lung cancer	can cause	cough
+lung cancer	can cause	shortness of breath
+lung cancer	can cause	chest pain
+lung cancer	can cause	wheezing
+lung cancer	can cause	coughing up blood
+lung cancer	can cause	recurrent respiratory infections
+lung cancer	can cause	hoarseness
+lung cancer	can cause	fatigue
+lung cancer	can cause	weight loss
+lung cancer	can cause	loss of appetite
+lung cancer	can cause	clubbing of fingers
+lung cancer	can cause	shoulder pain
+lung cancer	can cause	bone pain
+lung cancer	can cause	headache
+lung cancer	can cause	dizziness
+lung cancer	can cause	weakness
+lung cancer	can cause	jaundice
+lung cancer	can cause	swelling in the face or neck
+lung cancer	can cause	difficulty swallowing
+lung cancer	can cause	changes in nail color
+lung cancer	can cause	ankle swelling
+lung cancer	can cause	confusion
+lung cancer	can cause	abdominal pain
+lung cancer	can cause	constipation
+lung cancer	can cause	diarrhea
+lung cancer	can cause	vomiting
+lung cancer	can cause	blood in the urine
+lung cancer	can cause	blood in the stool
+lung cancer	can cause	enlargement of lymph nodes
+lung cancer	can cause	a coughing up mucus
+lung cancer	can cause	trouble breathing
+lung cancer	can cause	chest discomfort
+lung cancer	can cause	bone fractures
+lung cancer	can cause	hormone imbalances
+lung cancer	can cause	drowsiness
+lung cancer	can cause	confusion
+lung cancer	can cause	seizures
+lung cancer	can cause	muscle weakness
+lung cancer	can cause	memory loss
+lung cancer	can cause	repeated infections
+pneumonia	can cause	cough
+pneumonia	can cause	fever
+pneumonia	can cause	chills
+pneumonia	can cause	shortness of breath
+pneumonia	can cause	chest pain
+pneumonia	can cause	fatigue
+pneumonia	can cause	headache
+pneumonia	can cause	muscle aches
+pneumonia	can cause	sweating
+pneumonia	can cause	rapid breathing
+pneumonia	can cause	confusion
+pneumonia	can cause	abdominal pain
+pneumonia	can cause	nausea
+pneumonia	can cause	vomiting
+pneumonia	can cause	diarrhea
+pneumonia	can cause	decreased appetite
+pneumonia	can cause	wheezing
+pneumonia	can cause	chest tightness
+pneumonia	can cause	bluish lips or nails
+pulmonary fibrosis	can cause	shortness of breath
+pulmonary fibrosis	can cause	dry cough
+pulmonary fibrosis	can cause	fatigue
+pulmonary fibrosis	can cause	unexplained weight loss
+pulmonary fibrosis	can cause	aching muscles and joints
+pulmonary fibrosis	can cause	expanding abdomen
+pulmonary fibrosis	can cause	clubbing of the fingers or toes
+pulmonary fibrosis	can cause	widened and rounded fingertips
+pulmonary fibrosis	can cause	nail deformities
+pulmonary fibrosis	can cause	chest discomfort
+pulmonary fibrosis	can cause	frequent respiratory infections
+pulmonary fibrosis	can cause	rapid	shallow breathing
+pulmonary fibrosis	can cause	a low tolerance for physical activity
+pulmonary fibrosis	can cause	blue color of the lips or skin
+pulmonary fibrosis	can cause	high blood pressure
+pulmonary fibrosis	can cause	fluid in the lungs
+pulmonary fibrosis	can cause	coughing up blood
+pulmonary fibrosis	can cause	nasal stuffiness or burning in the throat
+pulmonary fibrosis	can cause	drooping eyelids
+pulmonary fibrosis	can cause	swollen fingers or toes
+pulmonary fibrosis	can cause	dizziness
+pulmonary fibrosis	can cause	changes in hearing or vision
+pulmonary fibrosis	can cause	chest pain
+pulmonary fibrosis	can cause	rapid heart rate
+pulmonary fibrosis	can cause	swollen ankles or feet
+pulmonary fibrosis	can cause	inadequate oxygen supply to the organs and tissues
+pulmonary fibrosis	can cause	complications during pregnancy
+pulmonary fibrosis	can cause	electrolyte imbalances
+pulmonary fibrosis	can cause	sleep disturbances
+pulmonary fibrosis	can cause	depression
+pulmonary fibrosis	can cause	anxiety
+pulmonary fibrosis	can cause	mood swings
+pulmonary fibrosis	can cause	difficulty concentrating
+pulmonary fibrosis	can cause	memory problems
+pulmonary fibrosis	can cause	confusion
+pulmonary fibrosis	can cause	personality changes
+pulmonary fibrosis	can cause	decreased sexual desire or function
+pulmonary fibrosis	can cause	appetite changes
+pulmonary fibrosis	can cause	difficulty sleeping
+pulmonary fibrosis	can cause	hair loss
+pulmonary fibrosis	can cause	increased susceptibility to infections
+aortic aneurysm	can cause	chest pain
+aortic aneurysm	can cause	back pain
+aortic aneurysm	can cause	abdominal pain
+aortic aneurysm	can cause	hoarseness
+aortic aneurysm	can cause	difficulty swallowing
+aortic aneurysm	can cause	shortness of breath
+aortic aneurysm	can cause	cough
+aortic aneurysm	can cause	wheezing
+aortic aneurysm	can cause	persistent cough
+aortic aneurysm	can cause	rapid breathing
+aortic aneurysm	can cause	lightheadedness
+aortic aneurysm	can cause	irregular heartbeat
+aortic aneurysm	can cause	difficulty breathing
+aortic aneurysm	can cause	fainting
+aortic aneurysm	can cause	low blood pressure
+aortic aneurysm	can cause	anxiety
+aortic aneurysm	can cause	syncope
+aortic aneurysm	can cause	back discomfort
+aortic aneurysm	can cause	abdominal discomfort
+aortic aneurysm	can cause	weakness
+aortic aneurysm	can cause	pulsating sensation in the abdomen
+aortic aneurysm	can cause	pulsating sensation in the chest
+aortic aneurysm	can cause	heart failure
+aortic aneurysm	can cause	clot formation
+aortic aneurysm	can cause	rupture
+aortic aneurysm	can cause	death
+tuberculosis	can cause	cough
+tuberculosis	can cause	weight loss
+tuberculosis	can cause	fatigue
+tuberculosis	can cause	fever
+tuberculosis	can cause	night sweats
+tuberculosis	can cause	chills
+tuberculosis	can cause	chest pain
+tuberculosis	can cause	loss of appetite
+tuberculosis	can cause	coughing up blood
+tuberculosis	can cause	shortness of breath
+tuberculosis	can cause	chest discomfort
+tuberculosis	can cause	swollen lymph nodes
+tuberculosis	can cause	joint pain
+tuberculosis	can cause	bone pain
+tuberculosis	can cause	headaches
+tuberculosis	can cause	confusion
+tuberculosis	can cause	diarrhea
+tuberculosis	can cause	abdominal pain
+tuberculosis	can cause	swelling of the abdomen
+tuberculosis	can cause	difficulty swallowing
+tuberculosis	can cause	difficulty speaking
+tuberculosis	can cause	meningeal tuberculosis
+tuberculosis	can cause	meningitis
+tuberculosis	can cause	brain tuberculoma
+tuberculosis	can cause	tuberculous empyema
+kidney disease	can cause	shortness of breath
+kidney disease	can cause	fatigue
+kidney disease	can cause	swollen ankles	feet or hands
+kidney disease	can cause	frequent urination
+kidney disease	can cause	foamy or bubbly urine
+kidney disease	can cause	decreased urine output
+kidney disease	can cause	blood in the urine
+kidney disease	can cause	hypertension
+kidney disease	can cause	edema
+kidney disease	can cause	difficulty sleeping
+kidney disease	can cause	muscle cramps
+kidney disease	can cause	itching
+kidney disease	can cause	chest pain
+kidney disease	can cause	loss of appetite
+kidney disease	can cause	weight loss
+kidney disease	can cause	nausea
+kidney disease	can cause	vomiting
+kidney disease	can cause	back pain
+kidney disease	can cause	bone pain
+kidney disease	can cause	joint pain
+kidney disease	can cause	brittle nails
+kidney disease	can cause	pale skin
+kidney disease	can cause	bad breath
+kidney disease	can cause	metallic taste in the mouth
+kidney disease	can cause	difficulty concentrating
+kidney disease	can cause	dizziness
+kidney disease	can cause	frequent headaches
+kidney disease	can cause	irritability
+kidney disease	can cause	memory problems
+kidney disease	can cause	decreased sexual desire or function
+kidney disease	can cause	erectile dysfunction
+kidney disease	can cause	amenorrhea
+kidney disease	can cause	infertility
+kidney disease	can cause	dry or itchy skin
+kidney disease	can cause	restless legs syndrome
+kidney disease	can cause	bone density loss
+kidney disease	can cause	anemia
+kidney disease	can cause	reduced immune response
+kidney disease	can cause	increased susceptibility to infections
+kidney disease	can cause	bruising easily
+kidney disease	can cause	insomnia
+kidney disease	can cause	depression
+kidney disease	can cause	anxiety
+kidney disease	can cause	mood swings
+kidney disease	can cause	difficulty sleeping
+kidney disease	can cause	hair loss
+kidney disease	can cause	frequent urination during the night
+kidney disease	can cause	bad breath
+kidney disease	can cause	decreased urine output
+kidney disease	can cause	muscle twitches and cramps
+kidney disease	can cause	swelling in the legs and ankles
+kidney disease	can cause	frequent hiccups
+kidney disease	can cause	increased thirst
+kidney disease	can cause	dry and itchy skin
+kidney disease	can cause	changes in urine color or odor
+kidney disease	can cause	metallic taste in the mouth
+kidney disease	can cause	difficulty concentrating
+kidney disease	can cause	confusion
+kidney disease	can cause	memory problems
+kidney disease	can cause	decreased sexual desire or function
+kidney disease	can cause	erectile dysfunction
+kidney disease	can cause	amenorrhea
+kidney disease	can cause	infertility

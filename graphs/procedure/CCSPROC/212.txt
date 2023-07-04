@@ -1,0 +1,85 @@
+diagnostic physical therapy	is a	healthcare service
+diagnostic physical therapy	used for	assessment
+assessment	can determine	treatment plan
+diagnostic physical therapy	can evaluate	range of motion
+range of motion	can indicate	joint health
+diagnostic physical therapy	can identify	muscle imbalances
+muscle imbalances	may cause	pain
+diagnostic physical therapy	can assess	posture
+posture	affects	musculoskeletal alignment
+musculoskeletal alignment	can affect	movement
+diagnostic physical therapy	can measure	strength
+strength	can indicate	functional ability
+diagnostic physical therapy	can evaluate	balance
+balance	is important for	fall prevention
+diagnostic physical therapy	can assess	gait
+gait	can reveal	abnormalities
+abnormalities	may be indicative of	neurological issues
+diagnostic physical therapy	can determine	ergonomic modifications
+ergonomic modifications	can prevent	repetitive strain injuries
+diagnostic physical therapy	can assess	cardiovascular endurance
+cardiovascular endurance	is important for	overall health
+diagnostic physical therapy	can evaluate	proprioception
+proprioception	is crucial for	coordination
+diagnostic physical therapy	can assess	flexibility
+flexibility	can improve	range of motion
+diagnostic physical therapy	can identify	postural deviations
+postural deviations	can lead to	musculoskeletal dysfunction
+diagnostic physical therapy	can measure	muscle activation
+muscle activation	can indicate	strength imbalances
+diagnostic physical therapy	can evaluate	functional movement patterns
+functional movement patterns	are essential for	everyday activities
+diagnostic physical therapy	can assess	breathing mechanics
+breathing mechanics	can impact	movement efficiency
+diagnostic physical therapy	can identify	tissue restrictions
+tissue restrictions	can cause	pain and limited mobility
+diagnostic physical therapy	can evaluate	tissue healing
+tissue healing	is crucial for	recovery
+diagnostic physical therapy	can assess	coordination
+coordination	is important for	motor skills
+diagnostic physical therapy	can evaluate	neurological function
+neurological function	can affect	movement control
+diagnostic physical therapy	can measure	balance between muscle groups
+balance between muscle groups	is important for	joint stability
+diagnostic physical therapy	can assess	functional independence
+functional independence	is crucial for	quality of life
+diagnostic physical therapy	can evaluate	sensory perception
+sensory perception	is crucial for	body awareness
+diagnostic physical therapy	can measure	joint mobility
+joint mobility	can impact	movement range
+diagnostic physical therapy	can identify	movement impairments
+movement impairments	can result in	functional limitations
+diagnostic physical therapy	can assess	strength asymmetry
+strength asymmetry	can lead to	compensatory movements
+diagnostic physical therapy	can evaluate	exercise tolerance
+exercise tolerance	is important for	cardiovascular health
+diagnostic physical therapy	can assess	functional capacity
+functional capacity	determines	ability to perform activities
+diagnostic physical therapy	can measure	pain levels
+pain levels	can affect	function and quality of life
+diagnostic physical therapy	can evaluate	movement coordination
+movement coordination	is essential for	efficient movement
+diagnostic physical therapy	can assess	neurological disorders
+neurological disorders	can impact	movement control
+diagnostic physical therapy	can determine	muscle imbalance
+muscle imbalance	can lead to	altered movement patterns
+diagnostic physical therapy	can evaluate	joint stability
+joint stability	is important for	injury prevention
+diagnostic physical therapy	can assess	post-surgical recovery
+post-surgical recovery	is crucial for	regaining function
+diagnostic physical therapy	can identify	movement compensations
+movement compensations	can contribute to	overuse injuries
+diagnostic physical therapy	can measure	muscle strength
+muscle strength	can affect	functional abilities
+diagnostic physical therapy	can evaluate	muscle performance
+muscle performance	can indicate	training needs
+diagnostic physical therapy	can assess	balance impairments
+balance impairments	can result in	falls
+diagnostic physical therapy	can determine	movement restrictions
+movement restrictions	can limit	daily activities
+diagnostic physical therapy	can evaluate	soft tissue dysfunction
+soft tissue dysfunction	can cause	pain and restricted movement
+diagnostic physical therapy	can assess	joint function
+joint function	is essential for	movement
+diagnostic physical therapy	can identify	movement dysfunctions
+movement dysfunctions	can lead to	functional limitations

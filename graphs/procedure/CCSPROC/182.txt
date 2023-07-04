@@ -1,0 +1,99 @@
+mammography	is a	medical procedure
+mammography	used for	breast cancer screening
+mammography	can detect	tumors
+mammography	is recommended for	women over 40
+mammography	can be done annually
+mammography	is non-invasive
+mammography	uses X-rays
+mammography	is performed by radiologists
+mammography	may require compression of the breast
+mammography	may cause discomfort
+mammography	can help in early detection
+mammography	is not 100% accurate
+mammography	can lead to false positives
+mammography	can lead to false negatives
+mammography	can be performed with digital technology
+mammography	may require follow-up imaging
+mammography	can help in staging breast cancer
+mammography	can guide needle biopsies
+mammography	may involve the use of contrast material
+mammography	can be used for diagnostic purposes
+mammography	is recommended as part of breast cancer screening programs
+mammography	is covered by most health insurance plans
+mammography	can be used for monitoring
+mammography	can detect microcalcifications
+mammography	can detect architectural distortions
+mammography	can detect asymmetries
+mammography	can detect masses
+mammography	can detect clusters of tiny calcium deposits
+mammography	can detect changes in breast tissue
+mammography	can be used for surveillance
+mammography	can aid in treatment planning
+mammography	can help in determining the need for further testing
+mammography	can help in assessing response to treatment
+mammography	can help in predicting prognosis
+mammography	can guide the placement of breast implants
+mammography	can be used for image-guided procedures
+mammography	can be used for intervention
+mammography	can assist in localizing abnormal findings
+mammography	can help in evaluating the extent of breast cancer
+mammography	can help in evaluating breast density
+mammography	can help in evaluating breast abnormalities
+mammography	can be done with 2D imaging
+mammography	can be done with 3D imaging
+mammography	can be done with tomosynthesis
+mammography	can be done with synthetic imaging
+mammography	can be done with contrast-enhanced imaging
+mammography	can be done with molecular breast imaging
+mammography	can be used for guidance during breast conserving surgery
+mammography	can detect changes in breast size
+mammography	can detect changes in breast shape
+mammography	can detect changes in breast texture
+mammography	can detect changes in nipple position
+mammography	can detect changes in skin thickness
+mammography	can detect changes in lymph node involvement
+mammography	can detect changes in tumor size
+mammography	can detect changes in tumor location
+mammography	can be used alongside other imaging modalities
+mammography	can assist in the diagnosis of breast abnormalities
+mammography	can guide the selection of appropriate treatment options
+mammography	can help in monitoring treatment response
+mammography	can help in assessing risk
+mammography	can help in determining the risk of developing breast cancer
+mammography	can be used for risk stratification
+mammography	can detect calcifications associated with breast cancer
+mammography	can detect breast cancer in its earliest stages
+mammography	can detect changes in breast tissue density
+mammography	can detect changes in breast tissue composition
+mammography	can detect changes in breast tissue architecture
+mammography	can detect changes in blood flow within the breast
+mammography	can detect changes in breast vascularity
+mammography	can detect changes in breast perfusion
+mammography	can help in determining the need for biopsy
+mammography	can assist in planning surgical procedures
+mammography	can assist in the selection of appropriate treatment methods
+mammography	can assist in the evaluation of treatment effectiveness
+mammography	can assist in the assessment of treatment response
+mammography	can help in determining the need for additional imaging
+mammography	can help in evaluating treatment complications
+mammography	can detect changes in breast tissue elasticity
+mammography	can detect changes in breast tissue homogeneity
+mammography	can detect changes in breast tissue texture
+mammography	can detect changes in breast tissue stiffness
+mammography	can detect changes in breast tissue microstructure
+mammography	can be used for preoperative planning
+mammography	can be used for intraoperative guidance
+mammography	can be used for postoperative evaluation
+mammography	can assist in the detection of recurrent breast cancer
+mammography	can assist in the detection of metastatic breast cancer
+mammography	can detect changes in breast tissue thickness
+mammography	can detect changes in breast tissue volume
+mammography	can detect changes in breast tissue density distribution
+mammography	can detect changes in breast tissue shape
+mammography	can detect changes in breast tissue contour
+mammography	can detect changes in breast tissue margins
+mammography	can detect changes in breast tissue borders
+mammography	can detect changes in breast tissue calcification pattern
+mammography	can detect changes in breast tissue architectural distortion pattern
+mammography	can detect changes in breast tissue asymmetry pattern
+mammography	can detect changes in axillary lymph nodes

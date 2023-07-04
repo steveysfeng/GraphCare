@@ -1,0 +1,172 @@
+vascular catheterization	is a	medical procedure
+vascular catheterization	used for	diagnostics
+vascular catheterization	can be used for	administration of medication
+vascular catheterization	can be used for	blood sampling
+vascular catheterization	can be used for	IV fluids administration
+vascular catheterization	can lead to	infection
+infection	can result in	sepsis
+vascular catheterization	can lead to	bleeding
+bleeding	can result in	hemorrhage
+vascular catheterization	can lead to	thrombosis
+thrombosis	can cause	ischemia
+vascular catheterization	can lead to	embolism
+embolism	can cause	pulmonary embolism
+vascular catheterization	can lead to	occlusion
+occlusion	can cause	tissue damage
+vascular catheterization	can lead to	perforation
+perforation	can cause	organ damage
+vascular catheterization	can lead to	pneumothorax
+pneumothorax	can cause	collapsed lung
+vascular catheterization	can lead to	arrhythmia
+arrhythmia	can result in	cardiac arrest
+vascular catheterization	can lead to	air embolism
+air embolism	can cause	stroke
+vascular catheterization	can lead to	fistula formation
+fistula formation	can cause	abnormal connections
+vascular catheterization	can lead to	nerve damage
+nerve damage	can result in	loss of sensation
+vascular catheterization	can lead to	thrombophlebitis
+thrombophlebitis	can cause	pain and swelling
+vascular catheterization	can lead to	pseudoaneurysm
+pseudoaneurysm	can lead to	rupture
+vascular catheterization	can lead to	catheter-related bloodstream infection
+catheter-related bloodstream infection	can lead to	septicemia
+vascular catheterization	can lead to	catheter dislodgement
+catheter dislodgement	can cause	improper medication administration
+vascular catheterization	can lead to	catheter migration
+catheter migration	can lead to	misplacement
+vascular catheterization	can lead to	catheter occlusion
+catheter occlusion	can result in	ineffective treatment
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can lead to	urinary tract infection
+vascular catheterization	can lead to	venous thrombosis
+venous thrombosis	can result in	deep vein thrombosis
+vascular catheterization	can lead to	catheter obstruction
+catheter obstruction	can cause	fluid buildup
+vascular catheterization	can lead to	catheter leakage
+catheter leakage	can cause	medication leakage
+vascular catheterization	can lead to	catheter kinking
+catheter kinking	can result in	blocked flow
+vascular catheterization	can lead to	catheter-associated sepsis
+catheter-associated sepsis	can result in	septic shock
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can result in	kidney infection
+vascular catheterization	can lead to	arterial thrombosis
+arterial thrombosis	can result in	stroke
+vascular catheterization	can lead to	catheter breakage
+catheter breakage	can cause	fragment migration
+vascular catheterization	can lead to	catheter embolism
+catheter embolism	can cause	embolism
+embolism	can cause	ischemia
+vascular catheterization	can lead to	catheter entrapment
+catheter entrapment	can cause	tissue damage
+vascular catheterization	can lead to	catheter dislodgement
+catheter dislodgement	can lead to	misplacement
+vascular catheterization	can lead to	catheter migration
+catheter migration	can lead to	misplacement
+vascular catheterization	can lead to	catheter obstruction
+catheter obstruction	can cause	ineffective treatment
+vascular catheterization	can lead to	catheter-associated bloodstream infection
+catheter-associated bloodstream infection	can result in	septicemia
+vascular catheterization	can lead to	catheter-associated sepsis
+catheter-associated sepsis	can result in	septic shock
+vascular catheterization	can lead to	allergic reaction
+allergic reaction	can cause	anaphylaxis
+vascular catheterization	can lead to	nerve injury
+nerve injury	can result in	loss of function
+vascular catheterization	can lead to	hematoma formation
+hematoma formation	can cause	swelling
+vascular catheterization	can lead to	device malfunction
+device malfunction	can result in	improper functioning
+vascular catheterization	can lead to	catheter tip migration
+catheter tip migration	can lead to	misplacement
+vascular catheterization	can lead to	catheter shear
+catheter shear	can cause	internal bleeding
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can result in	urinary tract infection
+vascular catheterization	can lead to	catheter sepsis
+catheter sepsis	can result in	septic shock
+vascular catheterization	can lead to	catheter obstruction
+catheter obstruction	can cause	ineffective treatment
+vascular catheterization	can lead to	catheter occlusion
+catheter occlusion	can result in	blocked flow
+vascular catheterization	can lead to	catheter thrombosis
+catheter thrombosis	can result in	fibrin formation
+vascular catheterization	can lead to	catheter-related bloodstream infection
+catheter-related bloodstream infection	can result in	septicemia
+vascular catheterization	can lead to	catheter-associated bloodstream infection
+catheter-associated bloodstream infection	can result in	septic shock
+vascular catheterization	can lead to	catheter dislodgement
+catheter dislodgement	can cause	misplacement
+vascular catheterization	can lead to	catheter migration
+catheter migration	can cause	improper placement
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can result in	urinary tract infection
+vascular catheterization	can lead to	venous thrombosis
+venous thrombosis	can result in	thromboembolism
+vascular catheterization	can lead to	catheter kinking
+catheter kinking	can result in	obstructed flow
+vascular catheterization	can lead to	catheter dislodgement
+catheter dislodgement	can cause	improper placement
+vascular catheterization	can lead to	catheter migration
+catheter migration	can cause	misplacement
+vascular catheterization	can lead to	catheter fracture
+catheter fracture	can result in	fragment embolism
+vascular catheterization	can lead to	catheter shearing
+catheter shearing	can cause	internal bleeding
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can result in	urinary tract infection
+vascular catheterization	can lead to	catheter sepsis
+catheter sepsis	can result in	septic shock
+vascular catheterization	can lead to	allergic reaction
+allergic reaction	can cause	anaphylaxis
+vascular catheterization	can lead to	nerve injury
+nerve injury	can result in	loss of function
+vascular catheterization	can lead to	hematoma formation
+hematoma formation	can cause	pain
+vascular catheterization	can lead to	device malfunction
+device malfunction	can result in	improper functioning
+vascular catheterization	can lead to	catheter tip migration
+catheter tip migration	can cause	misplacement
+vascular catheterization	can lead to	catheter shear
+catheter shear	can result in	internal bleeding
+vascular catheterization	can lead to	pericatheter leakage
+pericatheter leakage	can cause	catheter-associated infection
+vascular catheterization	can lead to	catheter expulsion
+catheter expulsion	can result in	misplacement
+vascular catheterization	can lead to	catheter malposition
+catheter malposition	can cause	obstructed flow
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can result in	urinary tract infection
+vascular catheterization	can lead to	venous thrombosis
+venous thrombosis	can result in	thromboembolism
+vascular catheterization	can lead to	catheter kinking
+catheter kinking	can cause	obstructed flow
+vascular catheterization	can lead to	catheter dislodgement
+catheter dislodgement	can cause	misplacement
+vascular catheterization	can lead to	catheter migration
+catheter migration	can cause	improper placement
+vascular catheterization	can lead to	catheter fracture
+catheter fracture	can result in	fragment embolism
+vascular catheterization	can lead to	catheter shearing
+catheter shearing	can cause	internal bleeding
+vascular catheterization	can lead to	catheter-associated urinary tract infection
+catheter-associated urinary tract infection	can result in	urinary tract infection
+vascular catheterization	can lead to	catheter sepsis
+catheter sepsis	can cause	septic shock
+vascular catheterization	can lead to	allergic reaction
+allergic reaction	can cause	anaphylaxis
+vascular catheterization	can lead to	nerve injury
+nerve injury	can cause	loss of function
+vascular catheterization	can lead to	hematoma formation
+hematoma formation	can cause	pain
+vascular catheterization	can lead to	device malfunction
+device malfunction	can result in	improper functioning
+vascular catheterization	can lead to	catheter tip migration
+catheter tip migration	can cause	misplacement
+vascular catheterization	can lead to	catheter shear
+catheter shear	can result in	internal bleeding
+vascular catheterization	can lead to	catheter-related infection
+catheter-related infection	can result in	sepsis
+vascular catheterization	can lead to	catheter-associated injury
+catheter-associated injury	can cause	tissue damage

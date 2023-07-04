@@ -1,0 +1,8 @@
+upper gastrointestinal x-ray	is a	medical imaging procedure
+upper gastrointestinal x-ray	used for	diagnosis
+barium	is a type of	contrast agent used in upper gastrointestinal x-ray
+barium	helps visualize	the gastrointestinal tract
+esophagus	is part of	the gastrointestinal tract
+upper gastrointestinal x-ray	can detect	abnormalities in the esophagus
+ulcers	is a type of	abnormality in the esophagus
+upper gastrointestinal x-ray	can detect	ulcers

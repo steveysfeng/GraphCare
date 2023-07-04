@@ -1,0 +1,91 @@
+colonoscopy	is a	medical procedure
+colonoscopy	used for	diagnosis
+biopsy	is a type of	procedure
+colonoscopy	can detect	cancer
+biopsy	can detect	cancer cells
+colonoscopy	can detect	polyps
+biopsy	can be performed during	colonoscopy
+colonoscopy	may require	sedation
+biopsy	may require	anesthesia
+colonoscopy	may cause	discomfort
+biopsy	may cause	bleeding
+colonoscopy	may be recommended	for high-risk patients
+biopsy	may be recommended	for abnormal findings
+colonoscopy	can be used	for surveillance
+biopsy	can be used	for surveillance
+colonoscopy	is performed	by a gastroenterologist
+biopsy	is performed	by a pathologist
+colonoscopy	is typically done	with a flexible sigmoidoscope
+biopsy	is typically done	with a needle
+colonoscopy	can help	in early detection
+biopsy	can help	in determining the stage of cancer
+colonoscopy	is usually done	under conscious sedation
+biopsy	is usually done	under local anesthesia
+colonoscopy	is a	recommended screening test
+biopsy	is a	diagnostic test
+colonoscopy	can be done	in an outpatient setting
+biopsy	can be done	in an outpatient setting
+colonoscopy	may require	bowel preparation
+biopsy	may require	tissue processing
+colonoscopy	can be	uncomfortable
+biopsy	can be	invasive
+colonoscopy	may have	complications
+biopsy	may have	risks
+colonoscopy	may be	covered by insurance
+biopsy	may be	covered by insurance
+colonoscopy	is performed	using a video camera
+biopsy	is performed	using a microscope
+colonoscopy	can be	time-consuming
+biopsy	can be	time-consuming
+colonoscopy	is done	through the rectum
+biopsy	is done	through a small incision
+colonoscopy	can be used	for therapeutic purposes
+biopsy	can be used	for diagnostic purposes
+colonoscopy	requires	specialized training
+biopsy	requires	specialized training
+colonoscopy	can prevent	colon cancer
+biopsy	can guide	treatment decisions
+colonoscopy	is an	invasive procedure
+biopsy	may be	inconclusive
+colonoscopy	is important	for early detection
+biopsy	is important	for accurate diagnosis
+colonoscopy	can be performed	as a preventive measure
+biopsy	can be performed	as a diagnostic measure
+colonoscopy	may cause	side effects
+biopsy	may cause	complications
+colonoscopy	is recommended	at certain ages
+biopsy	is recommended	based on clinical suspicion
+colonoscopy	can be	a life-saving procedure
+biopsy	can help	in determining the prognosis
+colonoscopy	is a	commonly performed procedure
+biopsy	is a	standard procedure
+colonoscopy	is used	for surveillance purposes
+biopsy	is used	for histopathologic analysis
+colonoscopy	is performed	in a hospital
+biopsy	is performed	in a pathology laboratory
+colonoscopy	is an	outpatient procedure
+biopsy	is an	invasive technique
+colonoscopy	can be	an uncomfortable experience
+biopsy	can be	a painful procedure
+colonoscopy	may require	referral
+biopsy	may require	follow-up
+colonoscopy	can be done	with a colonoscope
+biopsy	can be done	with a scalpel
+colonoscopy	is done	to visualize the entire colon
+biopsy	is done	to obtain tissue samples
+colonoscopy	can be used	as a preventive measure
+biopsy	can be used	as a confirmatory test
+colonoscopy	may be performed	for polyp removal
+biopsy	may be performed	for cancer staging
+colonoscopy	is a	safe procedure
+biopsy	may have	side effects
+colonoscopy	requires	adequate bowel preparation
+biopsy	requires	skilled interpretation
+colonoscopy	can be performed	under general anesthesia
+biopsy	can be performed	under conscious sedation
+colonoscopy	can detect	abnormalities of the colon
+biopsy	can detect	abnormal cells
+colonoscopy	is recommended	for screening purposes
+biopsy	is recommended	for definitive diagnosis
+colonoscopy	is a	commonly recommended procedure
+biopsy	is a	standard diagnostic tool

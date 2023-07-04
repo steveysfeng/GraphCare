@@ -1,0 +1,27 @@
+breast biopsy	is a	medical procedure
+breast biopsy	used for	diagnosis
+breast biopsy	can detect	cancer
+breast ultrasound	is a type of	diagnostic procedure
+breast ultrasound	used for	imaging
+imaging	helps in	detecting abnormalities
+mammogram	is a type of	breast imaging
+mammogram	used for	breast cancer screening
+breast MRI	is a type of	breast imaging
+breast MRI	used for	detecting cancer
+breast biopsy	can lead to	bleeding
+breast biopsy	can cause	infection
+breast biopsy	can result in	scarring
+breast biopsy	can be painful
+breast biopsy	may require	local anesthesia
+breast ultrasound	uses	sound waves
+breast ultrasound	is non-invasive
+breast ultrasound	does not involve	radiation
+imaging	plays a crucial role in	early detection
+mammogram	uses	X-rays
+mammogram	is commonly used	for breast cancer screening
+mammogram	can detect	calcifications
+mammogram	can detect	tumors
+breast MRI	uses	magnetic fields
+breast MRI	provides	detailed images
+breast MRI	can detect	small tumors
+breast MRI	can detect	metastasis

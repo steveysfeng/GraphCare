@@ -1,0 +1,82 @@
+ligation of fallopian tubes	is a	surgical procedure
+occlusion of fallopian tubes	is a	medical procedure
+ligation of fallopian tubes	used for	permanent contraception
+occlusion of fallopian tubes	used for	permanent contraception
+ligation of fallopian tubes	can cause	infertility
+occlusion of fallopian tubes	can cause	infertility
+ligation of fallopian tubes	is performed using	laparoscopic techniques
+occlusion of fallopian tubes	is performed using	hysteroscopic techniques
+ligation of fallopian tubes	is reversible	false
+occlusion of fallopian tubes	is reversible	false
+ligation of fallopian tubes	can be	bilateral
+occlusion of fallopian tubes	can be	bilateral
+ligation of fallopian tubes	is an alternative to	tubal ligation
+occlusion of fallopian tubes	is an alternative to	tubal ligation
+ligation of fallopian tubes	is associated with	minimal complications
+occlusion of fallopian tubes	is associated with	minimal complications
+ligation of fallopian tubes	is not recommended for	women who desire future fertility
+occlusion of fallopian tubes	is not recommended for	women who desire future fertility
+ligation of fallopian tubes	can be	laparoscopic
+occlusion of fallopian tubes	can be	hysteroscopic
+ligation of fallopian tubes	requires	anesthesia
+occlusion of fallopian tubes	requires	anesthesia
+ligation of fallopian tubes	is done	under general anesthesia
+occlusion of fallopian tubes	is done	under local anesthesia
+ligation of fallopian tubes	is an effective	method of contraception
+occlusion of fallopian tubes	is an effective	method of contraception
+ligation of fallopian tubes	can be	performed postpartum
+occlusion of fallopian tubes	can be	performed postpartum
+ligation of fallopian tubes	can be	laparoscopic tubal ligation
+occlusion of fallopian tubes	can be	hysteroscopic tubal occlusion
+ligation of fallopian tubes	is sometimes referred to as	tubal sterilization
+occlusion of fallopian tubes	is sometimes referred to as	tubal sterilization
+ligation of fallopian tubes	can lead to	post-ligation syndrome
+occlusion of fallopian tubes	can lead to	post-ligation syndrome
+ligation of fallopian tubes	can be	surgically reversible
+occlusion of fallopian tubes	can be	surgically reversible
+ligation of fallopian tubes	is performed	using titanium clips
+occlusion of fallopian tubes	is performed	using silicone plugs
+ligation of fallopian tubes	can be	done during abdominal surgery
+occlusion of fallopian tubes	can be	done during hysteroscopic surgery
+ligation of fallopian tubes	is a type of	permanent sterilization
+occlusion of fallopian tubes	is a type of	permanent sterilization
+ligation of fallopian tubes	can be	performed after childbirth
+occlusion of fallopian tubes	can be	performed after childbirth
+ligation of fallopian tubes	is usually	irreversible
+occlusion of fallopian tubes	is usually	irreversible
+ligation of fallopian tubes	is a form of	birth control
+occlusion of fallopian tubes	is a form of	birth control
+ligation of fallopian tubes	is sometimes	recommended after childbirth
+occlusion of fallopian tubes	is sometimes	recommended after childbirth
+ligation of fallopian tubes	is a common	female sterilization method
+occlusion of fallopian tubes	is a common	female sterilization method
+ligation of fallopian tubes	can be	performed using cauterization
+occlusion of fallopian tubes	can be	performed using radiofrequency ablation
+ligation of fallopian tubes	can be	performed using clips or rings
+occlusion of fallopian tubes	can be	performed using silicone bands
+ligation of fallopian tubes	is a	surgical sterilization procedure
+occlusion of fallopian tubes	is a	medical sterilization procedure
+ligation of fallopian tubes	is usually	permanent
+occlusion of fallopian tubes	is usually	permanent
+ligation of fallopian tubes	is sometimes	reversible
+occlusion of fallopian tubes	is sometimes	reversible
+ligation of fallopian tubes	can be	performed laparoscopically
+occlusion of fallopian tubes	can be	performed hysteroscopically
+ligation of fallopian tubes	is a	birth control method
+occlusion of fallopian tubes	is a	birth control method
+ligation of fallopian tubes	can be	done with small incisions
+occlusion of fallopian tubes	can be	done without incisions
+ligation of fallopian tubes	can cause	pelvic pain
+occlusion of fallopian tubes	can cause	pelvic pain
+ligation of fallopian tubes	can be	done after childbirth
+occlusion of fallopian tubes	can be	done after childbirth
+ligation of fallopian tubes	is a	permanent birth control method
+occlusion of fallopian tubes	is a	permanent birth control method
+ligation of fallopian tubes	can be	done during a cesarean section
+occlusion of fallopian tubes	can be	done during a cesarean section
+ligation of fallopian tubes	is performed	using clips or bands
+occlusion of fallopian tubes	is performed	using plugs or coils
+ligation of fallopian tubes	can be	performed with a laparoscope
+occlusion of fallopian tubes	can be	performed with a hysteroscope
+ligation of fallopian tubes	is one of	female sterilization options
+occlusion of fallopian tubes	is one of	female sterilization options

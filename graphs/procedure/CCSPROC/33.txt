@@ -1,0 +1,27 @@
+nose surgery	is a	therapeutic procedure
+nose surgery	used for	correcting nasal abnormalities
+nose surgery	can improve	breathing
+nasal polypectomy	is a type of	nose surgery
+nasal polypectomy	used for	removing nasal polyps
+nasal polypectomy	may reduce	nasal congestion
+maxillary antral puncture	is a type of	nose surgery
+maxillary antral puncture	used for	draining the maxillary sinus
+maxillary antral puncture	may relieve	sinusitis
+rhinoplasty	is a type of	nose surgery
+rhinoplasty	used for	reshaping the nose
+rhinoplasty	can improve	facial aesthetics
+cleft palate repair	is a	therapeutic procedure
+cleft palate repair	used for	correcting cleft palate
+cleft palate repair	can improve	speech function
+adenotonsillectomy	is a	therapeutic procedure
+adenotonsillectomy	used for	removing tonsils and adenoids
+adenotonsillectomy	may treat	obstructive sleep apnea
+uvulopalatopharyngoplasty	is a type of	therapeutic procedure
+uvulopalatopharyngoplasty	used for	treating sleep-disordered breathing
+uvulopalatopharyngoplasty	may reduce	snoring
+tonsillectomy	is a type of	therapeutic procedure
+tonsillectomy	used for	removing the tonsils
+tonsillectomy	can treat	recurrent tonsillitis
+pharyngoplasty	is a type of	therapeutic procedure
+pharyngoplasty	used for	correcting velopharyngeal insufficiency
+pharyngoplasty	can improve	speech function

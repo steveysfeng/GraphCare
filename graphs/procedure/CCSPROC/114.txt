@@ -1,0 +1,222 @@
+open prostatectomy	is a	surgical procedure
+open prostatectomy	used for	treating prostate cancer
+open prostatectomy	can cause	erectile dysfunction
+open prostatectomy	has a risk of	urinary incontinence
+open prostatectomy	requires	general anesthesia
+open prostatectomy	is performed by	a urologist
+open prostatectomy	has a recovery time of	several weeks
+open prostatectomy	may result in	blood loss
+open prostatectomy	can be done as	a minimally invasive procedure
+open prostatectomy	is an option for	patients with large prostates
+open prostatectomy	has a success rate of	around 90%
+open prostatectomy	may require	a hospital stay
+open prostatectomy	is associated with	a higher risk of complications
+open prostatectomy	is an alternative to	other prostate removal procedures
+open prostatectomy	can be followed by	radiation therapy
+open prostatectomy	is not recommended for	patients with multiple comorbidities
+open prostatectomy	is more invasive than	robotic-assisted prostatectomy
+open prostatectomy	is contraindicated in	patients with bleeding disorders
+open prostatectomy	can be performed	using laparoscopic techniques
+open prostatectomy	has been used	for many years
+open prostatectomy	has a lower cost compared to	robotic-assisted prostatectomy
+open prostatectomy	carries a risk of	infection
+open prostatectomy	has a lower risk of	recurrence compared to radiation therapy
+open prostatectomy	provides a definitive pathological diagnosis
+open prostatectomy	is typically recommended for	younger patients with localized prostate cancer
+open prostatectomy	can result in	changes in bladder control
+open prostatectomy	may be combined with	lymph node dissection
+open prostatectomy	is associated with	longer hospital stays compared to other procedures
+open prostatectomy	may be associated with	long-term urinary side effects
+open prostatectomy	has a higher risk of	blood transfusion compared to other procedures
+open prostatectomy	is a complex procedure that requires	meticulous surgical technique
+open prostatectomy	can be performed	using a retropubic or perineal approach
+open prostatectomy	can be performed	using a nerve-sparing technique
+open prostatectomy	is a major surgery that involves	removing the prostate gland
+open prostatectomy	can result in	changes in sexual function
+open prostatectomy	can be performed	with or without pelvic lymph node dissection
+open prostatectomy	is associated with	a longer recovery time compared to other procedures
+open prostatectomy	may be recommended	for patients with aggressive prostate cancer
+open prostatectomy	is less commonly performed	due to advances in minimally invasive techniques
+open prostatectomy	can be followed by	adjuvant therapy
+open prostatectomy	is associated with	a higher risk of postoperative complications
+open prostatectomy	can cause	scarring in the urethra
+open prostatectomy	is indicated	for patients with locally advanced prostate cancer
+open prostatectomy	can be performed	using an open retropubic or perineal approach
+open prostatectomy	is associated with	a longer hospital stay compared to other procedures
+open prostatectomy	can result in	a decrease in penis size
+open prostatectomy	carries a risk of	urinary tract infections
+open prostatectomy	is a treatment option	for patients with prostate enlargement
+open prostatectomy	is a major surgery that requires	a long incision
+open prostatectomy	can be followed by	hormone therapy
+open prostatectomy	is associated with	a risk of injury to surrounding structures
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is recommended	for patients with high-risk prostate cancer
+open prostatectomy	can be performed	using a robotic-assisted technique
+open prostatectomy	is associated with	a longer operative time compared to other procedures
+open prostatectomy	can be combined with	cystectomy for patients with bladder involvement
+open prostatectomy	may be associated with	long-term bowel side effects
+open prostatectomy	has a lower risk of	positive surgical margins compared to other procedures
+open prostatectomy	can result in	changes in ejaculatory function
+open prostatectomy	has a higher risk of	blood loss compared to other procedures
+open prostatectomy	is a treatment option	for patients with recurrent prostate cancer
+open prostatectomy	is performed	under general anesthesia
+open prostatectomy	can be performed	with or without lymph node dissection
+open prostatectomy	is associated with	a higher risk of urinary incontinence compared to other procedures
+open prostatectomy	can be followed by	brachytherapy
+open prostatectomy	is associated with	a risk of blood clots
+open prostatectomy	requires	a hospital stay
+open prostatectomy	can be performed	as an open retropubic or perineal approach
+open prostatectomy	is a treatment option	for patients with locally advanced prostate cancer
+open prostatectomy	can be combined with	external beam radiation therapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	can result in	changes in hormone levels
+open prostatectomy	is a curative treatment option	for patients with localized prostate cancer
+open prostatectomy	is associated with	a risk of urinary fistula formation
+open prostatectomy	can be followed by	chemotherapy
+open prostatectomy	is associated with	a risk of bowel injury
+open prostatectomy	carries a risk of	wound infection
+open prostatectomy	has a risk of	postoperative pain
+open prostatectomy	is a treatment option	for patients with prostate-specific antigen (PSA) recurrence
+open prostatectomy	can be performed	using a perineal approach with or without laparoscopic assistance
+open prostatectomy	is associated with	a risk of lymphedema
+open prostatectomy	can result in	changes in urinary function
+open prostatectomy	is a treatment option	for patients with locally recurrent prostate cancer
+open prostatectomy	can be combined with	salvage radiation therapy
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	androgen deprivation therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	can cause	a decrease in bladder capacity
+open prostatectomy	is indicated	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is a treatment option	for patients with prostate-specific antigen (PSA) persistence
+open prostatectomy	is associated with	a risk of urethral stricture formation
+open prostatectomy	can result in	changes in bowel function
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	androgen deprivation therapy
+open prostatectomy	is associated with	a risk of wound dehiscence
+open prostatectomy	can be followed by	focal therapy
+open prostatectomy	is rarely performed	for patients with low-risk prostate cancer
+open prostatectomy	can be performed	using a perineal approach with or without robotic assistance
+open prostatectomy	is associated with	a risk of lymph node metastasis
+open prostatectomy	can result in	changes in continence status
+open prostatectomy	is a treatment option	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be combined with	cryotherapy
+open prostatectomy	is appropriate	for patients with obstructive urinary symptoms
+open prostatectomy	can be performed	using a radical retropubic or perineal approach
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	immunotherapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	can cause	changes in quality of life
+open prostatectomy	is indicated	for patients with locally advanced prostate cancer
+open prostatectomy	can be performed	with or without lymph node dissection
+open prostatectomy	is associated with	a risk of erectile dysfunction
+open prostatectomy	has a risk of	blood loss
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	radiation therapy
+open prostatectomy	is associated with	a risk of lymphedema
+open prostatectomy	requires	a hospital stay
+open prostatectomy	can result in	changes in urinary symptoms
+open prostatectomy	is a treatment option	for patients with locally recurrent prostate cancer
+open prostatectomy	can be performed	using a radical retropubic or perineal approach
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	targeted therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	hormone therapy
+open prostatectomy	is associated with	a risk of wound dehiscence
+open prostatectomy	can result in	changes in sexual satisfaction
+open prostatectomy	is a treatment option	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is associated with	a risk of urinary fistula formation
+open prostatectomy	can cause	changes in urinary function
+open prostatectomy	is indicated	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be performed	with or without pelvic lymph node dissection
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	systemic therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	brachytherapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	can result in	changes in quality of life
+open prostatectomy	is appropriate	for patients with obstructive urinary symptoms
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is a treatment option	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be followed by	adjuvant radiotherapy
+open prostatectomy	is associated with	a risk of urinary fistula formation
+open prostatectomy	can cause	changes in bowel habits
+open prostatectomy	is indicated	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	adjuvant therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	radiation therapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	requires	a hospital stay
+open prostatectomy	can result in	changes in urinary function
+open prostatectomy	is a treatment option	for patients with locally recurrent prostate cancer
+open prostatectomy	can be performed	using a radical retropubic or perineal approach
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	systemic therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	brachytherapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	can result in	changes in quality of life
+open prostatectomy	is appropriate	for patients with obstructive urinary symptoms
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is a treatment option	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be followed by	adjuvant radiotherapy
+open prostatectomy	is associated with	a risk of urinary fistula formation
+open prostatectomy	can cause	changes in bowel habits
+open prostatectomy	is indicated	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	adjuvant therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	radiation therapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	requires	a hospital stay
+open prostatectomy	can result in	changes in urinary function
+open prostatectomy	is a treatment option	for patients with locally recurrent prostate cancer
+open prostatectomy	can be performed	using a radical retropubic or perineal approach
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	systemic therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	brachytherapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	can result in	changes in quality of life
+open prostatectomy	is appropriate	for patients with obstructive urinary symptoms
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is a treatment option	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be followed by	adjuvant radiotherapy
+open prostatectomy	is associated with	a risk of urinary fistula formation
+open prostatectomy	can cause	changes in bowel habits
+open prostatectomy	is indicated	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	adjuvant therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	radiation therapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	requires	a hospital stay
+open prostatectomy	can result in	changes in urinary function
+open prostatectomy	is a treatment option	for patients with locally recurrent prostate cancer
+open prostatectomy	can be performed	using a radical retropubic or perineal approach
+open prostatectomy	is associated with	a risk of rectal injury
+open prostatectomy	can be followed by	systemic therapy
+open prostatectomy	is associated with	a risk of anastomotic stricture
+open prostatectomy	is a treatment option	for patients with locally advanced or recurrent prostate cancer
+open prostatectomy	can be combined with	brachytherapy
+open prostatectomy	is associated with	a risk of lymphocele formation
+open prostatectomy	can result in	changes in quality of life
+open prostatectomy	is appropriate	for patients with obstructive urinary symptoms
+open prostatectomy	can be performed	with or without nerve-sparing techniques
+open prostatectomy	is a treatment option	for patients with locally advanced or high-risk prostate cancer
+open prostatectomy	can be followed by	adjuvant radiotherapy
+open prostatectomy	is associated with	a risk of urinary fistula formation
+open prostatectomy	can cause	changes in bowel habits
+open prostatectomy	is indicated	for patients with locally advanced or high-risk prostate cancer

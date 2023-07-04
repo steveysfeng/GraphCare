@@ -1,0 +1,125 @@
+genitourinary incontinence procedures	are	medical procedures
+genitourinary incontinence procedures	used for	treating urinary incontinence
+genitourinary incontinence procedures	can include	sling procedures
+sling procedures	are	surgical procedures
+sling procedures	used for	supporting the urethra
+genitourinary incontinence procedures	can also include	bladder neck suspension procedures
+bladder neck suspension procedures	are	surgical procedures
+bladder neck suspension procedures	used for	stabilizing the bladder neck
+genitourinary incontinence procedures	can also involve	artificial urinary sphincter implantation
+artificial urinary sphincter implantation	is a type of	surgery
+artificial urinary sphincter implantation	used for	controlling urinary flow
+genitourinary incontinence procedures	can also involve	sacral nerve stimulation
+sacral nerve stimulation	is a type of	neuromodulation therapy
+sacral nerve stimulation	used for	restoring bladder control
+genitourinary incontinence procedures	can also include	bulking agents injection
+bulking agents injection	is a	nonsurgical procedure
+bulking agents injection	used for	treating stress urinary incontinence
+genitourinary incontinence procedures	can also involve	electrical stimulation
+electrical stimulation	is a	treatment method
+electrical stimulation	used for	strengthening pelvic floor muscles
+genitourinary incontinence procedures	can also include	urethral bulking agents injection
+urethral bulking agents injection	is a	nonsurgical procedure
+urethral bulking agents injection	used for	treating stress urinary incontinence
+genitourinary incontinence procedures	can also involve	urethral injection therapy
+urethral injection therapy	is a	nonsurgical procedure
+urethral injection therapy	used for	treating stress urinary incontinence
+genitourinary incontinence procedures	can also include	pubovaginal sling procedures
+pubovaginal sling procedures	are	surgical procedures
+pubovaginal sling procedures	used for	providing support to the urethra
+genitourinary incontinence procedures	can also involve	periurethral bulking agent injection
+periurethral bulking agent injection	is a	nonsurgical procedure
+periurethral bulking agent injection	used for	treating stress urinary incontinence
+genitourinary incontinence procedures	can also include	percutaneous tibial nerve stimulation
+percutaneous tibial nerve stimulation	is a type of	neuromodulation therapy
+percutaneous tibial nerve stimulation	used for	treating overactive bladder
+genitourinary incontinence procedures	can also involve	male sling procedures
+male sling procedures	are	surgical procedures
+male sling procedures	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also include	urethral bulking agent injection
+urethral bulking agent injection	is a	nonsurgical procedure
+urethral bulking agent injection	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also involve	artificial urinary sphincter cuff placement
+artificial urinary sphincter cuff placement	is a type of	surgery
+artificial urinary sphincter cuff placement	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also include	urethral sling procedures
+urethral sling procedures	are	surgical procedures
+urethral sling procedures	used for	providing support to the urethra
+genitourinary incontinence procedures	can also involve	bulking agents injection
+bulking agents injection	is a	nonsurgical procedure
+bulking agents injection	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also include	injection of collagen into the urethral tissues
+injection of collagen into the urethral tissues	is a	nonsurgical procedure
+injection of collagen into the urethral tissues	used for	treating female urinary incontinence
+genitourinary incontinence procedures	can also involve	artificial sphincter implantation
+artificial sphincter implantation	is a type of	surgery
+artificial sphincter implantation	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also include	periurethral bulking agent injection
+periurethral bulking agent injection	is a	nonsurgical procedure
+periurethral bulking agent injection	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also involve	periurethral collagen injection
+periurethral collagen injection	is a	nonsurgical procedure
+periurethral collagen injection	used for	treating female urinary incontinence
+genitourinary incontinence procedures	can also include	sacral nerve stimulation using implantable neurostimulators
+sacral nerve stimulation using implantable neurostimulators	is a type of	neuromodulation therapy
+sacral nerve stimulation using implantable neurostimulators	used for	treating urinary incontinence
+genitourinary incontinence procedures	can also involve	urethral bulking agents injection
+urethral bulking agents injection	is a	nonsurgical procedure
+urethral bulking agents injection	used for	treating female urinary incontinence
+genitourinary incontinence procedures	can also include	urethral sling procedures
+urethral sling procedures	are	surgical procedures
+urethral sling procedures	used for	providing support to the urethra
+genitourinary incontinence procedures	can also involve	periurethral bulking agent injection
+periurethral bulking agent injection	is a	nonsurgical procedure
+periurethral bulking agent injection	used for	treating female urinary incontinence
+genitourinary incontinence procedures	can also include	installation of tension-free vaginal tape
+installation of tension-free vaginal tape	is a	surgical procedure
+installation of tension-free vaginal tape	used for	treating female urinary incontinence
+genitourinary incontinence procedures	can also involve	bone anchors placement
+bone anchors placement	is a	surgical procedure
+bone anchors placement	used for	supporting the urethra
+genitourinary incontinence procedures	can also include	urethral suspension procedures
+urethral suspension procedures	are	surgical procedures
+urethral suspension procedures	used for	supporting the urethra
+genitourinary incontinence procedures	can also involve	urethral diverticulum excision
+urethral diverticulum excision	is a type of	surgical procedure
+urethral diverticulum excision	used for	treating urethral diverticulum
+genitourinary incontinence procedures	can also include	urethral stent placement
+urethral stent placement	is a type of	procedure
+urethral stent placement	used for	keeping the urethra open
+genitourinary incontinence procedures	can also involve	posterior tibial nerve stimulation
+posterior tibial nerve stimulation	is a type of	neuromodulation therapy
+posterior tibial nerve stimulation	used for	treating overactive bladder
+genitourinary incontinence procedures	can also include	rectus fascial sling procedures
+rectus fascial sling procedures	are	surgical procedures
+rectus fascial sling procedures	used for	providing support to the urethra
+genitourinary incontinence procedures	can also involve	urethral reconstruction
+urethral reconstruction	is a type of	surgical procedure
+urethral reconstruction	used for	repairing the urethra
+genitourinary incontinence procedures	can also include	injection of bulking agents into the urethra
+injection of bulking agents into the urethra	is a	nonsurgical procedure
+injection of bulking agents into the urethra	used for	treating female urinary incontinence
+genitourinary incontinence procedures	can also involve	colposuspension
+colposuspension	is a	surgical procedure
+colposuspension	used for	supporting the urethra
+genitourinary incontinence procedures	can also include	injection of botulinum toxin into the bladder
+injection of botulinum toxin into the bladder	is a	nonsurgical procedure
+injection of botulinum toxin into the bladder	used for	treating overactive bladder
+genitourinary incontinence procedures	can also involve	urethroplasty
+urethroplasty	is a type of	surgical procedure
+urethroplasty	used for	reconstructing the urethra
+genitourinary incontinence procedures	can also include	anterior vaginal wall repair
+anterior vaginal wall repair	is a type of	surgical procedure
+anterior vaginal wall repair	used for	repairing the anterior vaginal wall
+genitourinary incontinence procedures	can also involve	perineal sling procedures
+perineal sling procedures	are	surgical procedures
+perineal sling procedures	used for	providing support to the urethra
+genitourinary incontinence procedures	can also include	bladder augmentation
+bladder augmentation	is a type of	surgical procedure
+bladder augmentation	used for	increasing bladder capacity
+genitourinary incontinence procedures	can also involve	artificial urinary sphincter replacement
+artificial urinary sphincter replacement	is a type of	surgery
+artificial urinary sphincter replacement	used for	treating male urinary incontinence
+genitourinary incontinence procedures	can also include	placement of adjustable balloon implant in the urethra
+placement of adjustable balloon implant in the urethra	is a	surgical procedure
+placement of adjustable balloon implant in the urethra	used for	treating female urinary incontinence

@@ -1,0 +1,192 @@
+psychological evaluation	is a	medical procedure
+psychiatric evaluation	is a	medical procedure
+psychological evaluation	used for	diagnosis
+psychiatric evaluation	used for	diagnosis
+psychological therapy	is a	treatment
+psychiatric therapy	is a	treatment
+psychological therapy	used for	mental health
+psychiatric therapy	used for	mental health
+psychological evaluation	can detect	mental disorders
+psychiatric evaluation	can detect	mental disorders
+psychological therapy	can help with	depression
+psychiatric therapy	can help with	schizophrenia
+psychological evaluation	is conducted by	psychologist
+psychiatric evaluation	is conducted by	psychiatrist
+psychological therapy	provided by	therapist
+psychiatric therapy	provided by	psychiatrist
+psychological therapy	can improve	cognitive function
+psychiatric therapy	can improve	emotional regulation
+psychological evaluation	involves	patient interviews
+psychiatric evaluation	involves	psychological testing
+psychological therapy	can alleviate	anxiety
+psychiatric therapy	can alleviate	hallucinations
+psychological evaluation	can determine	treatment plan
+psychiatric evaluation	can determine	medication
+psychological therapy	can be done in	individual sessions
+psychiatric therapy	can be done in	group sessions
+psychological therapy	can be combined with	medication
+psychiatric therapy	can be combined with	psychotherapy
+psychological evaluation	can assess	risk of harm
+psychiatric evaluation	can assess	suicidal ideation
+psychological therapy	requires	therapist-patient relationship
+psychiatric therapy	requires	ongoing monitoring
+psychological evaluation	is covered by	insurance
+psychiatric evaluation	is covered by	insurance
+psychological therapy	is reimbursed by	insurance
+psychiatric therapy	is reimbursed by	insurance
+psychological evaluation	is recommended for	children with behavioral issues
+psychiatric evaluation	is recommended for	adults with mood disorders
+psychological therapy	is recommended for	individuals with trauma history
+psychiatric therapy	is recommended for	individuals with personality disorders
+psychological evaluation	can identify	developmental delays
+psychiatric evaluation	can identify	substance abuse
+psychological therapy	can address	relationship problems
+psychiatric therapy	can address	self-harm behaviors
+psychological evaluation	is important for	treatment planning
+psychiatric evaluation	is important for	medication management
+psychological therapy	can promote	self-esteem
+psychiatric therapy	can promote	coping skills
+psychological evaluation	is performed by	trained professionals
+psychiatric evaluation	is performed by	specialized clinicians
+psychological therapy	requires	confidentiality
+psychiatric therapy	requires	informed consent
+psychological evaluation	can diagnose	ADHD
+psychiatric evaluation	can diagnose	bipolar disorder
+psychological therapy	can assist with	anger management
+psychiatric therapy	can assist with	delusions
+psychological evaluation	is necessary for	accurate diagnosis
+psychiatric evaluation	is necessary for	appropriate treatment
+psychological therapy	can reduce	symptoms of PTSD
+psychiatric therapy	can reduce	relapse rates
+psychological evaluation	can evaluate	cognitive abilities
+psychiatric evaluation	can evaluate	mental competency
+psychological therapy	can empower	patients
+psychiatric therapy	can empower	families
+psychological evaluation	is performed in	a private setting
+psychiatric evaluation	is performed in	a clinical setting
+psychological therapy	is evidence-based
+psychiatric therapy	is tailored to	individual needs
+psychological evaluation	can determine	need for medication
+psychiatric evaluation	can determine	need for hospitalization
+psychological therapy	can teach	coping strategies
+psychiatric therapy	can teach	problem-solving skills
+psychological evaluation	is an important part of	comprehensive care
+psychiatric evaluation	is an important part of	multidisciplinary approach
+psychological therapy	can enhance	quality of life
+psychiatric therapy	can enhance	social support
+psychological evaluation	involves	psychological assessment tools
+psychiatric evaluation	involves	diagnostic interviews
+psychological therapy	can support	behavior change
+psychiatric therapy	can support	relapse prevention
+psychological evaluation	can identify	personality disorders
+psychiatric evaluation	can identify	psychotic disorders
+psychological therapy	is effective for	grief counseling
+psychiatric therapy	is effective for	addiction recovery
+psychological evaluation	can assess	cognitive strengths
+psychiatric evaluation	can assess	treatment response
+psychological therapy	can be adapted for	different cultures
+psychiatric therapy	can be adapted for	diverse populations
+psychological evaluation	can determine	therapy goals
+psychiatric evaluation	can determine	medication dosage
+psychological therapy	can provide	emotional support
+psychiatric therapy	can provide	crisis intervention
+psychological evaluation	is necessary for	mental health treatment
+psychiatric evaluation	is necessary for	medication evaluation
+psychological therapy	requires	patient commitment
+psychiatric therapy	requires	family involvement
+psychological evaluation	is recommended for	older adults with cognitive decline
+psychiatric evaluation	is recommended for	individuals with history of trauma
+psychological therapy	can treat	phobias
+psychiatric therapy	can treat	OCD
+psychological evaluation	can identify	learning disabilities
+psychiatric evaluation	can identify	eating disorders
+psychological therapy	can facilitate	self-discovery
+psychiatric therapy	can facilitate	emotional regulation
+psychological evaluation	can assess	neurological function
+psychiatric evaluation	can assess	genetic predisposition
+psychological therapy	can promote	personal growth
+psychiatric therapy	can promote	social skills development
+psychological evaluation	can validate	patient experiences
+psychiatric evaluation	can validate	hallucinations
+psychological therapy	can support	grief recovery
+psychiatric therapy	can support	anger management
+psychological evaluation	can determine	need for psychotherapy
+psychiatric evaluation	can determine	need for medication adjustment
+psychological therapy	can address	sleep problems
+psychiatric therapy	can address	mood swings
+psychological evaluation	can establish	therapeutic alliance
+psychiatric evaluation	can establish	rapport with patient
+psychological therapy	can help with	self-esteem issues
+psychiatric therapy	can help with	emotional dysregulation
+psychological evaluation	can evaluate	family dynamics
+psychiatric evaluation	can evaluate	risk factors
+psychological therapy	can promote	self-reflection
+psychiatric therapy	can promote	symptom management
+psychological evaluation	can assess	attachment styles
+psychiatric evaluation	can assess	comorbid conditions
+psychological therapy	can foster	resilience
+psychiatric therapy	can foster	social integration
+psychological evaluation	can detect	cognitive impairment
+psychiatric evaluation	can detect	mood disorders
+psychological therapy	can provide	emotional healing
+psychiatric therapy	can provide	crisis stabilization
+psychological evaluation	can identify	behavioral patterns
+psychiatric evaluation	can identify	suicidal ideation
+psychological therapy	can facilitate	communication skills
+psychiatric therapy	can facilitate	medication adherence
+psychological evaluation	is performed using	standardized assessments
+psychiatric evaluation	is performed using	diagnostic criteria
+psychological therapy	requires	patient cooperation
+psychiatric therapy	requires	interdisciplinary collaboration
+psychological evaluation	can diagnose	anxiety disorders
+psychiatric evaluation	can diagnose	personality disorders
+psychological therapy	can assist with	emotional regulation
+psychiatric therapy	can assist with	delusions
+psychological evaluation	can evaluate	social functioning
+psychiatric evaluation	can evaluate	treatment efficacy
+psychological therapy	can support	personal development
+psychiatric therapy	can support	symptom reduction
+psychological evaluation	is recommended for	individuals with substance abuse
+psychiatric evaluation	is recommended for	individuals with dual diagnosis
+psychological therapy	can address	trauma symptoms
+psychiatric therapy	can address	withdrawal symptoms
+psychological evaluation	can determine	need for specialized care
+psychiatric evaluation	can determine	need for higher level of care
+psychological therapy	can improve	self-awareness
+psychiatric therapy	can improve	problem-solving abilities
+psychological evaluation	can detect	mood disturbances
+psychiatric evaluation	can detect	cognitive impairments
+psychological therapy	can assist with	stress management
+psychiatric therapy	can assist with	medication management
+psychological evaluation	is an important part of	treatment planning
+psychiatric evaluation	is an important part of	differential diagnosis
+psychological therapy	can enhance	self-efficacy
+psychiatric therapy	can enhance	family communication
+psychological evaluation	involves	psychological assessment batteries
+psychiatric evaluation	involves	structured interviews
+psychological therapy	can support	emotional well-being
+psychiatric therapy	can support	relapse prevention
+psychological evaluation	is necessary for	appropriate care
+psychiatric evaluation	is necessary for	medication adjustment
+psychological therapy	requires	client commitment
+psychiatric therapy	requires	coordinated care
+psychological evaluation	is recommended for	individuals with behavioral disorders
+psychiatric evaluation	is recommended for	individuals with thought disorders
+psychological therapy	can help with	self-acceptance
+psychiatric therapy	can help with	symptom control
+psychological evaluation	can diagnose	developmental disorders
+psychiatric evaluation	can diagnose	anxiety disorders
+psychological therapy	can address	mood disorders
+psychiatric therapy	can address	psychosis
+psychological evaluation	can assess	emotional well-being
+psychiatric evaluation	can assess	medication response
+psychological therapy	can facilitate	behavior change
+psychiatric therapy	can facilitate	relapse prevention
+psychological evaluation	can identify	cognitive deficits
+psychiatric evaluation	can identify	mood disorders
+psychological therapy	can promote	personal exploration
+psychiatric therapy	can promote	social functioning
+psychological evaluation	can assess	behavioral problems
+psychiatric evaluation	can assess	treatment effectiveness
+psychological therapy	can assist with	relationship issues
+psychiatric therapy	can assist with	medication side effects

@@ -1,0 +1,80 @@
+vascular surgery	is a	medical procedure
+vascular surgery	used for	treating vascular diseases
+carotid endarterectomy	is a type of	vascular surgery
+carotid endarterectomy	used for	removing plaque from carotid arteries
+angioplasty	is a type of	vascular surgery
+angioplasty	used for	widening narrowed blood vessels
+stent placement	is a type of	vascular surgery
+stent placement	used for	keeping blood vessels open
+venous ablation	is a type of	vascular surgery
+venous ablation	used for	treating venous insufficiency
+vascular bypass surgery	is a type of	vascular surgery
+vascular bypass surgery	used for	redirecting blood flow around blocked vessels
+aneurysm repair	is a type of	vascular surgery
+aneurysm repair	used for	fixing weakened blood vessels
+thrombectomy	is a type of	vascular surgery
+thrombectomy	used for	removing blood clots from blood vessels
+embolization	is a type of	vascular surgery
+embolization	used for	blocking blood flow to certain areas
+vein ligation	is a type of	vascular surgery
+vein ligation	used for	tying off varicose veins
+arteriovenous fistula creation	is a type of	vascular surgery
+arteriovenous fistula creation	used for	creating access for dialysis
+vascular access surgery	is a type of	vascular surgery
+vascular access surgery	used for	creating entry points for medical treatments
+tumor embolization	is a type of	vascular surgery
+tumor embolization	used for	blocking blood flow to tumors
+venous stenting	is a type of	vascular surgery
+venous stenting	used for	keeping veins open
+arterial bypass surgery	is a type of	vascular surgery
+arterial bypass surgery	used for	redirecting blood flow around blocked arteries
+vascular grafting	is a type of	vascular surgery
+vascular grafting	used for	replacing damaged blood vessels
+arteriovenous fistula ligation	is a type of	vascular surgery
+arteriovenous fistula ligation	used for	closing off abnormal connections
+venous valve repair	is a type of	vascular surgery
+venous valve repair	used for	fixing damaged valves in veins
+endarterectomy	is a type of	vascular surgery
+endarterectomy	used for	removing plaque from arteries
+venous angioplasty	is a type of	vascular surgery
+venous angioplasty	used for	widening narrowed veins
+lymph node transfer	is a type of	vascular surgery
+lymph node transfer	used for	treating lymphedema
+vein stripping	is a type of	vascular surgery
+vein stripping	used for	removing varicose veins
+venous thrombectomy	is a type of	vascular surgery
+venous thrombectomy	used for	removing blood clots from veins
+lenvatinib	is a	drug
+lenvatinib	used for	treating certain types of thyroid cancer
+bevacizumab	is a	drug
+bevacizumab	used for	treating various types of cancer
+ranibizumab	is a	drug
+ranibizumab	used for	treating eye conditions
+sorafenib	is a	drug
+sorafenib	used for	treating kidney cancer and liver cancer
+paclitaxel	is a	drug
+paclitaxel	used for	treating various types of cancer
+everolimus	is a	drug
+everolimus	used for	preventing organ rejection
+cetuximab	is a	drug
+cetuximab	used for	treating colorectal cancer and head and neck cancer
+lenalidomide	is a	drug
+lenalidomide	used for	treating multiple myeloma
+rituximab	is a	drug
+rituximab	used for	treating certain types of cancer and autoimmune diseases
+trastuzumab	is a	drug
+trastuzumab	used for	treating breast cancer and stomach cancer
+gefitinib	is a	drug
+gefitinib	used for	treating lung cancer
+temsirolimus	is a	drug
+temsirolimus	used for	treating kidney cancer
+bevacizumab	is a	drug
+bevacizumab	used for	treating macular degeneration
+sirolimus	is a	drug
+sirolimus	used for	preventing organ rejection
+pembrolizumab	is a	drug
+pembrolizumab	used for	treating various types of cancer
+bevacizumab	is a	drug
+bevacizumab	used for	treating ovarian cancer and cervical cancer
+afatinib	is a	drug
+afatinib	used for	treating lung cancer

@@ -1,0 +1,11 @@
+procedures	are used to	assist delivery
+episiotomy	is a	procedure
+episiotomy	can prevent	severe tearing
+forceps delivery	is a type of	delivery procedure
+forceps delivery	used to	assist with difficult births
+vacuum extraction	is a type of	delivery procedure
+vacuum extraction	used to	assist with difficult births
+cesarean section	is a type of	delivery procedure
+cesarean section	used when	vaginal delivery is not possible
+cesarean section	associated with	longer recovery time
+cesarean section	can be planned or	emergency

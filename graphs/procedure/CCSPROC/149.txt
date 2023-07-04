@@ -1,0 +1,31 @@
+arthroscopy	is a	medical procedure
+arthroscopy	used for	diagnosis
+arthroscopy	used for	treatment
+arthroscopy	can detect	cartilage damage
+arthroscopy	can treat	ligament tears
+arthroscopy	can treat	meniscus tears
+arthroscopy	can treat	joint inflammation
+arthroscopy	can treat	joint infections
+arthroscopy	can detect	arthritis
+arthroscopy	can detect	bone fractures
+arthroscopy	can treat	joint instability
+arthroscopy	can detect	loose bodies
+arthroscopy	can treat	synovitis
+arthroscopy	can treat	tendonitis
+arthroscopy	can treat	impingement
+arthroscopy	can treat	bursitis
+arthroscopy	can treat	osteoarthritis
+arthroscopy	can treat	rheumatoid arthritis
+arthroscopy	can detect	joint tumors
+arthroscopy	can detect	cysts
+arthroscopy	can treat	ligament reconstruction
+arthroscopy	can treat	joint fusion
+arthroscopy	can treat	scar tissue removal
+arthroscopy	can treat	joint realignment
+arthroscopy	can treat	joint debridement
+arthroscopy	can detect	tendon injuries
+arthroscopy	can detect	nerve injuries
+arthroscopy	can detect	blood vessel injuries
+arthroscopy	can treat	joint stabilization
+arthroscopy	can treat	labral tears
+arthroscopy	can detect	inflammation

@@ -1,0 +1,84 @@
+lobectomy	is a	surgical procedure
+lobectomy	used for	lung cancer treatment
+lobectomy	can be performed	minimally invasive
+lobectomy	may be necessary	for a tumor
+lobectomy	can result in	decreased lung capacity
+pneumonectomy	is a	surgical procedure
+pneumonectomy	used for	lung cancer treatment
+pneumonectomy	involves	removal of an entire lung
+pneumonectomy	can result in	decreased lung capacity
+pneumonectomy	can lead to	respiratory complications
+pneumonectomy	may be necessary	for advanced lung disease
+lung cancer	can be detected by	imaging tests
+lung cancer	may require	chemotherapy
+lung cancer	may spread to	other organs
+chemotherapy	is a	cancer treatment
+chemotherapy	can cause	hair loss
+chemotherapy	can lead to	nausea
+chemotherapy	may be administered	before surgery
+imaging tests	can detect	lung abnormalities
+imaging tests	are used for	cancer staging
+imaging tests	can show	the size of a tumor
+minimally invasive	procedures result in	shorter recovery time
+minimally invasive	procedures may reduce	postoperative pain
+minimally invasive	procedures involve	smaller incisions
+imaging tests	are used for	cancer diagnosis
+imaging tests	can identify	the location of a tumor
+tumor	can be benign or	malignant
+tumor	can cause	compression of adjacent structures
+tumor	can be detected by	physical examination
+tumor	can be treated with	radiation therapy
+tumor	can be monitored with	regular imaging
+radiation therapy	is a	cancer treatment
+radiation therapy	can cause	skin changes
+radiation therapy	can damage	healthy cells
+radiation therapy	can be delivered	externally or internally
+cancer treatment	depends on	the stage of cancer
+cancer treatment	may involve	a combination of therapies
+cancer treatment	aims to	eradicate cancer cells
+cancer treatment	can be personalized based on	genetic profiling
+lung disease	can result in	breathing difficulties
+lung disease	can be caused by	smoking
+lung disease	may require	long-term oxygen therapy
+lung disease	can lead to	decreased lung function
+respiratory complications	can include	pneumonia
+respiratory complications	may require	additional interventions
+respiratory complications	can be managed with	respiratory therapy
+respiratory complications	can be life-threatening
+cancer staging	provides information about	the extent of cancer
+cancer staging	determines	treatment options
+cancer staging	can involve	imaging tests and biopsies
+cancer staging	helps predict	the prognosis
+biopsies	involve	tissue sampling
+biopsies	can be performed	using various methods
+biopsies	provide	histological diagnosis
+biopsies	can detect	cancer cells
+histological diagnosis	helps determine	treatment strategies
+histological diagnosis	involves	microscopic examination
+histological diagnosis	is performed by	pathologists
+pathologists	can assess	the characteristics of a tumor
+pathologists	provide	diagnostic reports
+pathologists	play a crucial role in	cancer care
+genetic profiling	helps identify	targeted therapies
+genetic profiling	can predict	treatment response
+genetic profiling	is used for	precision medicine
+genetic profiling	analyzes	DNA mutations
+DNA mutations	can be hereditary or	acquired
+DNA mutations	contribute to	cancer development
+DNA mutations	can be targeted by	molecularly targeted drugs
+DNA mutations	are identified using	genetic testing
+genetic testing	provides information about	inherited gene mutations
+genetic testing	can guide	treatment decisions
+genetic testing	is important for	familial screening
+familial screening	helps identify	individuals at risk
+familial screening	involves	genetic counseling
+familial screening	aims to	prevent disease progression
+regular imaging	is important for	disease monitoring
+regular imaging	can detect	disease recurrence
+regular imaging	involves	repeated tests
+regular imaging	is used to	evaluate treatment response
+radiation therapy	can be delivered	using different techniques
+radiation therapy	targets	cancer cells
+radiation therapy	may require	daily sessions
+radiation therapy	can be used as	adjuvant therapy
+external radiation therapy	delivers	radiation from outside the body

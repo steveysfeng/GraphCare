@@ -1,0 +1,80 @@
+circumcision	is a	male genital procedure
+circumcision	used for	religious or cultural reasons
+circumcision	can reduce	risk of urinary tract infections
+circumcision	may reduce	risk of sexually transmitted infections
+circumcision	may reduce	risk of penile cancer
+circumcision	can be performed	on infants
+circumcision	can be performed	on adults
+circumcision	is a	surgical procedure
+circumcision	can lead to	complications
+circumcision	may cause	bleeding
+circumcision	may cause	infection
+circumcision	may cause	pain
+circumcision	may cause	swelling
+circumcision	may cause	scarring
+circumcision	may result in	an uneven appearance of the penis
+circumcision	may cause	a decrease in penile sensitivity
+circumcision	may require	anesthesia
+circumcision	requires	proper care and cleaning of the wound
+circumcision	should be discussed	with a healthcare provider
+circumcision	is not	medically necessary
+vasectomy	is a	male genital procedure
+vasectomy	used for	permanent contraception
+vasectomy	is a	surgical procedure
+vasectomy	involves	cutting or blocking the vas deferens
+vasectomy	does not	affect sexual function
+vasectomy	does not	cause erectile dysfunction
+vasectomy	does not	affect ejaculation
+vasectomy	does not	change the appearance of the penis
+vasectomy	may lead to	complications
+vasectomy	may cause	bleeding
+vasectomy	may cause	infection
+vasectomy	may cause	pain
+vasectomy	may cause	swelling
+vasectomy	may cause	scrotal hematoma
+vasectomy	may require	anesthesia
+vasectomy	requires	proper care and cleaning of the wound
+vasectomy	should be discussed	with a healthcare provider
+vasectomy	is a	permanent form of contraception
+penile prosthesis implantation	is a	male genital procedure
+penile prosthesis implantation	used for	erectile dysfunction
+penile prosthesis implantation	is a	surgical procedure
+penile prosthesis implantation	involves	insertion of a penile implant
+penile prosthesis implantation	can restore	sexual function
+penile prosthesis implantation	may lead to	complications
+penile prosthesis implantation	may cause	bleeding
+penile prosthesis implantation	may cause	infection
+penile prosthesis implantation	may cause	pain
+penile prosthesis implantation	may cause	swelling
+penile prosthesis implantation	may require	anesthesia
+penile prosthesis implantation	may require	reoperation
+penile prosthesis implantation	requires	proper care and cleaning of the wound
+penile prosthesis implantation	should be discussed	with a healthcare provider
+orchiectomy	is a	male genital procedure
+orchiectomy	used for	treatment of testicular cancer
+orchiectomy	is a	surgical procedure
+orchiectomy	involves	removal of one or both testicles
+orchiectomy	is a	curative treatment for some testicular cancers
+orchiectomy	may lead to	complications
+orchiectomy	may cause	bleeding
+orchiectomy	may cause	infection
+orchiectomy	may cause	pain
+orchiectomy	may cause	swelling
+orchiectomy	may require	anesthesia
+orchiectomy	may cause	side effects such as hormonal changes
+orchiectomy	requires	proper care and cleaning of the wound
+orchiectomy	should be discussed	with a healthcare provider
+testicular biopsy	is a	male genital procedure
+testicular biopsy	used for	diagnosis of testicular conditions
+testicular biopsy	is a	surgical procedure
+testicular biopsy	involves	removal of a small piece of testicular tissue
+testicular biopsy	can detect	testicular cancer
+testicular biopsy	can be performed	under local anesthesia
+testicular biopsy	may lead to	complications
+testicular biopsy	may cause	bleeding
+testicular biopsy	may cause	infection
+testicular biopsy	may cause	pain
+testicular biopsy	may cause	swelling
+testicular biopsy	may require	anesthesia
+testicular biopsy	requires	proper care and cleaning of the wound
+testicular biopsy	should be discussed	with a healthcare provider

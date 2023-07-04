@@ -1,0 +1,96 @@
+hysterectomy	can be used for	treatment
+hysterectomy	can be performed on	ovaries
+hysterectomy	can be performed on	uterus
+uterine fibroid embolization	is a type of	non-surgical procedure
+uterine fibroid embolization	can be used for	treating fibroids
+laparoscopy	is a type of	non-surgical procedure
+laparoscopy	used for	diagnosis
+laparoscopy	can detect	endometriosis
+myomectomy	is a type of	surgical procedure
+myomectomy	used for	removing fibroids
+hysteroscopy	is a type of	non-surgical procedure
+hysteroscopy	used for	examining the uterus
+hysteroscopy	can detect	polyps
+D&C procedure	is a type of	non-surgical procedure
+D&C procedure	used for	removing tissue from the uterus
+D&C procedure	can detect	abnormal cells
+colposcopy	is a type of	non-surgical procedure
+colposcopy	used for	examining the cervix
+colposcopy	can detect	cervical abnormalities
+endometrial biopsy	is a type of	non-surgical procedure
+endometrial biopsy	used for	collecting tissue samples
+endometrial biopsy	can detect	cancer
+cystoscopy	is a type of	non-surgical procedure
+cystoscopy	used for	examining the bladder
+cystoscopy	can detect	urinary abnormalities
+mammogram	is a type of	diagnostic procedure
+mammogram	used for	breast cancer screening
+mammogram	can detect	tumors
+Pap smear	is a type of	diagnostic procedure
+Pap smear	used for	cervical cancer screening
+Pap smear	can detect	abnormal cells
+ultrasound	is a type of	diagnostic procedure
+ultrasound	used for	imaging organs
+ultrasound	can detect	abnormalities
+MRI	is a type of	diagnostic procedure
+MRI	used for	detailed imaging
+MRI	can detect	tumors
+CT scan	is a type of	diagnostic procedure
+CT scan	used for	imaging internal structures
+CT scan	can detect	abnormalities
+biopsy	is a type of	diagnostic procedure
+biopsy	used for	sampling tissues
+biopsy	can detect	cancer
+hysterectomy	can result in	infertility
+endometrial ablation	is a type of	therapeutic procedure
+endometrial ablation	used for	reducing heavy menstrual bleeding
+endometrial ablation	can treat	endometrial hyperplasia
+tubal ligation	is a type of	contraceptive procedure
+tubal ligation	used for	permanent sterilization
+tubal ligation	can prevent	pregnancy
+oophorectomy	is a type of	surgical procedure
+oophorectomy	used for	removing the ovaries
+oophorectomy	can treat	ovarian cancer
+myomectomy	can result in	reduced fibroid symptoms
+hysterectomy	can lead to	menopause
+hysterectomy	can relieve	chronic pelvic pain
+laparoscopy	can be used for	tubal ligation
+hysteroscopy	can be used for	endometrial ablation
+endometrial biopsy	can lead to	spotting
+colposcopy	can be used for	cervical biopsy
+ultrasound	can be used for	fetal monitoring
+biopsy	can be used for	cancer staging
+hysterectomy	can be performed via	vaginal approach
+hysterectomy	can be performed via	abdominal approach
+hysterectomy	can be performed via	laparoscopic approach
+myomectomy	can be performed via	robotic surgery
+myomectomy	can be performed via	open surgery
+hysterectomy	can be performed in	outpatient settings
+myomectomy	can lead to	improved fertility
+myomectomy	can be performed in	minimally invasive settings
+hysterectomy	can be performed in	inpatient settings
+endometrial ablation	can be performed via	hysteroscopy
+endometrial ablation	can be performed via	radiofrequency
+endometrial ablation	can be performed via	cryotherapy
+hysteroscopy	can be used for	uterine septum resection
+laparoscopy	can be used for	ovarian cyst removal
+D&C procedure	can be used for	polyp removal
+endometrial biopsy	can be used for	hyperplasia diagnosis
+hysterectomy	can be used to	manage endometriosis symptoms
+myomectomy	can be used to	preserve fertility
+cystoscopy	can be used for	bladder stone removal
+cystoscopy	can be used for	bladder biopsy
+cystoscopy	can be used for	urethral dilation
+mammogram	can be used for	breast lump evaluation
+mammogram	can be used for	breast biopsy
+Pap smear	can be used for	HPV testing
+ultrasound	can be used for	ovarian cyst monitoring
+ultrasound	can be used for	gallbladder evaluation
+ultrasound	can be used for	abdominal aortic aneurysm screening
+ultrasound	can be used for	pregnancy confirmation
+MRI	can be used for	brain imaging
+MRI	can be used for	spinal cord imaging
+MRI	can be used for	joint evaluation
+CT scan	can be used for	lung screening
+CT scan	can be used for	kidney stone detection
+CT scan	can be used for	liver tumor evaluation

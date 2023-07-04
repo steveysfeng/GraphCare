@@ -1,0 +1,259 @@
+diagnostic procedures	can assess	eye health
+diagnostic procedures	used for	diagnosing eye conditions
+visual acuity test	is a type of	diagnostic procedure
+visual acuity test	measures	clarity of vision
+slit-lamp examination	is a type of	diagnostic procedure
+slit-lamp examination	evaluates	structures in the front of the eye
+tonometry	is a type of	diagnostic procedure
+tonometry	measures	intraocular pressure
+optical coherence tomography	is a type of	diagnostic procedure
+optical coherence tomography	creates	cross-sectional images of the eye
+fundus photography	is a type of	diagnostic procedure
+fundus photography	captures	detailed images of the back of the eye
+corneal topography	is a type of	diagnostic procedure
+corneal topography	maps	the shape and curvature of the cornea
+retinal examination	is a type of	diagnostic procedure
+retinal examination	evaluates	the back of the eye
+fluorescein angiography	is a type of	diagnostic procedure
+fluorescein angiography	visualizes	blood flow in the retina
+ultrasound biomicroscopy	is a type of	diagnostic procedure
+ultrasound biomicroscopy	examines	structures in the eye using ultrasound waves
+gonioscopy	is a type of	diagnostic procedure
+gonioscopy	evaluates	the drainage angle in the eye
+pachymetry	is a type of	diagnostic procedure
+pachymetry	measures	the thickness of the cornea
+perimetry	is a type of	diagnostic procedure
+perimetry	assesses	the visual field
+color vision test	is a type of	diagnostic procedure
+color vision test	evaluates	the ability to perceive colors
+refraction test	is a type of	diagnostic procedure
+refraction test	determines	the prescription for eyeglasses/contact lenses
+intraocular pressure measurement	is a type of	diagnostic procedure
+intraocular pressure measurement	assesses	the pressure inside the eyes
+visual field testing	is a type of	diagnostic procedure
+visual field testing	evaluates	peripheral vision
+keratometry	is a type of	diagnostic procedure
+keratometry	measures	the curvature of the cornea
+lacrimal system evaluation	is a type of	diagnostic procedure
+lacrimal system evaluation	assesses	the tear ducts
+oculomotor function testing	is a type of	diagnostic procedure
+oculomotor function testing	assesses	eye movement
+slit-lamp biomicroscopy	is a type of	diagnostic procedure
+slit-lamp biomicroscopy	examines	the anterior segment of the eye
+biometry	is a type of	diagnostic procedure
+biometry	measures	ocular dimensions
+corneal pachymetry	is a type of	diagnostic procedure
+corneal pachymetry	measures	the thickness of the cornea
+visual evoked potential test	is a type of	diagnostic procedure
+visual evoked potential test	assesses	visual pathway function
+ocular coherence tomography	is a type of	diagnostic procedure
+ocular coherence tomography	produces	detailed images of the retina
+confocal microscopy	is a type of	diagnostic procedure
+confocal microscopy	provides	high-resolution images of the cornea
+fluorescein staining	is a type of	diagnostic procedure
+fluorescein staining	identifies	corneal abnormalities
+digital retinal imaging	is a type of	diagnostic procedure
+digital retinal imaging	captures	detailed images of the retina
+visual field perimetry	is a type of	diagnostic procedure
+visual field perimetry	measures	the field of vision
+optic nerve imaging	is a type of	diagnostic procedure
+optic nerve imaging	assesses	the health of the optic nerve
+corneal endothelial cell count	is a type of	diagnostic procedure
+corneal endothelial cell count	measures	the number of cells on the cornea
+slit-lamp photography	is a type of	diagnostic procedure
+slit-lamp photography	documents	the anterior eye structures
+fundus autofluorescence	is a type of	diagnostic procedure
+fundus autofluorescence	detects	abnormalities in the retina
+ocular ultrasound	is a type of	diagnostic procedure
+ocular ultrasound	produces	images of the eye using sound waves
+tonography	is a type of	diagnostic procedure
+tonography	measures	the rate of aqueous humor production
+biomicroscopy	is a type of	diagnostic procedure
+biomicroscopy	examines	the structures of the eye
+tetracaine anesthesia	is a type of	diagnostic procedure
+tetracaine anesthesia	numbs	the eye for examination
+fluorescein dye test	is a type of	diagnostic procedure
+fluorescein dye test	identifies	corneal defects
+laser flare photometry	is a type of	diagnostic procedure
+laser flare photometry	measures	inflammation in the eye
+goniocopy	is a type of	diagnostic procedure
+goniocopy	evaluates	the drainage angle in the eye
+corneal nerve fiber density	is a type of	diagnostic procedure
+corneal nerve fiber density	assesses	nerve damage in the cornea
+a-scan biometry	is a type of	diagnostic procedure
+a-scan biometry	measures	ocular dimensions
+confocal laser scanning microscopy	is a type of	diagnostic procedure
+confocal laser scanning microscopy	provides	high-resolution images of the cornea
+retinal optical coherence tomography	is a type of	diagnostic procedure
+retinal optical coherence tomography	visualizes	the retina in detail
+spectral-domain optical coherence tomography	is a type of	diagnostic procedure
+spectral-domain optical coherence tomography	provides	cross-sectional images of the eye
+corneal topography mapping	is a type of	diagnostic procedure
+corneal topography mapping	identifies	corneal irregularities
+semiautomated kinetic perimetry	is a type of	diagnostic procedure
+semiautomated kinetic perimetry	assesses	the field of vision
+digital ocular fundus photography	is a type of	diagnostic procedure
+digital ocular fundus photography	captures	images of the retina
+scanning laser polarimetry	is a type of	diagnostic procedure
+scanning laser polarimetry	measures	nerve fiber layer thickness
+retinopathy grading	is a type of	diagnostic procedure
+retinopathy grading	assesses	the severity of retinal disease
+corneal topography assessment	is a type of	diagnostic procedure
+corneal topography assessment	evaluates	the curvature of the cornea
+conjunctival impression cytology	is a type of	diagnostic procedure
+conjunctival impression cytology	collects	cells from the conjunctiva
+corneal endothelial cell density	is a type of	diagnostic procedure
+corneal endothelial cell density	measures	the number of cells on the cornea
+air tonometry	is a type of	diagnostic procedure
+air tonometry	measures	the pressure inside the eyes
+color vision deficiency screening	is a type of	diagnostic procedure
+color vision deficiency screening	identifies	color vision abnormalities
+digital optic disc imaging	is a type of	diagnostic procedure
+digital optic disc imaging	captures	images of the optic disc
+digitalized perimetry	is a type of	diagnostic procedure
+digitalized perimetry	assesses	the visual field
+bulbar conjunctiva examination	is a type of	diagnostic procedure
+bulbar conjunctiva examination	evaluates	the conjunctival surface
+noncontact specular microscopy	is a type of	diagnostic procedure
+noncontact specular microscopy	images	corneal endothelial cells
+dry eye test	is a type of	diagnostic procedure
+dry eye test	measures	tear production
+ultrasound imaging of the eye	is a type of	diagnostic procedure
+ultrasound imaging of the eye	visualizes	structures in the eye using ultrasound waves
+dynamic contour tonometry	is a type of	diagnostic procedure
+dynamic contour tonometry	measures	intraocular pressure
+vascular endothelial growth factor measurement	is a type of	diagnostic procedure
+vascular endothelial growth factor measurement	assesses	levels of a protein involved in angiogenesis
+ocular surface staining	is a type of	diagnostic procedure
+ocular surface staining	identifies	abnormalities on the surface of the eye
+cycloplegic refraction	is a type of	diagnostic procedure
+cycloplegic refraction	determines	refractive errors
+visual acuity assessment	is a type of	diagnostic procedure
+visual acuity assessment	measures	clarity of vision
+corneal thickness measurement	is a type of	diagnostic procedure
+corneal thickness measurement	determines	the thickness of the cornea
+infrared pupillometry	is a type of	diagnostic procedure
+infrared pupillometry	measures	pupil response to light
+in vivo confocal microscopy	is a type of	diagnostic procedure
+in vivo confocal microscopy	images	corneal structures in vivo
+panfunduscopic examination	is a type of	diagnostic procedure
+panfunduscopic examination	evaluates	the entire retina
+optical quality analysis	is a type of	diagnostic procedure
+optical quality analysis	measures	the optical properties of the eye
+endothelial cell count	is a type of	diagnostic procedure
+endothelial cell count	measures	the number of cells on the cornea
+tears film break-up time	is a type of	diagnostic procedure
+tears film break-up time	evaluates	tear film stability
+corneal epithelial thickness mapping	is a type of	diagnostic procedure
+corneal epithelial thickness mapping	measures	the thickness of the cornea
+central corneal thickness measurement	is a type of	diagnostic procedure
+central corneal thickness measurement	determines	the thickness of the cornea
+binocular indirect ophthalmoscopy	is a type of	diagnostic procedure
+binocular indirect ophthalmoscopy	examines	the fundus of the eye
+ocular alignment assessment	is a type of	diagnostic procedure
+ocular alignment assessment	evaluates	eye muscle balance
+corneal wavefront analysis	is a type of	diagnostic procedure
+corneal wavefront analysis	measures	corneal aberrations
+endothelial specular microscopy	is a type of	diagnostic procedure
+endothelial specular microscopy	examines	corneal endothelial cells
+retinal angiography	is a type of	diagnostic procedure
+retinal angiography	visualizes	blood vessels in the retina
+eye pressure check	is a type of	diagnostic procedure
+eye pressure check	measures	intraocular pressure
+eyelid eversion	is a type of	diagnostic procedure
+eyelid eversion	examines	the undersurface of the eyelid
+episclera examination	is a type of	diagnostic procedure
+episclera examination	evaluates	the outer layer of the sclera
+choroidal neovascularization detection	is a type of	diagnostic procedure
+choroidal neovascularization detection	identifies	abnormal blood vessels in the choroid
+strabismus evaluation	is a type of	diagnostic procedure
+strabismus evaluation	assesses	eye misalignment
+near vision testing	is a type of	diagnostic procedure
+near vision testing	assesses	near visual acuity
+lid eversion	is a type of	diagnostic procedure
+lid eversion	examines	the inner surface of the eyelid
+tear film osmolarity measurement	is a type of	diagnostic procedure
+tear film osmolarity measurement	measures	tear film stability
+endothelial cell density measurement	is a type of	diagnostic procedure
+endothelial cell density measurement	assesses	corneal health
+indirect ophthalmoscopy	is a type of	diagnostic procedure
+indirect ophthalmoscopy	examines	the fundus of the eye
+retinal nerve fiber layer analysis	is a type of	diagnostic procedure
+retinal nerve fiber layer analysis	measures	nerve fiber thickness
+ocular surface examination	is a type of	diagnostic procedure
+ocular surface examination	evaluates	the health of the ocular surface
+fundus examination	is a type of	diagnostic procedure
+fundus examination	evaluates	the back of the eye
+fluorescent angioscopy	is a type of	diagnostic procedure
+fluorescent angioscopy	visualizes	blood flow in the retina
+endoscopic examination	is a type of	diagnostic procedure
+endoscopic examination	examines	structures in the eye
+transpalpebral tonometry	is a type of	diagnostic procedure
+transpalpebral tonometry	measures	intraocular pressure
+retinal thickness measurement	is a type of	diagnostic procedure
+retinal thickness measurement	determines	the thickness of the retina
+angiography	is a type of	diagnostic procedure
+angiography	visualizes	blood vessels in the eye
+corneal integrity assessment	is a type of	diagnostic procedure
+corneal integrity assessment	examines	the corneal surface
+eye surface staining	is a type of	diagnostic procedure
+eye surface staining	identifies	abnormalities on the surface of the eye
+eyelid inspection	is a type of	diagnostic procedure
+eyelid inspection	examines	the eyelids for abnormalities
+choroidal thickness measurement	is a type of	diagnostic procedure
+choroidal thickness measurement	determines	the thickness of the choroid
+ophthalmoscopy	is a type of	diagnostic procedure
+ophthalmoscopy	examines	the interior of the eye
+retinal imaging	is a type of	diagnostic procedure
+retinal imaging	captures	images of the retina
+optical coherence microscopy	is a type of	diagnostic procedure
+optical coherence microscopy	produces	high-resolution images of the retina
+corneal power measurement	is a type of	diagnostic procedure
+corneal power measurement	determines	the refractive power of the cornea
+eyelid retraction evaluation	is a type of	diagnostic procedure
+eyelid retraction evaluation	assesses	eyelid position
+corneal endothelial cell analysis	is a type of	diagnostic procedure
+corneal endothelial cell analysis	examines	corneal endothelial cells
+spectral domain optical coherence tomography	is a type of	diagnostic procedure
+spectral domain optical coherence tomography	produces	high-resolution images of the retina
+canaloplasty	is a type of	diagnostic procedure
+canaloplasty	examines	the drainage system of the eye
+aqueous humor flow measurement	is a type of	diagnostic procedure
+aqueous humor flow measurement	evaluates	fluid dynamics in the eye
+binocular vision assessment	is a type of	diagnostic procedure
+binocular vision assessment	evaluates	the coordinated use of both eyes
+eyelid temperature evaluation	is a type of	diagnostic procedure
+eyelid temperature evaluation	measures	temperature changes on the eyelid
+high-speed videography	is a type of	diagnostic procedure
+high-speed videography	captures	rapid eye movements
+eyelid margin evaluation	is a type of	diagnostic procedure
+eyelid margin evaluation	examines	the edges of the eyelids
+corneal deformation response measurement	is a type of	diagnostic procedure
+corneal deformation response measurement	assesses	corneal biomechanics
+fluorescein tear breakup time	is a type of	diagnostic procedure
+fluorescein tear breakup time	evaluates	tear film stability
+ophthalmic ultrasound	is a type of	diagnostic procedure
+ophthalmic ultrasound	visualizes	structures in the eye using sound waves
+eyelid dynamics assessment	is a type of	diagnostic procedure
+eyelid dynamics assessment	evaluates	eyelid function
+refraction measurement	is a type of	diagnostic procedure
+refraction measurement	determines	the prescription for corrective lenses
+seidel test	is a type of	diagnostic procedure
+seidel test	detects	leakage from the eye
+corneal esthesiometry	is a type of	diagnostic procedure
+corneal esthesiometry	measures	corneal sensitivity
+electroretinography	is a type of	diagnostic procedure
+electroretinography	assesses	retinal function
+tear breakup time measurement	is a type of	diagnostic procedure
+tear breakup time measurement	assesses	tear film stability
+lens opacity grading	is a type of	diagnostic procedure
+lens opacity grading	assesses	the degree of cataract
+anterior chamber angle measurement	is a type of	diagnostic procedure
+anterior chamber angle measurement	evaluates	the drainage angle in the eye
+spectral domain optical coherence tomography angiography	is a type of	diagnostic procedure
+spectral domain optical coherence tomography angiography	visualizes	blood vessels in the retina
+contrast sensitivity testing	is a type of	diagnostic procedure
+contrast sensitivity testing	assesses	the ability to distinguish between different shades of gray
+pupil dilation	is a type of	diagnostic procedure
+pupil dilation	expands	the size of the pupil for examination
+corneal shape analysis	is a type of	diagnostic procedure

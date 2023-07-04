@@ -1,0 +1,140 @@
+insertion	is a	medical procedure
+catheter	is a	medical device
+catheter	used for	insertion
+catheter	used for	spinal stimulator insertion
+spinal stimulator	is a	medical device
+spinal stimulator	used for	spinal canal injection
+injection	is a	medical procedure
+injection	done into	spinal canal
+injection	done during	catheter insertion
+spinal canal	is a	body part
+spinal canal	location of	injection
+spinal canal	location of	catheter insertion
+catheter insertion	can cause	complications
+spinal stimulator insertion	can cause	complications
+injection	can cause	complications
+complications	can lead to	readmission
+readmission	can increase	healthcare costs
+catheter insertion	can result in	infection
+spinal stimulator insertion	can result in	infection
+injection	can result in	infection
+complications	can lead to	mortality
+insertion	used in	pain management
+spinal stimulator	used in	pain management
+injection	used in	pain management
+pain management	can improve	quality of life
+insertion	used for	urinary catheterization
+catheter	used for	urinary catheterization
+urinary catheterization	can cause	urinary tract infection
+urinary catheterization	can cause	complications
+insertion	used for	drainage
+catheter	used for	drainage
+drainage	can prevent	fluid buildup
+insertion	used for	chemotherapy
+catheter	used for	chemotherapy
+chemotherapy	can treat	cancer
+insertion	can reduce	pain
+catheter	can reduce	pain
+spinal stimulator insertion	can reduce	pain
+insertion	used for	anesthesia administration
+catheter	used for	anesthesia administration
+anesthesia administration	can induce	unconsciousness
+insertion	used for	medication delivery
+catheter	used for	medication delivery
+medication delivery	can improve	therapeutic outcomes
+insertion	used for	blood collection
+catheter	used for	blood collection
+blood collection	used for	diagnostic testing
+insertion	used for	fluid infusion
+catheter	used for	fluid infusion
+fluid infusion	used for	hydration
+insertion	used for	dialysis
+catheter	used for	dialysis
+dialysis	used in	kidney disease treatment
+insertion	can cause	discomfort
+spinal stimulator insertion	can cause	discomfort
+insertion	can cause	nerve injury
+spinal stimulator insertion	can cause	nerve injury
+injection	can cause	nerve damage
+insertion	used for	monitoring
+catheter	used for	monitoring
+monitoring	can provide	real-time data
+insertion	can require	sedation
+catheter	can require	sedation
+spinal stimulator insertion	can require	sedation
+insertion	used for	drainage
+catheter	used for	drainage
+drainage	used in	post-operative care
+insertion	used for	nutrition delivery
+catheter	used for	nutrition delivery
+nutrition delivery	can provide	nourishment
+insertion	can lead to	complications
+insertion	can require	imaging guidance
+insertion	can require	surgical technique
+insertion	used for	pain management
+insertion	can be	temporary
+insertion	can be	permanent
+insertion	used for	local anesthetic administration
+insertion	used for	regional anesthetic administration
+insertion	used for	epidural anesthesia
+epidural anesthesia	used for	labor pain management
+insertion	used for	regional analgesia
+regional analgesia	used for	postoperative pain management
+insertion	used for	radiation therapy
+radiation therapy	used in	cancer treatment
+insertion	used for	imaging contrast injection
+imaging contrast injection	used for	imaging studies
+insertion	used for	stenting
+stenting	used in	blood vessel opening
+insertion	used for	tracheostomy
+tracheostomy	used for	airway management
+insertion	can cause	bleeding
+insertion	can require	dressing
+insertion	can require	suturing or stapling
+insertion	used for	catheterization
+catheterization	used for	urine drainage
+catheterization	used for	urine collection
+insertion	used for	intrathecal drug delivery
+intrathecal drug delivery	used for	pain management
+insertion	can result in	scarring
+insertion	can result in	tissue damage
+insertion	can result in	puncture
+insertion	can result in	hematoma
+insertion	can result in	infection
+insertion	can result in	inflammation
+insertion	can result in	nerve impingement
+insertion	can cause	nerve irritation
+insertion	can cause	device malfunction
+insertion	can cause	catheter rupture
+insertion	can cause	blockage
+insertion	can cause	dislocation
+insertion	can cause	thrombosis
+insertion	can cause	organ perforation
+insertion	can cause	fibrosis
+insertion	used for	abscess drainage
+abscess drainage	used in	infection treatment
+insertion	used for	bile drainage
+bile drainage	used in	biliary tree obstruction
+insertion	used for	pleural fluid drainage
+pleural fluid drainage	used for	pleural effusion treatment
+insertion	used for	cerebrospinal fluid drainage
+cerebrospinal fluid drainage	used for	hydrocephalus treatment
+insertion	used for	gastrointestinal decompression
+gastrointestinal decompression	used in	bowel obstruction
+insertion	used for	percutaneous nephrostomy
+percutaneous nephrostomy	used for	urinary tract obstruction
+insertion	can result in	catheter dislodgement
+insertion	can result in	barotrauma
+insertion	can result in	pneumothorax
+insertion	can result in	infection
+insertion	can result in	bleeding
+insertion	can result in	allergy
+insertion	used for	diagnostic purposes
+insertion	used for	therapeutic purposes
+insertion	used for	pain relief
+insertion	used for	intravenous medication administration
+intravenous medication administration	used for	rapid drug delivery
+insertion	used for	fluid drainage
+insertion	used for	pressure monitoring
+insertion	used for	biopsy
+biopsy	used for	tissue sampling

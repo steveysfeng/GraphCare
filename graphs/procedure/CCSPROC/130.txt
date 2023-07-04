@@ -1,0 +1,75 @@
+diagnostic procedures	can be used for	female organ evaluation
+pelvic ultrasound	is a type of	diagnostic procedure
+pelvic ultrasound	can detect	ovarian cysts
+hysteroscopy	is a type of	diagnostic procedure
+hysteroscopy	used for	uterine biopsy
+colposcopy	is a type of	diagnostic procedure
+colposcopy	used for	cervical cancer screening
+laparoscopy	is a type of	diagnostic procedure
+laparoscopy	used for	endometriosis diagnosis
+sonohysterography	is a type of	diagnostic procedure
+sonohysterography	used for	assessing uterine abnormalities
+mammography	is a type of	diagnostic procedure
+mammography	used for	breast cancer screening
+biopsy	is a type of	diagnostic procedure
+biopsy	used for	tissue sample collection
+pap smear	is a type of	diagnostic procedure
+pap smear	used for	cervical cancer screening
+transvaginal ultrasound	is a type of	diagnostic procedure
+transvaginal ultrasound	used for	evaluating the female reproductive organs
+endometrial biopsy	is a type of	diagnostic procedure
+endometrial biopsy	used for	uterine lining analysis
+DEXA scan	is a type of	diagnostic procedure
+DEXA scan	used for	bone density evaluation
+colposcopy	can detect	abnormal cervical cells
+laparoscopy	can detect	pelvic inflammatory disease
+sonohysterography	can detect	uterine polyps
+mammography	can detect	breast tumors
+biopsy	can detect	cancerous cells
+pap smear	can detect	HPV infection
+transvaginal ultrasound	can detect	ovarian cysts
+endometrial biopsy	can detect	endometrial cancer
+DEXA scan	can detect	osteoporosis
+ultrasound	is a type of	diagnostic procedure
+ultrasound	used for	examining the female reproductive organs
+hysterosalpingography	is a type of	diagnostic procedure
+hysterosalpingography	used for	fallopian tube evaluation
+colposcopy	used for	diagnosing cervical dysplasia
+laparoscopy	used for	diagnosing ectopic pregnancy
+sonohysterography	used for	diagnosing uterine fibroids
+mammography	used for	diagnosing breast abnormalities
+biopsy	used for	diagnosing cancer
+pap smear	used for	diagnosing cervical abnormalities
+transvaginal ultrasound	used for	diagnosing pelvic masses
+endometrial biopsy	used for	diagnosing endometrial hyperplasia
+DEXA scan	used for	diagnosing osteopenia
+hysterosalpingography	can detect	blocked fallopian tubes
+colposcopy	can detect	cervical cancer
+laparoscopy	can detect	ovarian cysts
+sonohysterography	can detect	uterine polyps
+mammography	can detect	breast calcifications
+biopsy	can detect	abnormal cell growth
+pap smear	can detect	cervical abnormalities
+transvaginal ultrasound	can detect	ectopic pregnancy
+endometrial biopsy	can detect	endometrial cancer
+DEXA scan	can detect	bone loss
+hysterosalpingography	is performed on	reproductive system
+colposcopy	is performed on	cervix
+laparoscopy	is performed on	abdomen and pelvis
+sonohysterography	is performed on	uterus
+mammography	is performed on	breast
+biopsy	is performed on	suspicious area
+pap smear	is performed on	cervix
+transvaginal ultrasound	is performed on	vagina and uterus
+endometrial biopsy	is performed on	uterine lining
+DEXA scan	is performed on	bones
+hysterosalpingography	helps in	evaluating fertility issues
+colposcopy	helps in	diagnosing cervical cancer
+laparoscopy	helps in	diagnosing pelvic pain
+sonohysterography	helps in	assessing uterine abnormalities
+mammography	helps in	detecting breast abnormalities
+biopsy	helps in	confirming cancer diagnosis
+pap smear	helps in	detecting cervical abnormalities
+transvaginal ultrasound	helps in	assessing ovarian health
+endometrial biopsy	helps in	diagnosing abnormal uterine bleeding
+DEXA scan	helps in	assessing bone health

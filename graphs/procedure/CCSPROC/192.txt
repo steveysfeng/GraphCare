@@ -1,0 +1,81 @@
+diagnostic ultrasound of head and neck	is a	medical procedure
+diagnostic ultrasound of head and neck	used for	diagnosis
+diagnostic ultrasound of head and neck	can detect	tumors
+diagnostic ultrasound of head and neck	can detect	abnormalities
+diagnostic ultrasound of head and neck	can evaluate	blood flow
+diagnostic ultrasound of head and neck	can assess	lymph nodes
+diagnostic ultrasound of head and neck	can identify	cysts
+diagnostic ultrasound of head and neck	can diagnose	thyroid disorders
+diagnostic ultrasound of head and neck	can detect	vascular abnormalities
+diagnostic ultrasound of head and neck	can assess	salivary glands
+diagnostic ultrasound of head and neck	can identify	infections
+diagnostic ultrasound of head and neck	can evaluate	congenital anomalies
+diagnostic ultrasound of head and neck	can detect	dental abnormalities
+diagnostic ultrasound of head and neck	can diagnose	sinus diseases
+diagnostic ultrasound of head and neck	can assess	soft tissue masses
+diagnostic ultrasound of head and neck	can identify	jaw tumors
+diagnostic ultrasound of head and neck	can detect	lymphadenopathy
+diagnostic ultrasound of head and neck	can assess	carotid arteries
+diagnostic ultrasound of head and neck	can diagnose	parotid tumors
+diagnostic ultrasound of head and neck	can evaluate	facial nerve disorders
+diagnostic ultrasound of head and neck	can detect	salivary gland stones
+diagnostic ultrasound of head and neck	can assess	tonsillitis
+diagnostic ultrasound of head and neck	can identify	tongue base tumors
+diagnostic ultrasound of head and neck	can detect	thyroid nodules
+diagnostic ultrasound of head and neck	can diagnose	parotid duct stenosis
+diagnostic ultrasound of head and neck	can evaluate	lymphatic malformations
+diagnostic ultrasound of head and neck	can detect	submandibular duct obstruction
+diagnostic ultrasound of head and neck	can assess	pharyngeal abnormalities
+diagnostic ultrasound of head and neck	can identify	neck abscesses
+diagnostic ultrasound of head and neck	can detect	brachial cysts
+diagnostic ultrasound of head and neck	can diagnose	temporomandibular joint disorders
+diagnostic ultrasound of head and neck	can evaluate	vocal cord paralysis
+diagnostic ultrasound of head and neck	can detect	submandibular gland tumors
+diagnostic ultrasound of head and neck	can assess	parotid gland enlargement
+diagnostic ultrasound of head and neck	can identify	branchial cleft cysts
+diagnostic ultrasound of head and neck	can detect	laryngeal masses
+diagnostic ultrasound of head and neck	can diagnose	sialadenitis
+diagnostic ultrasound of head and neck	can evaluate	thyroglossal duct cysts
+diagnostic ultrasound of head and neck	can detect	dermoid cysts
+diagnostic ultrasound of head and neck	can assess	goiter
+diagnostic ultrasound of head and neck	can identify	enlarged lymph nodes
+diagnostic ultrasound of head and neck	can detect	cervical lymphoma
+diagnostic ultrasound of head and neck	can diagnose	vascular malformations
+diagnostic ultrasound of head and neck	can evaluate	facial asymmetry
+diagnostic ultrasound of head and neck	can detect	thyroiditis
+diagnostic ultrasound of head and neck	can assess	hyoid bone fractures
+diagnostic ultrasound of head and neck	can identify	oral cavity masses
+diagnostic ultrasound of head and neck	can detect	nasolacrimal duct obstruction
+diagnostic ultrasound of head and neck	can diagnose	lymphatic metastasis
+diagnostic ultrasound of head and neck	can evaluate	maxillary sinusitis
+diagnostic ultrasound of head and neck	can detect	parathyroid adenomas
+diagnostic ultrasound of head and neck	can assess	cervical lymphadenopathy
+diagnostic ultrasound of head and neck	can identify	retropharyngeal abscesses
+diagnostic ultrasound of head and neck	can detect	salivary gland tumors
+diagnostic ultrasound of head and neck	can diagnose	craniofacial abnormalities
+diagnostic ultrasound of head and neck	can evaluate	temporomandibular joint disorders
+diagnostic ultrasound of head and neck	can assess	acoustic neuromas
+diagnostic ultrasound of head and neck	can identify	peritonsillar abscesses
+diagnostic ultrasound of head and neck	can detect	lipomas
+diagnostic ultrasound of head and neck	can diagnose	jaw cysts
+diagnostic ultrasound of head and neck	can evaluate	paragangliomas
+diagnostic ultrasound of head and neck	can assess	retropharyngeal masses
+diagnostic ultrasound of head and neck	can identify	cerumen impaction
+diagnostic ultrasound of head and neck	can detect	mucosal cysts
+diagnostic ultrasound of head and neck	can diagnose	vascular tumors
+diagnostic ultrasound of head and neck	can evaluate	submandibular gland infections
+diagnostic ultrasound of head and neck	can assess	oropharynx tumors
+diagnostic ultrasound of head and neck	can identify	esophageal diverticula
+diagnostic ultrasound of head and neck	can detect	parathyroid hyperplasia
+diagnostic ultrasound of head and neck	can diagnose	salivary gland tumors
+diagnostic ultrasound of head and neck	can evaluate	lipomas
+diagnostic ultrasound of head and neck	can assess	nasopharyngeal tumors
+diagnostic ultrasound of head and neck	can identify	submandibular gland infections
+diagnostic ultrasound of head and neck	can detect	epidermoid cysts
+diagnostic ultrasound of head and neck	can diagnose	tongue base carcinomas
+diagnostic ultrasound of head and neck	can evaluate	parotid gland tumors
+diagnostic ultrasound of head and neck	can assess	vallecular cysts
+diagnostic ultrasound of head and neck	can identify	sublingual gland infections
+diagnostic ultrasound of head and neck	can detect	cervical spine abnormalities
+diagnostic ultrasound of head and neck	can diagnose	parapharyngeal space masses
+diagnostic ultrasound of head and neck	can evaluate	oropharyngeal masses

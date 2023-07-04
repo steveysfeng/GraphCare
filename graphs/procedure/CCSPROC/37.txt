@@ -1,0 +1,86 @@
+bronchoscopy	is a	medical procedure
+bronchoscopy	used for	diagnosis
+biopsy	is a	medical procedure
+biopsy	used for	diagnosis
+biopsy	performed on	bronchus
+biopsy	can detect	cancer
+bronchus	can be affected by	tumors
+biopsy	necessary for	accurate diagnosis
+bronchoscopy	examination of	bronchial tubes
+bronchial tubes	can be affected by	inflammation
+biopsy	can detect	infection
+biopsy	can detect	inflammation
+bronchoscopy	helps in	treatment planning
+biopsy	can detect	lung diseases
+biopsy	aids in	prognosis
+bronchus	can be affected by	bronchitis
+biopsy	helps determine	stage of cancer
+biopsy	helps guide	treatment decisions
+bronchoscopy	used to	remove foreign bodies
+biopsy	used to	detect abnormalities
+bronchoscopy	has risks	including bleeding
+biopsy	has risks	including bleeding
+bronchoscopy	can be performed	under sedation
+biopsy	can be performed	under sedation
+biopsy	can be done	as an outpatient procedure
+bronchoscopy	can be done	as an outpatient procedure
+biopsy	can be uncomfortable	for the patient
+bronchoscopy	can be uncomfortable	for the patient
+biopsy	can be done	using a bronchoscope
+bronchoscopy	can be done	using a bronchoscope
+biopsy	can be used	for research purposes
+bronchoscopy	can be used	for research purposes
+biopsy	can be guided	by imaging techniques
+bronchoscopy	can be guided	by imaging techniques
+biopsy	can be performed	by a pulmonologist
+bronchoscopy	can be performed	by a pulmonologist
+biopsy	can be used	to diagnose lung cancer
+bronchoscopy	can be used	to diagnose lung cancer
+biopsy	can be used	to evaluate lung nodules
+bronchoscopy	can be used	to evaluate lung nodules
+biopsy	can be used	to assess response to treatment
+bronchoscopy	can be used	to assess response to treatment
+biopsy	can be used	to obtain genetic information
+bronchoscopy	can be used	to obtain genetic information
+biopsy	can be done	with local anesthesia
+bronchoscopy	can be done	with local anesthesia
+biopsy	can be done	using a forceps
+bronchoscopy	can be done	using a forceps
+biopsy	can be used	for early detection
+bronchoscopy	can be used	for early detection
+biopsy	can be used	for staging
+bronchoscopy	can be used	for staging
+biopsy	can be used	for surveillance
+bronchoscopy	can be used	for surveillance
+biopsy	can be performed	in a hospital setting
+bronchoscopy	can be performed	in a hospital setting
+biopsy	can be performed	in an outpatient clinic
+bronchoscopy	can be performed	in an outpatient clinic
+biopsy	can be used	for personalized medicine
+bronchoscopy	can be used	for personalized medicine
+biopsy	can be used	for targeted therapy
+bronchoscopy	can be used	for targeted therapy
+biopsy	can be used	to monitor treatment response
+bronchoscopy	can be used	to monitor treatment response
+biopsy	can be used	to guide radiation therapy
+bronchoscopy	can be used	to guide radiation therapy
+biopsy	can be used	to guide surgery
+bronchoscopy	can be used	to guide surgery
+biopsy	can be used	to monitor disease progression
+bronchoscopy	can be used	to monitor disease progression
+biopsy	can be performed	by trained specialists
+bronchoscopy	can be performed	by trained specialists
+biopsy	can be used	for therapeutic purposes
+bronchoscopy	can be used	for therapeutic purposes
+biopsy	can be used	to assess treatment efficacy
+bronchoscopy	can be used	to assess treatment efficacy
+biopsy	can be used	to evaluate lung function
+bronchoscopy	can be used	to evaluate lung function
+biopsy	can be used	to guide bronchoscopic interventions
+bronchoscopy	can be used	to guide bronchoscopic interventions
+biopsy	can be used	to identify biomarkers
+bronchoscopy	can be used	to identify biomarkers
+biopsy	can be used	to predict treatment response
+bronchoscopy	can be used	to predict treatment response
+biopsy	can be used	to assess disease severity
+bronchoscopy	can be used	to assess disease severity

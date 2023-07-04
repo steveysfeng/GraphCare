@@ -1,0 +1,96 @@
+enteral nutrition	is a	method
+parenteral nutrition	is a	method
+enteral nutrition	used for	feeding
+parenteral nutrition	used for	feeding
+enteral nutrition	can be given	orally
+enteral nutrition	can be administered	through a feeding tube
+parenteral nutrition	can be administered	intravenously
+enteral nutrition	is preferred over	parenteral nutrition
+enteral nutrition	provides	nutrients
+parenteral nutrition	provides	nutrients
+enteral nutrition	is used for	patients who can't eat normally
+parenteral nutrition	is used for	patients who can't eat or absorb nutrients normally
+enteral nutrition	is commonly used	in hospital settings
+parenteral nutrition	is commonly used	in hospital settings
+enteral nutrition	can be tailored	to meet individual nutritional needs
+parenteral nutrition	can be tailored	to meet individual nutritional needs
+enteral nutrition	requires	a functioning GI tract
+parenteral nutrition	doesn't require	a functioning GI tract
+enteral nutrition	carries	fewer risks compared to parenteral nutrition
+parenteral nutrition	carries	more risks compared to enteral nutrition
+enteral nutrition	may be associated with	less infections
+parenteral nutrition	may be associated with	more infections
+enteral nutrition	may result in	improved clinical outcomes
+parenteral nutrition	may result in	decreased mortality
+enteral nutrition	may be cost-effective
+parenteral nutrition	may be expensive
+enteral nutrition	requires	active digestion and absorption
+parenteral nutrition	bypasses	the digestive system
+enteral nutrition	is contraindicated	for certain conditions
+parenteral nutrition	is contraindicated	for certain conditions
+enteral nutrition	can be administered	using enteral pumps
+parenteral nutrition	can be administered	using infusion pumps
+enteral nutrition	may have	gastrointestinal side effects
+parenteral nutrition	may have	metabolic complications
+enteral nutrition	can promote	gut integrity
+parenteral nutrition	may lead to	liver dysfunction
+enteral nutrition	can be used	in long-term care settings
+parenteral nutrition	is generally used	in short-term acute care settings
+enteral nutrition	can be used	in pediatric patients
+parenteral nutrition	can be used	in adult patients
+enteral nutrition	has	different formulas
+parenteral nutrition	has	different formulations
+enteral nutrition	may require	dietitian involvement
+parenteral nutrition	requires	pharmacist involvement
+enteral nutrition	can be administered	using a nasogastric tube
+parenteral nutrition	can be administered	using a central venous catheter
+enteral nutrition	has	enteral access devices
+parenteral nutrition	has	parenteral access devices
+enteral nutrition	may lead to	better patient satisfaction
+parenteral nutrition	may lead to	decreased quality of life
+enteral nutrition	can be used	in patients with mild to moderate malnutrition
+parenteral nutrition	can be used	in patients with severe malnutrition
+enteral nutrition	may be associated with	less metabolic complications
+parenteral nutrition	may be associated with	more metabolic complications
+enteral nutrition	has lower	infusion costs compared to parenteral nutrition
+parenteral nutrition	has higher	infusion costs compared to enteral nutrition
+enteral nutrition	can improve	wound healing
+parenteral nutrition	may delay	wound healing
+enteral nutrition	requires	monitoring of tolerance and absorption
+parenteral nutrition	requires	monitoring of blood glucose and electrolytes
+enteral nutrition	may have	dietary restrictions
+parenteral nutrition	may have	fluid restrictions
+enteral nutrition	can be administered	continuously
+parenteral nutrition	can be administered	cyclically
+enteral nutrition	is a	non-surgical method
+parenteral nutrition	is a	non-surgical method
+enteral nutrition	is less	invasive than parenteral nutrition
+parenteral nutrition	is more	invasive than enteral nutrition
+enteral nutrition	may be supplemented	with oral intake
+parenteral nutrition	may be supplemented	with enteral intake
+enteral nutrition	may result in	better nutrient absorption
+parenteral nutrition	bypasses	the digestive system for nutrient absorption
+enteral nutrition	can be administered	at home
+parenteral nutrition	requires	specialized care in a healthcare facility
+enteral nutrition	has	different administration routes
+parenteral nutrition	has	different administration routes
+enteral nutrition	can be used	in patients with gastrointestinal dysfunction
+parenteral nutrition	can be used	in patients with severe gastrointestinal dysfunction
+enteral nutrition	is associated with	decreased risk of bacterial translocation
+parenteral nutrition	is associated with	increased risk of bacterial translocation
+enteral nutrition	can be started	immediately after surgery
+parenteral nutrition	may be delayed	after surgery
+enteral nutrition	may improve	muscle strength and function
+parenteral nutrition	may lead to	muscle wasting
+enteral nutrition	can be used	in patients with intact swallowing function
+parenteral nutrition	may be used	in patients with swallowing difficulties
+enteral nutrition	is affected by	the patient's gastrointestinal motility
+parenteral nutrition	is not affected by	the patient's gastrointestinal motility
+enteral nutrition	is associated with	lower healthcare costs
+parenteral nutrition	is associated with	higher healthcare costs
+enteral nutrition	is a	safe method
+parenteral nutrition	carries	potential complications
+enteral nutrition	may improve	quality of life
+parenteral nutrition	may lead to	decreased physical functioning
+enteral nutrition	may have	better long-term outcomes
+parenteral nutrition	may have	worse long-term outcomes

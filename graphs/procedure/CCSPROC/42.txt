@@ -1,0 +1,20 @@
+other procedures	used for	treatment
+other procedures	can alleviate	symptoms
+radiation therapy	is a type of	other procedures
+radiation therapy	used for	cancer treatment
+chemotherapy	is a type of	other procedures
+chemotherapy	used for	cancer treatment
+bronchoscopy	is a type of	other procedures
+bronchoscopy	used for	diagnosing lung conditions
+thoracentesis	is a type of	other procedures
+thoracentesis	used for	draining fluid from the chest
+mediastinoscopy	is a type of	other procedures
+mediastinoscopy	used for	diagnosing mediastinal diseases
+pleuroscopy	is a type of	other procedures
+pleuroscopy	used for	visualizing the pleural space
+tracheostomy	is a type of	other procedures
+tracheostomy	used for	providing an airway
+lobectomy	is a type of	other procedures
+lobectomy	used for	removing a lobe of the lung
+pneumonectomy	is a type of	other procedures
+pneumonectomy	used for	removing an entire lung

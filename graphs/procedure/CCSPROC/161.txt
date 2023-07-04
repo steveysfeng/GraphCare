@@ -1,0 +1,40 @@
+procedures	performed on	bone
+procedures	can be	therapeutic
+procedures	can be	surgical
+procedures	can be	non-surgical
+procedures	can be	orthopedic
+procedures	can be	osteopathic
+procedures	can be	chiropractic
+procedures	can be	radiologic
+procedures	can be	arthroscopic
+procedures	can be	minimally invasive
+procedures	can be	open
+procedures	can be	closed
+procedures	can be	reconstructive
+procedures	can be	corrective
+procedures	can be	restorative
+procedures	can be	regenerative
+procedures	can be	palliative
+procedures	can be	curative
+procedures	can be	preventive
+procedures	can be	diagnostic
+procedures	can be	therapeutic procedures
+therapeutic procedures	are performed on	bone
+therapeutic procedures	can be	surgical
+therapeutic procedures	can be	non-surgical
+therapeutic procedures	can be	orthopedic
+therapeutic procedures	can be	osteopathic
+therapeutic procedures	can be	chiropractic
+therapeutic procedures	can be	radiologic
+therapeutic procedures	can be	arthroscopic
+therapeutic procedures	can be	minimally invasive
+therapeutic procedures	can be	open
+therapeutic procedures	can be	closed
+therapeutic procedures	can be	reconstructive
+therapeutic procedures	can be	corrective
+therapeutic procedures	can be	restorative
+therapeutic procedures	can be	regenerative
+therapeutic procedures	can be	palliative
+therapeutic procedures	can be	curative
+therapeutic procedures	can be	preventive
+therapeutic procedures	can be	diagnostic

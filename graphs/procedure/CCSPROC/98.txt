@@ -1,0 +1,116 @@
+other non-or gastrointestinal therapeutic procedures	are	medical procedures
+other non-or gastrointestinal therapeutic procedures	used for	treatment
+non-or surgical procedures	are a type of	other non-or gastrointestinal therapeutic procedures
+non-or surgical procedures	can be performed	for cancer treatment
+gastrointestinal endoscopy	is a type of	other non-or gastrointestinal therapeutic procedures
+gastrointestinal endoscopy	used for	diagnosis
+therapeutic endoscopy	is a type of	gastrointestinal endoscopy
+therapeutic endoscopy	used for	treatment
+esophageal dilation	is a type of	therapeutic endoscopy
+esophageal dilation	used for	narrowing of the esophagus
+gastrointestinal stenting	is a type of	therapeutic endoscopy
+gastrointestinal stenting	used for	opening blocked digestive passages
+polypectomy	is a type of	therapeutic endoscopy
+polypectomy	used for	removal of polyps
+hemostasis	is a type of	therapeutic endoscopy
+hemostasis	used for	stopping bleeding
+endoscopic mucosal resection	is a type of	therapeutic endoscopy
+endoscopic mucosal resection	used for	removal of abnormal tissue
+foreign body removal	is a type of	therapeutic endoscopy
+foreign body removal	used for	extracting objects from the body
+percutaneous endoscopic gastrostomy (PEG) tube placement	is a type of	therapeutic endoscopy
+percutaneous endoscopic gastrostomy (PEG) tube placement	used for	feeding tube insertion
+endoscopic ultrasound	is a type of	therapeutic endoscopy
+endoscopic ultrasound	used for	imaging and biopsy of organs
+capsule endoscopy	is a type of	gastrointestinal endoscopy
+capsule endoscopy	used for	imaging the digestive tract
+biliary drainage	is a type of	therapeutic endoscopy
+biliary drainage	used for	relieving blockages in the bile duct
+cholecystectomy	is a type of	therapeutic endoscopy
+cholecystectomy	used for	removal of the gallbladder
+esophagectomy	is a type of	therapeutic endoscopy
+esophagectomy	used for	removal of part or all of the esophagus
+gastric bypass	is a type of	therapeutic endoscopy
+gastric bypass	used for	weight loss
+nissen fundoplication	is a type of	therapeutic endoscopy
+nissen fundoplication	used for	treating gastroesophageal reflux disease (GERD)
+duodenal switch	is a type of	therapeutic endoscopy
+duodenal switch	used for	weight loss
+transoral incisionless fundoplication (TIF)	is a type of	therapeutic endoscopy
+transoral incisionless fundoplication (TIF)	used for	treating gastroesophageal reflux disease (GERD)
+transgastric or transluminal interventions	are a type of	therapeutic endoscopy
+transgastric or transluminal interventions	used for	various procedures within the digestive system
+colorectal stenting	is a type of	therapeutic endoscopy
+colorectal stenting	used for	opening blocked passages in the colon
+hemorrhoid treatment	is a type of	therapeutic endoscopy
+hemorrhoid treatment	used for	treating hemorrhoids
+code-based esophageal procedures	are a type of	therapeutic endoscopy
+code-based esophageal procedures	used to	perform specific treatments
+endotracheal intubation	is a type of	therapeutic endoscopy
+endotracheal intubation	used for	assisting with breathing
+bronchoscopy	is a type of	therapeutic endoscopy
+bronchoscopy	used for	examining the airways
+tracheotomy	is a type of	therapeutic endoscopy
+tracheotomy	used for	creating a hole in the windpipe
+laryngoscopy	is a type of	therapeutic endoscopy
+laryngoscopy	used for	examining the voice box
+upper gastrointestinal endoscopy	is a type of	gastrointestinal endoscopy
+upper gastrointestinal endoscopy	used for	examining the upper digestive tract
+lower gastrointestinal endoscopy	is a type of	gastrointestinal endoscopy
+lower gastrointestinal endoscopy	used for	examining the lower digestive tract
+colonoscopy	is a type of	lower gastrointestinal endoscopy
+colonoscopy	used for	examining the colon
+sigmoidoscopy	is a type of	lower gastrointestinal endoscopy
+sigmoidoscopy	used for	examining the sigmoid colon and rectum
+endoscopic retrograde cholangiopancreatography (ERCP)	is a type of	gastrointestinal endoscopy
+endoscopic retrograde cholangiopancreatography (ERCP)	used for	imaging and intervention in the bile and pancreatic ducts
+endoscopic submucosal dissection (ESD)	is a type of	gastrointestinal endoscopy
+endoscopic submucosal dissection (ESD)	used for	treating early-stage gastrointestinal cancers
+endoscopic ablation	is a type of	therapeutic endoscopy
+endoscopic ablation	used for	destroying abnormal tissue
+gastrointestinal diverticula treatment	is a type of	therapeutic endoscopy
+gastrointestinal diverticula treatment	used for	treating diverticula in the digestive tract
+esophageal stenting	is a type of	therapeutic endoscopy
+esophageal stenting	used for	opening blocked passages in the esophagus
+gastrointestinal stricture treatment	is a type of	therapeutic endoscopy
+gastrointestinal stricture treatment	used for	treating narrowings in the digestive tract
+enteroscopy	is a type of	gastrointestinal endoscopy
+enteroscopy	used for	examining the small intestine
+manometry	is a type of	gastrointestinal endoscopy
+manometry	used for	measuring pressure and function in the digestive system
+biopsy	is a type of	gastrointestinal endoscopy
+biopsy	used for	collecting tissue samples for diagnosis
+balloon dilation	is a type of	therapeutic endoscopy
+balloon dilation	used for	widening narrowed passages
+foreign body extraction	is a type of	therapeutic endoscopy
+foreign body extraction	used for	removing objects from the body
+nasolaryngoscopy	is a type of	therapeutic endoscopy
+nasolaryngoscopy	used for	examining the nose and throat
+thyroidectomy	is a type of	therapeutic endoscopy
+thyroidectomy	used for	removal of the thyroid gland
+lung biopsy	is a type of	bronchoscopy
+lung biopsy	used for	collecting tissue samples from the lungs
+mediastinoscopy	is a type of	bronchoscopy
+mediastinoscopy	used for	examining the mediastinum
+thoracoscopy	is a type of	bronchoscopy
+thoracoscopy	used for	examining the chest cavity
+tracheostomy	is a type of	bronchoscopy
+tracheostomy	used for	creating a hole in the windpipe
+fine needle aspiration	is a type of	bronchoscopy
+fine needle aspiration	used for	collecting cell samples for diagnosis
+voice therapy	is used for	treating voice disorders
+throat culture	is used for	detecting infections in the throat
+swallowing study	is used for	evaluating swallowing function
+esophageal impedance testing	is used for	measuring acid and non-acid reflux
+helicobacter pylori testing	is used for	diagnosing H. pylori infection
+lung function testing	is used for	assessing lung capacity and function
+physiological monitoring	is used for	tracking vital signs and body functions during procedures
+anesthesia	is used for	numbing or sedating patients during procedures
+pain management	is used for	alleviating discomfort during procedures
+infection control	is used for	preventing the spread of infections during procedures
+patient education	is used for	providing information and instructions to patients
+patient assessment	is used for	evaluating the health status of patients before and after procedures
+patient counseling	is used for	discussing treatment options and addressing patient concerns
+follow-up care	is used for	monitoring patients' progress and providing additional treatment if necessary
+complication management	is used for	addressing and treating any complications that arise during or after procedures
+outcome evaluation	is used for	assessing the effectiveness and outcomes of procedures

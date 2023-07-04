@@ -1,0 +1,110 @@
+swan-ganz catheterization	is a	medical procedure
+swan-ganz catheterization	used for	monitoring
+swan-ganz catheter	is a type of	catheter
+swan-ganz catheter	measures	cardiac output
+swan-ganz catheter	monitors	pulmonary artery pressure
+swan-ganz catheter	helps in	fluid management
+swan-ganz catheterization	can assist in	diagnosing heart failure
+swan-ganz catheterization	aids in	assessing response to therapy
+swan-ganz catheterization	can detect	pulmonary embolism
+swan-ganz catheter	measures	central venous pressure
+swan-ganz catheterization	assists in	guiding fluid resuscitation
+swan-ganz catheterization	helps in	identifying hemodynamic instability
+swan-ganz catheterization	provides	continuous monitoring
+swan-ganz catheterization	is used in	critical care settings
+swan-ganz catheterization	allows for	sampling of blood gases
+swan-ganz catheter	can measure	mixed venous oxygen saturation
+swan-ganz catheterization	aids in	guiding pharmacotherapy
+swan-ganz catheter	can monitor	wedge pressure
+swan-ganz catheterization	is inserted into	a large vein
+swan-ganz catheter	provides	real-time data
+swan-ganz catheter	requires	sterile technique
+swan-ganz catheter	may cause	complications
+swan-ganz catheterization	requires	trained personnel
+swan-ganz catheter	can help in	optimizing fluid status
+swan-ganz catheterization	is commonly used	in intensive care units
+swan-ganz catheterization	assists in	evaluating right ventricular function
+swan-ganz catheter	can measure	pulmonary capillary wedge pressure
+swan-ganz catheterization	helps in	assessing cardiac output
+swan-ganz catheterization	can guide	vasopressor therapy
+swan-ganz catheter	provides	hemodynamic monitoring
+swan-ganz catheter	can detect	hypovolemia
+swan-ganz catheter	is inserted via	the jugular vein
+swan-ganz catheterization	enables	continuous measurement of pressures
+swan-ganz catheter	can measure	right atrial pressure
+swan-ganz catheterization	can be used	to guide fluid administration
+swan-ganz catheter	helps in	assessing volume status
+swan-ganz catheterization	assists in	guiding vasoactive medication use
+swan-ganz catheter	can monitor	right ventricular end-diastolic pressure
+swan-ganz catheterization	is a	minimally invasive procedure
+swan-ganz catheter	can detect	cardiac tamponade
+swan-ganz catheterization	helps in	managing septic shock
+swan-ganz catheter	measures	pulmonary artery wedge pressure
+swan-ganz catheter	allows for	measurement of central venous oxygen saturation
+swan-ganz catheterization	aids in	diagnosing pulmonary hypertension
+swan-ganz catheter	can help in	determining cardiac output
+swan-ganz catheterization	is performed using	fluoroscopic guidance
+swan-ganz catheter	can monitor	left ventricular end-diastolic pressure
+swan-ganz catheterization	assists in	optimizing oxygen delivery
+swan-ganz catheter	helps in	assessing pulmonary vascular resistance
+swan-ganz catheterization	can guide	mechanical ventilation strategies
+swan-ganz catheter	is inserted into	the pulmonary artery
+swan-ganz catheterization	is used to	evaluate cardiogenic shock
+swan-ganz catheter	measures	right ventricular pressure
+swan-ganz catheterization	requires	hemodynamic expertise
+swan-ganz catheter	can detect	right ventricular dysfunction
+swan-ganz catheter	can help in	managing acute respiratory distress syndrome
+swan-ganz catheterization	is useful in	patients with critical illness
+swan-ganz catheter	assists in	assessing right ventricular preload
+swan-ganz catheterization	helps in	guiding fluid therapy
+swan-ganz catheter	can measure	cardiac index
+swan-ganz catheterization	is used to	evaluate shock
+swan-ganz catheter	measures	left ventricular pressure
+swan-ganz catheter	is inserted via	the subclavian vein
+swan-ganz catheterization	is associated with	infection risk
+swan-ganz catheter	can help in	managing acute myocardial infarction
+swan-ganz catheterization	assists in	diagnosing valvular heart disease
+swan-ganz catheter	provides	continuous hemodynamic monitoring
+swan-ganz catheter	can detect	left ventricular dysfunction
+swan-ganz catheterization	is performed under	aseptic conditions
+swan-ganz catheter	can monitor	left ventricular end-systolic pressure
+swan-ganz catheterization	helps in	evaluating response to therapy
+swan-ganz catheter	is used to	assess fluid responsiveness
+swan-ganz catheterization	aids in	guiding inotropic support
+swan-ganz catheter	can measure	systemic vascular resistance
+swan-ganz catheter	is inserted via	the femoral vein
+swan-ganz catheterization	assists in	managing cardiogenic shock
+swan-ganz catheter	measures	left ventricular end-systolic pressure
+swan-ganz catheterization	is useful in	monitoring septic shock
+swan-ganz catheter	can detect	left ventricular failure
+swan-ganz catheter	can help in	managing acute kidney injury
+swan-ganz catheterization	aids in	evaluating pulmonary function
+swan-ganz catheter	provides	pulmonary artery catheterization
+swan-ganz catheter	can monitor	cardiac filling pressures
+swan-ganz catheterization	assists in	diagnosing myocardial infarction
+swan-ganz catheter	measures	right ventricular end-systolic pressure
+swan-ganz catheterization	is used to	guide vasoactive therapy
+swan-ganz catheter	helps in	evaluating left ventricular preload
+swan-ganz catheterization	helps in	guiding fluid resuscitation
+swan-ganz catheter	can measure	pulmonary vascular resistance
+swan-ganz catheter	is inserted via	the radial artery
+swan-ganz catheterization	is associated with	potential complications
+swan-ganz catheter	can help in	managing sepsis
+swan-ganz catheterization	assists in	guiding ventilator settings
+swan-ganz catheter	measures	right ventricular end-diastolic pressure
+swan-ganz catheterization	is beneficial in	guiding hemodynamic interventions
+swan-ganz catheter	can detect	right-sided heart failure
+swan-ganz catheter	can help in	managing acute respiratory failure
+swan-ganz catheterization	aids in	evaluating cardiogenic shock
+swan-ganz catheter	provides	accurate hemodynamic measurements
+swan-ganz catheter	can measure	systemic oxygen delivery
+swan-ganz catheterization	is performed under	aseptic technique
+swan-ganz catheter	can monitor	left atrial pressure
+swan-ganz catheterization	assists in	detecting septic cardiomyopathy
+swan-ganz catheter	measures	cardiac filling pressures
+swan-ganz catheter	is inserted via	the brachial vein
+swan-ganz catheterization	is commonly utilized	in cardiac intensive care units
+swan-ganz catheterization	helps in	managing circulatory shock
+swan-ganz catheter	can measure	stroke volume
+swan-ganz catheterization	is used to	assess hemodynamic stability
+swan-ganz catheter	detects	right ventricular pressure overload

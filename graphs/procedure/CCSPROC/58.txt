@@ -1,0 +1,93 @@
+hemodialysis	is a	medical procedure
+hemodialysis	used for	kidney failure
+hemodialysis	removes	waste products
+hemodialysis	filters	blood
+hemodialysis	requires	dialysis machine
+hemodialysis	is performed by	healthcare professionals
+hemodialysis	can be done	at home
+hemodialysis	can be done	in a dialysis center
+hemodialysis	is usually done	multiple times a week
+hemodialysis	requires	vascular access
+hemodialysis	can cause	complications
+hemodialysis	can lead to	infections
+hemodialysis	can cause	hypotension
+hemodialysis	can cause	muscle cramps
+hemodialysis	can cause	headache
+hemodialysis	can cause	nausea
+hemodialysis	can cause	vomiting
+hemodialysis	can cause	fluid overload
+hemodialysis	can cause	electrolyte imbalances
+hemodialysis	can cause	anemia
+hemodialysis	can affect	blood pressure
+hemodialysis	can impact	sleep
+hemodialysis	can cause	fatigue
+hemodialysis	can cause	depression
+hemodialysis	can cause	anxiety
+hemodialysis	can cause	changes in appetite
+hemodialysis	can cause	itching
+hemodialysis	can cause	peripheral neuropathy
+hemodialysis	can cause	sexual dysfunction
+hemodialysis	can affect	mental health
+hemodialysis	can affect	physical health
+hemodialysis	can affect	quality of life
+hemodialysis	can cause	medication interactions
+hemodialysis	requires	dietary restrictions
+hemodialysis	can affect	body weight
+hemodialysis	can cause	dry skin
+hemodialysis	can cause	infections at the access site
+hemodialysis	can cause	bleeding at the access site
+hemodialysis	can cause	blood clots at the access site
+hemodialysis	can cause	long-term vascular access complications
+hemodialysis	can cause	dialysis access infections
+hemodialysis	can cause	peritonitis in peritoneal dialysis
+hemodialysis	can cause	hypovolemia
+hemodialysis	can cause	hyperkalemia
+hemodialysis	can cause	hypokalemia
+hemodialysis	can cause	hypercalcemia
+hemodialysis	can cause	hypocalcemia
+hemodialysis	can cause	hyperphosphatemia
+hemodialysis	can cause	hypophosphatemia
+hemodialysis	can cause	hypermagnesemia
+hemodialysis	can cause	hypomagnesemia
+hemodialysis	can cause	hypernatremia
+hemodialysis	can cause	hyponatremia
+hemodialysis	can cause	metabolic acidosis
+hemodialysis	can cause	metabolic alkalosis
+hemodialysis	can cause	respiratory acidosis
+hemodialysis	can cause	respiratory alkalosis
+hemodialysis	can cause	high ultrafiltration rates
+hemodialysis	can cause	intradialytic hypotension
+hemodialysis	can cause	dialysis disequilibrium syndrome
+hemodialysis	can cause	dialysis amyloidosis
+hemodialysis	can cause	dialysis-related amyloidosis
+hemodialysis	can cause	dialysis-related arthropathy
+hemodialysis	can cause	restless leg syndrome
+hemodialysis	can cause	dialysis disequilibrium syndrome
+hemodialysis	can cause	dialysis dysequilibrium syndrome
+hemodialysis	can cause	dialysis encephalopathy
+hemodialysis	can cause	dialysis neuropathy
+hemodialysis	can cause	dialysis dementia
+hemodialysis	can cause	dialysis-associated ischemic stroke
+hemodialysis	can cause	dialysis-associated hemorrhagic stroke
+hemodialysis	can cause	dialysis-associated cardiovascular events
+hemodialysis	can cause	dialysis-related pericarditis
+hemodialysis	can cause	dialysis-related myocardial stunning
+hemodialysis	can cause	dialysis-related ischemic preconditioning
+hemodialysis	can cause	dialysis-related arrhythmias
+hemodialysis	can cause	dialysis-related hypoglycemia
+hemodialysis	can cause	dialysis-related hyperglycemia
+hemodialysis	can cause	dialysis-related hypothermia
+hemodialysis	can cause	dialysis-related hyperthermia
+hemodialysis	can cause	dialysis-related pulmonary edema
+hemodialysis	can cause	dialysis-related fluid overload
+hemodialysis	can cause	dialysis-related malnutrition
+hemodialysis	can cause	dialysis-related amyloid cardiac disease
+hemodialysis	can cause	dialysis-related amyloid osteoarthropathy
+hemodialysis	can cause	dialysis-related amyloid deposition in the viscera
+hemodialysis	can cause	dialysis-related amyloid-lactoferrin syndrome
+hemodialysis	can cause	dialysis-related protein energy wasting
+hemodialysis	can cause	dialysis-related mineral bone disease
+hemodialysis	can cause	dialysis-related cardiovascular disease
+hemodialysis	can cause	dialysis-related hypertension
+hemodialysis	can cause	dialysis-related hypotension
+hemodialysis	can cause	dialysis-related gastrointestinal symptoms

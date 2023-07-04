@@ -1,0 +1,75 @@
+procedures on nose	is a	medical procedure
+procedures on mouth	is a	medical procedure
+procedures on pharynx	is a	medical procedure
+procedures on nose	used for	diagnosis
+procedures on mouth	used for	diagnosis
+procedures on pharynx	used for	diagnosis
+procedures on nose	can treat	nasal congestion
+procedures on mouth	can treat	dental problems
+procedures on pharynx	can treat	throat infections
+procedures on nose	can detect	sinusitis
+procedures on mouth	can detect	oral cancer
+procedures on pharynx	can detect	tonsillitis
+procedures on nose	can cause	bleeding
+procedures on mouth	can cause	infection
+procedures on pharynx	can cause	swelling
+procedures on nose	can lead to	improved breathing
+procedures on mouth	can lead to	improved oral health
+procedures on pharynx	can lead to	reduced pain
+procedures on nose	can prevent	recurrent sinus infections
+procedures on mouth	can prevent	tooth decay
+procedures on pharynx	can prevent	chronic tonsillitis
+procedures on nose	should be done by	an otolaryngologist
+procedures on mouth	should be done by	a dentist
+procedures on pharynx	should be done by	an otolaryngologist
+procedures on nose	can be performed under	local anesthesia
+procedures on mouth	can be performed under	general anesthesia
+procedures on pharynx	can be performed under	sedation
+procedures on nose	have	minimal risks
+procedures on mouth	have	potential complications
+procedures on pharynx	have	rare side effects
+procedures on nose	can be	outpatient
+procedures on mouth	can be	inpatient
+procedures on pharynx	can be	ambulatory
+nose procedures	require	nasal packing
+mouth procedures	require	post-operative care
+pharynx procedures	require	throat exercises
+nose procedures	may	cause temporary discomfort
+mouth procedures	may	require diet modification
+pharynx procedures	may	cause temporary voice changes
+nose procedures	require	follow-up visits
+mouth procedures	require	dental check-ups
+pharynx procedures	require	post-operative check-ups
+nose procedures	can	improve sinus drainage
+mouth procedures	can	improve speech
+pharynx procedures	can	improve swallowing
+nose procedures	can	alleviate facial pain
+mouth procedures	can	treat TMJ disorders
+pharynx procedures	can	reduce snoring
+nose procedures	can	enhance facial aesthetics
+mouth procedures	can	improve dental alignment
+pharynx procedures	can	reduce sleep apnea
+nose procedures	can	correct deviated septum
+mouth procedures	can	remove impacted wisdom teeth
+pharynx procedures	can	remove tonsils and adenoids
+nose procedures	can	repair nasal fractures
+mouth procedures	can	treat gum disease
+pharynx procedures	can	repair voice nodules
+nose procedures	can	address nasal polyps
+mouth procedures	can	perform root canal therapy
+pharynx procedures	can	remove foreign bodies
+nose procedures	can	perform turbinate reduction
+mouth procedures	can	place dental implants
+pharynx procedures	can	perform laryngoscopy
+nose procedures	can	perform septoplasty
+mouth procedures	can	perform fillings
+pharynx procedures	can	perform tonsillectomy
+nose procedures	can	perform rhinoplasty
+mouth procedures	can	perform tooth extractions
+pharynx procedures	can	perform uvulopalatopharyngoplasty
+nose procedures	can	perform sinus surgery
+mouth procedures	can	perform orthognathic surgery
+pharynx procedures	can	perform vocal cord surgery
+nose procedures	can	perform balloon sinuplasty
+mouth procedures	can	perform crown placement
+pharynx procedures	can	perform tracheostomy
