@@ -1,0 +1,135 @@
+leukemias	are	blood cancers
+acute myeloid leukemia	is a type of	leukemia
+chronic lymphocytic leukemia	is a type of	leukemia
+leukemia	can cause	fatigue
+chemotherapy	is used to	treat leukemias
+imatinib	is a	targeted therapy
+leukemia	can result in	anemia
+bone marrow transplant	is a	treatment for leukemias
+leukemia	can lead to	decreased white blood cells
+acute lymphoblastic leukemia	is a type of	leukemia
+leukemia	can cause	bruising or bleeding
+leukemic cells	can infiltrate	the central nervous system
+leukemia	can result in	decreased platelets
+leukemia	can cause	bone pain
+leukemia	can lead to	weight loss
+radiation therapy	is sometimes used in	leukemia treatment
+leukemia	can cause	fever
+leukemia	can result in	lymphadenopathy
+leukemia	can cause	hepatosplenomegaly
+infection	is a common	complication of leukemia
+leukemia	can lead to	headache
+petechiae	can be a	sign of leukemia
+leukemia	can cause	night sweats
+leukemia	can result in	reoccurring infections
+leukemia	can cause	chest pain
+leukemia	can lead to	pale skin
+leukemia	can cause	shortness of breath
+leukemic cells	can infiltrate	the skin
+leukemia	can result in	easy bleeding
+leukemia	can cause	swollen lymph nodes
+leukemia	can lead to	frequent nosebleeds
+vincristine	is a	chemotherapy drug
+leukemia	can cause	dizziness
+leukemia	can result in	muscle weakness
+leukemia	can cause	abdominal pain
+leukemia	can lead to	night blindness
+leukemia	can cause	vomiting
+busulfan	is a	chemotherapy drug
+leukemia	can result in	joint pain
+leukemia	can cause	mouth ulcers
+leukemia	can lead to	blurred vision
+leukemia	can cause	diarrhea
+leukemia	can result in	hearing loss
+leukemia	can cause	constipation
+leukemia	can lead to	swollen gums
+hydroxyurea	is a	chemotherapy drug
+leukemia	can cause	skin rashes
+leukemia	can result in	swollen spleen
+cancer	can spread to	other organs
+leukemia	can cause	swollen liver
+leukemia	can lead to	abdominal swelling
+cytarabine	is a	chemotherapy drug
+leukemia	can cause	chest tightness
+leukemia	can result in	enlarged tonsils
+leukemia	can cause	hair loss
+leukemia	can lead to	persistent cough
+leukemia	can cause	mouth sores
+leukemia	can result in	weight loss
+leukemia	can cause	frequent infections
+leukemia	can lead to	loss of appetite
+leukemia	can cause	elevated temperature
+leukemia	can result in	night sweats
+leukemia	can cause	chills
+leukemia	can lead to	enlarged lymph nodes
+idarubicin	is a	chemotherapy drug
+leukemia	can cause	fatigue
+leukemia	can result in	decreased red blood cells
+leukemia	can lead to	easy bruising
+leukemia	can cause	swollen joints
+leukemia	can result in	headache
+leukemia	can cause	enlarged liver
+leukemia	can lead to	shortness of breath
+leukemia	can cause	swollen spleen
+anthracycline	is a	class of chemotherapy drugs
+leukemia	can result in	frequent infections
+leukemia	can cause	bone pain
+leukemia	can lead to	weight loss
+leukemia	can cause	nosebleeds
+leukemia	can result in	fever
+leukemia	can cause	pale skin
+leukemia	can lead to	fatigue
+leukemia	can cause	night sweats
+leukemia	can result in	swollen lymph nodes
+leukemia	can cause	abdominal pain
+leukemia	can lead to	decreased appetite
+leukemia	can cause	chest pain
+leukemia	can result in	dizziness
+leukemia	can cause	shortness of breath
+leukemia	can lead to	headaches
+leukemia	can cause	swollen gums
+leukemia	can result in	joint pain
+leukemia	can cause	mouth ulcers
+leukemia	can lead to	blurry vision
+leukemia	can cause	diarrhea
+leukemia	can result in	hearing problems
+leukemia	can cause	constipation
+leukemia	can lead to	frequent infections
+leukemia	can cause	swollen tonsils
+leukemia	can result in	skin rashes
+leukemia	can cause	swollen spleen
+leukemia	can lead to	abdominal swelling
+leukemia	can cause	chest tightness
+leukemia	can result in	enlarged liver
+leukemia	can lead to	hair loss
+leukemia	can cause	mouth sores
+leukemia	can result in	weight loss
+leukemia	can cause	frequent infections
+leukemia	can lead to	loss of appetite
+leukemia	can cause	fever
+leukemia	can result in	night sweats
+leukemia	can cause	chills
+leukemia	can lead to	enlarged lymph nodes
+leukemia	can cause	fatigue
+leukemia	can result in	decreased red blood cells
+leukemia	can lead to	easy bruising
+leukemia	can cause	swollen joints
+leukemia	can result in	headache
+leukemia	can cause	enlarged liver
+leukemia	can lead to	shortness of breath
+leukemia	can cause	swollen spleen
+leukemia	can result in	chest pain
+leukemia	can lead to	weight loss
+leukemia	can cause	nosebleeds
+leukemia	can result in	fever
+leukemia	can cause	pale skin
+leukemia	can lead to	fatigue
+leukemia	can cause	night sweats
+leukemia	can result in	swollen lymph nodes
+leukemia	can cause	abdominal pain
+leukemia	can lead to	decreased appetite
+leukemia	can cause	chest pain
+leukemia	can result in	dizziness
+leukemia	can cause	shortness of breath
+leukemia	can lead to	headaches
+leukemia	can cause	swollen gums

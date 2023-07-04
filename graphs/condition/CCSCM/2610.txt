@@ -1,0 +1,100 @@
+e codes	is a	classification system
+transport	is a	type of e code
+not mvt	is a	subtype of e code
+not mvt	is related to	restrictions
+transport	is related to	movement
+movement	is related to	physical activity
+physical activity	is important for	overall health
+restrictions	may affect	physical activity
+not mvt	is related to	transportation needs
+transport	is related to	transportation options
+transport	is important for	accessibility
+transportation options	can impact	independence
+not mvt	can affect	independence
+restrictions	can impact	independence
+transport	is related to	coordination
+coordinated transportation	can facilitate	medical appointments
+transport	is important for	healthcare access
+not mvt	is a	limitation
+restrictions	can cause	limitations
+limited transportation	can result in	missed appointments
+missed appointments	can impact	healthcare outcomes
+transport	is related to	safety
+not mvt	can affect	safety
+restrictions	can impact	safety
+transportation options	can promote	safety
+transport	is important for	emergency access
+not mvt	is a	barrier
+transportation barriers	can hinder	emergency access
+restrictions	can hinder	emergency access
+transportation options	can impact	well-being
+not mvt	can affect	well-being
+restrictions	can impact	well-being
+transport	is related to	social interaction
+not mvt	can affect	social interaction
+restrictions	can impact	social interaction
+transportation options	can enhance	social interaction
+transport	is related to	mental health
+not mvt	can affect	mental health
+restrictions	can impact	mental health
+transportation options	can support	mental health
+transport	is important for	daily activities
+not mvt	is related to	personal care
+restrictions	can impact	personal care
+transportation options	can support	personal care
+transport	is important for	employment
+not mvt	is related to	work
+restrictions	can impact	employment
+transportation options	can facilitate	employment
+transport	is related to	education
+not mvt	is related to	school
+restrictions	can impact	education
+transportation options	can support	education
+not mvt	is a	challenge
+restrictions	can present	challenges
+transportation challenges	can be addressed with	assistance
+transport	is related to	access to resources
+not mvt	is a	barrier
+transportation barriers	can hinder	access to resources
+restrictions	can hinder	access to resources
+transportation options	can improve	access to resources
+transport	is important for	community integration
+not mvt	is related to	social engagement
+restrictions	can impact	social engagement
+transportation options	can promote	social engagement
+transport	is related to	quality of life
+not mvt	can impact	quality of life
+restrictions	can impact	quality of life
+transportation options	can enhance	quality of life
+not mvt	is related to	personal freedom
+restrictions	can limit	personal freedom
+transportation options	can support	personal freedom
+not mvt	is a	barrier to healthcare
+restrictions	can create	barriers to healthcare
+transportation	is necessary for	healthcare access
+transport	is related to	healthcare outcomes
+not mvt	can impact	healthcare outcomes
+restrictions	can impact	healthcare outcomes
+transportation options	can improve	healthcare outcomes
+transportation options	can provide	independence
+transportation options	can offer	safety
+transportation options	can enhance	well-being
+transportation options	can promote	social interaction
+transportation options	can support	mental health
+transportation options	can facilitate	employment
+transportation options	can support	education
+transportation options	can improve	access to resources
+transportation options	can enhance	community integration
+transportation options	can enhance	quality of life
+transportation options	can provide	personal freedom
+transportation constraints	can limit	healthcare access
+transportation restrictions	can impact	healthcare outcomes
+transportation limitations	can impact	well-being
+transportation barriers	can hinder	social interaction
+transportation challenges	can affect	mental health
+transportation barriers	can impact	employment
+transportation challenges	can impact	education
+transportation barriers	can hinder	access to resources
+transportation restrictions	can limit	community integration
+transportation limitations	can impact	quality of life
+transportation barriers	can limit	personal freedom

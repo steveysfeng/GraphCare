@@ -1,0 +1,84 @@
+cancer of other urinary organs	is a	malignant condition
+cancer of other urinary organs	can cause	hematuria
+urothelial carcinoma	is a type of	cancer of other urinary organs
+cancer of other urinary organs	is diagnosed by	biopsy
+cancer of other urinary organs	can spread to	lymph nodes
+lymphadenectomy	is a surgical procedure to remove	lymph nodes
+cancer of other urinary organs	is treated with	surgery
+radical cystectomy	is a type of	surgery
+chemotherapy	is a	treatment for cancer of other urinary organs
+cisplatin	is a	chemotherapy drug
+cancer of other urinary organs	can recur after	treatment
+prognosis	predicts	cancer of other urinary organs outcomes
+cancer of other urinary organs	has a higher incidence in	smokers
+metastasis	indicates	advanced cancer of other urinary organs
+urothelial carcinoma	can present with	urinary frequency
+bladder preservation	is a treatment option for	cancer of other urinary organs
+cancer of other urinary organs	has a poor	survival rate
+urothelial carcinoma	is more common in	older adults
+urothelial carcinoma	is more common in	males
+cancer of other urinary organs	is associated with	exposure to industrial chemicals
+cancer of other urinary organs	can cause	obstruction in the urinary tract
+hydronephrosis	is a potential complication of	cancer of other urinary organs
+cancer of other urinary organs	is linked to	genetic mutations
+cancer of other urinary organs	can be detected through	imaging tests
+cancer of other urinary organs	is staged using	TNM system
+cancer of other urinary organs	can lead to	renal failure
+cancer of other urinary organs	is more common in	Caucasians
+neoadjuvant chemotherapy	is given before	surgery for cancer of other urinary organs
+bladder replacement	is an option for	urinary diversion after cystectomy
+cancer of other urinary organs	is associated with	occupational exposure
+cancer of other urinary organs	can metastasize to	distant organs
+cancer of other urinary organs	has a higher risk in	people with a family history of the disease
+cancer of other urinary organs	is more common in	individuals with a history of bladder cancer
+cancer of other urinary organs	can cause	weight loss
+cancer of other urinary organs	is classified into	stages
+cancer of other urinary organs	is treated with	radiation therapy
+radiation therapy	uses	high-energy rays to kill cancer cells
+cancer of other urinary organs	can present with	abdominal pain
+cancer of other urinary organs	can cause	urinary incontinence
+urine cytology	is used to detect	cancer of other urinary organs
+cancer of other urinary organs	is associated with	smoking
+cancer of other urinary organs	can affect the	bladder
+cancer of other urinary organs	is associated with	exposure to arsenic
+cancer of other urinary organs	can cause	fatigue
+carcinoma in situ	is a	precancerous condition of the urinary tract
+cancer of other urinary organs	is linked to	long-term use of cyclophosphamide
+cancer of other urinary organs	can present with	back pain
+cancer of other urinary organs	is more common in	individuals with a history of kidney stones
+cancer of other urinary organs	is less common than	bladder cancer
+cancer of other urinary organs	can present with	bone pain
+ureteroscopy	is a diagnostic procedure for	cancer of other urinary organs
+cancer of other urinary organs	can cause	anemia
+chemoradiation	is a	combination therapy for cancer of other urinary organs
+cancer of other urinary organs	can present with	urinary urgency
+cancer of other urinary organs	has a better prognosis when	detected at an early stage
+cancer of other urinary organs	is more common in	individuals with a history of prostate cancer
+cancer of other urinary organs	can cause	flank pain
+cancer of other urinary organs	is less common in	individuals with a history of urinary tract infections
+cancer of other urinary organs	can present with	palpable mass in the abdomen
+cancer of other urinary organs	is staged using	imaging and pathological findings
+cancer of other urinary organs	can cause	dysuria
+cancer of other urinary organs	is associated with	chronic bladder infections
+cancer of other urinary organs	has a lower incidence in	non-smokers
+cancer of other urinary organs	can present with	lower back pain
+cancer of other urinary organs	is associated with	exposure to aromatic amines
+cancer of other urinary organs	can cause	weight gain
+cancer of other urinary organs	is more common in	individuals with a history of radiation therapy
+cancer of other urinary organs	can present with	nocturia
+cancer of other urinary organs	is linked to	long-term use of phenacetin
+cancer of other urinary organs	can cause	constipation
+cancer of other urinary organs	has a better prognosis in	younger patients
+cancer of other urinary organs	is less common in	individuals with a history of bladder stones
+cancer of other urinary organs	can present with	urinary retention
+cancer of other urinary organs	is associated with	exposure to Balkan endemic nephropathy
+cancer of other urinary organs	can cause	abdominal distension
+cancer of other urinary organs	is more common in	individuals with a history of chemotherapy
+cancer of other urinary organs	is less common in	individuals with a history of urinary catheterization
+cancer of other urinary organs	can present with	hematospermia
+cancer of other urinary organs	has a higher incidence in	individuals with a history of bladder diverticulum
+cancer of other urinary organs	can cause	diarrhea
+cancer of other urinary organs	is more common in	individuals with a history of chronic kidney disease
+cancer of other urinary organs	is less common in	individuals with a history of urinary incontinence
+cancer of other urinary organs	can present with	mucosuria
+cancer of other urinary organs	is associated with	exposure to aniline dyes

@@ -1,0 +1,101 @@
+shock	is a	medical emergency
+shock	can result in	organ failure
+hypovolemic shock	is caused by	severe blood loss
+septic shock	is caused by	severe infection
+cardiogenic shock	is caused by	heart failure
+shock	is treated with	fluid resuscitation
+epinephrine	is administered in	shock
+shock	can lead to	death
+shock	is characterized by	low blood pressure
+septic shock	is associated with	sepsis
+distributive shock	is caused by	blood vessel dilation
+cardiogenic shock	is characterized by	decreased cardiac output
+shock	can result in	tissue damage
+shock	is classified into	different types
+anaphylactic shock	is caused by	severe allergic reaction
+shock	can lead to	multiple organ dysfunction syndrome
+septic shock	can lead to	septicemia
+hypovolemic shock	is characterized by	decreased blood volume
+septic shock	is treated with	antibiotics
+anaphylactic shock	is treated with	epinephrine
+shock	may require	intensive care
+shock	can be caused by	traumatic injury
+septic shock	is associated with	systemic inflammatory response syndrome
+shock	is a life-threatening	condition
+shock	is often accompanied by	rapid heart rate
+shock	can lead to	respiratory failure
+shock	is often accompanied by	altered mental status
+shock	can lead to	organ dysfunction
+shock	requires	immediate medical attention
+shock	is characterized by	poor tissue perfusion
+septic shock	is caused by	bacterial infection
+obstructive shock	is caused by	blockage of blood flow
+cardiogenic shock	is treated with	inotropic agents
+shock	is associated with	hypoxia
+shock	is associated with	metabolic acidosis
+shock	is associated with	coagulopathy
+septic shock	is associated with	vasodilation
+shock	is associated with	increased capillary permeability
+shock	can result in	multi-organ failure
+shock	can cause	lactic acidosis
+shock	is associated with	systemic inflammatory response
+shock	can lead to	disseminated intravascular coagulation
+shock	can lead to	acute respiratory distress syndrome
+shock	can lead to	cardiac arrhythmias
+shock	is associated with	poor prognosis
+septic shock	is associated with	endotoxins
+shock	can cause	hypotension
+shock	can cause	hypoperfusion
+shock	can cause	hypoxemia
+shock	can cause	oliguria
+shock	can cause	tachycardia
+shock	can cause	hypothermia
+shock	is associated with	immune dysfunction
+septic shock	is associated with	systemic inflammatory response syndrome
+shock	is associated with	renal dysfunction
+shock	is associated with	hepatic dysfunction
+shock	can result in	multiple organ failure
+shock	is associated with	decreased urine output
+shock	can cause	cardiopulmonary arrest
+shock	is associated with	electrolyte imbalances
+shock	can cause	cerebral ischemia
+shock	can cause	acute kidney injury
+shock	can cause	disseminated intravascular coagulation
+shock	can cause	acute myocardial infarction
+shock	can cause	acute liver failure
+shock	can cause	acute respiratory failure
+shock	can cause	acute encephalopathy
+shock	is associated with	microcirculatory dysfunction
+shock	can result in	systemic organ dysfunction
+shock	is associated with	endothelial damage
+shock	is associated with	mitochondrial dysfunction
+shock	can cause	intestinal ischemia
+shock	is associated with	inflammation
+shock	can cause	acute lung injury
+shock	can result in	cerebral hypoperfusion
+shock	can cause	acute heart failure
+shock	can lead to	septic shock
+shock	can cause	reflex bradycardia
+shock	can cause	acute respiratory distress syndrome
+shock	can lead to	disseminated intravascular coagulation
+shock	can cause	acute renal failure
+shock	is associated with	thrombocytopenia
+shock	can cause	systemic inflammatory response syndrome
+shock	is characterized by	oxygen supply-demand mismatch
+shock	can cause	acute respiratory distress
+shock	can lead to	multiple organ dysfunction
+shock	is accompanied by	poor tissue oxygenation
+shock	can cause	myocardial depression
+shock	can cause	acute pancreatitis
+shock	can result in	systemic inflammatory response syndrome
+shock	can lead to	ischemic injury
+shock	can result in	tissue hypoxia
+shock	can result in	cellular apoptosis
+shock	can cause	acute adrenal insufficiency
+shock	is associated with	microvascular thrombosis
+shock	can result in	endothelial dysfunction
+shock	can cause	acute lung injury
+shock	can result in	metabolic acidosis
+shock	can cause	acute kidney injury
+shock	is associated with	excessive inflammation
+shock	can result in	cardiac arrest

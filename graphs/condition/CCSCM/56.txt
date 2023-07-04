@@ -1,0 +1,72 @@
+cystic fibrosis	is a	genetic disorder
+cystic fibrosis	affects	the lungs
+cystic fibrosis	affects	the digestive system
+cystic fibrosis	is caused by	mutations in the CFTR gene
+CFTR gene	produces	CFTR protein
+CFTR protein	regulates	the movement of salt and fluids in and out of cells
+cystic fibrosis	results in	thick	sticky mucus production
+thick	sticky mucus	obstructs	airways
+thick	sticky mucus	obstructs	the pancreatic ducts
+cystic fibrosis	leads to	lung infections
+cystic fibrosis	leads to	digestive problems
+cystic fibrosis	increases the risk of	malnutrition
+cystic fibrosis	increases the risk of	diabetes
+cystic fibrosis	increases the risk of	liver disease
+cystic fibrosis	increases the risk of	osteoporosis
+cystic fibrosis	increases the risk of	infertility
+cystic fibrosis	requires	lifelong treatment
+treatments for cystic fibrosis	include	airway clearance techniques
+treatments for cystic fibrosis	include	medications to thin mucus
+treatments for cystic fibrosis	include	pancreatic enzyme supplements
+treatments for cystic fibrosis	include	antibiotics to treat lung infections
+treatments for cystic fibrosis	include	insulin for diabetes management
+treatments for cystic fibrosis	include	vitamin D and calcium supplements for osteoporosis prevention
+cystic fibrosis	may require	lung transplant
+cystic fibrosis	may require	liver transplant
+cystic fibrosis	may require	pancreas transplant
+cystic fibrosis	can be managed	with personalized treatment plans
+cystic fibrosis	is a chronic	life-limiting condition
+cystic fibrosis	has a variable	disease progression
+cystic fibrosis	has a	shortened lifespan
+early diagnosis	improves	outcomes for cystic fibrosis patients
+genetic testing	can confirm	cystic fibrosis diagnosis
+cystic fibrosis carriers	have a	50% chance of passing on the gene mutation
+cystic fibrosis	may present with	respiratory symptoms in infancy
+cystic fibrosis	may present with	failure to thrive in infancy
+cystic fibrosis	may present with	recurrent lung infections
+cystic fibrosis	may present with	malabsorption and poor weight gain
+cystic fibrosis	may present with	salty-tasting skin
+cystic fibrosis	is a	progressive disease
+cystic fibrosis	requires	regular monitoring
+cystic fibrosis	may lead to	respiratory failure
+cystic fibrosis	may lead to	end-stage lung disease
+cystic fibrosis	may lead to	liver cirrhosis
+cystic fibrosis	may lead to	pancreatic insufficiency
+cystic fibrosis	may lead to	infertility in males
+cystic fibrosis	increases the risk of	respiratory exacerbations
+cystic fibrosis	increases the risk of	lung function decline
+cystic fibrosis	increases the risk of	hospital admissions
+cystic fibrosis	increases the risk of	lung transplant complications
+cystic fibrosis	increases the risk of	liver transplant complications
+cystic fibrosis	increases the risk of	post-transplant infections
+cystic fibrosis	is associated with	CF-related diabetes
+cystic fibrosis	is associated with	CF-related liver disease
+cystic fibrosis	is associated with	CF-related bone disease
+cystic fibrosis	is associated with	CF-related arthritis
+cystic fibrosis	is associated with	CF-related asthma
+cystic fibrosis	is associated with	CF-related sinusitis
+cystic fibrosis	is associated with	CF-related nasal polyps
+cystic fibrosis	is associated with	CF-related infertility
+cystic fibrosis	is a risk factor for	Pseudomonas aeruginosa infection
+cystic fibrosis	is a risk factor for	methicillin-resistant Staphylococcus aureus (MRSA) infection
+cystic fibrosis	is a risk factor for	Burkholderia cepacia complex (Bcc) infection
+lung transplantation	improves	survival in cystic fibrosis patients
+lung transplantation	is associated with	complications and risks
+lung transplantation	requires	lifelong immunosuppression
+lung transplantation	may develop	chronic rejection
+pancreatic insufficiency	requires	enzyme replacement therapy
+enzyme replacement therapy	improves	digestion and nutrient absorption
+exocrine pancreatic insufficiency	may require	higher doses of pancreatic enzyme supplements
+cystic fibrosis	is one of	the most common inherited life-threatening disorders
+cystic fibrosis	has a	wide spectrum of clinical manifestations
+cystic fibrosis	can be	managed with multidisciplinary care

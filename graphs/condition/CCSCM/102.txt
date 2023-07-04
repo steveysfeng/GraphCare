@@ -1,0 +1,147 @@
+nonspecific chest pain	is a	symptom
+nonspecific chest pain	can be caused by	anxiety
+nonspecific chest pain	can be a sign of	heart disease
+nonspecific chest pain	may require	further testing
+exercise stress test	is a test for	heart disease
+nonspecific chest pain	should be evaluated by	a healthcare provider
+nonspecific chest pain	is often relieved by	rest
+nonspecific chest pain	can be managed with	pain medication
+aspirin	is a	pain medication
+nonspecific chest pain	can be a sign of	gastroesophageal reflux disease
+proton pump inhibitors	are used for	gastroesophageal reflux disease
+nonspecific chest pain	may require	hospitalization
+nonspecific chest pain	can lead to	complications
+nonspecific chest pain	should not be ignored
+nonspecific chest pain	can be a symptom of	lung disease
+chest x-ray	is a test for	lung disease
+nonspecific chest pain	can be a symptom of	musculoskeletal problems
+nonspecific chest pain	can be a symptom of	panic attacks
+nonspecific chest pain	is a	common complaint
+nonspecific chest pain	can be caused by	inflammation
+nonsteroidal anti-inflammatory drugs	can help with	inflammation
+nonspecific chest pain	can be a symptom of	pneumonia
+nonspecific chest pain	can be a symptom of	pleurisy
+nonspecific chest pain	can be a symptom of	costochondritis
+nonspecific chest pain	can be a symptom of	pericarditis
+nonspecific chest pain	can be a symptom of	pulmonary embolism
+nonspecific chest pain	can be a symptom of	angina
+nonspecific chest pain	should be differentiated from	cardiac chest pain
+nitrates	can help with	cardiac chest pain
+nonspecific chest pain	can be a symptom of	esophageal spasm
+nonspecific chest pain	can be a symptom of	musculoskeletal strain
+nonspecific chest pain	can be a symptom of	gallbladder problems
+nonspecific chest pain	can be a symptom of	pancreatitis
+nonspecific chest pain	can be a symptom of	anxiety disorder
+nonspecific chest pain	can be a symptom of	depression
+nonspecific chest pain	can be a symptom of	stress
+nonspecific chest pain	can be a symptom of	hiatal hernia
+nonspecific chest pain	can be a symptom of	aortic dissection
+nonspecific chest pain	can be a symptom of	pericardial effusion
+nonspecific chest pain	can be a symptom of	myocarditis
+nonspecific chest pain	can be a symptom of	coronary artery disease
+nonspecific chest pain	can be a symptom of	gastroenteritis
+nonspecific chest pain	can be a symptom of	intercostal neuralgia
+nonspecific chest pain	can be a symptom of	thoracic outlet syndrome
+nonspecific chest pain	can be a symptom of	shingles
+nonspecific chest pain	can be a symptom of	fibromyalgia
+nonspecific chest pain	can be a symptom of	gastritis
+nonspecific chest pain	can be a symptom of	esophagitis
+nonspecific chest pain	can be a symptom of	cholecystitis
+nonspecific chest pain	can be a symptom of	peritonitis
+nonspecific chest pain	can be a symptom of	anxiety attack
+nonspecific chest pain	can be a symptom of	panic disorder
+nonspecific chest pain	can be a symptom of	myocardial infarction
+nonspecific chest pain	can be a symptom of	aortic aneurysm
+nonspecific chest pain	can be a symptom of	pneumothorax
+nonspecific chest pain	can be a symptom of	bronchitis
+nonspecific chest pain	can be a symptom of	emphysema
+nonspecific chest pain	can be a symptom of	lung cancer
+nonspecific chest pain	can be a symptom of	rib fracture
+nonspecific chest pain	can be a symptom of	pleural effusion
+nonspecific chest pain	can be a symptom of	pericarditis
+nonspecific chest pain	can be a symptom of	myocarditis
+nonspecific chest pain	can be a symptom of	cardiac tamponade
+nonspecific chest pain	can be a symptom of	mitral valve prolapse
+nonspecific chest pain	can be a symptom of	aortic valve stenosis
+nonspecific chest pain	can be a symptom of	heart failure
+nonspecific chest pain	can be a symptom of	arrhythmia
+nonspecific chest pain	can be a symptom of	pulmonary hypertension
+nonspecific chest pain	can be a symptom of	pericardial disease
+nonspecific chest pain	can be a symptom of	myocardial ischemia
+nonspecific chest pain	can be a symptom of	gastroesophageal motility disorder
+nonspecific chest pain	can be a symptom of	esophageal rupture
+nonspecific chest pain	can be a symptom of	esophageal cancer
+nonspecific chest pain	can be a symptom of	gastritis
+nonspecific chest pain	can be a symptom of	peptic ulcer disease
+nonspecific chest pain	can be a symptom of	esophageal spasm
+nonspecific chest pain	can be a symptom of	cholecystitis
+nonspecific chest pain	can be a symptom of	pancreatitis
+nonspecific chest pain	can be a symptom of	hepatitis
+nonspecific chest pain	can be a symptom of	kidney stones
+nonspecific chest pain	can be a symptom of	urinary tract infection
+nonspecific chest pain	can be a symptom of	pneumothorax
+nonspecific chest pain	can be a symptom of	subarachnoid hemorrhage
+nonspecific chest pain	can be a symptom of	pheochromocytoma
+nonspecific chest pain	can be a symptom of	pericarditis
+nonspecific chest pain	can be a symptom of	myocarditis
+nonspecific chest pain	can be a symptom of	aortic dissection
+nonspecific chest pain	can be a symptom of	endocarditis
+nonspecific chest pain	can be a symptom of	myocardial infarction
+nonspecific chest pain	can be a symptom of	angina pectoris
+nonspecific chest pain	can be a symptom of	cardiac ischemia
+nonspecific chest pain	can be a symptom of	arrhythmia
+nonspecific chest pain	can be a symptom of	pericardial effusion
+nonspecific chest pain	can be a symptom of	valvular heart disease
+nonspecific chest pain	can be a symptom of	aortic aneurysm
+nonspecific chest pain	can be a symptom of	aortic dissection
+nonspecific chest pain	can be a symptom of	hypertrophic cardiomyopathy
+nonspecific chest pain	can be a symptom of	pulmonary embolism
+nonspecific chest pain	can be a symptom of	pneumomediastinum
+nonspecific chest pain	can be a symptom of	systemic lupus erythematosus
+nonspecific chest pain	can be a symptom of	sarcoidosis
+nonspecific chest pain	can be a symptom of	pleurisy
+nonspecific chest pain	can be a symptom of	gastroesophageal reflux disease
+nonspecific chest pain	can be a symptom of	pericardial effusion
+nonspecific chest pain	can be a symptom of	pancreatic cancer
+nonspecific chest pain	can be a symptom of	esophageal stricture
+nonspecific chest pain	can be a symptom of	hiatal hernia
+nonspecific chest pain	can be a symptom of	lung abscess
+nonspecific chest pain	can be a symptom of	asthma
+nonspecific chest pain	can be a symptom of	hyperlipidemia
+nonspecific chest pain	can be a symptom of	heart murmur
+nonspecific chest pain	can be a symptom of	myocardial infarction
+nonspecific chest pain	can be a symptom of	ischemic heart disease
+nonspecific chest pain	can be a symptom of	heartburn
+nonspecific chest pain	can be a symptom of	pleurodynia
+nonspecific chest pain	can be a symptom of	herpes zoster
+nonspecific chest pain	can be a symptom of	fibromyalgia
+nonspecific chest pain	can be a symptom of	thoracic aortic aneurysm
+nonspecific chest pain	can be a symptom of	costochondritis
+nonspecific chest pain	can be a symptom of	pseudoangina
+nonspecific chest pain	can be a symptom of	myocardial ischemia
+nonspecific chest pain	can be a symptom of	esophageal rupture
+nonspecific chest pain	can be a symptom of	cardiac contusion
+nonspecific chest pain	can be a symptom of	angina pectoris
+nonspecific chest pain	can be a symptom of	hypertensive crisis
+nonspecific chest pain	can be a symptom of	acid reflux
+nonspecific chest pain	can be a symptom of	thoracic outlet syndrome
+nonspecific chest pain	can be a symptom of	shoulder impingement
+nonspecific chest pain	can be a symptom of	rib fracture
+nonspecific chest pain	can be a symptom of	gallbladder disease
+nonspecific chest pain	can be a symptom of	pneumonia
+nonspecific chest pain	can be a symptom of	pleural effusion
+nonspecific chest pain	can be a symptom of	hiatal hernia
+nonspecific chest pain	can be a symptom of	pericardial effusion
+nonspecific chest pain	can be a symptom of	thoracic aortic aneurysm
+nonspecific chest pain	can be a symptom of	myocarditis
+nonspecific chest pain	can be a symptom of	gastroesophageal reflux disease
+nonspecific chest pain	can be a symptom of	esophagitis
+nonspecific chest pain	can be a symptom of	bronchospasm
+nonspecific chest pain	can be a symptom of	pulmonary embolism
+nonspecific chest pain	can be a symptom of	panic attack
+nonspecific chest pain	can be a symptom of	panic disorder
+nonspecific chest pain	can be a symptom of	anxiety disorder
+nonspecific chest pain	may require	hospital admission
+nonspecific chest pain	can be a symptom of	metastatic cancer
+nonspecific chest pain	can be a symptom of	electromagnetic hypersensitivity
+nonspecific chest pain	can be a symptom of	somatic symptom disorder

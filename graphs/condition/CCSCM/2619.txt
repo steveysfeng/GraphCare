@@ -1,0 +1,6 @@
+e codes	are a type of	classification system
+other specified	is a	subcategory
+other specified	is used for	coding unspecified conditions
+nec	is an abbreviation for	not elsewhere classified
+nec	is used for	coding conditions that do not fit into any other category
+e codes	are used for	documenting external causes of injury or illness

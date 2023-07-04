@@ -1,0 +1,279 @@
+spinal cord injury	can cause	paralysis
+spinal cord injury	may require	surgery
+patient	with	spinal cord injury
+spinal cord injury	increases the risk of	urinary tract infections
+spinal cord injury	can lead to	respiratory problems
+spinal cord injury	can result in	chronic pain
+spinal cord injury	is associated with	depression
+neurogenic bladder	is a complication of	spinal cord injury
+spinal cord injury	necessitates	physical therapy
+spinal cord injury patients	are at risk for	pressure ulcers
+spinal cord injury	may cause	sexual dysfunction
+spinal cord injury	can lead to	bowel disturbances
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	may require	assistive devices
+spinal cord injury	can lead to	muscle atrophy
+spinal cord injury	is a	traumatic event
+spinal cord injury	can result from	car accidents
+spinal cord injury	can cause	loss of sensation
+spinal cord injury	can lead to	respiratory failure
+spinal cord injury	increases the risk of	blood clots
+spinal cord injury	can result in	neurogenic shock
+spinal cord injury	can cause	spasticity
+spinal cord injury	may lead to	osteoporosis
+spinal cord injury	can result in	bowel incontinence
+spinal cord injury	can lead to	pressure sores
+spinal cord injury	increases the risk of	deep vein thrombosis
+spinal cord injury	can cause	muscle weakness
+spinal cord injury	is often caused by	falls
+spinal cord injury	can lead to	contractures
+spinal cord injury	may require	assistive technology
+cervical spinal cord injury	can result in	tetraplegia
+spinal cord injury	can cause	respiratory insufficiency
+spinal cord injury	can lead to	urinary incontinence
+spinal cord injury	increases the risk of	pneumonia
+spinal cord injury	can result in	pressure ulcers
+thoracic spinal cord injury	can cause	paraplegia
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	may require	wheelchair use
+spinal cord injury	increases the risk of	sepsis
+spinal cord injury	can result in	pulmonary embolism
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	is a	devastating event
+spinal cord injury	can lead to	urinary retention
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	can cause	bladder dysfunction
+spinal cord injury	may lead to	cardiopulmonary complications
+spinal cord injury	can lead to	muscle spasms
+spinal cord injury	can result in	autonomic dysfunction
+spinal cord injury	increases the risk of	pressure injuries
+spinal cord injury	can cause	sexual dysfunction
+spinal cord injury	may require	catheterization
+spinal cord injury	can lead to	urinary tract stones
+spinal cord injury	can result in	urinary tract infections
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis
+spinal cord injury	can cause	loss of bowel control
+spinal cord injury	is often associated with	trauma
+spinal cord injury	can lead to	osteoporosis
+spinal cord injury	increases the risk of	urinary retention
+spinal cord injury	can result in	autonomic dysreflexia
+spinal cord injury	can cause	muscle spasms
+spinal cord injury	may require	wheelchair use
+spinal cord injury	can lead to	depression
+spinal cord injury	can cause	cardiovascular complications
+spinal cord injury	is a	devastating event
+spinal cord injury	can cause	neuropathic pain
+spinal cord injury	can lead to	bladder dysfunction
+spinal cord injury	can result in	deep vein thrombosis
+spinal cord injury	increases the risk of	osteomyelitis

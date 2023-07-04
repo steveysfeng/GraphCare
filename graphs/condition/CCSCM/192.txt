@@ -1,0 +1,223 @@
+umbilical cord complication	can cause	fetal distress
+umbilical cord complication	increases the risk of	stillbirth
+umbilical cord complication	requires	immediate medical attention
+umbilical cord complication	can lead to	hypoxia
+umbilical cord complication	is a	common complication during labor
+umbilical cord complication	can result in	emergency cesarean section
+umbilical cord complication	is diagnosed by	ultrasound
+umbilical cord complication	can be caused by	cord prolapse
+umbilical cord complication	is associated with	fetal growth restriction
+umbilical cord complication	leads to	decreased blood flow to the fetus
+umbilical cord complication	is more common in	multiple pregnancies
+umbilical cord complication	can be caused by	nuchal cord
+umbilical cord complication	may require	umbilical cord entanglement release
+umbilical cord complication	can be detected by	Doppler ultrasound
+umbilical cord complication	is a	potential cause of birth asphyxia
+umbilical cord complication	can result in	neonatal brain injury
+umbilical cord complication	can lead to	meconium aspiration syndrome
+umbilical cord complication	can cause	umbilical cord avulsion
+umbilical cord complication	is more likely in	post-term pregnancies
+umbilical cord complication	requires	close monitoring during delivery
+umbilical cord complication	is more common in	breech presentations
+umbilical cord complication	may necessitate	umbilical cord clamping
+umbilical cord complication	is associated with	umbilical cord knots
+umbilical cord complication	is a	potential cause of fetal anemia
+umbilical cord complication	is more common in	older mothers
+umbilical cord complication	increases the risk of	cord compression
+umbilical cord complication	can cause	placental abruption
+umbilical cord complication	may result in	emergency neonatal resuscitation
+umbilical cord complication	can be caused by	cord torsion
+umbilical cord complication	is associated with	abnormal fetal heart rate patterns
+umbilical cord complication	can lead to	umbilical cord prolapse
+umbilical cord complication	is a	potential cause of preterm labor
+umbilical cord complication	can result in	fetal demise
+umbilical cord complication	increases the risk of	fetal acidosis
+umbilical cord complication	requires	immediate delivery
+umbilical cord complication	is more common in	pregnancies with polyhydramnios
+umbilical cord complication	can cause	cord entanglement
+umbilical cord complication	may require	cesarean delivery
+umbilical cord complication	is associated with	oligohydramnios
+umbilical cord complication	can lead to	neonatal hypoglycemia
+umbilical cord complication	is a	potential cause of fetal growth restriction
+umbilical cord complication	can result in	neonatal seizure
+umbilical cord complication	can cause	umbilical cord compression
+umbilical cord complication	may necessitate	umbilical artery catheterization
+umbilical cord complication	is more common in	pregnancies with placenta previa
+umbilical cord complication	increases the risk of	neonatal mortality
+umbilical cord complication	requires	fetal monitoring
+umbilical cord complication	is associated with	fetal distress
+umbilical cord complication	can lead to	neonatal respiratory distress syndrome
+umbilical cord complication	is a	potential cause of neonatal jaundice
+umbilical cord complication	can result in	fetal hypoxia
+umbilical cord complication	can cause	umbilical cord rupture
+umbilical cord complication	may require	umbilical cord ligation
+umbilical cord complication	is more common in	pregnancies with abnormalities of cord insertion
+umbilical cord complication	increases the risk of	preterm birth
+umbilical cord complication	requires	umbilical cord monitoring
+umbilical cord complication	is associated with	umbilical cord stricture
+umbilical cord complication	can lead to	neonatal sepsis
+umbilical cord complication	is a	potential cause of neonatal asphyxia
+umbilical cord complication	can result in	intrauterine fetal demise
+umbilical cord complication	can cause	umbilical cord hypertrophy
+umbilical cord complication	may necessitate	umbilical cord transection
+umbilical cord complication	is more common in	pregnancies with umbilical cord abnormalities
+umbilical cord complication	increases the risk of	neonatal morbidity
+umbilical cord complication	requires	umbilical cord blood gas analysis
+umbilical cord complication	is associated with	fetal malposition
+umbilical cord complication	can lead to	fetal distress during labor
+umbilical cord complication	is a	potential cause of neonatal infection
+umbilical cord complication	can result in	meconium-stained amniotic fluid
+umbilical cord complication	can cause	umbilical cord torsion
+umbilical cord complication	may require	umbilical cord extraction
+umbilical cord complication	is more common in	pregnancies with fetal anomalies
+umbilical cord complication	increases the risk of	placental insufficiency
+umbilical cord complication	requires	umbilical cord revision
+umbilical cord complication	is associated with	varix of umbilical cord
+umbilical cord complication	can lead to	fetal acidemia
+umbilical cord complication	is a	potential cause of neonatal respiratory depression
+umbilical cord complication	can result in	umbilical cord hematoma
+umbilical cord complication	can cause	umbilical cord thrombosis
+umbilical cord complication	may necessitate	emergency umbilical cord clamping
+umbilical cord complication	is more common in	pregnancies with umbilical cord cyst
+umbilical cord complication	increases the risk of	neonatal hypothermia
+umbilical cord complication	requires	umbilical cord preservation
+umbilical cord complication	is associated with	umbilical cord angioedema
+umbilical cord complication	can lead to	fetal growth arrest
+umbilical cord complication	is a	potential cause of neonatal renal failure
+umbilical cord complication	can result in	umbilical cord constriction
+umbilical cord complication	can cause	umbilical cord hematological abnormalities
+umbilical cord complication	may require	umbilical cord cutting
+umbilical cord complication	is more common in	pregnancies with umbilical cord varices
+umbilical cord complication	increases the risk of	intrauterine fetal death
+umbilical cord complication	requires	umbilical cord assessment
+umbilical cord complication	is associated with	umbilical cord infection
+umbilical cord complication	can lead to	fetal hypoperfusion
+umbilical cord complication	is a	potential cause of perinatal mortality
+umbilical cord complication	can result in	umbilical cord prolapse
+umbilical cord complication	can cause	umbilical cord hemorrhage
+umbilical cord complication	may necessitate	emergency umbilical cord cutting
+umbilical cord complication	is more common in	pregnancies with umbilical cord knots
+umbilical cord complication	increases the risk of	fetal distress during pregnancy
+umbilical cord complication	requires	umbilical cord intervention
+umbilical cord complication	is associated with	umbilical cord abnormalities
+umbilical cord complication	can lead to	umbilical cord compression syndrome
+umbilical cord complication	is a	potential cause of neonatal hypotension
+umbilical cord complication	can result in	umbilical cord infection
+umbilical cord complication	can cause	umbilical cord avulsion
+umbilical cord complication	may require	umbilical cord resuscitation
+umbilical cord complication	is more common in	pregnancies with maternal diabetes mellitus
+umbilical cord complication	increases the risk of	intrauterine fetal growth restriction
+umbilical cord complication	requires	umbilical cord rupture prevention
+umbilical cord complication	is associated with	umbilical cord prolapse prevention
+umbilical cord complication	can lead to	umbilical cord bleeding
+umbilical cord complication	is a	potential cause of umbilical cord prolapse
+umbilical cord complication	can result in	umbilical cord inflammation
+umbilical cord complication	can cause	umbilical cord fibrosis
+umbilical cord complication	may necessitate	umbilical cord preservation surgery
+umbilical cord complication	is more common in	pregnancies with umbilical cord abnormalities prevention
+umbilical cord complication	increases the risk of	placental abnormalities
+umbilical cord complication	requires	umbilical cord wrapping
+umbilical cord complication	is associated with	umbilical cord malformations
+umbilical cord complication	can lead to	neonatal anemia
+umbilical cord complication	is a	potential cause of neonatal septicemia
+umbilical cord complication	can result in	fetal death
+umbilical cord complication	can cause	umbilical cord cyst
+umbilical cord complication	may require	umbilical cord monitoring
+umbilical cord complication	is more common in	pregnancies with placental abnormalities
+umbilical cord complication	increases the risk of	fetal growth abnormalities
+umbilical cord complication	requires	umbilical cord preservation technology
+umbilical cord complication	is associated with	umbilical cord hematoma
+umbilical cord complication	can lead to	placental abruption
+umbilical cord complication	is a	potential cause of fetal hypoxia
+umbilical cord complication	can result in	umbilical cord infection
+umbilical cord complication	can cause	umbilical cord constriction
+umbilical cord complication	may necessitate	emergency umbilical cord clamping
+umbilical cord complication	is more common in	pregnancies with umbilical cord varices
+umbilical cord complication	increases the risk of	intrauterine fetal death
+umbilical cord complication	requires	umbilical cord assessment
+umbilical cord complication	is associated with	umbilical cord infection
+umbilical cord complication	can lead to	fetal hypoperfusion
+umbilical cord complication	is a	potential cause of perinatal mortality
+umbilical cord complication	can result in	umbilical cord prolapse
+umbilical cord complication	can cause	umbilical cord hemorrhage
+umbilical cord complication	may necessitate	emergency umbilical cord cutting
+umbilical cord complication	is more common in	pregnancies with umbilical cord knots
+umbilical cord complication	increases the risk of	fetal distress during pregnancy
+umbilical cord complication	requires	umbilical cord intervention
+umbilical cord complication	is associated with	umbilical cord abnormalities
+umbilical cord complication	can lead to	umbilical cord compression syndrome
+umbilical cord complication	is a	potential cause of neonatal hypotension
+umbilical cord complication	can result in	umbilical cord infection
+umbilical cord complication	can cause	umbilical cord avulsion
+umbilical cord complication	may require	umbilical cord resuscitation
+umbilical cord complication	is more common in	pregnancies with maternal diabetes mellitus
+umbilical cord complication	increases the risk of	intrauterine fetal growth restriction
+umbilical cord complication	requires	umbilical cord rupture prevention
+umbilical cord complication	is associated with	umbilical cord prolapse prevention
+umbilical cord complication	can lead to	umbilical cord bleeding
+umbilical cord complication	is a	potential cause of umbilical cord prolapse
+umbilical cord complication	can result in	umbilical cord inflammation
+umbilical cord complication	can cause	umbilical cord fibrosis
+umbilical cord complication	may necessitate	umbilical cord preservation surgery
+umbilical cord complication	is more common in	pregnancies with umbilical cord abnormalities prevention
+umbilical cord complication	increases the risk of	placental abnormalities
+umbilical cord complication	requires	umbilical cord wrapping
+umbilical cord complication	is associated with	umbilical cord malformations
+umbilical cord complication	can lead to	neonatal anemia
+umbilical cord complication	is a	potential cause of neonatal septicemia
+umbilical cord complication	can result in	fetal death
+umbilical cord complication	can cause	umbilical cord cyst
+umbilical cord complication	may require	umbilical cord monitoring
+umbilical cord complication	is more common in	pregnancies with placental abnormalities
+umbilical cord complication	increases the risk of	fetal growth abnormalities
+umbilical cord complication	requires	umbilical cord preservation technology
+umbilical cord complication	is associated with	umbilical cord hematoma
+umbilical cord complication	can lead to	placental abruption
+umbilical cord complication	is a	potential cause of fetal hypoxia
+umbilical cord complication	can result in	umbilical cord infection
+umbilical cord complication	can cause	umbilical cord constriction
+umbilical cord complication	may necessitate	emergency umbilical cord clamping
+umbilical cord complication	is more common in	pregnancies with umbilical cord varices
+umbilical cord complication	increases the risk of	intrauterine fetal death
+umbilical cord complication	requires	umbilical cord assessment
+umbilical cord complication	is associated with	umbilical cord infection
+umbilical cord complication	can lead to	fetal hypoperfusion
+umbilical cord complication	is a	potential cause of perinatal mortality
+umbilical cord complication	can result in	umbilical cord prolapse
+umbilical cord complication	can cause	umbilical cord hemorrhage
+umbilical cord complication	may necessitate	emergency umbilical cord cutting
+umbilical cord complication	is more common in	pregnancies with umbilical cord knots
+umbilical cord complication	increases the risk of	fetal distress during pregnancy
+umbilical cord complication	requires	umbilical cord intervention
+umbilical cord complication	is associated with	umbilical cord abnormalities
+umbilical cord complication	can lead to	umbilical cord compression syndrome
+umbilical cord complication	is a	potential cause of neonatal hypotension
+umbilical cord complication	can result in	umbilical cord infection
+umbilical cord complication	can cause	umbilical cord avulsion
+umbilical cord complication	may require	umbilical cord resuscitation
+umbilical cord complication	is more common in	pregnancies with maternal diabetes mellitus
+umbilical cord complication	increases the risk of	intrauterine fetal growth restriction
+umbilical cord complication	requires	umbilical cord rupture prevention
+umbilical cord complication	is associated with	umbilical cord prolapse prevention
+umbilical cord complication	can lead to	umbilical cord bleeding
+umbilical cord complication	is a	potential cause of umbilical cord prolapse
+umbilical cord complication	can result in	umbilical cord inflammation
+umbilical cord complication	can cause	umbilical cord fibrosis
+umbilical cord complication	may necessitate	umbilical cord preservation surgery
+umbilical cord complication	is more common in	pregnancies with umbilical cord abnormalities prevention
+umbilical cord complication	increases the risk of	placental abnormalities
+umbilical cord complication	requires	umbilical cord wrapping
+umbilical cord complication	is associated with	umbilical cord malformations
+umbilical cord complication	can lead to	neonatal anemia
+umbilical cord complication	is a	potential cause of neonatal septicemia
+umbilical cord complication	can result in	fetal death
+umbilical cord complication	can cause	umbilical cord cyst
+umbilical cord complication	may require	umbilical cord monitoring
+umbilical cord complication	is more common in	pregnancies with placental abnormalities
+umbilical cord complication	increases the risk of	fetal growth abnormalities
+umbilical cord complication	requires	umbilical cord preservation technology
+umbilical cord complication	is associated with	umbilical cord hematoma
+umbilical cord complication	can lead to	placental abruption
+umbilical cord complication	is a	potential cause of fetal hypoxia
+umbilical cord complication	can result in	umbilical cord infection
+umbilical cord complication	can cause	umbilical cord constriction

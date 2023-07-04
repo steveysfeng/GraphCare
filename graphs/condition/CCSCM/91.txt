@@ -1,0 +1,105 @@
+other eye disorders	can cause	vision loss
+cataract	is a	common eye disorder
+glaucoma	is a	progressive eye disorder
+macular degeneration	is a	leading cause of vision loss
+retinal detachment	is a	serious eye disorder
+diabetic retinopathy	is a	common eye disorder in people with diabetes
+dry eye syndrome	is a	chronic eye disorder
+conjunctivitis	is an	inflammation of the eye
+uveitis	is an	inflammation of the middle layer of the eye
+keratitis	is an	inflammation of the cornea
+strabismus	is a	misalignment of the eyes
+amblyopia	is a	condition that affects vision development
+histoplasmosis	is an	eye infection caused by a fungus
+macular edema	is a	swelling of the macula
+pterygium	is a	growth on the cornea
+color blindness	is a	genetic eye disorder
+presbyopia	is an	age-related eye disorder
+night blindness	is a	condition where it is difficult to see in low light
+blepharitis	is an	inflammation of the eyelids
+retinoblastoma	is a	rare eye cancer
+dacryocystitis	is an	infection of the tear duct
+corneal ulcer	is an	open sore on the cornea
+chalazion	is a	bump on the eyelid
+sty	is an	infection of an eyelash follicle
+nystagmus	is an	involuntary eye movement
+optic neuritis	is an	inflammation of the optic nerve
+cataract surgery	is a	common treatment for cataracts
+intraocular pressure	is a	measurement of fluid pressure inside the eye
+corneal transplant	is a	surgical procedure to replace a damaged cornea
+retinal laser	is a	treatment for retinal conditions
+eye drops	are commonly used to	treat various eye disorders
+ophthalmologist	is a	medical doctor specializing in eye care
+optometrist	is a	healthcare professional who provides primary eye care
+visual acuity	is a	measurement of the clarity of vision
+ophthalmoscopy	is a	diagnostic technique to examine the inside of the eye
+tonometry	is a	measurement of intraocular pressure
+gonioscopy	is a	diagnostic test to evaluate the drainage angle of the eye
+slit lamp examination	is a	specialized microscope to examine the eye
+ocular prosthesis	is a	artificial eye used to replace a damaged or missing eye
+strabismus surgery	is a	procedure to correct misalignment of the eyes
+retinal detachment surgery	is a	surgical procedure to reattach the retina
+optical coherence tomography	is a	diagnostic imaging technique for the retina
+fluorescein angiography	is a	diagnostic test to evaluate blood flow in the retina
+keratoplasty	is a	surgical procedure to replace a damaged cornea
+radial keratotomy	is a	surgical procedure to correct nearsightedness
+vitrectomy	is a	surgical procedure to remove the gel-like substance in the eye
+blepharoplasty	is a	surgical procedure to remove excess skin and fat from the eyelids
+iris retractor	is a	surgical instrument used to hold the iris during eye surgery
+corneal topography	is a	diagnostic test to map the curvature of the cornea
+eyeglasses	are commonly used to	correct refractive errors
+contact lenses	are commonly used to	correct refractive errors and for cosmetic purposes
+artificial tears	are used to	relieve dry eye symptoms
+ocular prostheses	are commonly made of	acrylic or silicone
+macular degeneration	is more common in	older adults
+conjunctivitis	is commonly caused by	viral or bacterial infection
+cataracts	are more common in	older adults
+glaucoma	is often associated with	increased intraocular pressure
+diabetic retinopathy	is more common in individuals with	diabetes
+keratitis	can be caused by	infection or injury to the cornea
+dry eye syndrome	can be caused by	age	medications	or certain medical conditions
+uveitis	can be caused by	infection or autoimmune disorders
+strabismus	may be present from	infancy
+amblyopia	can result from	untreated strabismus
+macular edema	can occur in	diabetic retinopathy or other retinal conditions
+night blindness	can be a symptom of	vitamin A deficiency
+retinal detachment	can result from	trauma or underlying retinal conditions
+histoplasmosis	is caused by	inhaling fungal spores
+blepharitis	can result from	bacterial infection or skin conditions
+dacryocystitis	can be caused by	blockage or infection of the tear duct
+corneal ulcer	can result from	infection or injury to the cornea
+color blindness	is more common in	males
+retinoblastoma	is typically diagnosed in	young children
+nystagmus	can be congenital or result from	neurological conditions
+optic neuritis	can be a symptom of	multiple sclerosis
+cataract surgery	is typically performed when	vision is significantly affected by cataracts
+corneal transplant	may be necessary when	the cornea becomes too damaged or diseased
+retinal laser	is used to	treat retinal tears or abnormal blood vessels
+eye drops	are commonly prescribed to	alleviate symptoms or treat underlying conditions
+ophthalmologists	are trained to perform	eye surgery
+optometrists	are primary eye care providers who	prescribe glasses and contact lenses
+visual acuity	is measured using	a Snellen chart
+tonometry	is commonly performed using	a tonometer
+gonioscopy	is performed using	a special lens
+slit lamp examination	provides a detailed view of	the front structures of the eye
+optical coherence tomography	allows detailed imaging of	the retina
+corneal topography	provides a detailed map of	the cornea's shape
+fluorescein angiography	can detect	blood flow abnormalities in the retina
+optician	is a	healthcare professional who helps patients with eyewear selection
+blindness	is defined as	complete or severe vision loss
+low vision	is a	visual impairment that cannot be fully corrected with glasses or contact lenses
+corneal edema	is a	result of fluid buildup in the cornea
+posterior vitreous detachment	is a	common age-related change in the eye
+meibomian gland dysfunction	is a	common cause of chronic dry eye
+photoreceptor cells	are responsible for	detecting light and transmitting visual information to the brain
+optic nerve	connects the	eye to the brain
+macula	is responsible for	central vision
+sclera	is the	white part of the eye
+lens	focuses light onto	the retina
+iris	controls the	amount of light entering the eye
+conjunctiva	is a	thin membrane that covers the front surface of the eye and inner surface of the eyelids
+cornea	is the	clear outer layer of the eye
+vitreous humor	is a	gel-like substance that fills the back of the eye
+retina	contains the	photoreceptor cells that convert light into electrical signals
+eyelid	protects the	front surface of the eye
+fundus	is the	back part of the eye visible during an eye examination

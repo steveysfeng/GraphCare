@@ -1,0 +1,110 @@
+cancer of stomach	is a	malignant tumor
+cancer of stomach	is caused by	helicobacter pylori infection
+gastroscopy	is a test for	cancer of stomach
+surgery	is a treatment for	cancer of stomach
+chemotherapy	is a treatment for	cancer of stomach
+cancer of stomach	can spread to	liver
+cancer of stomach	can cause	weight loss
+cancer of stomach	can cause	abdominal pain
+cancer of stomach	can cause	nausea
+cancer of stomach	can cause	vomiting
+cancer of stomach	can cause	anemia
+cancer of stomach	can be	fatal
+gastritis	is a risk factor for	cancer of stomach
+smoking	is a risk factor for	cancer of stomach
+obesity	is a risk factor for	cancer of stomach
+family history	is a risk factor for	cancer of stomach
+cancer of stomach	is more common in	older adults
+cancer of stomach	is more common in	men
+cancer of stomach	is less common in	developed countries
+cancer of stomach	is associated with	poor diet
+cancer of stomach	is associated with	alcohol consumption
+cancer of stomach	is associated with	long-term use of nonsteroidal anti-inflammatory drugs
+cancer of stomach	is associated with	previous stomach surgeries
+endoscopy	is performed for	cancer of stomach diagnosis
+ultrasound	is performed for	cancer of stomach staging
+radiation therapy	is a treatment for	cancer of stomach
+targeted therapy	is a treatment for	cancer of stomach
+cancer of stomach	can metastasize to	lymph nodes
+cancer of stomach	can metastasize to	lungs
+cancer of stomach	can metastasize to	bones
+cancer of stomach	can metastasize to	peritoneum
+cancer of stomach	can metastasize to	liver
+cancer of stomach	can metastasize to	brain
+cancer of stomach	can metastasize to	ovaries
+cancer of stomach	can metastasize to	adrenal glands
+cancer of stomach	can metastasize to	pancreas
+cancer of stomach	can metastasize to	spleen
+cancer of stomach	can metastasize to	esophagus
+cancer of stomach	is associated with	H. pylori eradication therapy
+cancer of stomach	is associated with	regular colonoscopy screenings
+cancer of stomach	is associated with	genetic mutations
+cancer of stomach	is associated with	chronic gastritis
+cancer of stomach	is associated with	pernicious anemia
+cancer of stomach	is associated with	Epstein-Barr virus infection
+cancer of stomach	is associated with	smoking cessation
+cancer of stomach	is associated with	weight loss surgery
+cancer of stomach	is associated with	regular exercise
+cancer of stomach	can be prevented by	H. pylori vaccination
+cancer of stomach	can be prevented by	regular screening
+cancer of stomach	can be prevented by	healthy diet
+cancer of stomach	can be prevented by	moderate alcohol consumption
+cancer of stomach	can be prevented by	avoiding smoking
+cancer of stomach	can be prevented by	weight management
+cancer of stomach	can be prevented by	reducing salt intake
+cancer of stomach	can be prevented by	avoiding food contamination
+cancer of stomach	can be prevented by	maintaining good oral hygiene
+cancer of stomach	can be prevented by	reducing processed meat consumption
+cancer of stomach	can be prevented by	taking nonsteroidal anti-inflammatory drugs
+cancer of stomach	can be prevented by	treatment of H. pylori infection
+cancer of stomach	can be prevented by	avoiding exposure to chemicals
+cancer of stomach	can be prevented by	limiting exposure to radiation
+cancer of stomach	can be prevented by	managing stress
+cancer of stomach	can be prevented by	reducing environmental pollution
+cancer of stomach	can be prevented by	vaccination against Epstein-Barr virus
+cancer of stomach	is diagnosed using	biopsy
+cancer of stomach	is staged using	TNM classification
+cancer of stomach	can cause	early satiety
+cancer of stomach	can cause	black stools
+cancer of stomach	can cause	blood in vomit
+cancer of stomach	can cause	difficulty swallowing
+cancer of stomach	can cause	fatigue
+cancer of stomach	can cause	jaundice
+cancer of stomach	can cause	bloating
+cancer of stomach	can cause	heartburn
+cancer of stomach	can cause	unintended weight loss
+cancer of stomach	can cause	diarrhea
+cancer of stomach	can cause	constipation
+cancer of stomach	can cause	acid reflux
+cancer of stomach	can cause	chest pain
+cancer of stomach	can cause	loss of appetite
+cancer of stomach	can cause	indigestion
+cancer of stomach	can cause	stomach ulcers
+cancer of stomach	can cause	anemia
+cancer of stomach	can cause	fluid accumulation in the abdomen
+cancer of stomach	can cause	swollen lymph nodes
+cancer of stomach	can cause	weakness
+cancer of stomach	can cause	low blood count
+cancer of stomach	can cause	blood clotting problems
+cancer of stomach	can cause	depression
+cancer of stomach	can cause	anxiety
+cancer of stomach	can cause	sleep disturbances
+cancer of stomach	can cause	cognitive decline
+cancer of stomach	can cause	malnutrition
+cancer of stomach	can cause	metallic taste in mouth
+cancer of stomach	can cause	hair loss
+cancer of stomach	can cause	mouth sores
+cancer of stomach	can cause	dental problems
+cancer of stomach	can cause	infertility
+cancer of stomach	can cause	erectile dysfunction
+cancer of stomach	can cause	irregular menstrual periods
+cancer of stomach	can cause	skin problems
+cancer of stomach	can cause	joint pain
+cancer of stomach	can cause	muscle weakness
+cancer of stomach	can cause	osteoporosis
+cancer of stomach	can cause	respiratory difficulties
+cancer of stomach	can cause	difficulty speaking
+cancer of stomach	can cause	difficulty walking
+cancer of stomach	can cause	memory problems
+cancer of stomach	can cause	hallucinations
+cancer of stomach	can cause	voice changes

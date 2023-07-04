@@ -1,0 +1,154 @@
+complication of device	can occur after	implant or graft
+infection	is a common	complication of device
+rejection	is a potential	complication of device
+complication of device	can lead to	device failure
+revision surgery	may be required for	complication of device
+complication of device	is associated with	pain
+complication of device	can result in	readmission
+complication of device	should be monitored for	signs of infection
+complication of device	can be prevented by	proper surgical technique
+complication of device	can be treated with	antibiotics
+patient counseling	is important for	complication of device
+complication of device	can cause	tissue damage
+complication of device	may require	removal of the device
+complication of device	is more common in	older patients
+complication of device	is a	surgical complication
+complication of device	can be managed with	pain medications
+complication of device	can be diagnosed with	imaging tests
+complication of device	is associated with	increased healthcare costs
+complication of device	is a	postoperative complication
+complication of device	can be caused by	surgical errors
+complication of device	is more common in	obese patients
+complication of device	can be detected with	laboratory tests
+complication of device	can lead to	tissue necrosis
+complication of device	may require	additional surgery
+complication of device	can result in	disability
+complication of device	can be managed with	physical therapy
+complication of device	can be caused by	device malposition
+complication of device	can be prevented with	proper postoperative care
+complication of device	is associated with	prolonged hospital stay
+complication of device	can be diagnosed with	clinical evaluation
+complication of device	can lead to	sepsis
+complication of device	may require	wound care
+complication of device	can result in	implant failure
+complication of device	can be treated with	anti-inflammatory drugs
+complication of device	is a risk factor for	patient morbidity
+complication of device	can be managed with	wound dressings
+complication of device	can cause	implant erosion
+complication of device	may require	antibiotics
+complication of device	can be diagnosed with	diagnostic imaging
+complication of device	is associated with	prolonged recovery time
+complication of device	can lead to	tissue ischemia
+complication of device	may require	surgical debridement
+complication of device	can result in	impaired functionality
+complication of device	can be treated with	revision surgery
+complication of device	is a	potential complication of surgery
+complication of device	can be prevented with	proper wound care
+complication of device	can be detected by	physical examination
+complication of device	can lead to	tissue infection
+complication of device	may require	drainage of fluid
+complication of device	can result in	scar tissue formation
+complication of device	is associated with	increased risk of complications
+complication of device	can be managed with	occupational therapy
+complication of device	can cause	chronic pain
+complication of device	may require	device removal
+complication of device	can be diagnosed with	biopsy
+complication of device	is associated with	patient dissatisfaction
+complication of device	can lead to	delayed healing
+complication of device	may require	wound closure
+complication of device	can result in	nerve damage
+complication of device	can be treated with	immunosuppressive drugs
+complication of device	is a	surgical risk
+complication of device	can be prevented by	proper aseptic technique
+complication of device	can be managed with	wound care products
+complication of device	can cause	seroma formation
+complication of device	may require	physical rehabilitation
+complication of device	can be diagnosed with	serologic tests
+complication of device	is associated with	prolonged recovery period
+complication of device	can lead to	blood clots
+complication of device	may require	wound debridement
+complication of device	can result in	restricted range of motion
+complication of device	can be treated with	anti-infective agents
+complication of device	is a	potential postoperative complication
+complication of device	can be prevented by	regular device monitoring
+complication of device	can be managed with	wound healing therapies
+complication of device	can cause	device migration
+complication of device	may require	secondary intervention
+complication of device	can result in	joint instability
+complication of device	can be treated with	pain management techniques
+complication of device	is a	healthcare-associated complication
+complication of device	can be prevented with	proper patient education
+complication of device	can be detected through	radiographic imaging
+complication of device	can lead to	tissue necrosis
+complication of device	may require	wound irrigation
+complication of device	can result in	limited mobility
+complication of device	can be managed with	physical rehabilitation
+complication of device	can be caused by	foreign body reaction
+complication of device	can be prevented with	sterile technique
+complication of device	can be diagnosed through	diagnostic tests
+complication of device	is associated with	postoperative complications
+complication of device	can lead to	hematoma
+complication of device	may require	surgical repair
+complication of device	can result in	implant malposition
+complication of device	can be treated with	wound care methods
+complication of device	is a	potential surgical complication
+complication of device	can be prevented by	regular follow-up care
+complication of device	can be managed through	device monitoring
+complication of device	can cause	skin breakdown
+complication of device	may require	device repositioning
+complication of device	can result in	joint stiffness
+complication of device	can be treated with	anti-inflammatory medications
+complication of device	is a	known complication of implantation
+complication of device	can be prevented with	sterile surgical technique
+complication of device	can be detected by	clinical examination
+complication of device	can lead to	inflammation
+complication of device	may require	wound closure techniques
+complication of device	can result in	surrounding tissue damage
+complication of device	can be managed with	infection control measures
+complication of device	can be caused by	device migration
+complication of device	can be prevented with	proper wound management
+complication of device	can be diagnosed through	laboratory analysis
+complication of device	is associated with	increased postoperative pain
+complication of device	can lead to	wound infection
+complication of device	may require	surgical cleansing
+complication of device	can result in	joint dislocation
+complication of device	can be treated with	surgical intervention
+complication of device	is a	potential adverse event
+complication of device	can be prevented by	adhering to postoperative instructions
+complication of device	can be managed through	patient monitoring
+complication of device	can cause	implant failure
+complication of device	may require	physical therapy
+complication of device	can result in	device malfunction
+complication of device	can be treated with	wound healing products
+complication of device	is a	surgical complication
+complication of device	can be prevented with	sterile wound care
+complication of device	can be detected with	radiographic evaluation
+complication of device	is associated with	increased healthcare utilization
+complication of device	can lead to	implant rejection
+complication of device	may require	surgical debridement
+complication of device	can result in	joint instability
+complication of device	can be managed with	pain relief techniques
+complication of device	can be caused by	foreign body reaction
+complication of device	can be prevented with	proper infection control
+complication of device	can be diagnosed with	imaging studies
+complication of device	is associated with	prolonged healing time
+complication of device	can lead to	blood loss
+complication of device	may require	device replacement
+complication of device	can result in	implant malposition
+complication of device	can be treated with	wound care techniques
+complication of device	is a	potential postoperative outcome
+complication of device	can be prevented by	regular surveillance
+complication of device	can be managed through	ongoing monitoring
+complication of device	can cause	skin breakdown
+complication of device	may require	device repositioning
+complication of device	can result in	joint stiffness
+complication of device	can be treated with	anti-inflammatory agents
+complication of device	is a	known postoperative complication
+complication of device	can be prevented with	sterile surgical procedure
+complication of device	can be detected with	clinical exam
+complication of device	can lead to	inflammation
+complication of device	may require	wound closure
+complication of device	can result in	surrounding tissue damage
+complication of device	can be managed with	infection control
+complication of device	can be caused by	device migration
+complication of device	can be prevented with	proper wound care

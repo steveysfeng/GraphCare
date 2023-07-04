@@ -1,0 +1,6 @@
+nausea and vomiting	are symptoms of	many conditions
+nausea and vomiting	can be caused by	motion sickness
+meclizine	is a treatment for	nausea and vomiting
+nausea and vomiting	can occur after	chemotherapy
+ondansetron	is an	antiemetic
+ondansetron	can be used to treat	nausea and vomiting

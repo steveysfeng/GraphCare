@@ -1,0 +1,107 @@
+delirium	is a	neuropsychiatric condition
+delirium	may be caused by	medication
+delirium	is associated with	increased mortality
+delirium	is characterized by	confusion
+delirium	is commonly seen in	older adults
+delirium	may lead to	hospital readmission
+delirium	can be caused by	infection
+delirium	is often managed with	nonpharmacological interventions
+delirium	is a risk factor for	dementia
+delirium	can be prevented by	early recognition and management
+delirium	may be triggered by	surgery
+delirium	is linked to	longer hospital stays
+delirium	is associated with	poor outcomes
+delirium	is more common in	intensive care units
+delirium	can be caused by	metabolic disturbances
+delirium	is a predictor of	functional decline
+delirium	is a symptom of	alcohol withdrawal
+delirium	can result in	delusions
+delirium	is correlated with	increased healthcare costs
+delirium	may be caused by	dehydration
+delirium	is a side effect of	certain medications
+delirium	can be worsened by	sleep deprivation
+delirium	can cause	agitation
+delirium	is associated with	longer-term cognitive impairment
+delirium	is linked to	higher rates of institutionalization
+delirium	can occur in	postoperative patients
+delirium	is a risk factor for	falls
+delirium	may be caused by	substance abuse
+delirium	is more prevalent in	individuals with dementia
+delirium	may result in	hallucinations
+delirium	can be caused by	hypoxia
+delirium	is associated with	increased morbidity
+delirium	is a sign of	underlying medical condition
+delirium	can be caused by	stroke
+delirium	is often unrecognized
+delirium	is a symptom of	sepsis
+delirium	is linked to	decreased functional independence
+delirium	can cause	disorientation
+delirium	is a risk factor for	adverse events
+delirium	may be caused by	electrolyte imbalances
+delirium	is associated with	worsened outcomes in surgical patients
+delirium	can be precipitated by	urinary tract infection
+delirium	is correlated with	prolonged hospitalization
+delirium	may be caused by	liver failure
+delirium	is a symptom of	meningitis
+delirium	can be caused by	head trauma
+delirium	is associated with	increased morbidity and mortality
+delirium	is a marker of	physiological imbalance
+delirium	can be caused by	respiratory infections
+delirium	is linked to	increased risk of institutionalization
+delirium	may be triggered by	anesthesia
+delirium	is associated with	higher rates of complications
+delirium	can cause	inattention
+delirium	is a sign of	brain dysfunction
+delirium	can be caused by	renal impairment
+delirium	is a symptom of	encephalitis
+delirium	is correlated with	increased mortality in the elderly
+delirium	may be caused by	obstructive sleep apnea
+delirium	is associated with	prolonged cognitive decline
+delirium	is a risk factor for	nursing home placement
+delirium	can be caused by	medications with anticholinergic effects
+delirium	is a symptom of	hypoglycemia
+delirium	can be triggered by	benzodiazepine withdrawal
+delirium	is linked to	increased length of hospital stay
+delirium	may result in	delirium-associated mortality
+delirium	is often overlooked
+delirium	is a symptom of	brain tumor
+delirium	can be caused by	cardiac events
+delirium	is associated with	higher healthcare costs
+delirium	may be caused by	traumatic brain injury
+delirium	is a predictor of	poor functional recovery
+delirium	can be exacerbated by	polypharmacy
+delirium	is a sign of	cognitive impairment
+delirium	can be caused by	heart failure
+delirium	is a symptom of	drug withdrawal
+delirium	is correlated with	increased likelihood of dementia
+delirium	may be triggered by	pneumonia
+delirium	is associated with	higher rates of rehospitalization
+delirium	can cause	restlessness
+delirium	is a risk factor for	mortality in critical illness
+delirium	may be caused by	sleep apnea
+delirium	is associated with	poor surgical outcomes
+delirium	is a symptom of	brain infection
+delirium	can be caused by	electrolyte abnormalities
+delirium	is a predictor of	poor cognitive outcomes
+delirium	can be exacerbated by	sensory impairment
+delirium	is a sign of	delirium tremens
+delirium	can be caused by	renal failure
+delirium	is a symptom of	meningococcal infection
+delirium	is correlated with	increased dependency
+delirium	may be caused by	septicemia
+delirium	is associated with	higher rates of institutional care
+delirium	may result in	fluctuating level of consciousness
+delirium	can result in	psychomotor agitation
+delirium	is a risk factor for	poor functional status
+delirium	can be caused by	stress
+delirium	is a symptom of	brain hemorrhage
+delirium	is linked to	increased healthcare resource utilization
+delirium	may be triggered by	dehydration
+delirium	is associated with	prolonged hospital stay
+delirium	is a sign of	encephalopathy
+delirium	can be caused by	liver disease
+delirium	is a symptom of	urinary tract infection
+delirium	is correlated with	increased risk of complications
+delirium	may be caused by	alcohol intoxication
+delirium	is associated with	higher rates of falls
+delirium	can cause	perceptual disturbances

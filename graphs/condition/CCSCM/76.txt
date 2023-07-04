@@ -1,0 +1,86 @@
+meningitis	is an	infection
+bacterial meningitis	is a type of	meningitis
+viral meningitis	is a type of	meningitis
+meningococcal meningitis	is a type of	bacterial meningitis
+meningitis	can cause	fever
+meningitis	may result in	headaches
+meningitis	can lead to	stiff neck
+meningitis	requires	prompt treatment
+antibiotics	are used to	treat meningitis
+meningitis	can be	life-threatening
+meningitis	can result in	neurological complications
+meningitis	can cause	sepsis
+meningitis	is diagnosed through	lumbar puncture
+meningitis	can lead to	hearing loss
+meningitis	can cause	confusion
+meningitis	can result in	seizures
+meningitis	can cause	photophobia
+meningitis	can lead to	coma
+meningitis	is more common in	infants and young children
+meningitis	can be	contagious
+meningitis	can cause	skin rash
+meningitis	can result in	long-term complications
+meningitis	can cause	brain damage
+meningitis	can lead to	death
+meningitis	can cause	hydrocephalus
+meningitis	can result in	learning disabilities
+meningitis	can cause	vision problems
+meningitis	is prevented by	vaccination
+meningitis	can cause	memory problems
+meningitis	can lead to	intellectual disabilities
+meningitis	can cause	speech difficulties
+meningitis	can result in	neurodevelopmental delays
+meningitis	can cause	muscle weakness
+meningitis	can lead to	respiratory failure
+meningitis	can cause	vomiting
+meningitis	can result in	poor appetite
+meningitis	can cause	irritability
+meningitis	can lead to	neck pain
+meningitis	is commonly caused by	bacteria or viruses
+meningitis	can cause	joint pain
+meningitis	can result in	hearing impairment
+meningitis	can cause	meningismus
+meningitis	is treated with	intravenous antibiotics
+meningitis	can lead to	behavioral changes
+meningitis	can cause	muscle stiffness
+meningitis	can result in	cognitive impairment
+meningitis	can cause	fatigue
+meningitis	can lead to	language difficulties
+meningitis	can cause	drowsiness
+meningitis	can result in	developmental delays
+meningitis	can cause	seizures
+meningitis	can lead to	cranial nerve palsies
+meningitis	can result in	cerebral edema
+meningitis	can cause	irritability
+meningitis	can lead to	paralysis
+meningitis	is diagnosed by	analyzing cerebrospinal fluid
+meningitis	can cause	petechial rash
+meningitis	can result in	intracranial pressure
+meningitis	can cause	poor concentration
+meningitis	can lead to	meningococcal sepsis
+meningitis	can result in	persistent headache
+meningitis	can cause	nausea
+meningitis	can lead to	memory loss
+meningitis	is more common in	college students
+meningitis	can cause	dizziness
+meningitis	can result in	seizures
+meningitis	can cause	irritability
+meningitis	can lead to	bacterial pneumonia
+meningitis	can result in	mood changes
+meningitis	can cause	neck stiffness
+meningitis	can lead to	brain herniation
+meningitis	is diagnosed through	blood tests
+meningitis	can cause	delirium
+meningitis	can result in	hydrocephalus
+meningitis	can cause	confusion
+meningitis	can lead to	septicemia
+meningitis	can result in	cranial nerve dysfunction
+meningitis	can cause	poor coordination
+meningitis	can lead to	hearing impairment
+meningitis	can result in	loss of consciousness
+meningitis	can cause	sleep disturbances
+meningitis	can lead to	cognitive impairment
+meningitis	can result in	liver failure
+meningitis	can cause	anxiety
+meningitis	can lead to	brain abscess
+meningitis	can result in	vision loss

@@ -1,0 +1,29 @@
+ovarian cyst	is a	fluid-filled sac
+ovarian cyst	can cause	pelvic pain
+ovarian cyst	can lead to	infertility
+ovarian cyst	may require	surgery
+minimally invasive surgery	is a type of	surgery
+laparoscopy	is a type of	minimally invasive surgery
+ovarian cyst	can be diagnosed with	ultrasound
+ultrasound	uses sound waves to create	images
+ovarian cyst	can be treated with	hormonal therapy
+birth control pills	are a type of	hormonal therapy
+ovarian cyst	can cause	ovarian torsion
+ovarian torsion	is a	medical emergency
+ovarian cyst	can be monitored with	serial ultrasounds
+serial ultrasounds	are repeated	ultrasound exams
+ovarian cyst	can regress	spontaneously
+ovarian cyst	can be associated with	polycystic ovary syndrome
+polycystic ovary syndrome	is a	hormonal disorder
+ovarian cyst	can be removed with	cystectomy
+cystectomy	is the surgical removal of	ovarian cyst
+ovarian cyst	can be drained with	cyst aspiration
+cyst aspiration	involves	removing fluid from	ovarian cyst
+ovarian cyst	can be managed with	pain medication
+nonsteroidal anti-inflammatory drugs	are a type of	pain medication
+ovarian cyst	can be cancerous in	rare cases
+ovarian cyst	can recur	after treatment
+ovarian cyst	can be caused by	hormonal imbalances
+hormonal imbalances	can lead to	follicular cysts
+ovarian cyst	can cause	bloating
+ovarian cyst	can be complex or	simple

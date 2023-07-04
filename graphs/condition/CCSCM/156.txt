@@ -1,0 +1,15 @@
+nephritis	is a type of	kidney disease
+nephritis	can be caused by	autoimmune disorders
+glomerulonephritis	is a type of	nephritis
+nephritis	may lead to	kidney failure
+nephrosis	is a degenerative	kidney disease
+nephrosis	can be caused by	diabetes
+nephrosis	may result in	proteinuria
+renal sclerosis	is the hardening of	kidney glomeruli
+renal sclerosis	can be caused by	high blood pressure
+renal sclerosis	may lead to	renal failure
+hypertensive nephrosclerosis	is a type of	renal sclerosis
+diabetic nephropathy	is a type of	renal sclerosis
+renal sclerosis	can be diagnosed using	renal biopsy
+renal sclerosis	is treated with	blood pressure medications
+angiotensin-converting enzyme inhibitors	can be used for	renal sclerosis

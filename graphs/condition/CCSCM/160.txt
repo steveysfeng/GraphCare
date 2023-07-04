@@ -1,0 +1,124 @@
+calculus of urinary tract	is a	urological condition
+calculus of urinary tract	can cause	renal colic
+renal colic	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can be diagnosed with	imaging tests
+imaging tests	include	CT scan
+CT scan	can detect	calculus of urinary tract
+calculus of urinary tract	can be treated with	lithotripsy
+lithotripsy	is a	non-invasive procedure
+calculus of urinary tract	can cause	urinary obstruction
+urinary obstruction	can lead to	hydronephrosis
+hydronephrosis	is a complication of	calculus of urinary tract
+calculus of urinary tract	can be prevented by	adequate hydration
+adequate hydration	helps in	preventing calculus formation
+calculus of urinary tract	can result in	urinary tract infection
+urinary tract infection	is a complication of	calculus of urinary tract
+calculus of urinary tract	can require	surgical intervention
+surgical intervention	may involve	ureteroscopy
+ureteroscopy	is a	minimally invasive procedure
+calculus of urinary tract	may require	stent placement
+stent placement	is a procedure for	calculus of urinary tract
+calculus of urinary tract	can cause	hematuria
+hematuria	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can lead to	recurrent urinary tract infections
+recurrent urinary tract infections	are a complication of	calculus of urinary tract
+calculus of urinary tract	can be managed with	pain medication
+pain medication	helps in	alleviating symptoms of calculus of urinary tract
+calculus of urinary tract	can be associated with	increased risk of kidney stones
+increased risk of kidney stones	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can cause	renal impairment
+renal impairment	is a complication of	calculus of urinary tract
+calculus of urinary tract	can be removed through	surgical procedures
+surgical procedures	include	percutaneous nephrolithotomy
+percutaneous nephrolithotomy	is a	minimally invasive surgery
+calculus of urinary tract	can lead to	urinary incontinence
+urinary incontinence	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can recur	if underlying causes are not addressed
+underlying causes	contribute to	calculus formation
+calculus of urinary tract	can be managed with	dietary modifications
+dietary modifications	can help in	preventing calculus formation
+calculus of urinary tract	can be associated with	pain
+pain	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can be caused by	hyperparathyroidism
+hyperparathyroidism	is a risk factor for	calculus of urinary tract
+calculus of urinary tract	can result in	urinary retention
+urinary retention	is a complication of	calculus of urinary tract
+calculus of urinary tract	can lead to	sepsis
+sepsis	is a life-threatening complication of	calculus of urinary tract
+calculus of urinary tract	can be managed through	conservative measures
+conservative measures	include	hydration and pain management
+calculus of urinary tract	can be associated with	flank pain
+flank pain	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can cause	obstructive uropathy
+obstructive uropathy	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can increase the risk of	urinary tract infections
+urinary tract infections	can be a complication of	calculus of urinary tract
+calculus of urinary tract	can be passed through	natural means
+natural means	include	drinking plenty of fluids
+calculus of urinary tract	can result in	renal failure
+renal failure	is a complication of	calculus of urinary tract
+calculus of urinary tract	can be treated with	medication
+medication	helps in	relieving symptoms of calculus of urinary tract
+calculus of urinary tract	can be caused by	diet high in oxalates
+diet high in oxalates	is a risk factor for	calculus of urinary tract
+calculus of urinary tract	can lead to	kidney damage
+kidney damage	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can be associated with	urinary urgency
+urinary urgency	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can be managed with	lifestyle modifications
+lifestyle modifications	can help in	preventing calculus formation
+calculus of urinary tract	can cause	hydronephrosis
+hydronephrosis	is a complication of	calculus of urinary tract
+calculus of urinary tract	can increase the risk of	recurrent infections
+recurrent infections	are a consequence of	calculus of urinary tract
+calculus of urinary tract	can be diagnosed through	urine analysis
+urine analysis	is a test for	calculus of urinary tract
+calculus of urinary tract	can require	surgical intervention
+surgical intervention	may involve	ureteral stent placement
+ureteral stent placement	is a	treatment option for calculus of urinary tract
+calculus of urinary tract	can be prevented by	maintaining a healthy lifestyle
+maintaining a healthy lifestyle	reduces the risk of	calculus formation
+calculus of urinary tract	can result in	urinary frequency
+urinary frequency	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can lead to	kidney stone formation
+kidney stone formation	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can be associated with	urinary tract obstruction
+urinary tract obstruction	is a complication of	calculus of urinary tract
+calculus of urinary tract	can increase the risk of	renal damage
+renal damage	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can cause	urinary hesitancy
+urinary hesitancy	is a symptom of	calculus of urinary tract
+calculus of urinary tract	can be managed with	medication and dietary changes
+medication and dietary changes	help in	relieving symptoms of calculus of urinary tract
+calculus of urinary tract	can be caused by	urinary stasis
+urinary stasis	is a risk factor for	calculus of urinary tract
+calculus of urinary tract	can result in	bladder outlet obstruction
+bladder outlet obstruction	is a complication of	calculus of urinary tract
+calculus of urinary tract	can lead to	septicemia
+septicemia	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can be managed through	lifestyle modifications and medication
+lifestyle modifications and medication	help in	preventing and relieving symptoms of calculus of urinary tract
+calculus of urinary tract	can be associated with	urinary tract stones
+urinary tract stones	are a complication of	calculus of urinary tract
+calculus of urinary tract	can increase the risk of	ureteral stricture
+ureteral stricture	is a consequence of	calculus of urinary tract
+calculus of urinary tract	can cause	pyelonephritis
+pyelonephritis	is a complication of	calculus of urinary tract
+calculus of urinary tract	can be managed through	medical therapy
+medical therapy	helps in	alleviating symptoms of calculus of urinary tract
+calculus of urinary tract	can be caused by	lack of fluid intake
+lack of fluid intake	is a risk factor for	calculus of urinary tract
+calculus of urinary tract	can result in	recurrent kidney stones
+recurrent kidney stones	are a consequence of	calculus of urinary tract
+calculus of urinary tract	can be associated with	urinary tract symptoms
+urinary tract symptoms	are a manifestation of	calculus of urinary tract
+calculus of urinary tract	can be managed with	hydration and pain control
+hydration and pain control	help in	relieving symptoms of calculus of urinary tract
+calculus of urinary tract	can increase the risk of	metabolic abnormalities
+metabolic abnormalities	are a consequence of	calculus of urinary tract
+calculus of urinary tract	can cause	urinary tract inflammation
+urinary tract inflammation	is a complication of	calculus of urinary tract
+calculus of urinary tract	can be diagnosed by	urinary stone analysis
+urinary stone analysis	is a test for	calculus of urinary tract
+calculus of urinary tract	can require	surgical removal
+surgical removal	is a	treatment option for calculus of urinary tract

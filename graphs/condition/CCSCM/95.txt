@@ -1,0 +1,83 @@
+other nervous system disorders	can cause	seizures
+multiple sclerosis	is a	nervous system disorder
+Parkinson's disease	is a	nervous system disorder
+trigeminal neuralgia	is a	nervous system disorder
+migraine	is a	nervous system disorder
+alzheimer's disease	is a	nervous system disorder
+epilepsy	is a	nervous system disorder
+amyotrophic lateral sclerosis	is a	nervous system disorder
+Bell's palsy	is a	nervous system disorder
+stroke	can cause	nervous system disorders
+neuropathy	is a	nervous system disorder
+Guillain-Barre syndrome	is a	nervous system disorder
+neurofibromatosis	is a	nervous system disorder
+cerebral palsy	is a	 nervous system disorder
+neurodegenerative diseases	are a	nervous system disorder
+restless leg syndrome	is a	nervous system disorder
+tourette syndrome	is a	nervous system disorder
+dementia	is a	nervous system disorder
+huntington's disease	is a	nervous system disorder
+central nervous system	is a part of	nervous system
+peripheral nervous system	is a part of	nervous system
+neurons	are cells in	nervous system
+myelin	is a substance that protects	nerves
+neurotransmitters	are chemicals that communicate between	neurons
+dopamine	is a	neurotransmitter
+serotonin	is a	neurotransmitter
+epinephrine	is a	neurotransmitter
+acetylcholine	is a	neurotransmitter
+neuroplasticity	is the ability of	nervous system	to change
+neurogenesis	is the process of	new neurons	formation
+neurological examination	is a test for	nervous system disorders
+brain scan	is a test for	nervous system disorders
+electromyography	is a test for	nervous system disorders
+lumbar puncture	is a test for	nervous system disorders
+electroencephalogram	is a test for	nervous system disorders
+cerebral angiography	is a test for	nervous system disorders
+neurological surgery	is a treatment for	nervous system disorders
+physical therapy	is a treatment for	nervous system disorders
+occupational therapy	is a treatment for	nervous system disorders
+speech therapy	is a treatment for	nervous system disorders
+medication	is a treatment for	nervous system disorders
+electrical stimulation	is a treatment for	nervous system disorders
+deep brain stimulation	is a treatment for	nervous system disorders
+brain transplant	is a treatment for	nervous system disorders
+nerve damage	can result from	nervous system disorders
+memory loss	can be caused by	nervous system disorders
+muscle weakness	can be caused by	nervous system disorders
+numbness	can be caused by	nervous system disorders
+tingling sensation	can be caused by	nervous system disorders
+balance problems	can be caused by	nervous system disorders
+speech difficulties	can be caused by	nervous system disorders
+tremors	can be caused by	nervous system disorders
+difficulty walking	can be caused by	nervous system disorders
+muscle spasms	can be caused by	nervous system disorders
+visual disturbances	can be caused by	nervous system disorders
+hearing problems	can be caused by	nervous system disorders
+headaches	can be caused by	nervous system disorders
+seizures	can be caused by	nervous system disorders
+neurologist	is a specialist in	nervous system disorders
+neuropathologist	is a specialist in	nervous system disorders
+neurosurgeon	is a specialist in	nervous system disorders
+neuro-oncologist	is a specialist in	nervous system disorders
+neuropharmacologist	is a specialist in	nervous system disorders
+neurologist	can diagnose	nervous system disorders
+neurosurgeon	can perform	neurological surgery
+physical therapist	can provide	physical therapy
+occupational therapist	can provide	occupational therapy
+speech therapist	can provide	speech therapy
+anti-seizure medication	is a	medication to treat	nervous system disorders
+antidepressants	are	medication to treat	nervous system disorders
+antipsychotics	are	medication to treat	nervous system disorders
+muscle relaxants	are	medication to treat	nervous system disorders
+steroids	are	medication to treat	nervous system disorders
+anticholinergics	are	medication to treat	nervous system disorders
+anticonvulsants	are	medication to treat	seizures
+dopamine agonists	are	medication to treat	nervous system disorders
+rehabilitation	can help in	nervous system disorders
+preventive measures	can reduce the risk of	nervous system disorders
+lifestyle modifications	can help in managing	nervous system disorders
+support groups	can provide support in	nervous system disorders
+neurological research	can improve understanding of	nervous system disorders
+genetic factors	can increase the risk of	nervous system disorders
+environmental factors	can increase the risk of	nervous system disorders

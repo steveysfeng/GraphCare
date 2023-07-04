@@ -1,0 +1,107 @@
+conditions associated with dizziness or vertigo	includes	benign paroxysmal positional vertigo
+benign paroxysmal positional vertigo	is caused by	inner ear problems
+inner ear problems	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	vestibular migraines
+vestibular migraines	can cause	vertigo
+conditions associated with dizziness or vertigo	can be caused by	Meniere's disease
+Meniere's disease	is characterized by	vertigo and hearing loss
+conditions associated with dizziness or vertigo	can be caused by	labyrinthitis
+labyrinthitis	is an	inflammation of the inner ear
+inflammation of the inner ear	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	acoustic neuroma
+acoustic neuroma	is a	non-cancerous tumor
+non-cancerous tumor	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	medication side effects
+medication side effects	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	low blood pressure
+low blood pressure	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	dehydration
+dehydration	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	anxiety
+anxiety	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	hypoglycemia
+hypoglycemia	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	alcohol intoxication
+alcohol intoxication	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	stroke
+stroke	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	head trauma
+head trauma	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	anxiety
+anxiety	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	multiple sclerosis
+multiple sclerosis	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	aging
+aging	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	inner ear infections
+inner ear infections	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	thyroid problems
+thyroid problems	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	high altitude
+high altitude	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	heart conditions
+heart conditions	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	anemia
+anemia	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	brain tumors
+brain tumors	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	migraine headaches
+migraine headaches	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	motion sickness
+motion sickness	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	hypotension
+hypotension	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	diabetes
+diabetes	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	inner ear injury
+inner ear injury	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	inner ear cysts
+inner ear cysts	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	medication withdrawal
+medication withdrawal	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	inner ear disorders
+inner ear disorders	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	smoking
+smoking	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	hyperventilation
+hyperventilation	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	earwax blockage
+earwax blockage	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	caffeine withdrawal
+caffeine withdrawal	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	sedentary lifestyle
+sedentary lifestyle	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	abnormal heart rhythm
+abnormal heart rhythm	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	sleep disorders
+sleep disorders	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	neurologic conditions
+neurologic conditions	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	autoimmune disorders
+autoimmune disorders	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	hormonal imbalances
+hormonal imbalances	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	certain medications
+certain medications	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	poor sleep
+poor sleep	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	psychiatric disorders
+psychiatric disorders	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	spinal fluid pressure changes
+spinal fluid pressure changes	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	hormonal changes
+hormonal changes	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	poor nutrition
+poor nutrition	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	anxiety disorders
+anxiety disorders	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	blood disorders
+blood disorders	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	drug interactions
+drug interactions	can lead to	dizziness
+conditions associated with dizziness or vertigo	can be caused by	sleep apnea
+sleep apnea	can result in	dizziness
+conditions associated with dizziness or vertigo	can be caused by	neurological disorders
+neurological disorders	can cause	dizziness
+conditions associated with dizziness or vertigo	can be caused by	poor balance
+poor balance	can lead to	dizziness

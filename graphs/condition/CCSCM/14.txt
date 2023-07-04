@@ -1,0 +1,118 @@
+cancer of colon	is a	malignant tumor
+colon	is a part of	digestive system
+cancer of colon	is caused by	genetic mutations
+colonoscopy	is a test for	cancer of colon
+chemotherapy	is a treatment for	cancer of colon
+cancer of colon	can spread to	liver
+metastasis	is the process of	cancer spreading
+tumor	can cause	bowel obstruction
+colon resection	is a procedure for	removing the cancer
+stool test	is a screening method for	cancer of colon
+cancer of colon	has a high	mortality rate
+colorectal surgery	is a treatment option for	cancer of colon
+adenocarcinoma	is the most common type of	cancer of colon
+carcinogens	can increase the risk of	cancer of colon
+cancer of colon	is more common in	older adults
+family history	is a risk factor for	cancer of colon
+colon polyps	can develop into	cancer of colon
+obesity	is a risk factor for	cancer of colon
+cancer of colon	can cause	anemia
+radiation therapy	is a treatment option for	cancer of colon
+cancer of colon	is more common in	developed countries
+blood in stool	is a symptom of	cancer of colon
+fecal occult blood test	is a screening test for	cancer of colon
+cancer of colon	is associated with	a sedentary lifestyle
+targeted therapy	is a treatment option for	cancer of colon
+colonoscopy	is recommended as a	screening test
+cancer of colon	can be prevented through	lifestyle changes
+malignancy	is the potential of	cancer of colon
+cancer of colon	can cause	weight loss
+diet high in red meat	increases the risk of	cancer of colon
+cancer of colon	can be detected early through	screening
+colon cancer	can be staged using	TNM system
+cecum	is the first part of	colon
+colonoscopy	can detect	precancerous polyps
+hereditary nonpolyposis colorectal cancer	is an inherited	condition
+cancer of colon	is associated with	smoking
+cancer of colon	can cause	abdominal pain
+x-rays	can be used to detect	cancer of colon
+immunotherapy	is a treatment option for	cancer of colon
+cancer of colon	can be diagnosed through	biopsy
+colon	absorbs water and electrolytes
+cancer of colon	can cause	changes in bowel habits
+sigmoid colon	is the last part of	colon
+cancer of colon	is less common in	non-smokers
+surgical resection	is a treatment option for	cancer of colon
+cancer of colon	can cause	fatigue
+cancer of colon	can lead to	bowel perforation
+sigmoidoscopy	is a test for	cancer of colon
+cancer of colon	is more common in	men
+carcinoma	is the type of	cancer that starts in epithelial cells
+colon cancer	can be prevented through	early detection
+cancer of colon	requires	multidisciplinary treatment
+stage IV colon cancer	has a	poor prognosis
+colon	is responsible for	storing stool before elimination
+cancer of colon	can be diagnosed through	imaging tests
+genetic counseling	is recommended for	individuals with family history of colon cancer
+cancer of colon	can cause	diarrhea
+immunohistochemistry	is a laboratory technique for	diagnosing colon cancer
+microsatellite instability	is a genetic marker for	hereditary nonpolyposis colorectal cancer
+cancer of colon	can cause	rectal bleeding
+cancer of colon	can be detected through	stool DNA test
+accessory organs	assist in the process of	digestion
+cancer of colon	can cause	iron deficiency anemia
+partial colectomy	is a surgical procedure for	removing a portion of the colon
+cancer of colon	is more common in	African Americans
+prognosis	is the predicted outcome of	cancer of colon
+cancer of colon	can be treated with	radiation therapy
+healthy diet	reduces the risk of	cancer of colon
+cancer of colon	can cause	abdominal bloating
+colon	is responsible for	absorbing nutrients
+cancer of colon	can be diagnosed through	colonoscopy or biopsy
+colostomy	is a surgical procedure for	diverting the colon
+inflammatory bowel disease	is a risk factor for	cancer of colon
+cancer of colon	can cause	constipation
+sigmoid colon	is connected to	rectum
+cancer of colon	can be treated with	surgical resection
+familial adenomatous polyposis	is a genetic condition that increases the risk of	colon cancer
+cancer of colon	can cause	bowel incontinence
+cancer of colon	can be detected through	fecal immunochemical test
+adenoma	is a type of	polyp that can become cancerous
+colon	is responsible for	forming and storing feces
+cancer of colon	can metastasize to	nearby lymph nodes
+colon	is lined with	intestinal epithelial cells
+cancer of colon	is more common in	individuals with a history of inflammatory bowel disease
+laparoscopic surgery	is a minimally invasive approach for	removing colon cancer
+serrated polyps	are a type of	precancerous polyps in the colon
+cancer of colon	can cause	bowel obstruction
+high fiber diet	reduces the risk of	cancer of colon
+cancer of colon	can be treated with	targeted therapy
+colon	is divided into	ascending	transverse	descending	and sigmoid colon
+cancer of colon	can cause	vomiting
+cancer of colon	can be detected through	virtual colonoscopy
+inherited gene mutations	increase the risk of	hereditary colon cancer
+cancer of colon	is more common in	individuals with a history of colorectal polyps
+colon	is responsible for	absorbing vitamins
+cancer of colon	can cause	loss of appetite
+cancer of colon	can be treated with	immunotherapy
+colon	is responsible for	eliminating waste
+cancer of colon	can cause	abdominal discomfort
+cancer of colon	can lead to	liver metastases
+colon resection	is a surgical procedure for	removing a part of the colon
+cancer of colon	can be detected through	flexible sigmoidoscopy
+environmental factors	can increase the risk of	cancer of colon
+cancer of colon	can cause	weight gain
+colorectal cancer screening	can detect	early stages of cancer
+cancer of colon	can be treated with	chemotherapy
+colon	is responsible for	maintaining fluid and electrolyte balance
+cancer of colon	can cause	rectal pain
+prophylactic colectomy	is a preventive surgical procedure for	individuals with high risk of colon cancer
+cancer of colon	can be detected through	blood tests
+right colon	is the first part of	colon
+cancer of colon	can cause	gas and bloating
+cancer of colon	can be treated with	targeted therapy
+left colon	is the last part of	colon
+cancer of colon	can cause	back pain
+cancer of colon	can lead to	bowel perforation
+sigmoidoscopy	is a test for	cancer of colon
+cancer of colon	can cause	rectal bleeding

@@ -1,0 +1,206 @@
+peritonitis	can lead to	sepsis
+sepsis	is a cause of	mortality
+sepsis	can result in	organ failure
+peritonitis	is caused by	infection
+infection	can be caused by	bacteria
+peritonitis	is commonly associated with	abdominal pain
+peritonitis	is diagnosed through	physical examination
+physical examination	is performed by	healthcare providers
+peritonitis	may require	surgical intervention
+surgical intervention	is performed by	surgeons
+intestinal abscess	is a common	complication of peritonitis
+intestinal abscess	can be diagnosed by	imaging tests
+imaging tests	include	CT scan
+peritonitis	can cause	adhesions
+adhesions	can lead to	bowel obstruction
+bowel obstruction	may require	surgical intervention
+surgical intervention	is performed to	remove the obstruction
+peritonitis	may be complicated by	septic shock
+septic shock	is a life-threatening	condition
+septic shock	requires	immediate medical attention
+immediate medical attention	is provided by	healthcare professionals
+peritonitis	is treated with	antibiotics
+antibiotics	are prescribed by	physicians
+peritonitis	may require	hospitalization
+hospitalization	involves	admission to the hospital
+peritonitis	can be prevented by	proper hygiene
+proper hygiene	includes	hand hygiene
+peritonitis	can lead to	long-term complications
+long-term complications	may include	adhesions
+adhesions	can cause	chronic pain
+chronic pain	can be managed with	pain medications
+peritonitis	may result in	abscess formation
+abscess formation	requires	drainage
+peritonitis	can cause	fluid build-up
+fluid build-up	can be managed with	diuretics
+peritonitis	is more common in	individuals with weakened immune systems
+weakened immune systems	can be caused by	certain medical conditions
+peritonitis	can lead to	respiratory distress
+respiratory distress	can result in	respiratory failure
+peritonitis	may require	nutrition support
+nutrition support	includes	feeding tubes
+peritonitis	can result in	septic peritonitis
+septic peritonitis	is a serious	condition
+septic peritonitis	requires	prompt treatment
+prompt treatment	can help prevent	complications
+peritonitis	can cause	bowel perforation
+bowel perforation	requires	surgical repair
+surgical repair	is performed by	surgeons
+peritonitis	can be a	surgical emergency
+surgical emergency	requires	immediate intervention
+peritonitis	can lead to	septicemia
+septicemia	is a	bloodstream infection
+septicemia	can be life-threatening	if not treated promptly
+peritonitis	is more common in	individuals with compromised immune systems
+compromised immune systems	can be caused by	medications
+peritonitis	can lead to	septic shock
+septic shock	can cause	multiple organ failure
+multiple organ failure	is a	life-threatening condition
+peritonitis	can be complicated by	abscess formation
+abscess formation	requires	drainage
+peritonitis	can result in	septic peritonitis
+septic peritonitis	requires	prompt medical intervention
+prompt medical intervention	can help prevent	complications
+peritonitis	can cause	peritoneal adhesions
+peritoneal adhesions	can lead to	bowel obstruction
+bowel obstruction	may require	surgical intervention
+surgical intervention	is performed to	remove the obstruction
+peritonitis	may be associated with	fever
+fever	is a symptom of	inflammation
+peritonitis	can be caused by	perforation of the intestine
+perforation of the intestine	requires	surgical repair
+surgical repair	is performed by	surgeons
+peritonitis	can cause	abdominal distension
+abdominal distension	is a	symptom of peritonitis
+peritonitis	may require	intensive care unit (ICU) admission
+intensive care unit (ICU) admission	provides	specialized care
+peritonitis	can lead to	sepsis
+sepsis	can cause	organ dysfunction
+organ dysfunction	may require	supportive care
+supportive care	is provided by	healthcare professionals
+peritonitis	can result in	septicemia
+septicemia	is a	bloodstream infection
+septicemia	requires	prompt treatment
+prompt treatment	can help prevent	complications
+peritonitis	can cause	hypovolemic shock
+hypovolemic shock	is a	life-threatening condition
+hypovolemic shock	requires	aggressive fluid resuscitation
+aggressive fluid resuscitation	is performed by	healthcare providers
+peritonitis	may cause	malnutrition
+malnutrition	can be managed with	nutritional support
+peritonitis	can lead to	respiratory failure
+respiratory failure	requires	mechanical ventilation
+mechanical ventilation	is provided by	respiratory therapists
+peritonitis	can result in	septic shock
+septic shock	requires	intensive care
+intensive care	is provided in	critical care units
+critical care units	are staffed by	specialized healthcare professionals
+peritonitis	can cause	adynamic ileus
+adynamic ileus	is a	condition of decreased bowel movement
+adynamic ileus	may require	bowel decompression
+bowel decompression	is performed by	healthcare providers
+peritonitis	can result in	intra-abdominal abscess
+intra-abdominal abscess	requires	drainage
+peritonitis	can lead to	sepsis
+sepsis	can cause	multiple organ dysfunction syndrome
+multiple organ dysfunction syndrome	requires	intensive care
+intensive care	is provided in	critical care units
+critical care units	are staffed by	specialized healthcare professionals
+peritonitis	can cause	peritoneal inflammation
+peritoneal inflammation	can lead to	pain
+peritonitis	can result in	septic shock
+septic shock	may require	vasopressor support
+vasopressor support	is provided by	healthcare providers
+peritonitis	is associated with	abdominal tenderness
+abdominal tenderness	is a symptom of	peritonitis
+peritonitis	can be caused by	appendicitis
+appendicitis	requires	appendectomy
+appendectomy	is a surgical	procedure
+peritonitis	can lead to	septicemia
+septicemia	requires	antibiotic therapy
+antibiotic therapy	is prescribed by	physicians
+peritonitis	can result in	organ malfunction
+organ malfunction	may require	medical intervention
+medical intervention	is performed by	healthcare professionals
+peritonitis	can cause	hypotension
+hypotension	is a	low blood pressure
+peritonitis	can lead to	respiratory distress syndrome
+respiratory distress syndrome	requires	mechanical ventilation
+mechanical ventilation	is provided by	respiratory therapists
+peritonitis	can result in	septicemia
+septicemia	requires	immediate medical attention
+immediate medical attention	is provided by	healthcare professionals
+peritonitis	can cause	tachycardia
+tachycardia	is an	increased heart rate
+tachycardia	may be a sign of	infection
+peritonitis	can be caused by	perforation of the gastrointestinal tract
+perforation of the gastrointestinal tract	requires	surgical repair
+surgical repair	is performed by	surgeons
+peritonitis	can cause	anorexia
+anorexia	is a	loss of appetite
+peritonitis	is characterized by	inflammation of the peritoneum
+inflammation of the peritoneum	can lead to	peritonitis
+peritonitis	can result in	septic shock
+septic shock	requires	aggressive treatment
+aggressive treatment	is provided by	healthcare professionals
+peritonitis	can cause	abscess formation
+abscess formation	requires	drainage
+peritonitis	is associated with	fever
+fever	is a symptom of	infection
+peritonitis	can lead to	sepsis
+sepsis	can cause	organ failure
+organ failure	may require	organ transplantation
+organ transplantation	is a	surgical procedure
+peritonitis	can be complicated by	septicemia
+septicemia	can cause	disseminated intravascular coagulation
+disseminated intravascular coagulation	is a	blood clotting disorder
+disseminated intravascular coagulation	requires	medical intervention
+medical intervention	is provided by	healthcare professionals
+peritonitis	can result in	septic shock
+septic shock	requires	intensive care
+intensive care	is provided in	specialized units
+specialized units	are staffed by	healthcare professionals
+peritonitis	can cause	septicemia
+septicemia	can lead to	multiple organ failure
+multiple organ failure	is a	life-threatening condition
+peritonitis	can be caused by	diverticulitis
+diverticulitis	requires	antibiotics
+antibiotics	are prescribed by	physicians
+peritonitis	can result in	respiratory distress
+respiratory distress	requires	mechanical ventilation
+mechanical ventilation	is provided by	respiratory therapists
+peritonitis	can cause	bowel ischemia
+bowel ischemia	is a	condition of insufficient blood supply to the intestines
+bowel ischemia	requires	emergent medical intervention
+emergent medical intervention	is performed by	healthcare professionals
+peritonitis	can lead to	septicemia
+septicemia	requires	aggressive antibiotic therapy
+aggressive antibiotic therapy	is prescribed by	physicians
+peritonitis	is associated with	leukocytosis
+leukocytosis	is an	increased number of white blood cells
+peritonitis	can be caused by	perforation of the stomach
+perforation of the stomach	requires	surgical repair
+surgical repair	is performed by	surgeons
+peritonitis	can cause	gastrointestinal bleeding
+gastrointestinal bleeding	requires	medical intervention
+medical intervention	is provided by	healthcare professionals
+peritonitis	can lead to	acute kidney injury
+acute kidney injury	requires	renal replacement therapy
+renal replacement therapy	is performed by	nephrologists
+peritonitis	can cause	hepatobiliary dysfunction
+hepatobiliary dysfunction	may require	medical intervention
+medical intervention	is performed by	healthcare professionals
+peritonitis	can result in	septic shock
+septic shock	requires	immediate medical attention
+immediate medical attention	is provided by	healthcare professionals
+peritonitis	can cause	hypovolemia
+hypovolemia	requires	fluid resuscitation
+fluid resuscitation	is performed by	healthcare providers
+peritonitis	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	requires	mechanical ventilation
+mechanical ventilation	is provided by	respiratory therapists
+peritonitis	can result in	sepsis
+sepsis	can cause	multiorgan dysfunction syndrome
+multiorgan dysfunction syndrome	requires	intensive care
+intensive care	is provided in	critical care units
+critical care units	are staffed by	specialized healthcare professionals

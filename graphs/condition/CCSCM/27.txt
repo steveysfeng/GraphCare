@@ -1,0 +1,218 @@
+cancer of ovary	is a	malignant tumor
+cancer of ovary	can cause	pelvic pain
+laparotomy	is a treatment for	cancer of ovary
+cisplatin	is a	chemotherapy drug
+cancer of ovary	may metastasize to	liver
+BRCA1 mutation	increases the risk of	cancer of ovary
+cancer of ovary	may present with	bloating
+olaparib	is a	targeted therapy for cancer of ovary
+cancer of ovary	is diagnosed using	CA-125 blood test
+cancer of ovary	is associated with	increased CA-125 levels
+cancer of ovary	can lead to	ascites accumulation
+paracentesis	is a procedure to	drain ascites in cancer of ovary
+cancer of ovary	may require	surgical removal of ovaries
+ovarian cancer	has a high	mortality rate
+cancer of ovary	is often detected in	advanced stages
+cancer of ovary	is more common in	postmenopausal women
+tamoxifen	is a	hormone therapy for cancer of ovary
+cancer of ovary	may be treated with	radiation therapy
+cancer of ovary	can spread to	lymph nodes
+lymphadenectomy	is a procedure to	remove affected lymph nodes in cancer of ovary
+cancer of ovary	can cause	weight loss
+cancer of ovary	is linked to	family history of ovarian cancer
+genetic counseling	is recommended for	individuals with family history of cancer of ovary
+cancer of ovary	is staged using	FIGO staging system
+chemotherapy	is often administered	after surgery for cancer of ovary
+cancer of ovary	is associated with	BRCA2 mutation
+bevacizumab	is a	targeted therapy for cancer of ovary
+cancer of ovary	is more common in	older women
+cancer of ovary	can cause	fatigue
+sentinel lymph node biopsy	is performed to	detect spread of cancer of ovary to nearby lymph nodes
+cancer of ovary	may be treated with	combination therapy of surgery and chemotherapy
+cancer of ovary	has a	poor prognosis
+cancer of ovary	can cause	urinary symptoms
+cancer of ovary	is more common in	individuals with a history of endometriosis
+endometriosis	is a	risk factor for cancer of ovary
+cancer of ovary	can spread to	peritoneum
+peritonectomy	is a surgical procedure to	remove peritoneal implants in cancer of ovary
+cancer of ovary	is associated with	elevated levels of tumor markers
+cancer of ovary	is less common	in nulliparous women
+cancer of ovary	can cause	abnormal bleeding
+cancer of ovary	is associated with	BRIP1 mutation
+carboplatin	is a	chemotherapy drug used in cancer of ovary
+cancer of ovary	can lead to	intestinal obstruction
+cancer of ovary	is more common in	individuals with Lynch syndrome
+Lynch syndrome	increases the risk of	cancer of ovary
+cancer of ovary	can be detected using	transvaginal ultrasound
+cancer of ovary	is treated using	neoadjuvant chemotherapy followed by surgery
+cancer of ovary	is associated with	the presence of BRCA1 gene mutations
+cancer of ovary	can cause	pleural effusion
+pleurodesis	is a procedure to	prevent re-accumulation of pleural effusion in cancer of ovary
+cancer of ovary	can result in	bowel obstruction
+cecum	is a common site of	bowel obstruction in cancer of ovary
+cancer of ovary	is associated with	hormonal imbalance
+cancer of ovary	is more common in	individuals with obesity
+cancer of ovary	can cause	dyspareunia
+cancer of ovary	is associated with	family history of breast cancer
+cancer of ovary	is treated using	a multidisciplinary approach
+cancer of ovary	can cause	neuropathy
+taxane	is a	chemotherapy drug used in cancer of ovary
+cancer of ovary	is associated with	endometrioid histology
+cancer of ovary	may be detected using	pelvic ultrasound
+Maintenance therapy	with PARP inhibitors is given	after first-line treatment for cancer of ovary
+cancer of ovary	can cause	anemia
+cancer of ovary	is more common in	individuals with a family history of colon cancer
+aspirin	is a	chemoprevention agent for cancer of ovary
+cancer of ovary	is often silent	in initial stages
+cancer of ovary	is more common in	individuals with a family history of pancreatic cancer
+pancreatic cancer	increases the risk of	cancer of ovary
+cancer of ovary	is associated with	the presence of TP53 gene mutations
+cancer of ovary	can cause	jaundice
+cancer of ovary	is more common in	individuals with a family history of lung cancer
+lung cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	thromboembolism
+cancer of ovary	is associated with	higher BMI
+cancer of ovary	is less common in	individuals with early menopause
+testosterone	is a	hormone associated with cancer of ovary
+cancer of ovary	can cause	neuropathic pain
+neuraxial anesthesia	is used for	pain management in cancer of ovary
+cancer of ovary	is more common in	individuals with fertility drugs use
+fertility drugs	are associated with	increased risk of cancer of ovary
+cancer of ovary	can cause	pleural effusion
+pleurodesis	is a procedure to	prevent recurrence of pleural effusion in cancer of ovary
+cancer of ovary	is more common in	individuals with a family history of leukemia
+leukemia	increases the risk of	cancer of ovary
+cancer of ovary	can cause	peripheral neuropathy
+cancer of ovary	is associated with	higher levels of insulin
+cancer of ovary	is less common in	individuals who have given birth
+cancer of ovary	can cause	lymphedema
+cancer of ovary	is more common in	individuals with Lynch syndrome
+Lynch syndrome	increases the risk of	cancer of ovary
+cancer of ovary	can lead to	pleural effusion
+pleurodesis	is used to	manage pleural effusion in cancer of ovary
+cancer of ovary	is associated with	elevated levels of CA-125
+cancer of ovary	is less common in	individuals with a history of breastfeeding
+cancer of ovary	can cause	neuropathic pain
+cancer of ovary	is more common in	individuals with a history of using talcum powder
+talcum powder	is a	risk factor for cancer of ovary
+cancer of ovary	is treated using	platinum-based chemotherapy
+cancer of ovary	can cause	venous thromboembolism
+cancer of ovary	is associated with	higher levels of estrogen
+cancer of ovary	is more common in	individuals with a family history of ovarian cancer
+cancer of ovary	can cause	early satiety
+cancer of ovary	is more common in	individuals with a family history of cervical cancer
+cervical cancer	increases the risk of	cancer of ovary
+cancer of ovary	can metastasize to	lungs
+cancer of ovary	is associated with	higher levels of testosterone
+cancer of ovary	is more common in	postmenopausal women
+cancer of ovary	can cause	neuropathy
+cancer of ovary	is associated with	higher levels of luteinizing hormone
+cancer of ovary	is less common in	individuals with a history of tubal ligation
+cancer of ovary	can result in	bowel obstruction
+colon	is a common site of	bowel obstruction in cancer of ovary
+cancer of ovary	is associated with	insulin resistance
+cancer of ovary	is more common in	individuals with a history of hormone replacement therapy
+hormone replacement therapy	increases the risk of	cancer of ovary
+cancer of ovary	can cause	chronic abdominal pain
+cancer of ovary	is more common in	individuals with a family history of prostate cancer
+prostate cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	thromboembolism
+cancer of ovary	is associated with	higher levels of follicle-stimulating hormone
+cancer of ovary	is less common in	individuals with minimal or no alcohol consumption
+cancer of ovary	can spread to	spleen
+cancer of ovary	is more common in	individuals with a family history of colorectal cancer
+colorectal cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	neuropathy
+cancer of ovary	is associated with	higher levels of progesterone
+cancer of ovary	is less common in	individuals with a history of breastfeeding
+cancer of ovary	can cause	cachexia
+cancer of ovary	is more common in	individuals with a family history of endometrial cancer
+endometrial cancer	increases the risk of	cancer of ovary
+cancer of ovary	can metastasize to	bones
+cancer of ovary	is associated with	higher levels of inhibin
+cancer of ovary	is more common in	individuals with a family history of uterine cancer
+uterine cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	deep vein thrombosis
+cancer of ovary	is associated with	higher levels of CA-19.9
+cancer of ovary	is less common in	individuals who have used oral contraceptives
+cancer of ovary	can spread to	brain
+cancer of ovary	is more common in	individuals with a family history of stomach cancer
+stomach cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	peripheral neuropathy
+cancer of ovary	is associated with	higher levels of Human Epididymis Protein 4 (HE4)
+cancer of ovary	is more common in	individuals with a family history of liver cancer
+liver cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	neuropathic pain
+neuraxial anesthesia	is used for	pain control in cancer of ovary
+cancer of ovary	is more common in	individuals with a history of smoking
+cigarette smoking	increases the risk of	cancer of ovary
+cancer of ovary	can metastasize to	lymph nodes
+cancer of ovary	is associated with	higher levels of Cancer Antigen 19-9 (CA-19.9)
+cancer of ovary	is less common in	individuals with a history of oral contraceptive use
+cancer of ovary	can cause	cachexia
+cancer of ovary	is more common in	individuals with a family history of pancreatic cancer
+pancreatic cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	peripheral neuropathy
+cancer of ovary	is associated with	higher levels of Human Epididymis Protein 4 (HE4)
+cancer of ovary	is more common in	individuals with a family history of liver cancer
+liver cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	dysgeusia
+cancer of ovary	is associated with	higher levels of Immunoglobulin G (IgG)
+cancer of ovary	is more common in	individuals with a family history of colorectal cancer
+colorectal cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	acute kidney injury
+cancer of ovary	is associated with	higher levels of Human Epididymis Protein 4 (HE4)
+cancer of ovary	is less common in	individuals who have used oral contraceptives
+cancer of ovary	can cause	constipation
+cancer of ovary	is more common in	individuals with a family history of pancreas cancer
+pancreas cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	chronic neuropathic pain
+cancer of ovary	is associated with	higher levels of Cancer Antigen 19-9 (CA-19.9)
+cancer of ovary	is more common in	individuals with a history of hormone replacement therapy
+hormone replacement therapy	increases the risk of	cancer of ovary
+cancer of ovary	can cause	myalgia
+cancer of ovary	is associated with	higher levels of Luteinizing Hormone (LH)
+cancer of ovary	is less common in	individuals who have undergone tubal ligation
+cancer of ovary	can metastasize to	liver
+cancer of ovary	is associated with	higher levels of Estradiol
+cancer of ovary	is more common in	individuals with a family history of gastric cancer
+gastric cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	chronic peripheral neuropathy
+cancer of ovary	is associated with	higher levels of Inhibin B
+cancer of ovary	is more common in	individuals with a family history of uterus cancer
+uterus cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	peripheral venous thrombosis
+cancer of ovary	is associated with	higher levels of CA 15-3
+cancer of ovary	is less common in	individuals with a history of oral contraceptive usage
+cancer of ovary	can spread to	brain
+cancer of ovary	is more common in	individuals with a family history of stomach cancer
+stomach cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	chronic neuropathy
+cancer of ovary	is associated with	higher levels of CA 125
+cancer of ovary	is less common in	individuals with a history of birth control pill usage
+cancer of ovary	can cause	chronic cachexia
+cancer of ovary	is more common in	individuals with a family history of pancreatic cancer
+pancreatic cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	painful peripheral neuropathy
+cancer of ovary	is associated with	higher levels of human epididymis protein 4
+cancer of ovary	is more common in	individuals with a family history of liver cancer
+liver cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	ageusia
+cancer of ovary	is associated with	higher levels of immunoglobulin G
+cancer of ovary	is more common in	individuals with a family history of colorectal cancer
+colorectal cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	acute renal failure
+cancer of ovary	is associated with	higher levels of human epididymis protein 4
+cancer of ovary	is less common in	individuals who have used oral contraceptives
+cancer of ovary	can cause	constipation
+cancer of ovary	is more common in	individuals with a family history of pancreas cancer
+pancreas cancer	increases the risk of	cancer of ovary
+cancer of ovary	can cause	chronic neuropathic pain
+cancer of ovary	is associated with	higher levels of cancer antigen 19-9
+cancer of ovary	is more common in	individuals with a history of hormone replacement therapy
+hormone replacement therapy	increases the risk of	cancer of ovary
+cancer of ovary	can cause	myalgia
+cancer of ovary	is associated with	higher levels of luteinizing hormone
+cancer of ovary	is less common in	individuals who have undergone tubal ligation
+cancer of ovary	can metastasize to	liver
+cancer of ovary	is associated with	higher levels of estradiol

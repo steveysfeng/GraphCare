@@ -1,0 +1,56 @@
+genitourinary symptoms	can be caused by	urinary tract infection
+urinary tract infection	can lead to	sepsis
+sepsis	is a	life-threatening condition
+genitourinary symptoms	can be caused by	kidney stones
+kidney stones	can cause	hematuria
+hematuria	is the presence of	blood in the urine
+genitourinary symptoms	can be caused by	bladder infection
+bladder infection	can cause	frequent urination
+frequent urination	can be a symptom of	diabetes
+diabetes	is a	metabolic disorder
+genitourinary symptoms	can be caused by	prostate enlargement
+prostate enlargement	can lead to	urinary retention
+urinary retention	is the inability to	empty the bladder
+genitourinary symptoms	can be caused by	sexually transmitted infections
+sexually transmitted infections	can cause	urethritis
+urethritis	is the inflammation of	the urethra
+genitourinary symptoms	can be caused by	interstitial cystitis
+interstitial cystitis	is a	chronic bladder condition
+genitourinary symptoms	can be caused by	ovarian cysts
+ovarian cysts	can cause	pelvic pain
+pelvic pain	can be a symptom of	endometriosis
+endometriosis	is a	condition where tissue similar to the lining of the uterus grows outside the uterus
+genitourinary symptoms	can be caused by	testicular torsion
+testicular torsion	can cause	severe testicular pain
+severe testicular pain	can be a symptom of	testicular cancer
+testicular cancer	is a	type of cancer that forms in the testicles
+genitourinary symptoms	can be caused by	prostate cancer
+prostate cancer	can cause	difficulty urinating
+difficulty urinating	can be a symptom of	benign prostatic hyperplasia
+benign prostatic hyperplasia	is a	noncancerous enlargement of the prostate
+genitourinary symptoms	can be caused by	bladder cancer
+bladder cancer	can cause	hematuria
+genitourinary symptoms	can be caused by	kidney cancer
+kidney cancer	can cause	flank pain
+flank pain	is pain in the	lower back/sides
+genitourinary symptoms	can be caused by	uterine fibroids
+uterine fibroids	can cause	heavy menstrual bleeding
+heavy menstrual bleeding	can be a symptom of	endometrial cancer
+endometrial cancer	is a	type of cancer that begins in the lining of the uterus
+genitourinary symptoms	can be caused by	polycystic ovary syndrome
+polycystic ovary syndrome	can cause	irregular menstrual periods
+irregular menstrual periods	can be a symptom of	ovarian cancer
+ovarian cancer	is a	type of cancer that begins in the ovaries
+genitourinary symptoms	can be caused by	urinary incontinence
+urinary incontinence	can be caused by	weakened pelvic muscles
+weakened pelvic muscles	can be caused by	childbirth
+genitourinary symptoms	can be caused by	erectile dysfunction
+erectile dysfunction	can be caused by	diabetes
+genitourinary symptoms	can be caused by	infertility
+infertility	can be caused by	blocked fallopian tubes
+blocked fallopian tubes	can be caused by	pelvic inflammatory disease
+pelvic inflammatory disease	is an	infection of the female reproductive organs
+genitourinary symptoms	can be caused by	urinary retention
+urinary retention	can be caused by	medications
+medications	can cause	side effects
+side effects	can include	genitourinary symptoms

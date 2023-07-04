@@ -1,0 +1,91 @@
+allergic reactions	can cause	hives
+allergic reactions	can lead to	anaphylaxis
+epinephrine	is used to treat	anaphylaxis
+allergic reactions	can result in	respiratory distress
+albuterol	is a medication for	respiratory distress
+allergic reactions	can cause	itching
+antihistamines	can relieve	itching
+allergic reactions	can manifest as	eczema
+topical corticosteroids	are used to treat	eczema
+allergic reactions	can lead to	asthma
+inhaled corticosteroids	are used to manage	asthma
+allergic reactions	can result in	swelling
+antihistamines	can reduce	swelling
+allergic reactions	can cause	watery eyes
+antihistamine eye drops	can alleviate	watery eyes
+allergic reactions	can manifest as	rhinitis
+nasal corticosteroids	are used to treat	rhinitis
+allergic reactions	can lead to	sinusitis
+decongestants	can relieve	sinusitis
+allergic reactions	can result in	gastrointestinal symptoms
+antiemetics	can help with	gastrointestinal symptoms
+allergic reactions	can cause	an itchy throat
+throat lozenges	can soothe	an itchy throat
+allergic reactions	can manifest as	conjunctivitis
+antihistamine eye drops	can treat	conjunctivitis
+allergic reactions	can lead to	angioedema
+oral antihistamines	can alleviate	angioedema
+allergic reactions	can result in	coughing
+cough suppressants	can help with	coughing
+allergic reactions	can cause	shortness of breath
+bronchodilators	can relieve	shortness of breath
+allergic reactions	can manifest as	chest tightness
+mast cell stabilizers	can alleviate	chest tightness
+allergic reactions	can lead to	lightheadedness
+antihistamines	can reduce	lightheadedness
+allergic reactions	can result in	low blood pressure
+epinephrine	can increase	blood pressure
+allergic reactions	can cause	fainting
+corticosteroids	can help prevent	fainting
+allergic reactions	can manifest as	fatigue
+caffeine	can relieve	fatigue
+allergic reactions	can lead to	insomnia
+sedating antihistamines	can aid with	insomnia
+allergic reactions	can result in	anxiety
+anti-anxiety medications	can help with	anxiety
+allergic reactions	can cause	depression
+antidepressants	can alleviate	depression
+allergic reactions	can manifest as	irritability
+relaxation techniques	can help with	irritability
+allergic reactions	can lead to	muscle and joint pain
+nonsteroidal anti-inflammatory drugs	can relieve	muscle and joint pain
+allergic reactions	can result in	headaches
+over-the-counter pain relievers	can help with	headaches
+allergic reactions	can cause	brain fog
+stimulants	can counteract	brain fog
+allergic reactions	can manifest as	memory problems
+cognitive therapy	can improve	memory problems
+allergic reactions	can lead to	weight gain
+dietary adjustments	can help manage	weight gain
+allergic reactions	can result in	hair loss
+minoxidil	can stimulate	hair growth
+allergic reactions	can cause	dry skin
+moisturizers	can hydrate	dry skin
+allergic reactions	can manifest as	nail changes
+nail hardeners	can strengthen	nails
+allergic reactions	can lead to	anemia
+iron supplements	can treat	anemia
+allergic reactions	can result in	decreased libido
+counseling	can address	decreased libido
+allergic reactions	can cause	menstrual irregularities
+hormonal birth control	can regulate	menstrual irregularities
+allergic reactions	can manifest as	infertility
+fertility treatments	can assist with	infertility
+allergic reactions	can lead to	complications during pregnancy
+regular prenatal care	can help manage	complications during pregnancy
+allergic reactions	can result in	increased risk of infections
+proper hygiene practices	can reduce	risk of infections
+allergic reactions	can cause	impaired immune function
+immune-boosting supplements	can support	immune function
+allergic reactions	can worsen	respiratory conditions
+avoiding triggers	can help minimize	respiratory conditions
+allergic reactions	can exacerbate	cardiovascular diseases
+medications for cardiovascular conditions	can help manage	exacerbations
+allergic reactions	can result in	increased need for healthcare
+regular medical check-ups	can monitor	healthcare needs
+allergic reactions	can lead to	higher healthcare costs
+insurance coverage	can help offset	healthcare costs
+allergic reactions	can cause	decreased quality of life
+support groups	can provide	emotional support
+allergic reactions	can negatively impact	mental health
+therapy	can improve	mental health

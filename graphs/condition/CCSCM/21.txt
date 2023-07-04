@@ -1,0 +1,20 @@
+cancer of bone and connective tissue	is a	malignant condition
+osteosarcoma	is a type of	cancer of bone and connective tissue
+ewings sarcoma	is a type of	cancer of bone and connective tissue
+chondrosarcoma	is a type of	cancer of bone and connective tissue
+cancer of bone and connective tissue	can cause	pain
+cancer of bone and connective tissue	can cause	fractures
+surgical resection	is a treatment for	cancer of bone and connective tissue
+chemotherapy	is a treatment for	cancer of bone and connective tissue
+radiotherapy	is a treatment for	cancer of bone and connective tissue
+methotrexate	is a drug used in	chemotherapy
+doxorubicin	is a drug used in	chemotherapy
+radiation therapy	can cause	skin burns
+radiation therapy	can cause	fatigue
+cancer of bone and connective tissue	has a higher mortality rate	compared to other cancers
+osteosarcoma	has a higher risk of metastasis	compared to other types of cancer of bone and connective tissue
+chondrosarcoma	has a higher risk of recurrence	compared to other types of cancer of bone and connective tissue
+cancer of bone and connective tissue	may require	amputation
+palliative care	is important for patients with	cancer of bone and connective tissue
+cancer of bone and connective tissue	is commonly diagnosed	in younger individuals
+cancer of bone and connective tissue	has a worse prognosis	in advanced stages

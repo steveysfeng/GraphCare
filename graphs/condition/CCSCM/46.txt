@@ -1,0 +1,102 @@
+benign neoplasm	is a	tumor
+uterus	can develop	benign neoplasm
+benign neoplasm	may cause	abnormal bleeding
+hysterectomy	is a treatment for	benign neoplasm of uterus
+benign neoplasm of uterus	can be	asymptomatic
+ultrasound	is used to	diagnose benign neoplasm of uterus
+fibroids	are a type of	benign neoplasm of uterus
+benign neoplasm of uterus	is associated with	increased risk of infertility
+benign neoplasm of uterus	can be	hormone-dependent
+benign neoplasm of uterus	rarely transforms into	malignant neoplasm
+benign neoplasm of uterus	is commonly found in	women of reproductive age
+endometrial biopsy	is performed to	evaluate benign neoplasm of uterus
+myomectomy	is a surgical procedure for	benign neoplasm of uterus
+prolapse	can be caused by	large benign neoplasm of uterus
+benign neoplasm of uterus	can be	hereditary
+hormonal therapy	can be used to	manage symptoms of benign neoplasm of uterus
+benign neoplasm of uterus	can lead to	anemia
+adenomyosis	can coexist with	benign neoplasm of uterus
+benign neoplasm of uterus	can recur	after treatment
+benign neoplasm of uterus	has a	low overall mortality rate
+benign neoplasm of uterus	can cause	pelvic pain
+hormone replacement therapy	may increase	growth of benign neoplasm of uterus
+benign neoplasm of uterus	is commonly found in	African American women
+hormonal imbalance	may contribute to	development of benign neoplasm of uterus
+benign neoplasm of uterus	can be	surgically removed
+MRI	is used to	evaluate benign neoplasm of uterus
+benign neoplasm of uterus	rarely recurs	after menopause
+benign neoplasm of uterus	can cause	pressure symptoms
+laparoscopic myomectomy	is a minimally invasive	surgical treatment for benign neoplasm of uterus
+benign neoplasm of uterus	is often diagnosed through	physical examination
+benign neoplasm of uterus	is associated with	increased risk of preterm birth
+benign neoplasm of uterus	can cause	urinary symptoms
+hysteroscopy	allows visualization of	benign neoplasm of uterus
+benign neoplasm of uterus	can lead to	enlarged uterus
+endometrial hyperplasia	can coexist with	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	fertility problems
+abdominal myomectomy	is a surgical approach for	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	dyspareunia
+polyps	can be mistaken for	benign neoplasm of uterus
+benign neoplasm of uterus	can be	hormonally responsive
+benign neoplasm of uterus	is more common in	obese women
+benign neoplasm of uterus	can cause	urinary retention
+transvaginal ultrasound	is used for	early detection of benign neoplasm of uterus
+benign neoplasm of uterus	is associated with	heavy menstrual bleeding
+adenomyosis	can mimic	benign neoplasm of uterus
+benign neoplasm of uterus	may require	surgical intervention
+benign neoplasm of uterus	can cause	constipation
+Family history	is a risk factor for	benign neoplasm of uterus
+benign neoplasm of uterus	is associated with	increased risk of cesarean section
+benign neoplasm of uterus	does not increase	the risk of cervical cancer
+benign neoplasm of uterus	can cause	back pain
+abdominal myomectomy	carries a	risk of scarring
+benign neoplasm of uterus	can be	monitored with regular ultrasounds
+infertility	can be a consequence of	benign neoplasm of uterus
+benign neoplasm of uterus	is more common in	women with early menarche
+benign neoplasm of uterus	may require	blood transfusion
+benign neoplasm of uterus	can cause	dysmenorrhea
+hormonal contraception	can help manage	symptoms of benign neoplasm of uterus
+benign neoplasm of uterus	is often discovered during	routine pelvic exam
+asymptomatic	benign neoplasm of uterus	does not require	treatment
+benign neoplasm of uterus	can cause	subfertility
+benign neoplasm of uterus	can be	single or multiple
+abdominal pain	can be caused by	benign neoplasm of uterus
+benign neoplasm of uterus	is associated with	elevated estrogen levels
+benign neoplasm of uterus	is typically diagnosed using	imaging tests
+benign neoplasm of uterus	can cause	miscarriage
+hysterectomy	is a definitive	treatment for benign neoplasm of uterus
+benign neoplasm of uterus	can grow	slowly
+progestin therapy	can help shrink	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	bloating
+obesity	is a risk factor for	benign neoplasm of uterus
+benign neoplasm of uterus	can increase	the risk of postpartum hemorrhage
+benign neoplasm of uterus	can cause	irregular menstrual periods
+benign neoplasm of uterus	is more common in	women without children
+benign neoplasm of uterus	can cause	weight gain
+laparotomy	is an alternative surgical procedure for	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	fatigue
+endometriosis	can coexist with	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	abdominal fullness
+uterine artery embolization	is a nonsurgical treatment for	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	lower back pain
+benign neoplasm of uterus	can be	hormone-sensitive
+benign neoplasm of uterus	can cause	urinary incontinence
+benign neoplasm of uterus	can cause	bloating
+benign neoplasm of uterus	can cause	abnormal pap smears
+benign neoplasm of uterus	can be	monitored through regular pelvic exams
+benign neoplasm of uterus	can cause	lower abdominal pain
+benign neoplasm of uterus	can result in	anemia
+cervical fibroids	are a type of	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	bladder dysfunction
+benign neoplasm of uterus	can lead to	submucosal fibroids
+benign neoplasm of uterus	can cause	urinary frequency
+benign neoplasm of uterus	may require	treatment for symptomatic relief
+benign neoplasm of uterus	can be	hormone-dependent
+benign neoplasm of uterus	can lead to	dyspareunia
+benign neoplasm of uterus	can cause	enlargement of abdomen
+benign neoplasm of uterus	can cause	abdominal cramps
+benign neoplasm of uterus	can cause	postmenopausal bleeding
+benign neoplasm of uterus	can cause	nausea
+endometrial polyps	can coexist with	benign neoplasm of uterus
+benign neoplasm of uterus	can cause	pain during sex
+benign neoplasm of uterus	is more common in	women with high BMI

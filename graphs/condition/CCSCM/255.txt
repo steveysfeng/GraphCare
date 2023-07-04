@@ -1,0 +1,85 @@
+administrative/social admission	is a type of	hospital admission
+administrative/social admission	is non-medical,
+administrative/social admission	is used for	social reasons
+administrative/social admission	may be	voluntary
+administrative/social admission	is often associated with	mental health issues
+administrative/social admission	can be requested by	a legal guardian
+administrative/social admission	is regulated by	healthcare policies
+administrative/social admission	is different from	medical admission
+administrative/social admission	has	legal implications
+administrative/social admission	requires	documentation
+administrative/social admission	may involve	assessments by a mental health professional
+administrative/social admission	can result in	referral to community resources
+administrative/social admission	often involves	collaboration between healthcare providers and social workers
+administrative/social admission	is often temporary
+administrative/social admission	can be	stressful
+administrative/social admission	can impact	family dynamics
+administrative/social admission	requires	coordination with outpatient services
+administrative/social admission	may involve	medication management
+administrative/social admission	may require	follow-up care
+administrative/social admission	may lead to	discharge planning
+administrative/social admission	can be	costly
+administrative/social admission	may be	covered by insurance
+administrative/social admission	may involve	peer support
+administrative/social admission	may require	consent
+administrative/social admission	is influenced by	cultural factors
+administrative/social admission	may result in	reduced stigma
+administrative/social admission	may affect	employment status
+administrative/social admission	can lead to	community reintegration
+administrative/social admission	requires	confidentiality
+administrative/social admission	involves	ethical considerations
+administrative/social admission	is part of	mental healthcare system
+administrative/social admission	may involve	legal advocacy
+administrative/social admission	can be	traumatic
+administrative/social admission	may involve	support groups
+administrative/social admission	can result in	improved mental health outcomes
+administrative/social admission	requires	assessment of risk
+administrative/social admission	may involve	crisis intervention
+administrative/social admission	may involve	physical restraint
+administrative/social admission	may involve	seclusion
+administrative/social admission	is a form of	collaborative care
+administrative/social admission	is based on	clinical judgement
+administrative/social admission	may involve	court proceedings
+administrative/social admission	may involve	discharge against medical advice
+administrative/social admission	requires	documentation of consent
+administrative/social admission	may involve	cultural sensitivity
+administrative/social admission	is associated with	patient autonomy
+administrative/social admission	may be	time-limited
+administrative/social admission	may be	therapeutic
+administrative/social admission	is often located in	specialized units
+administrative/social admission	may involve	vocational rehabilitation
+administrative/social admission	may require	behavioral interventions
+administrative/social admission	may involve	family therapy
+administrative/social admission	can affect	social support system
+administrative/social admission	is usually	coordinated by a care team
+administrative/social admission	may involve	peer mentors
+administrative/social admission	can result in	increased access to resources
+administrative/social admission	may require	advance directives
+administrative/social admission	may involve	cognitive behavioral therapy
+administrative/social admission	can impact	housing stability
+administrative/social admission	may require	guardianship
+administrative/social admission	may involve	case management
+administrative/social admission	may require	physical health screenings
+administrative/social admission	may involve	group therapy
+administrative/social admission	can lead to	social reintegration
+administrative/social admission	is often part of	care coordination
+administrative/social admission	may require	psychoeducation
+administrative/social admission	may involve	recreation therapy
+administrative/social admission	may require	occupational therapy
+administrative/social admission	can result in	improved quality of life
+administrative/social admission	is influenced by	social determinants of health
+administrative/social admission	is a	multidisciplinary approach
+administrative/social admission	may involve	discharge planning
+administrative/social admission	may require	crisis hotline support
+administrative/social admission	can lead to	community integration
+administrative/social admission	may involve	self-help groups
+administrative/social admission	may require	psychotherapy
+administrative/social admission	may involve	medication adjustment
+administrative/social admission	can result in	improved social functioning
+administrative/social admission	requires	family involvement
+administrative/social admission	may involve	community outreach
+administrative/social admission	may require	legal representation
+administrative/social admission	may involve	cultural competency training
+administrative/social admission	can affect	treatment adherence
+administrative/social admission	may be	part of structured programs
+administrative/social admission	may involve	life skills training

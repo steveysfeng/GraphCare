@@ -1,0 +1,20 @@
+maintenance chemotherapy	is a treatment for	cancer
+radiotherapy	is a treatment for	cancer
+maintenance chemotherapy	is often used in combination with	radiotherapy
+maintenance chemotherapy	can help prevent	cancer recurrence
+radiotherapy	uses	high-energy radiation
+maintenance chemotherapy	is administered	intravenously
+radiotherapy	can target	specific tumor sites
+maintenance chemotherapy	may cause	side effects
+radiotherapy	can damage	healthy cells
+maintenance chemotherapy	is typically given	over a long period of time
+radiotherapy	is delivered	in multiple sessions
+maintenance chemotherapy	is used after	initial cancer treatment
+radiotherapy	can be used before	surgery for tumor shrinkage
+maintenance chemotherapy	is effective in	killing cancer cells
+radiotherapy	can be used as	palliative treatment
+maintenance chemotherapy	affects	cell division in cancer cells
+radiotherapy	destroys	DNA in cancer cells
+maintenance chemotherapy	can result in	bone marrow suppression
+radiotherapy	can lead to	radiation-induced fibrosis
+maintenance chemotherapy	can be combined with	targeted therapies

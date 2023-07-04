@@ -1,0 +1,100 @@
+E codes	are used for	classification of external causes of injury
+Motor vehicle traffic	is a cause of	injury
+Motor vehicle traffic	is associated with	accidents
+Accidents	can result in	traumatic injuries
+Motor vehicle traffic	can lead to	fatalities
+Motor vehicle traffic	is a risk factor for	whiplash injuries
+Whiplash injuries	can cause	neck pain and stiffness
+Motor vehicle traffic	is linked to	head injuries
+Head injuries	can result in	concussions
+Concussions	may lead to	long-term cognitive impairments
+Motor vehicle traffic	is a contributing factor to	spinal cord injuries
+Spinal cord injuries	can cause	paralysis
+Motor vehicle traffic	is associated with	fractures
+Fractures	can result in	bone deformities
+Motor vehicle traffic	is a risk factor for	internal organ injuries
+Internal organ injuries	can lead to	internal bleeding
+Motor vehicle traffic	is a common cause of	chest injuries
+Chest injuries	can cause	rib fractures
+Motor vehicle traffic	is a risk factor for	pelvic fractures
+Pelvic fractures	can result in	significant pain and immobility
+Motor vehicle traffic	is linked to	abdominal injuries
+Abdominal injuries	can cause	internal organ damage
+Motor vehicle traffic	is a contributing factor to	limb injuries
+Limb injuries	can lead to	fractures or amputations
+Motor vehicle traffic	is associated with	psychological distress
+Psychological distress	can result in	post-traumatic stress disorder
+Motor vehicle traffic	is a risk factor for	burns
+Burns	can cause	severe pain and scarring
+Motor vehicle traffic	is linked to	eye injuries
+Eye injuries	can result in	vision loss
+Motor vehicle traffic	is a contributing factor to	dental injuries
+Dental injuries	can cause	tooth fractures or loss
+Motor vehicle traffic	is associated with	psychological trauma
+Psychological trauma	can lead to	anxiety and depression
+Motor vehicle traffic	is a risk factor for	spinal fractures
+Spinal fractures	can result in	spinal cord compression
+Motor vehicle traffic	is linked to	soft tissue injuries
+Soft tissue injuries	can cause	bruising and swelling
+Motor vehicle traffic	is a contributing factor to	joint dislocations
+Joint dislocations	can lead to	joint instability
+Motor vehicle traffic	is associated with	skull fractures
+Skull fractures	can cause	brain injuries
+Motor vehicle traffic	is a risk factor for	nerve damage
+Nerve damage	can result in	numbness or paralysis
+Motor vehicle traffic	is linked to	facial injuries
+Facial injuries	can cause	facial fractures or lacerations
+Motor vehicle traffic	is a contributing factor to	organ punctures
+Organ punctures	can lead to	life-threatening internal bleeding
+Motor vehicle traffic	is associated with	dislocations
+Dislocations	can result in	joint instability
+Motor vehicle traffic	is a risk factor for	traumatic amputations
+Traumatic amputations	can cause	permanent loss of limb function
+Motor vehicle traffic	is linked to	psychological disorders
+Psychological disorders	can lead to	impaired daily functioning
+Motor vehicle traffic	is a contributing factor to	fractures
+Fractures	can result in	delayed healing
+Motor vehicle traffic	is associated with	spinal cord injuries
+Spinal cord injuries	can cause	paralysis
+Motor vehicle traffic	is a risk factor for	joint injuries
+Joint injuries	can lead to	chronic pain and arthritis
+Motor vehicle traffic	is linked to	open wounds
+Open wounds	can cause	infections
+Motor vehicle traffic	is a contributing factor to	traumatic brain injuries
+Traumatic brain injuries	can result in	cognitive impairments
+Motor vehicle traffic	is associated with	musculoskeletal injuries
+Musculoskeletal injuries	can cause	limited mobility
+Motor vehicle traffic	is a risk factor for	internal bleeding
+Internal bleeding	can lead to	hemorrhagic shock
+Motor vehicle traffic	is linked to	facial fractures
+Facial fractures	can cause	facial deformities
+Motor vehicle traffic	is a contributing factor to	chest trauma
+Chest trauma	can result in	pneumothorax or hemothorax
+Motor vehicle traffic	is associated with	skull injuries
+Skull injuries	can cause	brain hemorrhage
+Motor vehicle traffic	is a risk factor for	spinal cord compression
+Spinal cord compression	can lead to	paralysis
+Motor vehicle traffic	is linked to	limb fractures
+Limb fractures	can result in	impaired mobility
+Motor vehicle traffic	is a contributing factor to	eye trauma
+Eye trauma	can cause	permanent vision loss
+Motor vehicle traffic	is associated with	nerve injuries
+Nerve injuries	can lead to	sensory or motor dysfunction
+Motor vehicle traffic	is a risk factor for	dental trauma
+Dental trauma	can cause	tooth fractures or avulsion
+Motor vehicle traffic	is linked to	psychological distress
+Psychological distress	can result in	post-traumatic stress disorder
+Motor vehicle traffic	is a contributing factor to	abdominal trauma
+Abdominal trauma	can lead to	internal organ damage
+Motor vehicle traffic	is associated with	joint dislocations
+Joint dislocations	can cause	ligament or tendon tears
+Motor vehicle traffic	is a risk factor for	burns
+Burns	can result in	skin grafting
+Motor vehicle traffic	is linked to	psychological trauma
+Psychological trauma	can lead to	anxiety and depression
+Motor vehicle traffic	is a contributing factor to	fractures
+Fractures	can cause	bone misalignment
+Motor vehicle traffic	is associated with	spinal fractures
+Spinal fractures	can result in	spinal cord injury
+Motor vehicle traffic	is a risk factor for	soft tissue injuries
+Soft tissue injuries	can cause	hematoma formation

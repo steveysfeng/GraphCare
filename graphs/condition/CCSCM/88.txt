@@ -1,0 +1,100 @@
+glaucoma	is a	eye disease
+intraocular pressure	is a risk factor for	glaucoma
+glaucoma	may lead to	vision loss
+angle-closure glaucoma	is a type of	glaucoma
+open-angle glaucoma	is a type of	glaucoma
+eye drops	are used for	glaucoma treatment
+beta blockers	are used as	eye drops for glaucoma
+prostaglandin analogs	are used as	eye drops for glaucoma
+glaucoma surgery	is a treatment option for	severe glaucoma
+trabeculectomy	is a type of	glaucoma surgery
+goniotomy	is a type of	glaucoma surgery
+laser trabeculoplasty	is a type of	glaucoma surgery
+glaucoma	increases the risk of	cataracts
+glaucoma	is associated with	optic nerve damage
+central vision	is affected by	glaucoma
+peripheral vision	is affected by	glaucoma
+ocular hypertension	is a condition that may lead to	glaucoma
+glaucoma	may be hereditary
+older age	is a risk factor for	glaucoma
+glaucoma	is more common in	people with diabetes
+glaucoma	occurs when there is	inadequate drainage of fluid from the eye
+retinal ganglion cells	are damaged in	glaucoma
+intraocular pressure	can be measured using	tonometry
+visual field test	is used to diagnose	glaucoma
+glaucoma	can be managed through	regular eye exams
+optic nerve	is responsible for	transmitting visual information to the brain
+glaucoma	can cause	blind spots in the visual field
+glaucoma	may require	lifelong treatment
+glaucoma	is a leading cause of	blindness
+glaucoma	can be controlled but not	cured
+normal-tension glaucoma	is a type of	glaucoma with normal intraocular pressure
+glaucoma	is more common in	people of African descent
+primary open-angle glaucoma	is the most common type of	glaucoma
+glaucoma	can be managed through	lifestyle changes
+glaucoma	may require	multiple medications for treatment
+glaucoma	is often diagnosed through	comprehensive eye exams
+glaucoma	is a progressive	chronic condition
+glaucoma	can result in	irreversible vision loss
+glaucoma	is a leading cause of	visual impairment worldwide
+glaucoma	can be detected and treated early to prevent	vision loss
+glaucoma	is more common in	individuals with a family history of the disease
+glaucoma	may require	surgery to improve fluid drainage
+glaucoma	is often asymptomatic in its early stages
+ocular hypertension	is a condition characterized by	higher-than-normal intraocular pressure
+glaucoma	is a major	public health concern
+glaucoma	affects	millions of people worldwide
+optic nerve damage	is irreversible in	advanced glaucoma
+glaucoma	may require	regular monitoring and adjustment of treatment
+glaucoma	is more common in	individuals over the age of 40
+glaucoma	can be managed through	medication adherence
+glaucoma	can be managed through	regular eye pressure measurements
+glaucoma	is often associated with	other eye conditions
+glaucoma	can be diagnosed through	imaging tests of the optic nerve
+primary angle-closure glaucoma	is characterized by	sudden increase in intraocular pressure
+glaucoma	can be a result of	eye trauma
+glaucoma	can be managed through	proper nutrition and dietary choices
+glaucoma	is more common in	individuals with high blood pressure
+glaucoma	may require	lifelong use of eye drops
+glaucoma	can be managed through	regular exercise
+glaucoma	may be associated with	inflammation of the eye
+glaucoma	can be caused by	certain medications
+glaucoma	can be managed through	stress reduction techniques
+glaucoma	is more common in	individuals with a history of eye surgery
+glaucoma	may require	laser treatment to open blocked drainage canals
+glaucoma	can be managed through	wearing protective eyewear
+glaucoma	may require	additional treatments if initial therapy is not effective
+glaucoma	can be managed through	maintaining a healthy weight
+glaucoma	may require	regular visual field testing
+glaucoma	can be managed through	taking prescribed medications
+glaucoma	may be associated with	hormonal changes
+glaucoma	can be managed through	quitting smoking
+glaucoma	may require	monitoring of intraocular pressure at home
+glaucoma	can be managed through	avoiding prolonged use of digital devices
+glaucoma	may require	surgical implantation of drainage devices
+glaucoma	can be managed through	regular sleep patterns
+glaucoma	may be associated with	certain autoimmune diseases
+glaucoma	can be managed through	reducing alcohol consumption
+glaucoma	may require	coordination of care with other healthcare providers
+glaucoma	can be managed through	regular follow-up appointments
+glaucoma	may be associated with	certain genetic mutations
+glaucoma	can be managed through	practicing good hygiene to prevent eye infections
+glaucoma	may require	education on self-care techniques
+glaucoma	can be managed through	avoiding excessive caffeine intake
+glaucoma	may be associated with	certain vascular conditions
+glaucoma	can be managed through	regular use of prescribed eye drops
+glaucoma	may require	specialized low-vision rehabilitation services
+glaucoma	can be managed through	regular monitoring of blood pressure
+glaucoma	may be associated with	certain neurological conditions
+glaucoma	can be managed through	reducing exposure to UV rays
+glaucoma	may require	support from family and caregivers
+glaucoma	can be managed through	engaging in stress-reducing activities
+glaucoma	may be associated with	certain psychiatric conditions
+glaucoma	can be managed through	regular use of protective eyewear
+glaucoma	may require	adjustable lighting in living spaces
+glaucoma	can be managed through	participating in regular eye exercises
+glaucoma	may be associated with	certain endocrine disorders
+glaucoma	can be managed through	regular blood sugar monitoring for diabetics
+glaucoma	may require	assistive devices for daily activities
+glaucoma	can be managed through	regular intake of antioxidants
+glaucoma	may be associated with	certain respiratory conditions

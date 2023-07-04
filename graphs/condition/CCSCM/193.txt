@@ -1,0 +1,93 @@
+ob-related trauma	can result in	perineal lacerations
+ob-related trauma	can cause	vulvar hematoma
+perineal lacerations	may require	suturing
+perineal lacerations	can lead to	infection
+vulvar hematoma	may be associated with	severe pain
+vulvar hematoma	can cause	swelling
+infection	can be treated with	antibiotics
+severe pain	may necessitate	analgesics
+swelling	may be reduced with	cold compress
+antibiotics	are prescribed for	infection
+analgesics	are used to manage	severe pain
+cold compress	helps reduce	swelling
+perineal lacerations	are common in	vaginal delivery
+vulvar hematoma	can be a result of	instrumental delivery
+infection	can occur due to	poor wound hygiene
+severe pain	is a common symptom in	vulvar hematoma
+swelling	is a common symptom of	vulvar hematoma
+antibiotics	are given to	treat infection
+analgesics	provide relief from	severe pain
+cold compress	reduces	swelling
+perineal lacerations	may require	repair
+vulvar hematoma	may need	drainage
+poor wound hygiene	increases the risk of	infection
+instrumental delivery	increases the risk of	vulvar hematoma
+vulvar hematoma	can lead to	complications
+severe pain	can interfere with	daily activities
+swelling	can cause	discomfort
+analgesics	can alleviate	pain
+cold compress	can help with	swelling
+perineal lacerations	can be preventable with	proper episiotomy technique
+vulvar hematoma	can result in	delayed wound healing
+infection	can spread and lead to	sepsis
+severe pain	requires	adequate pain management
+swelling	may require	medical intervention
+poor wound hygiene	should be avoided to prevent	infection
+instrumental delivery	should be performed with	caution
+vulvar hematoma	can be a complication of	obstetric procedures
+severe pain	can impact	quality of life
+swelling	can restrict	mobility
+cold compress	should be applied for	limited duration
+proper episiotomy technique	reduces the risk of	perineal lacerations
+vulvar hematoma	delays	wound healing
+infection	requires	prompt treatment
+severe pain	necessitates	adequate pain relief
+swelling	may warrant	medical evaluation
+poor wound hygiene	increases the likelihood of	infection
+instrumental delivery	should be used judiciously to minimize	complications
+vulvar hematoma	can cause	discomfort
+severe pain	affects	patient's well-being
+swelling	can impede	normal function
+cold compress	can help alleviate	swelling
+peri-urethral tear	is a type of	perineal injury
+ob-related trauma	can result in	vaginal hematoma
+peri-urethral tear	may require	surgical repair
+vaginal hematoma	may need	drainage
+peri-urethral tear	can occur due to	difficult delivery
+vaginal hematoma	can lead to	delayed recovery
+peri-urethral tear	can cause	urinary incontinence
+vaginal hematoma	can result in	severe pain
+difficult delivery	increases the risk of	peri-urethral tear
+vaginal hematoma	can lead to	secondary infection
+peri-urethral tear	requires	careful examination
+vaginal hematoma	necessitates	medical attention
+peri-urethral tear	affects	urinary function
+vaginal hematoma	causes	patient distress
+peri-urethral tear	can disrupt	urinary tract
+vaginal hematoma	can lead to	complications
+peri-urethral tear	should be repaired to prevent	long-term complications
+vaginal hematoma	may necessitate	drainage
+peri-urethral tear	can result in	urinary complications
+vaginal hematoma	can be a sign of	underlying pathology
+peri-urethral tear	requires	accurate diagnosis
+vaginal hematoma	can be managed with	conservative treatment
+peri-urethral tear	can cause	pain
+vaginal hematoma	can impair	normal function
+peri-urethral tear	can lead to	postpartum urinary problems
+vaginal hematoma	may necessitate	surgical intervention
+peri-urethral tear	can affect	postpartum recovery
+vaginal hematoma	can result in	discomfort
+peri-urethral tear	may require	urinary catheterization
+vaginal hematoma	can lead to	hematoma infection
+peri-urethral tear	can result in	urinary retention
+vaginal hematoma	requires	meticulous wound care
+peri-urethral tear	can lead to	urinary incontinence
+vaginal hematoma	can restrict	mobility
+peri-urethral tear	can cause	urinary urgency
+vaginal hematoma	may cause	tissue necrosis
+peri-urethral tear	can impair	bladder function
+vaginal hematoma	can result in	hematoma recurrence
+peri-urethral tear	necessitates	prompt intervention
+vaginal hematoma	can cause	vulvar edema
+peri-urethral tear	requires	pelvic examination
+vaginal hematoma	can lead to	wound dehiscence

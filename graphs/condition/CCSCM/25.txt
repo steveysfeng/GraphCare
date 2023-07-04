@@ -1,0 +1,5 @@
+cancer of uterus	is a	malignant condition
+cancer of uterus	may cause	abnormal bleeding
+endometrial biopsy	is a test for	cancer of uterus
+hysterectomy	is a treatment for	cancer of uterus
+radiation therapy	is a treatment for	cancer of uterus

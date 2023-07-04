@@ -1,0 +1,19 @@
+abdominal pain	is a	symptom
+abdominal pain	can be caused by	appendicitis
+appendicitis	is a	medical condition
+abdominal pain	can be caused by	gallstones
+gallstones	are	hard deposits
+abdominal pain	can be caused by	gastritis
+gastritis	is an	inflammation
+abdominal pain	can be caused by	pancreatitis
+pancreatitis	is an	inflammation
+abdominal pain	can be caused by	peptic ulcer
+peptic ulcer	is a	sore
+abdominal pain	can be caused by	gastroenteritis
+gastroenteritis	is an	infection
+abdominal pain	can be caused by	urinary tract infection
+urinary tract infection	is an	infection
+abdominal pain	can be caused by	kidney stones
+kidney stones	are	hard deposits
+abdominal pain	can be caused by	hernia
+hernia	is a	protrusion

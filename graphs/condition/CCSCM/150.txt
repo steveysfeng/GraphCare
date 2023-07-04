@@ -1,0 +1,70 @@
+liver disease	is a	medical condition
+alcohol	is a	risk factor for	liver disease
+cirrhosis	is a	complication of	liver disease
+liver disease	can lead to	liver failure
+liver transplantation	is a	treatment for	liver disease
+hepatologist	specializes in	liver disease
+alcoholic hepatitis	is a	type of	liver disease
+liver disease	can cause	jaundice
+hepatitis C	can lead to	liver disease
+liver disease	is associated with	high mortality
+liver disease	can be diagnosed through	liver function tests
+alcoholic fatty liver disease	is a	type of	liver disease
+non-alcoholic fatty liver disease	is a	type of	liver disease
+liver disease	can result in	portal hypertension
+alcohol abuse	is a	risk factor for	liver disease
+liver disease	can cause	ascites
+hepatic encephalopathy	is a	complication of	liver disease
+liver disease	is characterized by	hepatomegaly
+alcohol-related liver disease	is a	subtype of	liver disease
+liver disease	may require	liver biopsy
+liver disease	can lead to	hepatocellular carcinoma
+liver disease	is diagnosed through	imaging studies
+liver disease	is influenced by	genetics
+hepatitis B	can lead to	liver disease
+liver disease	can result in	esophageal varices
+alcoholic liver disease	is a	type of	liver disease
+liver disease	is caused by	viral infection
+liver disease	is associated with	malnutrition
+liver disease	can lead to	liver cirrhosis
+alcohol	can worsen	liver disease
+liver disease	can cause	hepatic steatosis
+primary biliary cirrhosis	is a	type of	liver disease
+liver disease	is a	leading cause of	death
+liver disease	can be managed with	lifestyle changes
+autoimmune hepatitis	is a	type of	liver disease
+liver disease	is more common in	older adults
+liver disease	is associated with	portal vein thrombosis
+alcohol	is a	major cause of	liver disease
+hepatocellular carcinoma	is a	complication of	liver disease
+liver disease	can cause	coagulopathy
+liver disease	is a	risk factor for	liver cancer
+liver disease	is linked to	alcohol consumption
+liver disease	can lead to	hepatic coma
+alcoholic liver disease	is caused by	chronic alcohol consumption
+liver disease	is associated with	hepatobiliary disorders
+liver disease	can progress to	liver fibrosis
+hepatitis A	can lead to	liver disease
+liver disease	can result in	hepatic necrosis
+liver disease	is characterized by	elevated liver enzymes
+alcohol	can induce	liver disease
+alcohol-related liver disease	can cause	liver inflammation
+liver disease	is diagnosed through	liver imaging
+liver disease	can lead to	liver decompensation
+hepatitis E	can lead to	liver disease
+liver disease	can cause	hepatic failure
+alcohol	is associated with	alcohol-related liver disease
+liver disease	can result in	hepatic encephalopathy
+liver disease	is a	chronic condition
+alcohol	can contribute to	liver disease
+liver disease	is a	risk factor for	liver cirrhosis
+liver disease	can lead to	hepatorenal syndrome
+liver disease	is a	major health concern
+alcoholic cirrhosis	is a	complication of	liver disease
+liver disease	can cause	liver inflammation
+liver disease	is associated with	metabolic disorders
+liver disease	can result in	hepatic steatosis
+alcohol-related liver disease	is caused by	excessive alcohol consumption
+liver disease	can lead to	hepatic fibrosis
+liver disease	is often asymptomatic
+alcoholic fatty liver disease	is caused by	excessive alcohol intake

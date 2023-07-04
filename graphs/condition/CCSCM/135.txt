@@ -1,0 +1,21 @@
+intestinal infection	is a type of	infection
+intestinal infection	can lead to	diarrhea
+gastroenteritis	is a type of	intestinal infection
+rotavirus	can cause	gastroenteritis
+intestinal infection	can be treated with	antibiotics
+ciprofloxacin	is an	antibiotic
+intestinal infection	can cause	dehydration
+dehydration	can lead to	hospitalization
+intestinal infection	can be prevented by	handwashing
+handwashing	is an	preventive measure
+intestinal infection	can be transmitted through	contaminated food or water
+salmonella	can cause	intestinal infection
+intestinal infection	can be diagnosed with	stool culture
+stool culture	is a	diagnostic test
+intestinal infection	can lead to	malabsorption
+malabsorption	can cause	nutrient deficiencies
+intestinal infection	can be contagious
+intestinal infection	can cause	abdominal pain
+intestinal infection	can be caused by	parasites
+intestinal infection	can result in	sepsis
+sepsis	can be fatal

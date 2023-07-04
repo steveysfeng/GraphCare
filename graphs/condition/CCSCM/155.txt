@@ -1,0 +1,104 @@
+other gastrointestinal disorders	can be caused by	bacterial infections
+Helicobacter pylori	is a	bacterium
+Helicobacter pylori	can cause	gastritis
+gastritis	can lead to	gastric ulcers
+gastric ulcers	can cause	abdominal pain
+abdominal pain	is a symptom of	other gastrointestinal disorders
+gastrointestinal disorders	can be diagnosed through	endoscopy
+endoscopy	is a	medical procedure
+gastrointestinal disorders	can be managed with	dietary changes
+dietary changes	can alleviate	symptoms of gastrointestinal disorders
+gastrointestinal disorders	can be treated with	medication
+medication	can include	antacids
+antacids	can reduce	stomach acid
+stomach acid	is related to	other gastrointestinal disorders
+gastrointestinal disorders	can be a risk factor for	colorectal cancer
+colorectal cancer	requires	treatment
+treatment	can involve	surgery
+surgery	is a	medical procedure
+surgery	can be used to	remove tumors
+tumors	can be found in	colorectal cancer
+colorectal cancer	can spread to	other organs
+other organs	can be affected by	colorectal cancer
+colorectal cancer	can metastasize to	the liver
+the liver	can be a site of	colorectal cancer metastasis
+colorectal cancer	can also metastasize to	the lungs
+the lungs	can be a site of	colorectal cancer metastasis
+colorectal cancer	can be fatal
+colorectal cancer	is associated with	a high mortality rate
+mortality rate	is a measure of	deaths caused by a disease
+colorectal cancer	can be detected through	screening
+screening	is a	medical procedure
+colorectal cancer	is more common in	older adults
+older adults	are at a higher risk of	developing colorectal cancer
+colorectal cancer	can be prevented through	lifestyle modifications
+lifestyle modifications	include	regular exercise
+regular exercise	can reduce	the risk of colorectal cancer
+colorectal cancer	can be inherited
+inherited colorectal cancer	can be caused by	genetic mutations
+genetic mutations	can be passed down from	parents
+parents	can pass on	genetic mutations
+genetic mutations	increase the risk of	colorectal cancer
+colorectal cancer	is more common in	certain ethnic groups
+certain ethnic groups	have a higher incidence of	colorectal cancer
+colorectal cancer	is more common in	men
+men	are at a higher risk of	developing colorectal cancer
+colorectal cancer	can be detected through	fecal occult blood tests
+fecal occult blood tests	can detect	blood in the stool
+blood in the stool	is a sign of	colorectal cancer
+colorectal cancer	can be staged using	imaging tests
+imaging tests	can assess	tumor size
+tumor size	is a factor in	colorectal cancer staging
+colorectal cancer staging	determines	the extent of the disease
+colorectal cancer	can require	chemotherapy
+chemotherapy	is a	cancer treatment
+chemotherapy	can cause	side effects
+side effects	can include	nausea and hair loss
+nausea and hair loss	are common	chemotherapy side effects
+chemotherapy	can be administered	intravenously
+intravenously	means	through a vein
+chemotherapy	can also be given	orally
+orally	means	by mouth
+chemotherapy	can be a	long process
+colorectal cancer	can be treated with	radiation therapy
+radiation therapy	uses	high-energy rays
+high-energy rays	can kill	cancer cells
+cancer cells	are targeted by	radiation therapy
+colorectal cancer	can be treated with	targeted therapy
+targeted therapy	is a	cancer treatment
+targeted therapy	can block	specific molecules in cancer cells
+specific molecules in cancer cells	are targeted by	targeted therapy
+colorectal cancer	can be managed through	supportive care
+supportive care	focuses on	managing symptoms
+managing symptoms	is important for	quality of life
+colorectal cancer	can be a chronic disease
+chronic disease	requires	ongoing management
+colorectal cancer	can affect	mental health
+mental health	can be impacted by	colorectal cancer
+colorectal cancer	can be a	life-changing diagnosis
+colorectal cancer	can increase the risk of	other health problems
+other health problems	can arise from	colorectal cancer
+colorectal cancer	can be associated with	anemia
+anemia	is a	blood disorder
+blood disorder	can result from	colorectal cancer
+colorectal cancer	can be associated with	chronic pain
+chronic pain	is often experienced by	colorectal cancer patients
+colorectal cancer	can affect	appetite
+appetite	can be decreased by	colorectal cancer
+colorectal cancer	can cause	weight loss
+weight loss	is a common	colorectal cancer symptom
+colorectal cancer	can lead to	fatigue
+fatigue	is a common	colorectal cancer symptom
+colorectal cancer	can cause	bowel obstructions
+bowel obstructions	can result in	abdominal pain
+colorectal cancer	can cause	changes in bowel habits
+changes in bowel habits	can include	diarrhea or constipation
+diarrhea or constipation	are symptoms of	colorectal cancer
+colorectal cancer	can cause	rectal bleeding
+rectal bleeding	is a symptom of	colorectal cancer
+colorectal cancer	can cause	iron deficiency
+iron deficiency	can result from	colorectal cancer
+colorectal cancer	can affect	sexual function
+sexual function	can be impacted by	colorectal cancer
+colorectal cancer	can lead to	infertility
+infertility	can be caused by	colorectal cancer

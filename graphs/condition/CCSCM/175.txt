@@ -1,0 +1,98 @@
+other female genital disorders	are	conditions
+other female genital disorders	can cause	pain
+vulvar vestibulitis	is a	genital disorder
+vulvar vestibulitis	can be treated with	medication
+lidocaine	is a	medication
+vulvodynia	is a	female genital disorder
+vulvodynia	is characterized by	chronic pain
+vaginismus	is a	female genital disorder
+vaginismus	is characterized by	involuntary muscle spasms
+pelvic inflammatory disease	is a	female genital disorder
+pelvic inflammatory disease	is caused by	infection
+chlamydia	is a	common infection
+endometriosis	is a	female genital disorder
+endometriosis	causes	tissue growth outside the uterus
+dysmenorrhea	is a	female genital disorder
+dysmenorrhea	is characterized by	painful menstrual cramps
+excessive menstrual bleeding	is a	symptom of	many female genital disorders
+menorrhagia	is a	condition
+menorrhagia	causes	heavy and prolonged menstrual bleeding
+pap smear	is a	test for	female genital disorders
+cervical dysplasia	is a	condition detected by	a pap smear
+cervical dysplasia	can progress to	cervical cancer
+vulvar cancer	is a	female genital disorder
+vulvar cancer	is characterized by	abnormal growth of cells
+vulvar cancer	treatment includes	surgery
+hysterectomy	is a	surgical procedure
+hysterectomy	is commonly used to	treat female genital disorders
+ovarian cyst	is a	female genital disorder
+ovarian cyst	can cause	pelvic pain
+polycystic ovary syndrome	is a	female genital disorder
+polycystic ovary syndrome	is characterized by	hormone imbalances
+ultrasound	is a	diagnostic imaging technique
+ultrasound	can be used to	detect female genital disorders
+sexual dysfunction	is a	female genital disorder
+sexual dysfunction	can result from	other underlying conditions
+female genital mutilation	is a	harmful practice
+female genital mutilation	is a	human rights violation
+infertility	is a	female genital disorder
+infertility	can be caused by	various factors
+in vitro fertilization	is a	fertility treatment
+in vitro fertilization	is used for	female genital disorders
+vaginal yeast infection	is a	common infection
+vaginal yeast infection	is caused by	an overgrowth of yeast
+urinary incontinence	is a	female genital disorder
+urinary incontinence	is characterized by	involuntary leakage of urine
+pelvic organ prolapse	is a	female genital disorder
+pelvic organ prolapse	is characterized by	the descent of pelvic organs
+urinary tract infection	is a	common infection
+urinary tract infection	can cause	discomfort and pain
+menopause	is a	natural process
+menopause	is a	stage of life
+hormone replacement therapy	is a	treatment option
+hormone replacement therapy	can alleviate	symptoms of menopause
+osteoporosis	is a	condition
+osteoporosis	is characterized by	weakened bones
+breast cancer	is a	female genital disorder
+breast cancer	is characterized by	the growth of abnormal cells
+breast cancer	treatment includes	surgery
+mammogram	is a	diagnostic test
+mammogram	is used to	detect breast cancer
+ovarian cancer	is a	female genital disorder
+ovarian cancer	is characterized by	the growth of abnormal cells
+cervical cancer	is a	female genital disorder
+cervical cancer	is characterized by	the growth of abnormal cells
+uterine cancer	is a	female genital disorder
+uterine cancer	is characterized by	the growth of abnormal cells
+human papillomavirus	is a	common sexually transmitted infection
+human papillomavirus	can cause	genital warts
+genital warts	are a	symptom of	human papillomavirus
+genital herpes	is a	common sexually transmitted infection
+genital herpes	is caused by	herpes simplex virus
+trichomoniasis	is a	common sexually transmitted infection
+trichomoniasis	is caused by	a parasite
+bacterial vaginosis	is a	common infection
+bacterial vaginosis	is caused by	an imbalance of bacteria
+syphilis	is a	sexually transmitted infection
+syphilis	is caused by	a bacterium
+gonorrhea	is a	sexually transmitted infection
+gonorrhea	is caused by	Neisseria gonorrhoeae bacteria
+chlamydia	is a	common sexually transmitted infection
+chlamydia	is caused by	Chlamydia trachomatis bacteria
+candidiasis	is a	common infection
+candidiasis	is caused by	yeast overgrowth
+pubic lice	is a	common sexually transmitted infection
+pubic lice	are caused by	lice infestation
+condyloma	is a	symptom of	sexually transmitted infections
+genital ulcers	are a	symptom of	sexually transmitted infections
+lower abdominal pain	is a	symptom of	female genital disorders
+genital itching	is a	symptom of	many female genital disorders
+genital swelling	is a	symptom of	female genital disorders
+abnormal vaginal bleeding	is a	symptom of	many female genital disorders
+vaginal discharge	is a	symptom of	female genital disorders
+vaginal dryness	is a	symptom of	menopause
+painful intercourse	is a	symptom of	female genital disorders
+painful urination	is a	symptom of	many female genital disorders
+infrequent menstruation	is a	symptom of	female genital disorders
+vaginal odor	is a	symptom of	female genital disorders
+pelvic pain	is a	symptom of many female genital disorders

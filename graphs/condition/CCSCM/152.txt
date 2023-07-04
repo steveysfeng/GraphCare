@@ -1,0 +1,110 @@
+pancreatic disorders	can cause	pancreatitis
+pancreatic disorders	may result in	pancreatic cancer
+pancreatic cancer	can be treated with	chemotherapy
+chemotherapy	is a	treatment option
+pancreatic disorders	can lead to	malabsorption
+malabsorption	can cause	nutrient deficiencies
+nutrient deficiencies	may result in	osteoporosis
+osteoporosis	can lead to	fractures
+pancreatic disorders	can cause	weight loss
+weight loss	may lead to	muscle wasting
+muscle wasting	can result in	weakness
+pancreatic disorders	can lead to	jaundice
+jaundice	can be a sign of	liver dysfunction
+liver dysfunction	may result in	cirrhosis
+cirrhosis	can cause	liver failure
+pancreatic disorders	can cause	abdominal pain
+abdominal pain	may be a symptom of	pancreatitis
+pancreatitis	can lead to	inflammation
+inflammation	can cause	tissue damage
+tissue damage	may result in	scarring
+scarring	can lead to	pancreatic insufficiency
+pancreatic insufficiency	can cause	malnutrition
+malnutrition	may lead to	weakened immune system
+weakened immune system	can result in	increased susceptibility to infections
+pancreatic disorders	can cause	digestive problems
+digestive problems	can result in	diarrhea
+diarrhea	may lead to	dehydration
+dehydration	can cause	electrolyte imbalances
+electrolyte imbalances	may result in	muscle cramps
+muscle cramps	can be a symptom of	pancreatic disorders
+pancreatic disorders	can cause	diabetes
+diabetes	can be managed with	insulin therapy
+insulin therapy	is a	treatment option
+pancreatic disorders	can lead to	steatorrhea
+steatorrhea	can cause	oily stools
+oily stools	may indicate	pancreatic disorders
+pancreatic disorders	can cause	pancreatic necrosis
+pancreatic necrosis	can be a complication of	pancreatitis
+pancreatitis	can lead to	organ failure
+organ failure	may result in	death
+pancreatic disorders	can cause	ascites
+ascites	can be a sign of	liver damage
+liver damage	may lead to	portal hypertension
+portal hypertension	can cause	varices
+varices	can result in	gastrointestinal bleeding
+pancreatic disorders	can cause	anemia
+anemia	may result in	fatigue
+fatigue	can be a symptom of	pancreatic disorders
+pancreatic disorders	can lead to	digestive enzyme deficiency
+digestive enzyme deficiency	can cause	malabsorption
+malabsorption	may lead to	weight loss
+pancreatic disorders	can cause	bloating
+bloating	can be a symptom of	pancreatic disorders
+pancreatic disorders	can lead to	elevated blood sugar levels
+elevated blood sugar levels	can be a sign of	diabetes
+diabetes	can cause	kidney damage
+kidney damage	may result in	renal failure
+renal failure	can lead to	dialysis
+dialysis	is a	treatment option
+pancreatic disorders	can cause	inflammation of the bile duct
+inflammation of the bile duct	can result in	jaundice
+jaundice	can be a symptom of	pancreatic disorders
+pancreatic disorders	can lead to	steatorrhea
+steatorrhea	can cause	nutrient deficiencies
+nutrient deficiencies	may result in	weakened immune system
+weakened immune system	can lead to	increased susceptibility to infections
+pancreatic disorders	can cause	digestive enzyme deficiency
+digestive enzyme deficiency	can result in	malabsorption
+malabsorption	may lead to	weight loss
+pancreatic disorders	can cause	pancreatic cysts
+pancreatic cysts	can be a sign of	pancreatic disorders
+pancreatic disorders	can lead to	chronic pain
+chronic pain	can be a symptom of	pancreatic disorders
+pancreatic disorders	can cause	steatorrhea
+steatorrhea	can result in	oily stools
+oily stools	may be a sign of	pancreatic disorders
+pancreatic disorders	can lead to	diabetes
+diabetes	can cause	neuropathy
+neuropathy	can result in	numbness
+pancreatic disorders	can cause	weight gain
+weight gain	may lead to	obesity
+obesity	can increase the risk of	pancreatic disorders
+pancreatic disorders	can cause	jaundice
+jaundice	can be a sign of	liver dysfunction
+liver dysfunction	may result in	cirrhosis
+cirrhosis	can cause	liver failure
+pancreatic disorders	can cause	abdominal bloating
+abdominal bloating	can be a symptom of	pancreatic disorders
+pancreatic disorders	can lead to	exocrine pancreatic insufficiency
+exocrine pancreatic insufficiency	can result in	malabsorption
+malabsorption	may lead to	weight loss
+pancreatic disorders	can cause	pruritus
+pruritus	can be a symptom of	pancreatic disorders
+pancreatic disorders	can lead to	anorexia
+anorexia	can cause	malnutrition
+malnutrition	may result in	weakened immune system
+weakened immune system	can lead to	increased susceptibility to infections
+pancreatic disorders	can cause	pancreas divism
+pancreas divism	can be a sign of	pancreatic disorders
+pancreatic disorders	can lead to	exocrine pancreatic insufficiency
+exocrine pancreatic insufficiency	can cause	malabsorption
+malabsorption	may lead to	weight loss
+pancreatic disorders	can cause	pancreatic pseudocysts
+pancreatic pseudocysts	can be a complication of	pancreatitis
+pancreatitis	can lead to	abscess formation
+abscess formation	can result in	sepsis
+sepsis	can be life-threatening
+pancreatic disorders	can cause	steatorrhea
+steatorrhea	can cause	oily stools
+oily stools	may indicate	pancreatic disorders

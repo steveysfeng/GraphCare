@@ -1,0 +1,84 @@
+cancer of breast	is a	malignant tumor
+cancer of breast	can spread to	lymph nodes
+tumor markers	can be used to	diagnose cancer of breast
+breast cancer	is treated with	chemotherapy
+chemotherapy	can cause	hair loss
+mastectomy	is a	surgical treatment for breast cancer
+cancer of breast	can be detected by	mammogram
+hormone therapy	is used to	treat hormone receptor-positive breast cancer
+breast cancer	is associated with	BRCA gene mutations
+breast cancer	has a	higher incidence in women
+cancer of breast	is more common in	older women
+breast cancer	has a	higher mortality rate in advanced stages
+cancer of breast	can metastasize to	distant organs
+breast cancer	has a	higher risk in women with dense breast tissue
+breast conserving surgery	is a	treatment option for early stage breast cancer
+chemotherapy	is recommended for	triple negative breast cancer
+estrogen receptor-positive breast cancer	can be treated with	hormonal therapy
+cancer of breast	can recur	after treatment
+radiation therapy	is used after	surgical treatment for breast cancer
+chemotherapy	is administered	intravenously
+cancer of breast	can be caused by	genetic mutations
+breast cancer	is more common in	postmenopausal women
+breast cancer	has a	lower survival rate in men
+cancer of breast	is detected through	self-breast examination
+cancer of breast	can be associated with	obesity
+breast cancer	can be diagnosed by	biopsy
+chemotherapy	is given in	cycles
+hormone therapy	can cause	menopausal symptoms
+breast cancer	has a	higher risk in women with a family history
+cancer of breast	is affected by	estrogen levels
+cancer of breast	can be prevented by	regular mammograms
+hormone receptor-negative breast cancer	does not respond to	hormone therapy
+cancer of breast	is more common in	women who have never had children
+imaging tests	can be used to	stage breast cancer
+cancer of breast	has a	higher survival rate in early stages
+cancer of breast	is more common in	women with BRCA gene mutations
+breast cancer	is detected through	clinical breast examination
+cancer of breast	can be caused by	radiation exposure
+gene expression profiling	can be used to	determine the prognosis of breast cancer
+cancer of breast	is less common	in men
+breast cancer	is associated with	hormonal imbalances
+cancer of breast	can be influenced by	lifestyle factors
+targeted therapy	is used to	treat specific types of breast cancer
+hormone receptor-positive breast cancer	can be treated with	selective estrogen receptor modulators
+cancer of breast	can be aggressive	in some cases
+breast cancer	can be prevented by	maintaining a healthy weight
+chemotherapy	is used as	neoadjuvant treatment for breast cancer
+hormone receptor-negative breast cancer	is associated with	poorer prognosis
+cancer of breast	can be caused by	exposure to estrogen
+radiation therapy	is used for	local tumor control in breast cancer
+cancer of breast	can be influenced by	alcohol consumption
+early detection	is crucial for	better outcomes in breast cancer
+breast cancer	is classified into	different molecular subtypes
+cancer of breast	can be related to	hormonal contraceptives
+survivors of breast cancer	are at a higher risk for	developing subsequent cancers
+pathologic staging	is used to	determine the extent of breast cancer
+cancer of breast	can be affected by	hormone replacement therapy
+breast cancer	has a	higher risk in women who start menstruating early
+cancer of breast	can be hereditary	in some cases
+breast cancer	is associated with	exposure to ionizing radiation
+cancer of breast	can be influenced by	physical inactivity
+molecular profiling	can be used to	guide treatment decisions in breast cancer
+cancer of breast	can be linked to	dense breast tissue
+breast cancer	is more common in	women with a higher body mass index
+cancer of breast	can be associated with	smoking
+breast cancer	can be managed through	multidisciplinary care
+cancer of breast	can be affected by	pregnancy
+neoadjuvant therapy	is given before	surgery for breast cancer
+breast cancer	is more common in	women with a personal history of breast cancer
+cancer of breast	can be influenced by	hormone levels
+breast cancer	can be detected through	nipple discharge
+cancer of breast	can be related to	exposure to certain chemicals
+breast cancer	is associated with	prolonged use of hormone replacement therapy
+cancer of breast	can be affected by	breastfeeding
+breast cancer	has a	lower overall survival rate in African-American women
+cancer of breast	can be influenced by	stress levels
+breast cancer	is more common in	women with a higher socioeconomic status
+cancer of breast	can be associated with	dense breast tissue
+breast cancer	is detected through	imaging tests
+cancer of breast	can be caused by	inherited gene mutations
+breast cancer	is more common in	women with a family history of breast cancer
+cancer of breast	can be influenced by	hormonal changes during menopause
+breast cancer	can be detected through	abnormal mammogram findings
+cancer of breast	can be related to	radiation therapy for childhood cancer

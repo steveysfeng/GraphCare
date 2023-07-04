@@ -1,0 +1,118 @@
+open wounds of extremities	can lead to	infection
+infection	may result in	sepsis
+sepsis	can cause	organ failure
+organ failure	may lead to	death
+open wounds of extremities	require	wound care
+wound care	involves	cleaning and dressing
+open wounds of extremities	may require	sutures
+suturing	is a	procedure
+open wounds of extremities	can cause	blood loss
+blood loss	may require	transfusion
+transfusion	involves	receiving blood from a donor
+open wounds of extremities	may result in	scarring
+scarring	can cause	functional impairment
+functional impairment	may require	physical therapy
+open wounds of extremities	may lead to	amputation
+amputation	is a	surgical procedure
+open wounds of extremities	can be caused by	trauma
+trauma	may cause	fractures
+fractures	may require	fixation
+fixation	involves	immobilizing the bone
+open wounds of extremities	may result in	nerve damage
+nerve damage	can cause	sensory loss
+sensory loss	may require	rehabilitation
+open wounds of extremities	can be treated with	antibiotics
+antibiotics	are used to	fight infection
+open wounds of extremities	should be	cleaned regularly
+cleaning a wound	helps to	prevent infection
+open wounds of extremities	can result in	pain
+pain	may require	pain medication
+pain medication	is used to	relieve pain
+open wounds of extremities	can take	weeks to heal
+healing	involves	tissue regeneration
+open wounds of extremities	should be	covered with a bandage
+bandage	helps to	protect the wound
+open wounds of extremities	can cause	swelling
+swelling	may be treated with	elevation
+elevation	helps to	reduce swelling
+open wounds of extremities	may be	complex
+complex wounds	may require	specialized care
+specialized care	involves	wound specialists
+open wounds of extremities	are prone to	infection
+infection	requires	antibiotics
+open wounds of extremities	can result in	skin breakdown
+skin breakdown	may require	wound debridement
+wound debridement	is a	procedure
+open wounds of extremities	can lead to	delayed healing
+delayed healing	may require	additional treatment
+open wounds of extremities	can be	life-threatening
+life-threatening wounds	require	urgent medical attention
+open wounds of extremities	should be	immobilized
+immobilization	prevents further damage
+open wounds of extremities	can be	minor
+minor wounds	may heal	without intervention
+open wounds of extremities	can result in	disability
+disability	may require	rehabilitation
+rehabilitation	involves	physical therapy
+open wounds of extremities	can cause	scarring
+scarring	may require	cosmetic procedures
+cosmetic procedures	are done to	improve appearance
+open wounds of extremities	can lead to	complications
+complications	may require	surgical intervention
+surgical intervention	is required to	resolve the issue
+open wounds of extremities	can occur	in athletes
+athletes	are prone to	injuries
+open wounds of extremities	can result in	deformity
+deformity	may require	corrective surgery
+corrective surgery	is done to	restore function
+open wounds of extremities	can cause	muscle damage
+muscle damage	may result in	weakness
+weakness	can be	debilitating
+open wounds of extremities	can be	traumatic
+traumatic wounds	may require	psychiatric support
+psychiatric support	helps to	address emotional trauma
+open wounds of extremities	can result in	permanent disability
+permanent disability	requires	long-term care
+open wounds of extremities	may require	skin grafting
+skin grafting	is a	surgical procedure
+open wounds of extremities	can be	life-altering
+life-altering wounds	require	rehabilitation
+open wounds of extremities	can be	painful
+painful wounds	may require	analgesics
+analgesics	are used to	manage pain
+open wounds of extremities	should not be	ignored
+ignoring a wound	can lead to	complications
+open wounds of extremities	can result from	accidents
+accidents	may be caused by	negligence
+open wounds of extremities	may require	physical therapy
+physical therapy	helps to	restore function
+open wounds of extremities	can be	life-changing
+life-changing wounds	require	emotional support
+emotional support	helps to	cope with the situation
+open wounds of extremities	can be	debilitating
+debilitating wounds	require	long-term care
+open wounds of extremities	can be	life-threatening
+life-threatening wounds	require	immediate medical attention
+open wounds of extremities	may require	imaging
+imaging	helps to	assess the extent of damage
+open wounds of extremities	can result in	visible scars
+visible scars	may affect	self-esteem
+self-esteem	can impact	mental health
+open wounds of extremities	can cause	tissue damage
+tissue damage	may result in	loss of function
+loss of function	requires	rehabilitation
+open wounds of extremities	can lead to	deformities
+deformities	may require	reconstructive surgery
+reconstructive surgery	is done to	improve function
+open wounds of extremities	can result in	chronic pain
+chronic pain	requires	pain management
+pain management	helps to	improve quality of life
+open wounds of extremities	can be	life-ending
+life-ending wounds	require	palliative care
+open wounds of extremities	can have	long-term consequences
+long-term consequences	affect	daily activities
+open wounds of extremities	can result in	limited mobility
+limited mobility	may require	assistive devices
+assistive devices	help to	increase independence
+open wounds of extremities	can be	life-altering
+life-altering wounds	require	adaptive techniques

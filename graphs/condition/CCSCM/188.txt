@@ -1,0 +1,20 @@
+fetopelvic disproportion	can cause	obstruction
+obstruction	can lead to	infection
+obstruction	can result in	sepsis
+sepsis	can cause	organ failure
+sepsis	can be treated with	antibiotics
+antibiotics	are used to treat	infections
+antibiotics	can cause	allergic reactions
+allergic reactions	can result in	anaphylaxis
+anaphylaxis	can be life-threatening
+anaphylaxis	is treated with	epinephrine
+epinephrine	is a	medication
+fetopelvic disproportion	can be detected by	ultrasound
+ultrasound	is a	diagnostic tool
+fetopelvic disproportion	can be managed with	a cesarean section
+cesarean section	is a surgical procedure
+cesarean section	carries a risk of	bleeding
+bleeding	can lead to	hypovolemic shock
+hypovolemic shock	is a life-threatening condition
+hypovolemic shock	is treated with	fluid resuscitation
+fluid resuscitation	involves	intravenous fluids

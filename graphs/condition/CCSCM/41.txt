@@ -1,0 +1,140 @@
+cancer	is a	disease
+cancer	can cause	pain
+cancer	is diagnosed with	biopsy
+biopsy	is a	procedure
+cancer	can be treated with	chemotherapy
+chemotherapy	is a	treatment
+cancer	can spread to	lymph nodes
+lymph nodes	are part of	immune system
+cancer	can metastasize to	liver
+liver	is an	organ
+cancer	can result in	weight loss
+weight loss	can be caused by	decreased appetite
+cancer	can lead to	fatigue
+fatigue	is a	symptom
+cancer	can affect	quality of life
+cancer	can be classified as	benign or malignant
+benign	is not	cancerous
+malignant	is	cancerous
+cancer	can be staged using	TNM system
+TNM system	is a	classification system
+cancer	can be treated with	surgery
+surgery	is a	procedure
+cancer	can be treated with	radiation therapy
+radiation therapy	is a	treatment
+cancer	can be treated with	immunotherapy
+immunotherapy	is a	treatment
+cancer	can be treated with	target therapy
+target therapy	is a	treatment
+cancer	can be treated with	hormone therapy
+hormone therapy	is a	treatment
+cancer	can be treated with	palliative care
+palliative care	is a	treatment
+cancer	can be monitored with	regular screenings
+regular screenings	are used to	detect cancer early
+cancer	can increase the risk of	mortality
+cancer	can be prevented by	lifestyle changes
+lifestyle changes	can include	healthy diet
+cancer	can be prevented by	regular exercise
+regular exercise	can reduce the risk of	cancer
+cancer	can have	genetic factors
+genetic factors	can increase the risk of	cancer
+cancer	can be hereditary
+cancer	can be caused by	environmental factors
+environmental factors	can increase the risk of	cancer
+cancer	can be caused by	tobacco use
+tobacco use	is a	risk factor
+cancer	can be caused by	exposure to chemicals
+exposure to chemicals	is a	risk factor
+cancer	can be caused by	radiation exposure
+radiation exposure	is a	risk factor
+cancer	can be caused by	viral infections
+viral infections	can increase the risk of	cancer
+cancer	can be caused by	sun exposure
+sun exposure	is a	risk factor
+cancer	can be caused by	alcohol consumption
+alcohol consumption	is a	risk factor
+cancer	can be caused by	obesity
+obesity	is a	risk factor
+cancer	can be caused by	age
+age	is a	risk factor
+cancer	can be caused by	family history
+family history	is a	risk factor
+cancer	can be caused by	weakened immune system
+weakened immune system	is a	risk factor
+cancer	can be caused by	hormone imbalances
+hormone imbalances	are a	risk factor
+cancer	can be caused by	certain medications
+certain medications	can be a	risk factor
+cancer	can be caused by	previous cancer treatment
+previous cancer treatment	can be a	risk factor
+cancer	can be caused by	exposure to asbestos
+exposure to asbestos	is a	risk factor
+cancer	can be caused by	ionizing radiation
+ionizing radiation	is a	risk factor
+cancer	can be caused by	benzene exposure
+benzene exposure	is a	risk factor
+cancer	can be caused by	formaldehyde exposure
+formaldehyde exposure	is a	risk factor
+cancer	can be caused by	diesel engine exhaust exposure
+diesel engine exhaust exposure	is a	risk factor
+cancer	can be caused by	arsenic exposure
+arsenic exposure	is a	risk factor
+cancer	can be caused by	radon exposure
+radon exposure	is a	risk factor
+cancer	can be caused by	secondhand smoke exposure
+secondhand smoke exposure	is a	risk factor
+cancer	can be caused by	indoor air pollution
+indoor air pollution	is a	risk factor
+cancer	can be caused by	outdoor air pollution
+outdoor air pollution	is a	risk factor
+cancer	can be caused by	high levels of estrogen
+high levels of estrogen	is a	risk factor
+cancer	can be caused by	high levels of testosterone
+high levels of testosterone	is a	risk factor
+cancer	can be caused by	human papillomavirus
+human papillomavirus	is a	risk factor
+cancer	can be caused by	hepatitis B
+hepatitis B	is a	risk factor
+cancer	can be caused by	hepatitis C
+hepatitis C	is a	risk factor
+cancer	can be caused by	human immunodeficiency virus
+human immunodeficiency virus	is a	risk factor
+cancer	can be caused by	Epstein-Barr virus
+Epstein-Barr virus	is a	risk factor
+cancer	can be caused by	Helicobacter pylori infection
+Helicobacter pylori infection	is a	risk factor
+cancer	can be caused by	exposure to aflatoxins
+exposure to aflatoxins	is a	risk factor
+cancer	can be caused by	exposure to asbestos
+exposure to asbestos	is a	risk factor
+cancer	can be caused by	exposure to benzene
+exposure to benzene	is a	risk factor
+cancer	can be caused by	exposure to beryllium
+exposure to beryllium	is a	risk factor
+cancer	can be caused by	exposure to cadmium
+exposure to cadmium	is a	risk factor
+cancer	can be caused by	exposure to diesel exhaust
+exposure to diesel exhaust	is a	risk factor
+cancer	can be caused by	exposure to silica
+exposure to silica	is a	risk factor
+cancer	can be caused by	exposure to benzene
+exposure to benzene	is a	risk factor
+cancer	can be caused by	exposure to trichloroethylene
+exposure to trichloroethylene	is a	risk factor
+cancer	can be caused by	exposure to vinyl chloride
+exposure to vinyl chloride	is a	risk factor
+cancer	can be caused by	exposure to asbestos
+exposure to asbestos	is a	risk factor
+cancer	can be caused by	exposure to tobacco smoke
+exposure to tobacco smoke	is a	risk factor
+cancer	can be caused by	exposure to ultraviolet radiation
+exposure to ultraviolet radiation	is a	risk factor
+cancer	can be caused by	exposure to ionizing radiation
+exposure to ionizing radiation	is a	risk factor
+cancer	can be caused by	exposure to chemicals
+exposure to chemicals	is a	risk factor
+cancer	can be caused by	exposure to diesel exhaust
+exposure to diesel exhaust	is a	risk factor
+cancer	can be caused by	exposure to formaldehyde
+exposure to formaldehyde	is a	risk factor

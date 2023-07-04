@@ -1,0 +1,138 @@
+neoplasms	can have	various types
+neoplasms	can be	benign
+neoplasms	can be	malignant
+malignant neoplasms	can metastasize to	other organs
+benign neoplasms	usually do not spread to	other organs
+neoplasms	can be	primary
+neoplasms	can be	secondary
+secondary neoplasms	occur when	cancer from one part of the body spreads to another
+primary neoplasms	originate in	the tissue or organ they affect
+neoplasms	can cause	symptoms
+neoplasms	can be detected through	imaging tests
+neoplasms	can be treated with	surgery
+neoplasms	can be treated with	chemotherapy
+neoplasms	can be treated with	radiation therapy
+neoplasms	can be treated with	targeted therapy
+neoplasms	can be treated with	immunotherapy
+neoplasms	can lead to	complications
+neoplasms	can increase the risk of	mortality
+neoplasms	can be a factor in	readmission
+neoplasms	can have	individualized treatments
+neoplasms	can have	different stages
+neoplasms	can have	different grades
+neoplasms	can have	different prognosis
+neoplasms	can be classified based on	histology
+neoplasms	can be classified based on	location
+neoplasms	can be classified based on	behavior
+neoplasms	can be classified based on	size
+neoplasms	can be classified based on	molecular markers
+neoplasms	can be classified based on	genetic mutations
+neoplasms	can occur in	any part of the body
+neoplasms	can be influenced by	genetic factors
+neoplasms	can be influenced by	environmental factors
+neoplasms	can be influenced by	lifestyle factors
+neoplasms	can be influenced by	age
+neoplasms	can be influenced by	gender
+neoplasms	can be influenced by	race
+neoplasms	can be influenced by	socioeconomic status
+neoplasms	can be influenced by	family history
+neoplasms	can have	different treatment options
+treatment options for neoplasms	depend on	the type and stage of the neoplasm
+neoplasms	can require	multidisciplinary care
+neoplasms	can result in	physical and emotional impact
+neoplasms	can be associated with	specific risk factors
+neoplasms	can have	different survival rates
+survival rates for neoplasms	can vary based on	the type and stage of the neoplasm
+neoplasms	can have	different recurrence rates
+neoplasms	can have	long-term effects
+neoplasms	can have	short-term effects
+neoplasms	can have	different treatment response rates
+treatment response rates for neoplasms	can vary based on	the type and stage of the neoplasm
+neoplasms	can be associated with	specific complications
+complications of neoplasms	can affect	quality of life
+neoplasms	can be prevented through	early detection and screening
+neoplasms	can have	different genetic profiles
+genetic profiling of neoplasms	can guide	personalized treatment decisions
+neoplasms	can result in	patient distress
+neoplasms	can have	different patterns of growth
+neoplasms	can require	long-term follow-up care
+neoplasms	can have	different healthcare utilization patterns
+neoplasms	can be associated with	comorbidities
+neoplasms	can be influenced by	treatment adherence
+neoplasms	can be associated with	specific biomarkers
+neoplasms	can have	different diagnostic methods
+neoplasms	can have	different radiological features
+neoplasms	can be associated with	specific gene mutations
+gene mutations in neoplasms	can affect	treatment response
+neoplasms	can have	different pathways of metastasis
+neoplasms	can be associated with	specific clinical presentations
+neoplasms	can have	different molecular subtypes
+neoplasms	can have	different prognostic factors
+neoplasms	can be associated with	specific immune responses
+neoplasms	can be associated with	specific tumor markers
+neoplasms	can occur at	any age
+neoplasms	can cause	pain
+neoplasms	can cause	fatigue
+neoplasms	can cause	weight loss
+neoplasms	can cause	anemia
+neoplasms	can cause	fever
+neoplasms	can cause	night sweats
+neoplasms	can cause	changes in appetite
+neoplasms	can cause	changes in bowel or bladder function
+neoplasms	can cause	changes in cognition
+neoplasms	can cause	changes in mood
+neoplasms	can cause	changes in sleep patterns
+neoplasms	can cause	changes in mobility
+neoplasms	can impair	organ function
+neoplasms	can affect	fertility
+neoplasms	can cause	financial burden
+neoplasms	can require	palliative care
+neoplasms	can affect	physical functioning
+neoplasms	can affect	emotional well-being
+neoplasms	can affect	social functioning
+neoplasms	can affect	cognitive functioning
+neoplasms	can affect	spiritual well-being
+neoplasms	can impact	family dynamics
+neoplasms	can result in	caregiver burden
+neoplasms	can have	different healthcare costs
+neoplasms	can be associated with	specific hospital utilization patterns
+neoplasms	can be associated with	specific complications
+complications of neoplasms	can result in	hospital readmission
+neoplasms	can have	different therapeutic targets
+neoplasms	can have	different resistance mechanisms
+neoplasms	can have	different drug response rates
+drug response rates for neoplasms	can vary based on	the type and stage of the neoplasm
+neoplasms	can affect	treatment decisions
+neoplasms	can have	different toxicities
+neoplasms	can require	supportive care
+neoplasms	can be associated with	specific risk prediction models
+neoplasms	can have	different survival predictors
+neoplasms	can be associated with	specific recurrence predictors
+neoplasms	can be associated with	specific response predictors
+neoplasms	can have	different genetic alterations
+genetic alterations in neoplasms	can affect	disease progression
+neoplasms	can be associated with	specific signaling pathways
+neoplasms	can have	different angiogenic factors
+neoplasms	can be associated with	specific immune cell infiltrates
+neoplasms	can be associated with	specific tumor microenvironments
+neoplasms	can be influenced by	patient preferences
+neoplasms	can have	different treatment guidelines
+neoplasms	can be associated with	specific treatment combinations
+neoplasms	can be associated with	specific survival indicators
+neoplasms	can have	different treatment complications
+neoplasms	can require	supportive therapies
+neoplasms	can be associated with	specific changes in genomic stability
+neoplasms	can have	different prognostic models
+neoplasms	can have	different factors influencing disease progression
+neoplasms	can be associated with	specific protein expression
+neoplasms	can be associated with	specific genetic pathways
+neoplasms	can be associated with	specific protein markers
+neoplasms	can have	different immunological responses
+neoplasms	can have	different patterns of recurrence
+neoplasms	can have	different patterns of response
+neoplasms	can be associated with	specific tumor suppressor genes
+neoplasms	can have	different time to progression rates
+neoplasms	can have	different blood markers
+blood markers in neoplasms	can aid in	diagnosis and monitoring
+neoplasms	can have	different molecular targets
+neoplasms	can have	different cellular origins

@@ -1,0 +1,106 @@
+forceps delivery	is a	delivery method
+forceps delivery	is used when	vaginal delivery is difficult
+forceps	are medical instruments used for	grasping the baby's head
+forceps delivery	may cause	birth trauma
+forceps delivery	increases the risk of	episiotomy
+forceps delivery	is associated with	increased maternal morbidity
+forceps delivery	is more common in	nulliparous women
+forceps delivery	has a higher rate of	instrumental vaginal delivery
+forceps delivery	is performed by	obstetricians
+forceps delivery	is sometimes followed by	cesarean section
+forceps delivery	requires	anesthesia
+forceps delivery	is more likely with	prolonged labor
+forceps delivery	can result in	fetal injury
+forceps delivery	is more common in	occiput posterior position
+forceps	should be applied	with caution
+forceps delivery	is more frequent in	older mothers
+forceps delivery	is associated with	increased neonatal morbidity
+forceps delivery	may cause	facial nerve palsy
+forceps delivery	is indicated when	fetal distress is present
+forceps delivery	may be necessary in	shoulder dystocia
+forceps delivery	can lead to	maternal perineal trauma
+forceps delivery	is a risk factor for	pelvic floor disorders
+forceps delivery	increases the risk of	fetal intracranial hemorrhage
+forceps delivery	may be done for	maternal exhaustion
+forceps delivery	is associated with	increased length of hospital stay
+forceps delivery	may be performed as	a last resort
+forceps delivery	requires	careful monitoring of fetal heart rate
+forceps	should be used	as a last option
+forceps delivery	necessitates	close collaboration between obstetrician and midwife
+forceps delivery	may cause	urinary incontinence
+forceps delivery	is more common in	breech presentation
+forceps delivery	is associated with	increased risk of postpartum hemorrhage
+forceps delivery	may result in	maternal lacerations
+forceps delivery	should be performed	under sterile conditions
+forceps delivery	has a higher risk of	maternal genital tract lacerations
+forceps delivery	is more likely in	preterm births
+forceps delivery	can lead to	maternal pelvic organ prolapse
+forceps delivery	may be followed by	vacuum extraction
+forceps delivery	is more frequent in	larger babies
+forceps delivery	is associated with	increased risk of uterine rupture
+forceps delivery	may cause	neonatal jaundice
+forceps delivery	requires	informed consent
+forceps delivery	is more common in	occiput anterior position
+forceps delivery	is associated with	increased risk of postpartum infection
+forceps delivery	may result in	maternal rectal injury
+forceps delivery	should be performed	by experienced obstetricians
+forceps delivery	is more likely in	multiple gestations
+forceps delivery	can lead to	maternal urinary retention
+forceps delivery	may be necessary in	abnormal fetal position
+forceps delivery	requires	postpartum monitoring
+forceps delivery	is associated with	increased risk of maternal postpartum depression
+forceps delivery	may cause	newborn cephalohematoma
+forceps delivery	should be attempted	when fetal head is engaged
+forceps delivery	is more common in	older gestational age
+forceps delivery	can result in	maternal hemorrhage
+forceps delivery	may be done for	maternal heart disease
+forceps delivery	is associated with	increased risk of shoulder dystocia in subsequent pregnancies
+forceps delivery	is more frequent in	overweight or obese women
+forceps delivery	may cause	newborn retinal hemorrhage
+forceps delivery	is indicated when	maternal pushing effort is ineffective
+forceps delivery	is more likely in	macrosomic babies
+forceps delivery	can lead to	maternal psychological distress
+forceps delivery	may be necessary in	maternal exhaustion
+forceps delivery	requires	neonatal resuscitation
+forceps delivery	is associated with	increased risk of postpartum urinary retention
+forceps delivery	may result in	umbilical cord prolapse
+forceps delivery	should be carefully documented
+forceps delivery	is more common in	mothers with gestational diabetes
+forceps delivery	is associated with	increased risk of birth injury
+forceps delivery	may cause	temporary weakness of the facial muscles
+forceps delivery	is indicated when	there is a need for expedited birth
+forceps delivery	is more likely in	babies in occiput posterior position
+forceps delivery	can lead to	operative vaginal delivery failure
+forceps delivery	may be necessary in	maternal cardiac disease
+forceps delivery	requires	postpartum pain management
+forceps delivery	is associated with	increased risk of postpartum blood loss
+forceps delivery	may result in	maternal urinary tract infection
+forceps delivery	should be properly documented
+forceps delivery	is more common in	mothers with preeclampsia
+forceps delivery	is associated with	increased risk of maternal postpartum anxiety
+forceps delivery	may cause	newborn scalp lacerations
+forceps delivery	is indicated when	there is prolonged second stage of labor
+forceps delivery	is more likely in	babies with abnormal presentation
+forceps delivery	can lead to	maternal psychological trauma
+forceps delivery	may be necessary in	maternal pelvic tumors
+forceps delivery	requires	monitoring for maternal vital signs
+forceps delivery	is associated with	increased risk of postpartum thrombosis
+forceps delivery	may result in	neonatal respiratory distress
+forceps delivery	should be documented accurately
+forceps delivery	is more common in	mothers with gestational hypertension
+forceps delivery	is associated with	increased risk of maternal postpartum psychosis
+forceps delivery	may cause	newborn facial bruising
+forceps delivery	is indicated when	there is placenta previa
+forceps delivery	is more likely in	babies with fetal anomalies
+forceps delivery	can lead to	maternal bladder injury
+forceps delivery	may be necessary in	maternal cervical insufficiency
+forceps delivery	requires	proper neonatal positioning
+forceps delivery	is associated with	increased risk of postpartum fever
+forceps delivery	may result in	neonatal subgaleal hemorrhage
+forceps delivery	should be performed	with aseptic technique
+forceps delivery	is more common in	mothers with premature rupture of membranes
+forceps delivery	is associated with	increased risk of maternal postpartum cognitive impairment
+forceps delivery	may cause	newborn facial nerve injury
+forceps delivery	is indicated when	there is uterine contraindication to cesarean delivery
+forceps delivery	is more likely in	malpositioned or malpresented babies
+forceps delivery	can lead to	maternal anal sphincter injury

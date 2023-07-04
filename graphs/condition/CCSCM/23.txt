@@ -1,0 +1,12 @@
+other non-epithelial cancer of skin	is a type of	skin cancer
+non-melanoma	is a type of	other non-epithelial cancer of skin
+basal cell carcinoma	is a type of	non-melanoma
+squamous cell carcinoma	is a type of	non-melanoma
+other non-epithelial cancer of skin	can be caused by	exposure to ultraviolet radiation
+other non-epithelial cancer of skin	is more common in	older adults
+smoking	can increase the risk of	other non-epithelial cancer of skin
+other non-epithelial cancer of skin	is treated with	surgical removal
+radiation therapy	is a treatment option for	other non-epithelial cancer of skin
+chemotherapy	may be used to treat	other non-epithelial cancer of skin
+other non-epithelial cancer of skin	has a higher	survival rate compared to melanoma
+other non-epithelial cancer of skin	often appears as	a red or pink bump on the skin

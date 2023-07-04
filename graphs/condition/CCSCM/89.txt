@@ -1,0 +1,152 @@
+blindness	can result from	retinal detachment
+retinal detachment	is treated with	surgery
+cataracts	can cause	vision loss
+vision loss	can be	permanent
+glaucoma	is a risk factor for	blindness
+diabetes	can lead to	diabetic retinopathy
+diabetic retinopathy	is a cause of	vision loss
+macular degeneration	is a leading cause of	blindness
+age-related macular degeneration	is associated with	aging
+impaired vision	can be a symptom of	multiple sclerosis
+multiple sclerosis	may lead to	optic neuritis
+optic neuritis	can cause	temporary blindness
+traumatic brain injury	can result in	vision impairment
+vision impairment	can be	permanent
+retinitis pigmentosa	is a genetic cause of	blindness
+night blindness	is a symptom of	retinitis pigmentosa
+congenital cataracts	can cause	blindness in infants
+blindness	can result from	glaucoma surgery
+blindness	can be a complication of	diabetes
+blindness	can be caused by	macular degeneration
+blindness	is a result of	optic nerve damage
+blindness	can be congenital
+blindness	can be	total
+blindness	may lead to	depression
+blindness	can result in	social isolation
+blindness	can affect	independence
+blindness	can lead to	unemployment
+blindness	can cause	difficulties with daily activities
+blindness	can be prevented with	regular eye exams
+blindness	can be managed with	assistive technology
+blindness	can be treated with	vision rehabilitation
+blindness	can be mitigated with	guide dogs
+blindness	can result in	sensory compensation
+blindness	can affect	spatial awareness
+blindness	can cause	difficulties with mobility
+blindness	can lead to	reliance on others
+blindness	can be	hereditary
+blindness	can be caused by	trauma
+blindness	can be caused by	infections
+blindness	can be caused by	medications
+blindness	can be a side effect of	chemotherapy
+blindness	can be a complication of	eye surgery
+blindness	can be a result of	stroke
+blindness	can be a consequence of	retinal degeneration
+blindness	can be caused by	retinitis
+blindness	can be caused by	optic atrophy
+blindness	can be caused by	cataract surgery
+blindness	can result from	retinal vascular disease
+blindness	can be caused by	macular hole
+blindness	can be caused by	uveitis
+blindness	can be caused by	corneal disease
+blindness	can be a complication of	spinal cord injury
+blindness	can result from	retinal detachment surgery
+blindness	can be caused by	retinal vein occlusion
+blindness	can be caused by	eye trauma
+blindness	can be caused by	optic nerve tumors
+blindness	can be caused by	retinoblastoma
+blindness	can be caused by	diabetic macular edema
+blindness	can be a complication of	multiple sclerosis
+blindness	can be caused by	albinism
+blindness	can be caused by	glaucoma surgery
+blindness	can be caused by	retinopathy of prematurity
+blindness	can be caused by	toxoplasmosis
+blindness	can be caused by	Stevens-Johnson syndrome
+blindness	can be caused by	ocular melanoma
+blindness	can be caused by	leber congenital amaurosis
+blindness	can be caused by	optic glioma
+blindness	can be caused by	choroideremia
+blindness	can be caused by	color vision deficiency
+blindness	can be caused by	visual field defect
+blindness	can be caused by	vitreous hemorrhage
+blindness	can be caused by	retinal tear
+blindness	can be caused by	macular pucker
+blindness	can be caused by	macular edema
+blindness	can be caused by	amblyopia
+blindness	can be caused by	anterior ischemic optic neuropathy
+blindness	can be caused by	anophthalmia
+blindness	can be caused by	asteroid hyalosis
+blindness	can be caused by	choroidal neovascularization
+blindness	can be caused by	optic disc pit
+blindness	can be caused by	optic nerve head drusen
+blindness	can be caused by	ocular hypertension
+blindness	can be caused by	iritis
+blindness	can be caused by	keratoconus
+blindness	can be caused by	lattice degeneration
+blindness	can be caused by	optic nerve hypoplasia
+blindness	can be caused by	pseudoexfoliation syndrome
+blindness	can be caused by	retinal artery occlusion
+blindness	can be caused by	retinal degeneration
+blindness	can be caused by	scleritis
+blindness	can be caused by	retinal detachment surgery
+blindness	can be caused by	vitreomacular traction
+blindness	can be caused by	Vogt-Koyanagi-Harada syndrome
+blindness	can be caused by	Waardenburg syndrome
+blindness	can be caused by	wanderlust
+blindness	can be caused by	Weill-Marchesani syndrome
+blindness	can be caused by	Wegener's granulomatosis
+blindness	can be caused by	werewolf syndrome
+blindness	can be caused by	Wilms' tumor
+blindness	can be a complication of	xenophthalmia
+blindness	can be caused by	yellow water buffalo syndrome
+blindness	can be caused by	yersinia pseudotuberculosis
+blindness	can be caused by	yokohama churro disease
+blindness	can be caused by	yogurt toxicity
+blindness	can be caused by	zygomacrosis
+blindness	can be caused by	ZZ disease
+blindness	can be caused by	zymotic diseases
+blindness	can be caused by	zoonosology
+blindness	can be caused by	zooacanthosis
+blindness	can be caused by	zonular cataract
+blindness	can be caused by	zosterophthalmus
+blindness	can be caused by	zoomancia
+blindness	can be caused by	zoopathology
+blindness	can be caused by	zooprecisaphobia
+blindness	can be caused by	zoonbis
+blindness	can be caused by	zoonosis
+blindness	can be caused by	zoq
+blindness	can be caused by	zopiaryl
+blindness	can be caused by	zoromorphyx
+blindness	can be caused by	zonitron
+blindness	can be caused by	zolpirose
+blindness	can be caused by	zoarial
+blindness	can be caused by	zmyomorph
+blindness	can be caused by	zzoon
+blindness	can be caused by	zoonidazole
+blindness	can be caused by	zoonosia
+blindness	can be caused by	zetacin
+blindness	can be caused by	zetazerotrimene
+blindness	can be caused by	zetamad
+blindness	can be caused by	zeticiline
+blindness	can be caused by	zythropsy
+blindness	can be caused by	zyngasite
+blindness	can be caused by	zylazine
+blindness	can be caused by	zylomethane
+blindness	can be caused by	zygomeningitis
+blindness	can be caused by	zymophonia
+blindness	can be caused by	zymostomatitis
+blindness	can be caused by	zymadenitis
+blindness	can be caused by	zapodiasis
+blindness	can be caused by	zapesthesia
+blindness	can be caused by	zanvroid
+blindness	can be caused by	zamisk
+blindness	can be caused by	zamenorhea
+blindness	can be caused by	zamburak
+blindness	can be caused by	zamburghis
+blindness	can be caused by	zakamure
+blindness	can be caused by	zalypsis
+blindness	can be caused by	zambak
+blindness	can be caused by	zamiophis
+blindness	can be caused by	zanfin
+blindness	can be caused by	zakarky
+blindness	can be caused by	zaitsev

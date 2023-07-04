@@ -1,0 +1,20 @@
+lymphadenitis	is	inflammation
+lymphadenitis	can be caused by	infection
+streptococcus	is a common	cause
+lymphadenitis	may result in	abscess formation
+lymphadenitis	is treated with	antibiotics
+azithromycin	is an	antibiotic
+lymphadenitis	can cause	lymph node enlargement
+lymphadenitis	can be diagnosed by	lymph node biopsy
+lymphadenitis	can lead to	sepsis
+lymphadenitis	is a	condition
+lymph node	is associated with	lymphadenitis
+lymphadenitis	can occur in	children
+lymphadenitis	is characterized by	swollen lymph nodes
+lymphadenitis	can be a result of	tuberculosis
+lymphadenitis	is a common	condition
+lymphadenitis	can be a	complication
+lymphadenitis	is more common in	immunocompromised individuals
+lymphadenitis	can be treated with	surgical drainage
+lymphadenitis	can be caused by	cancer
+lymphadenitis	can lead to	pain

@@ -1,0 +1,100 @@
+cancer	can occur in	brain
+cancer	can occur in	nervous system
+cancer	is treated with	chemotherapy
+radiation therapy	is a treatment for	cancer
+surgery	is a treatment for	cancer
+cancer	can spread to	other parts of the body
+cancer	can cause	seizures
+cancer	can cause	headaches
+cancer	can cause	cognitive impairment
+cancer	can cause	vision problems
+cancer	can cause	balance problems
+cancer	can cause	hearing loss
+cancer	can cause	paralysis
+cancer	can cause	difficulty speaking
+cancer	can cause	numbness and tingling
+chemotherapy	may cause	nausea
+chemotherapy	may cause	hair loss
+radiation therapy	can cause	skin irritation
+radiation therapy	can cause	fatigue
+surgery	can cause	infection
+surgery	can cause	bleeding
+cancer	may require	palliative care
+cancer	may require	hospice care
+cancer	can increase	mortality risk
+early detection	can improve	prognosis
+cancer	can lead to	disability
+cancer	can lead to	cognitive decline
+cancer	can lead to	decreased quality of life
+cancer	can lead to	emotional distress
+cancer	can lead to	financial burden
+cancer	can lead to	loss of independence
+cancer	can lead to	caregiver burden
+cancer	can lead to	social isolation
+cancer	can lead to	depression
+cancer	can lead to	anxiety
+cancer	can lead to	post-traumatic stress disorder
+cancer	can lead to	sleep disturbances
+cancer	can lead to	weight loss
+cancer	can lead to	malnutrition
+cancer	can increase	healthcare utilization
+cancer	can increase	hospitalization rates
+cancer	can increase	healthcare costs
+cancer	can affect	employment status
+cancer	can affect	financial stability
+cancer	can affect	relationships
+cancer	can affect	sexual function
+cancer	can affect	fertility
+cancer	can affect	body image
+cancer	can affect	self-esteem
+cancer	can affect	identity
+cancer	can affect	sense of purpose
+cancer	can affect	spiritual well-being
+cancer	can affect	social support
+cancer	can affect	coping mechanisms
+cancer	can affect	decision-making
+cancer	can affect	treatment adherence
+cancer	can affect	psychological well-being
+cancer	can affect	physical well-being
+cancer	can affect	functional status
+cancer	can affect	symptom burden
+cancer	can affect	treatment response
+cancer	can affect	survivorship
+cancer	can affect	end-of-life care
+cancer	can affect	healthcare decision-making
+cancer	can affect	advance care planning
+cancer	can affect	communication with healthcare providers
+cancer	can affect	healthcare access
+cancer	can affect	healthcare disparities
+cancer	can affect	health-related quality of life
+cancer	can affect	patient satisfaction
+cancer	can affect	healthcare outcomes
+cancer	can affect	healthcare utilization patterns
+cancer	can affect	healthcare resource allocation
+cancer	can affect	healthcare policy
+cancer	can affect	healthcare system functioning
+cancer	can affect	healthcare delivery
+cancer	can affect	healthcare equity
+cancer	can affect	healthcare access disparities
+cancer	can affect	healthcare quality metrics
+cancer	can affect	healthcare costs
+cancer	can affect	healthcare reimbursement
+cancer	can affect	healthcare workforce
+cancer	can affect	healthcare education
+cancer	can affect	healthcare research
+cancer	can affect	healthcare innovation
+cancer	can affect	healthcare technology
+cancer	can affect	healthcare policies
+cancer	can affect	healthcare regulations
+cancer	can affect	healthcare infrastructure
+cancer	can affect	healthcare financing
+cancer	can affect	healthcare decision-making frameworks
+cancer	can affect	healthcare organizations
+cancer	can affect	healthcare leadership
+cancer	can affect	healthcare governance
+cancer	can affect	healthcare advocacy
+cancer	can affect	healthcare communication
+cancer	can affect	healthcare coordination
+cancer	can affect	healthcare collaboration
+cancer	can affect	healthcare data
+cancer	can affect	healthcare analytics

@@ -1,0 +1,5 @@
+cancer of testis	is a	malignant tumor
+cancer of testis	can cause	pain
+orchidectomy	is a treatment for	cancer of testis
+cancer of testis	is associated with	testicular atrophy
+AFP	is a tumor marker for	cancer of testis

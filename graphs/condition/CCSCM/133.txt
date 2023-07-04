@@ -1,0 +1,98 @@
+other lower respiratory disease	is a	medical condition
+other lower respiratory disease	can cause	pneumonia
+chest X-ray	is used to diagnose	other lower respiratory disease
+coughing	is a symptom of	other lower respiratory disease
+other lower respiratory disease	may require	oxygen therapy
+bronchodilators	are used to treat	other lower respiratory disease
+other lower respiratory disease	can lead to	respiratory failure
+spirometry	is a test for	other lower respiratory disease
+other lower respiratory disease	is a risk factor for	lung cancer
+respiratory distress	is a complication of	other lower respiratory disease
+other lower respiratory disease	can result in	hospitalization
+other lower respiratory disease	is more common in	smokers
+other lower respiratory disease	can be caused by	viral infection
+other lower respiratory disease	is associated with	chronic bronchitis
+other lower respiratory disease	is characterized by	wheezing
+exacerbation	is a worsening of	other lower respiratory disease
+other lower respiratory disease	is a cause of	chronic obstructive pulmonary disease
+other lower respiratory disease	can be managed by	pulmonary rehabilitation
+antibiotics	are sometimes prescribed for	other lower respiratory disease
+other lower respiratory disease	is a risk factor for	respiratory infections
+other lower respiratory disease	is a common cause of	shortness of breath
+lung function test	is used to evaluate	other lower respiratory disease
+other lower respiratory disease	can be managed with	lifestyle changes
+oxygen saturation	is a measure of	other lower respiratory disease
+other lower respiratory disease	is associated with	air pollution
+other lower respiratory disease	is a cause of	cough
+other lower respiratory disease	can be caused by	occupational exposure
+mucus production	is a symptom of	other lower respiratory disease
+other lower respiratory disease	is a risk factor for	pulmonary hypertension
+other lower respiratory disease	is linked to	secondhand smoke
+other lower respiratory disease	can be prevented by	quitting smoking
+other lower respiratory disease	is a risk factor for	asthma
+other lower respiratory disease	can lead to	respiratory distress syndrome
+other lower respiratory disease	is a cause of	wheezing
+other lower respiratory disease	is associated with	lung fibrosis
+other lower respiratory disease	can result in	bronchospasm
+shortness of breath	is a symptom of	other lower respiratory disease
+other lower respiratory disease	is a risk factor for	lung infections
+other lower respiratory disease	is treated with	inhalers
+lung transplant	is a treatment option for	other lower respiratory disease
+other lower respiratory disease	can be caused by	fungal infection
+other lower respiratory disease	is a cause of	respiratory insufficiency
+other lower respiratory disease	is associated with	emphysema
+other lower respiratory disease	can lead to	respiratory failure
+smoking cessation	is important for	other lower respiratory disease prevention
+other lower respiratory disease	is a risk factor for	lung nodules
+other lower respiratory disease	can be managed with	chest physiotherapy
+other lower respiratory disease	is caused by	inflammation
+exercise intolerance	is a symptom of	other lower respiratory disease
+other lower respiratory disease	is a risk factor for	chronic bronchitis
+other lower respiratory disease	can lead to	lung scarring
+other lower respiratory disease	is associated with	asbestos exposure
+other lower respiratory disease	can be prevented with	vaccination
+other lower respiratory disease	is a cause of	coughing
+other lower respiratory disease	is a risk factor for	respiratory failure
+other lower respiratory disease	can result in	hospital readmission
+other lower respiratory disease	is linked to	indoor air pollution
+other lower respiratory disease	is a cause of	pleurisy
+other lower respiratory disease	is associated with	interstitial lung disease
+other lower respiratory disease	can lead to	difficulty breathing
+other lower respiratory disease	is a risk factor for	lung cancer
+other lower respiratory disease	can be managed with	oxygen therapy
+other lower respiratory disease	is a common cause of	chest pain
+occupational lung disease	is a subtype of	other lower respiratory disease
+other lower respiratory disease	is a risk factor for	pulmonary embolism
+other lower respiratory disease	can result in	respiratory distress
+obstructive sleep apnea	is a risk factor for	other lower respiratory disease
+other lower respiratory disease	is associated with	pollution exposure
+other lower respiratory disease	can be caused by	bacterial infection
+other lower respiratory disease	is a cause of	respiratory infections
+other lower respiratory disease	is a complication of	lung disease
+other lower respiratory disease	can lead to	breathing difficulties
+other lower respiratory disease	is a risk factor for	acute respiratory distress syndrome
+other lower respiratory disease	is commonly seen in	older adults
+other lower respiratory disease	can be managed with	corticosteroids
+other lower respiratory disease	is a cause of	pneumonia
+other lower respiratory disease	is associated with	smoking
+other lower respiratory disease	can result in	lung collapse
+other lower respiratory disease	is a risk factor for	chronic obstructive pulmonary disease
+other lower respiratory disease	can be managed with	pulmonologist care
+prolonged hospital stay	is a complication of	other lower respiratory disease
+other lower respiratory disease	is linked to	lung fibrosis
+other lower respiratory disease	can lead to	respiratory distress
+other lower respiratory disease	is a cause of	respiratory failure
+other lower respiratory disease	is associated with	pulmonary hypertension
+other lower respiratory disease	can result in	lung infections
+other lower respiratory disease	is a risk factor for	asthma
+other lower respiratory disease	can be managed with	antibiotics
+other lower respiratory disease	is a cause of	shortness of breath
+other lower respiratory disease	is associated with	lung cancer
+other lower respiratory disease	can lead to	bronchitis
+other lower respiratory disease	is a risk factor for	respiratory insufficiency
+other lower respiratory disease	can be prevented by	avoiding pollutants
+other lower respiratory disease	is a cause of	chest pain
+other lower respiratory disease	is associated with	lung scarring
+other lower respiratory disease	can result in	pneumonia
+other lower respiratory disease	is a risk factor for	chronic bronchitis
+other lower respiratory disease	can be managed with	oxygen supplementation

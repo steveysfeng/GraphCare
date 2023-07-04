@@ -1,0 +1,109 @@
+deficiency	can cause	anemia
+anemia	may lead to	fatigue
+iron deficiency	is a common	cause of anemia
+vitamin B12	deficiency can lead to	pernicious anemia
+anemia	can result in	pale skin
+anemia	may require	blood transfusion
+iron supplements	can help	treat anemia
+sickle cell anemia	is a	genetic disorder
+anemia	can be caused by	chronic kidney disease
+anemia	is diagnosed through	blood tests
+anemia	can be a symptom of	leukemia
+kidney disease	can cause	anemia
+folic acid	deficiency can cause	anemia
+anemia	is a	decrease in red blood cells
+anemia	can be caused by	gastrointestinal bleeding
+anemia	is a	condition characterized by low hemoglobin levels
+anemia	can be a side effect of	chemotherapy
+pregnancy	can cause	anemia
+anemia	may require	iron infusion
+anemia	can be caused by	autoimmune disorders
+anemia	can be a symptom of	bone marrow disorders
+anemia	can result in	shortness of breath
+anemia	can be caused by	alcoholism
+anemia	can be a complication of	HIV/AIDS
+anemia	can be caused by	malnutrition
+anemia	is a	common blood disorder
+anemia	can be caused by	excessive blood loss
+anemia	can be a symptom of	thyroid disorders
+anemia	can lead to	weakened immune system
+anemia	can be caused by	rheumatoid arthritis
+anemia	can be a side effect of	certain medications
+anemia	can be caused by	bone marrow failure
+anemia	can be a symptom of	multiple myeloma
+anemia	can result in	cognitive difficulties
+anemia	can be caused by	chronic inflammation
+anemia	can be a complication of	gastrointestinal disorders
+anemia	can be caused by	hereditary conditions
+anemia	can be a symptom of	chronic heart failure
+anemia	can be a side effect of	antiretroviral therapy
+anemia	can result in	dizziness
+anemia	can be caused by	kidney failure
+anemia	can be a symptom of	liver disease
+anemia	can be a complication of	chemotherapy
+anemia	can be caused by	heavy menstruation
+anemia	can result in	rapid heartbeat
+anemia	can be caused by	hormonal imbalances
+vitamin D deficiency	can cause	anemia
+anemia	can be a symptom of	connective tissue disorders
+anemia	can be caused by	gastric ulcers
+anemia	can be a side effect of	radiation therapy
+anemia	can be caused by	chronic infections
+anemia	can be a symptoms of	malignancies
+anemia	can result in	decreased exercise tolerance
+anemia	can be caused by	certain cancers
+anemia	can be a symptom of	kidney disease
+anemia	can be caused by	sickle cell disease
+anemia	can result in	chest pain
+anemia	can be caused by	inadequate dietary intake
+anemia	can be a symptom of	HIV/AIDS
+anemia	can be caused by	bone marrow disorders
+anemia	can result in	weakness
+anemia	can be caused by	vitamin deficiencies
+anemia	can be a complication of	gastric bypass surgery
+anemia	can be caused by	ulcers
+anemia	can be a symptom of	rheumatoid arthritis
+anemia	can be caused by	autoimmune disorders
+anemia	can result in	difficulty concentrating
+anemia	can be caused by	gastrointestinal bleeding
+anemia	can be a symptom of	systemic lupus erythematosus
+anemia	can be caused by	liver disease
+anemia	can result in	heart palpitations
+anemia	can be caused by	chronic kidney disease
+anemia	can be a complication of	kidney disease
+anemia	can result in	fatigue
+anemia	can be caused by	excessive blood loss
+anemia	can be a symptom of	pernicious anemia
+anemia	can be caused by	folic acid deficiency
+anemia	can result in	decreased energy levels
+anemia	can be caused by	malnutrition
+anemia	can be a side effect of	certain medications
+anemia	can be a symptom of	gastrointestinal disorders
+anemia	can be caused by	rheumatoid arthritis
+anemia	can result in	shortness of breath
+anemia	can be caused by	chronic inflammation
+anemia	can be a complication of	gastrointestinal disorders
+anemia	can result in	cognitive difficulties
+anemia	can be caused by	bone marrow failure
+anemia	can be a symptom of	multiple myeloma
+anemia	can be caused by	kidney failure
+anemia	can be a symptom of	liver disease
+anemia	can result in	dizziness
+anemia	can be caused by	hormonal imbalances
+anemia	can be a symptom of	connective tissue disorders
+anemia	can be caused by	chronic infections
+anemia	can result in	decreased exercise tolerance
+anemia	can be caused by	certain cancers
+anemia	can be a symptom of	kidney disease
+anemia	can result in	chest pain
+anemia	can be caused by	inadequate dietary intake
+anemia	can be a symptom of	HIV/AIDS
+anemia	can be caused by	bone marrow disorders
+anemia	can be a complication of	chronic heart failure
+anemia	can result in	weakness
+anemia	can be caused by	vitamin deficiencies
+anemia	can be a symptom of	systemic lupus erythematosus
+anemia	can result in	difficulty concentrating
+anemia	can be caused by	liver disease
+anemia	can be a complication of	kidney disease
+anemia	can result in	fatigue

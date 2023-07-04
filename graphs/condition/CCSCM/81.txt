@@ -1,0 +1,25 @@
+other hereditary and degenerative nervous system conditions	may lead to	motor dysfunction
+other hereditary and degenerative nervous system conditions	can cause	cognitive impairment
+other hereditary and degenerative nervous system conditions	are associated with	genetic mutations
+Parkinson's disease	is a	hereditary and degenerative nervous system condition
+Parkinson's disease	is characterized by	tremors
+Parkinson's disease	can be managed with	medication
+levodopa	is a	medication
+levodopa	helps	alleviate symptoms
+Alzheimer's disease	is a	hereditary and degenerative nervous system condition
+Alzheimer's disease	causes	memory loss
+Alzheimer's disease	is treated with	cholinesterase inhibitors
+donepezil	is a	cholinesterase inhibitor
+donepezil	helps	improve cognitive function
+Huntington's disease	is a	hereditary and degenerative nervous system condition
+Huntington's disease	results in	involuntary movements
+Huntington's disease	has a	genetic basis
+spinal muscular atrophy	is a	hereditary and degenerative nervous system condition
+spinal muscular atrophy	leads to	muscle weakness
+spinal muscular atrophy	is caused by	gene mutations
+multiple sclerosis	is a	hereditary and degenerative nervous system condition
+multiple sclerosis	affects	the central nervous system
+multiple sclerosis	is characterized by	the destruction of myelin
+multiple sclerosis	is treated with	disease-modifying therapies
+interferon beta-1a	is a	disease-modifying therapy
+interferon beta-1a	helps	reduce relapses

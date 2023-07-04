@@ -1,0 +1,74 @@
+e codes	categorize	place of occurrence
+e codes	are used for	injury classification
+place of occurrence	can include	home
+e codes	are part of	ICD-10 coding system
+ICD-10 coding system	is used for	healthcare reimbursement
+e codes	provide information for	injury prevention
+place of occurrence	can be	work
+work	is a common	place of occurrence for injuries
+e codes	help in	data analysis
+place of occurrence	can be	school
+school	is a common	place of occurrence for injuries
+e codes	are important for	healthcare planning
+place of occurrence	can be	sports
+sports	is a common	place of occurrence for injuries
+e codes	are helpful in	research studies
+place of occurrence	can be	public areas
+public areas	are common	places of occurrence for injuries
+e codes	assist in	injury surveillance
+place of occurrence	can be	recreational areas
+recreational areas	are typical	places of occurrence for injuries
+e codes	aid in	injury monitoring
+place of occurrence	can be	healthcare settings
+healthcare settings	are common	places of occurrence for injuries
+e codes	facilitate	injury reporting
+place of occurrence	can be	transportation settings
+transportation settings	are frequent	places of occurrence for injuries
+e codes	support	injury prevention efforts
+place of occurrence	can be	public events
+public events	are common	places of occurrence for injuries
+e codes	are used for	injury surveillance
+place of occurrence	can be	recreational activities
+recreational activities	are typical	places of occurrence for injuries
+e codes	enable	injury analysis
+place of occurrence	can be	nursing homes
+nursing homes	are common	places of occurrence for injuries
+e codes	assist in	injury prevention research
+place of occurrence	can be	construction sites
+construction sites	are frequent	places of occurrence for injuries
+e codes	help in	injury data collection
+place of occurrence	can be	shopping areas
+shopping areas	are common	places of occurrence for injuries
+e codes	play a role in	injury epidemiology
+place of occurrence	can be	recreational facilities
+recreational facilities	are typical	places of occurrence for injuries
+e codes	contribute to	injury surveillance efforts
+place of occurrence	can be	healthcare facilities
+healthcare facilities	are common	places of occurrence for injuries
+e codes	are essential for	injury classification
+place of occurrence	can be	public spaces
+public spaces	are common	places of occurrence for injuries
+e codes	assist in	injury prevention strategies
+place of occurrence	can be	transportation systems
+transportation systems	are frequent	places of occurrence for injuries
+e codes	are used for	injury coding
+place of occurrence	can be	recreational sites
+recreational sites	are typical	places of occurrence for injuries
+e codes	aid in	injury surveillance systems
+place of occurrence	can be	healthcare institutions
+healthcare institutions	are common	places of occurrence for injuries
+e codes	help in	injury prevention programs
+place of occurrence	can be	public locations
+public locations	are common	places of occurrence for injuries
+e codes	improve	injury reporting systems
+place of occurrence	can be	transportation settings
+transportation settings	are frequent	places of occurrence for injuries
+e codes	assist in	injury research
+place of occurrence	can be	recreational venues
+recreational venues	are typical	places of occurrence for injuries
+e codes	support	injury surveillance efforts
+place of occurrence	can be	healthcare centers
+healthcare centers	are common	places of occurrence for injuries
+e codes	aid in	injury prevention initiatives
+place of occurrence	can be	public places
+public places	are common	places of occurrence for injuries

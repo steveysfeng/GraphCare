@@ -1,0 +1,160 @@
+poisoning by psychotropic agents	can result in	altered mental status
+poisoning by psychotropic agents	may cause	respiratory depression
+poisoning by psychotropic agents	can lead to	coma
+poisoning by psychotropic agents	requires	medical intervention
+poisoning by psychotropic agents	can be treated with	gastric lavage
+gastric lavage	is a	medical procedure
+poisoning by psychotropic agents	can cause	cardiac arrhythmias
+poisoning by psychotropic agents	may lead to	seizures
+poisoning by psychotropic agents	requires	close monitoring
+poisoning by psychotropic agents	can result in	overdose
+poisoning by psychotropic agents	should be	reported to poison control
+poisoning by psychotropic agents	can be	accidental
+poisoning by psychotropic agents	can be	intentional
+poisoning by psychotropic agents	is treated with	activated charcoal
+activated charcoal	is used to	absorb toxins
+poisoning by psychotropic agents	can be caused by	overdose
+poisoning by psychotropic agents	is associated with	increased mortality
+poisoning by psychotropic agents	may require	hospitalization
+poisoning by psychotropic agents	requires	supportive care
+poisoning by psychotropic agents	is a	toxicology emergency
+toxicology emergency	requires	specialized treatment
+poisoning by psychotropic agents	may result in	long-term complications
+poisoning by psychotropic agents	can lead to	liver damage
+poisoning by psychotropic agents	can lead to	kidney failure
+poisoning by psychotropic agents	can cause	respiratory distress
+poisoning by psychotropic agents	can result in	death
+poisoning by psychotropic agents	is more common in	adolescents
+poisoning by psychotropic agents	is less common in	elderly patients
+poisoning by psychotropic agents	can be prevented through	proper storage
+poisoning by psychotropic agents	can be prevented by	childproofing homes
+poisoning by psychotropic agents	can be prevented by	educating patients
+poisoning by psychotropic agents	is often	accidental
+poisoning by psychotropic agents	can be	life-threatening
+poisoning by psychotropic agents	can be	suicidal
+poisoning by psychotropic agents	can be	homicidal
+poisoning by psychotropic agents	is a	public health concern
+poisoning by psychotropic agents	may require	decontamination
+poisoning by psychotropic agents	can cause	neurologic symptoms
+poisoning by psychotropic agents	can result in	respiratory failure
+poisoning by psychotropic agents	requires	prompt medical attention
+poisoning by psychotropic agents	can occur with	intentional overdose
+poisoning by psychotropic agents	can occur with	accidental ingestion
+poisoning by psychotropic agents	can occur with	incorrect dosing
+poisoning by psychotropic agents	can occur with	substance abuse
+poisoning by psychotropic agents	can occur with	drug interactions
+poisoning by psychotropic agents	can occur with	medication errors
+poisoning by psychotropic agents	can occur with	self-harm
+poisoning by psychotropic agents	can occur with	psychiatric disorders
+poisoning by psychotropic agents	can occur with	polypharmacy
+poisoning by psychotropic agents	can occur with	recreational drug use
+poisoning by psychotropic agents	can occur with	non-adherence to medication
+poisoning by psychotropic agents	can occur with	prescription forgery
+poisoning by psychotropic agents	can occur with	illicit drug use
+poisoning by psychotropic agents	can occur with	medication diversion
+poisoning by psychotropic agents	can occur with	medication theft
+poisoning by psychotropic agents	can occur with	accidental exposure
+poisoning by psychotropic agents	can occur with	occupational exposure
+poisoning by psychotropic agents	can occur with	improper disposal of medication
+poisoning by psychotropic agents	can occur with	incorrect prescription
+poisoning by psychotropic agents	can occur with	contaminated medications
+poisoning by psychotropic agents	can occur with	counterfeit medications
+poisoning by psychotropic agents	can occur with	medication tampering
+poisoning by psychotropic agents	can occur with	medication errors
+poisoning by psychotropic agents	can occur with	medication non-compliance
+poisoning by psychotropic agents	can occur with	medication side effects
+poisoning by psychotropic agents	can occur with	drug allergies
+poisoning by psychotropic agents	can occur with	off-label medication use
+poisoning by psychotropic agents	can occur with	medication contraindications
+poisoning by psychotropic agents	can occur with	medication interactions
+poisoning by psychotropic agents	can occur with	medication withdrawal
+poisoning by psychotropic agents	can occur with	medication overdose
+poisoning by psychotropic agents	can occur with	medication underdose
+poisoning by psychotropic agents	can occur with	medication abuse
+poisoning by psychotropic agents	can occur with	medication diversion
+poisoning by psychotropic agents	can occur with	medication errors
+poisoning by psychotropic agents	can occur with	medication nonadherence
+poisoning by psychotropic agents	can occur with	medication interactions
+poisoning by psychotropic agents	can occur with	medication misuse
+poisoning by psychotropic agents	can occur with	medication non-compliance
+poisoning by psychotropic agents	can occur with	medication side effects
+poisoning by psychotropic agents	can occur with	medication contraindications
+poisoning by psychotropic agents	can occur with	medication abuse
+poisoning by psychotropic agents	can occur with	medication dependence
+poisoning by psychotropic agents	can occur with	medication toxicity
+poisoning by psychotropic agents	can occur with	medication withdrawal
+poisoning by psychotropic agents	can occur with	medication intolerance
+poisoning by psychotropic agents	can occur with	medication intoxication
+poisoning by psychotropic agents	can occur with	medication overuse
+poisoning by psychotropic agents	can occur with	medication underuse
+poisoning by psychotropic agents	can occur with	medication underdose
+poisoning by psychotropic agents	can occur with	medication miscalculations
+poisoning by psychotropic agents	can occur with	medication errors
+poisoning by psychotropic agents	can occur with	medication overprescription
+poisoning by psychotropic agents	can occur with	medication discontinuation
+poisoning by psychotropic agents	can occur with	medication hypersensitivity
+poisoning by psychotropic agents	can occur with	alcohol interaction
+poisoning by psychotropic agents	can occur with	medication overprescribing
+poisoning by psychotropic agents	can occur with	medication misuse
+poisoning by psychotropic agents	can occur with	medication misadministration
+poisoning by psychotropic agents	can occur with	medication overdose
+poisoning by psychotropic agents	can occur with	medication toxicity
+poisoning by psychotropic agents	can occur with	substance interactions
+poisoning by psychotropic agents	can occur with	medication underusage
+poisoning by psychotropic agents	can occur with	medication mismanagement
+poisoning by psychotropic agents	can occur with	medication complications
+poisoning by psychotropic agents	can occur with	medication intolerance
+poisoning by psychotropic agents	can occur with	prescription interactions
+poisoning by psychotropic agents	can occur with	drug-drug interactions
+poisoning by psychotropic agents	can occur with	medication misinterpretation
+poisoning by psychotropic agents	can occur with	medication mishandling
+poisoning by psychotropic agents	can occur with	medication errors
+poisoning by psychotropic agents	can occur with	medication miscommunication
+poisoning by psychotropic agents	can occur with	medication failure
+poisoning by psychotropic agents	can occur with	medication complications
+poisoning by psychotropic agents	can occur with	medication deviation
+poisoning by psychotropic agents	can occur with	medication misuse
+poisoning by psychotropic agents	can occur with	medication nonadherence
+poisoning by psychotropic agents	can occur with	medication misadministration
+poisoning by psychotropic agents	can occur with	medication abuse
+poisoning by psychotropic agents	can occur with	medication dependence
+poisoning by psychotropic agents	can occur with	medication withdrawal
+poisoning by psychotropic agents	can occur with	medication hypersensitivity
+poisoning by psychotropic agents	can occur with	medication overdose
+poisoning by psychotropic agents	can occur with	medication toxicity
+poisoning by psychotropic agents	can occur with	polypharmacy
+poisoning by psychotropic agents	can occur with	medication contraindications
+poisoning by psychotropic agents	can occur with	drug allergies
+poisoning by psychotropic agents	can occur with	medication side effects
+poisoning by psychotropic agents	can occur with	medication interactions
+poisoning by psychotropic agents	can occur with	medication misuse
+poisoning by psychotropic agents	can occur with	medication non-compliance
+poisoning by psychotropic agents	can occur with	medication underdose
+poisoning by psychotropic agents	can occur with	medication overuse
+poisoning by psychotropic agents	can occur with	medication discontinuation
+poisoning by psychotropic agents	can occur with	medication miscalculations
+poisoning by psychotropic agents	can occur with	medication overprescribing
+poisoning by psychotropic agents	can occur with	medication discontinuation
+poisoning by psychotropic agents	can occur with	medication underusage
+poisoning by psychotropic agents	can occur with	medication mismanagement
+poisoning by psychotropic agents	can occur with	medication complications
+poisoning by psychotropic agents	can occur with	medication intolerance
+poisoning by psychotropic agents	can occur with	drug-drug interactions
+poisoning by psychotropic agents	can occur with	medication misuse
+poisoning by psychotropic agents	can occur with	medication abuse
+poisoning by psychotropic agents	can occur with	medication dependence
+poisoning by psychotropic agents	can occur with	medication withdrawal
+poisoning by psychotropic agents	can occur with	medication hypersensitivity
+poisoning by psychotropic agents	can occur with	medication overdose
+poisoning by psychotropic agents	can occur with	medication toxicity
+poisoning by psychotropic agents	can occur with	medication contraindications
+poisoning by psychotropic agents	can occur with	medication interactions
+poisoning by psychotropic agents	can occur with	medication side effects
+poisoning by psychotropic agents	can occur with	medication misuse
+poisoning by psychotropic agents	can occur with	medication non-compliance
+poisoning by psychotropic agents	can occur with	medication underdose
+poisoning by psychotropic agents	can occur with	medication overuse
+poisoning by psychotropic agents	can occur with	medication discontinuation
+poisoning by psychotropic agents	can occur with	medication nonadherence
+poisoning by psychotropic agents	can occur with	medication interferences
+poisoning by psychotropic agents	can occur with	medication interactions

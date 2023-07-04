@@ -1,0 +1,160 @@
+acute cerebrovascular disease	is a	medical condition
+acute cerebrovascular disease	may cause	stroke
+hypertension	is a risk factor for	acute cerebrovascular disease
+aspirin	is a medication for	acute cerebrovascular disease
+thrombolytic therapy	is a treatment for	acute cerebrovascular disease
+intravenous tissue plasminogen activator	is a type of	thrombolytic therapy
+acute cerebrovascular disease	can lead to	disability
+acute cerebrovascular disease	increases the risk of	mortality
+acute cerebrovascular disease	requires	medical intervention
+acute cerebrovascular disease	results in	brain damage
+acute cerebrovascular disease	often requires	hospitalization
+acute cerebrovascular disease	can be diagnosed using	brain imaging
+acute cerebrovascular disease	has different types including	ischemic and hemorrhagic
+patient education	is important for	managing acute cerebrovascular disease
+acute cerebrovascular disease	is associated with	neurological deficits
+acute cerebrovascular disease	has symptoms such as	sudden numbness or confusion
+acute cerebrovascular disease	is treated by	a neurologist
+acute cerebrovascular disease	has a higher incidence in	older adults
+acute cerebrovascular disease	is a major cause of	disability
+acute cerebrovascular disease	is preventable with	lifestyle modifications
+acute cerebrovascular disease	is often diagnosed in	emergency departments
+acute cerebrovascular disease	can lead to	recurrent strokes
+hypertension	is a major risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	is associated with	increased healthcare costs
+acute cerebrovascular disease	is more common in	males
+acute cerebrovascular disease	is a leading cause of	death worldwide
+physical therapy	is beneficial for	acute cerebrovascular disease patients
+acute cerebrovascular disease	can be caused by	a blood clot
+acute cerebrovascular disease	requires	long-term management
+acute cerebrovascular disease	can be prevented with	anticoagulant therapy
+acute cerebrovascular disease	has a worse prognosis in	older adults
+diabetes	is a risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	is associated with	long-term disability
+acute cerebrovascular disease	is characterized by	sudden onset of symptoms
+acute cerebrovascular disease	has a high prevalence in	low-income countries
+acute cerebrovascular disease	can lead to	cognitive impairments
+smoking	is a risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	is managed with	medication therapy
+hypertension	is an important modifiable risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	can result in	paralysis
+acute cerebrovascular disease	is associated with	atrial fibrillation
+acute cerebrovascular disease	is more common in	African American population
+acute cerebrovascular disease	may require	surgical intervention
+acute cerebrovascular disease	is often accompanied by	neurological symptoms
+acute cerebrovascular disease	can be caused by	ruptured blood vessels
+acute cerebrovascular disease	has a high mortality rate in	older adults
+acute cerebrovascular disease	is associated with	decreased quality of life
+hypertension	is a major cause of	acute cerebrovascular disease
+acute cerebrovascular disease	can lead to	emotional and psychological issues
+acute cerebrovascular disease	is a significant burden on	healthcare systems
+acute cerebrovascular disease	can result in	speech difficulties
+acute cerebrovascular disease	requires	immediate medical attention
+acute cerebrovascular disease	can cause	permanent brain damage
+acute cerebrovascular disease	can lead to	coma
+acute cerebrovascular disease	has a higher incidence in	low-income populations
+acute cerebrovascular disease	is associated with	increased risk of subsequent strokes
+acute cerebrovascular disease	can be managed through	rehabilitation services
+diabetes	is a risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	is more common in	urban areas
+acute cerebrovascular disease	can result in	vision loss
+acute cerebrovascular disease	is associated with	decreased cognitive function
+acute cerebrovascular disease	is a preventable condition
+acute cerebrovascular disease	can be caused by	a blood clot in the brain
+acute cerebrovascular disease	is a leading cause of	disability-adjusted life years
+acute cerebrovascular disease	can be diagnosed based on	imaging findings
+acute cerebrovascular disease	can lead to	complications such as pneumonia
+acute cerebrovascular disease	is managed by	a multidisciplinary healthcare team
+acute cerebrovascular disease	is more common in	individuals with a family history of stroke
+acute cerebrovascular disease	can result in	memory problems
+acute cerebrovascular disease	is associated with	increased healthcare utilization
+acute cerebrovascular disease	is a chronic condition
+acute cerebrovascular disease	is an important public health issue
+acute cerebrovascular disease	has a higher prevalence in	individuals with sedentary lifestyles
+acute cerebrovascular disease	can cause	seizures
+acute cerebrovascular disease	requires	regular follow-up care
+hypertension	is a risk factor for	acute cerebrovascular disease
+acute cerebrovascular disease	is associated with	high economic burden
+acute cerebrovascular disease	is more common in	individuals with previous strokes
+acute cerebrovascular disease	can result in	difficulty in daily activities
+acute cerebrovascular disease	can lead to	decreased mobility
+acute cerebrovascular disease	is a	medical condition
+acute cerebrovascular disease	can cause	stroke
+thrombolytic therapy	is a treatment for	acute cerebrovascular disease
+tissue plasminogen activator	is a	thrombolytic agent
+intravenous	is the	administration route for tissue plasminogen activator
+aspirin	is a	antiplatelet medication
+antiplatelet medications	are used for	preventing strokes
+carotid endarterectomy	is a surgical procedure for	treating acute cerebrovascular disease
+carotid artery stenosis	is a	indication for carotid endarterectomy
+ischemic stroke	is a	type of stroke
+hemorrhagic stroke	is a	type of stroke
+hypertension	is a	risk factor for acute cerebrovascular disease
+diabetes	is a	risk factor for acute cerebrovascular disease
+age	is a	risk factor for acute cerebrovascular disease
+smoking	is a	risk factor for acute cerebrovascular disease
+cerebral aneurysm	is a	risk factor for acute cerebrovascular disease
+transient ischemic attack (TIA)	is a	warning sign of acute cerebrovascular disease
+echocardiogram	is a	diagnostic test for acute cerebrovascular disease
+atrial fibrillation	is a	risk factor for acute cerebrovascular disease
+statins	are used for	preventing acute cerebrovascular disease
+intracerebral hemorrhage	is a	complication of acute cerebrovascular disease
+subarachnoid hemorrhage	is a	complication of acute cerebrovascular disease
+thrombocytopenia	is a	side effect of tissue plasminogen activator therapy
+intracranial hemorrhage	is a	rare side effect of tissue plasminogen activator therapy
+rehabilitation	is important for	patients with acute cerebrovascular disease
+National Institutes of Health Stroke Scale (NIHSS)	is a	tool for assessing stroke severity
+modified Rankin Scale (mRS)	is a	tool for assessing functional outcome after acute cerebrovascular disease
+carotid artery ultrasound	is a	diagnostic test for acute cerebrovascular disease
+hyperlipidemia	is a	risk factor for acute cerebrovascular disease
+thrombectomy	is a	treatment for acute cerebrovascular disease
+carotid artery dissection	is a	cause of acute cerebrovascular disease
+atrial septal defect	is a	cause of acute cerebrovascular disease
+moyamoya disease	is a	cause of acute cerebrovascular disease
+cerebral angiography	is a	diagnostic test for acute cerebrovascular disease
+neurointerventional procedures	are used for	treating acute cerebrovascular disease
+magnetic resonance imaging (MRI)	is a	diagnostic test for acute cerebrovascular disease
+magnetic resonance angiography (MRA)	is a	diagnostic test for acute cerebrovascular disease
+computed tomography (CT)	is a	diagnostic test for acute cerebrovascular disease
+computed tomography angiography (CTA)	is a	diagnostic test for acute cerebrovascular disease
+diffusion-weighted imaging (DWI)	is a	diagnostic test for acute cerebrovascular disease
+cerebral perfusion imaging	is a	diagnostic test for acute cerebrovascular disease
+intra-arterial thrombolysis	is a	treatment for acute cerebrovascular disease
+transcranial Doppler (TCD)	is a	diagnostic test for acute cerebrovascular disease
+neuroprotection	is important for	patients with acute cerebrovascular disease
+aneurysmal subarachnoid hemorrhage	is a	type of stroke
+revascularization	is a	treatment for acute cerebrovascular disease
+ischemic stroke	can cause	motor impairment
+ischemic stroke	can cause	speech impairment
+ischemic stroke	can cause	cognitive impairment
+ischemic stroke	can cause	sensory impairment
+ischemic stroke	can cause	swallowing impairment
+ischemic stroke	can cause	visual impairment
+intracranial hemorrhage	can cause	increased intracranial pressure
+intracranial hemorrhage	can cause	seizures
+intracranial hemorrhage	can cause	herniation
+intracranial hemorrhage	can cause	neurological deficit
+cryptogenic stroke	is a	stroke of unknown cause
+paradoxical embolism	is a	cause of cryptogenic stroke
+patent foramen ovale (PFO)	is a	risk factor for cryptogenic stroke
+anti-coagulation	is a	treatment for preventing recurrent stroke
+antihypertensive medication	is used for	managing blood pressure in acute cerebrovascular disease
+hyperglycemia	is a	risk factor for acute cerebrovascular disease
+diagnostic imaging	is important for	diagnosing acute cerebrovascular disease
+carotid artery disease	is a	cause of acute cerebrovascular disease
+lacunar stroke	is a	type of stroke
+intravenous thrombolysis	is a	treatment for acute cerebrovascular disease
+endovascular therapy	is a	treatment for acute cerebrovascular disease
+cardiogenic embolism	is a	cause of acute cerebrovascular disease
+dyslipidemia	is a	risk factor for acute cerebrovascular disease
+electrocardiogram	is a	diagnostic test for acute cerebrovascular disease
+cardiac monitoring	is important for	patients with acute cerebrovascular disease
+intracranial pressure monitoring	is important for	patients with acute cerebrovascular disease
+olecranon fracture	is a	complication of acute cerebrovascular disease
+shoulder dislocation	is a	complication of acute cerebrovascular disease
+deep vein thrombosis (DVT)	is a	complication of acute cerebrovascular disease
+pulmonary embolism	is a	complication of acute cerebrovascular disease
+urinary tract infection	is a	complication of acute cerebrovascular disease
+pressure ulcer	is a	complication of acute cerebrovascular disease
+aspiration pneumonia	is a	complication of acute cerebrovascular disease
+acute renal failure	is a	complication of acute cerebrovascular disease

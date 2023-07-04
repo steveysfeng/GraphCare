@@ -1,0 +1,267 @@
+sexually transmitted infections	can be transmitted through	sexual contact
+chlamydia	is a	sexually transmitted infection
+gonorrhea	is a	sexually transmitted infection
+syphilis	is a	sexually transmitted infection
+human papillomavirus	is a	sexually transmitted infection
+HIV	is a	sexually transmitted infection
+herpes	is a	sexually transmitted infection
+trichomoniasis	is a	sexually transmitted infection
+hepatitis B	is a	sexually transmitted infection
+hepatitis C	is a	sexually transmitted infection
+pubic lice	is a	sexually transmitted infection
+scabies	is a	sexually transmitted infection
+sexually transmitted infections	can be prevented by	using condoms
+sexually transmitted infections	can be prevented by	practicing abstinence
+sexually transmitted infections	can be prevented by	getting vaccinated
+condoms	can reduce the risk of	sexually transmitted infections
+HIV	can lead to	AIDS
+chlamydia	can cause	infertility
+gonorrhea	can cause	pelvic inflammatory disease
+syphilis	can cause	neurological complications
+human papillomavirus	can cause	cervical cancer
+hepatitis B	can cause	liver damage
+hepatitis C	can cause	chronic liver disease
+sexually transmitted infections	may increase the risk of	certain cancers
+sexually transmitted infections	can be diagnosed through	laboratory tests
+sexually transmitted infections	can be treated with	antibiotics
+antibiotics	can cure	sexually transmitted infections
+contact tracing	is used to	identify individuals at risk of sexually transmitted infections
+sexual education	is important for	preventing sexually transmitted infections
+sexually transmitted infections	can lead to	sexual dysfunction
+sexually transmitted infections	can be more severe in	pregnant women
+sexually transmitted infections	can be transmitted from	mother to baby during childbirth
+routine screenings	are recommended for	sexually active individuals
+abnormal discharge	can be a symptom of	sexually transmitted infections
+painful urination	can be a symptom of	sexually transmitted infections
+genital sores	can be a symptom of	sexually transmitted infections
+genital warts	can be a symptom of	sexually transmitted infections
+unprotected sex	increases the risk of	sexually transmitted infections
+HIV	can be managed with	antiretroviral therapy
+sexually transmitted infections	may require	partner notification
+sexually transmitted infections	can be more common in	men who have sex with men
+sexually transmitted infections	can be more common in	adolescents
+sexually transmitted infections	can be more common in	individuals with multiple sexual partners
+sexually transmitted infections	can be more common in	individuals who engage in unprotected sex
+sexually transmitted infections	can be more common in	individuals who use intravenous drugs
+pelvic inflammatory disease	can lead to	infertility
+HPV vaccination	can prevent	certain types of cancers
+Hepatitis B vaccination	can prevent	Hepatitis B infection
+Hepatitis C	can be transmitted through	sharing needles
+HIV	can be transmitted through	sexual intercourse
+sexual abstinence	can prevent	sexually transmitted infections
+safe sex practices	can reduce the risk of	sexually transmitted infections
+Hepatitis B	can be prevented through	vaccination
+Hepatitis C	can be prevented through	avoiding sharing needles
+genital herpes	can be managed with	antiviral medications
+trichomoniasis	can be treated with	antibiotics
+sexually transmitted infections	can be more common in	individuals with compromised immune systems
+sexually transmitted infections	can be transmitted through	oral sex
+sexually transmitted infections	can be transmitted through	anal sex
+sexually transmitted infections	can be transmitted through	vaginal sex
+pre-exposure prophylaxis	can prevent	HIV infection
+post-exposure prophylaxis	can reduce the risk of	HIV infection after potential exposure
+sexually transmitted infections	can increase the risk of	ectopic pregnancy
+sexually transmitted infections	can increase the risk of	preterm birth
+sexually transmitted infections	can increase the risk of	stillbirth
+sexually transmitted infections	can increase the risk of	miscarriage
+sexually transmitted infections	can increase the risk of	low birth weight
+masturbation	does not transmit	sexually transmitted infections
+sexually transmitted infections	can be more severe in	older adults
+sexually transmitted infections	can be more severe in	individuals with chronic medical conditions
+antiviral medications	can manage	herpes outbreaks
+antibiotics	can treat	bacterial sexually transmitted infections
+sexually transmitted infections	can increase the risk of	HIV transmission
+female condoms	can provide	protection against sexually transmitted infections
+regular check-ups	are important for	detecting sexually transmitted infections
+asymptomatic infections	can still transmit	sexually transmitted infections
+viral load	is a measure of	HIV infection
+HIV testing	is crucial for	early detection
+Hepatitis A	can be transmitted through	oral-anal contact
+Hepatitis A	can be prevented through	vaccination
+HPV	can be prevented through	vaccination
+semen	can transmit	sexually transmitted infections
+vaginal fluids	can transmit	sexually transmitted infections
+blood	can transmit	sexually transmitted infections
+mother-to-child transmission	can occur during	pregnancy or childbirth
+cervical cancer screening	is important for	early detection
+HPV	can be transmitted through	skin-to-skin contact
+syphilis	can be cured with	antibiotics
+gonorrhea	can be treated with	antibiotics
+pubic lice	can be treated with	medicated lotions
+scabies	can be treated with	topical medications
+pelvic inflammatory disease	can be diagnosed through	pelvic exam
+genital warts	can be treated with	topical medications
+condoms	can reduce the risk of	sexually transmitted infections
+sexual education	is important for	preventing sexually transmitted infections
+sexually transmitted infections	can lead to	sexual dysfunction
+sexually transmitted infections	can be more severe in	pregnant women
+sexually transmitted infections	can be transmitted from	mother to baby during childbirth
+routine screenings	are recommended for	sexually active individuals
+abnormal discharge	can be a symptom of	sexually transmitted infections
+painful urination	can be a symptom of	sexually transmitted infections
+genital sores	can be a symptom of	sexually transmitted infections
+genital warts	can be a symptom of	sexually transmitted infections
+unprotected sex	increases the risk of	sexually transmitted infections
+HIV	can be managed with	antiretroviral therapy
+sexually transmitted infections	may require	partner notification
+sexually transmitted infections	can be more common in	men who have sex with men
+sexually transmitted infections	can be more common in	adolescents
+sexually transmitted infections	can be more common in	individuals with multiple sexual partners
+sexually transmitted infections	can be more common in	individuals who engage in unprotected sex
+sexually transmitted infections	can be more common in	individuals who use intravenous drugs
+pelvic inflammatory disease	can lead to	infertility
+HPV vaccination	can prevent	certain types of cancers
+Hepatitis B vaccination	can prevent	Hepatitis B infection
+Hepatitis C	can be transmitted through	sharing needles
+HIV	can be transmitted through	sexual intercourse
+sexual abstinence	can prevent	sexually transmitted infections
+safe sex practices	can reduce the risk of	sexually transmitted infections
+Hepatitis B	can be prevented through	vaccination
+Hepatitis C	can be prevented through	avoiding sharing needles
+genital herpes	can be managed with	antiviral medications
+trichomoniasis	can be treated with	antibiotics
+sexually transmitted infections	can be more common in	individuals with compromised immune systems
+sexually transmitted infections	can be transmitted through	oral sex
+sexually transmitted infections	can be transmitted through	anal sex
+sexually transmitted infections	can be transmitted through	vaginal sex
+pre-exposure prophylaxis	can prevent	HIV infection
+post-exposure prophylaxis	can reduce the risk of	HIV infection after potential exposure
+sexually transmitted infections	can increase the risk of	ectopic pregnancy
+sexually transmitted infections	can increase the risk of	preterm birth
+sexually transmitted infections	can increase the risk of	stillbirth
+sexually transmitted infections	can increase the risk of	miscarriage
+sexually transmitted infections	can increase the risk of	low birth weight
+masturbation	does not transmit	sexually transmitted infections
+sexually transmitted infections	can be more severe in	older adults
+sexually transmitted infections	can be more severe in	individuals with chronic medical conditions
+antiviral medications	can manage	herpes outbreaks
+antibiotics	can treat	bacterial sexually transmitted infections
+sexually transmitted infections	can increase the risk of	HIV transmission
+female condoms	can provide	protection against sexually transmitted infections
+regular check-ups	are important for	detecting sexually transmitted infections
+asymptomatic infections	can still transmit	sexually transmitted infections
+viral load	is a measure of	HIV infection
+HIV testing	is crucial for	early detection
+Hepatitis A	can be transmitted through	oral-anal contact
+Hepatitis A	can be prevented through	vaccination
+HPV	can be prevented through	vaccination
+semen	can transmit	sexually transmitted infections
+vaginal fluids	can transmit	sexually transmitted infections
+blood	can transmit	sexually transmitted infections
+mother-to-child transmission	can occur during	pregnancy or childbirth
+cervical cancer screening	is important for	early detection
+HPV	can be transmitted through	skin-to-skin contact
+syphilis	can be cured with	antibiotics
+gonorrhea	can be treated with	antibiotics
+pubic lice	can be treated with	medicated lotions
+scabies	can be treated with	topical medications
+pelvic inflammatory disease	can be diagnosed through	pelvic exam
+genital warts	can be treated with	topical medications
+condoms	can reduce the risk of	sexually transmitted infections
+sexual education	is important for	preventing sexually transmitted infections
+sexually transmitted infections	can lead to	sexual dysfunction
+sexually transmitted infections	can be more severe in	pregnant women
+sexually transmitted infections	can be transmitted from	mother to baby during childbirth
+routine screenings	are recommended for	sexually active individuals
+abnormal discharge	can be a symptom of	sexually transmitted infections
+painful urination	can be a symptom of	sexually transmitted infections
+genital sores	can be a symptom of	sexually transmitted infections
+genital warts	can be a symptom of	sexually transmitted infections
+unprotected sex	increases the risk of	sexually transmitted infections
+HIV	can be managed with	antiretroviral therapy
+sexually transmitted infections	may require	partner notification
+sexually transmitted infections	can be more common in	men who have sex with men
+sexually transmitted infections	can be more common in	adolescents
+sexually transmitted infections	can be more common in	individuals with multiple sexual partners
+sexually transmitted infections	can be more common in	individuals who engage in unprotected sex
+sexually transmitted infections	can be more common in	individuals who use intravenous drugs
+pelvic inflammatory disease	can lead to	infertility
+HPV vaccination	can prevent	certain types of cancers
+Hepatitis B vaccination	can prevent	Hepatitis B infection
+Hepatitis C	can be transmitted through	sharing needles
+HIV	can be transmitted through	sexual intercourse
+sexual abstinence	can prevent	sexually transmitted infections
+safe sex practices	can reduce the risk of	sexually transmitted infections
+Hepatitis B	can be prevented through	vaccination
+Hepatitis C	can be prevented through	avoiding sharing needles
+genital herpes	can be managed with	antiviral medications
+trichomoniasis	can be treated with	antibiotics
+sexually transmitted infections	can be more common in	individuals with compromised immune systems
+sexually transmitted infections	can be transmitted through	oral sex
+sexually transmitted infections	can be transmitted through	anal sex
+sexually transmitted infections	can be transmitted through	vaginal sex
+pre-exposure prophylaxis	can prevent	HIV infection
+post-exposure prophylaxis	can reduce the risk of	HIV infection after potential exposure
+sexually transmitted infections	can increase the risk of	ectopic pregnancy
+sexually transmitted infections	can increase the risk of	preterm birth
+sexually transmitted infections	can increase the risk of	stillbirth
+sexually transmitted infections	can increase the risk of	miscarriage
+sexually transmitted infections	can increase the risk of	low birth weight
+masturbation	does not transmit	sexually transmitted infections
+sexually transmitted infections	can be more severe in	older adults
+sexually transmitted infections	can be more severe in	individuals with chronic medical conditions
+antiviral medications	can manage	herpes outbreaks
+antibiotics	can treat	bacterial sexually transmitted infections
+sexually transmitted infections	can increase the risk of	HIV transmission
+female condoms	can provide	protection against sexually transmitted infections
+regular check-ups	are important for	detecting sexually transmitted infections
+asymptomatic infections	can still transmit	sexually transmitted infections
+viral load	is a measure of	HIV infection
+HIV testing	is crucial for	early detection
+Hepatitis A	can be transmitted through	oral-anal contact
+Hepatitis A	can be prevented through	vaccination
+HPV	can be prevented through	vaccination
+semen	can transmit	sexually transmitted infections
+vaginal fluids	can transmit	sexually transmitted infections
+blood	can transmit	sexually transmitted infections
+mother-to-child transmission	can occur during	pregnancy or childbirth
+cervical cancer screening	is important for	early detection
+HPV	can be transmitted through	skin-to-skin contact
+syphilis	can be cured with	antibiotics
+gonorrhea	can be treated with	antibiotics
+pubic lice	can be treated with	medicated lotions
+scabies	can be treated with	topical medications
+pelvic inflammatory disease	can be diagnosed through	pelvic exam
+genital warts	can be treated with	topical medications
+condoms	can reduce the risk of	sexually transmitted infections
+sexual education	is important for	preventing sexually transmitted infections
+sexually transmitted infections	can lead to	sexual dysfunction
+sexually transmitted infections	can be more severe in	pregnant women
+sexually transmitted infections	can be transmitted from	mother to baby during childbirth
+routine screenings	are recommended for	sexually active individuals
+abnormal discharge	can be a symptom of	sexually transmitted infections
+painful urination	can be a symptom of	sexually transmitted infections
+genital sores	can be a symptom of	sexually transmitted infections
+genital warts	can be a symptom of	sexually transmitted infections
+unprotected sex	increases the risk of	sexually transmitted infections
+HIV	can be managed with	antiretroviral therapy
+sexually transmitted infections	may require	partner notification
+sexually transmitted infections	can be more common in	men who have sex with men
+sexually transmitted infections	can be more common in	adolescents
+sexually transmitted infections	can be more common in	individuals with multiple sexual partners
+sexually transmitted infections	can be more common in	individuals who engage in unprotected sex
+sexually transmitted infections	can be more common in	individuals who use intravenous drugs
+pelvic inflammatory disease	can lead to	infertility
+HPV vaccination	can prevent	certain types of cancers
+Hepatitis B vaccination	can prevent	Hepatitis B infection
+Hepatitis C	can be transmitted through	sharing needles
+HIV	can be transmitted through	sexual intercourse
+sexual abstinence	can prevent	sexually transmitted infections
+safe sex practices	can reduce the risk of	sexually transmitted infections
+Hepatitis B	can be prevented through	vaccination
+Hepatitis C	can be prevented through	avoiding sharing needles
+genital herpes	can be managed with	antiviral medications
+trichomoniasis	can be treated with	antibiotics
+sexually transmitted infections	can be more common in	individuals with compromised immune systems
+sexually transmitted infections	can be transmitted through	oral sex
+sexually transmitted infections	can be transmitted through	anal sex
+sexually transmitted infections	can be transmitted through	vaginal sex
+pre-exposure prophylaxis	can prevent	HIV infection
+post-exposure prophylaxis	can reduce the risk of	HIV infection after potential exposure
+sexually transmitted infections	can increase the risk of	ectopic pregnancy
+sexually transmitted infections	can increase the risk of	preterm birth
+sexually transmitted infections	can increase the risk of	stillbirth
+sexually transmitted infections	can increase the risk of	miscarriage
+sexually transmitted infections	can increase the risk of	low birth weight
+masturbation	does not transmit	sexually transmitted infections
+sexually transmitted infections	can be more severe in	older adults

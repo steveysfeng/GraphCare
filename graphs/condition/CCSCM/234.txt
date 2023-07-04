@@ -1,0 +1,84 @@
+crushing injury	can cause	internal bleeding
+internal injury	may result from	trauma
+internal bleeding	can lead to	hypovolemic shock
+hypovolemic shock	can cause	organ failure
+trauma	can be caused by	car accidents
+car accidents	can result in	multiple injuries
+organ failure	can be fatal
+multiple injuries	may require	surgery
+surgery	is performed by	surgeons
+surgeons	are doctors
+doctors	can prescribe	painkillers
+painkillers	can help manage	pain
+pain	is a symptom of	crushing injury or internal injury
+crushing injury or internal injury	may require	hospitalization
+hospitalization	can lead to	medical bills
+medical bills	can cause	financial strain
+financial strain	can lead to	stress
+stress	can exacerbate	symptoms
+symptoms	may include	swelling
+swelling	can be relieved with	ice packs
+ice packs	can reduce	inflammation
+inflammation	is a response to	injury
+injury	may result in	disability
+disability	can require	physical therapy
+physical therapy	is provided by	therapists
+therapists	can help improve	mobility
+mobility	is important for	daily activities
+daily activities	can be affected by	pain
+pain	can be managed with	medication
+medication	may interact with	other drugs
+other drugs	should be prescribed by	healthcare professionals
+healthcare professionals	can diagnose	injuries
+injuries	may require	imaging tests
+imaging tests	can detect	internal damage
+internal damage	can be treated with	surgery
+surgery	is performed by	surgeons
+surgeons	can specialize in	trauma surgery
+trauma surgery	is a field of	medicine
+medicine	is the practice of	healthcare
+healthcare	is necessary for	recovery
+recovery	can take	time
+time	can vary depending on	severity
+severity	can be assessed by	doctors
+doctors	can use	diagnostic tools
+diagnostic tools	include	blood tests
+blood tests	can detect	internal bleeding
+internal bleeding	is a complication of	crushing injury or internal injury
+crushing injury or internal injury	can result in	long-term consequences
+long-term consequences	may include	chronic pain
+chronic pain	can affect	quality of life
+quality of life	can be improved with	support
+support	can be provided by	family and friends
+family and friends	can offer	emotional support
+emotional support	can help cope with	stress
+stress	can be managed with	relaxation techniques
+relaxation techniques	include	deep breathing
+deep breathing	can promote	relaxation
+relaxation	can reduce	anxiety
+anxiety	is a common	response to injury
+injury	may require	physical rehabilitation
+physical rehabilitation	can improve	function
+function	is important for	daily tasks
+daily tasks	can be affected by	pain
+pain	can be managed with	pain medication
+pain medication	may cause	side effects
+side effects	should be monitored by	healthcare professionals
+healthcare professionals	can adjust	dosage
+dosage	should be based on	individual needs
+individual needs	can vary
+variability	is a characteristic of	injuries
+injuries	can lead to	disability
+disability	can require	assistive devices
+assistive devices	include	wheelchairs
+wheelchairs	can improve	mobility
+mobility	is important for	independence
+independence	is a goal of	rehabilitation
+rehabilitation	is a process
+process	involves	multiple steps
+steps	may include	physical therapy
+physical therapy	can help restore	functionality
+functionality	is important for	daily activities
+daily activities	can be hindered by	pain
+pain	can be alleviated with	pain management techniques
+pain management techniques	include	medication

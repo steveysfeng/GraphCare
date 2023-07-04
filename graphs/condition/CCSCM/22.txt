@@ -1,0 +1,229 @@
+melanomas of skin	are	types of cancer
+melanomas of skin	can be caused by	excessive sun exposure
+melanomas of skin	can metastasize to	lymph nodes
+melanomas of skin	are diagnosed using	biopsy
+melanomas of skin	are treated with	surgery
+surgical excision	is a treatment for	melanomas of skin
+melanomas of skin	may recur after	surgery
+melanomas of skin	can spread to	other organs
+melanomas of skin	are more common in	fair-skinned individuals
+melanomas of skin	can be prevented by	wearing sunscreen
+melanomas of skin	are detected using	dermoscopy
+melanomas of skin	have a higher risk of	metastasis
+melanomas of skin	can appear as	abnormal moles
+melanomas of skin	have a better prognosis when	detected early
+melanomas of skin	can be fatal if	untreated
+melanomas of skin	are more common in	older individuals
+melanomas of skin	can be diagnosed using	imaging tests
+melanomas of skin	can arise from	existing moles
+melanomas of skin	are more common in	individuals with a family history of melanoma
+melanomas of skin	can be detected using	skin exams
+melanomas of skin	can be classified based on	histological subtype
+melanomas of skin	can be staged using	TNM system
+melanomas of skin	are more common in	individuals with weakened immune system
+melanomas of skin	can cause	changes in skin color
+melanomas of skin	can be treated with	immunotherapy
+immunotherapy	is a treatment for	melanomas of skin
+melanomas of skin	can be treated with	targeted therapy
+targeted therapy	is a treatment for	melanomas of skin
+melanomas of skin	can be treated with	chemotherapy
+chemotherapy	is a treatment for	melanomas of skin
+melanomas of skin	can be treated with	radiation therapy
+radiation therapy	is a treatment for	melanomas of skin
+melanomas of skin	can be detected using	sentinel lymph node biopsy
+melanomas of skin	can be diagnosed using	genetic testing
+melanomas of skin	can be diagnosed using	blood tests
+melanomas of skin	can be diagnosed using	molecular testing
+melanomas of skin	can be diagnosed using	immunohistochemistry
+melanomas of skin	can be diagnosed using	fluorescence in situ hybridization
+melanomas of skin	can be diagnosed using	next-generation sequencing
+melanomas of skin	can be diagnosed using	gene expression profiling
+melanomas of skin	can be diagnosed using	mutational analysis
+melanomas of skin	can be diagnosed using	polymerase chain reaction
+melanomas of skin	can be diagnosed using	microsatellite instability testing
+melanomas of skin	can be diagnosed using	cytogenetic analysis
+melanomas of skin	can be diagnosed using	reverse transcriptase polymerase chain reaction
+melanomas of skin	can be diagnosed using	array comparative genomic hybridization
+melanomas of skin	can be diagnosed using	digital PCR
+melanomas of skin	can be diagnosed using	immunofluorescence
+melanomas of skin	can be diagnosed using	flow cytometry
+melanomas of skin	can be diagnosed using	biosensor
+melanomas of skin	can be diagnosed using	oligonucleotide-based microarray
+melanomas of skin	can be diagnosed using	massively parallel sequencing
+melanomas of skin	can be diagnosed using	liquid biopsy
+melanomas of skin	can be diagnosed using	multicolor fluorescence in situ hybridization
+melanomas of skin	can be diagnosed using	optical coherence tomography
+melanomas of skin	can be diagnosed using	confocal microscopy
+melanomas of skin	can be diagnosed using	dynamic optical coherence tomography
+melanomas of skin	can be diagnosed using	Raman spectroscopy
+melanomas of skin	can be diagnosed using	ultrasound
+melanomas of skin	can be diagnosed using	magnetic resonance imaging
+melanomas of skin	can be diagnosed using	positron emission tomography
+melanomas of skin	can be diagnosed using	computerized tomography
+melanomas of skin	can be diagnosed using	bone scan
+melanomas of skin	can be diagnosed using	chest X-ray
+melanomas of skin	can be diagnosed using	abdominal ultrasound
+melanomas of skin	can be diagnosed using	computed tomographic colonography
+melanomas of skin	can be diagnosed using	endoscopy
+melanomas of skin	can be diagnosed using	bronchoscopy
+melanomas of skin	can be diagnosed using	surface-enhanced Raman spectroscopy
+melanomas of skin	can be diagnosed using	optical spectroscopy
+melanomas of skin	can be diagnosed using	thermography
+melanomas of skin	can be diagnosed using	electrical impedance spectroscopy
+melanomas of skin	can be diagnosed using	light-scattering spectroscopy
+melanomas of skin	can be diagnosed using	infrared spectroscopy
+melanomas of skin	can be diagnosed using	microwave imaging
+melanomas of skin	can be diagnosed using	laser-induced fluorescence spectroscopy
+melanomas of skin	can be diagnosed using	polarized light imaging
+melanomas of skin	can be diagnosed using	differential interference contrast microscopy
+melanomas of skin	can be diagnosed using	optical imaging
+melanomas of skin	can be diagnosed using	cryosurgery
+melanomas of skin	can be diagnosed using	photodynamic diagnosis
+melanomas of skin	can be diagnosed using	colorimetry
+melanomas of skin	can be diagnosed using	reflectance confocal microscopy
+melanomas of skin	can be diagnosed using	non-invasive confocal imaging
+melanomas of skin	can be diagnosed using	high-frequency ultrasound
+melanomas of skin	can be diagnosed using	nuclear magnetic resonance spectroscopy
+melanomas of skin	can be diagnosed using	diffuse reflectance spectroscopy
+melanomas of skin	can be diagnosed using	photoacoustic imaging
+melanomas of skin	can be diagnosed using	X-ray mammography
+melanomas of skin	can be diagnosed using	dual-energy mammography
+melanomas of skin	can be diagnosed using	digital tomosynthesis
+melanomas of skin	can be diagnosed using	positron emission mammography
+melanomas of skin	can be diagnosed using	molecular breast imaging
+melanomas of skin	can be diagnosed using	breast-specific gamma imaging
+melanomas of skin	can be diagnosed using	positron emission tomography/computed tomography
+melanomas of skin	can be diagnosed using	PET/MRI
+melanomas of skin	can be diagnosed using	PET/CT
+melanomas of skin	can be diagnosed using	mammography
+melanomas of skin	can be diagnosed using	ultrasonography
+melanomas of skin	can be diagnosed using	scintigraphy
+melanomas of skin	can be diagnosed using	sestamibi
+melanomas of skin	can be diagnosed using	single-photon emission computed tomography
+melanomas of skin	can be diagnosed using	bone scintigraphy
+melanomas of skin	can be diagnosed using	B-scan
+melanomas of skin	can be diagnosed using	phlebography
+melanomas of skin	can be diagnosed using	venography
+melanomas of skin	can be diagnosed using	lymphangiography
+melanomas of skin	can be diagnosed using	hepatobiliary scintigraphy
+melanomas of skin	can be diagnosed using	pulmonary scintigraphy
+melanomas of skin	can be diagnosed using	renal scan
+melanomas of skin	can be diagnosed using	salivary gland scintigraphy
+melanomas of skin	can be diagnosed using	brain scintigraphy
+melanomas of skin	can be diagnosed using	gastrointestinal imaging
+melanomas of skin	can be diagnosed using	urography
+melanomas of skin	can be diagnosed using	angiography
+melanomas of skin	can be diagnosed using	nuclear imaging
+melanomas of skin	can be diagnosed using	gallium scan
+melanomas of skin	can be diagnosed using	MRI
+melanomas of skin	can be diagnosed using	CT scan
+melanomas of skin	can be diagnosed using	PET scan
+melanomas of skin	can be diagnosed using	ultrasound-guided fine-needle aspiration
+melanomas of skin	can be diagnosed using	bone marrow biopsy
+melanomas of skin	can be diagnosed using	cerebrospinal fluid analysis
+melanomas of skin	can be diagnosed using	tissue biopsy
+melanomas of skin	can be diagnosed using	flow cytometry
+melanomas of skin	can be diagnosed using	genetic testing
+melanomas of skin	can be diagnosed using	immunohistochemistry
+melanomas of skin	can be diagnosed using	molecular testing
+melanomas of skin	can be diagnosed using	papanicolaou test
+melanomas of skin	can be diagnosed using	polymerase chain reaction
+melanomas of skin	can be diagnosed using	immunocytochemical analysis
+melanomas of skin	can be diagnosed using	fluorescent in situ hybridization
+melanomas of skin	can be diagnosed using	chromosomal analysis
+melanomas of skin	can be diagnosed using	protein electrophoresis
+melanomas of skin	can be diagnosed using	western blot
+melanomas of skin	can be diagnosed using	mass spectrometry
+melanomas of skin	can be diagnosed using	enzyme-linked immunosorbent assay
+melanomas of skin	can be diagnosed using	microarrays
+melanomas of skin	can be diagnosed using	next-generation sequencing
+melanomas of skin	can be diagnosed using	southern blot
+melanomas of skin	can be diagnosed using	northern blot
+melanomas of skin	can be diagnosed using	restriction fragment length polymorphism
+melanomas of skin	can be diagnosed using	DNA methylation
+melanomas of skin	can be diagnosed using	array comparative genomic hybrid-ization
+melanomas of skin	can be diagnosed using	DNA sequencing
+melanomas of skin	can be diagnosed using	gene expression profiling
+melanomas of skin	can be diagnosed using	multicolor in situ hybridization
+melanomas of skin	can be diagnosed using	multiplex ligation-dependent probe amplification
+melanomas of skin	can be diagnosed using	allele-specific amplification
+melanomas of skin	can be diagnosed using	digital PCR
+melanomas of skin	can be diagnosed using	real-time PCR
+melanomas of skin	can be diagnosed using	gel electrophoresis
+melanomas of skin	can be diagnosed using	immune response assay
+melanomas of skin	can be diagnosed using	protein microarray
+melanomas of skin	can be treated with	chemotherapy
+melanomas of skin	can be treated with	immunotherapy
+melanomas of skin	can be treated with	targeted therapy
+melanomas of skin	can be treated with	surgery
+melanomas of skin	can be treated with	radiation therapy
+melanomas of skin	can be treated with	adjuvant therapy
+melanomas of skin	can be treated with	palliative therapy
+melanomas of skin	can be treated with	electrochemotherapy
+melanomas of skin	can be treated with	cryotherapy
+melanomas of skin	can be treated with	laser therapy
+melanomas of skin	can be treated with	topical therapy
+melanomas of skin	can be treated with	intralesional therapy
+melanomas of skin	can be treated with	photodynamic therapy
+melanomas of skin	can be treated with	radiofrequency ablation
+melanomas of skin	can be treated with	Mohs surgery
+melanomas of skin	can be treated with	sentinel lymph node biopsy
+melanomas of skin	can be treated with	immunosuppression
+melanomas of skin	can be treated with	interferon therapy
+melanomas of skin	can be treated with	interleukin-2 therapy
+melanomas of skin	can be treated with	adoptive cell transfer
+melanomas of skin	can be treated with	tumor-infiltrating lymphocytes
+melanomas of skin	can be treated with	checkpoint inhibitors
+melanomas of skin	can be treated with	targeted agents
+melanomas of skin	can be treated with	BRAF inhibitors
+melanomas of skin	can be treated with	MEK inhibitors
+melanomas of skin	can be treated with	immunomodulators
+melanomas of skin	can be treated with	anti-PD-1
+melanomas of skin	can be treated with	anti-CTLA-4
+melanomas of skin	can be treated with	pembrolizumab
+melanomas of skin	can be treated with	nivolumab
+melanomas of skin	can be treated with	ipilimumab
+melanomas of skin	can be treated with	trametinib
+melanomas of skin	can be treated with	dabrafenib
+melanomas of skin	can be treated with	vemurafenib
+melanomas of skin	can be treated with	cobimetinib
+melanomas of skin	can be treated with	immune checkpoint inhibitors
+melanomas of skin	can be treated with	targeted kinase inhibitors
+melanomas of skin	can be treated with	vaccine therapy
+melanomas of skin	can be treated with	BRAF/MEK inhibitor therapy
+melanomas of skin	can be treated with	combination therapy
+melanomas of skin	can be treated with	gene therapy
+melanomas of skin	can be treated with	adoptive cell therapy
+melanomas of skin	can be treated with	radiation treatment
+melanomas of skin	can be treated with	aldara cream
+melanomas of skin	can be treated with	bexarotene
+melanomas of skin	can be treated with	interferon alfa-2b
+melanomas of skin	can be treated with	ipilimumab and nivolumab
+melanomas of skin	can be treated with	talimogene laherparepvec
+melanomas of skin	can be treated with	spartalizumab
+melanomas of skin	can be treated with	binimetinib
+melanomas of skin	can be treated with	encorafenib
+melanomas of skin	can be treated with	selumetinib
+melanomas of skin	can be treated with	pegaspargase
+melanomas of skin	can be treated with	peginterferon alfa-2b
+melanomas of skin	can be treated with	granulocyte-macrophage colony-stimulating factor
+melanomas of skin	can be treated with	bacillus Calmette-Guérin
+melanomas of skin	can be treated with	anti-angiogenic therapy
+melanomas of skin	can be treated with	rituximab
+melanomas of skin	can be treated with	asparaginase
+melanomas of skin	can be treated with	isotretinoin
+melanomas of skin	can be treated with	sorafenib
+melanomas of skin	can be treated with	regorafenib
+melanomas of skin	can be treated with	pazopanib
+melanomas of skin	can be treated with	axitinib
+melanomas of skin	can be treated with	ramucirumab
+melanomas of skin	can be treated with	nintedanib
+melanomas of skin	can be treated with	sunitinib
+melanomas of skin	can be treated with	cabozantinib
+melanomas of skin	can be treated with	lenvatinib
+melanomas of skin	can be treated with	lapatinib
+melanomas of skin	can be treated with	afatinib
+melanomas of skin	can be treated with	neratinib
+melanomas of skin	can be treated with	osimertinib
+melanomas of skin	can be treated with	tramatinib
+melanomas of skin	can be treated with	ceritinib

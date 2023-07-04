@@ -1,0 +1,74 @@
+diabetes	is a	medical condition
+abnormal glucose tolerance	is a	medical condition
+pregnancy	can complicate	diabetes
+pregnancy	can complicate	abnormal glucose tolerance
+childbirth	can complicate	diabetes
+childbirth	can complicate	abnormal glucose tolerance
+puerperium	can complicate	diabetes
+puerperium	can complicate	abnormal glucose tolerance
+diabetes	can lead to	adverse pregnancy outcomes
+abnormal glucose tolerance	can lead to	adverse pregnancy outcomes
+diabetes	can increase the risk of	cesarean delivery
+abnormal glucose tolerance	can increase the risk of	cesarean delivery
+diabetes	can increase the risk of	preterm birth
+abnormal glucose tolerance	can increase the risk of	preterm birth
+diabetes	can increase the risk of	gestational hypertension
+abnormal glucose tolerance	can increase the risk of	gestational hypertension
+diabetes	can increase the risk of	preeclampsia
+abnormal glucose tolerance	can increase the risk of	preeclampsia
+diabetes	can increase the risk of	neonatal hypoglycemia
+abnormal glucose tolerance	can increase the risk of	neonatal hypoglycemia
+diabetes	requires	close monitoring during pregnancy
+abnormal glucose tolerance	requires	close monitoring during pregnancy
+insulin	is a common treatment for	diabetes during pregnancy
+glucose monitoring	is necessary for	diabetes during pregnancy
+diabetes	increases the risk of	type 2 diabetes later in life
+abnormal glucose tolerance	increases the risk of	type 2 diabetes later in life
+diabetes	increases the risk of	metabolic syndrome
+abnormal glucose tolerance	increases the risk of	metabolic syndrome
+diabetes	increases the risk of	cardiovascular disease
+abnormal glucose tolerance	increases the risk of	cardiovascular disease
+diabetes	increases the risk of	kidney complications
+abnormal glucose tolerance	increases the risk of	kidney complications
+diabetes	increases the risk of	retinopathy
+abnormal glucose tolerance	increases the risk of	retinopathy
+diabetes	increases the risk of	neuropathy
+abnormal glucose tolerance	increases the risk of	neuropathy
+diabetes	increases the risk of	foot ulcers
+abnormal glucose tolerance	increases the risk of	foot ulcers
+diabetes	increases the risk of	amputations
+abnormal glucose tolerance	increases the risk of	amputations
+diabetes	increases the risk of	depression
+abnormal glucose tolerance	increases the risk of	depression
+diabetes	increases the risk of	anxiety
+abnormal glucose tolerance	increases the risk of	anxiety
+diabetes	increases the risk of	sleep disorders
+abnormal glucose tolerance	increases the risk of	sleep disorders
+diabetes	increases the risk of	birth defects
+abnormal glucose tolerance	increases the risk of	birth defects
+diabetes	increases the risk of	macrosomia
+abnormal glucose tolerance	increases the risk of	macrosomia
+diabetes	increases the risk of	hypoglycemia in the newborn
+abnormal glucose tolerance	increases the risk of	hypoglycemia in the newborn
+diabetes	increases the risk of	childhood obesity
+abnormal glucose tolerance	increases the risk of	childhood obesity
+diabetes	increases the risk of	respiratory distress syndrome in the newborn
+abnormal glucose tolerance	increases the risk of	respiratory distress syndrome in the newborn
+diabetes	increases the risk of	stillbirth
+abnormal glucose tolerance	increases the risk of	stillbirth
+diabetes	increases the risk of	neonatal mortality
+abnormal glucose tolerance	increases the risk of	neonatal mortality
+diabetes	increases the risk of	maternal mortality
+abnormal glucose tolerance	increases the risk of	maternal mortality
+diabetes	increases the risk of	readmission
+abnormal glucose tolerance	increases the risk of	readmission
+diabetes	requires	lifestyle modifications
+abnormal glucose tolerance	requires	lifestyle modifications
+diabetes	can be managed with	medication
+abnormal glucose tolerance	can be managed with	medication
+diabetes	should be monitored	postpartum
+abnormal glucose tolerance	should be monitored	postpartum
+diabetes	necessitates	follow-up care
+abnormal glucose tolerance	necessitates	follow-up care
+diabetes	should be addressed	before planning a pregnancy
+abnormal glucose tolerance	should be addressed	before planning a pregnancy

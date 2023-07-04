@@ -1,0 +1,5 @@
+ectopic pregnancy	is a	medical condition
+ectopic pregnancy	can cause	abdominal pain
+ectopic pregnancy	is a risk factor for	infertility
+methotrexate	is a	treatment for ectopic pregnancy
+ectopic pregnancy	can result in	rupture of the fallopian tube

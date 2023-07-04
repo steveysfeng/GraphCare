@@ -1,0 +1,82 @@
+e codes	can describe	accidents
+accidents	can result in	injuries
+injuries	can happen by being	struck by
+struck by	is a type of	accident
+e codes	can also refer to	accidents involving
+accidents involving	can result in	injuries
+injuries	can occur from being	struck against
+struck against	is a type of	accident
+accidents	can be caused by	being struck by
+being struck against	is a way of	being injured
+injuries	can also result from being	struck against
+e codes	may indicate	injuries sustained by being struck by
+injuries	can also occur from being struck against
+being struck by	is a common cause of	injuries
+being struck against	is another common cause of	injuries
+e codes	can be used to document	accidents
+accidents	can lead to	injuries
+injuries	can be caused by	being struck by
+being struck against	is a form of	accident
+accidents	can happen when	struck by
+accidents involving	can lead to	injuries
+injuries	can result from	being struck against
+being struck by	is a cause of	accidents
+being struck against	is another type of	accident
+accidents	can result in	being injured
+being struck by	is a common form of	accident
+being struck against	is another way of	being injured
+injuries	can occur when	struck against
+struck by	can cause	injuries
+struck against	can also cause	injuries
+e codes	are used to classify	accidents
+accidents	can lead to	being injured
+injuries	can be sustained by being	struck by
+struck against	is a common form of	accident
+accidents	can occur from	being struck by
+being struck against	is a cause of	accidents
+injuries	can result from	being struck against
+e codes	can indicate	accidents involving being struck by
+accidents	can result in	injuries from being struck by
+injuries	can also happen from being struck against
+being struck by	is a type of	accident
+being struck against	is another type of	accident
+e codes	can be used to document	accidents involving
+accidents involving	can cause	injuries
+injuries	can be sustained by	being struck by
+being struck against	is a way to be	injured
+injuries	can occur as a result of	being struck against
+e codes	may refer to	accidents
+accidents	can cause	injuries
+injuries	can be sustained by	being struck against
+being struck by	is a common cause of	accidents
+being struck against	is a common form of	accident
+accidents	can result in	injuries sustained by being struck by
+being struck against	can lead to	injuries
+injuries	can happen from being	struck by
+struck against	can result in	being injured
+e codes	can also describe	accidents involving
+accidents involving	can be a cause of	injuries
+injuries	can result from	being struck against
+being struck by	can cause	injuries
+being struck against	can also lead to	injuries
+e codes	can be used to classify	accidents
+accidents	can cause	being injured
+injuries	can be sustained from being	struck by
+struck against	is a common cause of	accidents
+accidents	can happen from	being struck by
+being struck against	is a way of	accident
+injuries	can result from being	struck against
+e codes	can indicate	injuries sustained by being struck by
+injuries	can also happen as a result of being struck against
+being struck by	is a type of	accident
+being struck against	is another form of	accident
+e codes	can be used to document	accidents involving
+accidents involving	can lead to	injuries
+injuries	can be caused by	being struck by
+being struck against	is a common type of	accident
+accidents	can result in	being injured
+being struck by	is a common cause of	accident
+being struck against	is another way to be	injured
+injuries	can occur when being	struck against
+struck by	can cause	injuries
+struck against	can also result in	injuries

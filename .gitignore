@@ -1,6 +1,6 @@
 /graphs
-!/graphs/condition/
-!/graphs/procedure/
+!./graphs/condition/
+!./graphs/procedure/
 /ehr_training_result
 .exp_data
 /output

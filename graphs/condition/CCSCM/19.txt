@@ -1,0 +1,252 @@
+cancer of bronchus	is a	type of cancer
+cancer of bronchus	is associated with	smoking
+cancer of bronchus	may spread to	lymph nodes
+cancer of bronchus	is treated with	surgery
+lobectomy	is a type of	surgery
+cancer of bronchus	may cause	cough
+cancer of bronchus	can lead to	shortness of breath
+cancer of bronchus	has a	high mortality rate
+cancer of bronchus	is diagnosed using	imaging tests
+bronchoscopy	is a type of	imaging test
+cancer of bronchus	is often treated with	radiation therapy
+radiation therapy	can cause	fatigue
+cancer of bronchus	may require	chemotherapy
+chemotherapy	can cause	hair loss
+cancer of bronchus	can lead to	weight loss
+cancer of bronchus	is associated with	asbestos exposure
+cancer of bronchus	is often accompanied by	chest pain
+cancer of bronchus	is more common in	older adults
+cancer of bronchus	is more common in	men
+cancer of bronchus	is classified based on	stage
+stage 1 cancer of bronchus	is localized to	the lungs
+stage 4 cancer of bronchus	has spread to	distant organs
+cancer of bronchus	has a	high rate of recurrence
+cancer of bronchus	is more common in	smokers
+cancer of bronchus	can cause	hoarseness
+cancer of bronchus	is associated with	asbestos exposure
+cancer of bronchus	can lead to	respiratory distress
+cancer of bronchus	may cause	bone pain
+cancer of bronchus	can spread to	the brain
+cancer of bronchus	can lead to	pneumonia
+cancer of bronchus	can be caused by	genetic mutations
+cancer of bronchus	can lead to	lung collapse
+cancer of bronchus	is associated with	air pollution
+cancer of bronchus	can lead to	pleural effusion
+cancer of bronchus	has a	poor prognosis
+cancer of bronchus	may require	palliative care
+palliative care	focuses on	symptom management
+cancer of bronchus	can lead to	respiratory failure
+cancer of bronchus	is less common in	non-smokers
+cancer of bronchus	can cause	difficulty swallowing
+cancer of bronchus	may require	targeted therapy
+targeted therapy	is a type of	cancer treatment
+cancer of bronchus	can lead to	hemoptysis
+cancer of bronchus	is associated with	secondhand smoke
+cancer of bronchus	has a	higher incidence in certain geographic regions
+cancer of bronchus	is often detected through	a chest x-ray
+cancer of bronchus	is more commonly diagnosed in	advanced stages
+cancer of bronchus	is associated with	occupational exposure to certain chemicals
+cancer of bronchus	is more common in	African Americans
+cancer of bronchus	can cause	chest discomfort
+cancer of bronchus	is less common in	women
+cancer of bronchus	can be caused by	radon exposure
+cancer of bronchus	may require	targeted therapy
+targeted therapy	is a	newer treatment modality
+cancer of bronchus	can lead to	pleurisy
+cancer of bronchus	may require	immunotherapy
+immunotherapy	is a type of	cancer treatment
+cancer of bronchus	can cause	dyspnea
+cancer of bronchus	is more common in	certain occupations
+cancer of bronchus	can lead to	fatigue
+cancer of bronchus	can be caused by	exposure to radon gas
+cancer of bronchus	is often diagnosed at	an advanced stage
+cancer of bronchus	can cause	anorexia
+cancer of bronchus	is associated with	decreased lung function
+cancer of bronchus	can be caused by	exposure to certain industrial chemicals
+cancer of bronchus	can spread to	the liver
+cancer of bronchus	can lead to	weight loss
+cancer of bronchus	is more common in	smokers
+cancer of bronchus	is associated with	a cough
+cancer of bronchus	can cause	night sweats
+cancer of bronchus	may require	a lung transplant
+lung transplant	is a	surgical procedure
+cancer of bronchus	can lead to	pneumonia
+cancer of bronchus	is more common in	patients with chronic bronchitis
+cancer of bronchus	can cause	chest tightness
+cancer of bronchus	may require	a bronchoscopy
+bronchoscopy	is a	medical procedure
+cancer of bronchus	can spread to	the bones
+cancer of bronchus	can lead to	a persistent cough
+cancer of bronchus	is associated with	a hoarse voice
+cancer of bronchus	can cause	wheezing
+cancer of bronchus	may require	a biopsy
+biopsy	is a	diagnostic procedure
+cancer of bronchus	can spread to	the lymph nodes
+cancer of bronchus	can lead to	pulmonary embolism
+cancer of bronchus	is more common in	patients with COPD
+cancer of bronchus	can cause	difficulty breathing
+cancer of bronchus	may require	thoracotomy
+thoracotomy	is a type of	surgery
+cancer of bronchus	is associated with	asbestos exposure
+cancer of bronchus	can lead to	bronchial obstruction
+cancer of bronchus	can spread to	the pleura
+cancer of bronchus	can cause	back pain
+cancer of bronchus	may require	radiofrequency ablation
+radiofrequency ablation	is a type of	cancer treatment
+cancer of bronchus	can lead to	cachexia
+cancer of bronchus	is more common in	patients with tuberculosis
+cancer of bronchus	can cause	a persistent cough
+cancer of bronchus	may metastasize to	the brain
+cancer of bronchus	can spread to	the adrenal glands
+cancer of bronchus	can lead to	airway obstruction
+cancer of bronchus	is associated with	genetic mutations
+cancer of bronchus	can cause	clubbing of the fingers
+cancer of bronchus	may require	pneumonectomy
+pneumonectomy	is a type of	surgery
+cancer of bronchus	can lead to	coughing up blood
+cancer of bronchus	is associated with	radon exposure
+cancer of bronchus	can spread to	the bones
+cancer of bronchus	can cause	pleuritic chest pain
+cancer of bronchus	may require	photodynamic therapy
+photodynamic therapy	is a	type of cancer treatment
+cancer of bronchus	can lead to	dysphagia
+cancer of bronchus	is more common in	patients with HIV/AIDS
+cancer of bronchus	can cause	difficulty swallowing
+cancer of bronchus	may require	mediastinoscopy
+mediastinoscopy	is a type of	diagnostic procedure
+cancer of bronchus	can spread to	the adrenal glands
+cancer of bronchus	can lead to	pleural effusion
+cancer of bronchus	is associated with	genetic mutations
+cancer of bronchus	can cause	fatigue
+cancer of bronchus	may require	PET scan
+PET scan	is a type of	imaging test
+cancer of bronchus	can lead to	anemia
+cancer of bronchus	is more common in	patients with asthma
+cancer of bronchus	can cause	weight loss
+cancer of bronchus	may require	palliative care
+palliative care	focuses on	symptom management
+cancer of bronchus	is less common in	nonsmokers
+cancer of bronchus	can lead to	chest pain
+cancer of bronchus	is more common in	men
+cancer of bronchus	is associated with	asbestos exposure
+cancer of bronchus	can cause	hoarseness
+cancer of bronchus	can lead to	respiratory distress
+cancer of bronchus	may cause	bone pain
+cancer of bronchus	can spread to	the brain
+cancer of bronchus	can lead to	pneumonia
+cancer of bronchus	can be caused by	genetic mutations
+cancer of bronchus	can lead to	lung collapse
+cancer of bronchus	is associated with	air pollution
+cancer of bronchus	can lead to	pleural effusion
+cancer of bronchus	has a	poor prognosis
+cancer of bronchus	may require	palliative care
+palliative care	focuses on	symptom management
+cancer of bronchus	can lead to	respiratory failure
+cancer of bronchus	is less common in	non-smokers
+cancer of bronchus	can cause	difficulty swallowing
+cancer of bronchus	may require	targeted therapy
+targeted therapy	is a type of	cancer treatment
+cancer of bronchus	can lead to	hemoptysis
+cancer of bronchus	is associated with	secondhand smoke
+cancer of bronchus	has a	higher incidence in certain geographic regions
+cancer of bronchus	is often detected through	a chest x-ray
+cancer of bronchus	is more commonly diagnosed in	advanced stages
+cancer of bronchus	is associated with	occupational exposure to certain chemicals
+cancer of bronchus	is more common in	African Americans
+cancer of bronchus	can cause	chest discomfort
+cancer of bronchus	is less common in	women
+cancer of bronchus	can be caused by	radon exposure
+cancer of bronchus	may require	targeted therapy
+targeted therapy	is a	newer treatment modality
+cancer of bronchus	can lead to	pleurisy
+cancer of bronchus	may require	immunotherapy
+immunotherapy	is a type of	cancer treatment
+cancer of bronchus	can cause	dyspnea
+cancer of bronchus	is more common in	certain occupations
+cancer of bronchus	can lead to	fatigue
+cancer of bronchus	can be caused by	exposure to radon gas
+cancer of bronchus	is often diagnosed at	an advanced stage
+cancer of bronchus	can cause	anorexia
+cancer of bronchus	is associated with	decreased lung function
+cancer of bronchus	can be caused by	exposure to certain industrial chemicals
+cancer of bronchus	can spread to	the liver
+cancer of bronchus	can lead to	weight loss
+cancer of bronchus	is more common in	smokers
+cancer of bronchus	is associated with	a cough
+cancer of bronchus	can cause	night sweats
+cancer of bronchus	may require	a lung transplant
+lung transplant	is a	surgical procedure
+cancer of bronchus	can lead to	pneumonia
+cancer of bronchus	is more common in	patients with chronic bronchitis
+cancer of bronchus	can cause	chest tightness
+cancer of bronchus	may require	a bronchoscopy
+bronchoscopy	is a	medical procedure
+cancer of bronchus	can spread to	the bones
+cancer of bronchus	can lead to	a persistent cough
+cancer of bronchus	is associated with	a hoarse voice
+cancer of bronchus	can cause	wheezing
+cancer of bronchus	may require	a biopsy
+biopsy	is a	diagnostic procedure
+cancer of bronchus	can spread to	the lymph nodes
+cancer of bronchus	can lead to	pulmonary embolism
+cancer of bronchus	is more common in	patients with COPD
+cancer of bronchus	can cause	difficulty breathing
+cancer of bronchus	may require	thoracotomy
+thoracotomy	is a type of	surgery
+cancer of bronchus	is associated with	asbestos exposure
+cancer of bronchus	can lead to	bronchial obstruction
+cancer of bronchus	can spread to	the pleura
+cancer of bronchus	can cause	back pain
+cancer of bronchus	may require	radiofrequency ablation
+radiofrequency ablation	is a type of	cancer treatment
+cancer of bronchus	can lead to	cachexia
+cancer of bronchus	is more common in	patients with tuberculosis
+cancer of bronchus	can cause	a persistent cough
+cancer of bronchus	may metastasize to	the brain
+cancer of bronchus	can spread to	the adrenal glands
+cancer of bronchus	can lead to	airway obstruction
+cancer of bronchus	is associated with	genetic mutations
+cancer of bronchus	can cause	clubbing of the fingers
+cancer of bronchus	may require	pneumonectomy
+pneumonectomy	is a type of	surgery
+cancer of bronchus	can lead to	coughing up blood
+cancer of bronchus	is associated with	radon exposure
+cancer of bronchus	can spread to	the bones
+cancer of bronchus	can cause	pleuritic chest pain
+cancer of bronchus	may require	photodynamic therapy
+photodynamic therapy	is a	type of cancer treatment
+cancer of bronchus	can lead to	dysphagia
+cancer of bronchus	is more common in	patients with HIV/AIDS
+cancer of bronchus	can cause	difficulty swallowing
+cancer of bronchus	may require	mediastinoscopy
+mediastinoscopy	is a type of	diagnostic procedure
+cancer of bronchus	can spread to	the adrenal glands
+cancer of bronchus	can lead to	pleural effusion
+cancer of bronchus	is associated with	genetic mutations
+cancer of bronchus	can cause	fatigue
+cancer of bronchus	may require	PET scan
+PET scan	is a type of	imaging test
+cancer of bronchus	can lead to	anemia
+cancer of bronchus	is more common in	patients with asthma
+cancer of bronchus	can cause	weight loss
+cancer of bronchus	may require	palliative care
+palliative care	focuses on	symptom management
+cancer of bronchus	is less common in	nonsmokers
+cancer of bronchus	can lead to	chest pain
+cancer of bronchus	is more common in	men
+cancer of bronchus	is associated with	asbestos exposure
+cancer of bronchus	can cause	hoarseness
+cancer of bronchus	can lead to	respiratory distress
+cancer of bronchus	may cause	bone pain
+cancer of bronchus	can spread to	the brain
+cancer of bronchus	can lead to	pneumonia
+cancer of bronchus	can be caused by	genetic mutations
+cancer of bronchus	can lead to	lung collapse
+cancer of bronchus	is associated with	air pollution
+cancer of bronchus	can lead to	pleural effusion
+cancer of bronchus	has a	poor prognosis
+cancer of bronchus	may require	palliative care
+palliative care	focuses on	symptom management
+cancer of bronchus	can lead to	respiratory failure
+cancer of bronchus	is less common in	non-smokers
+cancer of bronchus	can cause	difficulty swallowing

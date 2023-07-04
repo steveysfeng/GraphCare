@@ -1,0 +1,124 @@
+diverticulosis	is a	condition
+diverticulosis	can lead to	diverticulitis
+diverticulosis	can cause	abdominal pain
+diverticulosis	increases the risk of	bleeding
+diverticulitis	is a	complication of diverticulosis
+diverticulitis	can cause	fever
+diverticulitis	can lead to	abscess
+diverticulitis	is treated with	antibiotics
+diverticulitis	may require	surgery
+colonoscopy	is a test to diagnose	diverticulosis
+diverticulosis	is associated with	low-fiber diet
+diverticulosis	is more common in	older adults
+diverticulitis	can result in	bowel obstruction
+diverticulitis	can lead to	peritonitis
+diverticulitis	may cause	rectal bleeding
+diverticulitis	is a risk factor for	fistulas
+diverticulitis	can cause	nausea
+diverticulitis	can lead to	sepsis
+diverticulitis	is often managed with	pain medications
+diverticulosis	is diagnosed with	imaging tests
+diverticulitis	may be treated with	bowel rest
+diverticulosis	is more common in	Western countries
+diverticulitis	can cause	diarrhea
+diverticulitis	is associated with	obesity
+diverticulosis	is a risk factor for	diverticulitis
+diverticulitis	may result in	fistulas
+diverticulosis	is characterized by	pouches in the colon
+diverticulosis	is more common in	males
+diverticulitis	can lead to	perforation
+diverticulitis	can cause	constipation
+diverticulitis	is more common in	smokers
+diverticulosis	is linked to	genetic factors
+diverticulosis	is often asymptomatic
+diverticulosis	is associated with	lack of physical activity
+diverticulitis	may require	hospitalization
+diverticulitis	can cause	vomiting
+diverticulosis	may be managed with	dietary changes
+diverticulitis	can result in	urinary symptoms
+diverticulosis	is associated with	decreased colonic motility
+diverticulosis	is diagnosed with	colonoscopy
+diverticulitis	is more common in	women
+diverticulitis	can lead to	intestinal perforation
+diverticulitis	can cause	rectal pain
+diverticulosis	is associated with	smoking
+diverticulosis	is a risk factor for	diverticulitis complications
+diverticulitis	may require	drainage of abscess
+diverticulosis	is linked to	connective tissue disorders
+diverticulosis	is more common in	overweight individuals
+diverticulitis	can result in	septicemia
+diverticulosis	is more common in	African Americans
+diverticulitis	can cause	blood in stool
+diverticulitis	is more common in	individuals with a family history of the condition
+diverticulosis	can be prevented with	high-fiber diet and regular exercise
+diverticulitis	can lead to	intestinal obstruction
+diverticulitis	can cause	loss of appetite
+diverticulosis	is associated with	aging
+diverticulosis	is a risk factor for	diverticulitis relapse
+diverticulitis	may require	percutaneous drainage of abscess
+diverticulitis	can lead to	septic shock
+diverticulitis	can cause	bloating
+diverticulitis	is more common in	individuals with a history of gastrointestinal disorders
+diverticulosis	is more common in	individuals with a sedentary lifestyle
+diverticulitis	can result in	bowel perforation
+diverticulitis	can cause	weight loss
+diverticulosis	is associated with	low intake of fruits and vegetables
+diverticulosis	is a risk factor for	complications of diverticulitis
+diverticulitis	may require	surgical intervention
+diverticulosis	is more common in	individuals with obesity
+diverticulosis	is a risk factor for	diverticulitis recurrence
+diverticulitis	can lead to	septic complications
+diverticulitis	can cause	fatigue
+diverticulosis	is associated with	chronic constipation
+diverticulosis	is more common in	individuals with a history of inflammatory bowel disease
+diverticulitis	can result in	peritonitis
+diverticulitis	can cause	gas
+diverticulitis	is more common in	individuals with immune system disorders
+diverticulosis	is associated with	increased colonic pressure
+diverticulosis	is a risk factor for	diverticulitis exacerbations
+diverticulitis	may require	colostomy
+diverticulitis	can lead to	complications in pregnancy
+diverticulitis	can cause	malaise
+diverticulosis	is more common in	individuals with a history of gastrointestinal surgeries
+diverticulitis	can result in	urinary tract infections
+diverticulitis	can lead to	gastrointestinal bleeding
+diverticulosis	is associated with	low socioeconomic status
+diverticulosis	is a risk factor for	diverticulitis complications
+diverticulitis	may require	resection of affected colon segment
+diverticulosis	is more common in	individuals with a diet high in red meat
+diverticulosis	is a risk factor for	diverticular bleeding
+diverticulitis	can lead to	sepsis
+diverticulitis	can cause	indigestion
+diverticulitis	is more common in	individuals with a history of abdominal surgery
+diverticulosis	is associated with	increased colonic wall tension
+diverticulosis	is a risk factor for	diverticulitis relapse
+diverticulitis	may require	surgical resection
+diverticulitis	can lead to	complications in menopause
+diverticulitis	can cause	abdominal distension
+diverticulosis	is more common in	individuals with a western dietary pattern
+diverticulitis	can result in	urinary retention
+diverticulitis	can lead to	perforation of the colon
+diverticulosis	is associated with	low socioeconomic status
+diverticulosis	is a risk factor for	complications of diverticulitis
+diverticulitis may require	colostomy
+diverticulitis	can lead to	complications in pregnancy
+diverticulitis	can cause	malaise
+diverticulosis	is more common in	individuals with a history of gastrointestinal surgeries
+diverticulitis	can result in	urinary tract infections
+diverticulitis	can lead to	gastrointestinal bleeding
+diverticulosis	is associated with	low socioeconomic status
+diverticulosis	is a risk factor for	diverticulitis complications
+diverticulitis	may require	resection of affected colon segment
+diverticulosis	is more common in	individuals with a diet high in red meat
+diverticulosis	is a risk factor for	diverticular bleeding
+diverticulitis	can lead to	sepsis
+diverticulitis	can cause	indigestion
+diverticulitis	is more common in	individuals with a history of abdominal surgery
+diverticulosis	is associated with	increased colonic wall tension
+diverticulosis	is a risk factor for	diverticulitis relapse
+diverticulitis	may require	surgical resection
+diverticulitis	can lead to	complications in menopause
+diverticulitis	can cause	abdominal distension
+diverticulosis	is more common in	individuals with a western dietary pattern
+diverticulitis	can result in	urinary retention
+diverticulitis	can lead to	perforation of the colon

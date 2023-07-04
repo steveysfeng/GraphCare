@@ -1,0 +1,79 @@
+e codes	are used to classify	overexertion injuries
+overexertion	can lead to	muscle strains
+exercise	can cause	overexertion
+overexertion	can result in	fatigue
+overexertion	is a common	work-related injury
+overexertion	can cause	dehydration
+overexertion	is a risk factor for	heat stroke
+overexertion	can lead to	joint pain
+overexertion	can result in	cardiovascular problems
+overexertion	is a cause of	workplace accidents
+overexertion	can lead to	tendonitis
+overexertion	can result in	shin splints
+overexertion	is a contributing factor to	overuse injuries
+overexertion	can cause	muscle cramps
+overexertion	can result in	dizziness
+overexertion	can lead to	heat exhaustion
+overexertion	can cause	sprains
+overexertion	is a risk factor for	falls
+overexertion	can result in	stress fractures
+overexertion	can cause	back pain
+overexertion	can lead to	heart attacks
+overexertion	is a common	sports injury
+overexertion	can result in	lightheadedness
+overexertion	can cause	heat cramps
+overexertion	is a contributing factor to	repetitive strain injuries
+overexertion	can lead to	fainting
+overexertion	can result in	muscle weakness
+overexertion	can cause	heatstroke
+overexertion	can result in	overuse of muscles
+overexertion	is associated with	workplace accidents
+overexertion	can cause	asthma attacks
+overexertion	can lead to	heatstroke
+overexertion	can result in	fatigue
+overexertion	can cause	joint inflammation
+overexertion	is a risk factor for	muscle strains
+overexertion	can lead to	tendon injuries
+overexertion	can result in	muscle damage
+overexertion	can cause	heat exhaustion
+overexertion	is a common	cause of injury
+overexertion	can result in	sprained muscles
+overexertion	can cause	muscle soreness
+overexertion	can lead to	heat-related illnesses
+overexertion	can result in	headaches
+overexertion	can cause	fatigue
+overexertion	is a risk factor for	dehydration
+overexertion	can lead to	muscle cramps
+overexertion	can result in	muscle strains
+overexertion	can cause	muscle spasms
+overexertion	can lead to	heat cramps
+overexertion	can result in	muscle tears
+overexertion	is associated with	exercise-induced injuries
+overexertion	can cause	muscle stiffness
+overexertion	is a contributing factor to	sporting injuries
+overexertion	can lead to	muscle fatigue
+overexertion	can result in	muscle strain
+overexertion	can cause	muscle damage
+overexertion	is a risk factor for	overuse injuries
+overexertion	can lead to	shin splints
+overexertion	can result in	muscle cramps
+overexertion	can cause	muscle soreness
+overexertion	is a common	cause of muscle injuries
+overexertion	can result in	heat exhaustion
+overexertion	can cause	muscle strains
+overexertion	can lead to	muscle spasms
+overexertion	is associated with	exercise-induced muscle injuries
+overexertion	can result in	muscle tears
+overexertion	can cause	muscle fatigue
+overexertion	is a contributing factor to	sport-related injuries
+overexertion	can lead to	muscle strain
+overexertion	can result in	muscle damage
+overexertion	is a risk factor for	overuse of muscles
+overexertion	can cause	muscle stiffness
+overexertion	can result in	muscle cramps
+overexertion	can lead to	muscle sprains
+overexertion	can result in	muscle soreness
+overexertion	is a common	cause of muscle strains
+overexertion	can cause	muscle sprains
+overexertion	can lead to	muscle tears
+overexertion	can result in	muscle fatigue

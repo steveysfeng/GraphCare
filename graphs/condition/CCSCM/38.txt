@@ -1,0 +1,34 @@
+non-hodgkin`s lymphoma	is a type of	cancer
+non-hodgkin`s lymphoma	is a	lymphoma
+chemotherapy	is a treatment for	non-hodgkin`s lymphoma
+rituximab	is a type of	chemotherapy
+radiotherapy	is another treatment option for	non-hodgkin`s lymphoma
+stage IV	is the most advanced	non-hodgkin`s lymphoma stage
+fatigue	is a common symptom of	non-hodgkin`s lymphoma
+Swollen lymph nodes	is a common sign of	non-hodgkin`s lymphoma
+B-cell lymphoma	is a subtype of	non-hodgkin`s lymphoma
+follicular lymphoma	is a common type of	non-hodgkin`s lymphoma
+mantle cell lymphoma	is a subtype of	non-hodgkin`s lymphoma
+immunotherapy	is a treatment option for	non-hodgkin`s lymphoma
+CAR-T cell therapy	is a type of	immunotherapy
+relapse	is the recurrence of	non-hodgkin`s lymphoma
+high-grade lymphoma	is a more aggressive form of	non-hodgkin`s lymphoma
+B symptoms	are systemic symptoms of	non-hodgkin`s lymphoma
+PET scan	is a diagnostic test for	non-hodgkin`s lymphoma
+infection	is a common complication in	non-hodgkin`s lymphoma
+transformation	is the process of non-hodgkin`s lymphoma changing into	a more aggressive form
+radiation therapy	is a localized treatment for	non-hodgkin`s lymphoma
+relapsed/refractory	is a term used for	non-hodgkin`s lymphoma that does not respond to treatment
+stem cell transplant	is a treatment option for	non-hodgkin`s lymphoma
+Burkitt lymphoma	is a fast-growing type of	non-hodgkin`s lymphoma
+monoclonal antibodies	are used in	non-hodgkin`s lymphoma treatment
+disease-free survival	is the length of time without	non-hodgkin`s lymphoma returning
+DLBCL	is the most common type of	non-hodgkin`s lymphoma
+mortality rate	is a measure of	non-hodgkin`s lymphoma-related deaths
+BTK inhibitors	are a type of targeted therapy for	non-hodgkin`s lymphoma
+R-CHOP	is a commonly used chemotherapy regimen for	non-hodgkin`s lymphoma
+lymphoblastic lymphoma	is a subtype of	non-hodgkin`s lymphoma
+extranodal lymphoma	is non-hodgkin`s lymphoma that begins outside of	the lymph nodes
+toxicity	is a potential side effect of	non-hodgkin`s lymphoma treatments
+watchful waiting	is a management strategy for	non-hodgkin`s lymphoma
+poor prognosis	is associated with	advanced non-hodgkin`s lymphoma

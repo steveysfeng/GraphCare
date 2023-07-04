@@ -1,0 +1,129 @@
+cataract	is a	eye condition
+cataract	can cause	vision loss
+cataract	is treated with	surgery
+phacoemulsification	is a type of	surgery
+cataract	is diagnosed using	an eye exam
+cataract	is a result of	aging
+cataract	may be caused by	trauma
+cataract	increases the risk of	falls
+cataract	affects	the lens of the eye
+cataract	can be	congenital
+cataract	is associated with	diabetes
+cataract	is a	common condition
+cataract surgery	improves	vision
+cataract surgery	has a risk of	infection
+cataract surgery	has a risk of	posterior capsule opacification
+cataract surgery	requires	anesthesia
+cataract surgery	involves	replacing the cloudy lens with an artificial one
+cataract surgery	is performed by	an ophthalmologist
+cataract surgery	can be done	as an outpatient procedure
+pre-existing eye conditions	may affect	cataract surgery
+cataract surgery	has a risk of	intraocular pressure changes
+cataract surgery	may require	postoperative care
+cataract surgery	can result in	improved quality of life
+cataract surgery	is not recommended	during pregnancy
+cataract surgery	may be delayed	in certain cases
+cataract surgery	may need	corrective lenses afterwards
+cataract surgery	can be	bilateral
+cataract surgery	can be	covered by insurance
+cataract surgery	outcomes depend on	the patient's overall health
+cataract surgery	can be affected by	medication use
+cataract	can be	hereditary
+cataract surgery	can result in	astigmatism correction
+cataract	can lead to	decreased visual acuity
+cataract	can cause	double vision
+cataract surgery	can result in	improved night vision
+cataract surgery	can cause	corneal edema
+cataract	can be	age-related
+cataract	increases the risk of	glaucoma
+cataract	can cause	color vision changes
+cataract	may require	frequent changes in prescription glasses
+cataract	can cause	sensitivity to glare
+cataract	can lead to	difficulty reading
+cataract	can cause	halos around lights
+cataract	can result in	difficulty driving at night
+cataract surgery	may require	preoperative testing
+cataract surgery	can result in	improved contrast sensitivity
+cataract surgery	has a risk of	macular edema
+cataract surgery	can result in	improved depth perception
+cataract surgery	can result in	improved color vision
+cataract surgery	may require	postoperative medications
+cataract	can cause	blurred vision
+cataract	can result in	glare sensitivity
+cataract surgery	can result in	reduced need for glasses
+cataract surgery	has a risk of	dislocated lens
+cataract	can cause	difficulty recognizing faces
+cataract	can lead to	decreased contrast sensitivity
+cataract surgery	has a risk of	intraoperative complications
+cataract surgery	can result in	improved near vision
+cataract surgery	can result in	improved distance vision
+cataract	can cause	visual distortions
+cataract	can result in	difficulty seeing at night
+cataract surgery	can result in	improved visual acuity
+cataract surgery	can result in	improved distance perception
+cataract	can be	congenital
+cataract surgery	can result in	reduced dependence on glasses
+cataract surgery	can result in	improved intermediate vision
+cataract surgery	can result in	reduced astigmatism
+cataract surgery	can result in	improved reading vision
+cataract surgery	can result in	improved near perception
+cataract surgery	can result in	improved near acuity
+cataract	can cause	photophobia
+cataract surgery	can result in	improved far vision
+cataract	can result in	monocular vision
+cataract	can cause	decreased color intensity
+cataract surgery	can result in	improved quality of vision
+cataract surgery	can result in	reduced need for bifocals
+cataract surgery	can result in	reduced dependence on contact lenses
+cataract surgery	can result in	improved overall visual function
+cataract	can cause	cloudy or fuzzy vision
+cataract surgery	can result in	improved peripheral vision
+cataract surgery	can result in	improved contrast vision
+cataract surgery	can result in	reduced glare
+cataract surgery	can result in	improved overall quality of vision
+cataract	can cause	difficulty seeing in bright light
+cataract surgery	can result in	improved quality of life
+cataract surgery	can result in	reduced need for reading glasses
+cataract	can lead to	decreased visual field
+phacoemulsification	involves	using ultrasound energy to break up the cataract
+cataract surgery	has a risk of	retinal detachment
+cataract surgery	has a risk of	dislocated intraocular lens
+cataract surgery	can result in	improved visual perception
+cataract surgery	can result in	improved functional vision
+cataract	can cause	difficulty with daily activities
+cataract surgery	can result in	improved quality of visual trade
+cataract	can cause	difficulties with depth perception
+cataract	can result in	increased nearsightedness
+cataract	can cause	difficulties with judging distances
+cataract	can result in	decreased visual acuity
+cataract	can result in	reduced ability to read small print
+cataract	can result in	decreased ability to see colors accurately
+cataract surgery	can result in	improved color perception
+cataract surgery	can result in	improved visual contrast
+cataract surgery	can result in	improved visual clarity
+cataract	can result in	blurred or hazy vision
+cataract	can result in	faded colors
+cataract surgery	has a risk of	corneal decompensation
+cataract surgery	has a risk of	endophthalmitis
+cataract	can cause	night blindness
+cataract	can result in	difficulty with reading and writing
+cataract	can lead to	difficulty with activities requiring fine vision
+cataract	can result in	decreased visual field
+cataract	can cause	difficulty with driving
+cataract	can result in	decreased ability to see details
+cataract	can cause	difficulty distinguishing between shades of the same color
+cataract	can result in	decreased ability to see in low light
+cataract	can cause	distorted vision
+cataract	can result in	difficulty seeing in bright light
+cataract	can lead to	loss of visual acuity
+cataract surgery	can result in	improved ability to recognize faces
+cataract surgery	can result in	improved visual function
+cataract	can cause	difficulty with depth perception
+cataract surgery	can result in	improved visual performance
+cataract surgery	can result in	improved ability to see colors
+cataract surgery	can result in	improved visual satisfaction
+cataract	can result in	decreased ability to drive safely
+cataract surgery	can result in	reduced glare sensitivity
+cataract surgery	can result in	improved visual independence
+cataract surgery	can result in	improved ability to perform daily tasks
+cataract surgery	can result in	improved vision-related quality of life

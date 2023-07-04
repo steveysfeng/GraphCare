@@ -1,0 +1,137 @@
+acute and unspecified renal failure	is a	medical condition
+acute and unspecified renal failure	can lead to	kidney damage
+acute and unspecified renal failure	is diagnosed using	blood tests
+creatinine	is a	blood test
+acute and unspecified renal failure	may require	dialysis
+hemodialysis	is a	dialysis treatment
+acute and unspecified renal failure	can be caused by	dehydration
+acute and unspecified renal failure	is associated with	high mortality rate
+acute and unspecified renal failure	can result in	hospital readmission
+diuretics	are used to	treat acute and unspecified renal failure
+furosemide	is a	diuretic
+acute and unspecified renal failure	is often managed in	intensive care unit
+acute and unspecified renal failure	can be caused by	medication toxicity
+acute and unspecified renal failure	can occur after	surgery
+acute and unspecified renal failure	is more common in	older adults
+acute and unspecified renal failure	is a complication of	sepsis
+acute and unspecified renal failure	is characterized by	decreased urine output
+acute and unspecified renal failure	is associated with	electrolyte imbalances
+acute and unspecified renal failure	can cause	fluid overload
+acute and unspecified renal failure	can lead to	metabolic acidosis
+acute and unspecified renal failure	is treated with	supportive care
+acute and unspecified renal failure	requires	close monitoring
+acute and unspecified renal failure	is a potential complication of	diabetes
+acute and unspecified renal failure	can be caused by	heart failure
+acute and unspecified renal failure	may require	renal replacement therapy
+peritoneal dialysis	is a	type of renal replacement therapy
+acute and unspecified renal failure	can be caused by	urinary tract obstruction
+acute and unspecified renal failure	is a risk factor for	chronic kidney disease
+acute and unspecified renal failure	is associated with	increased hospital length of stay
+acute and unspecified renal failure	can result in	respiratory failure
+acute and unspecified renal failure	is more common in	critically ill patients
+acute and unspecified renal failure	is a potential complication of	liver disease
+acute and unspecified renal failure	can be caused by	drug overdose
+acute and unspecified renal failure	is more common in	patients with HIV/AIDS
+acute and unspecified renal failure	is associated with	higher healthcare costs
+acute and unspecified renal failure	can be caused by	rhabdomyolysis
+acute and unspecified renal failure	is a result of	reduced kidney function
+acute and unspecified renal failure	can be caused by	autoimmune disease
+acute and unspecified renal failure	is a potential complication of	pregnancy
+acute and unspecified renal failure	can lead to	fluid and electrolyte imbalances
+acute and unspecified renal failure	is associated with	increased risk of infection
+acute and unspecified renal failure	can be caused by	contrast dye used in imaging tests
+acute and unspecified renal failure	is associated with	increased healthcare utilization
+acute and unspecified renal failure	can result in	acute respiratory distress syndrome
+acute and unspecified renal failure	is a potential complication of	kidney transplant
+acute and unspecified renal failure	can be caused by	heart attack
+acute and unspecified renal failure	is commonly seen in	post-operative patients
+acute and unspecified renal failure	can occur as a result of	septic shock
+acute and unspecified renal failure	can cause	anemia
+acute and unspecified renal failure	is associated with	increased risk of cardiovascular events
+acute and unspecified renal failure	may require	nutritional support
+acute and unspecified renal failure	is more common in	patients with pre-existing kidney disease
+acute and unspecified renal failure	can be caused by	acute pancreatitis
+acute and unspecified renal failure	is a potential complication of	heatstroke
+acute and unspecified renal failure	can result in	multi-organ failure
+acute and unspecified renal failure	is associated with	longer hospital stay
+acute and unspecified renal failure	can be caused by	autoimmune vasculitis
+acute and unspecified renal failure	is more common in	patients with sepsis
+acute and unspecified renal failure	can lead to	permanent kidney damage
+acute and unspecified renal failure	is a complication of	heart surgery
+acute and unspecified renal failure	can occur after	exposure to nephrotoxic agents
+acute and unspecified renal failure	is associated with	increased risk of stroke
+acute and unspecified renal failure	can be caused by	acute glomerulonephritis
+acute and unspecified renal failure	is a potential complication of	respiratory failure
+acute and unspecified renal failure	can result in	electrolyte disturbances
+acute and unspecified renal failure	is commonly seen in	patients with liver cirrhosis
+acute and unspecified renal failure	can be caused by	drug-induced nephrotoxicity
+acute and unspecified renal failure	is more common in	patients with autoimmune diseases
+acute and unspecified renal failure	is associated with	poor prognosis
+acute and unspecified renal failure	can lead to	sepsis
+acute and unspecified renal failure	is a potential complication of	cardiac arrest
+acute and unspecified renal failure	can be caused by	systemic lupus erythematosus
+acute and unspecified renal failure	is a risk factor for	acute respiratory distress syndrome
+acute and unspecified renal failure	is associated with	neurological complications
+acute and unspecified renal failure	can result in	delirium
+acute and unspecified renal failure	is more common in	patients with chronic obstructive pulmonary disease
+acute and unspecified renal failure	can be caused by	acute tubular necrosis
+acute and unspecified renal failure	is a potential complication of	acute myocardial infarction
+acute and unspecified renal failure	can lead to	septicemia
+acute and unspecified renal failure	is associated with	increased risk of bleeding
+acute and unspecified renal failure	can cause	hyperkalemia
+acute and unspecified renal failure	is commonly seen in	patients with diabetes mellitus
+acute and unspecified renal failure	can occur after	drug overdose
+acute and unspecified renal failure	is a result of	impaired kidney function
+acute and unspecified renal failure	can be caused by	acute respiratory distress syndrome
+acute and unspecified renal failure	is a potential complication of	liver failure
+acute and unspecified renal failure	can result in	encephalopathy
+acute and unspecified renal failure	is associated with	increased risk of gastrointestinal bleeding
+acute and unspecified renal failure	can be caused by	toxic shock syndrome
+acute and unspecified renal failure	is more common in	patients with heart failure
+acute and unspecified renal failure	is a risk factor for	kidney stones
+acute and unspecified renal failure	can lead to	acute tubular injury
+acute and unspecified renal failure	is a complication of	myocardial infarction
+acute and unspecified renal failure	can occur after	liver transplantation
+acute and unspecified renal failure	is associated with	increased mortality rate
+acute and unspecified renal failure	can result in	cerebral edema
+acute and unspecified renal failure	is commonly seen in	patients with septic shock
+acute and unspecified renal failure	can be caused by	acute interstitial nephritis
+acute and unspecified renal failure	is a potential complication of	organ transplantation
+acute and unspecified renal failure	can lead to	respiratory distress
+acute and unspecified renal failure	is more common in	patients with cardiovascular disease
+acute and unspecified renal failure	can be caused by	hemolytic uremic syndrome
+acute and unspecified renal failure	is associated with	increased risk of venous thromboembolism
+acute and unspecified renal failure	can result in	hypertension
+acute and unspecified renal failure	is commonly seen in	critically ill patients
+acute and unspecified renal failure	can occur following	abdominal surgery
+acute and unspecified renal failure	is a complication of	acute pancreatitis
+acute and unspecified renal failure	can cause	uremia
+acute and unspecified renal failure	is associated with	increased risk of respiratory failure
+acute and unspecified renal failure	can be caused by	acute kidney injury
+acute and unspecified renal failure	is more common in	patients with liver disease
+acute and unspecified renal failure	is a risk factor for	sepsis
+acute and unspecified renal failure	can lead to	hemodialysis dependence
+acute and unspecified renal failure	is a potential complication of	drug-induced liver injury
+acute and unspecified renal failure	can result in	cardiogenic shock
+acute and unspecified renal failure	is commonly seen in	patients with acute respiratory distress syndrome
+acute and unspecified renal failure	can be caused by	rhabdomyolysis
+acute and unspecified renal failure	is associated with	increased risk of acute respiratory distress syndrome
+acute and unspecified renal failure	can occur after	heart surgery
+acute and unspecified renal failure	is a result of	renal dysfunction
+acute and unspecified renal failure	can be caused by	heart attack
+acute and unspecified renal failure	is more common in	patients with septic shock
+acute and unspecified renal failure	is a potential complication of	heatstroke
+acute and unspecified renal failure	can lead to	multi-organ failure
+acute and unspecified renal failure	is associated with	longer hospital stay
+acute and unspecified renal failure	can be caused by	autoimmune vasculitis
+acute and unspecified renal failure	is more common in	patients with sepsis
+acute and unspecified renal failure	can cause	anemia
+acute and unspecified renal failure	is associated with	increased risk of cardiovascular events
+acute and unspecified renal failure	may require	nutritional support
+acute and unspecified renal failure	is more common in	patients with pre-existing kidney disease
+acute and unspecified renal failure	can be caused by	acute pancreatitis
+acute and unspecified renal failure	is a potential complication of	heatstroke
+acute and unspecified renal failure	can result in	multi-organ failure
+acute and unspecified renal failure	is associated with	longer hospital stay
+acute and unspecified renal failure	can be caused by	autoimmune vasculitis
+acute and unspecified renal failure	is more common in	patients with sepsis

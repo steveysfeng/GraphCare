@@ -1,0 +1,36 @@
+rehabilitation care	includes	physical therapy
+physical therapy	helps with	mobility
+rehabilitation care	includes	occupational therapy
+occupational therapy	helps with	daily activities
+rehabilitation care	includes	speech therapy
+speech therapy	helps with	communication
+rehabilitation care	includes	cognitive therapy
+cognitive therapy	helps with	cognitive functions
+rehabilitation care	includes	psychological therapy
+psychological therapy	helps with	mental health
+rehabilitation care	includes	social work
+social work	provides	support
+rehabilitation care	includes	nutritional therapy
+nutritional therapy	helps with	diet
+rehabilitation care	involves	prostheses fitting
+prostheses fitting	helps with	mobility
+rehabilitation care	involves	assistive devices adjustment
+assistive devices adjustment	improves	functionality
+rehabilitation care	involves	wheelchair fitting
+wheelchair fitting	improves	mobility
+rehabilitation care	involves	walker fitting
+walker fitting	improves	stability
+rehabilitation care	involves	cane fitting
+cane fitting	improves	balance
+rehabilitation care	involves	crutch fitting
+crutch fitting	aids in	walking
+rehabilitation care	involves	communication device adjustment
+communication device adjustment	enhances	communication
+rehabilitation care	involves	hearing aid fitting
+hearing aid fitting	improves	hearing
+rehabilitation care	involves	vision aid adjustment
+vision aid adjustment	enhances	vision
+rehabilitation care	involves	sensory device fitting
+sensory device fitting	improves	sensory input
+rehabilitation care	involves	adaptive equipment adjustments
+adaptive equipment adjustments	increases	independence

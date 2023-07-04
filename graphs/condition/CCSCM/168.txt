@@ -1,0 +1,213 @@
+inflammatory diseases of female pelvic organs	can lead to	pelvic pain
+pelvic pain	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	infertility
+infertility	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are commonly caused by	sexually transmitted infections
+sexually transmitted infections	increase the risk of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are diagnosed using	pelvic exam
+pelvic exam	is a diagnostic tool for	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the likelihood of	ectopic pregnancy
+ectopic pregnancy	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may require	surgical intervention
+surgical intervention	is sometimes necessary for	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are treated with	antibiotics
+antibiotics	are used to treat	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	chronic pain
+chronic pain	is a long-term consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	adhesions
+adhesions	are commonly seen in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	scarring
+scarring	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	ovarian cysts
+ovarian cysts	are more likely to occur in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	menstrual irregularities
+menstrual irregularities	are a common symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	abscess formation
+abscess formation	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	tubal factor infertility
+tubal factor infertility	can result from	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can increase the risk of	pelvic organ prolapse
+pelvic organ prolapse	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may require	hormonal therapy
+hormonal therapy	is used in the treatment of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	urinary symptoms
+urinary symptoms	are often seen in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	sexual dysfunction
+sexual dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	increased risk of pelvic adhesions
+increased risk of pelvic adhesions	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	chronic pelvic inflammation
+chronic pelvic inflammation	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube blockage
+fallopian tube blockage	is an outcome of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are more common in	sexually active individuals
+sexually active individuals	have a higher risk of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	chronic infection
+chronic infection	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	chronic pelvic pain
+chronic pelvic pain	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	fallopian tube damage
+fallopian tube damage	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may cause	painful intercourse
+painful intercourse	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	endometriosis
+endometriosis	is more likely to occur in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	pelvic abscess
+pelvic abscess	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic pelvic inflammation
+chronic pelvic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	tubo-ovarian abscess
+tubo-ovarian abscess	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube scarring
+fallopian tube scarring	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	chronic scarring
+chronic scarring	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	ovarian dysfunction
+ovarian dysfunction	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	recurrent infections
+recurrent infections	are commonly seen in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	chronic pain
+chronic pain	is a long-term consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	adhesion formation
+adhesion formation	is commonly observed in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	pelvic organ dysfunction
+pelvic organ dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	menstrual irregularities
+menstrual irregularities	are a common symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	abscess formation
+abscess formation	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	tubal factor infertility
+tubal factor infertility	can result from	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can increase the risk of	pelvic organ prolapse
+pelvic organ prolapse	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may require	hormonal therapy
+hormonal therapy	is used in the treatment of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	urinary symptoms
+urinary symptoms	are often seen in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	sexual dysfunction
+sexual dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	increased risk of pelvic adhesions
+increased risk of pelvic adhesions	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	chronic pelvic inflammation
+chronic pelvic inflammation	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube blockage
+fallopian tube blockage	is an outcome of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are more common in	sexually active individuals
+sexually active individuals	have a higher risk of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	chronic infection
+chronic infection	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	chronic pelvic pain
+chronic pelvic pain	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	fallopian tube damage
+fallopian tube damage	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may cause	painful intercourse
+painful intercourse	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	endometriosis
+endometriosis	is more likely to occur in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	pelvic abscess
+pelvic abscess	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic pelvic inflammation
+chronic pelvic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	tubo-ovarian abscess
+tubo-ovarian abscess	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube scarring
+fallopian tube scarring	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	chronic scarring
+chronic scarring	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	ovarian dysfunction
+ovarian dysfunction	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	recurrent infections
+recurrent infections	are commonly seen in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	chronic pain
+chronic pain	is a long-term consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	adhesion formation
+adhesion formation	is commonly observed in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	pelvic organ dysfunction
+pelvic organ dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	menstrual irregularities
+menstrual irregularities	are a common symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	abscess formation
+abscess formation	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	tubal factor infertility
+tubal factor infertility	can result from	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can increase the risk of	pelvic organ prolapse
+pelvic organ prolapse	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may require	hormonal therapy
+hormonal therapy	is used in the treatment of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	urinary symptoms
+urinary symptoms	are often seen in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	sexual dysfunction
+sexual dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	increased risk of pelvic adhesions
+increased risk of pelvic adhesions	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	chronic pelvic inflammation
+chronic pelvic inflammation	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube blockage
+fallopian tube blockage	is an outcome of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are more common in	sexually active individuals
+sexually active individuals	have a higher risk of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	chronic infection
+chronic infection	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	chronic pelvic pain
+chronic pelvic pain	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	fallopian tube damage
+fallopian tube damage	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may cause	painful intercourse
+painful intercourse	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	endometriosis
+endometriosis	is more likely to occur in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	pelvic abscess
+pelvic abscess	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic pelvic inflammation
+chronic pelvic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	tubo-ovarian abscess
+tubo-ovarian abscess	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube scarring
+fallopian tube scarring	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	chronic scarring
+chronic scarring	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	increase the risk of	ovarian dysfunction
+ovarian dysfunction	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	recurrent infections
+recurrent infections	are commonly seen in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can lead to	chronic pain
+chronic pain	is a long-term consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	adhesion formation
+adhesion formation	is commonly observed in	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may result in	pelvic organ dysfunction
+pelvic organ dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	menstrual irregularities
+menstrual irregularities	are a common symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	chronic inflammation
+chronic inflammation	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	abscess formation
+abscess formation	is a complication of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are linked to	tubal factor infertility
+tubal factor infertility	can result from	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can increase the risk of	pelvic organ prolapse
+pelvic organ prolapse	is more common in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may require	hormonal therapy
+hormonal therapy	is used in the treatment of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	urinary symptoms
+urinary symptoms	are often seen in	individuals with inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can result in	sexual dysfunction
+sexual dysfunction	is a consequence of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are associated with	increased risk of pelvic adhesions
+increased risk of pelvic adhesions	is a characteristic of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	may lead to	chronic pelvic inflammation
+chronic pelvic inflammation	is a symptom of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	can cause	fallopian tube blockage
+fallopian tube blockage	is an outcome of	inflammatory diseases of female pelvic organs
+inflammatory diseases of female pelvic organs	are more common in	sexually active individuals

@@ -1,0 +1,101 @@
+other infections	can cause	gastrointestinal symptoms
+parasitic infections	can cause	malnutrition
+parasitic infections	can lead to	anemia
+parasitic infections	are treated with	anti-parasitic medications
+other infections	can be prevented by	proper hygiene practices
+parasitic infections	can be transmitted through	contaminated water
+parasitic infections	can be diagnosed with	stool tests
+other infections	may require	antibiotic treatment
+parasitic infections	can cause	skin rashes
+parasitic infections	can affect	multiple organ systems
+other infections	can result in	fever
+parasitic infections	can be transmitted by	insect vectors
+parasitic infections	can cause	chronic fatigue
+parasitic infections	can lead to	organ damage
+other infections	can be transmitted through	respiratory droplets
+parasitic infections	can be prevented by	avoiding contact with contaminated soil
+parasitic infections	can cause	diarrhea
+other infections	can be caused by	bacteria
+parasitic infections	can be diagnosed with	blood tests
+parasitic infections	can cause	weight loss
+other infections	can be transmitted through	sexual contact
+parasitic infections	can be prevented by	wearing protective clothing
+parasitic infections	can cause	neurological symptoms
+other infections	may require	antiviral treatment
+parasitic infections	can be transmitted through	food and water
+parasitic infections	can cause	liver damage
+other infections	can result in	respiratory symptoms
+parasitic infections	can be prevented by	avoiding insect bites
+parasitic infections	can cause	cognitive impairment
+other infections	can be transmitted through	blood transfusions
+parasitic infections	can be diagnosed with	imaging tests
+parasitic infections	can cause	infertility
+other infections	can be caused by	viruses
+parasitic infections	can be prevented by	practicing safe sex
+parasitic infections	can cause	heart problems
+other infections	can result in	skin infections
+parasitic infections	can be transmitted through	mother-to-child transmission
+parasitic infections	can cause	gastrointestinal bleeding
+other infections	can be transmitted through	contaminated food
+parasitic infections	can be diagnosed with	tissue biopsy
+parasitic infections	can cause	respiratory distress
+other infections	can be prevented by	vaccination
+parasitic infections	can cause	joint pain
+parasitic infections	can lead to	immune suppression
+other infections	can result in	urinary tract infections
+parasitic infections	can be transmitted through	close contact with infected individuals
+parasitic infections	can cause	eye problems
+other infections	can be transmitted through	animal bites
+parasitic infections	can be diagnosed with	serologic tests
+parasitic infections	can cause	chronic pain
+other infections	can be caused by	fungi
+parasitic infections	can be prevented by	avoiding swimming in contaminated water
+parasitic infections	can cause	anemia
+other infections	can result in	meningitis
+parasitic infections	can be transmitted through	contaminated blood
+parasitic infections	can cause	skin ulcers
+other infections	can be transmitted through	fecal-oral route
+parasitic infections	can be diagnosed with	antigen tests
+parasitic infections	can cause	depression
+other infections	can be prevented by	maintaining good personal hygiene
+parasitic infections	can cause	seizures
+parasitic infections	can lead to	developmental delays
+other infections	can result in	sepsis
+parasitic infections	can be transmitted through	contaminated soil
+parasitic infections	can cause	cognitive dysfunction
+other infections	can be transmitted through	contaminated water sources
+parasitic infections	can be diagnosed with	PCR tests
+parasitic infections	can cause	neuropathy
+other infections	can be caused by	parasites
+parasitic infections	can be prevented by	using insect repellent
+parasitic infections	can cause	kidney damage
+other infections	can result in	pneumonia
+parasitic infections	can be transmitted through	unsafe sexual practices
+parasitic infections	can cause	chronic inflammation
+other infections	can be transmitted through	respiratory secretions
+parasitic infections	can be diagnosed with	chest X-rays
+parasitic infections	can cause	digestive problems
+other infections	can be prevented by	practicing safe food handling
+parasitic infections	can cause	muscle weakness
+parasitic infections	can lead to	growth stunting
+other infections	can result in	meningococcal disease
+parasitic infections	can be transmitted through	contaminated swimming pools
+parasitic infections	can cause	psychological symptoms
+other infections	can be transmitted through	skin-to-skin contact
+parasitic infections	can be diagnosed with	urine tests
+parasitic infections	can cause	heart failure
+other infections	can be prevented by	avoiding close contact with infected individuals
+parasitic infections	can cause	chronic diarrhea
+parasitic infections	can lead to	developmental disabilities
+other infections	can result in	hepatitis
+parasitic infections	can be transmitted through	contaminated surfaces
+parasitic infections	can cause	liver failure
+other infections	can be transmitted through	contaminated objects
+parasitic infections	can be diagnosed with	skin biopsy
+parasitic infections	can cause	vision problems
+other infections	can be prevented by	getting vaccinated
+parasitic infections	can cause	infertility
+parasitic infections	can lead to	cognitive decline
+other infections	can result in	wound infections
+parasitic infections	can be transmitted through	insect bites
+parasitic infections	can cause	digestive disorders

@@ -1,0 +1,84 @@
+e codes	are used for	coding
+e codes	are used for	classifying
+poisoning	is a	medical condition
+poisoning	can result from	ingestion
+poisoning	can result from	inhalation
+poisoning	can result from	injection
+poisoning	can result from	contact
+poisoning	can result from	absorption
+poisoning	can lead to	organ damage
+poisoning	can lead to	death
+poisoning	can be caused by	medications
+poisoning	can be caused by	chemicals
+poisoning	can be caused by	toxins
+poisoning	can be categorized as	accidental
+poisoning	can be categorized as	intentional
+poisoning	can be categorized as	self-inflicted
+poisoning	can be categorized as	occupational
+poisoning	can be categorized as	environmental
+poisoning	can be categorized as	medical
+poisoning	requires	immediate treatment
+poisoning	requires	decontamination
+poisoning	can be diagnosed using	blood tests
+poisoning	can be diagnosed using	urine tests
+poisoning	can be diagnosed using	imaging tests
+poisoning	can be diagnosed using	toxicology screens
+poisoning	is treated with	antidotes
+activated charcoal	is an	antidote
+naloxone	is an	antidote
+antidotes	can reverse	poisoning
+poisoning	requires	supportive care
+poisoning	may result in	hospitalization
+poisoning	may require	intensive care
+poisoning	may necessitate	ventilation
+poisoning	can cause	long-term complications
+poisoning	can cause	respiratory failure
+poisoning	can cause	cardiac arrest
+poisoning	can cause	liver damage
+poisoning	can cause	kidney failure
+poisoning	can cause	neurological disorders
+poisoning	can cause	gastrointestinal disturbances
+poisoning	can cause	skin irritation
+poisoning	can cause	allergic reactions
+poisoning	can result in	disability
+poisoning	can result in	cognitive impairment
+poisoning	can result in	chronic conditions
+poisoning	can result in	death
+poisoning	requires	monitoring
+poisoning	requires	follow-up care
+poisoning	can lead to	long-term health effects
+poisoning	can increase the risk of	future poisonings
+poisoning	prevention includes	proper storage
+poisoning	prevention includes	childproofing
+poisoning	prevention includes	education
+poisoning	prevention includes	safe handling
+poisoning	prevention includes	labeling
+poison control center	provides	guidance
+poison control center	provides	emergency assistance
+poison control center	provides	treatment advice
+poison control center	provides	poison information
+poison control center	should be contacted	in case of poisoning
+poison prevention hotline	offers	support
+poison prevention hotline	offers	resources
+poison prevention hotline	offers	education
+poison prevention hotline	provides	guidance
+poison prevention hotline	provides	information
+poison prevention hotline	can be called	for assistance
+poison prevention hotline	can be called	in emergencies
+poison prevention hotline	can provide	poison control advice
+poison prevention hotline	can provide	first aid instructions
+poison prevention hotline	can provide	immediate help
+poison prevention	is crucial for	public health
+poison prevention	aims to	reduce morbidity
+poison prevention	aims to	decrease mortality
+poison prevention	aims to	raise awareness
+poison prevention	aims to	promote safety
+poison prevention	requires	collaboration
+poison prevention	involves	healthcare providers
+poison prevention	involves	parents
+poison prevention	involves	educators
+poison prevention	involves	policymakers
+poison prevention	involves	community organizations
+poison prevention	involves	public health campaigns
+poison prevention	involves	research
+poison prevention	involves	legislation

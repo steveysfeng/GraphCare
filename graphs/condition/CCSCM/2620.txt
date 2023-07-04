@@ -1,0 +1,144 @@
+e codes	are used for	coding medical diagnoses and procedures
+unspecified	is a type of	e code
+unspecified	can be used for	non-specific diagnoses
+unspecified	can be used for	undetermined intent
+unspecified	can be used for	unspecified accidents
+unspecified	can be used for	unspecified events
+unspecified	can be used for	unspecified injury
+unspecified	can be used for	unspecified poisoning
+unspecified	can be used for	unspecified reaction
+unspecified	can be used for	unspecified site
+unspecified	can be used for	unspecified time
+unspecified	can be used for	unspecified transport accident
+unspecified	can be used for	unspecified vehicle
+unspecified	can be used for	unspecified youth
+unspecified	can be used for	unspecified circumstance
+unspecified	can be used for	unspecified relationship
+unspecified	can be used for	unspecified criminal activity
+unspecified	can be used for	unspecified intent
+unspecified	can be used for	unspecified type
+unspecified	can be used for	unspecified abnormal findings
+unspecified	can be used for	unspecified disorder
+unspecified	can be used for	unspecified episode of care
+unspecified	can be used for	unspecified site
+unspecified	can be used for	unspecified state
+unspecified	can be used for	unspecified disease
+unspecified	can be used for	unspecified procedure
+unspecified	can be used for	unspecified services
+unspecified	can be used for	unspecified status
+unspecified	can be used for	unspecified uncertainty
+unspecified	can be used for	unspecified cause
+unspecified	can be used for	unspecified event
+unspecified	can be used for	unspecified condition
+unspecified	can be used for	unspecified patient
+unspecified	can be used for	unspecified results
+unspecified	can be used for	unspecified complication
+unspecified	can be used for	unspecified reason
+unspecified	can be used for	unspecified substance
+unspecified	can be used for	unspecified behavior
+unspecified	can be used for	unspecified accident
+unspecified	can be used for	unspecified objective findings
+unspecified	can be used for	unspecified signs
+unspecified	can be used for	unspecified symptoms
+unspecified	can be used for	unspecified non-specific findings
+unspecified	can be used for	unspecified history
+unspecified	can be used for	unspecified circumstance
+unspecified	can be used for	unspecified encounter
+unspecified	can be used for	unspecified mechanisms
+unspecified	can be used for	unspecified pathology
+unspecified	can be used for	unspecified disease process
+unspecified	can be used for	unspecified manifestations
+unspecified	can be used for	unspecified injury
+unspecified	can be used for	unspecified disorder
+unspecified	can be used for	unspecified identification
+unspecified	can be used for	unspecified episode
+unspecified	can be used for	unspecified site
+unspecified	can be used for	unspecified adverse effect
+unspecified	can be used for	unspecified complications
+unspecified	can be used for	unspecified infection
+unspecified	can be used for	unspecified symptom
+unspecified	can be used for	unspecified etiology
+unspecified	can be used for	unspecified device
+unspecified	can be used for	unspecified care
+unspecified	can be used for	unspecified body
+unspecified	can be used for	unspecified finding
+unspecified	can be used for	unspecified operations
+unspecified	can be used for	unspecified objective
+unspecified	can be used for	unspecified diagnosis
+unspecified	can be used for	unspecified reason
+unspecified	can be used for	unspecified location
+unspecified	can be used for	unspecified stage
+unspecified	can be used for	unspecified time
+unspecified	can be used for	unspecified drug
+unspecified	can be used for	unspecified vaccination
+unspecified	can be used for	unspecified medical history
+unspecified	can be used for	unspecified code
+unspecified	can be used for	unspecified medicament
+unspecified	can be used for	unspecified carcinoma
+unspecified	can be used for	unspecified operation
+unspecified	can be used for	unspecified category
+unspecified	can be used for	unspecified wound
+unspecified	can be used for	unspecified health care
+unspecified	can be used for	unspecified clinical finding
+unspecified	can be used for	unspecified therapeutic
+unspecified	can be used for	unspecified therapy
+unspecified	can be used for	unspecified modality
+unspecified	can be used for	unspecified impairment
+unspecified	can be used for	unspecified skills
+unspecified	can be used for	unspecified care provider
+unspecified	can be used for	unspecified injury
+unspecified	can be used for	unspecified disease state
+unspecified	can be used for	unspecified removal
+unspecified	can be used for	unspecified organ
+unspecified	can be used for	unspecified death
+unspecified	can be used for	unspecified medication
+unspecified	can be used for	unspecified histopathology
+unspecified	can be used for	unspecified radiology
+unspecified	can be used for	unspecified external agency
+unspecified	can be used for	unspecified effects
+unspecified	can be used for	unspecified mechanism
+unspecified	can be used for	unspecified system
+unspecified	can be used for	unspecified biological agent
+unspecified	can be used for	unspecified causality
+unspecified	can be used for	unspecified complication
+unspecified	can be used for	unspecified entity
+unspecified	can be used for	unspecified stimulant
+unspecified	can be used for	unspecified intervention
+unspecified	can be used for	unspecified pathologic process
+unspecified	can be used for	unspecified service
+unspecified	can be used for	unspecified operation
+unspecified	can be used for	unspecified prostatic disorder
+unspecified	can be used for	unspecified subarachnoid hemorrhage
+unspecified	can be used for	unspecified chemical substance
+unspecified	can be used for	unspecified physical exertion
+unspecified	can be used for	unspecified abnormal laboratory findings
+unspecified	can be used for	unspecified normal findings
+unspecified	can be used for	unspecified non-diagnostic findings
+unspecified	can be used for	unspecified patient characteristics
+unspecified	can be used for	unspecified caretaker
+unspecified	can be used for	unspecified condition or state
+unspecified	can be used for	unspecified microorganism
+unspecified	can be used for	unspecified biological process
+unspecified	can be used for	unspecified medication effect
+unspecified	can be used for	unspecified therapy technique
+unspecified	can be used for	unspecified diagnosis technique
+unspecified	can be used for	unspecified therapy procedure
+unspecified	can be used for	unspecified therapeutic procedure
+unspecified	can be used for	unspecified generic drug
+unspecified	can be used for	unspecified drug-resistant organism
+unspecified	can be used for	unspecified substance use disorder
+unspecified	can be used for	unspecified transition or journey
+unspecified	can be used for	unspecified paramedic care
+unspecified	can be used for	unspecified underlying cause
+unspecified	can be used for	unspecified circulatory disorder
+unspecified	can be used for	unspecified radiographic procedure
+unspecified	can be used for	unspecified biological function
+unspecified	can be used for	unspecified operation
+unspecified	can be used for	unspecified location
+unspecified	can be used for	unspecified approach
+unspecified	can be used for	unspecified techniques
+unspecified	can be used for	unspecified pathological specimen
+unspecified	can be used for	unspecified imaging modality
+unspecified	can be used for	unspecified diagnostic investigation
+unspecified	can be used for	unspecified laboratory findings
+unspecified	can be used for	unspecified procedure causes abnormal reaction

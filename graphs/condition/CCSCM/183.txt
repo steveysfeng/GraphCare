@@ -1,0 +1,7 @@
+hypertension complicating pregnancy	is a	medical condition
+hypertension complicating pregnancy	may lead to	preeclampsia
+preeclampsia	can cause	fetal growth restriction
+pregnant women	should monitor	blood pressure regularly
+hypertension complicating pregnancy	is treated with	antihypertensive drugs
+methyldopa	is an	antihypertensive drug
+monitoring blood pressure	is important for	managing hypertension

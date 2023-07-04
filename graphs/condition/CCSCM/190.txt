@@ -1,0 +1,229 @@
+fetal distress	is a	medical condition
+fetal distress	can lead to	neonatal asphyxia
+cesarean section	is a	surgical procedure
+cesarean section	is performed to	relieve fetal distress
+oxytocin	is a	medication
+oxytocin	is used to	induce labor
+abnormal forces of labor	can lead to	fetal distress
+episiotomy	is a	surgical procedure
+episiotomy	is performed to	prevent tearing during childbirth
+forceps delivery	is a	method of assisted vaginal delivery
+forceps delivery	is used for	abnormal forces of labor
+epidural anesthesia	is a	pain relief method
+epidural anesthesia	can be used during	abnormal forces of labor
+neonatal asphyxia	is a	medical condition
+neonatal asphyxia	can cause	long-term neurological damage
+monitoring	is a	method to assess fetal well-being
+monitoring	is performed during	abnormal forces of labor
+signs of fetal distress	include	abnormal heart rate patterns
+NICU	is a	specialized unit for newborn care
+NICU	is needed for	babies with neonatal asphyxia
+neonatal resuscitation	is a	procedure to revive a newborn
+neonatal resuscitation	may be required for	babies with fetal distress
+continuous electronic fetal monitoring	is a	method to monitor fetal heart rate
+continuous electronic fetal monitoring	is used during	abnormal forces of labor
+preventive measures	can help reduce	abnormal forces of labor
+uterine rupture	is a	rare but serious complication
+uterine rupture	can be a result of	abnormal forces of labor
+amniotomy	is a	procedure to artificially break the amniotic sac
+amniotomy	can be performed to	speed up labor
+vacuum extraction	is a	method of assisted vaginal delivery
+vacuum extraction	is used for	abnormal forces of labor
+neonatal intensive care	is a	specialized unit for sick newborns
+neonatal intensive care	may be required for	babies with neonatal asphyxia
+forceps	are a	surgical instrument
+forceps	are used for	forceps delivery
+epidural analgesia	is a	pain relief method
+epidural analgesia	can be used during	abnormal forces of labor
+resuscitation	is a	procedure to revive a person
+resuscitation	may be needed for	babies with neonatal asphyxia
+induction of labor	is a	method to start labor artificially
+induction of labor	can be used for	abnormal forces of labor
+vacuum electrode	is a	device to monitor fetal heart rate
+vacuum electrode	is used during	abnormal forces of labor
+perinatal mortality	is the	death of a baby before or shortly after birth
+perinatal mortality	can occur due to	fetal distress
+intrauterine growth restriction	is a	condition where the baby does not grow properly
+intrauterine growth restriction	can cause	fetal distress
+maternal hypotension	is low blood pressure in the mother
+maternal hypotension	can be a result of	epidural anesthesia
+umbilical cord compression	is the	compression of the umbilical cord
+umbilical cord compression	can cause	fetal distress
+nonreassuring fetal status	is a	term used to describe worrisome signs in the baby
+nonreassuring fetal status	can indicate	fetal distress
+perineal tear	is a	tear in the area between the vagina and anus
+perineal tear	can occur during	abnormal forces of labor
+meconium-stained amniotic fluid	is amniotic fluid stained with meconium
+meconium-stained amniotic fluid	can indicate	fetal distress
+intrauterine fetal death	is the	death of the baby inside the uterus
+intrauterine fetal death	can result from	abnormal forces of labor
+placental abruption	is the	separation of the placenta from the uterus
+placental abruption	can cause	fetal distress
+cardiotocography	is a	method to monitor fetal heart rate and contractions
+cardiotocography	is used during	abnormal forces of labor
+fetal heart rate monitoring	is a	method to monitor the baby's heart rate
+fetal heart rate monitoring	is performed during	abnormal forces of labor
+neonatal intensive care unit	is a	specialized unit for sick newborns
+neonatal intensive care unit	may be needed for	babies with neonatal asphyxia
+uterine contractions	are	contractions of the uterus
+uterine contractions	can be monitored during	abnormal forces of labor
+umbilical artery pH	is a	measure of acid-base balance in the baby
+umbilical artery pH	may be tested to assess	neonatal asphyxia
+amniotic fluid index	is a	measure of the amount of amniotic fluid
+amniotic fluid index	can be assessed during	abnormal forces of labor
+umbilical artery blood gas analysis	is a	method to assess acid-base balance in the baby
+umbilical artery blood gas analysis	can be performed to evaluate	neonatal asphyxia
+apgar score	is a	measure of the baby's well-being at birth
+apgar score	may be low in	babies with fetal distress
+umbilical venous pH	is a	measure of acid-base balance in the baby
+umbilical venous pH	may be tested to assess	neonatal asphyxia
+chorioamnionitis	is an	infection of the placental tissues and amniotic fluid
+chorioamnionitis	can cause	fetal distress
+uterine rupture	is a	rare but serious complication
+uterine rupture	can be a result of	abnormal forces of labor
+continuous fetal monitoring	is a	method to monitor fetal heart rate and uterine contractions
+continuous fetal monitoring	is used during	abnormal forces of labor
+maternal fever	is an	elevated body temperature in the mother
+maternal fever	can indicate	chorioamnionitis
+umbilical cord prolapse	is the	descent of the umbilical cord into the birth canal
+umbilical cord prolapse	can cause	fetal distress
+neonatal resuscitation team	is a	specialized team for reviving newborns
+neonatal resuscitation team	may be called for	babies with fetal distress
+umbilical cord blood gas analysis	is a	method to assess acid-base balance in the baby
+umbilical cord blood gas analysis	can be performed to evaluate	neonatal asphyxia
+fetal blood sampling	is a	procedure to obtain a sample of the baby's blood
+fetal blood sampling	can be performed to assess	fetal distress
+neonatal seizure	is a	seizure occurring in a newborn
+neonatal seizure	can be a symptom of	neonatal asphyxia
+cervical ripening	is the	softening and thinning of the cervix
+cervical ripening	can be induced for	abnormal forces of labor
+cardiotocogram	is a	graphical representation of fetal heart rate and contractions
+cardiotocogram	is used to assess	fetal distress
+biophysical profile	is a	method to assess fetal well-being
+biophysical profile	can indicate	fetal distress
+chorionic villus sampling	is a	prenatal test to diagnose genetic or chromosomal disorders
+chorionic villus sampling	can be performed if there is	fetal distress
+meconium aspiration syndrome	is a	respiratory condition in newborns
+meconium aspiration syndrome	can occur if the baby inhales	meconium-stained amniotic fluid
+uterine atony	is the	inability of the uterus to contract properly
+uterine atony	can be a result of	abnormal forces of labor
+intermittent auscultation	is a	method to listen to the baby's heart rate during labor
+intermittent auscultation	can be used to monitor	abnormal forces of labor
+maternal lateral position	is the	position of the mother lying on her side
+maternal lateral position	can help alleviate	umbilical cord compression
+fetal surveillance	is the	monitoring of the baby's well-being during labor
+fetal surveillance	is important for detecting	fetal distress
+vacuum	is a	device used for assisted vaginal delivery
+vacuum	is used for	vacuum extraction
+augmentation of labor	is a	method to speed up labor
+augmentation of labor	can be performed for	abnormal forces of labor
+meconium passage	is the	release of meconium by the baby
+meconium passage	can be a sign of	fetal distress
+uterine hyperstimulation	is excessive contractions of the uterus
+uterine hyperstimulation	can be caused by	oxytocin
+neonatal encephalopathy	is a	brain dysfunction in newborns
+neonatal encephalopathy	can result from	neonatal asphyxia
+cord blood gas analysis	is a	method to assess acid-base balance in the baby
+cord blood gas analysis	can be performed to evaluate	neonatal asphyxia
+neonatal intensive care support	is	specialized care for sick newborns
+neonatal intensive care support	may be required for	babies with neonatal asphyxia
+advanced labor support	is	specialized care for women in labor
+advanced labor support	can be beneficial for	abnormal forces of labor
+chorionic membrane	is the	outermost membrane surrounding the baby
+chorionic membrane	can be ruptured during	abnormal forces of labor
+uterine contraction monitoring	is a	method to assess the strength and frequency of uterine contractions
+uterine contraction monitoring	is important for detecting	abnormal forces of labor
+intrapartum fetal monitoring	is a	method to monitor the baby's well-being during labor
+intrapartum fetal monitoring	is performed during	abnormal forces of labor
+respiratory distress syndrome	is a	breathing disorder in newborns
+respiratory distress syndrome	can occur due to	neonatal asphyxia
+preterm birth	is the	birth of a baby before 37 weeks of gestation
+preterm birth	can be a result of	abnormal forces of labor
+fetal scalp electrode	is a	device to monitor fetal heart rate
+fetal scalp electrode	is used during	abnormal forces of labor
+fetal distress assessment	is the	evaluation of signs indicating fetal distress
+fetal distress assessment	is important for timely interventions
+forceps-assisted vaginal delivery	is a	method to deliver the baby using forceps
+forceps-assisted vaginal delivery	can be done for	abnormal forces of labor
+intensive care unit	is a	specialized unit for critically ill patients
+intensive care unit	may be needed for	babies with neonatal asphyxia
+prolonged deceleration	is a	sustained decrease in fetal heart rate
+prolonged deceleration	can indicate	fetal distress
+perioperative care	is	care before	during	and after a surgical procedure
+perioperative care	is important for	cesarean section
+fetal resuscitation	is a	procedure to revive a baby
+fetal resuscitation	may be performed for	babies with fetal distress
+meconium-stained liquor	is amniotic fluid stained with meconium
+meconium-stained liquor	can indicate	fetal distress
+intrapartum care	is	care during labor and delivery
+intrapartum care	is important for managing	abnormal forces of labor
+amniotic fluid embolism	is a	rare yet life-threatening condition
+amniotic fluid embolism	can cause	fetal distress
+perinatal morbidity	is	illness or injury before or shortly after birth
+perinatal morbidity	can be a result of	fetal distress
+neonatal morbidity	is	illness or injury in the newborn period
+neonatal morbidity	can be a result of	neonatal asphyxia
+umbilical artery Doppler	is a	method to assess blood flow in the baby
+umbilical artery Doppler	may be performed to evaluate	fetal distress
+umbilical vessel Doppler	is a	method to assess blood flow in the umbilical cord
+umbilical vessel Doppler	may be performed to evaluate	fetal distress
+elective cesarean section	is a	planned surgical delivery
+elective cesarean section	can be performed for	abnormal forces of labor
+neonatal intensive care team	is a	specialized team for newborn care
+neonatal intensive care team	may be involved in	babies with neonatal asphyxia
+fetal heart rate deceleration	is a	decrease in fetal heart rate
+fetal heart rate deceleration	can indicate	fetal distress
+meconium passage	is the	release of meconium by the baby
+meconium passage	can be a sign of	fetal distress
+forceps-assisted delivery	is a	method to deliver the baby using forceps
+forceps-assisted delivery	may be done for	abnormal forces of labor
+emergency cesarean section	is a	surgical delivery done in emergency situations
+emergency cesarean section	can be performed for	fetal distress
+umbilical cord blood gas analysis	is a	method to assess acid-base balance in the baby
+umbilical cord blood gas analysis	can be performed to evaluate	neonatal asphyxia
+umbilical cord acidosis	is	low pH in the baby's blood
+umbilical cord acidosis	can indicate	neonatal asphyxia
+vacuum cup	is a	suction cup used for vacuum extraction
+vacuum cup	is used for	abnormal forces of labor
+external cephalic version	is a	procedure to reposition a breech baby
+external cephalic version	can be attempted for	abnormal forces of labor
+intrapartum asphyxia	is	lack of oxygen to the baby during labor
+intrapartum asphyxia	can lead to	neonatal asphyxia
+cesarean delivery	is a	surgical delivery
+cesarean delivery	is performed for	fetal distress
+fetal heart rate variability	is	fluctuations in the baby's heart rate
+fetal heart rate variability	can indicate	fetal well-being
+oligohydramnios	is	insufficient amniotic fluid
+oligohydramnios	can indicate	abnormal forces of labor
+indicated cesarean section	is a	surgical delivery done for medical reasons
+indicated cesarean section	can be performed for	fetal distress
+fetal scalp pH	is	measure of acid-base balance in the baby's blood
+fetal scalp pH	may be tested to assess	fetal distress
+fetal blood sampling	is a	method to obtain a sample of the baby's blood
+fetal blood sampling	can be performed to assess	neonatal asphyxia
+cord blood acidosis	is	low pH in the baby's umbilical cord blood
+cord blood acidosis	can indicate	neonatal asphyxia
+alternative delivery	is	an alternative method of delivery other than vaginal birth
+alternative delivery	may be considered for	abnormal forces of labor
+nonreassuring fetal heart rate patterns	are	abnormal heart rate patterns in the baby
+nonreassuring fetal heart rate patterns	can indicate	fetal distress
+uterine rupture	is	rupture of the uterus
+uterine rupture	can cause	fetal distress
+chorioamnionitis	is an	infection of the placental tissues and amniotic fluid
+chorioamnionitis	can cause	fetal distress
+augmented labor	is labor that is stimulated or accelerated with medical interventions
+augmented labor	can be performed for	abnormal forces of labor
+fetal heart rate monitoring	is a	method to monitor the baby's heart rate during labor
+fetal heart rate monitoring	is important for detecting	fetal distress
+fetal heart rate abnormalities	can indicate	fetal distress
+intrapartum fetal surveillance	is	monitoring the baby's well-being during labor
+intrapartum fetal surveillance	is necessary for detecting	abnormal forces of labor
+beat-to-beat variability	is	fluctuations in the baby's heart rate
+beat-to-beat variability	can indicate	fetal well-being
+emergency cesarean delivery	is a	surgical delivery done in emergency situations
+emergency cesarean delivery	can be performed for	fetal distress
+advanced obstetrical care	is	specialized care for women with complications during pregnancy and birth
+advanced obstetrical care	can benefit women with abnormal forces of labor
+cord prolapse	is the	descent of the umbilical cord into the birth canal
+cord prolapse	can cause	fetal distress
+neonatal intensive care	is	specialized care for sick newborns

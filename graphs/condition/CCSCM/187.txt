@@ -1,0 +1,234 @@
+malposition	is a	medical condition
+malposition	can occur during	childbirth
+breech position	is a type of	malposition
+malpresentation	is another term for	malposition
+malposition	increases the risk of	complications
+forceps delivery	may be necessary for	malposition
+malposition	can lead to	prolonged labor
+cesarean section	is often performed for	malposition
+malposition	can result in	fetal distress
+vacuum extraction	is a method used to correct	malposition
+malposition	is diagnosed through	physical examination
+malposition	may require	repositioning
+malposition	can be detected by	ultrasound
+malposition	is associated with	increased pain
+malposition	can cause	maternal discomfort
+malposition	may require	manual manipulation
+malposition	is more common in	primiparous women
+malposition	may need	intervention
+malposition	can be corrected with	maternal repositioning
+malposition	can result in	shoulder dystocia
+malposition	may require	additional monitoring
+malposition	can lead to	birth injuries
+malposition	is related to	abnormal fetal presentation
+malposition	can be caused by	fetal malformation
+malposition	may need	medical intervention
+malposition	can occur in	multiple pregnancies
+malposition	is associated with	increased perinatal morbidity and mortality
+malposition	can be caused by	uterine abnormalities
+malposition	is a risk factor for	postpartum hemorrhage
+malposition	can lead to	umbilical cord prolapse
+malposition	is associated with	preterm birth
+malposition	may require	augmentation of labor
+malposition	can result in	uterine rupture
+malposition	is more common in	breech presentation
+malposition	can cause	fetal compromise
+malposition	may require	labor induction
+malposition	can result in	perineal trauma
+malposition	is more common in	posterior position
+malposition	can increase the risk of	cesarean delivery
+malposition	may require	alternative birthing positions
+malposition	can lead to	obstructed labor
+malposition	is associated with	abnormal fetal heart rate patterns
+malposition	can be caused by	uterine contractions
+malposition	may require	fetal monitoring
+malposition	can result in	birth canal abnormalities
+malposition	is more common in	primigravida women
+malposition	can cause	fetal malposition
+malposition	may require	operative delivery
+malposition	can lead to	episiotomy
+malposition	is related to	maternal obesity
+malposition	can be caused by	fetal anomalies
+malposition	may need	assisted delivery
+malposition	can occur in	posterior presentation
+malposition	is associated with	low birth weight
+malposition	can result in	maternal exhaustion
+malposition	may require	labor augmentation
+malposition	can lead to	neonatal asphyxia
+malposition	is more common in	nulliparous women
+malposition	can cause	uterine rupture
+malposition	may need	cesarean delivery
+malposition	can result in	birth canal dystocia
+malposition	is related to	maternal age
+malposition	can be caused by	abnormal uterine contour
+malposition	may require	fetal repositioning
+malposition	can occur in	transverse lie
+malposition	is associated with	prolonged second stage of labor
+malposition	can lead to	pelvic organ injury
+malposition	may require	obstetric intervention
+malposition	can result in	preeclampsia
+malposition	is more common in	overweight women
+malposition	can cause	fetal compromise
+malposition	may need	operative vaginal delivery
+malposition	can occur in	occiput posterior position
+malposition	is associated with	macrosomia
+malposition	can lead to	maternal hemorrhage
+malposition	may require	external cephalic version
+malposition	can result in	perinatal mortality
+malposition	is related to	maternal hypertension
+malposition	can be caused by	fetal macrosomia
+malposition	may need	intrauterine manipulation
+malposition	can occur in	face presentation
+malposition	is associated with	mid-cavity arrest
+malposition	can lead to	fetal death
+malposition	may require	delivery by cesarean section
+malposition	can result in	malrotation
+malposition	is more common in	women with previous uterine surgery
+malposition	can cause	maternal infection
+malposition	may need	non-pharmacological pain management
+malposition	can occur in	mentum anterior position
+malposition	is associated with	prolonged third stage of labor
+malposition	can lead to	infant morbidity
+malposition	may require	fetal rotation
+malposition	can result in	maternal morbidity
+malposition	is related to	maternal diabetes
+malposition	can be caused by	abnormal fetal presentation
+malposition	may need	manual rotation
+malposition	can occur in	brow presentation
+malposition	is associated with	failed induction of labor
+malposition	can lead to	fetal distress during labor
+malposition	may require	symphysiotomy
+malposition	can result in	postpartum infection
+malposition	is more common in	women with uterine leiomyomas
+malposition	can cause	abnormal uterine bleeding
+malposition	may need	vacuum-assisted delivery
+malposition	can occur in	transverse position
+malposition	is associated with	chorioamnionitis
+malposition	can lead to	fetal distress during delivery
+malposition	may require	internal version
+malposition	can result in	maternal mortality
+malposition	is related to	maternal smoking
+malposition	can be caused by	pelvic abnormalities
+malposition	may need	oxytocin augmentation
+malposition	can occur in	oblique position
+malposition	is associated with	shoulder dystocia
+malposition	can lead to	prolonged second stage of labor
+malposition	may require	forceps delivery
+malposition	can result in	postpartum depression
+malposition	is more common in	women with placenta previa
+malposition	can cause	maternal hypertension
+malposition	may need	cesarean section for delivery
+malposition	can occur in	frank breech position
+malposition	is associated with	umbilical cord entanglement
+malposition	can lead to	fetal infection
+malposition	may require	medical induction of labor
+malposition	can result in	maternal sepsis
+malposition	is related to	maternal obesity
+malposition	can be caused by	abnormal fetal lie
+malposition	may need	external rotation
+malposition	can occur in	footling breech position
+malposition	is associated with	uterine atony
+malposition	can lead to	fetal malformation
+malposition	may require	assisted breech delivery
+malposition	can result in	maternal hemorrhage
+malposition	is more common in	women with prior cesarean delivery
+malposition	can cause	abnormal placentation
+malposition	may need	external cephalic version
+malposition	can occur in	transverse lie position
+malposition	is associated with	fetal hypoxia
+malposition	can lead to	abnormal fetal heart rate
+malposition	may require	transverse lie correction
+malposition	can result in	premature rupture of membranes
+malposition	is related to	maternal birth trauma
+malposition	can be caused by	abnormal uterine contractions
+malposition	may need	instrumental delivery
+malposition	can occur in	asynclitism
+malposition	is associated with	intrauterine growth restriction
+malposition	can lead to	fetal macrosomia
+malposition	may require	maternal postural changes
+malposition	can result in	fetal anoxia
+malposition	is more common in	women with previous myomectomy
+malposition	can cause	fetal asphyxia
+malposition	may need	manual rotation
+malposition	can occur in	mentoanterior position
+malposition	is associated with	amniotic fluid embolism
+malposition	can lead to	preeclampsia
+malposition	may require	version
+malposition	can result in	placenta accreta
+malposition	is related to	maternal anemia
+malposition	can be caused by	pelvic organ prolapse
+malposition	may need	labor augmentation with oxytocin
+malposition	can occur in	breech position
+malposition	is associated with	cephalopelvic disproportion
+malposition	can lead to	prolonged third stage of labor
+malposition	may require	manual extraction
+malposition	can result in	neonatal hypoglycemia
+malposition	is more common in	women with previous cesarean delivery
+malposition	can cause	maternal postpartum depression
+malposition	may need	pharmacological pain management
+malposition	can occur in	shoulder presentation
+malposition	is associated with	retroverted uterus
+malposition	can lead to	fetal death in utero
+malposition	may require	abdominal delivery
+malposition	can result in	placental abruption
+malposition	is related to	maternal smoking during pregnancy
+malposition	can be caused by	abnormal fetal position
+malposition	may need	internal podalic version
+malposition	can occur in	face presentation
+malposition	is associated with	abruptio placentae
+malposition	can lead to	dysfunctional labor
+malposition	may require	symphysiotomy
+malposition	can result in	neonatal sepsis
+malposition	is more common in	women with previous myomectomy
+malposition	can cause	preterm labor
+malposition	may need	manual rotation
+malposition	can occur in	mentoanterior position
+malposition	is associated with	placenta previa
+malposition	can lead to	prolonged second stage of labor
+malposition	may require	instrumental delivery
+malposition	can result in	postpartum hemorrhage
+malposition	is related to	maternal obesity
+malposition	can be caused by	multiple gestations
+malposition	may need	abdominal delivery
+malposition	can occur in	occiput posterior position
+malposition	is associated with	prolonged labor
+malposition	can lead to	neonatal hypothermia
+malposition	may require	forceps-assisted delivery
+malposition	can result in	fetal compromise
+malposition	is more common in	women with previous cesarean delivery
+malposition	can cause	abnormal placentation
+malposition	may need	external cephalic version
+malposition	can occur in	transverse lie
+malposition	is associated with	macrosomia
+malposition	can lead to	maternal hemorrhage
+malposition	may require	intrauterine manipulation
+malposition	can result in	perinatal mortality
+malposition	is related to	fetal malformation
+malposition	can be caused by	abnormal fetal presentation
+malposition	may need	attempted version
+malposition	can occur in	brow presentation
+malposition	is associated with	breech extraction
+malposition	can lead to	abnormal fetal heart rate during labor
+malposition	may require	cesarean delivery
+malposition	can result in	birth canal dystocia
+malposition	is more common in	women with previous uterine surgery
+malposition	can cause	maternal infection
+malposition	may need	non-pharmacological pain management
+malposition	can occur in	mentum anterior position
+malposition	is associated with	prolonged third stage of labor
+malposition	can lead to	infant morbidity
+malposition	may require	internal rotation
+malposition	can result in	maternal morbidity
+malposition	is related to	maternal diabetes
+malposition	can be caused by	abnormal fetal lie
+malposition	may need	operative delivery
+malposition	can occur in	transverse position
+malposition	is associated with	low birth weight
+malposition	can lead to	maternal exhaustion
+malposition	may require	labor augmentation
+malposition	can result in	neonatal asphyxia
+malposition	is more common in	nulliparous women
+malposition	can cause	uterine rupture
+malposition	may need	cesarean delivery
+malposition	can result in	birth canal dystocia
+malposition	is related to	maternal age

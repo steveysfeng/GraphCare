@@ -1,0 +1,220 @@
+pulmonary heart disease	is a	condition
+pulmonary heart disease	can lead to	right heart failure
+cor pulmonale	is another term for	pulmonary heart disease
+pulmonary artery	delivers	deoxygenated blood
+right ventricle	pumps	blood to the lungs
+pulmonary hypertension	is a common cause of	pulmonary heart disease
+chronic obstructive pulmonary disease	is a risk factor for	pulmonary heart disease
+smoking	is a risk factor for	chronic obstructive pulmonary disease
+diuretics	are used to	manage fluid overload in pulmonary heart disease
+warfarin	is used to	prevent blood clots in pulmonary heart disease
+echocardiogram	is a	diagnostic test for pulmonary heart disease
+pulmonary valve stenosis	can lead to	pulmonary heart disease
+beta blockers	are used to	manage symptoms in pulmonary heart disease
+right atrium	receives	deoxygenated blood from the body
+right ventricular hypertrophy	is a sign of	pulmonary heart disease
+left heart failure	can lead to	pulmonary heart disease
+edema	is a symptom of	pulmonary heart disease
+pulmonary embolism	can cause	acute pulmonary heart disease
+cardiac catheterization	is a	procedure used to diagnose and treat pulmonary heart disease
+furosemide	is a	diuretic used in pulmonary heart disease
+sildenafil	is used to	manage pulmonary hypertension in pulmonary heart disease
+aspirin	is used to	prevent blood clots in pulmonary heart disease
+digitalis	is used to	manage symptoms in pulmonary heart disease
+troponin	is a	lab test for acute coronary syndrome in pulmonary heart disease
+anticoagulants	are used to	prevent blood clots in pulmonary heart disease
+coronary artery disease	can lead to	pulmonary heart disease
+mitral valve regurgitation	can lead to	pulmonary heart disease
+weakness	is a symptom of	pulmonary heart disease
+hypoxia	is a	common complication of pulmonary heart disease
+pulmonary capillary wedge pressure	is a	measurement used to assess fluid status in pulmonary heart disease
+oxygen therapy	is used to	treat hypoxia in pulmonary heart disease
+right bundle branch block	is a	common electrocardiogram finding in pulmonary heart disease
+fluid restriction	is recommended in	pulmonary heart disease
+pulmonary artery catheter	is used to	measure hemodynamic parameters in pulmonary heart disease
+dobutamine	is used to	improve cardiac output in pulmonary heart disease
+atrial fibrillation	is a	common arrhythmia in pulmonary heart disease
+prostacyclin	is used to	manage pulmonary hypertension in pulmonary heart disease
+peripheral edema	is a sign of	fluid overload in pulmonary heart disease
+right heart catheterization	is a	procedure used to diagnose and treat pulmonary heart disease
+pulmonary function tests	are used to	assess lung function in pulmonary heart disease
+mitral valve prolapse	can lead to	pulmonary heart disease
+shortness of breath	is a symptom of	pulmonary heart disease
+pleural effusion	can occur in	pulmonary heart disease
+peripheral cyanosis	is a sign of	decreased oxygenation in pulmonary heart disease
+ventricular septal defect	can lead to	pulmonary heart disease
+right-sided heart failure	is a consequence of	pulmonary heart disease
+cardiac MRI	can be used to	evaluate cardiac structure and function in pulmonary heart disease
+pulmonary rehabilitation	can improve exercise tolerance in pulmonary heart disease
+pulmonary valve regurgitation	can lead to	pulmonary heart disease
+hypertension	is a risk factor for	pulmonary heart disease
+coronary angiography	is a	diagnostic test for coronary artery disease in pulmonary heart disease
+hypercapnia	is a	common complication of pulmonary heart disease
+right heart catheterization	is a	procedure used to measure hemodynamic parameters in pulmonary heart disease
+valvular heart disease	can lead to	pulmonary heart disease
+swelling of the legs and ankles	is a symptom of	pulmonary heart disease
+pulmonary function test	is used to	evaluate lung function in pulmonary heart disease
+left ventricular failure	can lead to	pulmonary heart disease
+digital clubbing	is a sign of	chronic hypoxia in pulmonary heart disease
+amiodarone	is used to	manage arrhythmias in pulmonary heart disease
+systolic heart failure	can lead to	pulmonary heart disease
+heart murmur	is a	common finding in pulmonary heart disease
+cough	is a symptom of	pulmonary heart disease
+atrial septal defect	can lead to	pulmonary heart disease
+pulmonary artery pressure	is elevated in	pulmonary heart disease
+bronchodilators	are used to	manage airway obstruction in pulmonary heart disease
+digitalis glycosides	are used to	manage symptoms in pulmonary heart disease
+pulmonary artery catheterization	is a	procedure used to diagnose and monitor pulmonary heart disease
+pulmonary valve	prevents	backflow of blood into the right ventricle
+hypertensive heart disease	can lead to	pulmonary heart disease
+tricuspid valve regurgitation	can lead to	pulmonary heart disease
+cardiac arrhythmias	are a common complication of	pulmonary heart disease
+right heart hypertrophy	is a sign of	pulmonary heart disease
+cardiomegaly	is a	common finding in pulmonary heart disease
+dyspnea on exertion	is a	common symptom of pulmonary heart disease
+right heart failure	is a	complication of pulmonary heart disease
+pulmonary valve stenosis	is a	common congenital heart defect that can lead to pulmonary heart disease
+ventricular septal defect	is a	common congenital heart defect that can lead to pulmonary heart disease
+tricuspid valve	prevents	backflow of blood into the right atrium
+right-sided heart catheterization	is a	diagnostic test for pulmonary heart disease
+Pulmonary Function Test	is used to	assess lung function in pulmonary heart disease
+hyperventilation	is a	common symptom of pulmonary heart disease
+cardioversion	can be performed to	restore normal heart rhythm in pulmonary heart disease
+right heart	receives	deoxygenated blood from the right atrium
+pulmonary edema	can occur in	pulmonary heart disease
+ventricular fibrillation	is a	life-threatening arrhythmia in pulmonary heart disease
+right ventricular failure	can lead to	pulmonary heart disease
+pulmonary valve	regulates	blood flow from the right ventricle into the pulmonary artery
+mitral valve	prevents	backflow of blood into the left atrium
+cardiac stress test	can be used to	assess exercise capacity in pulmonary heart disease
+heart failure with preserved ejection fraction	can lead to	pulmonary heart disease
+ventricular tachycardia	is a	life-threatening arrhythmia in pulmonary heart disease
+cardiopulmonary bypass	is a	procedure used for surgical repair of congenital heart defects in pulmonary heart disease
+right atrial enlargement	is a	sign of pulmonary hypertension in pulmonary heart disease
+thoracentesis	may be performed to	remove excess fluid from the pleural space in pulmonary heart disease
+tricuspid valve stenosis	can lead to	pulmonary heart disease
+atrial septal defect	is a	common congenital heart defect that can lead to pulmonary heart disease
+cor pulmonale	can lead to	right-sided heart failure
+pulmonary valve regurgitation	can lead to	pulmonary heart disease
+right atrium	delivers	deoxygenated blood to the right ventricle
+right heart catheterization	measures	pulmonary artery pressures in pulmonary heart disease
+coronary artery disease	is a	risk factor for pulmonary heart disease
+ventricular septal defect	is a	common congenital heart defect that can lead to pulmonary heart disease
+tricuspid valve	regulates	blood flow from the right atrium into the right ventricle
+right ventricle	receives	deoxygenated blood from the right atrium
+valvular heart disease	is a	risk factor for pulmonary heart disease
+exercise intolerance	is a	common symptom of pulmonary heart disease
+right-sided heart failure	can be caused by	pulmonary heart disease
+pulmonary angiography	is a	diagnostic test for pulmonary embolism in pulmonary heart disease
+right ventricular dysfunction	can lead to	pulmonary heart disease
+pulmonary artery pressure	is measured with	a pulmonary artery catheter
+tricuspid valve regurgitation	is a	common complication of pulmonary heart disease
+hypertrophic cardiomyopathy	can lead to	pulmonary heart disease
+S3 gallop	is a	heart sound associated with fluid overload in pulmonary heart disease
+right atrial pressure	is elevated in	pulmonary heart disease
+right heart catheterization	measures	right heart pressures in pulmonary heart disease
+mitral stenosis	can cause	pulmonary heart disease
+right bundle branch block	is a	conduction abnormality seen in pulmonary heart disease
+cardiac tamponade	can occur in	pulmonary heart disease
+right atrial pressure	is a	measurement used to assess fluid status in pulmonary heart disease
+pulmonary artery catheterization	is a	procedure used to measure pulmonary artery pressures in pulmonary heart disease
+digital clubbing	is a sign of	chronic hypoxia in pulmonary heart disease
+right ventricular hypertrophy	is a	common finding in pulmonary heart disease
+pulmonary hypertension	is a	common complication of pulmonary heart disease
+mitral valve regurgitation	can lead to	pulmonary heart disease
+beta blockers	are used to	manage symptoms in pulmonary heart disease
+coronary angiography	is a	diagnostic test for coronary artery disease in pulmonary heart disease
+chronic hypoxia	is a	risk factor for pulmonary heart disease
+digitalis	is used to	manage symptoms in pulmonary heart disease
+right-sided heart catheterization	is a	diagnostic test for pulmonary heart disease
+pulmonary valve	prevents	backflow of blood into the right ventricle
+aspirin	is used to	prevent blood clots in pulmonary heart disease
+right ventricle	pumps	blood to the lungs
+amyloidosis	can lead to	pulmonary heart disease
+diuretics	are used to	manage fluid overload in pulmonary heart disease
+pericardial effusion	can occur in	pulmonary heart disease
+pulmonary artery	delivers	deoxygenated blood
+peripheral edema	is a sign of	fluid overload in pulmonary heart disease
+right heart hypertrophy	is a	finding in pulmonary heart disease
+pulmonary artery pressure	is elevated in	pulmonary heart disease
+cardiomegaly	is a	common finding in pulmonary heart disease
+ventricular septal defect	can lead to	pulmonary heart disease
+gastroesophageal reflux disease	is a	risk factor for pulmonary heart disease
+cardiopulmonary exercise testing	can be used to	assess exercise capacity in pulmonary heart disease
+pulmonary valve stenosis	can lead to	pulmonary heart disease
+pulmonary function tests	are used to	assess lung function in pulmonary heart disease
+pleural effusion	is a	common finding in pulmonary heart disease
+right ventricular failure	is a	complication of pulmonary heart disease
+pulmonary valve stenosis	is a	common congenital heart defect that can lead to pulmonary heart disease
+pulmonary rehabilitation	can improve exercise tolerance in pulmonary heart disease
+cardiovascular disease	can lead to	pulmonary heart disease
+aortic valve regurgitation	can lead to	pulmonary heart disease
+hypertension	is a	risk factor for pulmonary heart disease
+pulmonary edema	can occur in	pulmonary heart disease
+cardiomegaly	is a	common finding on chest X-ray in pulmonary heart disease
+mitral valve prolapse	can lead to	pulmonary heart disease
+left ventricular failure	can lead to	pulmonary heart disease
+right ventricular dysfunction	is a	complication of pulmonary heart disease
+peripheral edema	is a	common symptom of pulmonary heart disease
+right ventricular failure	can lead to	pulmonary heart disease
+pulmonary artery	delivers	deoxygenated blood to the lungs
+tricuspid valve stenosis	can lead to	pulmonary heart disease
+pulmonary valve regurgitation	can lead to	pulmonary heart disease
+right atrium	is the	receiving chamber for deoxygenated blood
+amyloidosis	is a	rare cause of pulmonary heart disease
+cardiopulmonary bypass	is a	procedure used for surgical repair of congenital heart defects in pulmonary heart disease
+left ventricular dysfunction	can lead to	pulmonary heart disease
+hypertrophic cardiomyopathy	can lead to	pulmonary heart disease
+valvular heart disease	is a	risk factor for pulmonary heart disease
+pulmonary hypertension	can cause	right-sided heart failure in pulmonary heart disease
+mitral valve	prevents	backflow of blood into the left atrium
+pulmonary congestion	is a	common finding in pulmonary heart disease
+mitral valve stenosis	can lead to	pulmonary heart disease
+coronary artery disease	can lead to	pulmonary heart disease
+diuresis	is the	increased production of urine
+digitalis glycosides	are used to	manage symptoms in pulmonary heart disease
+right heart catheterization	measures	right heart pressures in pulmonary heart disease
+tricuspid valve stenosis	can lead to	pulmonary heart disease
+hypertensive heart disease	can lead to	pulmonary heart disease
+pulmonary artery pressure	is a	measurement used to assess fluid status in pulmonary heart disease
+pulmonary artery catheter	is used to	measure hemodynamic parameters in pulmonary heart disease
+dobutamine	is used to	improve cardiac output in pulmonary heart disease
+atrial fibrillation	is a	common arrhythmia in pulmonary heart disease
+peripheral edema	is a	sign of fluid overload in pulmonary heart disease
+peripheral cyanosis	is a sign of	decreased oxygenation in pulmonary heart disease
+ventricular septal defect	can lead to	pulmonary heart disease
+pulmonary vein	carries	oxygenated blood from the lungs to the left atrium
+cardiac MRI	can be used to	evaluate cardiac structure and function in pulmonary heart disease
+peripheral edema	is a	sign of fluid overload in pulmonary heart disease
+respiratory failure	can lead to	pulmonary heart disease
+hyperventilation	is a	symptom of pulmonary heart disease
+cardioversion	can be performed to	restore normal heart rhythm in pulmonary heart disease
+right heart	receives	deoxygenated blood from the right atrium
+pulmonary edema	can occur in	pulmonary heart disease
+ventricular fibrillation	is a	life-threatening arrhythmia in pulmonary heart disease
+amyloidosis	can lead to	pulmonary heart disease
+pulmonary valve	regulates	blood flow from the right ventricle into the pulmonary artery
+tricuspid valve	prevents	backflow of blood into the right atrium
+pulmonary valve regurgitation	can lead to	pulmonary heart disease
+right atrium	delivers	deoxygenated blood to the right ventricle
+mitral regurgitation	can lead to	pulmonary heart disease
+right heart catheterization	measures	pulmonary artery pressures in pulmonary heart disease
+coronary artery disease	is a	risk factor for pulmonary heart disease
+ventricular septal defect	is a	common congenital heart defect that can lead to pulmonary heart disease
+atrial septal defect	is a	common congenital heart defect that can lead to pulmonary heart disease
+right ventricle	receives	deoxygenated blood from the right atrium
+polycythemia	is a	common complication of pulmonary heart disease
+hypertension	is a	risk factor for pulmonary heart disease
+blood gas analysis	can be used to	assess oxygen and carbon dioxide levels in pulmonary heart disease
+mitral valve	regulates	blood flow from the left atrium into the left ventricle
+hypoxemia	is a	common complication of pulmonary heart disease
+ventricular tachycardia	is a	life-threatening arrhythmia in pulmonary heart disease
+copd	is a	risk factor for pulmonary heart disease
+cardiopulmonary bypass	is a	procedure used for surgical repair of congenital heart defects in pulmonary heart disease
+digital clubbing	is a sign of	chronic hypoxia in pulmonary heart disease
+right heart hypertrophy	is a	common finding in pulmonary heart disease
+pulmonary hypertension	is a	common complication of pulmonary heart disease
+mitral valve regurgitation	can lead to	pulmonary heart disease
+bacterial endocarditis	can lead to	pulmonary heart disease
+coronary angiography	is a	diagnostic test for coronary artery disease in pulmonary heart disease
+chronic hypoxia	is a	risk factor for pulmonary heart disease

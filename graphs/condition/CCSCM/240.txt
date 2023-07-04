@@ -1,0 +1,93 @@
+burns	can cause	scarring
+burns	may require	skin grafting
+electrical burns	can result in	cardiac arrest
+burns	may lead to	infection
+burns	can cause	respiratory distress
+fluid resuscitation	is a treatment for	burns
+burns	can result in	permanent disfigurement
+burns	can lead to	hypothermia
+burns	can cause	muscle contractures
+burns	can result in	nerve damage
+burns	can cause	psychological trauma
+burns	can lead to	amputations
+burns	can cause	dehydration
+burns	may require	physical therapy
+burns	can result in	kidney injury
+burns	can cause	compromised immunity
+burns	can lead to	sepsis
+burns	can result in	lung injury
+burns	may require	wound debridement
+thermal burns	can cause	compartment syndrome
+burns	can lead to	electrolyte imbalances
+burns	can cause	malnutrition
+burns	can result in	secondary infections
+burns	can cause	joint contractures
+burns	may require	occupational therapy
+burns	can result in	scarring
+burns	can cause	respiratory failure
+burns	can lead to	hypermetabolism
+burns	can cause	diminished lung function
+burns	can result in	chronic pain
+burns	can cause	gastrointestinal bleeding
+burns	can lead to	impaired mobility
+burns	can result in	contractures
+burns	can cause	impaired wound healing
+burns	may require	skin grafting
+burns	can result in	renal failure
+burns	can cause	depression
+burns	can lead to	hypovolemic shock
+burns	can result in	hypertrophic scars
+burns	can cause	respiratory infections
+burns	can lead to	systemic inflammation
+burns	can result in	pulmonary edema
+burns	can cause	peripheral nerve damage
+burns	may require	nutritional support
+burns	can result in	cellulitis
+burns	can lead to	cardiopulmonary complications
+burns	can cause	delayed wound healing
+burns	can result in	muscle wasting
+burns	can cause	anxiety
+burns	can lead to	acute respiratory distress syndrome
+burns	can result in	organ failure
+burns	can cause	impaired lung function
+burns	can lead to	pneumonia
+burns	can result in	vascular complications
+burns	can cause	sleep disturbances
+burns	may require	pain management
+burns	can result in	impaired renal function
+burns	can lead to	thrombosis
+burns	can cause	hypertrophic scarring
+burns	can result in	deep vein thrombosis
+burns	can cause	post-traumatic stress disorder
+burns	can lead to	multiple organ failure
+burns	can result in	systemic infection
+burns	can cause	long-term disability
+burns	can lead to	tetanus
+burns	can result in	impaired wound closure
+burns	can cause	body image issues
+burns	can lead to	respiratory compromise
+burns	can result in	hypovolemia
+burns	can cause	chronic respiratory infections
+burns	may require	burn dressings
+burns	can result in	septic shock
+burns	can cause	social isolation
+burns	can lead to	multiple system organ failure
+burns	can result in	pulmonary complications
+burns	can cause	neuropathic pain
+burns	can lead to	cardiac arrhythmias
+burns	can result in	impaired cardiac function
+burns	can cause	cognitive impairment
+burns	can lead to	respiratory insufficiency
+burns	can result in	impaired hepatic function
+burns	can cause	decreased quality of life
+burns	can lead to	electrolyte abnormalities
+burns	can result in	impaired immune function
+burns	can cause	psychosocial distress
+burns	can lead to	delayed rehabilitation
+burns	can result in	impaired gastrointestinal function
+burns	can cause	chronic pain syndrome
+burns	can lead to	impaired musculoskeletal function
+burns	can result in	impaired neurologic function
+burns	can cause	traumatic brain injury
+burns	can lead to	acute kidney injury
+burns	can result in	cardiogenic shock

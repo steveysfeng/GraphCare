@@ -1,0 +1,103 @@
+esophageal disorders	can cause	difficulty swallowing
+esophageal disorders	are related to	gastroesophageal reflux disease
+esophageal disorders	may require	endoscopy
+esophageal disorders	can be treated with	proton pump inhibitors
+proton pump inhibitors	reduce	stomach acid production
+esophageal disorders	can lead to	esophageal cancer
+esophageal cancer	can be detected by	endoscopy
+endoscopy	is a	diagnostic procedure
+esophageal disorders	can cause	chest pain
+esophageal disorders	can result in	weight loss
+esophageal disorders	can cause	regurgitation
+esophageal disorders	are associated with	hiatal hernia
+hiatal hernia	can cause	acid reflux
+esophageal disorders	can lead to	stricture formation
+esophageal disorders	may require	esophageal dilation
+esophageal dilation	is a	therapeutic procedure
+esophageal disorders	can cause	heartburn
+esophageal disorders	can lead to	motility disorders
+esophageal disorders	may require	surgery
+esophageal disorders	can cause	coughing
+esophageal disorders	can be managed with	lifestyle modifications
+lifestyle modifications	include	weight loss
+lifestyle modifications	include	avoiding trigger foods
+esophageal disorders	increase the risk of	aspiration pneumonia
+aspiration pneumonia	is	lung infection
+esophageal disorders	can cause	dysphagia
+esophageal disorders	can lead to	barrett's esophagus
+barrett's esophagus	is a	precancerous condition
+esophageal disorders	can cause	hoarseness
+esophageal disorders	can result in	malnutrition
+esophageal disorders	can cause	bloating
+esophageal disorders	can lead to	strictures
+esophageal disorders	can cause	hiccups
+esophageal disorders	can result in	dehydration
+esophageal disorders	can be a result of	esophagitis
+esophagitis	is	inflammation of the esophagus
+esophageal disorders	can cause	anemia
+esophageal disorders	can cause	fatigue
+esophageal disorders	can be a result of	achalasia
+achalasia	is	a disorder of the esophagus
+esophageal disorders	can cause	malabsorption
+esophageal disorders	can result in	respiratory problems
+esophageal disorders	can cause	palpitations
+esophageal disorders	can lead to	perforation of the esophagus
+esophageal disorders	can cause	acid erosion
+esophageal disorders	can result in	stricture
+esophageal disorders	can cause	sinus problems
+esophageal disorders	can lead to	esophageal rupture
+esophageal disorders	can cause	difficulty breathing
+esophageal disorders	can result in	ulceration of the esophagus
+esophageal disorders	can cause	dental problems
+esophageal disorders	can lead to	food getting stuck
+esophageal disorders	can cause	vomiting
+esophageal disorders	can result in	chest discomfort
+esophageal disorders	can cause	aspiration
+esophageal disorders	can lead to	swallowing problems
+esophageal disorders	can cause	acid regurgitation
+esophageal disorders	can result in	esophageal stricture
+esophageal disorders	can cause	bad breath
+esophageal disorders	can lead to	weight gain
+esophageal disorders	can cause	throat discomfort
+esophageal disorders	can result in	appetite loss
+esophageal disorders	can cause	belching
+esophageal disorders	can lead to	night sweats
+esophageal disorders	can cause	reflux
+esophageal disorders	can result in	malaise
+esophageal disorders	can cause	indigestion
+esophageal disorders	can lead to	narrowing of the esophagus
+esophageal disorders	can cause	burping
+esophageal disorders	can result in	heartburn
+esophageal disorders	can cause	nausea
+esophageal disorders	can lead to	cough
+esophageal disorders	can cause	abdominal pain
+esophageal disorders	can result in	bloating
+esophageal disorders	can cause	heart palpitations
+esophageal disorders	can lead to	stomach pain
+esophageal disorders	can cause	chest discomfort
+esophageal disorders	can result in	vomiting blood
+esophageal disorders	can cause	difficulty swallowing liquids
+esophageal disorders	can lead to	regurgitation of food
+esophageal disorders	can cause	acid reflux
+esophageal disorders	can result in	sore throat
+esophageal disorders	can cause	gas
+esophageal disorders	can lead to	weight loss
+esophageal disorders	can cause	postnasal drip
+esophageal disorders	can result in	coughing
+esophageal disorders	can cause	wheezing
+esophageal disorders	can lead to	hoarseness
+esophageal disorders	can cause	fatigue
+esophageal disorders	can result in	hiccups
+esophageal disorders	can cause	malnutrition
+esophageal disorders	can lead to	dehydration
+esophageal disorders	can cause	anemia
+esophageal disorders	can result in	paleness
+esophageal disorders	can cause	shortness of breath
+esophageal disorders	can lead to	difficulty sleeping
+esophageal disorders	can cause	chest pain
+esophageal disorders	can result in	regurgitation
+esophageal disorders	can cause	difficulty swallowing solid foods
+esophageal disorders	can lead to	weight gain
+esophageal disorders	can cause	throat pain
+esophageal disorders	can result in	chest discomfort
+esophageal disorders	can cause	belching

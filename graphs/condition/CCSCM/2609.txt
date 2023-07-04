@@ -1,0 +1,103 @@
+e codes	are used to classify	pedestrian injuries
+e codes	are not used to classify	non-movement related injuries
+pedestrian injuries	may result in	fractures
+pedestrian injuries	can be caused by	vehicle collisions
+vehicle collisions	often result in	trauma
+trauma	can cause	internal bleeding
+internal bleeding	may lead to	hypovolemic shock
+hypovolemic shock	can cause	organ failure
+organ failure	increases the risk of	mortality
+pedestrian injuries	can result in	hospitalization
+hospitalization	may lead to	post-traumatic stress disorder
+post-traumatic stress disorder	requires	psychological therapy
+pedestrian injuries	may require	physical rehabilitation
+physical rehabilitation	helps with	recovery
+recovery	can be facilitated by	assistive devices
+assistive devices	improve	mobility
+mobility	is important for	daily activities
+pedestrian injuries	may lead to	long-term disability
+long-term disability	requires	ongoing care
+ongoing care	may include	home healthcare services
+home healthcare services	provide	medical support
+pedestrian injuries	may result in	legal action
+legal action	can lead to	financial compensation
+financial compensation	helps with	medical expenses
+medical expenses	can be covered by	insurance
+insurance	is necessary for	healthcare coverage
+pedestrian injuries	can be prevented by	following traffic rules
+following traffic rules	reduces the risk of	accidents
+accidents	can be caused by	distracted driving
+distracted driving	includes	texting while driving
+texting while driving	is a	traffic violation
+pedestrian injuries	may require	surgical intervention
+surgical intervention	is performed by	a surgeon
+a surgeon	specializes in	procedural interventions
+procedural interventions	aim to	treat injuries
+injuries	can result in	pain
+pain	requires	pain management
+pain management	can include	medication
+medication	should be prescribed by	a healthcare professional
+a healthcare professional	can provide	medical advice
+medical advice	is important for	informed decision-making
+informed decision-making	helps with	healthcare planning
+healthcare planning	involves	considering different treatment options
+treatment options	should be discussed with	the healthcare team
+the healthcare team	consists of	healthcare professionals
+healthcare professionals	work together to	provide comprehensive care
+comprehensive care	improves	outcomes
+pedestrian injuries	can result in	disabilities
+disabilities	require	adaptive equipment
+adaptive equipment	enhances	independence
+independence	is crucial for	quality of life
+quality of life	can be affected by	physical limitations
+physical limitations	can be managed with	assistive technology
+assistive technology	improves	functional abilities
+functional abilities	are necessary for	daily tasks
+daily tasks	include	personal care
+personal care	can be assisted by	caregivers
+caregivers	provide	support
+support	helps with	activities of daily living
+activities of daily living	are essential for	self-care
+self-care	promotes	well-being
+well-being	is important for	overall health
+overall health	is influenced by	lifestyle choices
+lifestyle choices	include	diet and exercise
+diet and exercise	contribute to	physical fitness
+physical fitness	is important for	injury prevention
+injury prevention	is crucial for	pedestrian safety
+pedestrian safety	is promoted by	public awareness campaigns
+public awareness campaigns	educate	the community
+the community	plays a role in	injury prevention
+injury prevention	is a responsibility of	society
+society	needs to prioritize	pedestrian safety
+pedestrian safety	reduces	the burden on healthcare systems
+healthcare systems	provide	medical care
+medical care	is essential for	treating injuries
+treating injuries	requires	specialized knowledge
+specialized knowledge	is gained through	medical training
+medical training	prepares	healthcare professionals
+healthcare professionals	work to	improve patient outcomes
+improve patient outcomes	through	evidence-based practice
+evidence-based practice	relies on	scientific research
+scientific research	contributes to	medical advancements
+medical advancements	enhance	patient care
+patient care	should be tailored to	individual needs
+individual needs	vary depending on	the injury
+the injury	requires	accurate diagnosis
+accurate diagnosis	is crucial for	appropriate treatment
+appropriate treatment	leads to	better prognosis
+better prognosis	increases	patient satisfaction
+patient satisfaction	is important for	healthcare quality
+healthcare quality	is a priority for	healthcare organizations
+healthcare organizations	strive to	provide excellent care
+provide excellent care	through	continuous improvement
+continuous improvement	is achieved by	monitoring outcomes
+monitoring outcomes	helps identify	areas for improvement
+areas for improvement	can be addressed through	quality initiatives
+quality initiatives	aim to	enhance patient care
+pedestrian injuries	can result in	emotional trauma
+emotional trauma	can lead to	mental health issues
+mental health issues	require	appropriate support
+appropriate support	is provided by	mental health professionals
+mental health professionals	help with	emotional well-being
+emotional well-being	is important for	overall health

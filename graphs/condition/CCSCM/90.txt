@@ -1,0 +1,25 @@
+inflammation	can cause	redness
+inflammation	can cause	swelling
+inflammation	can cause	pain
+inflammation	can cause	heat
+inflammation	can be caused by	infection
+inflammation	can be caused by	injury
+inflammation	can be caused by	autoimmune condition
+inflammation	can be caused by	allergies
+inflammation	can be treated with	anti-inflammatory drugs
+anti-inflammatory drugs	can reduce	inflammation
+anti-inflammatory drugs	can relieve	pain
+anti-inflammatory drugs	can decrease	swelling
+anti-inflammatory drugs	can lower	fever
+infection	can cause	redness
+infection	can cause	pain
+infection	can cause	discharge
+infection	can cause	blurred vision
+infection	can be treated with	antibiotics
+antibiotics	can eliminate	infection
+antibiotics	can reduce	redness
+antibiotics	can relieve	pain
+antibiotics	can clear	discharge
+antibiotics	can improve	vision
+eye	could be affected by	inflammation
+eye	could be affected by	infection

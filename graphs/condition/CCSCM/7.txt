@@ -1,0 +1,96 @@
+viral infection	can cause	fever
+viral infection	can lead to	respiratory symptoms
+antiviral medication	is used for	viral infection
+viral infection	is transmitted through	respiratory droplets
+immune response	helps fight	viral infection
+viral infection	can result in	fatigue
+viral infection	can cause	sore throat
+viral infection	can lead to	rash
+vaccine	prevents	viral infection
+hand hygiene	reduces	viral infection transmission
+viral infection	can cause	gastrointestinal symptoms
+antibiotics	are ineffective against	viral infection
+viral infection	can result in	muscle aches
+viral infection	can cause	headache
+viral infection	can lead to	lymph node swelling
+viral infection	can result in	loss of taste and smell
+viral infection	can cause	eye redness
+viral infection	can lead to	joint pain
+viral infection	can result in	nasal congestion
+viral infection	can cause	diarrhea
+viral infection	can lead to	vomiting
+viral infection	can result in	dizziness
+viral infection	can cause	chest pain
+viral infection	can lead to	shortness of breath
+viral infection	can result in	pneumonia
+viral infection	can cause	liver inflammation
+viral infection	can lead to	kidney damage
+viral infection	can result in	encephalitis
+viral infection	can cause	meningitis
+viral infection	can lead to	myocarditis
+viral infection	can result in	sepsis
+viral infection	can cause	secondary bacterial infection
+viral infection	can lead to	immunosuppression
+viral infection	can result in	neurological complications
+viral infection	can cause	skin ulcers
+viral infection	can lead to	cellulitis
+viral infection	can result in	blood infections
+viral infection	can cause	dehydration
+viral infection	can lead to	electrolyte imbalances
+viral infection	can result in	acute respiratory distress syndrome (ARDS)
+viral infection	can cause	myocardial infarction
+viral infection	can lead to	stroke
+viral infection	can result in	multi-organ failure
+viral infection	can cause	death
+viral infection	can lead to	long-term complications
+viral infection	can result in	hospitalization
+viral infection	can cause	social isolation
+viral infection	can lead to	quarantine
+viral infection	can result in	economic impact
+viral infection	can cause	anxiety
+viral infection	can lead to	depression
+viral infection	can result in	post-viral fatigue
+viral infection	can cause	insomnia
+viral infection	can lead to	cognitive impairment
+viral infection	can result in	chronic pain
+viral infection	can cause	autoimmune disorders
+viral infection	can lead to	cancer
+viral infection	can result in	fertility issues
+viral infection	can cause	birth defects
+viral infection	can lead to	miscarriage
+viral infection	can result in	stillbirth
+viral infection	can cause	preterm labor
+viral infection	can lead to	maternal mortality
+viral infection	can result in	neonatal mortality
+viral infection	can cause	fetal growth restriction
+viral infection	can lead to	placental insufficiency
+viral infection	can result in	congenital abnormalities
+viral infection	can cause	vertical transmission
+viral infection	can lead to	long-term developmental delays
+viral infection	can result in	intellectual disabilities
+viral infection	can cause	social stigma
+viral infection	can lead to	discrimination
+viral infection	can result in	community spread
+viral infection	can cause	healthcare burden
+viral infection	can lead to	overwhelmed healthcare systems
+viral infection	can result in	limited healthcare resources
+viral infection	can cause	travel restrictions
+viral infection	can lead to	border closures
+viral infection	can result in	economic downturn
+viral infection	can cause	remote work
+viral infection	can lead to	remote learning
+viral infection	can result in	virtual healthcare
+viral infection	can cause	telemedicine
+viral infection	can lead to	online shopping
+viral infection	can result in	mask mandates
+viral infection	can cause	social distancing
+viral infection	can lead to	vaccination campaigns
+viral infection	can result in	contact tracing
+viral infection	can cause	hand sanitizer use
+viral infection	can lead to	respiratory etiquette
+viral infection	can result in	public health interventions
+viral infection	can cause	healthcare disparities
+viral infection	can lead to	vaccine hesitancy
+viral infection	can result in	long-term healthcare costs
+viral infection	can cause	healthcare inequities
+viral infection	can lead to	global health crisis

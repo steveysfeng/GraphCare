@@ -1,0 +1,73 @@
+chronic ulcer of skin	is a	skin condition
+chronic ulcer of skin	causes	pain
+chronic ulcer of skin	may lead to	infection
+chronic ulcer of skin	requires	wound care
+hydrocolloid dressing	is used for	wound care
+chronic ulcer of skin	may be treated with	antibiotics
+amoxicillin	is an	antibiotic
+chronic ulcer of skin	can result in	amputation
+vascular surgery	may be needed for	amputation
+chronic ulcer of skin	increases risk of	cellulitis
+cellulitis	requires	antibiotic treatment
+chronic ulcer of skin	is associated with	diabetes
+diabetes	requires	careful foot care
+chronic ulcer of skin	can be caused by	poor circulation
+poor circulation	can be treated with	compression therapy
+chronic ulcer of skin	is more common in	elderly people
+elderly people	may have	impaired healing processes
+chronic ulcer of skin	can be prevented by	regular wound assessment
+nurse	performs	wound assessment
+chronic ulcer of skin	is a	chronic condition
+chronic ulcer of skin	may require	advanced wound care
+chronic ulcer of skin	is associated with	venous insufficiency
+venous insufficiency	can be treated with	compression stockings
+chronic ulcer of skin	can lead to	sepsis
+sepsis	is a	life-threatening condition
+chronic ulcer of skin	can be caused by	pressure ulcers
+pressure ulcers	are caused by	prolonged pressure on the skin
+chronic ulcer of skin	is classified according to	the Wagner scale
+Wagner scale	is a	classification system for chronic ulcers
+chronic ulcer of skin	can result from	arterial insufficiency
+arterial insufficiency	is caused by	narrowed or blocked arteries
+chronic ulcer of skin	is associated with	peripheral neuropathy
+peripheral neuropathy	causes	loss of sensation
+chronic ulcer of skin	can lead to	osteomyelitis
+osteomyelitis	is an	infection of the bone
+chronic ulcer of skin	may require	surgical debridement
+surgical debridement	removes	dead tissue from the wound
+chronic ulcer of skin	can be worsened by	smoking
+smoking	causes	vasoconstriction
+chronic ulcer of skin	may require	skin grafting
+skin grafting	involves	transferring skin from one area to another
+chronic ulcer of skin	can result in	scarring
+scarring	may cause	cosmetic issues
+chronic ulcer of skin	can be caused by	venous ulcers
+venous ulcers	are caused by	increased venous pressure
+chronic ulcer of skin	can be a sign of	underlying vascular disease
+underlying vascular disease	requires	medical management
+chronic ulcer of skin	can be managed with	interdisciplinary care
+interdisciplinary care	involves	collaboration between different healthcare professionals
+chronic ulcer of skin	may be a complication of	diabetes mellitus
+diabetes mellitus	requires	blood sugar control
+chronic ulcer of skin	can lead to	chronic pain
+chronic pain	requires	pain management
+chronic ulcer of skin	is more common in	individuals with limited mobility
+individuals with limited mobility	are at risk of	pressure ulcers
+chronic ulcer of skin	can result in	decreased quality of life
+decreased quality of life	can be improved with	psychological support
+chronic ulcer of skin	may be associated with	malnutrition
+malnutrition	increases	the risk of infection
+chronic ulcer of skin	can be caused by	trauma
+trauma	can result in	tissue damage
+chronic ulcer of skin	can be prevented with	regular turning and repositioning
+regular turning and repositioning	helps	relieve pressure on the skin
+chronic ulcer of skin	can be a side effect of	certain medications
+certain medications	may impair	wound healing
+chronic ulcer of skin	is more common in	individuals with poor nutrition
+individuals with poor nutrition	have	impaired wound healing
+chronic ulcer of skin	is more common in	individuals with peripheral vascular disease
+individuals with peripheral vascular disease	have	decreased blood flow to the extremities
+chronic ulcer of skin	can result in	deformities
+deformities	may require	physical therapy
+chronic ulcer of skin	can be caused by	radiation therapy
+radiation therapy	can cause	skin damage

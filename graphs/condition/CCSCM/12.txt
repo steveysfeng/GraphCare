@@ -1,0 +1,19 @@
+cancer of esophagus	is a	malignant condition
+cancer of esophagus	can cause	difficulty swallowing
+endoscopy	is a	diagnostic procedure for cancer of esophagus
+chemotherapy	is a	treatment option for cancer of esophagus
+radiation therapy	is a	treatment option for cancer of esophagus
+cancer of esophagus	has a high	mortality rate
+esophagectomy	is a	surgical procedure for cancer of esophagus
+smoking	is a	risk factor for cancer of esophagus
+gastroesophageal reflux disease	is a	risk factor for cancer of esophagus
+cancer of esophagus	can metastasize to	liver
+cancer of esophagus	can cause	weight loss
+cancer of esophagus	is diagnosed using	biopsy
+barium swallow	is a	diagnostic test for cancer of esophagus
+cancer of esophagus	can present with	chest pain
+dysphagia	is a	symptom of cancer of esophagus
+cancer of esophagus	is associated with	alcohol consumption
+cancer of esophagus	is more common in	men
+cancer of esophagus	is staged using	TNM system
+cancer of esophagus	can cause	hoarseness

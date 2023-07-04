@@ -1,0 +1,209 @@
+cancer	is a	disease
+cancer	can cause	death
+radiation therapy	is a treatment for	cancer
+cancer	can result in	metastasis
+chemotherapy	is a treatment for	cancer
+lung cancer	is a type of	cancer
+lung cancer	is associated with	smoking
+smoking	is a risk factor for	lung cancer
+lung cancer	can lead to	shortness of breath
+cancer	can be diagnosed by	biopsy
+tumor	is a characteristic of	cancer
+lung cancer	is staged using	TNM system
+lung cancer	is often detected using	imaging tests
+lung cancer	is linked to	occupational exposure
+lung cancer	can cause	coughing
+radiation oncologist	specializes in	cancer treatment
+oncologist	is a doctor who treats	cancer
+cancer	can be treated with	surgery
+cancer	may recur after	treatment
+cancer	may require	palliative care
+radiologist	interprets	imaging tests
+cancer	is associated with	genetic mutations
+lung cancer	can spread to	other organs
+cancer	can be prevented through	lifestyle changes
+cancer	can be caused by	environmental factors
+melanoma	is a type of	cancer
+melanoma	is associated with	excessive sun exposure
+skin cancer	is a type of	cancer
+screening	is used to detect	cancer
+cancer	can cause	fatigue
+cancer	can affect	quality of life
+oncology nurse	cares for	cancer patients
+chemotherapy	can result in	hair loss
+cancer	can be managed with	supportive care
+cancer	can be hereditary
+breast cancer	is a type of	cancer
+breast cancer	is commonly diagnosed in	women
+prostate cancer	is a type of	cancer
+prostate cancer	is commonly diagnosed in	men
+colorectal cancer	is a type of	cancer
+colorectal cancer	is associated with	diet
+leukemia	is a type of	cancer
+leukemia	affects the	blood cells
+lymphoma	is a type of	cancer
+lymphoma	affects the	lymph nodes
+pancreatic cancer	is a type of	cancer
+pancreatic cancer	has a	poor prognosis
+cervical cancer	is a type of	cancer
+cervical cancer	is associated with	HPV infection
+cancer	can be managed with	targeted therapy
+breast cancer	can be detected through	mammography
+prostate cancer	can be detected through	PSA test
+colonoscopy	is used to screen for	colorectal cancer
+chemotherapy	can induce	nausea
+radiation therapy	can cause	skin irritation
+cancer	can be monitored using	tumor markers
+breast cancer	is associated with	hormone receptors
+lung cancer	can be classified as	small cell or non-small cell
+chemotherapy	can compromise	immune system
+lung cancer	is often diagnosed at	advanced stage
+breast cancer	may require	mastectomy
+prostatectomy	is a surgical treatment for	prostate cancer
+breast reconstruction	is a procedure for	breast cancer patients
+radiation therapy	can result in	long-term side effects
+chemotherapy	can lead to	weight loss
+cancer	can cause	bone pain
+chemotherapy	can induce	hair thinning
+breast cancer	can metastasize to	bones
+melanoma	can metastasize to	brain
+ovarian cancer	is a type of	cancer
+ovarian cancer	is often diagnosed at	advanced stage
+chemotherapy	can result in	fertility issues
+cancer	can cause	anemia
+breast cancer	can be hereditary due to	BRCA gene mutation
+radiation therapy	can shrink	tumor size
+cancer	can cause	depression
+cancer	can be treated with	immunotherapy
+radiation therapy	can target	specific areas
+cancer	is associated with	abnormal cell growth
+chemotherapy	can lead to	fatigue
+cancer	can be diagnosed through	PET/CT scan
+brain tumor	is a type of	cancer
+brain tumor	can cause	headaches
+chemotherapy	can result in	neuropathy
+cancer	can be detected through	blood tests
+sarcoma	is a type of	cancer
+sarcoma	affects the	soft tissues
+cancer	can be caused by	viral infections
+lymphedema	can occur after	cancer treatment
+bladder cancer	is a type of	cancer
+bladder cancer	is associated with	smoking
+lung cancer	can be treated with	targeted therapy
+immunotherapy	stimulates the	immune system
+colon cancer	is a type of	cancer
+pancreatic cancer	can cause	jaundice
+chemotherapy	can result in	gastrointestinal issues
+cancer	can be genetic or	acquired
+prostate cancer	can be managed with	active surveillance
+cancer	can be detected through	imaging tests
+radiation therapy	can be delivered using	external beam
+chemotherapy	can be administered through	infusion
+cancer	can be managed with	pain medication
+radiation oncology	is a branch of	medicine
+cancer	can be detected through	tumor markers
+liver cancer	is a type of	cancer
+liver cancer	is associated with	hepatitis B or C
+chemotherapy	can be combined with	radiation therapy
+colorectal cancer	can be detected through	colonoscopy
+cancer	can be treated with	targeted therapy
+breast cancer	can spread to	lymph nodes
+chemotherapy	can result in	immunosuppression
+chemotherapy	can be delivered in	cycles
+cancer	can be diagnosed through	imaging tests
+chemotherapy	can lead to	peripheral neuropathy
+liver cancer	can metastasize to	lungs
+chemotherapy	can reduce	tumor size
+cancer	can be detected through	biopsy
+chemotherapy	can cause	fatigue
+radiation oncologist	plans	treatment
+chemotherapy	can be administered orally or	intravenously
+cancer	can be diagnosed through	blood tests
+chemotherapy	can result in	anemia
+cancer	can be detected through	mammography
+surgery	is a common treatment for	cancer
+radiation therapy	can be delivered using	brachytherapy
+chemotherapy	can cause	nausea and vomiting
+cancer	can be detected through	MRI
+chemotherapy	can lead to	hair loss
+breast cancer	can be detected through	breast self-examination
+radiation therapy	can be delivered using	linear accelerator
+cancer	can be diagnosed through	ultrasound
+chemotherapy	can result in	neutropenia
+cancer	can be detected through	Pap smear
+chemotherapy	can cause	diarrhea
+cancer	can be managed with	hormone therapy
+radiation therapy	can be delivered using	gamma knife
+chemotherapy	can lead to	cognitive impairment
+thyroid cancer	is a type of	cancer
+thyroid cancer	is associated with	radiation exposure
+chemotherapy	can result in	mouth sores
+cancer	can be detected through	colonoscopy
+chemotherapy	can cause	peripheral edema
+pancreatic cancer	can metastasize to	liver
+radiation therapy	can be delivered using	proton beam
+chemotherapy	can require	hospitalization
+cancer	can be diagnosed through	endoscopy
+immunotherapy	can enhance the	immune response
+chemotherapy	can result in	mucositis
+cancer	can be managed with	radiation therapy
+chemotherapy	can lead to	weight gain
+prostate cancer	can metastasize to	bones
+radiation therapy	can be delivered using	intensity-modulated radiotherapy
+chemotherapy	can cause	constipation
+cancer	can be detected through	genetic testing
+chemotherapy	can result in	cardiotoxicity
+cancer	can be diagnosed through	MRI
+chemotherapy	can cause	hepatotoxicity
+breast cancer	can cause	breast pain
+radiation therapy	can be delivered using	tomotherapy
+chemotherapy	can lead to	thrombocytopenia
+glioblastoma	is a type of	brain tumor
+glioblastoma	has a	poor prognosis
+chemotherapy	can result in	renal toxicity
+cancer	can be managed with	supportive therapy
+radiation therapy	can be delivered using	CyberKnife
+chemotherapy	can cause	cardiomyopathy
+lung cancer	can metastasize to	brain
+radiation therapy	can be delivered using	3D conformal radiation therapy
+chemotherapy	can lead to	anorexia
+lymphoma	can metastasize to	bone marrow
+radiation therapy	can be delivered using	brachytherapy
+chemotherapy	can result in	stomatitis
+cancer	can be detected through	PET scan
+chemotherapy	can cause	myelosuppression
+cancer	can be managed with	behavioral therapy
+radiation therapy	can be delivered using	volumetric modulated arc therapy
+chemotherapy	can lead to	mucosal ulceration
+cancer	can metastasize to	lymph nodes
+radiation therapy	can be delivered using	TomoTherapy
+chemotherapy	can result in	pulmonary toxicity
+chemotherapy	can be combined with	immunotherapy
+breast cancer	can metastasize to	lungs
+radiation therapy	can be delivered using	proton therapy
+chemotherapy	can cause	infertility
+cancer	can be managed with	psychosocial support
+radiation therapy	can be delivered using	IMRT
+chemotherapy	can lead to	malnutrition
+cancer	can metastasize to	liver
+radiation therapy	can be delivered using	SBRT
+chemotherapy	can result in	hepatotoxicity
+cancer	can be managed with	complementary medicine
+radiation therapy	can be delivered using	HDR brachytherapy
+chemotherapy	can cause	neurotoxicity
+cancer	can metastasize to	bone
+radiation therapy	can be delivered using	VMAT
+chemotherapy	can lead to	oral mucositis
+cancer	can be detected through	mammography
+radiation therapy	can be delivered using	SRS
+chemotherapy	can result in	neurocognitive impairment
+cancer	can metastasize to	brain
+radiation therapy	can be delivered using	IMPT
+chemotherapy	can cause	ototoxicity
+cancer	can be managed with	spiritual care
+radiation therapy	can be delivered using	TBI
+chemotherapy	can lead to	nausea
+cancer	can metastasize to	lungs
+radiation therapy	can be delivered using	IORT
+chemotherapy	can result in	neutropenic fever
+cancer	can be managed with	supportive counseling

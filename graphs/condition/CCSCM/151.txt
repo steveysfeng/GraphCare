@@ -1,0 +1,264 @@
+hepatitis	is a type of	liver disease
+cirrhosis	is a type of	liver disease
+alcoholic liver disease	is a type of	liver disease
+non-alcoholic fatty liver disease	is a type of	liver disease
+liver cancer	is a complication of	liver disease
+liver transplantation	is a treatment option for	liver disease
+hepatocellular carcinoma	is a type of	liver cancer
+autoimmune hepatitis	is a type of	liver disease
+hepatic encephalopathy	is a complication of	liver disease
+hepatitis A	is a type of	hepatitis
+hepatitis B	is a type of	hepatitis
+hepatitis C	is a type of	hepatitis
+hepatitis D	is a type of	hepatitis
+hepatitis E	is a type of	hepatitis
+hemochromatosis	is a type of	liver disease
+primary biliary cholangitis	is a type of	liver disease
+primary sclerosing cholangitis	is a type of	liver disease
+Wilson's disease	is a type of	liver disease
+alpha-1 antitrypsin deficiency	is a type of	liver disease
+hepatic steatosis	is a type of	liver disease
+hepatitis A virus	is a cause of	hepatitis A
+hepatitis B virus	is a cause of	hepatitis B
+hepatitis C virus	is a cause of	hepatitis C
+alcohol consumption	is a risk factor for	alcoholic liver disease
+obesity	is a risk factor for	non-alcoholic fatty liver disease
+excessive alcohol intake	is a cause of	alcoholic liver disease
+viral infection	is a cause of	liver disease
+smoking	is a risk factor for	liver cancer
+liver cirrhosis	is a risk factor for	liver cancer
+liver transplantation	is a treatment for	end-stage liver disease
+hepatitis A vaccine	is a preventive measure for	hepatitis A
+hepatitis B vaccine	is a preventive measure for	hepatitis B
+interferon	is a treatment for	hepatitis
+chemotherapy	is a treatment for	liver cancer
+immunosuppressants	is a treatment for	autoimmune hepatitis
+liver biopsy	is a diagnostic test for	liver disease
+abdominal ultrasound	is a diagnostic test for	liver disease
+liver function tests	are diagnostic tests for	liver disease
+alpha-fetoprotein	is a marker for	liver cancer
+AST	is a liver enzyme
+ALT	is a liver enzyme
+ALP	is a liver enzyme
+bilirubin	is a marker for	liver disease
+liver imaging	is used to diagnose	liver disease
+viral load	is a measure of	viral infection
+hepatic encephalopathy	is caused by	liver disease
+liver cirrhosis	can lead to	portal hypertension
+liver transplantation	can prolong	survival in liver disease
+alcohol abstinence	is recommended for	alcoholic liver disease
+weight loss	is recommended for	non-alcoholic fatty liver disease
+liver cancer screening	is recommended for	high-risk individuals
+antiviral therapy	is recommended for	hepatitis
+lifestyle modifications	can improve	liver health
+transjugular intrahepatic portosystemic shunt (TIPS)	is a procedure for	portal hypertension
+hepatitis A	can be prevented by	good hygiene practices
+hepatitis B	can be prevented by	vaccination
+hepatitis C	can be prevented by	avoiding sharing needles
+liver transplant	is a major surgery
+liver disease	can lead to	liver failure
+jaundice	is a symptom of	liver disease
+abdominal pain	is a symptom of	liver disease
+weight loss	is a symptom of	liver disease
+fatigue	is a symptom of	liver disease
+liver function	is affected by	liver disease
+liver disease	can affect	other organs
+hepatitis A	is transmitted through	contaminated food or water
+hepatitis B	is transmitted through	blood and body fluids
+hepatitis C	is transmitted through	blood-to-blood contact
+hepatitis A	has a vaccine to prevent	infection
+hepatitis B	has a vaccine to prevent	infection
+hepatitis C	has antiviral medications to treat	infection
+hepatitis A	has no specific treatment
+hepatitis B	has antiviral medications to treat	infection
+hepatitis C	has antiviral medications to cure	infection
+cirrhosis	increases the risk of	liver cancer
+cirrhosis	increases the risk of	hepatic encephalopathy
+alcohol consumption	can cause	liver cirrhosis
+obesity	can cause	non-alcoholic fatty liver disease
+viral infection	can cause	liver inflammation
+smoking	increases the risk of	liver cancer
+hepatitis B	increases the risk of	liver cancer
+hepatitis C	increases the risk of	liver cancer
+autoimmune hepatitis	is characterized by	immune system attacking the liver
+hemochromatosis	is characterized by	excessive iron accumulation in the liver
+primary biliary cholangitis	is characterized by	inflammation and destruction of bile ducts
+primary sclerosing cholangitis	is characterized by	inflammation and fibrosis of bile ducts
+Wilson's disease	is characterized by	copper accumulation in the liver
+alpha-1 antitrypsin deficiency	is characterized by	lack of a protein that protects the liver
+hepatic steatosis	is characterized by	accumulation of fat in the liver
+hepatocellular carcinoma	is characterized by	uncontrolled growth of liver cells
+hepatic encephalopathy	is characterized by	brain dysfunction due to liver disease
+AST	is elevated in	liver disease
+ALT	is elevated in	liver disease
+ALP	is elevated in	liver disease
+bilirubin	is elevated in	liver disease
+liver biopsy	is used to diagnose	liver disease
+abdominal ultrasound	is used to diagnose	liver disease
+liver function tests	are used to assess	liver health
+alpha-fetoprotein	is a tumor marker for	liver cancer
+viral load	is a measure of	viral infection
+hepatic encephalopathy	is caused by	liver failure
+portal hypertension	is caused by	liver cirrhosis
+liver transplantation	is a treatment option for	end-stage liver disease
+alcohol abstinence	is recommended to prevent	alcoholic liver disease
+weight loss	is recommended to improve	non-alcoholic fatty liver disease
+liver cancer	can be detected early through	screening
+interferon	is used to treat	hepatitis
+chemotherapy	is used to treat	liver cancer
+immunosuppressants	are used to treat	autoimmune hepatitis
+liver imaging	is used to visualize	liver anatomy
+hepatic encephalopathy	can lead to	coma
+liver cirrhosis	can lead to	portal hypertension
+liver transplantation	can improve	survival in liver disease
+alcohol consumption	should be limited to prevent	liver damage
+obesity	should be managed to prevent	non-alcoholic fatty liver disease
+smoking	should be avoided to reduce the risk of	liver cancer
+liver biopsy	is performed to obtain	liver tissue for analysis
+abdominal ultrasound	can identify	liver abnormalities
+liver function tests	measure	liver enzyme levels
+bilirubin	is a marker of	liver function
+AST	is a liver enzyme
+ALT	is a liver enzyme
+ALP	is a liver enzyme
+liver imaging	can detect	liver tumors
+viral load	indicates	viral replication
+liver transplantation	is a major surgery that involves	replacing a diseased liver with a healthy one
+hepatitis	is an inflammation of	the liver
+cirrhosis	is characterized by	scarring of the liver
+alcoholic liver disease	is caused by	excessive alcohol consumption
+non-alcoholic fatty liver disease	is associated with	metabolic syndrome
+liver cancer	can metastasize to	other organs
+liver transplantation	is a treatment option for	end-stage liver disease
+autoimmune hepatitis	is an autoimmune disorder that affects	the liver
+hepatic encephalopathy	is caused by	liver dysfunction
+hepatitis A	is caused by	hepatitis A virus
+hepatitis B	is caused by	hepatitis B virus
+hepatitis C	is caused by	hepatitis C virus
+hepatitis D	is caused by	hepatitis D virus
+hepatitis E	is caused by	hepatitis E virus
+hemochromatosis	is caused by	iron overload in the body
+primary biliary cholangitis	is caused by	immune-mediated destruction of bile ducts
+primary sclerosing cholangitis	is caused by	inflammation and scarring of bile ducts
+Wilson's disease	is caused by	a genetic mutation
+alpha-1 antitrypsin deficiency	is caused by	deficiency of alpha-1 antitrypsin protein
+hepatic steatosis	is caused by	accumulation of fat in the liver
+hepatitis A virus	is transmitted through	contaminated food or water
+hepatitis B virus	is transmitted through	blood and body fluids
+hepatitis C virus	is transmitted through	blood-to-blood contact
+alcohol consumption	is a risk factor for	alcoholic liver disease
+obesity	is a risk factor for	non-alcoholic fatty liver disease
+excessive alcohol intake	can lead to	alcoholic liver disease
+viral infection	can result in	liver inflammation
+smoking	is a risk factor for	liver cancer
+liver cirrhosis	is a risk factor for	liver cancer
+liver transplantation	is a treatment for	end-stage liver disease
+hepatitis A vaccine	is a preventive measure for	hepatitis A
+hepatitis B vaccine	is a preventive measure for	hepatitis B
+interferon	is a treatment for	hepatitis
+chemotherapy	is a treatment for	liver cancer
+immunosuppressants	are used to treat	autoimmune hepatitis
+liver biopsy	is a diagnostic test for	liver disease
+abdominal ultrasound	is a diagnostic test for	liver disease
+liver function tests	are diagnostic tests for	liver disease
+alpha-fetoprotein	is a marker for	liver cancer
+AST	is a liver enzyme
+ALT	is a liver enzyme
+ALP	is a marker for	liver disease
+bilirubin	is a marker for	liver disease
+liver imaging	is used to diagnose	liver disease
+viral load	is a measure of	viral infection
+hepatic encephalopathy	is caused by	liver disease
+liver cirrhosis	can lead to	portal hypertension
+liver transplantation	can prolong	survival in liver disease
+alcohol abstinence	is recommended for	alcoholic liver disease
+weight loss	is recommended for	non-alcoholic fatty liver disease
+liver cancer screening	is recommended for	high-risk individuals
+antiviral therapy	is recommended for	hepatitis
+lifestyle modifications	can improve	liver health
+transjugular intrahepatic portosystemic shunt (TIPS)	is a procedure for	portal hypertension
+hepatitis A	can be prevented by	good hygiene practices
+hepatitis B	can be prevented by	vaccination
+hepatitis C	can be prevented by	avoiding sharing needles
+liver transplant	is a major surgery
+liver disease	can lead to	liver failure
+jaundice	is a symptom of	liver disease
+abdominal pain	is a symptom of	liver disease
+weight loss	is a symptom of	liver disease
+fatigue	is a symptom of	liver disease
+liver function	is affected by	liver disease
+liver disease	can affect	other organs
+hepatitis A	is transmitted through	contaminated food or water
+hepatitis B	is transmitted through	blood and body fluids
+hepatitis C	is transmitted through	blood-to-blood contact
+hepatitis A	has a vaccine to prevent	infection
+hepatitis B	has a vaccine to prevent	infection
+hepatitis C	has antiviral medications to treat	infection
+hepatitis A	has no specific treatment
+hepatitis B	has antiviral medications to treat	infection
+hepatitis C	has antiviral medications to cure	infection
+cirrhosis	increases the risk of	liver cancer
+cirrhosis	increases the risk of	hepatic encephalopathy
+alcohol consumption	can cause	liver cirrhosis
+obesity	can cause	non-alcoholic fatty liver disease
+viral infection	can cause	liver inflammation
+smoking	increases the risk of	liver cancer
+hepatitis B	increases the risk of	liver cancer
+hepatitis C	increases the risk of	liver cancer
+autoimmune hepatitis	is characterized by	immune system attacking the liver
+hemochromatosis	is characterized by	excessive iron accumulation in the liver
+primary biliary cholangitis	is characterized by	inflammation and destruction of bile ducts
+primary sclerosing cholangitis	is characterized by	inflammation and fibrosis of bile ducts
+Wilson's disease	is characterized by	copper accumulation in the liver
+alpha-1 antitrypsin deficiency	is characterized by	lack of a protein that protects the liver
+hepatic steatosis	is characterized by	accumulation of fat in the liver
+hepatocellular carcinoma	is characterized by	uncontrolled growth of liver cells
+hepatic encephalopathy	is characterized by	brain dysfunction due to liver disease
+AST	is elevated in	liver disease
+ALT	is elevated in	liver disease
+ALP	is elevated in	liver disease
+bilirubin	is elevated in	liver disease
+liver biopsy	is used to diagnose	liver disease
+abdominal ultrasound	is used to diagnose	liver disease
+liver function tests	are used to assess	liver health
+alpha-fetoprotein	is a tumor marker for	liver cancer
+AST	is a liver enzyme
+ALT	is a liver enzyme
+ALP	is a liver enzyme
+liver imaging	can detect	liver tumors
+viral load	indicates	viral replication
+liver transplantation	is a major surgery that involves	replacing a diseased liver with a healthy one
+hepatitis	is an inflammation of	the liver
+cirrhosis	is characterized by	scarring of the liver
+alcoholic liver disease	is caused by	excessive alcohol consumption
+non-alcoholic fatty liver disease	is associated with	metabolic syndrome
+liver cancer	can metastasize to	other organs
+liver transplantation	is a treatment option for	end-stage liver disease
+autoimmune hepatitis	is an autoimmune disorder that affects	the liver
+hepatic encephalopathy	is caused by	liver dysfunction
+hepatitis A	is caused by	hepatitis A virus
+hepatitis B	is caused by	hepatitis B virus
+hepatitis C	is caused by	hepatitis C virus
+hepatitis D	is caused by	hepatitis D virus
+hepatitis E	is caused by	hepatitis E virus
+hemochromatosis	is caused by	iron overload in the body
+primary biliary cholangitis	is caused by	immune-mediated destruction of bile ducts
+primary sclerosing cholangitis	is caused by	inflammation and scarring of bile ducts
+Wilson's disease	is caused by	a genetic mutation
+alpha-1 antitrypsin deficiency	is caused by	deficiency of alpha-1 antitrypsin protein
+hepatic steatosis	is caused by	accumulation of fat in the liver
+hepatitis A virus	is transmitted through	contaminated food or water
+hepatitis B virus	is transmitted through	blood and body fluids
+hepatitis C virus	is transmitted through	blood-to-blood contact
+alcohol consumption	is a risk factor for	alcoholic liver disease
+obesity	is a risk factor for	non-alcoholic fatty liver disease
+excessive alcohol intake	can lead to	alcoholic liver disease
+viral infection	can result in	liver inflammation
+smoking	is a risk factor for	liver cancer
+liver cirrhosis	is a risk factor for	liver cancer
+liver transplantation	is a treatment for	end-stage liver disease
+hepatitis A vaccine	is a preventive measure for	hepatitis A
+hepatitis B vaccine	is a preventive measure for	hepatitis B
+interferon	is a treatment for	hepatitis
+chemotherapy	is a treatment for	liver cancer
+immunosuppressants	are used to treat	autoimmune hepatitis

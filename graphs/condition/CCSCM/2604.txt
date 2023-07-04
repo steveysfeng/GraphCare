@@ -1,0 +1,132 @@
+e codes	are used to classify	fire/burn incidents
+fire/burn	can cause	smoke inhalation
+fire/burn	may lead to	thermal burns
+fire/burn	can result in	scarring
+fire/burn	may require	surgical intervention
+burn unit	is a	specialized facility
+fire/burn	can be caused by	faulty wiring
+fire/burn	can occur due to	arson
+fire/burn	can be prevented by	fire safety measures
+fire/burn	can lead to	respiratory complications
+burn victims	may experience	pain
+burn patients	may require	skin grafting
+burn units	provide	multidisciplinary care
+fire/burn	can result in	death
+fire injuries	can be	life-threatening
+fire/burn	can damage	the respiratory system
+fire/burn	can cause	psychological trauma
+burn patients	may undergo	physical therapy
+fire/burn	can be caused by	chemical reactions
+fire/burn	can result in	disfigurement
+fire/burn	can cause	fluid loss
+fire/burn	can damage	the nervous system
+fire/burn	can lead to	infection
+burn victims	may experience	respiratory distress
+fire/burn	can cause	shock
+fire/burn	can result in	amputation
+fire/burn	can cause	hypothermia
+fire/burn	can lead to	long-term disability
+fire/burn	can be caused by	hot liquids
+fire/burn	can cause	damage to internal organs
+fire/burn	can result in	vision loss
+burn patients	may require	pain management
+fire/burn	can cause	smoke-related injuries
+fire/burn	can result in	organ failure
+burn patients	may develop	post-traumatic stress disorder
+fire/burn	can be caused by	gas explosions
+fire/burn	can cause	cognitive impairment
+fire/burn	can result in	hearing loss
+fire/burn	can lead to	permanent disability
+fire/burn	can cause	cardiac arrest
+burn patients	may require	nutritional support
+fire/burn	can cause	electrical injuries
+fire/burn	can result in	lung damage
+fire/burn	can lead to	comorbidities
+fire/burn	can result in	limited mobility
+burn patients	may undergo	reconstructive surgery
+fire/burn	can cause	respiratory failure
+fire/burn	can result in	renal failure
+fire/burn	can lead to	nerve damage
+fire/burn	can cause	fractures
+fire/burn	can result in	hemorrhage
+burn patients	may require	psychological counseling
+fire/burn	can cause	complications in pregnancy
+fire/burn	can result in	burn shock syndrome
+fire/burn	can lead to	pulmonary edema
+fire/burn	can result in	systemic inflammatory response syndrome
+fire/burn	can cause	liver damage
+fire/burn	can lead to	sepsis
+fire/burn	can result in	cerebral hypoxia
+fire/burn	can cause	poisoning
+burn patients	may develop	contractures
+fire/burn	can result in	bowel obstruction
+fire/burn	can lead to	malnutrition
+fire/burn	can cause	musculoskeletal injuries
+fire/burn	can result in	thrombosis
+fire/burn	can lead to	venous stasis
+burn patients	may require	wound care
+fire/burn	can cause	corneal injuries
+fire/burn	can result in	diabetes mellitus
+fire/burn	can lead to	renal insufficiency
+fire/burn	can result in	post-burn itch
+fire/burn	can cause	bone loss
+fire/burn	can result in	fat necrosis
+fire/burn	can lead to	amnestic syndrome
+burn patients	may experience	sleep disturbances
+fire/burn	can cause	muscle contractures
+fire/burn	can result in	acute respiratory distress syndrome
+fire/burn	can lead to	contracture deformity
+fire/burn	can result in	phantom pain
+fire/burn	can cause	joint stiffness
+burn patients	may require	occupational therapy
+fire/burn	can result in	venous thromboembolism
+fire/burn	can lead to	impaired wound healing
+fire/burn	can cause	heat exhaustion
+fire/burn	can result in	toxic epidermal necrolysis
+fire/burn	can lead to	plastic surgery
+burn patients	may undergo	scar management
+fire/burn	can result in	appendicitis
+fire/burn	can lead to	urinary tract infections
+fire/burn	can cause	pyelonephritis
+fire/burn	can result in	cholecystitis
+fire/burn	can lead to	myocardial infarction
+burn patients	may require	ventilator support
+fire/burn	can cause	inhalation injury
+fire/burn	can result in	contracture scarring
+fire/burn	can lead to	chronic pain
+fire/burn	can result in	heterotopic ossification
+fire/burn	can cause	chemical burns
+fire/burn	can lead to	retinopathy
+burn patients	may experience	depression
+fire/burn	can result in	peripheral neuropathy
+fire/burn	can cause	rabdomyolysis
+fire/burn	can lead to	gastrointestinal bleeding
+fire/burn	can result in	deconditioning
+fire/burn	can cause	frostbite
+fire/burn	can lead to	pneumonia
+fire/burn	can result in	pulmonary fibrosis
+fire/burn	can cause	asthma
+burn patients	may require	enteral nutrition
+fire/burn	can result in	autonomic dysreflexia
+fire/burn	can lead to	cataracts
+fire/burn	can result in	vitamin D deficiency
+fire/burn	can cause	multiple organ dysfunction syndrome
+fire/burn	can lead to	osteomyelitis
+burn patients	may develop	anxiety
+fire/burn	can result in	keloid scars
+fire/burn	can cause	blistering
+fire/burn	can lead to	hearing impairment
+fire/burn	can result in	respiratory distress syndrome
+fire/burn	can cause	acute kidney injury
+fire/burn	can lead to	arrhythmias
+burn patients	may require	dialysis
+fire/burn	can cause	contracture formation
+fire/burn	can result in	cellulitis
+fire/burn	can lead to	gastrointestinal obstructions
+fire/burn	can result in	pressure ulcers
+fire/burn	can cause	deep tissue injuries
+burn patients	may experience	post-burn pruritus
+fire/burn	can result in	fibromyalgia
+fire/burn	can cause	vasculitis
+fire/burn	can lead to	encephalopathy
+burn patients	may require	assistive devices

@@ -1,0 +1,63 @@
+cancer of other female genital organs	is a type of	cancer
+cancer of other female genital organs	may include	vulvar cancer
+vulvar cancer	is a type of	cancer
+cancer of other female genital organs	may include	vaginal cancer
+vaginal cancer	is a type of	cancer
+cancer of other female genital organs	may include	fallopian tube cancer
+fallopian tube cancer	is a type of	cancer
+cancer of other female genital organs	may include	uterine sarcoma
+uterine sarcoma	is a type of	cancer
+cancer of other female genital organs	may include	gestational trophoblastic disease
+gestational trophoblastic disease	is a type of	cancer
+cancer of other female genital organs	may include	primary peritoneal cancer
+primary peritoneal cancer	is a type of	cancer
+cancer of other female genital organs	may include	gestational trophoblastic neoplasia
+gestational trophoblastic neoplasia	is a type of	cancer
+cancer of other female genital organs	may have	risk factors
+risk factors	include	HPV infection
+HPV infection	may lead to	cancer of other female genital organs
+risk factors	include	smoking
+smoking	may increase the risk of	cancer of other female genital organs
+risk factors	include	age
+older age	is a risk factor for	cancer of other female genital organs
+cancer of other female genital organs	may have	symptoms
+symptoms	can include	abnormal vaginal bleeding
+abnormal vaginal bleeding	can be a symptom of	cancer of other female genital organs
+symptoms	can include	pelvic pain
+pelvic pain	can be a symptom of	cancer of other female genital organs
+symptoms	can include	vaginal discharge
+vaginal discharge	can be a symptom of	cancer of other female genital organs
+cancer of other female genital organs	may be diagnosed using	imaging tests
+imaging tests	like	MRI
+MRI	can help diagnose	cancer of other female genital organs
+cancer of other female genital organs	may be diagnosed using	biopsy
+biopsy	can confirm	cancer of other female genital organs
+cancer of other female genital organs	may be treated with	surgery
+surgery	is a treatment option for	cancer of other female genital organs
+cancer of other female genital organs	may be treated with	radiation therapy
+radiation therapy	is a treatment option for	cancer of other female genital organs
+cancer of other female genital organs	may be treated with	chemotherapy
+chemotherapy	is a treatment option for	cancer of other female genital organs
+cancer of other female genital organs	may have	prognosis factors
+prognosis factors	include	stage of cancer
+stage of cancer	affects the prognosis of	cancer of other female genital organs
+prognosis factors	include	tumor grade
+tumor grade	affects the prognosis of	cancer of other female genital organs
+prognosis factors	include	lymph node involvement
+lymph node involvement	affects the prognosis of	cancer of other female genital organs
+cancer of other female genital organs	may have	complications
+complications	can include	recurrence of cancer
+recurrence of cancer	is a complication of	cancer of other female genital organs
+complications	can include	sexual dysfunction
+sexual dysfunction	can be a complication of	cancer of other female genital organs
+cancer of other female genital organs	may have	preventive measures
+preventive measures	include	HPV vaccination
+HPV vaccination	can help prevent	cancer of other female genital organs
+preventive measures	include	regular screenings
+regular screenings	can help detect	cancer of other female genital organs
+cancer of other female genital organs	may have	supportive care needs
+supportive care needs	can include	palliative care
+palliative care	focuses on	improving quality of life
+cancer of other female genital organs	may have	survival rates
+survival rates	vary depending on	stage of cancer
+survival rates	vary depending on	type of cancer

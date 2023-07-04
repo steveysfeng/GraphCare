@@ -1,0 +1,242 @@
+immunizations	can prevent	infectious diseases
+immunizations	are recommended for	children
+immunizations	can cause	fever
+immunizations	are administered via	injections
+vaccines	are used for	immunizations
+vaccines	stimulate	immune response
+vaccines	can prevent	viral infections
+vaccines	may contain	live attenuated viruses
+vaccines	can lead to	herd immunity
+vaccines	are recommended for	adults
+vaccines	can cause	allergic reactions
+vaccines	are developed through	clinical trials
+vaccines	need to be	stored properly
+vaccines	have	expiration dates
+vaccines	can be	administered orally
+vaccines	are essential for	public health
+infectious diseases	can be	life-threatening
+infectious diseases	can spread	rapidly
+infectious diseases	can be caused by	bacteria
+infectious diseases	can be caused by	viruses
+infectious diseases	can be transmitted through	air droplets
+infectious diseases	can be transmitted through	contaminated surfaces
+infectious diseases	can be prevented through	proper hygiene
+infectious diseases	can be treated with	antibiotics
+infectious diseases	can be controlled through	quarantine measures
+infectious diseases	can lead to	hospitalization
+infectious diseases	can result in	long-term complications
+infectious diseases	can be diagnosed through	laboratory tests
+infectious diseases	require	prompt treatment
+infectious diseases	can be transmitted through	sexual contact
+infectious diseases	can be prevented through	safe sex practices
+infectious diseases	can be prevented through	vaccination
+infectious diseases	can be transmitted through	insect bites
+infectious diseases	can be transmitted through	contaminated food and water
+infectious diseases	can be prevented through	proper food handling
+infectious diseases	can be prevented through	water purification precautions
+infectious diseases	can be transmitted through	blood transfusions
+infectious diseases	can be transmitted from	mother to child during pregnancy
+infectious diseases	can be prevented through	prenatal screening
+infectious diseases	can be prevented through	immunization during pregnancy
+infectious diseases	can be transmitted through	breastfeeding
+infectious diseases	can be prevented through	proper handwashing
+infectious diseases	can be prevented through	respiratory hygiene
+infectious diseases	can be prevented through	isolation of infected individuals
+infectious diseases	can be prevented through	contact tracing
+infectious diseases	can be prevented through	public health campaigns
+infectious diseases	can be prevented through	travel advisories
+infectious diseases	can be prevented through	quarantine measures for travelers
+infectious diseases	can be prevented through	vector control
+infectious diseases	can be prevented through	surveillance systems
+infectious diseases	can be prevented through	education and awareness programs
+infectious diseases	can be prevented through	early detection and treatment
+infectious diseases	can be transmitted through	close contact with infected individuals
+infectious diseases	can be transmitted through	respiratory droplets
+infectious diseases	can be transmitted through	contaminated needles
+infectious diseases	can be transmitted through	organ transplantation
+infectious diseases	can be transmitted through	shared needles
+infectious diseases	can be transmitted through	unprotected sex
+infectious diseases	can be transmitted through	close proximity to infected individuals
+infectious diseases	can be transmitted through	contaminated food handling
+infectious diseases	can be transmitted through	contact with infected animals
+infectious diseases	can be transmitted through	insect bites
+infectious diseases	can be transmitted through	exposure to contaminated environments
+infectious diseases	can be transmitted through	contaminated water sources
+infectious diseases	can be transmitted through	contaminated surfaces
+infectious diseases	can be transmitted through	infected bodily fluids
+infectious diseases	can be transmitted through	respiratory secretions
+infectious diseases	can be transmitted through	blood contact
+infectious diseases	can be transmitted through	direct contact with infected individuals
+infectious diseases	can be transmitted through	indirect contact with infected individuals
+infectious diseases	can be transmitted through	sharing personal items
+infectious diseases	can be transmitted through	contact with contaminated objects
+infectious diseases	can be transmitted through	airborne particles
+infectious diseases	can be transmitted through	droplet nuclei
+infectious diseases	can be transmitted through	contact with infected animals or their feces
+infectious diseases	can be transmitted through	contact with infected people's saliva
+infectious diseases	can be transmitted through	exposure to infected people's coughs or sneezes
+infectious diseases	can be transmitted through	exposure to infected people's blood
+infectious diseases	can be transmitted through	exposure to infected people's body fluids
+infectious diseases	can be transmitted through	exposure to infected people's urine
+infectious diseases	can be transmitted through	exposure to infected people's feces
+infectious diseases	can be transmitted through	exposure to infected people's vomit
+infectious diseases	can be transmitted through	exposure to infected people's genital secretions
+infectious diseases	can be transmitted through	exposure to infected people's breast milk
+infectious diseases	can be transmitted through	exposure to infected people's mucous membranes
+infectious diseases	can be transmitted through	exposure to infected people's broken skin
+infectious diseases	can be transmitted through	exposure to infected people's open wounds
+infectious diseases	can be transmitted through	exposure to infected people's surgical incisions
+infectious diseases	can be transmitted through	exposure to infected people's catheters
+infectious diseases	can be transmitted through	exposure to infected people's endoscopes
+infectious diseases	can be transmitted through	exposure to infected people's medical devices
+infectious diseases	can be transmitted through	exposure to infected people's needles
+infectious diseases	can be transmitted through	exposure to infected people's contaminated instruments
+infectious diseases	can be transmitted through	exposure to infected people's contaminated surfaces
+infectious diseases	can be transmitted through	exposure to infected people's contaminated air
+infectious diseases	can be transmitted through	exposure to infected people's contaminated food or drinks
+infectious diseases	can be transmitted through	exposure to infected people's saliva during kissing
+infectious diseases	can be transmitted through	exposure to infected people's bodily fluids during sexual intercourse
+infectious diseases	can be transmitted through	exposure to infected people's contaminated dishes or cutlery
+infectious diseases	can be transmitted through	exposure to infected people's shared food or drinks
+infectious diseases	can be transmitted through	exposure to infected people's contaminated items in healthcare settings
+infectious diseases	can be transmitted through	exposure to infected people's contaminated items in public settings
+infectious diseases	can be transmitted through	exposure to infected people's contaminated clothes or bedding
+infectious diseases	can be transmitted through	exposure to infected people's contaminated surfaces in healthcare settings
+infectious diseases	can be transmitted through	exposure to infected people's contaminated air in healthcare settings
+infectious diseases	can be transmitted through	exposure to infected people's contaminated healthcare equipment
+infectious diseases	can be transmitted through	exposure to infected people's contaminated medical waste
+infectious diseases	can be transmitted through	exposure to infected people's contaminated hospital linens
+infectious diseases	can be transmitted through	exposure to infected animals or their contaminated habitats
+infectious diseases	can be transmitted through	exposure to contaminated soil
+infectious diseases	can be transmitted through	exposure to contaminated water
+infectious diseases	can be transmitted through	exposure to contaminated food
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in public settings
+infectious diseases	can be transmitted through	exposure to contaminated objects in public settings
+infectious diseases	can be transmitted through	exposure to contaminated air in public settings
+infectious diseases	can be transmitted through	exposure to contaminated food or drinks in public settings
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in healthcare or public settings
+infectious diseases	can be transmitted through	exposure to contaminated air in healthcare or public settings
+infectious diseases	can be transmitted through	exposure to contaminated healthcare equipment or instruments
+infectious diseases	can be transmitted through	exposure to contaminated medical waste in healthcare settings
+infectious diseases	can be transmitted through	exposure to contaminated hospital linens or clothing
+infectious diseases	can be transmitted through	exposure to contaminated items used by infected individuals
+infectious diseases	can be transmitted through	exposure to contaminated water sources or reservoirs
+infectious diseases	can be transmitted through	exposure to contaminated food or water supplies
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in public restrooms
+infectious diseases	can be transmitted through	exposure to contaminated objects in public restrooms
+infectious diseases	can be transmitted through	exposure to contaminated air in public restrooms
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in healthcare settings
+infectious diseases	can be transmitted through	exposure to contaminated objects in healthcare settings
+infectious diseases	can be transmitted through	exposure to contaminated air in healthcare settings
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in food establishments
+infectious diseases	can be transmitted through	exposure to contaminated utensils in food establishments
+infectious diseases	can be transmitted through	exposure to contaminated food or drinks in food establishments
+infectious diseases	can be transmitted through	exposure to contaminated air in food establishments
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in recreational settings
+infectious diseases	can be transmitted through	exposure to contaminated objects in recreational settings
+infectious diseases	can be transmitted through	exposure to contaminated air in recreational settings
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in educational settings
+infectious diseases	can be transmitted through	exposure to contaminated objects in educational settings
+infectious diseases	can be transmitted through	exposure to contaminated air in educational settings
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in workplace settings
+infectious diseases	can be transmitted through	exposure to contaminated objects in workplace settings
+infectious diseases	can be transmitted through	exposure to contaminated air in workplace settings
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in public transportation
+infectious diseases	can be transmitted through	exposure to contaminated objects in public transportation
+infectious diseases	can be transmitted through	exposure to contaminated air in public transportation
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in crowded places
+infectious diseases	can be transmitted through	exposure to contaminated objects in crowded places
+infectious diseases	can be transmitted through	exposure to contaminated air in crowded places
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in social gatherings
+infectious diseases	can be transmitted through	exposure to contaminated objects in social gatherings
+infectious diseases	can be transmitted through	exposure to contaminated air in social gatherings
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in healthcare facilities
+infectious diseases	can be transmitted through	exposure to contaminated objects in healthcare facilities
+infectious diseases	can be transmitted through	exposure to contaminated air in healthcare facilities
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in food processing facilities
+infectious diseases	can be transmitted through	exposure to contaminated objects in food processing facilities
+infectious diseases	can be transmitted through	exposure to contaminated air in food processing facilities
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in swimming pools
+infectious diseases	can be transmitted through	exposure to contaminated objects in swimming pools
+infectious diseases	can be transmitted through	exposure to contaminated air in swimming pools
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in public places
+infectious diseases	can be transmitted through	exposure to contaminated objects in public places
+infectious diseases	can be transmitted through	exposure to contaminated air in public places
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in residential areas
+infectious diseases	can be transmitted through	exposure to contaminated objects in residential areas
+infectious diseases	can be transmitted through	exposure to contaminated air in residential areas
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in rural areas
+infectious diseases	can be transmitted through	exposure to contaminated objects in rural areas
+infectious diseases	can be transmitted through	exposure to contaminated air in rural areas
+infectious diseases	can be transmitted through	exposure to contaminated surfaces in urban areas
+infectious diseases	can be transmitted through	exposure to contaminated objects in urban areas
+infectious diseases	can be transmitted through	exposure to contaminated air in urban areas
+immunizations	can reduce	morbidity
+immunizations	can prevent	complications
+immunizations	can protect	vulnerable populations
+immunizations	can save	lives
+immunizations	can reduce	healthcare costs
+immunizations	are recommended based on	age and risk factors
+immunizations	should be	up to date
+immunizations	are an important component of	preventive care
+immunizations	should be	documented
+immunizations	require	booster doses
+immunizations	provide	immunity
+immunizations	can be	lifelong
+immunizations	should be	reviewed periodically
+immunizations	are administered by	healthcare professionals
+immunizations	are approved by	regulatory authorities
+immunizations	should be	accessible
+immunizations	should be	affordable
+immunizations	are part of	national immunization schedules
+immunizations	are included in	well-child visits
+immunizations	can be obtained from	primary care providers
+immunizations	can be obtained from	public health clinics
+immunizations	can be obtained from	pharmacies
+immunizations	can be obtained from	school-based programs
+immunizations	can be obtained from	workplaces
+immunizations	can be obtained from	travel clinics
+immunizations	can be obtained from	community health centers
+immunizations	require	informed consent
+immunizations	may be	mandatory
+immunizations	should be	reported to public health agencies
+immunizations	can be	forgotten
+immunizations	can be	refused
+immunizations	can be	missed
+immunizations	should be	prioritized
+immunizations	should be	promoted
+immunizations	can be	misunderstood
+immunizations	should be	supported
+immunizations	contribute to	public health
+immunizations	contribute to	global health
+immunizations	can be	controversial
+immunizations	have	side effects
+immunizations	have	contraindications
+immunizations	require	storage and handling guidelines
+immunizations	may require	cold chain storage
+immunizations	may require	temperature monitoring
+immunizations	can be	administered simultaneously
+immunizations	can be	administered to immunocompromised individuals
+immunizations	can be	administered during pregnancy
+immunizations	are part of	national immunization campaigns
+immunizations	are part of	global immunization initiatives
+immunizations	can be	travel requirements
+immunizations	can be	recommended for certain occupations
+immunizations	can be	recommended for travelers
+immunizations	can be	required for entry into certain countries
+immunizations	can be	required for enrollment in schools or colleges
+immunizations	can be	required for employment in certain industries
+immunizations	can be	required for participation in certain activities
+immunizations	can be	required for healthcare workers
+immunizations	can be	required for military personnel
+immunizations	can be	required for immigrants or refugees
+immunizations	can be	required for individuals with specific medical conditions
+immunizations	can be	required for pregnant women
+immunizations	can be	required for children in foster care
+immunizations	can be	required for inmates in correctional facilities
+immunizations	can be	required for individuals in detention or deportation facilities
+immunizations	can be	required for individuals in nursing homes or long-term care facilities
+immunizations	can be	required for individuals in mental health facilities
+immunizations	can be	required for individuals in rehabilitation centers
+immunizations	can be	required for individuals in residential or group homes
+immunizations	can be	required for individuals in homeless shelters

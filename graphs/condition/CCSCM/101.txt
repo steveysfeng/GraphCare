@@ -1,0 +1,98 @@
+coronary atherosclerosis	is a	type of heart disease
+coronary atherosclerosis	can cause	angina
+angina	is a symptom of	coronary atherosclerosis
+coronary atherosclerosis	increases the risk of	heart attack
+heart attack	can lead to	heart failure
+heart failure	is a complication of	coronary atherosclerosis
+coronary atherosclerosis	can be diagnosed with	coronary angiography
+coronary angiography	is a test for	coronary atherosclerosis
+coronary atherosclerosis	is treated with	statins
+statins	are a type of	medication
+statins	help to	lower cholesterol levels
+coronary atherosclerosis	is a risk factor for	stroke
+stroke	is a complication of	coronary atherosclerosis
+coronary atherosclerosis	can be managed with	lifestyle changes
+lifestyle changes	help to	reduce the progression of coronary atherosclerosis
+coronary atherosclerosis	is a leading cause of	death
+coronary atherosclerosis	is a	heart disease
+coronary atherosclerosis	may cause	angina
+coronary atherosclerosis	is a risk factor for	myocardial infarction
+coronary atherosclerosis	is treated with	statins
+statins	lower	cholesterol
+myocardial infarction	may lead to	heart failure
+heart failure	can cause	fluid retention
+fluid retention	may lead to	edema
+edema	is characterized by	swelling
+angina	is relieved by	nitroglycerin
+nitroglycerin	is a	vasodilator
+heart disease	is managed by	cardiologist
+cardiologist	performs	angioplasty
+angioplasty	is a	surgical procedure
+surgical procedure	can lead to	complications
+complications	require	follow-up care
+follow-up care	involves	regular monitoring
+regular monitoring	helps	prevent complications
+heart disease	is linked to	obesity
+obesity	increases the risk of	hypertension
+hypertension	is commonly treated with	ACE inhibitors
+ACE inhibitors	relax	blood vessels
+myocardial infarction	is a	medical emergency
+medical emergency	requires	immediate treatment
+heart failure	is associated with	shortness of breath
+shortness of breath	can be caused by	lung congestion
+lung congestion	is a symptom of	heart failure
+coronary atherosclerosis	can be diagnosed by	coronary angiography
+coronary angiography	is an	imaging test
+imaging test	provides	detailed images
+detailed images	help in	diagnosis
+diagnosis	guides	treatment
+treatment	aims to	manage symptoms
+management of symptoms	improves	quality of life
+quality of life	is affected by	heart disease
+heart disease	requires	lifestyle modifications
+lifestyle modifications	include	exercise
+exercise	helps	strengthen the heart
+strengthening the heart	improves	cardiovascular health
+cardiovascular health	is crucial for	overall well-being
+heart disease	can be prevented by	healthy habits
+healthy habits	include	balanced diet
+balanced diet	promotes	heart health
+heart health	is essential for	longevity
+longevity	is influenced by	genetic factors
+genetic factors	play a role in	susceptibility
+susceptibility	impacts	disease progression
+disease progression	determines	prognosis
+prognosis	is an	important consideration
+important consideration	influences	treatment decisions
+treatment decisions	should be based on	evidence-based guidelines
+evidence-based guidelines	provide	recommendations
+recommendations	assist in	personalized care
+personalized care	improves	patient outcomes
+patient outcomes	contribute to	healthcare prediction
+healthcare prediction	aids in	resource allocation
+resource allocation	optimizes	healthcare delivery
+healthcare delivery	enhances	patient satisfaction
+patient satisfaction	is a	goal of healthcare providers
+goal of healthcare providers	is	patient safety
+patient safety	is ensured through	rigorous protocols
+rigorous protocols	minimize	medical errors
+medical errors	can have	serious consequences
+serious consequences	impact	patient well-being
+patient well-being	is central to	healthcare
+healthcare	should prioritize	patient-centered approach
+patient-centered approach	improves	healthcare outcomes
+healthcare outcomes	drive	continuous improvement
+continuous improvement	leads to	better healthcare
+better healthcare	benefits	society
+society	relies on	a healthy population
+a healthy population	is key for	societal development
+societal development	is influenced by	healthcare policies
+healthcare policies	shape	healthcare system
+healthcare system	impacts	access to care
+access to care	is a	social determinant of health
+social determinant of health	affects	health disparities
+health disparities	can lead to	inequities in healthcare
+inequities in healthcare	require	policy interventions
+policy interventions	aim to	reduce disparities
+reducing disparities	improves	health outcomes
+health outcomes	contribute to	healthcare prediction

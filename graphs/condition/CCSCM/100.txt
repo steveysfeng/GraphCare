@@ -1,0 +1,222 @@
+acute myocardial infarction	is a type of	heart attack
+acute myocardial infarction	can lead to	heart failure
+troponin	is a	biomarker for acute myocardial infarction
+acute myocardial infarction	is treated with	aspirin
+thrombolytic therapy	is a	treatment for acute myocardial infarction
+acute myocardial infarction	is associated with	chest pain
+acute myocardial infarction	increases the risk of	stroke
+acute myocardial infarction	is diagnosed using	ECG
+angiotensin-converting enzyme inhibitors	are commonly prescribed after	acute myocardial infarction
+acute myocardial infarction	is caused by	coronary artery blockage
+acute myocardial infarction	can result in	sudden death
+acute myocardial infarction	may require	cardiac catheterization
+acute myocardial infarction	is a leading cause of	death
+acute myocardial infarction	has symptoms such as	shortness of breath
+acute myocardial infarction	can lead to	arrhythmias
+acute myocardial infarction	can be prevented by	lifestyle modifications
+acute myocardial infarction	can cause	damage to the heart muscle
+acute myocardial infarction	has risk factors including	smoking
+acute myocardial infarction	can be diagnosed using	cardiac enzymes
+beta blockers	are commonly prescribed after	acute myocardial infarction
+acute myocardial infarction	is more common in	older adults
+acute myocardial infarction	can result in	cardiogenic shock
+acute myocardial infarction	is characterized by	chest discomfort
+acute myocardial infarction	can trigger	cardiac arrest
+acute myocardial infarction	may require	percutaneous coronary intervention
+acute myocardial infarction	is associated with	elevated blood pressure
+acute myocardial infarction	can lead to	ventricular remodeling
+acute myocardial infarction	is influenced by	genetic factors
+acute myocardial infarction	can cause	ventricular fibrillation
+acute myocardial infarction	is more common in	men
+acute myocardial infarction	is a medical emergency
+acute myocardial infarction	is linked to	obesity
+antiplatelet agents	are commonly prescribed after	acute myocardial infarction
+acute myocardial infarction	can result in	cardiac rehabilitation
+acute myocardial infarction	can lead to	reduced cardiac function
+acute myocardial infarction	is associated with	diabetes
+acute myocardial infarction	can cause	myocardial rupture
+acute myocardial infarction	is often preceded by	atherosclerosis
+acute myocardial infarction	can result in	myocardial stunning
+acute myocardial infarction	is more common in	individuals with family history of heart disease
+acute myocardial infarction	is diagnosed based on	symptoms and diagnostic tests
+ACE inhibitors	are commonly prescribed after	acute myocardial infarction
+acute myocardial infarction	can lead to	ventricular tachycardia
+acute myocardial infarction	can be detected using	coronary angiography
+acute myocardial infarction	is associated with	smoking
+acute myocardial infarction	can cause	heart rhythm disturbances
+acute myocardial infarction	is a result of	reduced blood flow to the heart
+acute myocardial infarction	can result in	cardiopulmonary arrest
+acute myocardial infarction	is more common in	individuals with high blood pressure
+acute myocardial infarction	can lead to	myocardial ischemia
+acute myocardial infarction	is influenced by	lifestyle choices
+acute myocardial infarction	is treated with	statins
+thrombosis	is a common complication of	acute myocardial infarction
+acute myocardial infarction	can cause	heart valve dysfunction
+acute myocardial infarction	is associated with	hypercholesterolemia
+acute myocardial infarction	can result in	pericarditis
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can lead to	left ventricular hypertrophy
+acute myocardial infarction	is characterized by	ST segment elevation
+acute myocardial infarction	can cause	atrial fibrillation
+acute myocardial infarction	is influenced by	diet choices
+acute myocardial infarction	can result in	cardiac tamponade
+acute myocardial infarction	is more common in	individuals with high cholesterol levels
+acute myocardial infarction	can lead to	cardiac remodeling
+acute myocardial infarction	is associated with	obesity
+acute myocardial infarction	can cause	mitral regurgitation
+acute myocardial infarction	is a risk factor for	future cardiovascular events
+acute myocardial infarction	can result in	heart block
+acute myocardial infarction	is more common in	individuals with a family history of heart disease
+acute myocardial infarction	can lead to	ventricular aneurysm
+acute myocardial infarction	is characterized by	heart muscle necrosis
+acute myocardial infarction	can cause	ventricular septal defect
+acute myocardial infarction	is influenced by	smoking
+acute myocardial infarction	can result in	heart failure with preserved ejection fraction
+acute myocardial infarction	is more common in	individuals with diabetes
+acute myocardial infarction	is associated with	hypertension
+acute myocardial infarction	can lead to	cardiogenic shock
+acute myocardial infarction	can cause	papillary muscle dysfunction
+acute myocardial infarction	is a major cause of	disability
+acute myocardial infarction	is more common in	individuals with metabolic syndrome
+acute myocardial infarction	can result in	right ventricular infarction
+acute myocardial infarction	is characterized by	elevated cardiac enzymes
+acute myocardial infarction	can cause	cardiac arrhythmias
+acute myocardial infarction	is associated with	a history of smoking
+acute myocardial infarction	can lead to	left ventricular aneurysm
+acute myocardial infarction	can result in	heart valve rupture
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can cause	conduction abnormalities
+acute myocardial infarction	is influenced by	high stress levels
+acute myocardial infarction	can result in	post-infarction angina
+acute myocardial infarction	is associated with	high triglyceride levels
+acute myocardial infarction	can lead to	cardiomyopathy
+acute myocardial infarction	can cause	ventricular aneurysm rupture
+acute myocardial infarction	is more common in	individuals with a history of substance abuse
+acute myocardial infarction	can result in	left ventricular dysfunction
+acute myocardial infarction	is characterized by	elevated troponin levels
+acute myocardial infarction	can lead to	right ventricular failure
+acute myocardial infarction	can result in	cardiac arrest
+acute myocardial infarction	is associated with	sleep apnea
+acute myocardial infarction	can cause	acute pericarditis
+acute myocardial infarction	is more common in	individuals with elevated LDL cholesterol levels
+acute myocardial infarction	can result in	heart rupture
+acute myocardial infarction	is influenced by	high blood pressure
+acute myocardial infarction	can lead to	ventricular septal rupture
+acute myocardial infarction	can cause	cardiogenic shock
+acute myocardial infarction	is a major cause of	long-term disability
+acute myocardial infarction	is more common in	individuals with a family history of premature heart disease
+acute myocardial infarction	can result in	left ventricular wall rupture
+acute myocardial infarction	is characterized by	coronary artery occlusion
+acute myocardial infarction	can cause	ventricular fibrillation
+acute myocardial infarction	is associated with	obesity
+acute myocardial infarction	can lead to	myocardial stunning
+acute myocardial infarction	can result in	post-infarction syndrome
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can cause	mitral valve dysfunction
+acute myocardial infarction	is influenced by	genetic predisposition
+acute myocardial infarction	can result in	sudden cardiac death
+acute myocardial infarction	is associated with	tobacco use
+acute myocardial infarction	can lead to	left ventricular hypertrophy
+acute myocardial infarction	can cause	atrial fibrillation
+acute myocardial infarction	is more common in	individuals with excessive alcohol consumption
+acute myocardial infarction	can result in	ventricular tachycardia
+acute myocardial infarction	is characterized by	ventricular wall motion abnormalities
+acute myocardial infarction	can cause	hypotension
+acute myocardial infarction	is influenced by	chronic kidney disease
+acute myocardial infarction	can result in	post-infarction angina
+acute myocardial infarction	is associated with	hyperlipidemia
+acute myocardial infarction	can lead to	cardiomyopathy
+acute myocardial infarction	can cause	ventricular aneurysm rupture
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can result in	left ventricular dysfunction
+acute myocardial infarction	is characterized by	elevated levels of cardiac troponin
+acute myocardial infarction	can lead to	right ventricular failure
+acute myocardial infarction	can result in	ventricular arrhythmias
+acute myocardial infarction	is associated with	chronic obstructive pulmonary disease
+acute myocardial infarction	can cause	acute pericarditis
+acute myocardial infarction	is more common in	individuals with elevated LDL cholesterol levels
+acute myocardial infarction	can result in	heart rupture
+acute myocardial infarction	is influenced by	obesity
+acute myocardial infarction	can lead to	ventricular septal rupture
+acute myocardial infarction	can cause	cardiogenic shock
+acute myocardial infarction	is a major cause of	long-term disability
+acute myocardial infarction	is more common in	individuals with a family history of premature heart disease
+acute myocardial infarction	can result in	left ventricular wall rupture
+acute myocardial infarction	is characterized by	acute occlusion of a coronary artery
+acute myocardial infarction	can cause	ventricular fibrillation
+acute myocardial infarction	is associated with	obesity
+acute myocardial infarction	can lead to	myocardial stunning
+acute myocardial infarction	can result in	post-infarction syndrome
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can cause	mitral valve dysfunction
+acute myocardial infarction	is influenced by	genetic predisposition
+acute myocardial infarction	can result in	sudden cardiac death
+acute myocardial infarction	is associated with	tobacco use
+acute myocardial infarction	can lead to	left ventricular hypertrophy
+acute myocardial infarction	can cause	atrial fibrillation
+acute myocardial infarction	is more common in	individuals with excessive alcohol consumption
+acute myocardial infarction	can result in	ventricular tachycardia
+acute myocardial infarction	is characterized by	ventricular wall motion abnormalities
+acute myocardial infarction	can cause	hypotension
+acute myocardial infarction	is influenced by	chronic kidney disease
+acute myocardial infarction	can result in	post-infarction angina
+acute myocardial infarction	is associated with	hyperlipidemia
+acute myocardial infarction	can lead to	cardiomyopathy
+acute myocardial infarction	can cause	ventricular aneurysm rupture
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can result in	left ventricular dysfunction
+acute myocardial infarction	is characterized by	elevated levels of cardiac troponin
+acute myocardial infarction	can lead to	right ventricular failure
+acute myocardial infarction	can result in	ventricular arrhythmias
+acute myocardial infarction	is associated with	chronic obstructive pulmonary disease
+acute myocardial infarction	can cause	acute pericarditis
+acute myocardial infarction	is more common in	individuals with elevated LDL cholesterol levels
+acute myocardial infarction	can result in	heart rupture
+acute myocardial infarction	is influenced by	obesity
+acute myocardial infarction	can lead to	ventricular septal rupture
+acute myocardial infarction	can cause	cardiogenic shock
+acute myocardial infarction	is a major cause of	long-term disability
+acute myocardial infarction	is more common in	individuals with a family history of premature heart disease
+acute myocardial infarction	can result in	left ventricular wall rupture
+acute myocardial infarction	is characterized by	acute occlusion of a coronary artery
+acute myocardial infarction	can cause	ventricular fibrillation
+acute myocardial infarction	is associated with	obesity
+acute myocardial infarction	can lead to	myocardial stunning
+acute myocardial infarction	can result in	post-infarction syndrome
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can cause	mitral valve dysfunction
+acute myocardial infarction	is influenced by	genetic predisposition
+acute myocardial infarction	can result in	sudden cardiac death
+acute myocardial infarction	is associated with	tobacco use
+acute myocardial infarction	can lead to	left ventricular hypertrophy
+acute myocardial infarction	can cause	atrial fibrillation
+acute myocardial infarction	is more common in	individuals with excessive alcohol consumption
+acute myocardial infarction	can result in	ventricular tachycardia
+acute myocardial infarction	is characterized by	ventricular wall motion abnormalities
+acute myocardial infarction	can cause	hypotension
+acute myocardial infarction	is influenced by	chronic kidney disease
+acute myocardial infarction	can result in	post-infarction angina
+acute myocardial infarction	is associated with	hyperlipidemia
+acute myocardial infarction	can lead to	cardiomyopathy
+acute myocardial infarction	can cause	ventricular aneurysm rupture
+acute myocardial infarction	is more common in	individuals with a sedentary lifestyle
+acute myocardial infarction	can result in	left ventricular dysfunction
+acute myocardial infarction	is characterized by	elevated levels of cardiac troponin
+acute myocardial infarction	can lead to	right ventricular failure
+acute myocardial infarction	can result in	ventricular arrhythmias
+acute myocardial infarction	is associated with	chronic obstructive pulmonary disease
+clopidogrel	is commonly prescribed after	acute myocardial infarction
+acute myocardial infarction	can cause	acute pericarditis
+acute myocardial infarction	is more common in	individuals with elevated LDL cholesterol levels
+acute myocardial infarction	can result in	heart rupture
+acute myocardial infarction	is influenced by	obesity
+acute myocardial infarction	can lead to	ventricular septal rupture
+acute myocardial infarction	can cause	cardiogenic shock
+acute myocardial infarction	is a major cause of	long-term disability
+acute myocardial infarction	is more common in	individuals with a family history of premature heart disease
+acute myocardial infarction	can result in	left ventricular wall rupture
+acute myocardial infarction	is characterized by	acute occlusion of a coronary artery
+acute myocardial infarction	can cause	ventricular fibrillation
+acute myocardial infarction	is associated with	obesity
+acute myocardial infarction	can lead to	myocardial stunning
+acute myocardial infarction	can result in	post-infarction syndrome

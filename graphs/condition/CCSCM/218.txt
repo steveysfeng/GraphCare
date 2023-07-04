@@ -1,0 +1,100 @@
+liveborn	is a	newborn
+liveborn	may experience	neonatal jaundice
+neonatal jaundice	is a sign of	liver dysfunction
+liveborn	can have	respiratory distress syndrome
+respiratory distress syndrome	is caused by	immature lungs
+liveborn	may need	mechanical ventilation
+mechanical ventilation	provides	respiratory support
+liveborn	may develop	sepsis
+sepsis	is a	life-threatening infection
+liveborn	can have	congenital anomalies
+congenital anomalies	are structural or functional	abnormalities present at birth
+liveborn	may require	surgery
+surgery	is a	medical procedure
+liveborn	can experience	hypoglycemia
+hypoglycemia	is characterized by	low blood sugar levels
+liveborn	may have	hyperbilirubinemia
+hyperbilirubinemia	is an	excess of bilirubin in the blood
+liveborn	may be at risk for	birth asphyxia
+birth asphyxia	is a	condition where the baby does not receive enough oxygen
+liveborn	may require	phototherapy
+phototherapy	is a	treatment for jaundice
+liveborn	may develop	respiratory syncytial virus infection
+respiratory syncytial virus infection	causes	respiratory illness
+liveborn	may experience	feeding difficulties
+feeding difficulties	can lead to	poor weight gain
+liveborn	may need	tube feeding
+tube feeding	provides	nutrition through a tube
+liveborn	may have	low birth weight
+low birth weight	is defined as	less than 2500 grams
+liveborn	may be	premature
+premature	means	born before 37 weeks of gestation
+liveborn	may have	respiratory distress syndrome
+liveborn	may require	oxygen therapy
+oxygen therapy	delivers	supplemental oxygen to the baby
+liveborn	may have	intraventricular hemorrhage
+intraventricular hemorrhage	is bleeding	in the brain
+liveborn	may have	patent ductus arteriosus
+patent ductus arteriosus	is a	heart condition
+liveborn	may develop	necrotizing enterocolitis
+necrotizing enterocolitis	is a	gastrointestinal disease
+liveborn	may experience	apnea
+apnea	is a	pause in breathing
+liveborn	may undergo	blood transfusion
+blood transfusion	is a	procedure to replace blood
+liveborn	may have	hypothermia
+hypothermia	is a	low body temperature
+liveborn	may require	respiratory support
+liveborn	may develop	retinopathy of prematurity
+retinopathy of prematurity	is an	eye disorder
+liveborn	may be	small for gestational age
+small for gestational age	is when the baby's	weight is below the 10th percentile for gestational age
+liveborn	may require	intensive care
+intensive care	provides	specialized medical treatment
+liveborn	may experience	hypoxic-ischemic encephalopathy
+hypoxic-ischemic encephalopathy	is a	brain injury
+liveborn	may have	meconium aspiration syndrome
+meconium aspiration syndrome	occurs when the baby	inhales meconium into the lungs
+liveborn	may develop	hypoglycemic encephalopathy
+hypoglycemic encephalopathy	is a	brain injury caused by low blood sugar
+liveborn	may require	continuous positive airway pressure
+continuous positive airway pressure	is a	form of non-invasive ventilation
+liveborn	may need	total parenteral nutrition
+total parenteral nutrition	is a	method of delivering nutrition through a vein
+liveborn	may have	persistent pulmonary hypertension
+persistent pulmonary hypertension	is high blood pressure	in the arteries of the lungs
+liveborn	may experience	septicemia
+septicemia	is a	severe bloodstream infection
+liveborn	may develop	bronchopulmonary dysplasia
+bronchopulmonary dysplasia	is a	chronic lung disease
+liveborn	may have	cardiac abnormalities
+cardiac abnormalities	are	structural defects in the heart
+liveborn	may require	chest X-ray
+chest X-ray	is a	radiographic imaging test
+liveborn	may have	feeding intolerance
+feeding intolerance	is the inability to	tolerate feeding
+liveborn	may develop	hearing loss
+hearing loss	is a	partial or total inability to hear
+liveborn	may need	blood pressure monitoring
+blood pressure monitoring	measures	the force of blood against the arterial walls
+liveborn	may experience	tremors
+tremors	are	involuntary muscle contractions
+liveborn	may have	hyperglycemia
+hyperglycemia	is	high blood sugar levels
+liveborn	may develop	hypoxemia
+hypoxemia	is a	low level of oxygen in the blood
+liveborn	may require	nutritional supplements
+nutritional supplements	provide	additional nutrients
+liveborn	may have	feeding tube complications
+feeding tube complications	can	cause infection or discomfort
+liveborn	may experience	seizures
+seizures	are	sudden	uncontrolled movements or loss of consciousness
+liveborn	may develop	metabolic acidosis
+metabolic acidosis	is	an excess of acid in the blood
+liveborn	may need	blood tests
+blood tests	are	laboratory tests on blood samples
+liveborn	may have	anemia
+anemia	is a	deficiency of red blood cells or hemoglobin
+liveborn	may require	respiratory therapy
+respiratory therapy	includes	various treatments to improve lung function
+liveborn	may have	vitamin D deficiency

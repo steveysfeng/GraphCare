@@ -1,0 +1,125 @@
+infective arthritis	is a type of	arthritis
+infective arthritis	is caused by	bacterial infection
+osteomyelitis	is a	bone infection
+bacterial infection	can lead to	osteomyelitis
+infective arthritis	can occur due to	joint surgery
+osteomyelitis	can be a complication of	infective arthritis
+infective arthritis	is treated with	antibiotics
+osteomyelitis	requires	surgical intervention
+infective arthritis	may result in	joint destruction
+osteomyelitis	can cause	bone necrosis
+infective arthritis	is characterized by	joint pain
+osteomyelitis	often presents with	localized bone pain
+infective arthritis	can lead to	joint deformity
+osteomyelitis	may cause	restricted limb movement
+infective arthritis	can be diagnosed using	joint fluid analysis
+osteomyelitis	is diagnosed through	imaging tests
+infective arthritis	can be prevented with	proper wound care
+osteomyelitis	can be prevented by	treating infections promptly
+infective arthritis	has a higher risk in	immunocompromised patients
+osteomyelitis	is more common in	diabetics
+infective arthritis	requires	long-term follow-up
+osteomyelitis	may result in	chronic pain
+infective arthritis	can lead to	septicemia
+osteomyelitis	can cause	septic arthritis
+infective arthritis	should be differentiated from	non-infective arthritis
+osteomyelitis	should be distinguished from	cellulitis
+infective arthritis	can be associated with	skin and soft tissue infections
+osteomyelitis	can spread to	adjacent joints
+infective arthritis	is more common in	children
+osteomyelitis	is more common in	adults
+infective arthritis	can be caused by	Staphylococcus aureus
+osteomyelitis	can be caused by	Staphylococcus species
+infective arthritis	may require	joint aspiration
+osteomyelitis	may require	bone biopsy
+infective arthritis	can result in	septic complications
+osteomyelitis	can lead to	pathologic fractures
+infective arthritis	requires	early diagnosis
+osteomyelitis	requires	prompt treatment
+infective arthritis	can be associated with	abscess formation
+osteomyelitis	can lead to	sinus tract formation
+infective arthritis	is a potential complication of	intravenous drug use
+osteomyelitis	can occur after	open fractures
+infective arthritis	may lead to	chronic disability
+osteomyelitis	can result in	limb amputation
+infective arthritis	can be managed by	a multidisciplinary team
+osteomyelitis	often requires	hospitalization
+infective arthritis	can cause	systemic symptoms
+osteomyelitis	may present with	swelling and warmth around the affected bone
+infective arthritis	can be associated with	fever
+osteomyelitis	can result in	septic shock
+infective arthritis	has a higher risk in	patients with joint prostheses
+osteomyelitis	is more common in	weight-bearing bones
+infective arthritis	requires	regular monitoring
+osteomyelitis	often requires	long-term antibiotic therapy
+infective arthritis	can be a complication of	sexually transmitted infections
+osteomyelitis	can result from	contiguous spread of infection
+infective arthritis	can be a consequence of	septicemia
+osteomyelitis	can occur in	any age group
+infective arthritis	can be associated with	septic bursitis
+osteomyelitis	can lead to	bone deformity
+infective arthritis	should be managed with	appropriate antibiotic selection
+osteomyelitis	may require	surgical debridement
+infective arthritis	can lead to	joint instability
+osteomyelitis	can cause	reduced bone density
+infective arthritis	can result in	joint erosions
+osteomyelitis	can cause	vertebral collapse
+infective arthritis	can lead to	septicemia
+osteomyelitis	can result from	hematogenous spread of pathogens
+infective arthritis	is more common in	older adults
+osteomyelitis	is more common in	males
+infective arthritis	can be secondary to	skin infections
+osteomyelitis	can be secondary to	surgical site infections
+infective arthritis	can be associated with	joint effusion
+osteomyelitis	can cause	chronic bone pain
+infective arthritis	can result in	joint stiffness
+osteomyelitis	can lead to	bone sequestrum
+infective arthritis	can be caused by	Mycobacterium tuberculosis
+osteomyelitis	can be caused by	Pseudomonas aeruginosa
+infective arthritis	may require	joint replacement surgery
+osteomyelitis	can lead to	limb shortening
+infective arthritis	can be associated with	immunodeficiency disorders
+osteomyelitis	can be associated with	open wounds
+infective arthritis	is more common in	developing countries
+osteomyelitis	is more common in	patients with a compromised immune system
+infective arthritis	can occur after	joint trauma
+osteomyelitis	can be a consequence of	infected surgical implants
+infective arthritis	can be a complication of	GI infections
+osteomyelitis	can result in	bone destruction
+infective arthritis	requires	appropriate antibiotic therapy
+osteomyelitis	often requires	prolonged hospital stay
+infective arthritis	can lead to	sepsis
+osteomyelitis	can cause	chronic osteomyelitis
+infective arthritis	can be associated with	foreign body infections
+osteomyelitis	can be associated with	sequestrum formation
+infective arthritis	can result in	irreversible joint damage
+osteomyelitis	can lead to	limb deformity
+infective arthritis	can lead to	joint contractures
+osteomyelitis	can be caused by	dental infections
+infective arthritis	can be caused by	respiratory tract infections
+osteomyelitis	may present with	localized swelling
+infective arthritis	can be associated with	immune deficiency
+osteomyelitis	can be associated with	peripheral neuropathy
+infective arthritis	can be associated with	septicemia
+osteomyelitis	can cause	septic emboli
+infective arthritis	requires	early intervention
+osteomyelitis	requires	multidrug therapy
+infective arthritis	can be a complication of	endocarditis
+osteomyelitis	can be a complication of	diabetic foot ulcers
+infective arthritis	can result from	hematogenous spread of infection
+osteomyelitis	can occur after	bone fractures
+infective arthritis	may result in	joint dysfunction
+osteomyelitis	can lead to	bone abscess
+infective arthritis	can be associated with	genitourinary tract infections
+osteomyelitis	can be associated with	compromised blood supply to the bone
+infective arthritis	can be associated with	blood stream infections
+osteomyelitis	can cause	chronic wound infections
+infective arthritis	can result in	joint contractures
+osteomyelitis	can lead to	chronic draining sinuses
+infective arthritis	requires	close monitoring
+osteomyelitis	requires	wound debridement
+infective arthritis	can be complicated by	sepsis
+osteomyelitis	can lead to	pathological fractures
+infective arthritis	can be associated with	prosthetic joint infections
+osteomyelitis	can be associated with	peripheral vascular disease
+infective arthritis	can be associated with	vascular insufficiency

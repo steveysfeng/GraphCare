@@ -1,0 +1,143 @@
+cancer of thyroid	is a	malignant tumor
+cancer of thyroid	is more common in	females
+radiation therapy	is a treatment for	cancer of thyroid
+cancer of thyroid	can spread to	lymph nodes
+total thyroidectomy	is a surgical procedure for	cancer of thyroid
+cancer of thyroid	can be detected by	thyroid ultrasound
+cancer of thyroid	may cause	hyperthyroidism
+levothyroxine	is a medication used to	treat hypothyroidism
+cancer of thyroid	has a higher risk of	recurrence
+thyroglobulin	is a tumor marker for	cancer of thyroid
+papillary carcinoma	is the most common type of	cancer of thyroid
+cancer of thyroid	may present with	dysphagia
+cancer of thyroid	has a better prognosis when	diagnosed at an early stage
+cancer of thyroid	can lead to	hoarseness
+thyroidectomy	is a surgery to remove	cancer of thyroid
+cancer of thyroid	can cause	weight loss
+cancer of thyroid	is associated with	exposure to radiation
+thyroid-stimulating hormone (TSH)	is a hormone that	regulates thyroid function
+cancer of thyroid	can metastasize to	lungs
+cancer of thyroid	can cause	fatigue
+thyroid scan	is a diagnostic test for	cancer of thyroid
+cancer of thyroid	can result in	hypothyroidism
+cancer of thyroid	has a higher incidence in	older individuals
+cancer of thyroid	is linked to	genetic mutations
+cancer of thyroid	is characterized by	abnormal growth of thyroid cells
+cancer of thyroid	may require	radioactive iodine therapy
+cancer of thyroid	is associated with	exposure to asbestos
+cancer of thyroid	can lead to	difficulty breathing
+thyroid hormone replacement therapy	is used to	maintain thyroid hormone levels
+cancer of thyroid	can be diagnosed using	fine needle aspiration
+cancer of thyroid	has a higher prevalence in	regions with iodine deficiency
+cancer of thyroid	has a higher risk of	distant metastasis
+cancer of thyroid	can cause	neck pain
+thyroid peroxidase antibody	is a marker for	autoimmune thyroid disease
+cancer of thyroid	is often asymptomatic in	early stages
+cancer of thyroid	can be aggressive in	older adults
+cancer of thyroid	can lead to	difficulty swallowing
+cancer of thyroid	can result in	voice changes
+thyroidectomy	is a surgical procedure to remove	cancer of thyroid
+cancer of thyroid	is associated with	exposure to ionizing radiation
+cancer of thyroid	can cause	palpable neck mass
+cancer of thyroid	is more common in individuals with	family history of thyroid cancer
+cancer of thyroid	can be detected by	thyroid function tests
+cancer of thyroid	can result in	high calcium levels
+cancer of thyroid	may require	chemotherapy
+cancer of thyroid	can cause	anxiety
+thyroid hormones	are important for	metabolism regulation
+cancer of thyroid	can cause	chest pain
+cancer of thyroid	is linked to	certain inherited conditions
+cancer of thyroid	can lead to	difficulty speaking
+cancer of thyroid	has a higher mortality rate in	older patients
+cancer of thyroid	can cause	facial swelling
+cancer of thyroid	is associated with	exposure to certain chemicals
+cancer of thyroid	can result in	bone pain
+cancer of thyroid	has a higher incidence in	regions with iodine excess
+cancer of thyroid	can metastasize to	liver
+cancer of thyroid	can cause	hair loss
+cancer of thyroid	is diagnosed using	imaging tests
+cancer of thyroid	can lead to	weakness
+cancer of thyroid	can be fatal if	untreated
+cancer of thyroid	is more common in individuals with	history of radiation therapy
+cancer of thyroid	can cause	swelling in the neck
+cancer of thyroid	is associated with	certain genetic syndromes
+cancer of thyroid	can result in	facial nerve paralysis
+cancer of thyroid	has a higher recurrence rate in	advanced stages
+cancer of thyroid	requires	lifelong follow-up
+cancer of thyroid	can cause	irregular heartbeat
+cancer of thyroid	is more common in individuals with	autoimmune thyroid disease
+cancer of thyroid	can lead to	osteoporosis
+thyroid-stimulating hormone receptor antibody	is a marker for	Graves' disease
+cancer of thyroid	can metastasize to	bones
+cancer of thyroid	can cause	depression
+cancer of thyroid	is associated with	obesity
+cancer of thyroid	can result in	double vision
+cancer of thyroid	has a higher mortality rate in	males
+cancer of thyroid	can lead to	anemia
+cancer of thyroid	is more common in individuals with	Down syndrome
+thyroid ultrasound	is a imaging technique for	cancer of thyroid
+cancer of thyroid	can cause	infertility
+cancer of thyroid	is associated with	exposure to pesticides
+cancer of thyroid	can result in	difficulty hearing
+cancer of thyroid	may require	targeted therapy
+cancer of thyroid	can cause	memory problems
+cancer of thyroid	is more common in individuals with	Hashimoto's thyroiditis
+cancer of thyroid	can lead to	seizures
+cancer of thyroid	has a higher mortality rate in	black patients
+cancer of thyroid	can metastasize to	brain
+cancer of thyroid	can cause	vision changes
+cancer of thyroid	is associated with	exposure to radiation therapy
+cancer of thyroid	can result in	swallowing difficulties
+cancer of thyroid	requires	multidisciplinary care
+cancer of thyroid	can cause	sleep disturbances
+cancer of thyroid	is more common in individuals with	MEN2 syndrome
+cancer of thyroid	can lead to	shortness of breath
+cancer of thyroid	has a higher mortality rate in	advanced age
+cancer of thyroid	can metastasize to	adrenal glands
+cancer of thyroid	can cause	cognitive impairment
+cancer of thyroid	is associated with	exposure to certain viruses
+cancer of thyroid	can result in	vocal cord paralysis
+cancer of thyroid	may require	targeted drug therapy
+cancer of thyroid	can cause	mood changes
+cancer of thyroid	is more common in individuals with	Cowden syndrome
+cancer of thyroid	can lead to	heart problems
+cancer of thyroid	has a higher mortality rate in	Hispanic patients
+cancer of thyroid	can metastasize to	lymphatic system
+cancer of thyroid	can cause	muscle weakness
+cancer of thyroid	is associated with	exposure to industrial pollutants
+cancer of thyroid	can result in	difficulty concentrating
+cancer of thyroid	requires	close monitoring
+cancer of thyroid	can cause	menstrual irregularities
+cancer of thyroid	is more common in individuals with	Gardner syndrome
+cancer of thyroid	can lead to	difficulty sleeping
+cancer of thyroid	has a higher mortality rate in	Asian patients
+cancer of thyroid	can metastasize to	lungs
+cancer of thyroid	can cause	joint pain
+cancer of thyroid	is associated with	exposure to radiation from nuclear accidents
+cancer of thyroid	can result in	memory loss
+cancer of thyroid	may require	immunotherapy
+cancer of thyroid	can cause	irritability
+cancer of thyroid	is more common in individuals with	Lynch syndrome
+cancer of thyroid	can lead to	high blood pressure
+cancer of thyroid	has a higher mortality rate in	white patients
+cancer of thyroid	can metastasize to	liver
+cancer of thyroid	can cause	tremors
+cancer of thyroid	is associated with	exposure to certain medications
+cancer of thyroid	can result in	fatigue
+cancer of thyroid	requires	individualized treatment
+cancer of thyroid	can cause	personality changes
+cancer of thyroid	is more common in individuals with	family history of thyroid disease
+cancer of thyroid	can lead to	gastrointestinal problems
+cancer of thyroid	has a higher mortality rate in	obese patients
+cancer of thyroid	can metastasize to	pancreas
+cancer of thyroid	can result in	difficulty concentrating
+cancer of thyroid	may require	radiofrequency ablation
+cancer of thyroid	can cause	loss of appetite
+cancer of thyroid	is associated with	exposure to high levels of radiation
+cancer of thyroid	can lead to	difficulty walking
+cancer of thyroid	has a higher mortality rate in	patients with distant metastasis
+cancer of thyroid	can metastasize to	bone marrow
+cancer of thyroid	can result in	infertility
+cancer of thyroid	requires	postoperative monitoring
+cancer of thyroid	can cause	nausea
+cancer of thyroid	is more common in individuals with	Turner syndrome

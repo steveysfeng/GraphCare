@@ -1,0 +1,275 @@
+alcohol-related disorders	increase the risk of	liver damage
+alcohol-related disorders	are associated with	pancreatitis
+alcohol-related disorders	can lead to	cognitive impairment
+alcohol-related disorders	increase the risk of	domestic violence
+alcohol-related disorders	are linked to	depression
+alcohol-related disorders	can contribute to	cardiovascular disease
+alcohol-related disorders	are associated with	poor sleep quality
+alcohol-related disorders	increase the risk of	certain types of cancer
+alcohol-related disorders	can lead to	fetal alcohol syndrome
+alcohol-related disorders	increase the risk of	suicide
+alcohol-related disorders	can cause	vitamin deficiencies
+alcohol-related disorders	are associated with	social isolation
+alcohol-related disorders	increase the risk of	accidental injuries
+alcohol-related disorders	can lead to	alcohol poisoning
+alcohol-related disorders	are linked to	impaired judgment
+alcohol-related disorders	can contribute to	financial problems
+alcohol-related disorders	increase the risk of	legal issues
+alcohol-related disorders	are associated with	relationship problems
+alcohol-related disorders	can cause	fetal alcohol spectrum disorders
+alcohol-related disorders	increase the risk of	unemployment
+alcohol-related disorders	can lead to	malnutrition
+alcohol-related disorders	are linked to	memory loss
+alcohol-related disorders	can contribute to	liver cirrhosis
+alcohol-related disorders	increase the risk of	motor vehicle accidents
+alcohol-related disorders	are associated with	increased healthcare utilization
+alcohol-related disorders	can cause	sexual dysfunction
+alcohol-related disorders	increase the risk of	intimate partner violence
+alcohol-related disorders	are linked to	impaired immune function
+alcohol-related disorders	can contribute to	gastrointestinal problems
+alcohol-related disorders	increase the risk of	alcohol dependence
+alcohol-related disorders	are associated with	substance abuse
+alcohol-related disorders	can lead to	brain damage
+alcohol-related disorders	increase the risk of	stroke
+alcohol-related disorders	are linked to	poor school performance
+alcohol-related disorders	can cause	alcoholic liver disease
+alcohol-related disorders	increase the risk of	chronic diseases
+alcohol-related disorders	are associated with	increased healthcare costs
+alcohol-related disorders	can contribute to	immune system dysfunction
+alcohol-related disorders	increase the risk of	mental health disorders
+alcohol-related disorders	are linked to	alcohol withdrawal syndrome
+alcohol-related disorders	can lead to	esophageal varices
+alcohol-related disorders	increase the risk of	accidents at work
+alcohol-related disorders	are associated with	substance withdrawal
+alcohol-related disorders	can cause	alcoholic hepatitis
+alcohol-related disorders	increase the risk of	sleep disorders
+alcohol-related disorders	are linked to	delirium tremens
+alcohol-related disorders	can contribute to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	fetal growth restriction
+alcohol-related disorders	are associated with	fetal alcohol effects
+alcohol-related disorders	can lead to	alcoholic neuropathy
+alcohol-related disorders	increase the risk of	liver cancer
+alcohol-related disorders	are linked to	alcohol-induced pancreatitis
+alcohol-related disorders	can cause	alcoholic myopathy
+alcohol-related disorders	increase the risk of	substance use disorders
+alcohol-related disorders	are associated with	alcohol-related brain damage
+alcohol-related disorders	can contribute to	alcoholic ketoacidosis
+alcohol-related disorders	increase the risk of	alcohol-related accidents
+alcohol-related disorders	are linked to	alcoholic psychosis
+alcohol-related disorders	can lead to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	cirrhosis
+alcohol-related disorders	are associated with	alcohol-related dementia
+alcohol-related disorders	can cause	alcoholic polyneuropathy
+alcohol-related disorders	increase the risk of	liver failure
+alcohol-related disorders	are linked to	alcohol poisoning
+alcohol-related disorders	can contribute to	fetal alcohol syndrome
+alcohol-related disorders	increase the risk of	suicide
+alcohol-related disorders	are associated with	cognitive impairment
+alcohol-related disorders	can lead to	pancreatitis
+alcohol-related disorders	increase the risk of	liver damage
+alcohol-related disorders	are linked to	depression
+alcohol-related disorders	can contribute to	cardiovascular disease
+alcohol-related disorders	increase the risk of	poor sleep quality
+alcohol-related disorders	are associated with	certain types of cancer
+alcohol-related disorders	can cause	vitamin deficiencies
+alcohol-related disorders	increase the risk of	domestic violence
+alcohol-related disorders	are linked to	social isolation
+alcohol-related disorders	can lead to	alcohol poisoning
+alcohol-related disorders	increase the risk of	accidental injuries
+alcohol-related disorders	are associated with	relationship problems
+alcohol-related disorders	can cause	fetal alcohol spectrum disorders
+alcohol-related disorders	increase the risk of	unemployment
+alcohol-related disorders	are linked to	memory loss
+alcohol-related disorders	can contribute to	liver cirrhosis
+alcohol-related disorders	increase the risk of	motor vehicle accidents
+alcohol-related disorders	are associated with	increased healthcare utilization
+alcohol-related disorders	can cause	sexual dysfunction
+alcohol-related disorders	increase the risk of	intimate partner violence
+alcohol-related disorders	are linked to	impaired immune function
+alcohol-related disorders	can contribute to	gastrointestinal problems
+alcohol-related disorders	increase the risk of	alcohol dependence
+alcohol-related disorders	are associated with	substance abuse
+alcohol-related disorders	can lead to	brain damage
+alcohol-related disorders	increase the risk of	stroke
+alcohol-related disorders	are linked to	poor school performance
+alcohol-related disorders	can cause	alcoholic liver disease
+alcohol-related disorders	increase the risk of	chronic diseases
+alcohol-related disorders	are associated with	increased healthcare costs
+alcohol-related disorders	can contribute to	immune system dysfunction
+alcohol-related disorders	increase the risk of	mental health disorders
+alcohol-related disorders	are linked to	alcohol withdrawal syndrome
+alcohol-related disorders	can lead to	esophageal varices
+alcohol-related disorders	increase the risk of	accidents at work
+alcohol-related disorders	are associated with	substance withdrawal
+alcohol-related disorders	can cause	alcoholic hepatitis
+alcohol-related disorders	increase the risk of	sleep disorders
+alcohol-related disorders	are linked to	delirium tremens
+alcohol-related disorders	can contribute to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	fetal growth restriction
+alcohol-related disorders	are associated with	fetal alcohol effects
+alcohol-related disorders	can lead to	alcoholic neuropathy
+alcohol-related disorders	increase the risk of	liver cancer
+alcohol-related disorders	are linked to	alcohol-induced pancreatitis
+alcohol-related disorders	can cause	alcoholic myopathy
+alcohol-related disorders	increase the risk of	substance use disorders
+alcohol-related disorders	are associated with	alcohol-related brain damage
+alcohol-related disorders	can contribute to	alcoholic ketoacidosis
+alcohol-related disorders	increase the risk of	alcohol-related accidents
+alcohol-related disorders	are linked to	alcoholic psychosis
+alcohol-related disorders	can lead to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	cirrhosis
+alcohol-related disorders	are associated with	alcohol-related dementia
+alcohol-related disorders	can cause	alcoholic polyneuropathy
+alcohol-related disorders	increase the risk of	liver failure
+alcohol-related disorders	are linked to	alcohol poisoning
+alcohol-related disorders	can contribute to	fetal alcohol syndrome
+alcohol-related disorders	increase the risk of	suicide
+alcohol-related disorders	are associated with	cognitive impairment
+alcohol-related disorders	can lead to	pancreatitis
+alcohol-related disorders	increase the risk of	liver damage
+alcohol-related disorders	are linked to	depression
+alcohol-related disorders	can contribute to	cardiovascular disease
+alcohol-related disorders	increase the risk of	poor sleep quality
+alcohol-related disorders	are associated with	certain types of cancer
+alcohol-related disorders	can cause	vitamin deficiencies
+alcohol-related disorders	increase the risk of	domestic violence
+alcohol-related disorders	are linked to	social isolation
+alcohol-related disorders	can lead to	alcohol poisoning
+alcohol-related disorders	increase the risk of	accidental injuries
+alcohol-related disorders	are associated with	relationship problems
+alcohol-related disorders	can cause	fetal alcohol spectrum disorders
+alcohol-related disorders	increase the risk of	unemployment
+alcohol-related disorders	are linked to	memory loss
+alcohol-related disorders	can contribute to	liver cirrhosis
+alcohol-related disorders	increase the risk of	motor vehicle accidents
+alcohol-related disorders	are associated with	increased healthcare utilization
+alcohol-related disorders	can cause	sexual dysfunction
+alcohol-related disorders	increase the risk of	intimate partner violence
+alcohol-related disorders	are linked to	impaired immune function
+alcohol-related disorders	can contribute to	gastrointestinal problems
+alcohol-related disorders	increase the risk of	alcohol dependence
+alcohol-related disorders	are associated with	substance abuse
+alcohol-related disorders	can lead to	brain damage
+alcohol-related disorders	increase the risk of	stroke
+alcohol-related disorders	are linked to	poor school performance
+alcohol-related disorders	can cause	alcoholic liver disease
+alcohol-related disorders	increase the risk of	chronic diseases
+alcohol-related disorders	are associated with	increased healthcare costs
+alcohol-related disorders	can contribute to	immune system dysfunction
+alcohol-related disorders	increase the risk of	mental health disorders
+alcohol-related disorders	are linked to	alcohol withdrawal syndrome
+alcohol-related disorders	can lead to	esophageal varices
+alcohol-related disorders	increase the risk of	accidents at work
+alcohol-related disorders	are associated with	substance withdrawal
+alcohol-related disorders	can cause	alcoholic hepatitis
+alcohol-related disorders	increase the risk of	sleep disorders
+alcohol-related disorders	are linked to	delirium tremens
+alcohol-related disorders	can contribute to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	fetal growth restriction
+alcohol-related disorders	are associated with	fetal alcohol effects
+alcohol-related disorders	can lead to	alcoholic neuropathy
+alcohol-related disorders	increase the risk of	liver cancer
+alcohol-related disorders	are linked to	alcohol-induced pancreatitis
+alcohol-related disorders	can cause	alcoholic myopathy
+alcohol-related disorders	increase the risk of	substance use disorders
+alcohol-related disorders	are associated with	alcohol-related brain damage
+alcohol-related disorders	can contribute to	alcoholic ketoacidosis
+alcohol-related disorders	increase the risk of	alcohol-related accidents
+alcohol-related disorders	are linked to	alcoholic psychosis
+alcohol-related disorders	can lead to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	cirrhosis
+alcohol-related disorders	are associated with	alcohol-related dementia
+alcohol-related disorders	can cause	alcoholic polyneuropathy
+alcohol-related disorders	increase the risk of	liver failure
+alcohol-related disorders	are linked to	alcohol poisoning
+alcohol-related disorders	can contribute to	fetal alcohol syndrome
+alcohol-related disorders	increase the risk of	suicide
+alcohol-related disorders	are associated with	cognitive impairment
+alcohol-related disorders	can lead to	pancreatitis
+alcohol-related disorders	increase the risk of	liver damage
+alcohol-related disorders	are linked to	depression
+alcohol-related disorders	can contribute to	cardiovascular disease
+alcohol-related disorders	increase the risk of	poor sleep quality
+alcohol-related disorders	are associated with	certain types of cancer
+alcohol-related disorders	can cause	vitamin deficiencies
+alcohol-related disorders	increase the risk of	domestic violence
+alcohol-related disorders	are linked to	social isolation
+alcohol-related disorders	can lead to	alcohol poisoning
+alcohol-related disorders	increase the risk of	accidental injuries
+alcohol-related disorders	are associated with	relationship problems
+alcohol-related disorders	can cause	fetal alcohol spectrum disorders
+alcohol-related disorders	increase the risk of	unemployment
+alcohol-related disorders	are linked to	memory loss
+alcohol-related disorders	can contribute to	liver cirrhosis
+alcohol-related disorders	increase the risk of	motor vehicle accidents
+alcohol-related disorders	are associated with	increased healthcare utilization
+alcohol-related disorders	can cause	sexual dysfunction
+alcohol-related disorders	increase the risk of	intimate partner violence
+alcohol-related disorders	are linked to	impaired immune function
+alcohol-related disorders	can contribute to	gastrointestinal problems
+alcohol-related disorders	increase the risk of	alcohol dependence
+alcohol-related disorders	are associated with	substance abuse
+alcohol-related disorders	can lead to	brain damage
+alcohol-related disorders	increase the risk of	stroke
+alcohol-related disorders	are linked to	poor school performance
+alcohol-related disorders	can cause	alcoholic liver disease
+alcohol-related disorders	increase the risk of	chronic diseases
+alcohol-related disorders	are associated with	increased healthcare costs
+alcohol-related disorders	can contribute to	immune system dysfunction
+alcohol-related disorders	increase the risk of	mental health disorders
+alcohol-related disorders	are linked to	alcohol withdrawal syndrome
+alcohol-related disorders	can lead to	esophageal varices
+alcohol-related disorders	increase the risk of	accidents at work
+alcohol-related disorders	are associated with	substance withdrawal
+alcohol-related disorders	can cause	alcoholic hepatitis
+alcohol-related disorders	increase the risk of	sleep disorders
+alcohol-related disorders	are linked to	delirium tremens
+alcohol-related disorders	can contribute to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	fetal growth restriction
+alcohol-related disorders	are associated with	fetal alcohol effects
+alcohol-related disorders	can lead to	alcoholic neuropathy
+alcohol-related disorders	increase the risk of	liver cancer
+alcohol-related disorders	are linked to	alcohol-induced pancreatitis
+alcohol-related disorders	can cause	alcoholic myopathy
+alcohol-related disorders	increase the risk of	substance use disorders
+alcohol-related disorders	are associated with	alcohol-related brain damage
+alcohol-related disorders	can contribute to	alcoholic ketoacidosis
+alcohol-related disorders	increase the risk of	alcohol-related accidents
+alcohol-related disorders	are linked to	alcoholic psychosis
+alcohol-related disorders	can lead to	alcoholic cardiomyopathy
+alcohol-related disorders	increase the risk of	cirrhosis
+alcohol-related disorders	are associated with	alcohol-related dementia
+alcohol-related disorders	can cause	alcoholic polyneuropathy
+alcohol-related disorders	increase the risk of	liver failure
+alcohol-related disorders	are linked to	alcohol poisoning
+alcohol-related disorders	can contribute to	fetal alcohol syndrome
+alcohol-related disorders	increase the risk of	suicide
+alcohol-related disorders	are associated with	cognitive impairment
+alcohol-related disorders	can lead to	pancreatitis
+alcohol-related disorders	increase the risk of	liver damage
+alcohol-related disorders	are linked to	depression
+alcohol-related disorders	can contribute to	cardiovascular disease
+alcohol-related disorders	increase the risk of	poor sleep quality
+alcohol-related disorders	are associated with	certain types of cancer
+alcohol-related disorders	can cause	vitamin deficiencies
+alcohol-related disorders	increase the risk of	domestic violence
+alcohol-related disorders	are linked to	social isolation
+alcohol-related disorders	can lead to	alcohol poisoning
+alcohol-related disorders	increase the risk of	accidental injuries
+alcohol-related disorders	are associated with	relationship problems
+alcohol-related disorders	can cause	fetal alcohol spectrum disorders
+alcohol-related disorders	increase the risk of	unemployment
+alcohol-related disorders	are linked to	memory loss
+alcohol-related disorders	can contribute to	liver cirrhosis
+alcohol-related disorders	increase the risk of	motor vehicle accidents
+alcohol-related disorders	are associated with	increased healthcare utilization
+alcohol-related disorders	can cause	sexual dysfunction
+alcohol-related disorders	increase the risk of	intimate partner violence
+alcohol-related disorders	are linked to	impaired immune function
+alcohol-related disorders	can contribute to	gastrointestinal problems
+alcohol-related disorders	increase the risk of	alcohol dependence
+alcohol-related disorders	are associated with	substance abuse
+alcohol-related disorders	can lead to	brain damage
+alcohol-related disorders	increase the risk of	stroke
+alcohol-related disorders	are linked to	poor school performance
+alcohol-related disorders	can cause	alcoholic liver disease

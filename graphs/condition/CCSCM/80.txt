@@ -1,0 +1,97 @@
+multiple sclerosis	is a	neurological condition
+multiple sclerosis	is characterized by	demyelination
+multiple sclerosis	may cause	muscle weakness
+multiple sclerosis	is treated with	disease-modifying therapies
+interferon beta-1a	is a	disease-modifying therapy
+multiple sclerosis	is associated with	relapses
+glatiramer acetate	is a	disease-modifying therapy
+multiple sclerosis	can lead to	disability
+multiple sclerosis	is diagnosed using	MRI
+multiple sclerosis	is more common in	women
+multiple sclerosis	is an	autoimmune disease
+multiple sclerosis	is linked to	genetic factors
+multiple sclerosis	increases the risk of	depression
+multiple sclerosis	is a	chronic condition
+multiple sclerosis	affects the	central nervous system
+multiple sclerosis	has no	cure
+multiple sclerosis	is managed with	symptom management
+multiple sclerosis	may cause	fatigue
+multiple sclerosis	is associated with	optic neuritis
+multiple sclerosis	is classified as	a relapsing-remitting or progressive form
+multiple sclerosis	can lead to	cognitive impairment
+multiple sclerosis	is more common in	young adults
+multiple sclerosis	is characterized by	inflammation
+multiple sclerosis	is more common in	northern regions
+multiple sclerosis	is suspected based on	clinical symptoms
+multiple sclerosis	is confirmed with	specific diagnostic criteria
+multiple sclerosis	is a	demyelinating disease
+multiple sclerosis	is characterized by	the presence of multiple lesions on MRI
+multiple sclerosis	is associated with	neurodegeneration
+multiple sclerosis	is caused by	an immune response against myelin
+multiple sclerosis	may be triggered by	environmental factors
+multiple sclerosis	increases the risk of	urinary symptoms
+multiple sclerosis	can lead to	mobility impairments
+multiple sclerosis	is associated with	inflammation of the optic nerve
+multiple sclerosis	may cause	bladder dysfunction
+multiple sclerosis	is more common in	individuals with a family history
+multiple sclerosis	has a	variable course
+multiple sclerosis	includes	relapses and remissions
+multiple sclerosis	is associated with	a higher risk of other autoimmune diseases
+multiple sclerosis	is more common in	individuals with a higher socioeconomic status
+multiple sclerosis	is more common in	individuals with lower vitamin D levels
+multiple sclerosis	is managed with	physical and occupational therapy
+multiple sclerosis	is associated with	decreased quality of life
+multiple sclerosis	is associated with	increased healthcare costs
+multiple sclerosis	can lead to	muscle spasms
+multiple sclerosis	may cause	difficulty with coordination
+multiple sclerosis	is more common in	individuals of European descent
+multiple sclerosis	is associated with	a higher risk of cardiovascular disease
+multiple sclerosis	may cause	bowel dysfunction
+multiple sclerosis	is characterized by	immune system dysfunction
+multiple sclerosis	may cause	pain
+multiple sclerosis	is associated with	higher rates of unemployment
+multiple sclerosis	is associated with	an increased risk of falls
+multiple sclerosis	is more common in	individuals with a history of smoking
+multiple sclerosis	is linked to	a low intake of antioxidants
+multiple sclerosis	is more common in	individuals with a history of infectious mononucleosis
+multiple sclerosis	is associated with	increased risk of osteoporosis
+multiple sclerosis	is more common in	individuals with a previous viral infection
+multiple sclerosis	may cause	vision problems
+multiple sclerosis	is associated with	higher rates of anxiety
+multiple sclerosis	is more common in	individuals with higher body mass index
+multiple sclerosis	is associated with	increased rates of psychiatric disorders
+multiple sclerosis	may cause	cognitive dysfunction
+multiple sclerosis	is more common in	individuals with a history of Epstein-Barr virus infection
+multiple sclerosis	is associated with	increased risk of seizures
+multiple sclerosis	is more common in	individuals with a previous traumatic brain injury
+multiple sclerosis	may cause	speech difficulties
+multiple sclerosis	is associated with	increased risk of migraine
+multiple sclerosis	may cause	swallowing difficulties
+multiple sclerosis	is more common in	individuals with a history of childhood obesity
+multiple sclerosis	is associated with	increased risk of respiratory infections
+multiple sclerosis	is more common in	individuals with a history of past smoking
+multiple sclerosis	may cause	mood changes
+multiple sclerosis	is associated with	higher rates of fatigue
+multiple sclerosis	is more common in	individuals with a history of adolescent obesity
+multiple sclerosis	is associated with	increased risk of sleep disorders
+multiple sclerosis	may cause	sexual dysfunction
+multiple sclerosis	is more common in	individuals with a history of sedentary lifestyle
+multiple sclerosis	is associated with	higher rates of depression
+multiple sclerosis	is more common in	individuals with a history of prenatal tobacco exposure
+multiple sclerosis	is associated with	increased risk of bladder cancer
+multiple sclerosis	may cause	cognitive decline
+multiple sclerosis	is more common in	individuals with a history of childhood infections
+multiple sclerosis	is associated with	higher rates of disability
+multiple sclerosis	is more common in	individuals with a history of adolescent infections
+multiple sclerosis	is associated with	increased risk of secondary autoimmune diseases
+multiple sclerosis	may cause	muscle stiffness
+multiple sclerosis	is more common in	individuals with a history of past infections
+multiple sclerosis	is associated with	higher rates of cognitive impairment
+multiple sclerosis	is more common in	individuals with a history of prenatal infections
+multiple sclerosis	is associated with	increased risk of secondary cancer
+multiple sclerosis	may cause	difficulty walking
+multiple sclerosis	is more common in	individuals with a history of childhood allergies
+multiple sclerosis	is associated with	higher rates of visual impairment
+multiple sclerosis	is more common in	individuals with a history of adolescent allergies
+multiple sclerosis	is associated with	increased risk of autoimmune thyroid disease
+multiple sclerosis	may cause	balance problems

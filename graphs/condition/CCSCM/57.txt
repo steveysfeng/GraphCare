@@ -1,0 +1,284 @@
+immunity disorders	are	medical conditions
+immunity disorders	can result in	recurrent infections
+immunity disorders	may be caused by	genetic mutations
+immunity disorders	can increase the risk of	autoimmune diseases
+immunoglobulin	is used in the treatment of	immunity disorders
+immunity disorders	may require	immunosuppressive therapy
+immunity disorders	are characterized by	abnormal immune response
+immunity disorders	can lead to	immunodeficiency
+immunity disorders	can be diagnosed through	blood tests
+immunity disorders	can be managed with	lifestyle modifications
+immunity disorders	are associated with	inflammation
+immunity disorders	can be inherited
+immunity disorders	are commonly seen in	children
+immunity disorders	can be classified as	primary or secondary
+immunity disorders	can affect	multiple organs
+immunity disorders	can be caused by	viral infections
+immunity disorders	can cause	allergies
+immunity disorders	can increase the risk of	cancer
+immunity disorders	can result in	chronic infections
+immunity disorders	can lead to	impaired immune response
+immunity disorders	can be triggered by	environmental factors
+immunity disorders	can present with	recurrent fevers
+immunity disorders	can be diagnosed in	adults
+immunity disorders	can be managed with	immunotherapy
+immunity disorders	can be associated with	autoimmune thyroid disease
+immunity disorders	can be treated with	immune-modulating medications
+immunity disorders	can result in	immunoglobulin deficiencies
+immunity disorders	are more common in	females
+immunity disorders	can cause	hypersensitivity reactions
+immunity disorders	can lead to	organ damage
+immunity disorders	can manifest with	fatigue
+immunity disorders	can increase susceptibility to	opportunistic infections
+immunity disorders	can be exacerbated by	stress
+immunity disorders	can cause	recurrent respiratory infections
+immunity disorders	can be triggered by	vaccinations
+immunity disorders	can result in	autoimmune hemolytic anemia
+immunity disorders	can cause	malabsorption
+immunity disorders	can be associated with	lymphoproliferative disorders
+immunity disorders	can lead to	decreased mobility
+immunity disorders	can result in	decreased quality of life
+immunity disorders	can be managed with	dietary modifications
+immunity disorders	can be treated with	intravenous immunoglobulin
+immunity disorders	can increase susceptibility to	viral infections
+immunity disorders	can cause	joint pain
+immunity disorders	can result in	delayed wound healing
+immunity disorders	can be triggered by	hormonal changes
+immunity disorders	can lead to	recurrent skin infections
+immunity disorders	can result in	anaphylaxis
+immunity disorders	can cause	gastrointestinal symptoms
+immunity disorders	can be associated with	immune thrombocytopenia
+immunity disorders	can lead to	severe infections
+immunity disorders	can be diagnosed with	immunological testing
+immunity disorders	can be managed with	regular medical follow-up
+immunity disorders	can result in	increased hospitalizations
+immunity disorders	can be caused by	defects in immune cell function
+immunity disorders	can cause	stunted growth
+immunity disorders	can result in	immune complex deposition
+immunity disorders	can cause	neurological symptoms
+immunity disorders	can lead to	progressive organ damage
+immunity disorders	can be triggered by	exposure to allergens
+immunity disorders	can result in	persistent cough
+immunity disorders	can cause	eye problems
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can increase the risk of	autoimmune hepatitis
+immunity disorders	can cause	lymphadenopathy
+immunity disorders	can result in	lymphocytopenia
+immunity disorders	can be associated with	hyperactive immune response
+immunity disorders	can lead to	increased susceptibility to common infections
+immunity disorders	can be triggered by	certain medications
+immunity disorders	can result in	skin rashes
+immunity disorders	can cause	respiratory distress
+immunity disorders	can lead to	development of secondary infections
+immunity disorders	can increase the risk of	opportunistic infections
+immunity disorders	can be managed with	prophylactic antibiotics
+immunity disorders	can result in	anemia
+immunity disorders	can cause	vasculitis
+immunity disorders	can lead to	impaired wound healing
+immunity disorders	can be triggered by	viral illnesses
+immunity disorders	can result in	increased healthcare utilization
+immunity disorders	can cause	hepatomegaly
+immunity disorders	can lead to	delayed growth and development
+immunity disorders	can be associated with	lymphadenitis
+immunity disorders	can result in	abnormal antibody production
+immunity disorders	can cause	muscle weakness
+immunity disorders	can lead to	increased risk of infections after surgery
+immunity disorders	can be triggered by	fungal infections
+immunity disorders	can result in	impaired response to vaccinations
+immunity disorders	can cause	chronic sinusitis
+immunity disorders	can lead to	recurrent oral ulcers
+immunity disorders	can increase the risk of	sepsis
+immunity disorders	can result in	impaired wound healing
+immunity disorders	can be associated with	chronic lung diseases
+immunity disorders	can be triggered by	food allergies
+immunity disorders	can cause	fatigue
+immunity disorders	can lead to	abnormal lymphocyte count
+immunity disorders	can result in	increased susceptibility to fungal infections
+immunity disorders	can be managed with	regular vaccinations
+immunity disorders	can be associated with	neutropenia
+immunity disorders	can lead to	impaired kidney function
+immunity disorders	can cause	gastrointestinal bleeding
+immunity disorders	can result in	abnormal spleen function
+immunity disorders	can be triggered by	physical stress
+immunity disorders	can increase the risk of	recurrent pneumonia
+immunity disorders	can result in	chronic diarrhea
+immunity disorders	can cause	mouth ulcers
+immunity disorders	can lead to	bronchiectasis
+immunity disorders	can be associated with	circulatory disorders
+immunity disorders	can result in	abnormal lymph node enlargement
+immunity disorders	can cause	recurrent skin abscesses
+immunity disorders	can lead to	osteoporosis
+immunity disorders	can be triggered by	emotional stress
+immunity disorders	can result in	increased risk of tuberculosis
+immunity disorders	can cause	hepatosplenomegaly
+immunity disorders	can lead to	severe infections in newborns
+immunity disorders	can be associated with	autoimmune polyendocrine syndromes
+immunity disorders	can result in	increased risk of autoimmune diseases
+immunity disorders	can cause	joint inflammation
+immunity disorders	can lead to	increased susceptibility to parasitic infections
+immunity disorders	can be triggered by	physical exertion
+immunity disorders	can result in	abnormal liver function
+immunity disorders	can increase the risk of	meningitis
+immunity disorders	can cause	dry eyes
+immunity disorders	can lead to	chronic lung infections
+immunity disorders	can be associated with	abnormal lymphocyte function
+immunity disorders	can result in	decreased vaccine efficacy
+immunity disorders	can cause	recurrent pneumonia
+immunity disorders	can lead to	increased risk of septicemia
+immunity disorders	can be triggered by	bacterial infections
+immunity disorders	can result in	impaired response to antibiotics
+immunity disorders	can increase the risk of	viral encephalitis
+immunity disorders	can cause	muscle atrophy
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can be associated with	pulmonary hypertension
+immunity disorders	can result in	abnormal lymphocyte count
+immunity disorders	can cause	ulcerative colitis
+immunity disorders	can lead to	impaired response to antiviral medications
+immunity disorders	can be triggered by	excessive exercise
+immunity disorders	can result in	abnormal kidney function
+immunity disorders	can increase susceptibility to	chronic infections
+immunity disorders	can cause	chronic lung diseases
+immunity disorders	can result in	abnormal spleen function
+immunity disorders	can lead to	gastrointestinal bleeding
+immunity disorders	can be associated with	blood clotting disorders
+immunity disorders	can result in	recurrent respiratory infections
+immunity disorders	can cause	osteomyelitis
+immunity disorders	can lead to	abnormal lymph node enlargement
+immunity disorders	can be triggered by	emotional stress
+immunity disorders	can result in	increased risk of tuberculosis
+immunity disorders	can increase the risk of	sepsis
+immunity disorders	can cause	recurrent skin abscesses
+immunity disorders	can lead to	chronic sinusitis
+immunity disorders	can be associated with	impaired wound healing
+immunity disorders	can result in	bronchiectasis
+immunity disorders	can cause	lymphedema
+immunity disorders	can lead to	autoimmune thyroid disease
+immunity disorders	can be triggered by	physical exertion
+immunity disorders	can result in	decreased vaccine efficacy
+immunity disorders	can cause	recurrent pneumonia
+immunity disorders	can lead to	increased risk of septicemia
+immunity disorders	can be associated with	autoimmune cytopenias
+immunity disorders	can result in	decreased response to antifungal medications
+immunity disorders	can increase the risk of	parasitic infections
+immunity disorders	can cause	muscle wasting
+immunity disorders	can lead to	chronic lung infections
+immunity disorders	can be triggered by	bacterial infections
+immunity disorders	can result in	abnormal liver function
+immunity disorders	can increase susceptibility to	fungal infections
+immunity disorders	can cause	hepatitis
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can be associated with	pulmonary fibrosis
+immunity disorders	can result in	abnormal lymphocyte count
+immunity disorders	can cause	autoimmune hemolytic anemia
+immunity disorders	can lead to	impaired response to antiviral medications
+immunity disorders	can be triggered by	exposure to toxic substances
+immunity disorders	can result in	abnormal kidney function
+immunity disorders	can increase the risk of	chronic infections
+immunity disorders	can cause	chronic lung diseases
+immunity disorders	can lead to	gastrointestinal bleeding
+immunity disorders	can be associated with	thrombotic disorders
+immunity disorders	can result in	persistent cough
+immunity disorders	can cause	urinary tract infections
+immunity disorders	can lead to	impaired response to antifungal medications
+immunity disorders	can be triggered by	excessive exercise
+immunity disorders	can result in	abnormal spleen function
+immunity disorders	can increase susceptibility to	viral infections
+immunity disorders	can cause	osteomyelitis
+immunity disorders	can lead to	abnormal lymph node enlargement
+immunity disorders	can be associated with	autoimmune polyendocrine syndromes
+immunity disorders	can result in	decreased response to antibiotics
+immunity disorders	can cause	chronic diarrhea
+immunity disorders	can lead to	impaired kidney function
+immunity disorders	can be triggered by	bacterial infections
+immunity disorders	can result in	impaired response to antiviral medications
+immunity disorders	can increase the risk of	meningitis
+immunity disorders	can cause	dry eyes
+immunity disorders	can lead to	chronic lung infections
+immunity disorders	can be associated with	abnormal lymphocyte function
+immunity disorders	can result in	recurrent respiratory infections
+immunity disorders	can cause	ulcerative colitis
+immunity disorders	can lead to	increased risk of septicemia
+immunity disorders	can be triggered by	parasitic infections
+immunity disorders	can result in	abnormal kidney function
+immunity disorders	can increase susceptibility to	viral encephalitis
+immunity disorders	can cause	muscle atrophy
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can be associated with	pulmonary hypertension
+immunity disorders	can result in	abnormal lymphocyte count
+immunity disorders	can cause	gastrointestinal bleeding
+immunity disorders	can lead to	autoimmune thyroid disease
+immunity disorders	can be triggered by	physical exertion
+immunity disorders	can result in	decreased vaccine efficacy
+immunity disorders	can cause	recurrent pneumonia
+immunity disorders	can lead to	increased risk of septicemia
+immunity disorders	can be associated with	autoimmune cytopenias
+immunity disorders	can result in	decreased response to antifungal medications
+immunity disorders	can increase the risk of	parasitic infections
+immunity disorders	can cause	muscle wasting
+immunity disorders	can lead to	chronic lung infections
+immunity disorders	can be triggered by	bacterial infections
+immunity disorders	can result in	abnormal liver function
+immunity disorders	can increase susceptibility to	fungal infections
+immunity disorders	can cause	hepatitis
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can be associated with	pulmonary fibrosis
+immunity disorders	can result in	abnormal lymphocyte count
+immunity disorders	can cause	autoimmune hemolytic anemia
+immunity disorders	can lead to	impaired response to antiviral medications
+immunity disorders	can be triggered by	exposure to toxic substances
+immunity disorders	can result in	abnormal kidney function
+immunity disorders	can increase the risk of	chronic infections
+immunity disorders	can cause	chronic lung diseases
+immunity disorders	can lead to	gastrointestinal bleeding
+immunity disorders	can be associated with	thrombotic disorders
+immunity disorders	can result in	persistent cough
+immunity disorders	can cause	urinary tract infections
+immunity disorders	can lead to	impaired response to antifungal medications
+immunity disorders	can be triggered by	excessive exercise
+immunity disorders	can result in	abnormal spleen function
+immunity disorders	can increase susceptibility to	viral infections
+immunity disorders	can cause	osteomyelitis
+immunity disorders	can lead to	abnormal lymph node enlargement
+immunity disorders	can result in	decreased response to antibiotics
+immunity disorders	can cause	chronic diarrhea
+immunity disorders	can lead to	impaired kidney function
+immunity disorders	can be triggered by	bacterial infections
+immunity disorders	can result in	impaired response to antiviral medications
+immunity disorders	can increase the risk of	meningitis
+immunity disorders	can cause	dry eyes
+immunity disorders	can lead to	chronic lung infections
+immunity disorders	can be associated with	abnormal lymphocyte function
+immunity disorders	can result in	persistent cough
+immunity disorders	can cause	ulcerative colitis
+immunity disorders	can lead to	increased risk of septicemia
+immunity disorders	can be triggered by	parasitic infections
+immunity disorders	can result in	abnormal kidney function
+immunity disorders	can increase susceptibility to	viral encephalitis
+immunity disorders	can cause	muscle atrophy
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can be associated with	pulmonary hypertension
+immunity disorders	can result in	abnormal lymphocyte count
+immunity disorders	can cause	gastrointestinal bleeding
+immunity disorders	can lead to	autoimmune thyroid disease
+immunity disorders	can be triggered by	physical exertion
+immunity disorders	can result in	decreased vaccine efficacy
+immunity disorders	can cause	recurrent pneumonia
+immunity disorders	can lead to	increased risk of septicemia
+immunity disorders	can be associated with	autoimmune cytopenias
+immunity disorders	can result in	decreased response to antifungal medications
+immunity disorders	can increase the risk of	parasitic infections
+immunity disorders	can cause	muscle wasting
+immunity disorders	can lead to	chronic lung infections
+immunity disorders	can be triggered by	bacterial infections
+immunity disorders	can result in	abnormal liver function
+immunity disorders	can increase susceptibility to	fungal infections
+immunity disorders	can cause	hepatitis
+immunity disorders	can lead to	recurrent urinary tract infections
+immunity disorders	can be associated with	pulmonary fibrosis
+immunity disorders	can result in	abnormal lymphocyte count
+immunity disorders	can cause	autoimmune hemolytic anemia
+immunity disorders	can lead to	impaired response to antiviral medications
+immunity disorders	can be triggered by	exposure to toxic substances
+immunity disorders	can result in	abnormal kidney function
+immunity disorders	can increase the risk of	chronic infections
+immunity disorders	can cause	chronic lung diseases

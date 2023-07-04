@@ -1,0 +1,82 @@
+coma	can result in	brain damage
+coma	can result in	stupor
+brain damage	can result from	coma
+brain damage	can result in	disability
+brain damage	can result in	cognitive impairment
+brain damage	can result in	memory loss
+brain damage	can result in	motor impairment
+coma	can result from	head trauma
+coma	can result from	drug overdose
+coma	can result from	stroke
+coma	can result from	brain tumor
+coma	can result from	hypoxia
+coma	can result from	metabolic dysfunction
+stupor	can result from	alcohol intoxication
+stupor	can result from	drug overdose
+stupor	can result from	metabolic dysfunction
+brain damage	can lead to	coma
+coma	can lead to	death
+brain damage	can lead to	disability
+brain damage	can lead to	cognitive impairment
+brain damage	can lead to	memory loss
+brain damage	can lead to	motor impairment
+coma	can be caused by	head trauma
+coma	can be caused by	drug overdose
+coma	can be caused by	stroke
+coma	can be caused by	brain tumor
+coma	can be caused by	hypoxia
+coma	can be caused by	metabolic dysfunction
+stupor	can be caused by	alcohol intoxication
+stupor	can be caused by	drug overdose
+stupor	can be caused by	metabolic dysfunction
+head trauma	can cause	coma
+drug overdose	can cause	coma
+stroke	can cause	coma
+brain tumor	can cause	coma
+hypoxia	can cause	coma
+metabolic dysfunction	can cause	coma
+alcohol intoxication	can cause	stupor
+drug overdose	can cause	stupor
+metabolic dysfunction	can cause	stupor
+coma	can be treated with	supportive care
+brain damage	can be treated with	rehabilitation
+disability	can be treated with	physical therapy
+disability	can be treated with	occupational therapy
+cognitive impairment	can be treated with	cognitive rehabilitation
+memory loss	can be treated with	memory exercises
+motor impairment	can be treated with	physical therapy
+coma	can result from	brain injury
+coma	can result from	brain hemorrhage
+coma	can result from	brain infection
+coma	can result from	brain inflammation
+coma	can result from	brain surgery
+coma	can result from	severe illness
+coma	can result from	metabolic disorders
+coma	can result from	liver failure
+coma	can result from	kidney failure
+coma	can result from	respiratory failure
+coma	can result from	cardiac arrest
+coma	can result from	drug intoxication
+coma	can result from	hypoglycemia
+coma	can result from	hyperglycemia
+coma	can result from	septic shock
+coma	can result from	hypothyroidism
+coma	can result from	hyperthyroidism
+coma	can result from	hypothermia
+coma	can result from	heatstroke
+coma	can result from	anoxia
+coma	can result from	carbon monoxide poisoning
+coma	can result from	hypotension
+coma	can result from	hypertensive crisis
+coma	can result from	brain irradiation
+coma	can result from	drug-induced coma
+coma	can result from	benzodiazepine overdose
+coma	can result from	barbiturate overdose
+coma	can result from	opioid overdose
+coma	can result from	sedative overdose
+coma	can result from	aminoglycoside overdose
+coma	can result from	anticholinergic overdose
+coma	can result from	anticonvulsant overdose
+coma	can result from	beta blocker overdose
+coma	can result from	calcium channel blocker overdose
+coma	can result from	diuretic overdose

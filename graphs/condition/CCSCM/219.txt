@@ -1,0 +1,98 @@
+short gestation	is related to	low birth weight
+short gestation	is related to	fetal growth retardation
+low birth weight	is related to	fetal growth retardation
+prematurity	is a cause of	short gestation
+poor maternal nutrition	is a cause of	low birth weight
+smoking during pregnancy	is a cause of	fetal growth retardation
+prematurity	increases the risk of	low birth weight
+low birth weight	increases the risk of	fetal growth retardation
+gestational age	is a factor in	short gestation
+placental abnormalities	can lead to	fetal growth retardation
+intrauterine growth restriction	is a cause of	low birth weight
+preeclampsia	increases the risk of	fetal growth retardation
+gestational diabetes	increases the risk of	fetal growth retardation
+low socioeconomic status	is associated with	poor maternal nutrition
+infections during pregnancy	can lead to	preterm birth
+multiple gestation	increases the risk of	low birth weight
+maternal stress	is a factor in	short gestation
+maternal obesity	increases the risk of	gestational diabetes
+drug use during pregnancy	is a cause of	low birth weight
+inadequate prenatal care	increases the risk of	preterm birth
+gestational age	is a factor in	low birth weight
+maternal age	is a factor in	short gestation
+maternal hypertension	increases the risk of	preeclampsia
+genetic factors	can contribute to	intrauterine growth restriction
+placental insufficiency	is a cause of	fetal growth retardation
+gestational diabetes	increases the risk of	preeclampsia
+maternal smoking	increases the risk of	preterm birth
+maternal drug addiction	is a cause of	fetal growth retardation
+immune system disorders	can lead to	intrauterine growth restriction
+maternal obesity	increases the risk of	gestational hypertension
+gestational age	is a factor in	fetal growth retardation
+maternal age	is a factor in	low birth weight
+maternal hypertension	increases the risk of	intrauterine growth restriction
+maternal stress	is a factor in	low birth weight
+maternal smoking	increases the risk of	intrauterine growth restriction
+maternal drug addiction	is a cause of	preterm birth
+exposure to environmental toxins	can lead to	low birth weight
+maternal hypertension	increases the risk of	gestational diabetes
+gestational age	is a factor in	fetal growth retardation
+maternal age	is a factor in	fetal growth retardation
+maternal hypertension	increases the risk of	preterm birth
+maternal obesity	increases the risk of	preeclampsia
+maternal diabetes	increases the risk of	fetal growth retardation
+gestational age	is a factor in	low birth weight
+maternal age	is a factor in	low birth weight
+maternal hypertension	increases the risk of	gestational hypertension
+maternal obesity	increases the risk of	preterm birth
+maternal diabetes	increases the risk of	intrauterine growth restriction
+maternal stress	is a factor in	fetal growth retardation
+maternal smoking	increases the risk of	low birth weight
+maternal drug addiction	is a cause of	preterm birth
+gestational age	is a factor in	fetal growth retardation
+maternal age	is a factor in	fetal growth retardation
+maternal hypertension	increases the risk of	gestational diabetes
+maternal obesity	increases the risk of	gestational hypertension
+maternal diabetes	increases the risk of	low birth weight
+maternal stress	is a factor in	preterm birth
+maternal smoking	increases the risk of	low birth weight
+maternal drug addiction	is a cause of	intrauterine growth restriction
+gestational age	is a factor in	low birth weight
+maternal age	is a factor in	low birth weight
+maternal hypertension	increases the risk of	preeclampsia
+maternal obesity	increases the risk of	gestational diabetes
+maternal diabetes	increases the risk of	preterm birth
+maternal stress	is a factor in	fetal growth retardation
+maternal smoking	increases the risk of	intrauterine growth restriction
+maternal drug addiction	is a cause of	preterm birth
+genetic factors	can contribute to	low birth weight
+maternal hypertension	increases the risk of	gestational hypertension
+maternal obesity	increases the risk of	intrauterine growth restriction
+maternal diabetes	increases the risk of	fetal growth retardation
+maternal stress	is a factor in	preterm birth
+maternal smoking	increases the risk of	fetal growth retardation
+maternal drug addiction	is a cause of	low birth weight
+gestational age	is a factor in	fetal growth retardation
+maternal age	is a factor in	low birth weight
+maternal hypertension	increases the risk of	preeclampsia
+maternal obesity	increases the risk of	gestational diabetes
+maternal diabetes	increases the risk of	preterm birth
+maternal stress	is a factor in	low birth weight
+maternal smoking	increases the risk of	preterm birth
+maternal drug addiction	is a cause of	fetal growth retardation
+gestational age	is a factor in	low birth weight
+maternal age	is a factor in	low birth weight
+maternal hypertension	increases the risk of	gestational hypertension
+maternal obesity	increases the risk of	preterm birth
+maternal diabetes	increases the risk of	intrauterine growth restriction
+maternal stress	is a factor in	fetal growth retardation
+maternal smoking	increases the risk of	fetal growth retardation
+maternal drug addiction	is a cause of	preterm birth
+gestational age	is a factor in	fetal growth retardation
+maternal age	is a factor in	low birth weight
+maternal hypertension	increases the risk of	gestational diabetes
+maternal obesity	increases the risk of	gestational hypertension
+maternal diabetes	increases the risk of	low birth weight
+maternal stress	is a factor in	preterm birth
+maternal smoking	increases the risk of	low birth weight
+maternal drug addiction	is a cause of	intrauterine growth restriction

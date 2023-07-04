@@ -1,0 +1,249 @@
+urinary tract infections	are	common
+urinary tract infections	can be caused by	bacteria
+urinary tract infections	are more common in	women
+urinary tract infections	can cause	pain and discomfort
+urinary tract infections	are treated with	antibiotics
+amoxicillin	is an	antibiotic
+urinary tract infections	can lead to	kidney infections
+urinary tract infections	can be prevented by	proper hygiene
+urinary catheterization	can increase the risk of	urinary tract infections
+urinary tract infections	can cause	urinary frequency
+urinary tract infections	are diagnosed using	urine culture
+urinary tract infections	can recur	if not properly treated
+urinary tract infections	can be asymptomatic	in some cases
+urinary tract infections	can be complicated by	pregnancy
+urinary tract infections	can result in	sepsis
+urinary tract infections	can be caused by	sexually transmitted infections
+urinary tract infections	can cause	urinary urgency
+urinary tract infections	can be recurrent	in some individuals
+urinary tract infections	can cause	cloudy urine
+urinary tract infections	can be caused by	urinary retention
+urinary tract infections	can lead to	pyelonephritis
+urinary tract infections	can be diagnosed based on	symptoms and urine analysis
+urinary tract infections	are more common in	older adults
+urinary tract infections	can be caused by	urinary catheterization
+urinary tract infections	can cause	flank pain
+urinary tract infections	can be treated with	cranberry juice
+urinary tract infections	can be caused by	inadequate hydration
+urinary tract infections	can cause	urinary incontinence
+urinary tract infections	can be caused by	urinary obstruction
+urinary tract infections	can present with	fever
+urinary tract infections	can be prevented by	drinking plenty of water
+urinary tract infections	can be caused by	sexual intercourse
+urinary tract infections	can be diagnosed using	urine dipstick
+urinary tract infections	can be treated with	trimethoprim-sulfamethoxazole
+urinary tract infections	can cause	hematuria
+urinary tract infections	can be caused by	urethral strictures
+urinary tract infections	can lead to	urosepsis
+urinary tract infections	can be diagnosed using	urine microscopy
+urinary tract infections	can be treated with	nitrofurantoin
+urinary tract infections	can cause	dysuria
+urinary tract infections	can be caused by	bladder catheterization
+urinary tract infections	can result in	urinary retention
+urinary tract infections	can be diagnosed using	urine culture and sensitivity
+urinary tract infections	can be treated with	ciprofloxacin
+urinary tract infections	can cause	frequent urination
+urinary tract infections	can be caused by	renal calculi
+urinary tract infections	can lead to	septic shock
+urinary tract infections	can be diagnosed based on	symptoms and physical examination
+urinary tract infections	can be treated with	fosfomycin
+urinary tract infections	can cause	suprapubic pain
+urinary tract infections	can be caused by	indwelling urinary catheter
+urinary tract infections	can result in	acute kidney injury
+urinary tract infections	can be diagnosed using	urine microscopy and culture
+urinary tract infections	can be treated with	levofloxacin
+urinary tract infections	can cause	malaise
+urinary tract infections	can be caused by	bladder outlet obstruction
+urinary tract infections	can lead to	chronic kidney disease
+urinary tract infections	can be diagnosed based on	symptoms and urinalysis
+urinary tract infections	can be treated with	ceftazidime
+urinary tract infections	can result in	urinary urgency
+urinary tract infections	can be caused by	vesicoureteral reflux
+urinary tract infections	can cause	bacteremia
+urinary tract infections	can be caused by	diabetes mellitus
+urinary tract infections	can lead to	renal abscess
+urinary tract infections	can be diagnosed using	bladder ultrasound
+urinary tract infections	can be treated with	gentamicin
+urinary tract infections	can cause	urinary hesitancy
+urinary tract infections	can be caused by	neurogenic bladder
+urinary tract infections	can result in	urolithiasis
+urinary tract infections	can be diagnosed based on	symptoms and urine culture
+urinary tract infections	can be treated with	tetracycline
+urinary tract infections	can cause	irritable bladder
+urinary tract infections	can be caused by	constipation
+urinary tract infections	can lead to	renal scarring
+urinary tract infections	can be diagnosed using	radiological imaging
+urinary tract infections	can be treated with	ampicillin
+urinary tract infections	can result in	urinary frequency
+urinary tract infections	can be caused by	urinary incontinence
+urinary tract infections	can cause	urgency incontinence
+urinary tract infections	can be caused by	prostate enlargement
+urinary tract infections	can lead to	urethral strictures
+urinary tract infections	can be diagnosed using	cystoscopy
+urinary tract infections	can be treated with	azithromycin
+urinary tract infections	can cause	nocturia
+urinary tract infections	can be caused by	vesicovaginal fistula
+urinary tract infections	can result in	renal failure
+urinary tract infections	can be diagnosed based on	symptoms and bladder ultrasound
+urinary tract infections	can be treated with	sulfamethoxazole-trimethoprim
+urinary tract infections	can cause	urgency-frequency syndrome
+urinary tract infections	can be caused by	urinary bladder outlet obstruction
+urinary tract infections	can lead to	hydronephrosis
+urinary tract infections	can be diagnosed using	renal ultrasound
+urinary tract infections	can be treated with	doxycycline
+urinary tract infections	can result in	urinary incontinence
+urinary tract infections	can be caused by	urethral catheterization
+urinary tract infections	can cause	vesicourethral reflux
+urinary tract infections	can be diagnosed based on	symptoms and radiological imaging
+urinary tract infections	can be treated with	clarithromycin
+urinary tract infections	can result in	urinary urgency
+urinary tract infections	can be caused by	urinary stasis
+urinary tract infections	can lead to	bladder outlet obstruction
+urinary tract infections	can be diagnosed using	urethroscopy
+urinary tract infections	can be treated with	metronidazole
+urinary tract infections	can cause	obstructive uropathy
+urinary tract infections	can be caused by	urinary diversion
+urinary tract infections	can result in	renal tubular acidosis
+urinary tract infections	can be diagnosed based on	symptoms and cystoscopy
+urinary tract infections	can be treated with	cephalosporin
+urinary tract infections	can cause	urinary retention
+urinary tract infections	can be caused by	bowel incontinence
+urinary tract infections	can lead to	pyelonephritis
+urinary tract infections	can be diagnosed using	urodynamic studies
+urinary tract infections	can be treated with	vancomycin
+urinary tract infections	can result in	urinary urgency
+urinary tract infections	can be caused by	bladder calculi
+urinary tract infections	can cause	urosepsis
+urinary tract infections	can be diagnosed based on	symptoms and renal ultrasound
+urinary tract infections	can be treated with	fosfomycin tromethamine
+urinary tract infections	can result in	flank pain
+urinary tract infections	can be caused by	urinary tract obstruction
+urinary tract infections	can lead to	chronic pyelonephritis
+urinary tract infections	can be diagnosed using	urography
+urinary tract infections	can be treated with	piperacillin
+urinary tract infections	can cause	urinary incontinence
+urinary tract infections	can be caused by	neurogenic bladder dysfunction
+urinary tract infections	can result in	renal scarring
+urinary tract infections	can be diagnosed based on	symptoms and urodynamic studies
+urinary tract infections	can be treated with	imipenem
+urinary tract infections	can cause	urgency-frequency syndrome
+urinary tract infections	can be caused by	vesicoureteral reflux
+urinary tract infections	can lead to	obstructive uropathy
+urinary tract infections	can be diagnosed using	retrograde urethrography
+urinary tract infections	can be treated with	amikacin
+urinary tract infections	can result in	urinary hesitancy
+urinary tract infections	can be caused by	urinary diversions
+urinary tract infections	can cause	septicemia
+urinary tract infections	can be diagnosed based on	symptoms and urography
+urinary tract infections	can be treated with	teicoplanin
+urinary tract infections	can cause	urinary frequency
+urinary tract infections	can be caused by	renal calculi
+urinary tract infections	can lead to	pyonephrosis
+urinary tract infections	can be diagnosed using	voiding cystourethrography
+urinary tract infections	can be treated with	erythromycin
+urinary tract infections	can result in	hematuria
+urinary tract infections	can be caused by	urethral strictures
+urinary tract infections	can cause	bacteremia
+urinary tract infections	can be diagnosed based on	symptoms and retrograde urethrography
+urinary tract infections	can be treated with	ticarcillin
+urinary tract infections	can cause	urgency incontinence
+urinary tract infections	can be caused by	indwelling catheters
+urinary tract infections	can lead to	urethral strictures
+urinary tract infections	can be diagnosed using	uroflowmetry
+urinary tract infections	can be treated with	clindamycin
+urinary tract infections	can result in	dysuria
+urinary tract infections	can be caused by	bladder catheterization
+urinary tract infections	can cause	vesicovaginal fistula
+urinary tract infections	can be diagnosed based on	symptoms and voiding cystourethrography
+urinary tract infections	can be treated with	tazobactam
+urinary tract infections	can cause	nocturia
+urinary tract infections	can be caused by	vesicourethral reflux
+urinary tract infections	can lead to	renal papillary necrosis
+urinary tract infections	can be diagnosed using	urodynamics
+urinary tract infections	can be treated with	linezolid
+urinary tract infections	can result in	malaise
+urinary tract infections	can be caused by	bladder outlet obstruction
+urinary tract infections	can cause	septic shock
+urinary tract infections	can be diagnosed based on	symptoms and uroflowmetry
+urinary tract infections	can be treated with	nitrofurantoin
+urinary tract infections	can cause	hematuria
+urinary tract infections	can be caused by	urethral catheterization
+urinary tract infections	can lead to	chronic pyelonephritis
+urinary tract infections	can be diagnosed using	ureteroscopy
+urinary tract infections	can be treated with	meropenem
+urinary tract infections	can result in	urinary retention
+urinary tract infections	can be caused by	neurogenic bladder dysfunction
+urinary tract infections	can cause	urolithiasis
+urinary tract infections	can be diagnosed based on	symptoms and urodynamics
+urinary tract infections	can be treated with	ampicillin-sulbactam
+urinary tract infections	can cause	obstructive uropathy
+urinary tract infections	can be caused by	urinary diversion
+urinary tract infections	can lead to	chronic kidney disease
+urinary tract infections	can be diagnosed using	computed tomography
+urinary tract infections	can be treated with	ertapenem
+urinary tract infections	can result in	urinary urgency
+urinary tract infections	can be caused by	bladder calculi
+urinary tract infections	can cause	pyelonephritis
+urinary tract infections	can be diagnosed based on	symptoms and ureteroscopy
+urinary tract infections	can be treated with	tobramycin
+urinary tract infections	can cause	urgency-frequency syndrome
+urinary tract infections	can be caused by	vesicoureteral reflux
+urinary tract infections	can lead to	hydronephrosis
+urinary tract infections	can be diagnosed using	magnetic resonance imaging
+urinary tract infections	can be treated with	imipenem-cilastatin
+urinary tract infections	can result in	flank pain
+urinary tract infections	can be caused by	urinary tract obstruction
+urinary tract infections	can cause	septicemia
+urinary tract infections	can be diagnosed based on	symptoms and computed tomography
+urinary tract infections	can be treated with	aztreonam
+urinary tract infections	can cause	urinary incontinence
+urinary tract infections	can be caused by	neurogenic bladder
+urinary tract infections	can lead to	bladder outlet obstruction
+urinary tract infections	can be diagnosed using	magnetic resonance urography
+urinary tract infections	can be treated with	colistin
+urinary tract infections	can result in	urinary hesitancy
+urinary tract infections	can be caused by	urinary diversions
+urinary tract infections	can cause	pyonephrosis
+urinary tract infections	can be diagnosed based on	symptoms and cystoscopy
+urinary tract infections	can be treated with	temocillin
+urinary tract infections	can cause	urgency incontinence
+urinary tract infections	can be caused by	urethral catheterization
+urinary tract infections	can lead to	urethral strictures
+urinary tract infections	can be diagnosed using	voiding cystourethrography
+urinary tract infections	can be treated with	cefepime
+urinary tract infections	can result in	acute pyelonephritis
+urinary tract infections	can be caused by	bladder outlet obstruction
+urinary tract infections	can cause	bacteremia
+urinary tract infections	can be diagnosed based on	symptoms and ultrasound
+urinary tract infections	can be treated with	ceftazidime-avibactam
+urinary tract infections	can result in	urinary frequency
+urinary tract infections	can be caused by	renal calculi
+urinary tract infections	can lead to	pyelonephritis
+urinary tract infections	can be diagnosed using	magnetic resonance urography
+urinary tract infections	can be treated with	tigecycline
+urinary tract infections	can cause	urgency-frequency syndrome
+urinary tract infections	can be caused by	vesicoureteral reflux
+urinary tract infections	can lead to	chronic pyelonephritis
+urinary tract infections	can be diagnosed based on	symptoms and cystoscopy
+urinary tract infections	can be treated with	aztreonam
+urinary tract infections	can result in	flank pain
+urinary tract infections	can be caused by	urinary tract obstruction
+urinary tract infections	can cause	septicemia
+urinary tract infections	can be diagnosed using	ultrasound
+urinary tract infections	can be treated with	colistin
+urinary tract infections	can cause	urinary incontinence
+urinary tract infections	can be caused by	neurogenic bladder
+urinary tract infections	can lead to	bladder outlet obstruction
+urinary tract infections	can be diagnosed based on	symptoms and computed tomography
+urinary tract infections	can be treated with	meropenem
+urinary tract infections	can result in	urinary hesitancy
+urinary tract infections	can be caused by	urinary diversion
+urinary tract infections	can cause	pyonephrosis
+urinary tract infections	can be diagnosed using	urine leukocyte esterase
+urinary tract infections	can be treated with	temocillin
+urinary tract infections	can cause	urgency incontinence
+urinary tract infections	can be caused by	urethral catheterization
+urinary tract infections	can lead to	urethral strictures
+urinary tract infections	can be diagnosed based on	symptoms and cystoscopy
+urinary tract infections	can be treated with	cefepime
+urinary tract infections	can result in	acute pyelonephritis

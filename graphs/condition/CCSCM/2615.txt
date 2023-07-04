@@ -1,0 +1,258 @@
+e codes	are used for	coding suffocation incidents
+suffocation	can lead to	asphyxiation
+choking	is a common cause of	suffocation
+infants	are at higher risk of	suffocation
+sudden infant death syndrome	can result from	suffocation
+soft bedding	increases the risk of	suffocation
+sleep apnea	can contribute to	suffocation
+suffocation	is a leading cause of	unintentional injury deaths
+electrical cords	can cause	suffocation
+smoke inhalation	can result in	suffocation
+suffocation	can be prevented by	safe sleep practices
+carbon monoxide poisoning	can lead to	suffocation
+suffocation	is a risk during	anesthesia
+plastic bags	can cause	suffocation
+suffocation	can result from	drowning
+foreign objects	can cause	suffocation
+suffocation	can occur during	strangulation
+suffocation	can lead to	brain damage
+suffocation	can be caused by	airway obstruction
+suffocation	can be caused by	chest compression
+suffocation	can result from	entrapment
+suffocation	can be caused by	compression of the neck
+suffocation	can be caused by	smothering
+infants	should sleep on	their back to prevent suffocation
+suffocation	can result from	inhalation of toxic gases
+suffocation	can be caused by	falling objects
+suffocation	can occur from	positioning in a way that restricts breathing
+suffocation	can be caused by	blocked airway
+suffocation	can result from	excessive pressure on the chest
+suffocation	can occur during	physical restraint
+suffocation	can result from	a faulty oxygen supply
+suffocation	can be caused by	collapsed lungs
+suffocation	can result from	inhalation of smoke
+suffocation	can occur due to	lack of oxygen
+suffocation	can be caused by	airway obstruction
+suffocation	can result from	excessive saliva or fluids in the airway
+suffocation	can occur during	respiratory distress
+suffocation	can be caused by	a blocked nose or mouth
+suffocation	can result from	respiratory depression
+suffocation	can occur due to	carbon monoxide exposure
+suffocation	can result from	inhalation of toxic fumes
+suffocation	can be caused by	strangulation of the neck
+suffocation	can occur due to	choking on food
+suffocation	can result from	hypoxia
+suffocation	can be caused by	inhalation of foreign objects
+suffocation	can occur during	seizures
+suffocation	can result from	suffocating gases
+suffocation	can be caused by	inadequate ventilation
+suffocation	can occur due to	obstruction of the upper airway
+suffocation	can result from	oxygen deprivation
+suffocation	can occur during	physical assault
+suffocation	can be caused by	chemical inhalation
+suffocation	can result from	restricted airflow
+suffocation	can occur due to	a closed airway
+suffocation	can be caused by	foreign objects in the throat
+suffocation	can occur during	strangulation
+suffocation	can result from	trapped air
+suffocation	can be caused by	being trapped in a confined space
+suffocation	can occur due to	suffocating gases
+suffocation	can result from	carbon dioxide poisoning
+suffocation	can occur during	respiratory failure
+suffocation	can be caused by	blockage of the airway
+suffocation	can occur due to	oxygen starvation
+suffocation	can result from	a blocked windpipe
+suffocation	can be caused by	smothering with a pillow
+suffocation	can occur during	physical exertion
+suffocation	can result from	strangulated blood vessels
+suffocation	can be caused by	lack of oxygen supply
+suffocation	can result from	insufficient airflow
+suffocation	can occur due to	blocked nasal passages
+suffocation	can be caused by	inhalation of chemicals
+suffocation	can occur due to	lack of oxygen in the surrounding environment
+suffocation	can result from	blockage of the respiratory system
+suffocation	can be caused by	asphyxiation
+suffocation	can occur during	sleep disorders
+suffocation	can result from	respiratory arrest
+suffocation	can be caused by	compression of the chest
+suffocation	can occur due to	inhalation of smoke
+suffocation	can result from	inhalation of toxic substances
+suffocation	can occur during	a panic attack
+suffocation	can be caused by	inadequate oxygen supply
+suffocation	can result from	constriction of the airway
+suffocation	can occur due to	choking on foreign objects
+suffocation	can be caused by	inhalation of irritants
+suffocation	can occur due to	external pressure on the chest
+suffocation	can result from	inhalation of noxious gases
+suffocation	can be caused by	inhalation of smoke
+suffocation	can occur during	respiratory obstruction
+suffocation	can result from	a blocked trachea
+suffocation	can be caused by	compression of the diaphragm
+suffocation	can occur due to	blocked bronchial tubes
+suffocation	can result from	inhalation of poisonous gases
+suffocation	can occur during	unconsciousness
+suffocation	can be caused by	blockage of the nasal passages
+suffocation	can result from	respiratory muscle paralysis
+suffocation	can occur due to	hyperventilation
+suffocation	can be caused by	inhalation of polluted air
+suffocation	can occur due to	a collapsed trachea
+suffocation	can result from	compression of the lungs
+suffocation	can be caused by	inhalation of allergens
+suffocation	can result from	decreased oxygen levels
+suffocation	can occur during	unconsciousness
+suffocation	can be caused by	constriction of the windpipe
+suffocation	can occur due to	inhalation of vomit
+suffocation	can result from	airway constriction
+suffocation	can be caused by	inhaling noxious fumes
+suffocation	can occur due to	constriction of the air passages
+suffocation	can result from	respiratory insufficiency
+suffocation	can occur during	status asthmaticus
+suffocation	can be caused by	inhalation of smoke
+suffocation	can occur due to	positional asphyxia
+suffocation	can result from	blockage of the bronchial tubes
+suffocation	can be caused by	inhalation of volatile chemicals
+suffocation	can occur during	respiratory tract infection
+suffocation	can result from	inhalation of noxious fumes
+suffocation	can occur due to	inhalation of foreign substances
+suffocation	can be caused by	inhalation of irritants
+suffocation	can occur from	lack of oxygen to the brain
+suffocation	can result from	blocked breathing passages
+suffocation	can occur due to	obstruction of the nasal airway
+suffocation	can be caused by	inhalation of harmful gases
+suffocation	can result from	constriction of the throat
+suffocation	can occur during	an asthma attack
+suffocation	can be caused by	inhalation of toxic chemicals
+suffocation	can occur due to	inhalation of foreign bodies
+suffocation	can result from	inhalation of irritant gases
+suffocation	can occur due to	strangulation of the windpipe
+suffocation	can be caused by	inhalation of noxious fumes
+suffocation	can occur during	respiratory infection
+suffocation	can result from	airway obstruction
+suffocation	can be caused by	inhalation of harmful substances
+suffocation	can occur due to	obstruction of the air passages
+suffocation	can result from	choking on small objects
+suffocation	can be caused by	inhalation of toxic fumes
+suffocation	can occur due to	inhalation of smoke
+suffocation	can result from	constriction of the bronchial tubes
+suffocation	can occur during	anaphylaxis
+suffocation	can be caused by	inhalation of polluted air
+suffocation	can occur due to	upper airway obstruction
+suffocation	can result from	constriction of the air passages
+suffocation	can be caused by	inhalation of allergens
+suffocation	can occur during	respiratory distress syndrome
+suffocation	can result from	inhalation of toxic substances
+suffocation	can occur due to	inhalation of vomit
+suffocation	can be caused by	inhalation of noxious gases
+suffocation	can occur from	compression of the chest
+suffocation	can result from	inhalation of vomit
+suffocation	can be caused by	inhalation of irritants
+suffocation	can result from	smothering with a pillow
+suffocation	can occur due to	choking on food
+suffocation	can be caused by	restriction of the airway
+suffocation	can occur during	laryngospasm
+suffocation	can result from	inhalation of smoke
+suffocation	can occur due to	respiratory distress
+suffocation	can be caused by	constriction of the windpipe
+suffocation	can result from	compression of the lungs
+suffocation	can occur during	seizures
+suffocation	can be caused by	blockage of the nasal passages
+suffocation	can occur from	inhalation of chemicals
+suffocation	can result from	respiratory muscle paralysis
+suffocation	can occur due to	a collapsed trachea
+suffocation	can be caused by	constriction of the air passages
+suffocation	can occur due to	hyperventilation
+suffocation	can result from	inhalation of polluted air
+suffocation	can occur during	unconsciousness
+suffocation	can be caused by	inhalation of noxious fumes
+suffocation	can occur due to	constriction of the airway
+suffocation	can result from	respiratory insufficiency
+suffocation	can occur during	status asthmaticus
+suffocation	can be caused by	inhalation of volatile chemicals
+suffocation	can occur due to	respiratory tract infection
+suffocation	can result from	inhalation of noxious fumes
+suffocation	can occur from	lack of oxygen to the brain
+suffocation	can be caused by	inhalation of harmful gases
+suffocation	can result from	constriction of the throat
+suffocation	can occur during	an asthma attack
+suffocation	can be caused by	inhalation of toxic chemicals
+suffocation	can result from	airway obstruction
+suffocation	can occur from	inhalation of toxic substances
+suffocation	can be caused by	inhalation of irritant gases
+suffocation	can occur due to	strangulation of the windpipe
+suffocation	can result from	constriction of the bronchial tubes
+suffocation	can occur during	respiratory infection
+suffocation	can be caused by	inhalation of harmful substances
+suffocation	can occur due to	obstruction of the air passages
+suffocation	can result from	choking on small objects
+suffocation	can be caused by	inhalation of toxic fumes
+suffocation	can occur due to	inhalation of smoke
+suffocation	can result from	constriction of the air passages
+suffocation	can occur during	anaphylaxis
+suffocation	can be caused by	inhalation of polluted air
+suffocation	can occur due to	upper airway obstruction
+suffocation	can result from	constriction of the air passages
+suffocation	can be caused by	inhalation of allergens
+suffocation	can occur during	respiratory distress syndrome
+suffocation	can result from	inhalation of toxic substances
+suffocation	can occur due to	inhalation of vomit
+suffocation	can be caused by	inhalation of noxious gases
+suffocation	can occur from	compression of the chest
+suffocation	can result from	inhalation of vomit
+suffocation	can be caused by	inhalation of irritants
+suffocation	can result from	smothering with a pillow
+suffocation	can occur due to	choking on food
+suffocation	can be caused by	restriction of the airway
+suffocation	can occur during	laryngospasm
+suffocation	can result from	inhalation of smoke
+suffocation	can occur due to	respiratory distress
+suffocation	can be caused by	constriction of the windpipe
+suffocation	can result from	compression of the lungs
+suffocation	can occur during	seizures
+suffocation	can be caused by	blockage of the nasal passages
+suffocation	can occur from	inhalation of chemicals
+suffocation	can result from	respiratory muscle paralysis
+suffocation	can occur due to	a collapsed trachea
+suffocation	can be caused by	constriction of the air passages
+suffocation	can occur due to	hyperventilation
+suffocation	can result from	inhalation of polluted air
+suffocation	can occur during	unconsciousness
+suffocation	can be caused by	inhalation of noxious fumes
+suffocation	can occur due to	constriction of the airway
+suffocation	can result from	respiratory insufficiency
+suffocation	can occur during	status asthmaticus
+suffocation	can be caused by	inhalation of volatile chemicals
+suffocation	can occur due to	respiratory tract infection
+suffocation	can result from	inhalation of noxious fumes
+suffocation	can occur from	lack of oxygen to the brain
+suffocation	can be caused by	inhalation of harmful gases
+suffocation	can result from	constriction of the throat
+suffocation	can occur during	an asthma attack
+suffocation	can be caused by	inhalation of toxic chemicals
+suffocation	can result from	airway obstruction
+suffocation	can occur from	inhalation of toxic substances
+suffocation	can be caused by	inhalation of irritant gases
+suffocation	can occur due to	strangulation of the windpipe
+suffocation	can result from	constriction of the bronchial tubes
+suffocation	can occur during	respiratory infection
+suffocation	can be caused by	inhalation of harmful substances
+suffocation	can occur due to	obstruction of the air passages
+suffocation	can result from	choking on small objects
+suffocation	can be caused by	inhalation of toxic fumes
+suffocation	can occur due to	inhalation of smoke
+suffocation	can result from	constriction of the air passages
+suffocation	can occur during	anaphylaxis
+suffocation	can be caused by	inhalation of polluted air
+suffocation	can occur due to	upper airway obstruction
+suffocation	can result from	constriction of the air passages
+suffocation	can be caused by	inhalation of allergens
+suffocation	can occur during	respiratory distress syndrome
+suffocation	can result from	inhalation of toxic substances
+suffocation	can occur due to	inhalation of vomit
+suffocation	can be caused by	inhalation of noxious gases
+suffocation	can occur from	compression of the chest
+suffocation	can result from	inhalation of vomit
+suffocation	can be caused by	inhalation of irritants
+suffocation	can result from	smothering with a pillow
+suffocation	can occur due to	choking on food
+suffocation	can be caused by	restriction of the airway
+suffocation	can occur during	laryngospasm

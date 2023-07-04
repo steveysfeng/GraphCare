@@ -1,0 +1,260 @@
+septicemia	is a condition
+septicemia	can be caused by	bacterial infection
+septicemia	is associated with	high mortality rate
+septicemia	can lead to	septic shock
+septicemia	requires	immediate medical intervention
+blood cultures	are used to diagnose	septicemia
+septicemia	is treated with	antibiotics
+septicemia	can cause	organ failure
+septicemia	is a risk factor for	readmission
+septicemia	can result in	long-term complications
+septicemia	can lead to	multiple organ dysfunction syndrome
+septicemia	is diagnosed based on	clinical symptoms and laboratory tests
+sepsis	can progress to	septicemia
+septicemia	is a potential complication of	surgery
+septicemia	can be prevented with	proper infection control measures
+septicemia	increases the risk of	morbidity
+septicemia	is more common in	immunocompromised patients
+septicemia	can cause	septic arthritis
+septicemia	is linked to	increased healthcare costs
+septicemia	can result in	prolonged hospital stay
+septicemia	can lead to	disseminated intravascular coagulation
+septicemia	is more common in	older adults
+septicemia	is a potential complication of	indwelling catheters
+septicemia	is associated with	systemic inflammatory response syndrome
+septicemia	is a leading cause of	death in intensive care units
+septicemia	can cause	respiratory failure
+septicemia	can lead to	acute kidney injury
+septicemia	is more common in	patients with compromised immune systems
+septicemia	can result in	septic encephalopathy
+septicemia	is a risk factor for	hospital-acquired infections
+septicemia	can cause	hypotension
+septicemia	is associated with	increased length of hospital stay
+septicemia	can lead to	myocardial dysfunction
+septicemia	is characterized by	systemic inflammation
+septicemia	can cause	septic pulmonary embolism
+septicemia	increases the risk of	sepsis-related complications
+septicemia	can result in	septic retinopathy
+septicemia	is more common in	patients with chronic diseases
+septicemia	can cause	septic cardiomyopathy
+septicemia	is a risk factor for	septic arthritis
+septicemia	can lead to	multiple organ failure
+septicemia	is associated with	abnormal coagulation profile
+septicemia	can cause	vascular thrombosis
+septicemia	is more common in	patients with indwelling medical devices
+septicemia	is a potential complication of	severe burns
+septicemia	can result in	septic optic neuropathy
+septicemia	is linked to	increased mortality
+septicemia	can cause	septic hepatopathy
+septicemia	increases the risk of	septic shock
+septicemia	can lead to	septic nephritis
+septicemia	is more common in	patients with compromised organ function
+septicemia	can cause	septic enteritis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic osteomyelitis
+septicemia	is a risk factor for	septic retinopathy
+septicemia	can lead to	systemic inflammatory response syndrome
+septicemia	is characterized by	bacteremia
+septicemia	can cause	septic cholangitis
+septicemia	is more common in	patients with open wounds
+septicemia	is a potential complication of	immunosuppressive therapy
+septicemia	can result in	septic meningitis
+septicemia	is linked to	increased morbidity
+septicemia	can cause	septic pylephlebitis
+septicemia	increases the risk of	multi-organ dysfunction syndrome
+septicemia	can lead to	septic adrenal insufficiency
+septicemia	is more common in	patients with sepsis
+septicemia	is a risk factor for	septic encephalopathy
+septicemia	can cause	septic endophthalmitis
+septicemia	is associated with	acute inflammatory response
+septicemia	can result in	septic myositis
+septicemia	is a potential complication of	prolonged hospital stay
+septicemia	can lead to	septic pulmonary hypertension
+septicemia	is characterized by	positive blood cultures
+septicemia	can cause	septic sialadenitis
+septicemia	is more common in	patients with severe infections
+septicemia	is a risk factor for	septic retinitis
+septicemia	can result in	septic myocarditis
+septicemia	is linked to	increased readmission rates
+septicemia	can cause	septic bronchitis
+septicemia	increases the risk of	septic nephropathy
+septicemia	can lead to	septic peritonitis
+septicemia	is more common in	patients with septic shock
+septicemia	is a potential complication of	immune thrombocytopenic purpura
+septicemia	can result in	septic encephalitis
+septicemia	is associated with	abnormal white blood cell count
+septicemia	can cause	septic colitis
+septicemia	is more common in	patients with septic cardiomyopathy
+septicemia	is a risk factor for	septic osteomyelitis
+septicemia	can lead to	systemic inflammatory response
+septicemia	is characterized by	positive blood cultures
+septicemia	can cause	septic cholangitis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic endophthalmitis
+septicemia	is more common in	patients with severe infections
+septicemia	is a potential complication of	prolonged hospital stay
+septicemia	can lead to	septic pulmonary hypertension
+septicemia	is characterized by	systemic inflammation
+septicemia	can cause	septic enteritis
+septicemia	increases the risk of	sepsis-related complications
+septicemia	can result in	septic retinopathy
+septicemia	is more common in	patients with chronic diseases
+septicemia	can cause	septic cardiomyopathy
+septicemia	is a risk factor for	septic arthritis
+septicemia	can lead to	multiple organ failure
+septicemia	is associated with	abnormal coagulation profile
+septicemia	can cause	vascular thrombosis
+septicemia	is more common in	patients with indwelling medical devices
+septicemia	is a potential complication of	severe burns
+septicemia	can result in	septic optic neuropathy
+septicemia	is linked to	increased mortality
+septicemia	can cause	septic hepatopathy
+septicemia	increases the risk of	septic shock
+septicemia	can lead to	septic nephritis
+septicemia	is more common in	patients with compromised organ function
+septicemia	can cause	septic enteritis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic osteomyelitis
+septicemia	is a risk factor for	septic retinopathy
+septicemia	can lead to	systemic inflammatory response syndrome
+septicemia	is characterized by	bacteremia
+septicemia	can cause	septic cholangitis
+septicemia	is more common in	patients with open wounds
+septicemia	is a potential complication of	immunosuppressive therapy
+septicemia	can result in	septic meningitis
+septicemia	is linked to	increased morbidity
+septicemia	can cause	septic pylephlebitis
+septicemia	increases the risk of	multi-organ dysfunction syndrome
+septicemia	can lead to	septic adrenal insufficiency
+septicemia	is more common in	patients with sepsis
+septicemia	is a risk factor for	septic encephalopathy
+septicemia	can cause	septic endophthalmitis
+septicemia	is associated with	acute inflammatory response
+septicemia	can result in	septic myositis
+septicemia	is a potential complication of	prolonged hospital stay
+septicemia	can lead to	septic pulmonary hypertension
+septicemia	is characterized by	positive blood cultures
+septicemia	can cause	septic sialadenitis
+septicemia	is more common in	patients with severe infections
+septicemia	is a risk factor for	septic retinitis
+septicemia	can result in	septic myocarditis
+septicemia	is linked to	increased readmission rates
+septicemia	can cause	septic bronchitis
+septicemia	increases the risk of	septic nephropathy
+septicemia	can lead to	septic peritonitis
+septicemia	is more common in	patients with septic shock
+septicemia	is a potential complication of	immune thrombocytopenic purpura
+septicemia	can result in	septic encephalitis
+septicemia	is associated with	abnormal white blood cell count
+septicemia	can cause	septic colitis
+septicemia	is more common in	patients with septic cardiomyopathy
+septicemia	is a risk factor for	septic osteomyelitis
+septicemia	can lead to	systemic inflammatory response
+septicemia	is characterized by	positive blood cultures
+septicemia	can cause	septic cholangitis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic endophthalmitis
+septicemia	is more common in	patients with severe infections
+septicemia	is a potential complication of	prolonged hospital stay
+septicemia	can lead to	septic pulmonary hypertension
+septicemia	is characterized by	systemic inflammation
+septicemia	can cause	septic enteritis
+septicemia	increases the risk of	sepsis-related complications
+septicemia	can result in	septic retinopathy
+septicemia	is more common in	patients with chronic diseases
+septicemia	can cause	septic cardiomyopathy
+septicemia	is a risk factor for	septic arthritis
+septicemia	can lead to	multiple organ failure
+septicemia	is associated with	abnormal coagulation profile
+septicemia	can cause	vascular thrombosis
+septicemia	is more common in	patients with indwelling medical devices
+septicemia	is a potential complication of	severe burns
+septicemia	can result in	septic optic neuropathy
+septicemia	is linked to	increased mortality
+septicemia	can cause	septic hepatopathy
+septicemia	increases the risk of	septic shock
+septicemia	can lead to	septic nephritis
+septicemia	is more common in	patients with compromised organ function
+septicemia	can cause	septic enteritis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic osteomyelitis
+septicemia	is a risk factor for	septic retinopathy
+septicemia	can lead to	systemic inflammatory response syndrome
+septicemia	is characterized by	bacteremia
+septicemia	can cause	septic cholangitis
+septicemia	is more common in	patients with open wounds
+septicemia	is a potential complication of	immunosuppressive therapy
+septicemia	can result in	septic meningitis
+septicemia	is linked to	increased morbidity
+septicemia	can cause	septic pylephlebitis
+septicemia	increases the risk of	multi-organ dysfunction syndrome
+septicemia	can lead to	septic adrenal insufficiency
+septicemia	is more common in	patients with sepsis
+septicemia	is a risk factor for	septic encephalopathy
+septicemia	can cause	septic endophthalmitis
+septicemia	is associated with	acute inflammatory response
+septicemia	can result in	septic myositis
+septicemia	is a potential complication of	prolonged hospital stay
+septicemia	can lead to	septic pulmonary hypertension
+septicemia	is characterized by	positive blood cultures
+septicemia	can cause	septic sialadenitis
+septicemia	is more common in	patients with severe infections
+septicemia	is a risk factor for	septic retinitis
+septicemia	can result in	septic myocarditis
+septicemia	is linked to	increased readmission rates
+septicemia	can cause	septic bronchitis
+septicemia	increases the risk of	septic nephropathy
+septicemia	can lead to	septic peritonitis
+septicemia	is more common in	patients with septic shock
+septicemia	is a potential complication of	immune thrombocytopenic purpura
+septicemia	can result in	septic encephalitis
+septicemia	is associated with	abnormal white blood cell count
+septicemia	can cause	septic colitis
+septicemia	is more common in	patients with septic cardiomyopathy
+septicemia	is a risk factor for	septic osteomyelitis
+septicemia	can lead to	systemic inflammatory response
+septicemia	is characterized by	positive blood cultures
+septicemia	can cause	septic cholangitis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic endophthalmitis
+septicemia	is more common in	patients with severe infections
+septicemia	is a potential complication of	prolonged hospital stay
+septicemia	can lead to	septic pulmonary hypertension
+septicemia	is characterized by	systemic inflammation
+septicemia	can cause	septic enteritis
+septicemia	increases the risk of	sepsis-related complications
+septicemia	can result in	septic retinopathy
+septicemia	is more common in	patients with chronic diseases
+septicemia	can cause	septic cardiomyopathy
+septicemia	is a risk factor for	septic arthritis
+septicemia	can lead to	multiple organ failure
+septicemia	is associated with	abnormal coagulation profile
+septicemia	can cause	vascular thrombosis
+septicemia	is more common in	patients with indwelling medical devices
+septicemia	is a potential complication of	severe burns
+septicemia	can result in	septic optic neuropathy
+septicemia	is linked to	increased mortality
+septicemia	can cause	septic hepatopathy
+septicemia	increases the risk of	septic shock
+septicemia	can lead to	septic nephritis
+septicemia	is more common in	patients with compromised organ function
+septicemia	can cause	septic enteritis
+septicemia	is associated with	high healthcare costs
+septicemia	can result in	septic osteomyelitis
+septicemia	is a risk factor for	septic retinopathy
+septicemia	can lead to	systemic inflammatory response syndrome
+septicemia	is characterized by	bacteremia
+septicemia	can cause	septic cholangitis
+septicemia	is more common in	patients with open wounds
+septicemia	is a potential complication of	immunosuppressive therapy
+septicemia	can result in	septic meningitis
+septicemia	is linked to	increased morbidity
+septicemia	can cause	septic pylephlebitis
+septicemia	increases the risk of	multi-organ dysfunction syndrome
+septicemia	can lead to	septic adrenal insufficiency
+septicemia	is more common in	patients with sepsis
+septicemia	is a risk factor for	septic encephalopathy
+septicemia	can cause	septic endophthalmitis
+septicemia	is associated with	acute inflammatory response
+septicemia	can result in	septic myositis
+septicemia	is a potential complication of	prolonged hospital stay

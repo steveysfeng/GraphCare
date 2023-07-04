@@ -1,0 +1,114 @@
+cardiac arrest	is a	life-threatening condition
+cardiac arrest	can cause	brain damage
+ventricular fibrillation	is a	type of abnormal heart rhythm
+ventricular fibrillation	can lead to	cardiac arrest
+defibrillation	is a	treatment for ventricular fibrillation
+automated external defibrillator	is a device for	defibrillation
+cardiopulmonary resuscitation	is a	life-saving technique
+cardiopulmonary resuscitation	can be used to	treat cardiac arrest
+epinephrine	is a	medication used in CPR
+epinephrine	can help	restore heart rhythm
+ventricular tachycardia	is a	precursor to ventricular fibrillation
+coronary artery disease	is a	common cause of cardiac arrest
+congestive heart failure	can lead to	cardiac arrest
+arrhythmia	is a	risk factor for cardiac arrest
+cardiac arrest	is a	leading cause of death
+heart attack	can cause	cardiac arrest
+respiratory arrest	can lead to	cardiac arrest
+hypovolemia	can cause	cardiac arrest
+sudden cardiac arrest	is different from	heart attack
+cardiogenic shock	can lead to	cardiac arrest
+myocardial infarction	is the medical term for	heart attack
+ventricular fibrillation	is often seen in	sudden cardiac arrest
+ventricular fibrillation	is an	emergency situation
+cardiopulmonary resuscitation	should be started immediately after	cardiac arrest
+pulseless electrical activity	is a	type of cardiac arrest
+asystole	is a	type of cardiac arrest
+long QT syndrome	can cause	ventricular fibrillation
+defibrillation	delivers an	electric shock
+cardiac arrest	requires	immediate medical attention
+ventricular fibrillation	is a	reversible cause of cardiac arrest
+bradycardia	can progress to	cardiac arrest
+arrhythmia	can lead to	ventricular fibrillation
+cardiomyopathy	is a	risk factor for cardiac arrest
+cardiac tamponade	can cause	cardiac arrest
+drug overdose	can lead to	cardiac arrest
+electrocardiogram	is a	diagnostic test for cardiac arrest
+ventricular fibrillation	can be diagnosed by	ECG
+hypothermia	can cause	ventricular fibrillation
+atrial fibrillation	is a	risk factor for cardiac arrest
+ventricular fibrillation	is often seen in	patients with heart disease
+cardiac arrest	is more common in	older adults
+cardiac arrest	is more common in	men
+cardiac arrest	can occur during	exercise
+mutation in SCN5A gene	is a	genetic cause of ventricular fibrillation
+heart failure	is a	risk factor for cardiac arrest
+cardiopulmonary resuscitation	should be continued until	advanced cardiac life support is available
+ventricular tachycardia	is a	precursor to ventricular fibrillation
+heart rhythm	should be evaluated in	patients with cardiac arrest
+hypoxia	can cause	ventricular fibrillation
+brugada syndrome	is a	genetic cause of ventricular fibrillation
+libman-sacks endocarditis	can lead to	cardiac arrest
+coronary artery disease	is a	common cause of ventricular fibrillation
+heart failure	can cause	ventricular fibrillation
+ventricular fibrillation	can be fatal if not promptly	treated
+cardiac arrest	is a	medical emergency
+cardiac arrest	can be caused by	respiratory failure
+cardiac arrest	can be caused by	electrocution
+cardiac arrest	can be caused by	drowning
+cardiac arrest	can be caused by	trauma
+cardiac arrest	can be caused by	drug overdose
+cardiac arrest	can be caused by	hypothermia
+automated external defibrillator	is used for	rapid defibrillation
+advanced cardiac life support	includes	medications and interventions
+ventricular fibrillation	can be caused by	ischemia
+prolonged QT interval	is a	risk factor for ventricular fibrillation
+hypokalemia	can cause	ventricular fibrillation
+hyperkalemia	can cause	ventricular fibrillation
+renal failure	is a	risk factor for cardiac arrest
+cardiac arrest	can be caused by	sepsis
+cardiac arrest	is associated with	poor prognosis
+cardiac arrest	can occur without	warning signs
+cardiac arrest	can be caused by	hemorrhage
+cardiopulmonary resuscitation	can be performed by	bystanders
+ventricular fibrillation	can be detected by	heart rhythm monitoring
+ventricular fibrillation	can be caused by	myocardial infarction
+cardiac arrest	can be caused by	heart valve disease
+cardiac arrest	can be caused by	arrhythmias
+cardiac arrest	can be caused by	drug toxicity
+cardiac arrest	can be caused by	hypokalemia
+cardiac arrest	can be caused by	hyperkalemia
+cardiac arrest	can be caused by	acidosis
+cardiac arrest	can be caused by	alkalosis
+cardiopulmonary resuscitation	should be continued until	return of spontaneous circulation is achieved
+end-stage renal disease	is a	risk factor for cardiac arrest
+ventricular fibrillation	is a	life-threatening arrhythmia
+cardiopulmonary resuscitation	can be performed by	healthcare professionals
+ventricular fibrillation	can be treated with	medication
+ventricular tachycardia	is a	precursor to ventricular fibrillation
+cardiac arrest	can be caused by	hypoxia
+cardiopulmonary resuscitation	should be initiated within	2 minutes of cardiac arrest
+cardiac arrest	can be caused by	myocarditis
+cardiac arrest	can be caused by	cardiomyopathy
+cardiac arrest	can be caused by	cardiac tamponade
+cardiac arrest	can be caused by	traumatic injury
+cardiac arrest	can be caused by	submersion injury
+ventricular fibrillation	can be caused by	cardiomypathy
+myocardial infarction	is a	common cause of cardiac arrest
+ventricular fibrillation	can be caused by	myocardial ischemia
+cardiac arrest	can be caused by	electrolyte imbalances
+ventricular fibrillation	can be caused by	hypotension
+cardiac arrest	can be caused by	heart failure
+ventricular fibrillation	can be caused by	heart attack
+cardiogenic shock	can lead to	ventricular fibrillation
+cardiac arrest	can occur as a	complication of surgery
+cardiopulmonary resuscitation	should be performed continuously without	interruptions
+cardiac arrest	can be caused by	hyperthermia
+ventricular fibrillation	can be caused by	cardiotoxic drugs
+cardiac arrest	can be caused by	arrhythmogenic drugs
+cardiac arrest	can be caused by	antiarrhythmic drugs
+cardiac arrest	can be caused by	beta blockers
+cardiac arrest	can be caused by	calcium channel blockers
+cardiac arrest	can be caused by	digoxin
+cardiac arrest	can be caused by	propafenone
+cardiac arrest	can be caused by	flecainide

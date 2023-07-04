@@ -1,0 +1,88 @@
+fluid and electrolyte disorders	can result in	dehydration
+dehydration	can cause	decreased urine output
+decreased urine output	can lead to	kidney damage
+fluid and electrolyte disorders	can be caused by	excessive sweating
+excessive sweating	can lead to	sodium imbalance
+sodium imbalance	can cause	confusion
+fluid and electrolyte disorders	can be treated with	intravenous fluids
+intravenous fluids	are used to restore	electrolyte balance
+electrolyte balance	is important for	nerve and muscle function
+fluid and electrolyte disorders	can cause	irregular heart rhythms
+irregular heart rhythms	can lead to	cardiac arrest
+fluid and electrolyte disorders	can be diagnosed with	blood tests
+blood tests	can measure	electrolyte levels
+fluid and electrolyte disorders	can result in	edema
+edema	is the	swelling
+fluid and electrolyte disorders	can lead to	fatigue
+fatigue	can be caused by	potassium deficiency
+fluid and electrolyte disorders	can cause	muscle weakness
+muscle weakness	can be a sign of	calcium imbalance
+calcium imbalance	can affect	bone health
+fluid and electrolyte disorders	can affect	cognitive function
+cognitive function	can be impaired by	fluid imbalance
+fluid and electrolyte disorders	can increase the risk of	falls
+falls	can lead to	fractures
+fluid and electrolyte disorders	can cause	constipation
+constipation	is a	common symptom
+fluid and electrolyte disorders	can affect	blood pressure
+blood pressure	is influenced by	sodium levels
+fluid and electrolyte disorders	can be managed with	dietary changes
+dietary changes	can help to	restore balance
+fluid and electrolyte disorders	can result in	lethargy
+lethargy	is a	lack of energy
+fluid and electrolyte disorders	can be caused by	vomiting
+vomiting	can lead to	potassium depletion
+fluid and electrolyte disorders	can affect	body temperature regulation
+body temperature regulation	is influenced by	fluid balance
+fluid and electrolyte disorders	can be a complication of	kidney disease
+kidney disease	can impair	fluid balance regulation
+fluid and electrolyte disorders	can cause	abnormal blood cell counts
+abnormal blood cell counts	can indicate	bone marrow dysfunction
+bone marrow dysfunction	can result in	anemia
+fluid and electrolyte disorders	can cause	nausea
+nausea	is a common	symptom
+fluid and electrolyte disorders	can affect	digestive function
+digestive function	can be impaired by	fluid imbalance
+fluid and electrolyte disorders	can lead to	muscle cramps
+muscle cramps	can be caused by	magnesium deficiency
+magnesium deficiency	can result in	cardiac arrhythmias
+fluid and electrolyte disorders	can cause	cognitive impairment
+cognitive impairment	can be a symptom of	hyponatremia
+hyponatremia	is a	low sodium level
+fluid and electrolyte disorders	can be a complication of	diabetes
+diabetes	can cause	fluid imbalance
+fluid and electrolyte disorders	can be exacerbated by	certain medications
+certain medications	can disrupt	fluid balance
+fluid and electrolyte disorders	can be managed with	diuretics
+diuretics	help to	remove excess fluid
+fluid and electrolyte disorders	can cause	muscle twitching
+muscle twitching	can be a sign of	electrolyte imbalance
+electrolyte imbalance	can affect	nerve function
+fluid and electrolyte disorders	can lead to	seizures
+seizures	can be a complication of	severe fluid imbalance
+fluid and electrolyte disorders	can cause	respiratory distress
+respiratory distress	can result in	hypoxia
+fluid and electrolyte disorders	can lead to	cardiac dysfunction
+cardiac dysfunction	can be caused by	potassium imbalance
+potassium imbalance	can affect	heart rhythm
+fluid and electrolyte disorders	can result in	hypotension
+hypotension	is low	blood pressure
+fluid and electrolyte disorders	can affect	mental status
+mental status	can be altered by	fluid imbalance
+fluid and electrolyte disorders	can impact	wound healing
+wound healing	can be delayed by	fluid imbalance
+fluid and electrolyte disorders	can cause	weight loss
+weight loss	can be a result of	fluid depletion
+fluid and electrolyte disorders	can result in	acid-base imbalance
+acid-base imbalance	can affect	respiratory function
+fluid and electrolyte disorders	can increase the risk of	infection
+infection	can lead to	fluid loss
+fluid and electrolyte disorders	can be caused by	kidney dysfunction
+kidney dysfunction	can impair	fluid and electrolyte balance
+fluid and electrolyte disorders	can cause	muscle wasting
+muscle wasting	can be a sign of	malnutrition
+malnutrition	can result in	electrolyte imbalances
+fluid and electrolyte disorders	can impact	wound infection risk
+wound infection risk	is increased by	fluid imbalance
+fluid and electrolyte disorders	can affect	skin health
+skin health	can be compromised by	fluid imbalance

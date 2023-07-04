@@ -1,0 +1,176 @@
+asthma	is a	chronic respiratory condition
+asthma	can cause	wheezing
+bronchodilators	are used to	treat asthma
+albuterol	is a	bronchodilator
+inhaled corticosteroids	are used as	maintenance therapy for asthma
+asthma	is associated with	allergies
+asthma	can be triggered by	exercise
+asthma	increases the risk of	respiratory infections
+asthma	is diagnosed using	pulmonary function tests
+asthma	can lead to	respiratory failure
+asthma	can be exacerbated by	air pollution
+asthma	is classified into	different severity levels
+asthma	is more common in	children
+asthma attacks	can be triggered by	allergens
+asthma	is often managed by	primary care physicians
+asthma	is characterized by	inflammation of the airways
+asthma	is associated with	reduced lung function
+asthma exacerbations	can lead to	hospitalizations
+asthma	is a risk factor for	pneumonia
+asthma	can be controlled with	appropriate medication
+asthma	is more prevalent in	urban areas
+asthma	is a leading cause of	school absences
+asthma	is a significant economic burden	due to healthcare costs
+asthma	can coexist with	other respiratory conditions
+asthma	can be triggered by	stress
+asthma	is managed through	personalized treatment plans
+asthma	is a chronic condition	with no known cure
+asthma	is more common in	individuals with a family history of the condition
+asthma	can be managed through	lifestyle modifications
+asthma	is diagnosed based on	medical history and physical examination
+asthma	is associated with	increased healthcare utilization
+asthma	can be controlled through	regular monitoring of symptoms
+asthma	is associated with	increased risk of hospital readmissions
+asthma	can be a barrier to	physical activity
+asthma	is a common condition	worldwide
+asthma triggers	can be identified through	allergy testing
+asthma	can be exacerbated by	respiratory infections
+asthma	is more common in	individuals with obesity
+asthma	is associated with	increased risk of depression
+asthma	can be managed through	avoidance of triggers
+asthma	is more common in	individuals with a history of smoking
+asthma	can lead to	long-term lung damage
+asthma	can be controlled through	regular use of controller medication
+asthma	is a chronic condition	that requires lifelong management
+asthma	is more common in	individuals with certain occupations (e.g.	agriculture	textile industry)
+asthma	can be triggered by	cold weather
+asthma	is associated with	increased risk of anxiety
+asthma	can be managed through	education and self-management strategies
+asthma	is a common reason for	emergency department visits
+asthma	can lead to	sleep disturbances
+asthma	is associated with	increased risk of insomnia
+asthma	can be exacerbated by	exposure to tobacco smoke
+asthma	is more common in	individuals with a history of allergies
+asthma	is associated with	increased risk of osteoporosis
+asthma	can be exacerbated by	hormonal changes (e.g.	during menstrual cycle)
+asthma	is more common in	individuals with gastroesophageal reflux disease (GERD)
+asthma	can be managed through	pulmonary rehabilitation
+asthma	is associated with	increased risk of cardiovascular diseases
+asthma	can be triggered by	strong odors or perfumes
+asthma	is more common in	individuals with certain genetic mutations
+asthma	can be managed through	regular follow-up with healthcare providers
+asthma	is associated with	increased risk of obesity
+asthma	can be exacerbated by	exposure to pets
+asthma	is more common in	individuals with low socioeconomic status
+asthma	is associated with	increased risk of premature birth
+asthma	can be triggered by	respiratory irritants (e.g.	chemicals	smoke)
+asthma	is more common in	individuals with a history of premature birth
+asthma	can be managed through	pulmonary function monitoring
+asthma	is associated with	increased risk of bronchiectasis
+asthma	can be worsened by	nonsteroidal anti-inflammatory drugs (NSAIDs)
+asthma	is more common in	individuals with certain autoimmune diseases
+asthma	can be triggered by	cold and dry air
+asthma	is associated with	increased risk of pneumothorax
+asthma	can be managed through	inhalation therapy
+asthma	is more common in	individuals with a history of bronchopulmonary dysplasia
+asthma	can be exacerbated by	certain medications (e.g.	beta-blockers)
+asthma	is associated with	increased risk of lung cancer
+asthma	can be triggered by	emotional stress
+asthma	is more common in	individuals exposed to second-hand smoke
+asthma	can be controlled through	avoidance of known triggers
+asthma	is associated with	increased risk of chronic sinusitis
+asthma	can be managed through	pulmonary rehabilitation
+asthma	is more common in	individuals with certain occupational exposures
+asthma	can be triggered by	acid reflux
+asthma	is associated with	increased risk of upper respiratory infections
+asthma	can be exacerbated by	poor air quality
+asthma	is more common in	individuals with a history of respiratory syncytial virus (RSV) infection
+asthma	can lead to	physical limitations
+asthma	is associated with	increased risk of vocal cord dysfunction
+asthma	can be managed through	smoking cessation
+asthma	is more common in	individuals with a history of tuberculosis
+asthma	can be triggered by	exercise-induced bronchoconstriction
+asthma	is associated with	increased risk of sleep apnea
+asthma	can be worsened by	exposure to airway irritants
+asthma	is more common in	individuals with a history of rhinosinusitis
+asthma	can be managed through	personalized action plans
+asthma	is associated with	increased risk of sudden cardiac arrest
+asthma	can be triggered by	emotional triggers (e.g.	laughter	crying)
+asthma	is more common in	individuals with certain connective tissue disorders
+asthma	can be controlled through	allergen immunotherapy
+asthma	is associated with	increased risk of gastroesophageal reflux disease (GERD) exacerbations
+asthma	can be exacerbated by	exposure to air pollution
+asthma	is more common in	individuals with certain chromosomal abnormalities
+asthma	can be triggered by	certain food allergies
+asthma	is associated with	increased risk of severe influenza
+asthma	can be managed through	breathing exercises
+asthma	is more common in	individuals with a history of organ transplantation
+asthma attacks	can be triggered by	viral respiratory infections
+asthma	is associated with	increased risk of mental health disorders
+asthma	can be exacerbated by	high humidity
+asthma	is more common in	individuals with sleep-disordered breathing
+asthma	can be controlled through	regular asthma action plans
+asthma	is associated with	increased risk of chronic obstructive pulmonary disease (COPD)
+asthma	can be triggered by	hormonal changes (e.g.	during menopause)
+asthma	is more common in	individuals with certain psychiatric disorders
+asthma	can be managed through	environmental modifications
+asthma	is associated with	increased risk of vocal cord dysfunction episodes
+asthma	can be exacerbated by	exposure to occupational chemicals
+asthma	is more common in	individuals with a history of preterm birth
+asthma	can be triggered by	exposure to mold
+asthma	is associated with	increased risk of anxiety disorders
+asthma	can be worsened by	exposure to endotoxins
+asthma	is more common in	individuals with a history of childhood respiratory infections
+asthma	can be managed through	regular physical activity
+asthma	is associated with	increased risk of chronic rhinosinusitis
+asthma	can be triggered by	respiratory syncytial virus (RSV) infections
+asthma	is more common in	individuals with certain psychiatric medications
+asthma	can be controlled through	allergen avoidance
+asthma	is associated with	increased risk of depression
+asthma	can be exacerbated by	exposure to industrial pollutants
+asthma	is more common in	individuals with a history of pneumonia
+asthma	can be triggered by	exposure to pet dander
+asthma	is associated with	increased risk of autoimmune disorders
+asthma	can be managed through	regular healthcare follow-up
+asthma	is more common in	individuals with certain genetic variations
+asthma	can be triggered by	exposure to cockroaches
+asthma	is associated with	increased risk of chronic kidney disease
+asthma	can be exacerbated by	exposure to outdoor allergens
+asthma	is more common in	individuals with a history of lung diseases
+asthma	can be controlled through	proper inhaler technique
+asthma	is associated with	increased risk of heart failure
+asthma	can be triggered by	exposure to dust mites
+asthma	is more common in	individuals with a history of childhood trauma
+asthma	can be managed through	stress reduction techniques
+asthma	is associated with	increased risk of chronic cough
+asthma	can be worsened by	exposure to wood smoke
+asthma	is more common in	individuals with certain gene-environment interactions
+asthma	can be triggered by	exposure to allergens
+asthma	is associated with	increased risk of chronic fatigue
+asthma	can be exacerbated by	exposure to household chemicals
+asthma	is more common in	individuals with a history of airway infections
+asthma	can be controlled through	weight management
+asthma	is associated with	increased risk of obstructive sleep apnea
+asthma	can be triggered by	exposure to pet allergens
+asthma	is more common in	individuals with certain dietary factors
+asthma	can be managed through	adherence to medication schedules
+asthma	is associated with	increased risk of bronchitis
+asthma	can be exacerbated by	exposure to tobacco smoke
+asthma	is more common in	individuals with a history of smoking
+asthma	can be triggered by	exposure to cold air
+asthma	is associated with	increased risk of vocal cord dysfunction attacks
+asthma	can be controlled through	regular lung function testing
+asthma	is more common in	individuals with a history of upper respiratory infections
+asthma	can be triggered by	fungal infections
+asthma	is associated with	increased risk of severe allergies
+asthma	can be worsened by	exposure to pollution
+asthma	is more common in	individuals with certain prenatal factors
+asthma	can be managed through	avoidance of cigarette smoke
+asthma	is associated with	increased risk of chronic obstructive pulmonary disease (COPD) exacerbations
+asthma	can be exacerbated by	exposure to second-hand smoke
+asthma	is more common in	individuals with certain maternal factors
+asthma	can be triggered by	exposure to mold spores
+asthma	is associated with	increased risk of exercise-induced bronchoconstriction
+asthma	can be controlled through	regular allergen exposure monitoring
+asthma	is more common in	individuals with a history of childhood asthma
+asthma	can be managed through	regular follow-up with asthma specialists

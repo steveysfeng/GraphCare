@@ -1,0 +1,53 @@
+cancer of liver and intrahepatic bile duct	is a type of	cancer
+cancer of liver and intrahepatic bile duct	may cause	jaundice
+liver	is an organ in the body
+hepatic	relates to	liver
+bile duct	is a	tube
+jaundice	is a symptom of	liver disease
+tumor	is a	mass
+primary liver cancer	originates in	liver cells
+metastatic liver cancer	spreads to	liver from other parts of the body
+chemotherapy	is a treatment for	cancer
+surgery	is a treatment option for	liver cancer
+radiation therapy	is a treatment for	liver cancer
+hepatocellular carcinoma	is the most common type of	primary liver cancer
+cholangiocarcinoma	is the most common type of	bile duct cancer
+cirrhosis	is a	liver condition
+alcohol	is a risk factor for	liver cancer
+hepatitis B	is a risk factor for	liver cancer
+hepatitis C	is a risk factor for	liver cancer
+abdominal pain	is a symptom of	liver cancer
+weight loss	is a symptom of	liver cancer
+ascites	is a symptom of	liver cancer
+radiation oncologist	specializes in	radiation therapy for liver cancer
+oncologist	specializes in	cancer treatment
+hepatologist	specializes in	liver diseases
+transplant surgeon	specializes in	liver transplantation
+liver transplant	is a treatment option for	advanced liver cancer
+liver resection	is a surgical procedure for	liver cancer
+bilirubin	is a	bile pigment
+alpha-fetoprotein	is a	tumor marker for liver cancer
+survival rate	is a	measure of prognosis for liver cancer
+recurrence	is the reappearance of	liver cancer after treatment
+liver function test	is a	blood test to assess liver health
+mortality rate	is the rate of	death from liver cancer
+tumor staging	is the process of determining	the extent of liver cancer
+risk factors	increase the likelihood of	developing liver cancer
+liver cirrhosis	is a	risk factor for liver cancer
+metastasis	is the spread of	cancer cells to other parts of the body
+clinical trial	tests new	treatments for liver cancer
+ablated tumor	is a tumor that has been	destroyed by heat or freezing
+biopsy	is a procedure to	collect tissue samples for diagnosis
+abdominal ultrasound	is a	imaging test for liver cancer
+CT scan	is an	imaging test for liver cancer
+MRI	is an	imaging test for liver cancer
+alpha fetoprotein blood test	is a	test for liver cancer
+transarterial chemoembolization	is a	treatment for liver cancer
+hepatocellular carcinoma	is also known as	HCC
+bile duct cancer	is also known as	cholangiocarcinoma
+transplantation	is the process of	replacing a diseased liver with a healthy one
+liver function	is the ability of the liver to	perform its tasks
+liver failure	is a	life-threatening condition
+hepatitis	is inflammation of	the liver
+liver metastasis	is the spread of	cancer to the liver from another organ
+liver biopsy	is a	procedure to obtain a sample of liver tissue

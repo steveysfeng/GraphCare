@@ -1,0 +1,6 @@
+other endocrine disorders	can cause	adrenal insufficiency
+other endocrine disorders	are associated with	hormone imbalances
+thyroid dysfunction	is a common	other endocrine disorder
+hyperthyroidism	is a	thyroid dysfunction
+levothyroxine	is a	medication for	thyroid dysfunction
+prednisone	is a	medication for	adrenal insufficiency

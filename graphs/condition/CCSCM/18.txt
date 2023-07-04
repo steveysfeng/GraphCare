@@ -1,0 +1,98 @@
+cancer	affects	other GI organs
+peritoneum	is a	part of the abdominal cavity
+peritoneal cancer	can be caused by	metastasis
+peritoneal carcinomatosis	is a	condition characterized by the spread of cancer to the peritoneum
+surgery	is a	treatment option for peritoneal cancer
+chemotherapy	is a	common treatment for peritoneal cancer
+HIPEC	is a	specialized procedure for peritoneal cancer treatment
+peritoneal cancer	can lead to	ascites
+ascites	is an	accumulation of fluid in the peritoneal cavity
+peritoneal cancer	can cause	bowel obstruction
+bowel obstruction	may result in	vomiting and abdominal distension
+peritoneal cancer	is often associated with	poor prognosis
+peritoneal carcinomatosis	may require	palliative care
+peritoneal cancer	has a	high mortality rate
+intraperitoneal chemotherapy	is an	effective treatment for peritoneal cancer
+peritoneal cancer	often requires	multidisciplinary management
+peritoneal lavage	is a	diagnostic procedure for peritoneal cancer
+CEA	is a	tumor marker for peritoneal cancer
+peritoneal cancer	can be diagnosed using	imaging techniques
+peritoneal metastasis	can originate from	various primary cancers
+carcinomatosis	is a	condition characterized by the spread of cancer throughout the peritoneum
+peritoneal cancer	can lead to	bowel perforation
+peritoneal carcinomatosis	can cause	abdominal pain
+peritoneal cancer	may require	chemotherapy
+peritoneal cancer	can be managed with	targeted therapies
+peritoneal cancer	is often associated with	weight loss
+peritoneal carcinomatosis	can result in	bowel obstruction
+peritoneal cancer	can be classified based on	histological type
+peritoneal metastasis	can be detected using	imaging studies
+peritoneal cancer	can spread to	nearby organs
+peritoneal carcinomatosis	can cause	fatigue
+peritoneal cancer	can be associated with	peritoneal sarcomatosis
+peritoneal cancer	can be identified through	biopsies
+peritoneal carcinomatosis	may require	surgical intervention
+peritoneal cancer	can be monitored using	tumor markers
+peritoneal cancer	can result in	fluid build-up in the abdomen
+peritoneal carcinomatosis	can cause	abdominal distension
+peritoneal cancer	can lead to	bowel adhesions
+peritoneal metastasis	can cause	organ dysfunction
+immunotherapy	is an	emerging treatment for peritoneal cancer
+peritoneal carcinomatosis	is often associated with	poor quality of life
+peritoneal cancer	can be diagnosed through	laparoscopy
+peritoneal cancer	is more common in	older adults
+peritoneal metastasis	can be treated with	targeted therapies
+peritoneal cancer	can be managed through	supportive care
+peritoneal carcinomatosis	can result in	malnutrition
+peritoneal cancer	is often diagnosed at	advanced stages
+peritoneal cancer	can cause	abdominal bloating
+peritoneal carcinoma	is a	malignant tumor originating from the peritoneum
+peritoneal cancer	may require	radiation therapy
+peritoneal carcinomatosis	can lead to	bowel ischemia
+surgical debulking	is a	treatment option for advanced peritoneal cancer
+peritoneal cancer	can be associated with	peritoneal effusion
+peritoneal carcinomatosis	can cause	weight loss
+peritoneal metastasis	can be detected through	imaging studies
+peritoneal cancer	can result in	peritonitis
+peritoneal carcinomatosis	can require	hospitalization
+peritoneal cancer	can be managed with	pain medication
+peritoneal cancer	is a	challenging disease to treat
+peritoneal carcinomatosis	can be accompanied by	liver metastasis
+peritoneal cancer	can be characterized by	abnormal fluid accumulation
+peritoneal metastasis	can cause	abdominal pain
+peritoneal cancer	can be associated with	poor appetite
+peritoneal carcinomatosis	can lead to	organ failure
+peritoneal cancer	can result in	intestinal obstruction
+peritoneal cancer	can be diagnosed through	imaging techniques
+peritoneal metastasis	can lead to	jaundice
+peritoneal cancer	can be managed with	nutritional support
+hyperthermic intraperitoneal chemotherapy	is a	specialized treatment for peritoneal cancer
+peritoneal carcinomatosis	can cause	anemia
+peritoneal cancer	can be detected through	abdominal ultrasound
+peritoneal cancer	can lead to	cachexia
+peritoneal metastasis	can result in	fluid accumulation in the pleural cavity
+peritoneal cancer	can be associated with	venous thromboembolism
+peritoneal carcinomatosis	can be managed with	pain control
+peritoneal cancer	can be characterized by	peritoneal implants
+peritoneal metastasis	can cause	renal dysfunction
+peritoneal cancer	can be diagnosed through	laparotomy
+peritoneal cancer	can result in	bowel fistula
+peritoneal carcinomatosis	can lead to	pleural effusion
+peritoneal cancer	is often treated with	combination therapies
+peritoneal metastasis	can be associated with	lymph node involvement
+peritoneal cancer	can be managed with	supportive therapies
+peritoneal cancer	can be detected through	PET scans
+peritoneal carcinomatosis	can cause	anorexia
+peritoneal cancer	can lead to	peritoneal fibrosis
+peritoneal metastasis	can result in	metastases to distant organs
+peritoneal cancer	can be associated with	elevated CA-125 levels
+peritoneal carcinomatosis	can be treated with	palliative care
+peritoneal cancer	can be diagnosed through	peritoneal washings
+peritoneal cancer	can result in	pleural metastasis
+peritoneal metastasis	can cause	hepatomegaly
+peritoneal cancer	can be managed with	intravenous nutrition
+peritoneal carcinomatosis	can be characterized by	peritoneal thickening
+peritoneal cancer	can be detected through	CT scans
+peritoneal cancer	can lead to	peritoneal scarring
+peritoneal cancer	can be associated with	peritoneal metastasis
+peritoneal carcinomatosis	can result in	fluid accumulation in the pleural cavity

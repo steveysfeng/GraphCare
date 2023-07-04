@@ -1,0 +1,123 @@
+biliary tract disease	is a	medical condition
+biliary tract disease	can cause	gallstones
+cholecystectomy	is a	treatment for biliary tract disease
+biliary tract disease	can lead to	jaundice
+biliary tract disease	increases the risk of	cholangiocarcinoma
+biliary tract disease	is associated with	obesity
+biliary tract disease	is more common in	women
+biliary tract disease	is often diagnosed through	ultrasound
+biliary tract disease	can be managed with	medication
+biliary tract disease	is linked to	liver cirrhosis
+biliary tract disease	can cause	abdominal pain
+biliary tract disease	is sometimes inherited
+biliary tract disease	can be triggered by	rapid weight loss
+endoscopic retrograde cholangiopancreatography	is a	diagnostic procedure for biliary tract disease
+biliary tract disease	is a risk factor for	pancreatitis
+biliary tract disease	can result in	digestive problems
+biliary tract disease	may require	surgery
+biliary tract disease	can be caused by	gallbladder inflammation
+biliary tract disease	can lead to	bacterial infections
+biliary tract disease	is associated with	high cholesterol levels
+biliary tract disease	can be managed with	lifestyle changes
+biliary tract disease	is often accompanied by	nausea and vomiting
+biliary tract disease	increases the risk of	ascending cholangitis
+biliary tract disease	can cause	itching
+biliary tract disease	is more common in	older adults
+biliary tract disease	can result in	poor digestion
+biliary tract disease	is a risk factor for	biliary colic
+biliary tract disease	can be aggravated by	fatty foods
+biliary tract disease	can lead to	nutritional deficiencies
+biliary tract disease	is associated with	gallbladder dysfunction
+biliary tract disease	can cause	pancreas inflammation
+biliary tract disease	increases the risk of	biliary strictures
+biliary tract disease	can be complicated by	bile duct obstruction
+biliary tract disease	is linked to	metabolic syndrome
+biliary tract disease	can result in	weight loss
+biliary tract disease	is a risk factor for	liver abscesses
+biliary tract disease	can cause	clay-colored stools
+biliary tract disease	is more common in	individuals with a family history of the condition
+biliary tract disease	can lead to	fatigue
+biliary tract disease	is associated with	gallbladder polyps
+biliary tract disease	can be managed with	endoscopic sphincterotomy
+biliary tract disease	is often accompanied by	fever
+biliary tract disease	increases the risk of	ductal stones
+biliary tract disease	can cause	malabsorption
+biliary tract disease	is a risk factor for	gallbladder cancer
+biliary tract disease	can result in	back pain
+biliary tract disease	is linked to	bile reflux
+biliary tract disease	can lead to	dark urine
+biliary tract disease	is associated with	hormonal factors
+biliary tract disease	can be triggered by	certain medications
+biliary tract disease	is often diagnosed through	blood tests
+biliary tract disease	can be managed with	gallbladder removal
+biliary tract disease	is sometimes a complication of	liver disease
+biliary tract disease	can cause	indigestion
+biliary tract disease	is more common in	individuals with a sedentary lifestyle
+biliary tract disease	can lead to	pancreas dysfunction
+biliary tract disease	increases the risk of	bile duct cancer
+biliary tract disease	can result in	bloating
+biliary tract disease	is a risk factor for	bile leakage
+biliary tract disease	can cause	urinary problems
+biliary tract disease	is associated with	estrogen therapy
+biliary tract disease	can be managed with	bile acid therapy
+biliary tract disease	is often accompanied by	belching
+biliary tract disease	increases the risk of	porcelain gallbladder
+biliary tract disease	can cause	shoulder pain
+biliary tract disease	is linked to	primary sclerosing cholangitis
+biliary tract disease	can lead to	weight gain
+biliary tract disease	is associated with	Crohn's disease
+biliary tract disease	can be triggered by	pregnancy
+biliary tract disease	is often diagnosed through	liver function tests
+biliary tract disease	can be managed with	choledocholithotomy
+biliary tract disease	is sometimes a complication of	gallbladder disease
+biliary tract disease	can cause	fatty liver
+biliary tract disease	is more common in	individuals with a history of gallstones
+biliary tract disease	can result in	diarrhea
+biliary tract disease	is a risk factor for	bile duct strictures
+biliary tract disease	can be aggravated by	alcohol consumption
+biliary tract disease	can lead to	liver damage
+biliary tract disease	is associated with	Hepatitis C infection
+biliary tract disease	can be managed with	bile acid sequestrants
+biliary tract disease	is often accompanied by	abdominal bloating
+biliary tract disease	increases the risk of	cholelithiasis
+biliary tract disease	can cause	food intolerance
+biliary tract disease	is linked to	Sjogren's syndrome
+biliary tract disease	can lead to	hormonal imbalances
+biliary tract disease	is associated with	liver cancer
+biliary tract disease	can be triggered by	rapid weight gain
+biliary tract disease	is often diagnosed through	MRI
+biliary tract disease	can be managed with	liver transplantation
+biliary tract disease	is sometimes a complication of	pancreatic disease
+biliary tract disease	can cause	digestive disturbances
+biliary tract disease	is more common in	individuals with a history of biliary colic
+biliary tract disease	can result in	constipation
+biliary tract disease	is a risk factor for	bile duct infections
+biliary tract disease	can be aggravated by	spicy foods
+biliary tract disease	can lead to	liver failure
+biliary tract disease	is associated with	primary biliary cirrhosis
+biliary tract disease	can be managed with	bile duct stenting
+biliary tract disease	is often accompanied by	upper abdominal discomfort
+biliary tract disease	increases the risk of	pancreas cancer
+biliary tract disease	can cause	nutrient deficiencies
+biliary tract disease	is linked to	alcoholic liver disease
+biliary tract disease	can lead to	hormonal dysregulation
+biliary tract disease	is associated with	Wilson disease
+biliary tract disease	can be triggered by	hormonal changes
+biliary tract disease	is often diagnosed through	ERCP
+biliary tract disease	can be managed with	gallstone dissolution therapy
+biliary tract disease	is sometimes a complication of	liver cirrhosis
+biliary tract disease	can cause	fatty stools
+biliary tract disease	is more common in	individuals with a history of pancreatitis
+biliary tract disease	can result in	heartburn
+biliary tract disease	is a risk factor for	biliary dyskinesia
+biliary tract disease	can be aggravated by	caffeine consumption
+biliary tract disease	can lead to	liver abscess
+biliary tract disease	is associated with	viral hepatitis
+biliary tract disease	can be managed with	bile diversion surgery
+biliary tract disease	is often accompanied by	right upper quadrant pain
+biliary tract disease	increases the risk of	bile duct stones
+biliary tract disease	can cause	lactose intolerance
+biliary tract disease	is linked to	autoimmune hepatitis
+biliary tract disease	can lead to	menstrual irregularities
+biliary tract disease	is associated with	pancreatitis
+biliary tract disease	can be triggered by	hormonal contraceptives

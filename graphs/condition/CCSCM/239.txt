@@ -1,0 +1,91 @@
+superficial injury	is a type of	injury
+contusion	is a type of	superficial injury
+bruising	is a symptom of	contusion
+ice	is used to treat	contusion
+pain	is a symptom of	contusion
+swelling	is a symptom of	contusion
+rest	is recommended for	contusion
+elevation	is recommended for	contusion
+analgesics	are used to manage	pain
+non-steroidal anti-inflammatory drugs (NSAIDs)	are used to manage	swelling
+acetaminophen	is an example of	analgesics
+ibuprofen	is an example of	NSAIDs
+dressing	may be used to protect	superficial injury
+avoidance of strenuous activity	is recommended for	contusion
+snapping or cracking sound	is a symptom of	contusion
+warm compress	may be used to alleviate	pain
+petechiae	may be seen with	contusion
+hematoma	may develop with	contusion
+compression	may be applied to	contusion
+wound cleaning	is important for	superficial injury
+open wound	can be a result of	superficial injury
+bruise	is another term for	contusion
+swollen blood vessels	can occur with	contusion
+hemorrhage	is a potential complication of	contusion
+blunt force trauma	is a common cause of	contusion
+skin discoloration	is a visual sign of	contusion
+superficial injury	is often caused by	minor trauma
+hematoma	is a collection of blood caused by	contusion
+fracture	can occur along with	contusion
+soft tissue damage	can occur with	contusion
+superficial injury	can lead to	infection
+contusion	can result in	pain and tenderness
+muscle strain	can coexist with	contusion
+abrasion	can occur with	superficial injury
+contusion	can result in	limited range of motion
+sharp edge or object	can cause	superficial injury
+laceration	can occur along with	superficial injury
+superficial injury	can lead to	scarring
+contusion	can result in	hematoma formation
+hemorrhage	can result from	contusion
+sports-related activities	can lead to	superficial injury
+ecchymosis	can be a sign of	contusion
+superficial injury	can be accompanied by	pain and swelling
+soft tissue swelling	can occur with	contusion
+hemostasis	is important in	managing contusion
+ecchymosis	is a symptom of	contusion
+contusion	can lead to	disability
+superficial injury	can result in	tissue breakdown
+hyperemia	can be seen with	contusion
+hematoma formation	can be a complication of	contusion
+superficial injury	can result from	accidental falls
+positive Murphy's sign	can be seen with	contusion
+blisters	can develop with	superficial injury
+contusion	can cause	tissue damage
+superficial injury	can be caused by	repetitive motions
+contusion	can occur due to	crush injury
+superficial injury	can occur following	surgery
+contusion	can be a consequence of	physical assault
+hyperextension or hyperflexion	can cause	superficial injury
+contusion	can result in	loss of function
+superficial injury	can be caused by	machinery accidents
+blunt trauma	can cause	contusion
+superficial injury	can occur from	motor vehicle accidents
+contusion	can lead to	hematoma
+superficial injury	can result in	edema
+contusion	can cause	internal bleeding
+superficial injury	can be a result of	sports injuries
+contusion	can cause	muscle damage
+superficial injury	can result from	accidental cuts
+contusion	can occur due to	direct trauma
+superficial injury	can be caused by	strenuous exercise
+contusion	can result in	ecchymosis
+superficial injury	can occur from	domestic accidents
+contusion	can lead to	muscle soreness
+superficial injury	can be a consequence of	workplace accidents
+contusion	can cause	temporary disability
+superficial injury	can occur from	recreational activities
+contusion	can result in	impaired function
+superficial injury	can be caused by	slipping or tripping
+contusion	can cause	hematoma formation
+superficial injury	can result in	pain and discomfort
+contusion	can occur due to	physical contact
+superficial injury	can be a result of	sports collisions
+contusion	can cause	inflammation
+superficial injury	can occur from	falls on a hard surface
+contusion	can lead to	tissue swelling
+superficial injury	can be caused by	unintentional trauma
+contusion	can result in	muscle tenderness
+superficial injury	can occur from	overuse
+contusion	can cause	muscle stiffness
+superficial injury	can be a consequence of	assault and battery

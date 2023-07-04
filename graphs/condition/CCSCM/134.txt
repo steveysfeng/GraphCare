@@ -1,0 +1,100 @@
+upper respiratory disease	is a	common condition
+upper respiratory disease	may cause	cough
+rhinovirus	is a	common cause of	upper respiratory disease
+upper respiratory disease	is associated with	congestion
+flu	is a	viral infection that can cause	upper respiratory disease
+upper respiratory disease	can lead to	sinusitis
+allergies	can contribute to	upper respiratory disease
+upper respiratory disease	is often accompanied by	sore throat
+common cold	is a	type of	upper respiratory disease
+upper respiratory disease	may result in	bronchitis
+upper respiratory disease	can be caused by	bacterial infections
+upper respiratory disease	is characterized by	sneezing
+pneumonia	is a	complication of	upper respiratory disease
+upper respiratory disease	commonly occurs during	cold weather
+asthma	can be triggered by	upper respiratory disease
+upper respiratory disease	is treated with	antibiotics
+upper respiratory disease	can lead to	ear infections
+common symptoms of	upper respiratory disease	include	fever
+cigarette smoke	can worsen	upper respiratory disease
+upper respiratory disease	is often caused by	viral infections
+upper respiratory disease	can result in	difficulty breathing
+upper respiratory disease	is more common in	children
+upper respiratory disease	can be transmitted through	respiratory droplets
+hand hygiene	can help prevent	upper respiratory disease
+upper respiratory disease	is associated with	fatigue
+upper respiratory disease	can lead to	pneumonia
+upper respiratory disease	is often accompanied by	headache
+streptococcus	is a	bacterial cause of	upper respiratory disease
+upper respiratory disease	is diagnosed through	physical examination
+upper respiratory disease	can cause	sleep disturbances
+upper respiratory disease	is more prevalent in	winter months
+upper respiratory disease	is a common reason for	doctor visits
+allergens	can trigger	upper respiratory disease
+upper respiratory disease	can result in	loss of voice
+upper respiratory disease	can be prevented through	vaccination
+upper respiratory disease	is associated with	nasal congestion
+upper respiratory disease	can lead to	breathing difficulties
+upper respiratory disease	is often accompanied by	post-nasal drip
+upper respiratory disease	is more common in	older adults
+upper respiratory disease	can be caused by	environmental factors
+upper respiratory disease	is commonly treated with	decongestants
+upper respiratory disease	can result in	loss of appetite
+upper respiratory disease	is often accompanied by	body aches
+upper respiratory disease	is more severe in	immunocompromised individuals
+upper respiratory disease	is associated with	nasal discharge
+upper respiratory disease	can lead to	respiratory distress
+upper respiratory disease	can result in	swollen lymph nodes
+upper respiratory disease	is commonly treated with	cough suppressants
+upper respiratory disease	can cause	wheezing
+upper respiratory disease	is often accompanied by	watery eyes
+rhinitis	is a	type of	upper respiratory disease
+upper respiratory disease	is more common in	smokers
+upper respiratory disease	can be caused by	allergens
+upper respiratory disease	is associated with	nasal itching
+upper respiratory disease	can lead to	respiratory failure
+upper respiratory disease	can result in	swollen tonsils
+upper respiratory disease	is commonly treated with	antihistamines
+strep throat	can be a	complication of	upper respiratory disease
+upper respiratory disease	can cause	fatigue
+upper respiratory disease	is often accompanied by	chills
+upper respiratory disease	is more severe in	asthmatic individuals
+upper respiratory disease	can result in	loss of smell
+upper respiratory disease	is commonly treated with	pain relievers
+upper respiratory disease	can cause	nasal congestion
+upper respiratory disease	is associated with	sore throat
+upper respiratory disease	can lead to	sinus infections
+upper respiratory disease	can result in	difficulty swallowing
+upper respiratory disease	is commonly treated with	anti-inflammatory drugs
+upper respiratory disease	can cause	hoarseness
+upper respiratory disease	is often accompanied by	malaise
+upper respiratory disease	is more common in	individuals with weakened immune systems
+upper respiratory disease	can be caused by	dust mites
+upper respiratory disease	is associated with	nasal stuffiness
+upper respiratory disease	can lead to	respiratory complications
+upper respiratory disease	can result in	swollen adenoids
+upper respiratory disease	is commonly treated with	antiviral medications
+tonsillitis	can be a	complication of	upper respiratory disease
+upper respiratory disease	can cause	chest congestion
+upper respiratory disease	is often accompanied by	coughing
+upper respiratory disease	is more severe in	elderly individuals
+upper respiratory disease	can result in	loss of taste
+upper respiratory disease	is commonly treated with	expectorants
+upper respiratory disease	can cause	nasal itching
+upper respiratory disease	is associated with	sneezing
+upper respiratory disease	can lead to	lung infections
+upper respiratory disease	can result in	difficulty speaking
+upper respiratory disease	is commonly treated with	antipyretics
+upper respiratory disease	can cause	nasal discharge
+upper respiratory disease	is associated with	runny nose
+upper respiratory disease	can lead to	respiratory distress syndrome
+upper respiratory disease	can result in	enlarged adenoids
+upper respiratory disease	is commonly treated with	antitussives
+pharyngitis	can be a	complication of	upper respiratory disease
+upper respiratory disease	can cause	wheezing
+upper respiratory disease	is often accompanied by	nasal congestion
+upper respiratory disease	is more common in	individuals with allergies
+upper respiratory disease	can result in	difficulty breathing
+upper respiratory disease	is commonly treated with	nasal decongestants
+upper respiratory disease	can cause	throat irritation
+upper respiratory disease	is associated with	nasal blockage

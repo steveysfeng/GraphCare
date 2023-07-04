@@ -1,0 +1,105 @@
+paralysis	can be caused by	spinal cord injury
+paralysis	may result in	loss of muscle function
+physical therapy	can help in	paralysis recovery
+paralysis	can lead to	muscle atrophy
+paralysis	is a symptom of	stroke
+paralysis	is often accompanied by	loss of sensation
+paralysis	can be caused by	multiple sclerosis
+paralysis	can be treated with	medication
+paralysis	can result from	nerve damage
+paralysis	is a common complication of	spinal surgery
+paralysis	can occur as a	side effect of medication
+paralysis	can be temporary or	permanent
+paralysis	can affect	any part of the body
+paralysis	can be caused by	brain injury
+paralysis	can be caused by	polio
+paralysis	can be caused by	Guillain-Barre syndrome
+paralysis	can be caused by	amyotrophic lateral sclerosis
+paralysis	can be caused by	botulism
+paralysis	can be caused by	muscular dystrophy
+paralysis	can be caused by	spinal stenosis
+paralysis	can result from	infection
+paralysis	can be treated with	physical therapy
+paralysis	can be treated with	surgery
+paralysis	can be treated with	electrical stimulation
+paralysis	can be treated with	bracing
+paralysis	can be treated with	occupational therapy
+paralysis	can be treated with	speech therapy
+paralysis	can be improved with	assistive devices
+paralysis	can be managed with	pain medication
+paralysis	can cause	urinary incontinence
+paralysis	can cause	sexual dysfunction
+paralysis	can cause	respiratory problems
+paralysis	can cause	digestive issues
+paralysis	can lead to	pressure ulcers
+paralysis	can affect	mobility
+paralysis	can cause	muscle spasticity
+paralysis	can result in	dependency on others
+paralysis	can affect	quality of life
+paralysis	can lead to	depression
+paralysis	can result in	social isolation
+paralysis	can lead to	financial burden
+paralysis	can impact	employment opportunities
+paralysis	can limit	physical activities
+paralysis	can increase the risk of	falls
+paralysis	can impair	cognitive function
+paralysis	can be caused by	traumatic brain injury
+paralysis	can be caused by	tumor
+paralysis	can be caused by	spinal tumor
+paralysis	can be caused by	autoimmune disease
+paralysis	can be caused by	myasthenia gravis
+paralysis	can be caused by	transverse myelitis
+paralysis	can be caused by	Parkinson's disease
+paralysis	can be caused by	multiple system atrophy
+paralysis	can be caused by	cerebral palsy
+paralysis	can be caused by	leprosy
+paralysis	can be caused by	ALS
+paralysis	can be caused by	spinal cord compression
+paralysis	can be caused by	radiation therapy
+paralysis	can be caused by	neurofibromatosis
+paralysis	can be caused by	spina bifida
+paralysis	can be caused by	syringomyelia
+paralysis	can be caused by	trauma
+paralysis	can be caused by	viral infection
+paralysis	can be caused by	bacterial infection
+paralysis	can be caused by	fungal infection
+paralysis	can be caused by	genetic disorder
+paralysis	can be caused by	metabolic disorder
+paralysis	can be caused by	circulatory disorder
+paralysis	can be caused by	endocrine disorder
+paralysis	can result in	respiratory failure
+paralysis	can lead to	inability to walk
+paralysis	can cause	contractures
+paralysis	can result in	loss of independence
+paralysis	can affect	speech
+paralysis	can affect	swallowing
+paralysis	can cause	bowel and bladder dysfunction
+paralysis	can cause	muscle weakness
+paralysis	can lead to	postural instability
+paralysis	can cause	muscle cramps
+paralysis	can cause	difficulty in eating
+paralysis	can result in	loss of dexterity
+paralysis	can lead to	respiratory infections
+paralysis	can affect	sleep
+paralysis	can result in	cognitive decline
+paralysis	can cause	abnormal muscle tone
+paralysis	can lead to	osteoporosis
+paralysis	can result in	joint stiffness
+paralysis	can cause	weight loss
+paralysis	can lead to	skin breakdown
+paralysis	can result in	muscle imbalance
+paralysis	can cause	swallowing problems
+paralysis	can lead to	neuropathic pain
+paralysis	can cause	abnormal reflexes
+paralysis	can result in	spasticity
+paralysis	can lead to	sexual dysfunction
+paralysis	can cause	loss of bowel control
+paralysis	can result in	muscle wasting
+paralysis	can lead to	pressure sores
+paralysis	can cause	muscle stiffness
+paralysis	can result in	joint contractures
+paralysis	can cause	respiratory distress
+paralysis	can lead to	osteoarthritis
+paralysis	can result in	muscle contractures
+paralysis	can cause	speech difficulties
+paralysis	can lead to	sleep apnea

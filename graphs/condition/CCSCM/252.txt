@@ -1,0 +1,103 @@
+malaise and fatigue	are symptoms of	many diseases
+malaise and fatigue	can be caused by	anemia
+anemia	is a	blood disorder
+malaise and fatigue	can be caused by	hypothyroidism
+hypothyroidism	is a	thyroid disorder
+malaise and fatigue	can be caused by	depression
+depression	is a	mental health condition
+malaise and fatigue	can be caused by	chronic fatigue syndrome
+chronic fatigue syndrome	is a	complex disorder
+malaise and fatigue	can be caused by	fibromyalgia
+fibromyalgia	is a	chronic pain condition
+malaise and fatigue	can be caused by	mononucleosis
+mononucleosis	is a	viral infection
+malaise and fatigue	can be caused by	influenza
+influenza	is a	viral infection
+malaise and fatigue	can be caused by	COVID-19
+COVID-19	is a	viral respiratory illness
+malaise and fatigue	can be caused by	cancer
+cancer	is a	group of diseases
+malaise and fatigue	can be caused by	autoimmune disorders
+autoimmune disorders	are conditions where the immune system attacks the body
+malaise and fatigue	can be caused by	chronic kidney disease
+chronic kidney disease	is a	progressive kidney condition
+malaise and fatigue	can be caused by	liver disease
+liver disease	is a	condition affecting the liver
+malaise and fatigue	can be caused by	heart failure
+heart failure	is a	condition where the heart cannot pump enough blood
+malaise and fatigue	can be caused by	diabetes
+diabetes	is a	metabolic disorder
+malaise and fatigue	can be caused by	sleep disorders
+sleep disorders	are conditions affecting the quality of sleep
+malaise and fatigue	can be caused by	medication side effects
+medication side effects	are adverse reactions to drugs
+malaise and fatigue	can be caused by	nutritional deficiencies
+nutritional deficiencies	are lack of essential nutrients
+malaise and fatigue	can be caused by	dehydration
+dehydration	is a	lack of fluid in the body
+malaise and fatigue	can be caused by	stress
+stress	is a	response to mental or emotional pressure
+malaise and fatigue	can be caused by	physical exertion
+physical exertion	is the	effort of the body
+malaise and fatigue	can be caused by	aging
+aging	is the	process of getting older
+malaise and fatigue	can be caused by	hormone imbalances
+hormone imbalances	are abnormal levels of hormones
+malaise and fatigue	can be caused by	infections
+infections	are invasions of harmful organisms
+malaise and fatigue	can be caused by	allergies
+allergies	are abnormal immune responses
+malaise and fatigue	can be caused by	autoimmune disorders
+autoimmune disorders	are conditions where the immune system attacks the body
+malaise and fatigue	can be caused by	malnutrition
+malnutrition	is a	lack of proper nutrition
+malaise and fatigue	can be caused by	chronic pain
+chronic pain	is a	long-lasting pain sensation
+malaise and fatigue	can be caused by	sedentary lifestyle
+sedentary lifestyle	is a	low physical activity level
+malaise and fatigue	can be caused by	smoking
+smoking	is the	inhaling of tobacco smoke
+malaise and fatigue	can be caused by	alcohol abuse
+alcohol abuse	is the	excessive consumption of alcohol
+malaise and fatigue	can be caused by	drug abuse
+drug abuse	is the	misuse of drugs
+malaise and fatigue	can be caused by	environmental toxins
+environmental toxins	are harmful substances in the environment
+malaise and fatigue	can be caused by	occupation-related exposures
+occupation-related exposures	are hazards in the workplace
+malaise and fatigue	can be caused by	lack of sleep
+lack of sleep	is a	condition of insufficient rest
+malaise and fatigue	can be caused by	lack of exercise
+lack of exercise	is a	condition of inadequate physical activity
+malaise and fatigue	can be caused by	hormonal changes
+hormonal changes	are alterations in hormone levels
+malaise and fatigue	can be caused by	mental health conditions
+mental health conditions	are disorders affecting emotional well-being
+malaise and fatigue	can be caused by	chronic infections
+chronic infections	are persistent and recurrent infections
+malaise and fatigue	can be caused by	autoimmune disorders
+autoimmune disorders	are conditions where the immune system attacks the body
+malaise and fatigue	can be caused by	gastrointestinal disorders
+gastrointestinal disorders	are conditions affecting the digestive system
+malaise and fatigue	can be caused by	endocrine disorders
+endocrine disorders	are conditions affecting hormone-producing glands
+malaise and fatigue	can be caused by	respiratory disorders
+respiratory disorders	are conditions affecting the airways and lungs
+malaise and fatigue	can be caused by	cardiovascular disorders
+cardiovascular disorders	are conditions affecting the heart and blood vessels
+malaise and fatigue	can be caused by	neuromuscular disorders
+neuromuscular disorders	are conditions affecting nerves and muscles
+malaise and fatigue	can be caused by	cancer
+cancer	is a	group of diseases
+malaise and fatigue	can be caused by	sleep disorders
+sleep disorders	are conditions affecting the quality of sleep
+malaise and fatigue	can be caused by	urinary tract infections
+urinary tract infections	are bacterial infections of the urinary system
+malaise and fatigue	can be caused by	viral infections
+viral infections	are infections caused by viruses
+malaise and fatigue	can be caused by	bacterial infections
+bacterial infections	are infections caused by bacteria
+malaise and fatigue	can be caused by	parasitic infections
+parasitic infections	are infections caused by parasites
+malaise and fatigue	can be caused by	fungal infections
+fungal infections	are infections caused by fungi

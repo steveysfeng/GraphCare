@@ -1,0 +1,118 @@
+sprains	can result from	physical activity
+strains	can result from	physical activity
+sprains	may cause	swelling
+strains	may cause	swelling
+sprains	can be treated with	rest
+strains	can be treated with	rest
+sprains	can be prevented by	warm-up exercises
+strains	can be prevented by	warm-up exercises
+sprains	are common in	athletes
+strains	are common in	athletes
+sprains	require	medical evaluation
+strains	require	medical evaluation
+sprains	can lead to	chronic pain
+strains	can lead to	chronic pain
+sprains	can affect	joint stability
+strains	can affect	joint stability
+sprains	can cause	bruising
+strains	can cause	bruising
+sprains	heal	slower in older individuals
+strains	heal	slower in older individuals
+sprains	are more likely to occur	in certain sports
+strains	are more likely to occur	in certain sports
+sprains	can cause	limited range of motion
+strains	can cause	limited range of motion
+sprains	can result in	ligament damage
+strains	can result in	muscle damage
+sprains	can lead to	chronic instability
+strains	can lead to	chronic weakness
+sprains	require	rehabilitation
+strains	require	rehabilitation
+sprains	are often classified	by severity
+strains	are often classified	by severity
+sprains	can be diagnosed with	physical examination
+strains	can be diagnosed with	physical examination
+sprains	can be diagnosed with	imaging tests
+strains	can be diagnosed with	imaging tests
+sprains	can be managed with	pain medication
+strains	can be managed with	pain medication
+sprains	can be managed with	physical therapy
+strains	can be managed with	physical therapy
+sprains	can lead to	muscle spasms
+strains	can lead to	muscle spasms
+sprains	can cause	instability in the affected joint
+strains	can cause	weakness in the affected muscle
+sprains	can result in	limited mobility
+strains	can result in	limited mobility
+sprains	can be accompanied by	swelling
+strains	can be accompanied by	swelling
+sprains	can be accompanied by	bruising
+strains	can be accompanied by	bruising
+sprains	can be accompanied by	pain
+strains	can be accompanied by	pain
+sprains	can be accompanied by	tenderness
+strains	can be accompanied by	tenderness
+sprains	can be accompanied by	muscle weakness
+strains	can be accompanied by	muscle weakness
+sprains	can benefit from	early intervention
+strains	can benefit from	early intervention
+sprains	can result from	falls
+strains	can result from	overuse
+sprains	can result from	repetitive movements
+strains	can result from	repetitive movements
+sprains	can occur in	any joint
+strains	can occur in	any muscle
+sprains	can cause	difficulty bearing weight
+strains	can cause	difficulty using the affected muscle
+sprains	can affect	daily activities
+strains	can affect	daily activities
+sprains	can lead to	long-term complications
+strains	can lead to	long-term complications
+sprains	can require	surgery
+strains	can require	surgery
+sprains	can be aggravated by	certain movements
+strains	can be aggravated by	certain movements
+sprains	can be managed with	physical activity modification
+strains	can be managed with	physical activity modification
+sprains	can occur	suddenly
+strains	can occur	suddenly
+sprains	can occur	during sports
+strains	can occur	during sports
+sprains	can lead to	joint instability
+strains	can lead to	muscle weakness
+sprains	can impact	daily functioning
+strains	can impact	daily functioning
+sprains	can be accompanied by	popping or snapping sound
+strains	can be accompanied by	muscle spasm
+sprains	can cause	joint laxity
+strains	can cause	muscle tightness
+sprains	can require	immobilization
+strains	can require	immobilization
+sprains	can be caused by	sudden force or trauma
+strains	can be caused by	overstretching of the muscle
+sprains	can benefit from	physical therapy
+strains	can benefit from	physical therapy
+sprains	can affect	ligaments
+strains	can affect	muscles
+sprains	can result in	stiffness
+strains	can result in	stiffness
+sprains	can cause	swelling
+strains	can cause	swelling
+sprains	can result in	pain
+strains	can result in	pain
+sprains	can lead to	limited range of motion
+strains	can lead to	limited range of motion
+sprains	can cause	instability in the joint
+strains	can cause	weakness in the muscle
+sprains	can be managed with	rest and ice
+strains	can be managed with	rest and ice
+sprains	can require	medical evaluation
+strains	can require	medical evaluation
+sprains	can benefit from	compression
+strains	can benefit from	compression
+sprains	can be prevented by	maintaining proper form during physical activity
+strains	can be prevented by	maintaining proper form during physical activity
+sprains	can be prevented by	wearing supportive footwear
+strains	can be prevented by	wearing supportive footwear
+sprains	can be prevented by	using proper equipment
+strains	can be prevented by	using proper equipment

@@ -1,0 +1,131 @@
+nutritional deficiencies	can cause	anemia
+iron	is a	nutrient
+iron	deficiency	causes	anemia
+vitamin B12	is a	nutrient
+vitamin B12	deficiency	causes	pernicious anemia
+Vitamin D	is a	nutrient
+Vitamin D	deficiency	causes	rickets
+calcium	is a	nutrient
+calcium	deficiency	causes	osteoporosis
+nutritional deficiencies	are associated with	malnutrition
+malnutrition	can lead to	immune deficiency
+immune deficiency	increases	susceptibility to infections
+nutritional deficiencies	can lead to	developmental delays
+developmental delays	hinder	cognitive and physical development
+nutritional deficiencies	can cause	fatigue
+fatigue	affects	daily functioning
+nutritional deficiencies	can impair	wound healing
+wound healing	is slowed by	nutritional deficiencies
+nutritional deficiencies	can cause	hair loss
+hair loss	affects	self-esteem
+nutritional deficiencies	can lead to	muscle weakness
+muscle weakness	impairs	mobility
+nutritional deficiencies	increase	risk of chronic diseases
+nutritional deficiencies	can lead to	impaired growth and development
+impaired growth and development	affects	overall health
+nutritional deficiencies	can cause	gastrointestinal problems
+gastrointestinal problems	interfere with	nutrient absorption
+nutritional deficiencies	can lead to	vision problems
+vision problems	affect	quality of life
+nutritional deficiencies	can cause	hormonal imbalance
+hormonal imbalance	disrupts	bodily functions
+nutritional deficiencies	can lead to	fertility issues
+fertility issues	affect	reproductive health
+nutritional deficiencies	can cause	weak immune system
+weak immune system	increases	susceptibility to infections
+nutritional deficiencies	can lead to	muscle cramps
+muscle cramps	interfere with	physical activities
+nutritional deficiencies	can cause	mood swings
+mood swings	impact	emotional well-being
+nutritional deficiencies	can lead to	cognitive decline
+cognitive decline	affects	memory and reasoning
+nutritional deficiencies	can cause	digestive problems
+digestive problems	affect	nutrient absorption
+nutritional deficiencies	can lead to	weakened bones
+weakened bones	increase	risk of fractures
+nutritional deficiencies	can cause	dizziness
+dizziness	affects	balance and coordination
+nutritional deficiencies	can lead to	dental problems
+dental problems	impact	oral health
+nutritional deficiencies	can cause	skin problems
+skin problems	affect	appearance and self-confidence
+nutritional deficiencies	can lead to	weak nails
+weak nails	affect	self-esteem
+nutritional deficiencies	can cause	cardiovascular problems
+cardiovascular problems	increase	risk of heart disease
+nutritional deficiencies	can lead to	decreased energy levels
+decreased energy levels	affect	daily functioning
+nutritional deficiencies	can cause	muscle wasting
+muscle wasting	leads to	decreased muscle strength
+nutritional deficiencies	can lead to	dental cavities
+dental cavities	affect	oral health
+nutritional deficiencies	can cause	poor wound healing
+poor wound healing	increases	risk of infection
+nutritional deficiencies	can lead to	irritability
+irritability	affects	interpersonal relationships
+nutritional deficiencies	can cause	joint pain
+joint pain	impairs	mobility
+nutritional deficiencies	can lead to	decreased immunity
+decreased immunity	increases	risk of infections
+nutritional deficiencies	can cause	breathing problems
+breathing problems	affect	respiratory function
+nutritional deficiencies	can lead to	muscle stiffness
+muscle stiffness	affects	flexibility and range of motion
+nutritional deficiencies	can cause	poor concentration
+poor concentration	affects	academic and work performance
+nutritional deficiencies	can lead to	depression
+depression	impacts	mental well-being
+nutritional deficiencies	can cause	weight loss
+weight loss	affects	nutritional status
+nutritional deficiencies	can lead to	brittle nails
+brittle nails	affect	self-esteem
+nutritional deficiencies	can cause	reduced fertility
+reduced fertility	affects	reproductive health
+nutritional deficiencies	can lead to	hormonal imbalances
+hormonal imbalances	disrupt	bodily functions
+nutritional deficiencies	can cause	poor growth
+poor growth	affects	overall health
+nutritional deficiencies	can lead to	cognitive impairment
+cognitive impairment	affects	memory and cognitive abilities
+nutritional deficiencies	can cause	digestive disturbances
+digestive disturbances	interfere with	nutrient absorption
+nutritional deficiencies	can lead to	weakened immune system
+weakened immune system	increases	susceptibility to infections
+nutritional deficiencies	can cause	menstrual irregularities
+menstrual irregularities	affect	reproductive health
+nutritional deficiencies	can lead to	muscle cramping
+muscle cramping	interferes with	physical activities
+nutritional deficiencies	can cause	irritability
+irritability	affects	mood and relationships
+nutritional deficiencies	can lead to	impaired wound healing
+impaired wound healing	increases	risk of infections
+nutritional deficiencies	can cause	poor focus
+poor focus	affects	academic and work performance
+nutritional deficiencies	can lead to	hair thinning
+hair thinning	affects	self-esteem
+nutritional deficiencies	can cause	cardiovascular disease
+cardiovascular disease	increases	risk of heart attack and stroke
+nutritional deficiencies	can lead to	decreased stamina
+decreased stamina	affects	physical performance
+nutritional deficiencies	can cause	muscle weakness
+muscle weakness	impairs	mobility
+nutritional deficiencies	can lead to	dental decay
+dental decay	impacts	oral health
+nutritional deficiencies	can cause	skin dryness
+skin dryness	affects	appearance
+nutritional deficiencies	can lead to	brittle hair
+brittle hair	affects	self-esteem
+nutritional deficiencies	can cause	poor circulation
+poor circulation	impairs	blood flow
+nutritional deficiencies	can lead to	decreased cognitive function
+decreased cognitive function	affects	memory and thinking abilities
+nutritional deficiencies	can cause	gastrointestinal disturbances
+gastrointestinal disturbances	interfere with	digestion and nutrient absorption
+nutritional deficiencies	can lead to	weak bones
+weak bones	increase	risk of fractures
+nutritional deficiencies	can cause	lightheadedness
+lightheadedness	affects	balance and coordination
+nutritional deficiencies	can lead to	tooth decay
+tooth decay	impacts	oral health
+nutritional deficiencies	can cause	dry skin
+dry skin	affects	appearance

@@ -1,0 +1,33 @@
+other upper respiratory infections	can cause	sore throat
+sore throat	can lead to	difficulty swallowing
+other upper respiratory infections	may result in	cough
+cough	can be caused by	postnasal drip
+postnasal drip	can occur due to	allergies
+allergies	can be triggered by	pollen
+other upper respiratory infections	may cause	nasal congestion
+nasal congestion	can lead to	sinus pressure
+sinus pressure	can cause	headaches
+headaches	can be relieved by	painkillers
+painkillers	can include	acetaminophen
+acetaminophen	can be bought over	the counter
+other upper respiratory infections	can result in	fatigue
+fatigue	can be caused by	lack of sleep
+lack of sleep	can be due to	sleep apnea
+sleep apnea	can be diagnosed by	a sleep study
+other upper respiratory infections	may lead to	ear infection
+ear infection	can cause	earache
+earache	can be relieved by	warm compress
+warm compress	can reduce	inflammation
+inflammation	can be caused by	bacteria
+bacteria	can be treated with	antibiotics
+antibiotics	can include	amoxicillin
+amoxicillin	can be prescribed by	a doctor
+other upper respiratory infections	can result in	fever
+fever	can be a sign of	infection
+infection	can be caused by	a virus
+virus	can be transmitted through	respiratory droplets
+other upper respiratory infections	can cause	sneezing
+sneezing	can be a symptom of	allergies
+allergies	can be treated with	antihistamines
+antihistamines	can include	loratadine
+loratadine	can be found in	allergy medications

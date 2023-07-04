@@ -1,0 +1,14 @@
+other and ill-defined heart disease	is a	heart condition
+other and ill-defined heart disease	can cause	congestive heart failure
+other and ill-defined heart disease	may result in	arrhythmias
+echocardiogram	is a test for	other and ill-defined heart disease
+other and ill-defined heart disease	is managed with	medications
+beta blockers	are a type of	medication
+other and ill-defined heart disease	is a	cardiac condition
+other and ill-defined heart disease	can lead to	heart failure
+coronary artery disease	is a risk factor for	other and ill-defined heart disease
+other and ill-defined heart disease	is associated with	arrhythmias
+beta blockers	are used to treat	other and ill-defined heart disease
+other and ill-defined heart disease	may result in	sudden cardiac arrest
+diuretics	are prescribed to manage	fluid retention in other and ill-defined heart disease
+hypertension	is a common comorbidity of	other and ill-defined heart disease

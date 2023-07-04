@@ -1,0 +1,90 @@
+retinal detachments	can cause	vision loss
+defects	can be caused by	retinal detachments
+retinal detachments	are treated with	surgery
+vascular occlusion	can lead to	retinal detachment
+retinopathy	is a common complication of	retinal detachment
+retinal detachment	is a	medical emergency
+retinal detachment	is diagnosed using	a retinal examination
+retinal detachment	can result in	permanent blindness
+retinopathy	can be caused by	vascular occlusion
+vascular occlusion	can cause	retinopathy
+retinal detachments	are more common in	nearsighted individuals
+retinal detachment	can be caused by	trauma
+retinal detachment	can be treated with	laser photocoagulation
+retinopathy	is often associated with	diabetes
+retinal detachment	can lead to	macular hole
+retinal detachment	can be prevented by	wearing protective eyewear
+retinal detachment	can occur after	cataract surgery
+retinopathy	can result in	vision loss
+retinal detachment	is more common in	older adults
+vascular occlusion	can cause	vision loss
+retinopathy	can be diagnosed using	an angiography
+retinal detachment	can be caused by	age-related macular degeneration
+retinal detachment	can be caused by	diabetic retinopathy
+retinal detachment	can be caused by	lattice degeneration
+retinal detachment	can be caused by	uveitis
+retinal detachment	can be caused by	previous eye surgery
+retinal detachment	can occur after	a blow to the head
+retinal detachment	can occur after	eye trauma
+retinal detachment	can be caused by	retinitis pigmentosa
+retinal detachment	can lead to	retinal tear
+retinopathy	can be caused by	high blood pressure
+retinal detachment	can lead to	vitreous hemorrhage
+retinopathy	can be caused by	sickle cell disease
+retinal detachment	can be caused by	Marfan syndrome
+vascular occlusion	can be caused by	a blood clot
+retinopathy	is associated with	abnormal blood vessels in the retina
+retinal detachment	can be caused by	an inflammatory eye condition
+retinal detachment	can be caused by	an eye tumor
+retinopathy	can be caused by	radiation therapy
+retinal detachment	can occur after	LASIK surgery
+retinal detachment	can be caused by	an eye infection
+retinal detachment	can occur after	cataract removal
+retinopathy	can be caused by	high cholesterol
+retinopathy	can be caused by	autoimmune diseases
+retinopathy	can be caused by	HIV/AIDS
+retinal detachment	can result in	macular edema
+retinal detachment	can be caused by	retinal artery or vein occlusion
+retinal detachment	can occur after	a retinal tear
+retinopathy	can be caused by	retinal vein occlusion
+retinopathy	can be caused by	retinal artery occlusion
+retinal detachment	can be caused by	eye inflammation
+retinal detachment	can occur after	eye surgery
+retinal detachment	can occur after	LASIK surgery
+retinal detachment	can occur after	cataract surgery
+retinopathy	can be caused by	retinal bleeding
+retinopathy	can be caused by	retinal detachment
+retinal detachment	can lead to	cataracts
+retinopathy	can result in	macular degeneration
+retinal detachment	can lead to	iris neovascularization
+retinal detachment	can be caused by	epiretinal membrane
+retinal detachment	can be caused by	pseudophakia
+retinal detachment	can be caused by	aphakia
+retinal detachment	can occur after	intraocular injections
+retinopathy	can be a complication of	retinal detachment
+retinal detachment	can lead to	retinal ischemia
+retinal detachment	can be caused by	retinal degeneration
+retinopathy	can be caused by	optic nerve damage
+retinal detachment	can be caused by	glaucoma
+retinopathy	can result in	macular edema
+retinal detachment	can lead to	macular pucker
+retinal detachment	can lead to	macular ischemia
+retinal detachment	can be caused by	eye trauma
+retinopathy	can be caused by	retinal fibrosis
+retinal detachment	can lead to	proliferative vitreoretinopathy
+retinopathy	can lead to	tractional retinal detachment
+retinal detachment	can lead to	subretinal fluid accumulation
+retinopathy	can be caused by	retinal detachment surgery
+retinopathy	can be caused by	vitreous hemorrhage
+retinal detachment	can be caused by	retinal hole
+retinal detachment	can be caused by	retinal tear on the other eye
+retinal detachment	can be caused by	retinal artery occlusion
+retinopathy	can be caused by	retinal artery occlusion
+retinal detachment	can be caused by	lattice degeneration
+retinal detachment	can be caused by	retinitis pigmentosa
+retinal detachment	is more common in	men
+vascular occlusion	can be caused by	atherosclerosis
+retinopathy	can be caused by	anemia
+retinal detachment	can lead to	scleral buckle
+retinal detachment	can be caused by	pars plana vitrectomy
+retinal detachment	can result in	cataract formation

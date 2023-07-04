@@ -1,0 +1,8 @@
+syncope	is a	temporary loss of consciousness
+syncope	can be caused by	low blood pressure
+carotid sinus massage	is a	diagnostic procedure for syncope
+vasovagal syncope	is a type of	syncope
+syncope	can be a symptom of	arrhythmia
+pacemaker	is a treatment for	syncope
+syncope	is associated with	increased risk of falls
+older adults	are at higher risk for	syncope

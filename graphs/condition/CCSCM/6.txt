@@ -1,0 +1,107 @@
+hepatitis	is a	viral infection
+hepatitis	is commonly transmitted through	blood transfusion
+hepatitis B	is a type of	hepatitis
+hepatitis B	is transmitted through	sexual contact
+hepatitis C	is a type of	hepatitis
+hepatitis C	is transmitted through	sharing needles
+hepatitis	can cause	liver damage
+hepatitis	can lead to	cirrhosis
+hepatitis	can result in	liver cancer
+hepatitis	is diagnosed using	blood tests
+hepatitis	is preventable through	vaccination
+hepatitis B vaccine	is given to prevent	hepatitis B
+hepatitis C	can be treated with	antiviral medications
+hepatitis	is a risk factor for	liver failure
+alcohol	can worsen	hepatitis
+hepatitis B	can be chronic and lead to	liver scarring
+hepatitis C	can lead to	chronic liver disease
+hepatitis	can cause	jaundice
+hepatitis	can result in	fatigue
+hepatitis	can cause	abdominal pain
+hepatitis C	is the leading cause of	liver transplantation
+hepatitis B	can be transmitted from	mother to baby
+hepatitis A	is another type of	hepatitis
+hepatitis A	is transmitted through	contaminated food and water
+hepatitis A vaccine	is given to prevent	hepatitis A
+hepatitis A	rarely leads to	chronic liver disease
+hepatitis D	can only occur in individuals with	hepatitis B
+coinfection with HIV	can worsen	hepatitis
+hepatitis	can be prevented by practicing good	hygiene
+hepatitis B	can cause	joint pain
+hepatitis	can result in	liver failure
+hepatitis C	can be cured with	direct-acting antiviral drugs
+hepatitis B	can cause	liver inflammation
+hepatitis C	is a major cause of	liver disease
+hepatitis	can lead to	portal hypertension
+hepatitis D	is the most severe form of	viral hepatitis
+hepatitis	is a risk factor for	hepatocellular carcinoma
+hepatitis C	can cause	fibrosis
+hepatitis B	can cause	fever
+hepatitis	can result in	decreased appetite
+hepatitis B	can cause	nausea
+hepatitis	can lead to	edema
+hepatitis C	can result in	liver fibrosis
+hepatitis	can cause	muscle pain
+hepatitis B	can lead to	liver failure
+hepatitis C	can cause	hepatic encephalopathy
+hepatitis	can result in	dark urine
+hepatitis	can lead to	ascites
+hepatitis B	can cause	abdominal discomfort
+hepatitis C	can cause	hepatocellular carcinoma
+hepatitis	can lead to	hepatic encephalopathy
+hepatitis C	can result in	liver cirrhosis
+hepatitis	can cause	pale stools
+hepatitis B	can result in	chronic hepatitis
+hepatitis	can lead to	upper gastrointestinal bleeding
+hepatitis	can cause	itching
+hepatitis C	can lead to	liver transplantation
+hepatitis	can result in	malaise
+hepatitis B	can cause	rash
+hepatitis C	can result in	liver failure
+hepatitis	can cause	weight loss
+hepatitis B	can lead to	liver cancer
+hepatitis C	can cause	hepatorenal syndrome
+hepatitis	can lead to	loss of appetite
+hepatitis	is a risk factor for	liver abscess
+hepatitis B	can result in	liver damage
+hepatitis C	can cause	liver cirrhosis
+hepatitis	can lead to	hypoglycemia
+hepatitis	can cause	variceal bleeding
+hepatitis B	can lead to	liver failure
+hepatitis C	can result in	hepatocellular carcinoma
+hepatitis	can cause	fluid retention
+hepatitis C	can cause	liver damage
+hepatitis	can lead to	hepatic failure
+hepatitis	is a risk factor for	hepatorenal syndrome
+hepatitis B	can cause	hepatocellular carcinoma
+hepatitis	can result in	hepatic encephalopathy
+hepatitis	can cause	gastrointestinal bleeding
+hepatitis C	can lead to	liver disease
+hepatitis	can lead to	liver abscess
+hepatitis B	can result in	liver cirrhosis
+hepatitis	can cause	renal dysfunction
+hepatitis C	can cause	liver cancer
+hepatitis	can lead to	coagulopathy
+hepatitis	can result in	liver necrosis
+hepatitis B	can cause	hepatorenal syndrome
+hepatitis C	can lead to	liver failure
+hepatitis	can cause	anorexia
+hepatitis	can lead to	hepatorenal syndrome
+hepatitis B	can result in	liver cancer
+hepatitis C	can cause	liver necrosis
+hepatitis	can result in	hyperbilirubinemia
+hepatitis B	can cause	hepatocellular damage
+hepatitis	can lead to	gastrointestinal hemorrhage
+hepatitis	can cause	hepatic dysfunction
+hepatitis C	can result in	hepatocellular damage
+hepatitis	can lead to	anemia
+hepatitis B	can cause	renal failure
+hepatitis	can result in	hepatic coma
+hepatitis	can lead to	hepatocellular carcinoma
+hepatitis C	can cause	hepatocellular damage
+hepatitis	can cause	neutropenia
+hepatitis	can lead to	hepatocellular necrosis
+hepatitis B	can result in	renal failure
+hepatitis C	can cause	hepatocellular necrosis
+hepatitis	can result in	hepatitis-induced aplastic anemia
+hepatitis	can lead to	hepatocellular damage

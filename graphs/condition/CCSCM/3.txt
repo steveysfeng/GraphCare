@@ -1,0 +1,87 @@
+bacterial infection	can cause	sepsis
+bacterial infection	is treated with	antibiotics
+antibiotics	can cause	diarrhea
+bacterial infection	may result in	hospitalization
+bacterial infection	may require	surgery
+bacterial infection	can lead to	septic shock
+septic shock	is a	life-threatening condition
+bacterial infection	can be caused by	lack of proper hygiene
+bacterial infection	can be transmitted through	contaminated food
+bacterial infection	can be prevented by	vaccination
+vaccination	can provide	immunity
+bacterial infection	can be diagnosed with	blood culture
+blood culture	is a	diagnostic test
+bacterial infection	can result in	abscess formation
+abscess	may require	drainage
+bacterial infection	can lead to	cellulitis
+cellulitis	is an	infection of the skin
+bacterial infection	can cause	pneumonia
+bacterial infection	can lead to	meningitis
+meningitis	is an	inflammation of the membranes surrounding the brain
+bacterial infection	can cause	urinary tract infection
+bacterial infection	can result in	septic arthritis
+septic arthritis	is an	infection of the joints
+bacterial infection	can lead to	endocarditis
+endocarditis	is an	infection of the heart
+bacterial infection	can cause	osteomyelitis
+osteomyelitis	is an	infection of the bone
+bacterial infection	can lead to	bacteremia
+bacteremia	is the presence of	bacteria in the bloodstream
+bacterial infection	can cause	sinusitis
+bacterial infection	can result in	peritonitis
+peritonitis	is an	infection of the abdominal lining
+bacterial infection	can lead to	bacteremia
+bacterial infection	can cause	meningococcal disease
+meningococcal disease	can be prevented with	meningococcal vaccines
+bacterial infection	can result in	septicemia
+septicemia	is a	bloodstream infection
+bacterial infection	can cause	wound infection
+bacterial infection	can lead to	septic arthritis
+bacterial infection	can cause	diarrhea
+bacterial infection	can result in	abscess formation
+bacterial infection	can lead to	septic shock
+bacterial infection	can be caused by	contaminated water
+bacterial infection	can be transmitted through	sexual contact
+bacterial infection	can be prevented by	proper handwashing
+bacterial infection	can be diagnosed with	urine culture
+urine culture	is a	diagnostic test
+bacterial infection	can result in	respiratory tract infection
+bacterial infection	can cause	skin infection
+bacterial infection	can lead to	brain abscess
+bacterial infection	can cause	ear infection
+bacterial infection	can result in	osteomyelitis
+bacterial infection	can lead to	endocarditis
+bacterial infection	can cause	pneumonia
+bacterial infection	can result in	septicemia
+bacterial infection	can lead to	peritonitis
+bacterial infection	can cause	urinary tract infection
+bacterial infection	can result in	sinusitis
+bacterial infection	can lead to	meningitis
+bacterial infection	can cause	wound infection
+bacterial infection	can result in	sepsis
+bacterial infection	can lead to	cellulitis
+bacterial infection	can cause	gastroenteritis
+bacterial infection	can result in	meningococcal disease
+bacterial infection	can lead to	bacteremia
+bacterial infection	can cause	septic arthritis
+bacterial infection	can result in	endocarditis
+bacterial infection	can lead to	osteomyelitis
+bacterial infection	can cause	pyelonephritis
+bacterial infection	can result in	pericarditis
+bacterial infection	can lead to	urinary tract infection
+bacterial infection	can cause	cholecystitis
+bacterial infection	can result in	lymphadenitis
+bacterial infection	can lead to	pneumonia
+bacterial infection	can be caused by	contaminated food
+bacterial infection	can be transmitted through	respiratory droplets
+bacterial infection	can be prevented by	vaccination
+bacterial infection	can be diagnosed with	wound culture
+wound culture	is a	diagnostic test
+bacterial infection	can result in	septicemia
+bacterial infection	can cause	brain abscess
+bacterial infection	can lead to	ear infection
+bacterial infection	can cause	gastroenteritis
+bacterial infection	can result in	pericarditis
+bacterial infection	can lead to	pyelonephritis
+bacterial infection	can cause	cholecystitis
+bacterial infection	can result in	lymphadenitis

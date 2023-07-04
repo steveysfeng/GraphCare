@@ -1,0 +1,206 @@
+aspiration pneumonitis	is a	medical condition
+aspiration pneumonitis	is caused by	food/vomitus
+aspiration pneumonitis	can lead to	pneumonia
+aspiration pneumonitis	may result in	respiratory distress
+aspiration pneumonitis	is diagnosed by	chest x-ray
+aspiration pneumonitis	is treated with	antibiotics
+antibiotics	are used to	treat infection
+aspiration pneumonitis	can cause	lung damage
+aspiration pneumonitis	may require	hospitalization
+aspiration pneumonitis	increases the risk of	respiratory failure
+respiratory failure	can lead to	death
+aspiration pneumonitis	can be prevented by	proper positioning during feeding
+aspiration pneumonitis	is more common in	elderly patients
+aspiration pneumonitis	is a	preventable condition
+aspiration pneumonitis	can be caused by	impaired swallowing function
+impaired swallowing function	is a	risk factor
+aspiration pneumonitis	may require	intubation
+intubation	is a	procedure
+aspiration pneumonitis	is associated with	increased mortality
+aspiration pneumonitis	is a	respiratory disorder
+aspiration pneumonitis	results from	inhalation of foreign material
+aspiration pneumonitis	can lead to	chronic lung disease
+aspiration pneumonitis	occurs when	food or vomitus enters the lungs
+aspiration pneumonitis	is characterized by	inflammation of the lung tissue
+aspiration pneumonitis	can cause	fever
+aspiration pneumonitis	presents with	cough and shortness of breath
+aspiration pneumonitis	is more common in	patients with neurological disorders
+aspiration pneumonitis	is a	potentially serious condition
+aspiration pneumonitis	is a	pulmonary disorder
+aspiration pneumonitis	can cause	lung abscess
+aspiration pneumonitis	is treated with	supportive care
+supportive care	includes	oxygen therapy
+aspiration pneumonitis	requires	close monitoring
+aspiration pneumonitis	can lead to	sepsis
+sepsis	is a	life-threatening condition
+aspiration pneumonitis	is a	common cause of pneumonia
+aspiration pneumonitis	can result in	respiratory failure
+respiratory failure	requires	mechanical ventilation
+aspiration pneumonitis	can lead to	respiratory compromise
+aspiration pneumonitis	is associated with	increased morbidity
+aspiration pneumonitis	can lead to	lung fibrosis
+aspiration pneumonitis	is often accompanied by	aspiration pneumonia
+aspiration pneumonia	is a	complication of aspiration pneumonitis
+aspiration pneumonitis	may cause	lung injury
+aspiration pneumonitis	can be caused by	decreased level of consciousness
+decreased level of consciousness	is a	risk factor
+aspiration pneumonitis	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	is a	severe lung condition
+aspiration pneumonitis	can cause	pulmonary edema
+pulmonary edema	is a	buildup of fluid in the lungs
+aspiration pneumonitis	can result in	atelectasis
+atelectasis	is a	collapsed lung
+aspiration pneumonitis	is more common in	patients with gastric reflux
+aspiration pneumonitis	is associated with	increased hospital length of stay
+aspiration pneumonitis	is a	pulmonary disorder
+aspiration pneumonitis	can lead to	respiratory distress syndrome
+aspiration pneumonitis	is a	preventable condition
+aspiration pneumonitis	can cause	acute lung injury
+acute lung injury	is a	severe lung condition
+aspiration pneumonitis	is diagnosed based on	clinical presentation and imaging findings
+aspiration pneumonitis	can result in	septic shock
+septic shock	is a	life-threatening condition
+aspiration pneumonitis	can lead to	pulmonary aspiration
+pulmonary aspiration	is a	complication of aspiration pneumonitis
+aspiration pneumonitis	can be caused by	impaired cough reflex
+impaired cough reflex	is a	risk factor
+aspiration pneumonitis	can lead to	respiratory insufficiency
+respiratory insufficiency	requires	supplemental oxygen
+aspiration pneumonitis	is more common in	patients with dysphagia
+aspiration pneumonitis	is associated with	increased healthcare costs
+aspiration pneumonitis	can lead to	pleural effusion
+pleural effusion	is a	buildup of fluid in the pleural cavity
+aspiration pneumonitis	can cause	respiratory distress
+respiratory distress	requires	prompt medical attention
+aspiration pneumonitis	is a	potentially preventable condition
+aspiration pneumonitis	is more common in	patients with a history of stroke
+aspiration pneumonitis	can result in	respiratory compromise
+aspiration pneumonitis	can be caused by	impaired gag reflex
+impaired gag reflex	is a	risk factor
+aspiration pneumonitis	can lead to	lung infection
+lung infection	requires	antibiotic therapy
+aspiration pneumonitis	can result in	bronchospasm
+bronchospasm	is a	constriction of the airway
+aspiration pneumonitis	can cause	lung inflammation
+lung inflammation	is a	characteristic feature of aspiration pneumonitis
+aspiration pneumonitis	can lead to	chronic respiratory insufficiency
+aspiration pneumonitis	is a	preventable complication
+aspiration pneumonitis	is more common in	patients with gastroesophageal reflux disease
+aspiration pneumonitis	is associated with	increased risk of pneumonia
+aspiration pneumonitis	can result in	acute respiratory failure
+acute respiratory failure	requires	mechanical ventilation
+aspiration pneumonitis	can cause	lung injury
+aspiration pneumonitis	is a	potentially life-threatening condition
+aspiration pneumonitis	can be caused by	impaired swallowing reflex
+impaired swallowing reflex	is a	risk factor
+aspiration pneumonitis	can lead to	septicemia
+septicemia	is a	bloodstream infection
+aspiration pneumonitis	can result in	pleurisy
+pleurisy	is a	inflammation of the pleura
+aspiration pneumonitis	is more common in	patients with esophageal dysfunction
+aspiration pneumonitis	is associated with	increased risk of respiratory complications
+aspiration pneumonitis	can lead to	acute lung injury
+acute lung injury	requires	aggressive treatment
+aspiration pneumonitis	can cause	lung collapse
+lung collapse	is a	complete or partial collapse of the lung
+aspiration pneumonitis	can result in	pneumonitis
+pneumonitis	is a	inflammation of the lungs
+aspiration pneumonitis	can lead to	pleural effusion
+pleural effusion	requires	drainage
+aspiration pneumonitis	is more common in	patients with a history of alcohol or drug abuse
+aspiration pneumonitis	is associated with	increased risk of complications
+aspiration pneumonitis	can result in	acute respiratory distress
+acute respiratory distress	requires	urgent intervention
+aspiration pneumonitis	can cause	pneumonia
+pneumonia	requires	antibiotic treatment
+aspiration pneumonitis	can lead to	respiratory compromise
+aspiration pneumonitis	is more common in	patients with neurologic impairment
+aspiration pneumonitis	is associated with	increased risk of morbidity
+aspiration pneumonitis	can result in	acute respiratory failure
+acute respiratory failure	requires	ventilatory support
+aspiration pneumonitis	can cause	lung damage
+aspiration pneumonitis	is a	potentially life-threatening disorder
+aspiration pneumonitis	can be caused by	dysphagia
+dysphagia	is a	difficulty swallowing
+aspiration pneumonitis	can lead to	respiratory arrest
+respiratory arrest	requires	immediate resuscitation
+aspiration pneumonitis	can result in	lung abscess
+lung abscess	requires	drainage
+aspiration pneumonitis	is more common in	patients with decreased level of consciousness
+aspiration pneumonitis	is associated with	increased mortality rate
+aspiration pneumonitis	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	requires	intensive care
+aspiration pneumonitis	can cause	lung infection
+aspiration pneumonitis	is a	preventable condition
+aspiration pneumonitis	can be caused by	impaired swallowing mechanism
+impaired swallowing mechanism	is a	risk factor
+aspiration pneumonitis	can lead to	sepsis
+sepsis	requires	prompt treatment
+aspiration pneumonitis	can result in	empyema
+empyema	is a	collection of pus in the pleural cavity
+aspiration pneumonitis	is more common in	patients with impaired cough reflex
+aspiration pneumonitis	is associated with	increased hospital readmission rate
+aspiration pneumonitis	can lead to	respiratory insufficiency
+aspiration pneumonitis	is a	preventable disorder
+aspiration pneumonitis	can cause	acute lung injury
+aspiration pneumonitis	is a	potentially fatal condition
+aspiration pneumonitis	can be caused by	impaired gag reflex
+impaired gag reflex	is a	risk factor
+aspiration pneumonitis	can result in	lung sepsis
+lung sepsis	requires	aggressive treatment
+aspiration pneumonitis	can lead to	pleural effusion
+pleural effusion	may require	thoracentesis
+aspiration pneumonitis	is more common in	patients with esophageal disorders
+aspiration pneumonitis	is associated with	increased risk of respiratory failure
+aspiration pneumonitis	can result in	acute lung injury
+acute lung injury	is a	severe and life-threatening condition
+aspiration pneumonitis	can cause	lung collapse
+lung collapse	may require	chest tube insertion
+aspiration pneumonitis	can lead to	pneumonitis
+pneumonitis	can lead to	lung fibrosis
+aspiration pneumonitis	is more common in	patients with a history of substance abuse
+aspiration pneumonitis	is associated with	increased risk of complications
+aspiration pneumonitis	can result in	acute respiratory distress
+acute respiratory distress	requires	immediate medical intervention
+aspiration pneumonitis	can cause	aspiration pneumonia
+aspiration pneumonia	requires	antibiotic therapy
+aspiration pneumonitis	can lead to	respiratory distress syndrome
+aspiration pneumonitis	is more common in	patients with impaired cough mechanism
+aspiration pneumonitis	is associated with	increased risk of morbidity
+aspiration pneumonitis	can result in	acute respiratory failure
+acute respiratory failure	requires	ventilator support
+aspiration pneumonitis	can cause	lung injury
+aspiration pneumonitis	is a	potentially life-threatening disorder
+aspiration pneumonitis	can be caused by	difficulty swallowing
+difficulty swallowing	is a	risk factor
+aspiration pneumonitis	can lead to	respiratory arrest
+respiratory arrest	requires	immediate resuscitation
+aspiration pneumonitis	can result in	lung abscess
+lung abscess	may require	surgical drainage
+aspiration pneumonitis	is more common in	patients with altered mental status
+aspiration pneumonitis	is associated with	increased mortality rate
+aspiration pneumonitis	can lead to	acute respiratory distress syndrome
+acute respiratory distress syndrome	requires	intensive care
+aspiration pneumonitis	can cause	lung infection
+aspiration pneumonitis	is a	preventable condition
+aspiration pneumonitis	can be caused by	impaired swallowing reflex
+impaired swallowing reflex	is a	risk factor
+aspiration pneumonitis	can lead to	sepsis
+sepsis	requires	prompt treatment
+aspiration pneumonitis	can result in	empyema
+empyema	may require	surgical intervention
+aspiration pneumonitis	is more common in	patients with impaired gag reflex
+aspiration pneumonitis	is associated with	increased hospital readmission rate
+aspiration pneumonitis	can lead to	respiratory insufficiency
+aspiration pneumonitis	is a	preventable disorder
+aspiration pneumonitis	can cause	acute lung injury
+aspiration pneumonitis	is a	potentially fatal condition
+aspiration pneumonitis	can be caused by	impaired swallowing mechanism
+impaired swallowing mechanism	is a	risk factor
+aspiration pneumonitis	can result in	lung sepsis
+lung sepsis	requires	aggressive treatment
+aspiration pneumonitis	can lead to	pleural effusion
+pleural effusion	may require	drainage
+aspiration pneumonitis	is more common in	patients with esophageal disorders
+aspiration pneumonitis	is associated with	increased risk of respiratory failure
+aspiration pneumonitis	can result in	acute lung injury

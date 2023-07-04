@@ -1,0 +1,69 @@
+chronic obstructive pulmonary disease	is a	chronic respiratory condition
+bronchiectasis	is a	chronic respiratory condition
+chronic obstructive pulmonary disease	can lead to	bronchiectasis
+bronchiectasis	can be a complication of	chronic obstructive pulmonary disease
+bronchiectasis	is characterized by	abnormal widening of the bronchial tubes
+chronic obstructive pulmonary disease	is commonly caused by	smoking
+smoking	is a	risk factor for chronic obstructive pulmonary disease
+chronic obstructive pulmonary disease	is associated with	airflow limitation
+bronchiectasis	is associated with	recurrent lung infections
+chronic obstructive pulmonary disease	can result in	chronic cough and shortness of breath
+bronchiectasis	can result in	chronic cough and sputum production
+chronic obstructive pulmonary disease	is treated with	bronchodilators
+bronchiectasis	is treated with	antibiotics
+chronic obstructive pulmonary disease	increases the risk of	respiratory failure
+bronchiectasis	increases the risk of	respiratory infections
+chronic obstructive pulmonary disease	is a	progressive disease
+bronchiectasis	is a	irreversible condition
+chronic obstructive pulmonary disease	is diagnosed by	pulmonary function tests
+bronchiectasis	is diagnosed by	chest CT scan
+chronic obstructive pulmonary disease	is managed with	pulmonary rehabilitation
+bronchiectasis	can lead to	lung scarring
+chronic obstructive pulmonary disease	is associated with	increased mortality
+bronchiectasis	is associated with	recurrent hospitalizations
+chronic obstructive pulmonary disease	is a major cause of	disability
+bronchiectasis	is a risk factor for	pneumonia
+chronic obstructive pulmonary disease	is a	global health problem
+bronchiectasis	is a	rare condition
+chronic obstructive pulmonary disease	is characterized by	inflammation of the airways
+bronchiectasis	is characterized by	irreversible lung damage
+chronic obstructive pulmonary disease	is a	preventable condition
+bronchiectasis	is often caused by	bacterial infections
+chronic obstructive pulmonary disease	is more common in	older adults
+bronchiectasis	is more common in	individuals with cystic fibrosis
+chronic obstructive pulmonary disease	increases the risk of	heart disease
+bronchiectasis	increases the risk of	respiratory failure
+chronic obstructive pulmonary disease	is associated with	reduced quality of life
+bronchiectasis	is associated with	chronic sinusitis
+chronic obstructive pulmonary disease	is a	progressive lung disease
+bronchiectasis	is a	chronic lung condition
+chronic obstructive pulmonary disease	is a	leading cause of death worldwide
+bronchiectasis	is a	long-term lung condition
+chronic obstructive pulmonary disease	is characterized by	chronic cough
+bronchiectasis	is characterized by	excess mucus production
+chronic obstructive pulmonary disease	is a	common comorbidity in lung cancer
+bronchiectasis	is a	potential complication of tuberculosis
+chronic obstructive pulmonary disease	is associated with	increased healthcare costs
+bronchiectasis	is associated with	difficulty clearing mucus
+chronic obstructive pulmonary disease	is a	progressive airflow obstruction
+bronchiectasis	is a	permanent lung damage
+chronic obstructive pulmonary disease	is a	leading cause of disability
+bronchiectasis	is a	risk factor for bronchial wall thickening
+chronic obstructive pulmonary disease	is managed with	smoking cessation
+bronchiectasis	is managed with	airway clearance techniques
+chronic obstructive pulmonary disease	is a	chronic lung condition
+bronchiectasis	is a	lung disease
+chronic obstructive pulmonary disease	is associated with	increased hospitalizations
+bronchiectasis	is associated with	recurrent exacerbations
+chronic obstructive pulmonary disease	is a	progressive decline in lung function
+bronchiectasis	is a	chronic inflammatory condition
+chronic obstructive pulmonary disease	is a	preventable cause of death
+bronchiectasis	is often associated with	immune system deficiencies
+chronic obstructive pulmonary disease	is characterized by	emphysema
+bronchiectasis	is characterized by	dilated bronchi
+chronic obstructive pulmonary disease	is a	public health issue
+bronchiectasis	is a	lung disorder
+chronic obstructive pulmonary disease	is associated with	abnormal lung function
+bronchiectasis	is associated with	bronchial wall thickening
+chronic obstructive pulmonary disease	is a	significant burden on healthcare systems
+bronchiectasis	is a	chronic lung infection

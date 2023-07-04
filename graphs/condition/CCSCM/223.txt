@@ -1,0 +1,65 @@
+birth trauma	can cause	cerebral palsy
+cerebral palsy	is a	neurological disorder
+birth trauma	may result in	brachial plexus injury
+brachial plexus injury	causes	weakness in the arm
+birth trauma	can lead to	hypoxic-ischemic encephalopathy
+hypoxic-ischemic encephalopathy	is a	brain injury
+birth trauma	may lead to	skull fracture
+skull fracture	can cause	intracranial hemorrhage
+intracranial hemorrhage	is bleeding inside the skull
+birth trauma	can result in	retinal hemorrhage
+retinal hemorrhage	is bleeding in the retina
+birth trauma	may result in	fetal distress
+fetal distress	is a	complication during childbirth
+birth trauma	can cause	shoulder dystocia
+shoulder dystocia	is when the baby's shoulder gets stuck during delivery
+birth trauma	can lead to	perinatal asphyxia
+perinatal asphyxia	is lack of oxygen during or near birth
+birth trauma	may result in	neonatal jaundice
+neonatal jaundice	is yellowing of the baby's skin and eyes
+birth trauma	can cause	Erb's palsy
+Erb's palsy	is paralysis of the arm caused by nerve damage
+birth trauma	may lead to	meconium aspiration syndrome
+meconium aspiration syndrome	is when a baby breathes in meconium (fecal matter) during delivery
+birth trauma	can result in	fractured clavicle
+fractured clavicle	is a broken collarbone
+birth trauma	may cause	facial nerve palsy
+facial nerve palsy	is weakness or paralysis of the muscles on one side of the face
+birth trauma	can lead to	subgaleal hemorrhage
+subgaleal hemorrhage	is bleeding beneath the scalp
+birth trauma	may result in	hypoglycemia
+hypoglycemia	is low blood sugar levels
+birth trauma	can cause	brachial plexus palsy
+brachial plexus palsy	is weakness or paralysis in the shoulder	arm	or hand
+birth trauma	may lead to	subarachnoid hemorrhage
+subarachnoid hemorrhage	is bleeding between the brain and the thin tissues that cover it
+birth trauma	can result in	uterine rupture
+uterine rupture	is a tear in the wall of the uterus
+birth trauma	may cause	placental abruption
+placental abruption	is when the placenta separates from the uterus before delivery
+birth trauma	can lead to	spinal cord injury
+spinal cord injury	is damage to the spinal cord resulting in loss of function
+birth trauma	may result in	stillbirth
+stillbirth	is the death of a baby before birth
+birth trauma	can cause	neonatal sepsis
+neonatal sepsis	is a blood infection in a newborn
+birth trauma	may lead to	anoxia
+anoxia	is severe oxygen deprivation
+birth trauma	can result in	postpartum hemorrhage
+postpartum hemorrhage	is excessive bleeding after childbirth
+birth trauma	may cause	fetal skull trauma
+fetal skull trauma	is injury to the baby's skull
+birth trauma	can lead to	neonatal stroke
+neonatal stroke	is a stroke occurring in newborn babies
+birth trauma	may result in	neonatal respiratory distress syndrome
+neonatal respiratory distress syndrome	is a breathing disorder in premature babies
+birth trauma	can cause	neonatal sepsis
+neonatal sepsis	is a potentially life-threatening infection in a newborn
+birth trauma	may lead to	lung injury
+lung injury	is damage to the lungs
+birth trauma	can result in	cleft lip/palate
+cleft lip/palate	is a facial birth defect where there is a split in the lip or roof of the mouth
+birth trauma	may cause	developmental delays
+developmental delays	is when a child does not reach milestones at the expected times
+birth trauma	can lead to	neonatal intensive care unit admission
+neonatal intensive care unit admission	is when a newborn requires specialized medical care

@@ -1,0 +1,69 @@
+other connective tissue disease	is a	medical condition
+rheumatoid arthritis	is a type of	other connective tissue disease
+systemic sclerosis	is a type of	other connective tissue disease
+lupus	is a type of	other connective tissue disease
+mixed connective tissue disease	is a type of	other connective tissue disease
+scleroderma	is a type of	other connective tissue disease
+Sjogren's syndrome	is a type of	other connective tissue disease
+polymyositis	is a type of	other connective tissue disease
+dermatomyositis	is a type of	other connective tissue disease
+autoimmune disease	is associated with	other connective tissue disease
+symptoms	can include	joint pain
+symptoms	can include	muscle weakness
+symptoms	can include	skin thickening
+symptoms	can include	dry eyes
+symptoms	can include	dry mouth
+symptoms	can include	fatigue
+symptoms	can include	difficulty swallowing
+symptoms	can include	Raynaud's phenomenon
+symptoms	can include	shortness of breath
+symptoms	can include	heartburn
+symptoms	can include	lung fibrosis
+symptoms	can include	kidney problems
+symptoms	can include	digestive issues
+symptoms	can include	hair loss
+symptoms	can include	weight loss
+symptoms	can include	fever
+treatment	may include	immunosuppressant medications
+treatment	may include	corticosteroids
+treatment	may include	nonsteroidal anti-inflammatory drugs
+treatment	may include	physical therapy
+treatment	may include	occupational therapy
+treatment	may include	hydroxychloroquine
+treatment	may include	methotrexate
+treatment	may include	mycophenolate mofetil
+treatment	may include	rituximab
+treatment	may include	cyclophosphamide
+treatment	may include	azathioprine
+treatment	may include	NSAIDs
+treatment	may include	prostacyclin analogs
+treatment	may include	ACE inhibitors
+treatment	may include	calcium channel blockers
+treatment	may include	proton pump inhibitors
+treatment	may include	lung transplant
+treatment	may include	kidney transplant
+complications	can include	pulmonary hypertension
+complications	can include	heart problems
+complications	can include	kidney failure
+complications	can include	lung infections
+complications	can include	gastrointestinal issues
+complications	can include	fertility issues
+complications	can include	osteoporosis
+complications	can include	cancer
+risk factors	can include	genetics
+risk factors	can include	gender
+risk factors	can include	age
+risk factors	can include	environmental exposures
+risk factors	can include	family history
+diagnosis	may involve	blood tests
+diagnosis	may involve	imaging tests
+diagnosis	may involve	lung function tests
+diagnosis	may involve	skin biopsy
+diagnosis	may involve	electromyography
+diagnosis	may involve	muscle biopsy
+diagnosis	may involve	kidney biopsy
+diagnosis	may involve	lip biopsy
+diagnosis	may involve	salivary gland biopsy
+diagnosis	may involve	tear production test
+diagnosis	may involve	nailfold capillaroscopy
+diagnosis	may involve	echocardiogram

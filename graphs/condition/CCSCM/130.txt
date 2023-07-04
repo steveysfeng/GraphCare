@@ -1,0 +1,181 @@
+pleurisy	is	a medical condition
+pleurisy	may cause	chest pain
+pleurisy	can be caused by	pneumonia
+pneumothorax	is a	condition
+pneumothorax	may cause	sudden chest pain
+pneumothorax	can be caused by	trauma
+pulmonary collapse	is a term for	collapsed lung
+pulmonary collapse	may occur	due to pneumothorax
+pulmonary collapse	can cause	shortness of breath
+chest x-ray	is used to diagnose	pleurisy
+pulmonary function test	can determine	lung collapse
+pneumothorax	is treated with	chest tube insertion
+thoracentesis	is a procedure to	remove excess fluid from pleural space
+pleurisy	can be managed with	pain relievers
+pleural effusion	is a	complication of pleurisy
+pleural effusion	may require	thoracentesis
+pneumothorax	can be spontaneous
+spontaneous pneumothorax	is more common in	tall and thin individuals
+pleuritic chest pain	is a common	symptom of pleurisy
+pneumothorax	is more common in	males
+pneumothorax	can result in	respiratory distress
+pleurisy	can be a symptom of	viral infection
+co-existing conditions	such as	tuberculosis	can increase the risk of pleurisy
+pleurisy	can be associated with	autoimmune disorders
+pleurisy	can lead to	fluid accumulation in the pleural space
+hemothorax	is a	serious complication of pneumothorax
+pleurisy	may cause	pleural friction rub
+pulmonary collapse	is a common complication of	chest trauma
+pulmonary collapse	can lead to	hypoxia
+pneumothorax	is diagnosed with	imaging tests
+pleuritic chest pain	worsens with	deep breathing
+pleurisy	can be caused by	pulmonary embolism
+lung re-expansion	is a	treatment for pneumothorax
+pulmonary collapse	can result in	lung infection
+pneumothorax	can be caused by medical procedures	such as thoracentesis
+pulmonary collapse	can lead to	respiratory failure
+pulmonary collapse	can be life-threatening
+pleurisy	can cause	pleural effusion
+pleuritic chest pain	is usually sharp and	worsens with coughing
+pleurisy	is more common in	females
+pleurisy	can be associated with	rib fractures
+pleural effusion	can lead to	difficulty breathing
+pneumothorax	can be a result of	underlying lung diseases
+pleuritic chest pain	can radiate to	the shoulder or back
+pleural effusion	can be detected with	a chest ultrasound
+pleurisy	may cause	fever
+pneumothorax	can be caused by	smoking
+pleurisy	can be diagnosed with	a physical exam
+pulmonary collapse	can be prevented by	avoiding trauma to the chest
+pleurisy	can be a symptom of	rheumatoid arthritis
+pleuritic chest pain	can be relieved by	holding the breath
+pleural effusion	can be treated with	thoracentesis
+pneumothorax	may present with	decreased breath sounds
+pleurisy	can be caused by	lung infection
+pleurisy	can be associated with	lung cancer
+pulmonary collapse	can be a result of	a weak lung wall
+pleuritic chest pain	can be aggravated by	physical activity
+pleurisy	can be a symptom of	lupus
+pleuritic chest pain	can be sharp or	stabbing
+pleural effusion	can cause	fluid buildup in the lungs
+pneumothorax	may require	chest tube placement
+pleurisy	can be caused by	viral respiratory infections
+pneumothorax	can cause	lung collapse
+pleural effusion	can lead to	respiratory distress
+pleurisy	can be associated with	systemic lupus erythematosus
+pleuritic chest pain	can be relieved by	anti-inflammatory medications
+pleurisy	can be a symptom of	pneumonia
+pneumothorax	can be diagnosed with	a chest x-ray
+pleural effusion	may require	antibiotic treatment
+pulmonary collapse	can result in	decreased lung function
+pneumothorax	may require	surgical intervention
+pleurisy	can be associated with	kidney disease
+pleuritic chest pain	can be accompanied by	cough
+pleurisy	can be caused by	connective tissue disorders
+pleuritic chest pain	can worsen with	sneezing
+pleurisy	can be a symptom of	tuberculosis
+pleurisy	can be managed with	rest and fluids
+pleural effusion	can be caused by	congestive heart failure
+pulmonary collapse	can be detected with	a chest CT scan
+pneumothorax	can cause	lung collapse on one side
+pleurisy	can be a symptom of	pulmonary embolism
+pleuritic chest pain	can be characterized by	a pleural rub
+pulmonary collapse	can lead to	atelectasis
+pneumothorax	can cause	respiratory failure
+pleural effusion	can be caused by	lymphoma
+pulmonary collapse	can result from	severe chest trauma
+pleuritic chest pain	can be associated with	shallow breathing
+pleurisy	can be caused by	asbestos exposure
+pleuritic chest pain	can be a symptom of	heart attack
+pneumothorax	can be detected with	a chest ultrasound
+pleurisy	can be managed with	nonsteroidal anti-inflammatory drugs
+pleuritic chest pain	can be worsened by	twisting or bending motions
+pulmonary collapse	can be caused by	lung cancer
+primary spontaneous pneumothorax	occurs in	healthy individuals
+pleurisy	can be associated with	rheumatoid arthritis
+pleural effusion	can cause	decreased breath sounds
+pneumothorax	can result in	pneumomediastinum
+pleurisy	can be caused by	liver disease
+pleuritic chest pain	can be relieved by	shallow breathing
+pleurisy	can be diagnosed with	a chest CT scan
+pulmonary collapse	can be a result of	chronic obstructive pulmonary disease
+pleural effusion	can lead to	pleural thickening
+pulmonary collapse	can cause	respiratory distress syndrome
+pneumothorax	can lead to	tension pneumothorax
+pleurisy	can be a symptom of	rheumatic fever
+pleuritic chest pain	can be associated with	pleural effusion
+pleurisy	can be triggered by	exposure to certain medications
+pulmonary collapse	can be a complication of	lung surgery
+pleuritic chest pain	can be relieved by	taking shallow breaths
+pleurisy	can be caused by	chest trauma
+pneumothorax	can be caused by	underlying lung diseases
+pleurisy	may cause	cough
+pleuritic chest pain	can be worsened by	lying flat
+pulmonary collapse	can lead to	respiratory infections
+pneumothorax	can be a symptom of	lung disease
+pleurisy	can be associated with	viral infections
+pleuritic chest pain	can be relieved by	over-the-counter pain medications
+pleurisy	can be a symptom of	lung cancer
+pulmonary collapse	can be detected with	a chest x-ray
+pleural effusion	can cause	pleural thickening
+pneumothorax	can be associated with	emphysema
+pleurisy	can cause	shallow breathing
+pleural effusion	can result in	collapsed lung
+pleurisy	can be associated with	sarcoidosis
+pulmonary collapse	can be a result of	bronchopleural fistula
+pleuritic chest pain	can be relieved by	applying heat or cold packs
+pulmonary collapse	can be a complication of	lung biopsy
+pneumothorax	can be prevented by	quitting smoking
+pleurisy	can be a symptom of	lung abscess
+pleuritic chest pain	can be worsened by	deep breathing
+pleurisy	can be associated with	connective tissue disorders
+pleural effusion	may require	pleurodesis
+pneumothorax	can lead to	mediastinal shift
+pleurisy	can be caused by	collagen vascular diseases
+pleuritic chest pain	can be sharp or	burning
+pleural effusion	can cause	decreased lung expansion
+pulmonary collapse	can result in	pneumothorax
+pneumothorax	can lead to	cardiac arrest
+pleurisy	can be a symptom of	lung infection
+pleuritic chest pain	is often worse with	deep breathing or coughing
+pulmonary collapse	can be associated with	spontaneous pneumothorax
+pneumothorax	can be caused by	cystic fibrosis
+pleurisy	can be diagnosed with	pleural fluid analysis
+pleuritic chest pain	can be relieved by	leaning forward
+pleurisy	can be a symptom of	lungs filled with fluid
+pulmonary collapse	can be a result of	lung disease
+pleural effusion	can cause	decreased breath sounds on one side
+pleurisy	can be caused by	lung abscess
+pleuritic chest pain	can be pleuritic or	non-pleuritic
+pleurisy	can be associated with	systemic infections
+pleural effusion	can lead to	empyema
+pneumothorax	can cause	lung collapse on both sides
+pleurisy	can cause	breathing difficulties
+pleuritic chest pain	can radiate to	the abdomen
+pleurisy	can be caused by	systemic lupus erythematosus
+pleuritic chest pain	can be aggravated by	lying on the affected side
+pleurisy	can be a symptom of	congestive heart failure
+pleuritic chest pain	can be sharp or	dull
+pleurisy	can be associated with	autoimmune disorders
+pleural effusion	can be caused by	pancreatitis
+pulmonary collapse	can cause	lung infection
+pleurisy	can be triggered by	exposure to cold air
+pulmonary collapse	can be a result of	chronic lung infections
+pleuritic chest pain	can be worsened by	laughing or sneezing
+pleurisy	can be diagnosed with	a chest MRI
+pneumothorax	can be associated with	Marfan syndrome
+pleurisy	can be a symptom of	Sjogren's syndrome
+pleurisy	can be caused by	asbestos exposure
+pleuritic chest pain	can be relieved by	sitting upright
+pleurisy	can be associated with	kidney infections
+pleural effusion	can lead to	pleural adhesions
+pulmonary collapse	can result in	pneumothorax on the opposite side
+pleurisy	can be caused by	viral pneumonia
+pleural effusion	can cause	pleural effusion
+pulmonary collapse	can be detected with	a chest MRI
+pneumothorax	can be prevented by	avoiding scuba diving
+pleurisy	can be a symptom of	asbestos-related lung disease
+pleuritic chest pain	can be relieved by	adopting a seated position
+pleurisy	can be associated with	rheumatoid lung nodules
+pleural effusion	can result in	pulmonary hypertension
+pneumothorax	can lead to	acid-base imbalance

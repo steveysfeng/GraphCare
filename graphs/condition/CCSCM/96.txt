@@ -1,0 +1,79 @@
+heart valve disorders	can be caused by	rheumatic fever
+heart valve disorders	may lead to	heart failure
+heart valve disorders	can be detected with	echocardiogram
+heart valve disorders	are often treated with	surgery
+mitral valve replacement	is a type of	surgery
+heart valve disorders	can result in	arrhythmias
+heart valve disorders	can cause	chest pain
+heart valve disorders	may require	lifelong medication
+blood thinners	are commonly used	medication for heart valve disorders
+heart valve disorders	can increase the risk of	stroke
+heart valve disorders	can cause	shortness of breath
+heart valve disorders	can lead to	fatigue
+heart valve disorders	can be congenital
+heart valve disorders	can develop as a result of	infection
+heart valve disorders	can affect	any heart valve
+heart valve disorders	can be categorized as	stenosis or regurgitation
+heart valve disorders	can be diagnosed through	physical examination
+heart valve disorders	can be genetic
+heart valve disorders	can be managed with	lifestyle changes
+heart valve disorders	can cause	palpitations
+heart valve disorders	can result in	edema
+heart valve disorders	can be caused by	endocarditis
+heart valve disorders	can be associated with	murmurs
+heart valve disorders	can lead to	enlargement of the heart
+heart valve disorders	can be prevented by	avoiding risk factors
+heart valve disorders	can be detected using	chest X-ray
+heart valve disorders	can lead to	blood clots
+heart valve disorders	can cause	dizziness
+heart valve disorders	can be exacerbated by	physical exertion
+heart valve disorders	can be congenital or acquired
+heart valve disorders	may require	valve repair
+heart valve disorders	can be identified through	electrocardiogram
+heart valve disorders	can be caused by	connective tissue disorders
+heart valve disorders	can affect	valve leaflets
+heart valve disorders	can be managed with	anticoagulants
+heart valve disorders	can cause	fatigue
+heart valve disorders	can result in	reduced exercise capacity
+heart valve disorders	can be associated with	heart murmurs
+heart valve disorders	can be diagnosed using	cardiac catheterization
+heart valve disorders	can be detected through	blood tests
+heart valve disorders	can be treated with	balloon valvuloplasty
+heart valve disorders	can cause	heart palpitations
+heart valve disorders	can lead to	heart murmur
+heart valve disorders	can be caused by	congenital heart defects
+heart valve disorders	can result in	infection
+heart valve disorders	can be managed with	medication
+heart valve disorders	can cause	cyanosis
+heart valve disorders	can be detected through	Doppler ultrasound
+heart valve disorders	can be associated with	chest discomfort
+heart valve disorders	can be diagnosed through	transesophageal echocardiogram
+heart valve disorders	can be caused by	age-related degeneration
+heart valve disorders	can affect	mitral valve
+heart valve disorders	can be treated with	valve replacement
+heart valve disorders	can result in	arrhythmia
+heart valve disorders	can be prevented through	regular dental care
+heart valve disorders	can cause	heart murmur
+heart valve disorders	can lead to	heart palpitations
+heart valve disorders	can be caused by	connective tissue disorders
+heart valve disorders	can affect	valve leaflets
+heart valve disorders	can be managed with	anticoagulants
+heart valve disorders	can result in	reduced exercise capacity
+heart valve disorders	can be associated with	heart murmurs
+heart valve disorders	can be diagnosed using	cardiac catheterization
+heart valve disorders	can be detected through	blood tests
+heart valve disorders	can be treated with	balloon valvuloplasty
+heart valve disorders	can cause	heart palpitations
+heart valve disorders	can lead to	heart murmur
+heart valve disorders	can be caused by	congenital heart defects
+heart valve disorders	can result in	infection
+heart valve disorders	can be managed with	medication
+heart valve disorders	can cause	cyanosis
+heart valve disorders	can be detected through	Doppler ultrasound
+heart valve disorders	can be associated with	chest discomfort
+heart valve disorders	can be diagnosed through	transesophageal echocardiogram
+heart valve disorders	can be caused by	age-related degeneration
+heart valve disorders	can affect	mitral valve
+heart valve disorders	can be treated with	valve replacement
+heart valve disorders	can result in	arrhythmia
+heart valve disorders	can be prevented through	regular dental care

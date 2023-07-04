@@ -1,0 +1,5 @@
+other and unspecified benign neoplasm	is a type of	tumor
+other and unspecified benign neoplasm	can be	noncancerous
+biopsy	is performed to diagnose	other and unspecified benign neoplasm
+surgical excision	is a treatment option for	other and unspecified benign neoplasm
+radiation therapy	can be used to treat	other and unspecified benign neoplasm

@@ -1,0 +1,97 @@
+e codes	are used to classify	natural/environmental causes of injury
+weather	can be a	natural/environmental cause of injury
+lightning	can cause	injury
+floods	can cause	injury
+hurricanes	can cause	injury
+earthquakes	can cause	injury
+wildfires	can cause	injury
+extreme temperatures	can cause	injury
+drought	can cause	injury
+avalanches	can cause	injury
+tsunamis	can cause	injury
+forest fires	can cause	injury
+thunderstorms	can cause	injury
+tornadoes	can cause	injury
+hailstorms	can cause	injury
+hurricane-force winds	can cause	injury
+tropical storms	can cause	injury
+blizzards	can cause	injury
+strong winds	can cause	injury
+solar radiation	can cause	injury
+volcanic eruptions	can cause	injury
+mudslides	can cause	injury
+landslides	can cause	injury
+heatwaves	can cause	injury
+freezing temperatures	can cause	injury
+cyclones	can cause	injury
+thunderbolts	can cause	injury
+hailstones	can cause	injury
+avalanches	can cause	injury
+hail	can cause	injury
+frostbite	can cause	injury
+hypothermia	can cause	injury
+sunburn	can cause	injury
+dehydration	can cause	injury
+heat exhaustion	can cause	injury
+heat stroke	can cause	injury
+drowning	can cause	injury
+electrocution	can cause	injury
+windburn	can cause	injury
+carbon monoxide poisoning	can cause	injury
+allergic reactions	can cause	injury
+respiratory problems	can cause	injury
+asthma attacks	can cause	injury
+skin rashes	can cause	injury
+food poisoning	can cause	injury
+tick bites	can cause	injury
+mosquito bites	can cause	injury
+snake bites	can cause	injury
+bee stings	can cause	injury
+spider bites	can cause	injury
+poison ivy	can cause	injury
+poison oak	can cause	injury
+poison sumac	can cause	injury
+contact dermatitis	can cause	injury
+plant allergies	can cause	injury
+falling trees	can cause	injury
+animal attacks	can cause	injury
+dust storms	can cause	injury
+pollen allergies	can cause	injury
+ragweed allergies	can cause	injury
+environmental sensitivities	can cause	injury
+rockslides	can cause	injury
+particle pollution	can cause	injury
+skin cancer	can be a	consequence of solar radiation
+asthma	can be a	consequence of air pollution
+dehydration	can be a	consequence of extreme temperatures
+frostbite	can be a	consequence of freezing temperatures
+hypothermia	can be a	consequence of extreme cold
+heat stroke	can be a	consequence of heatwaves
+drowning	can be a	consequence of floods
+carbon monoxide poisoning	can be a	consequence of poorly ventilated spaces
+tick-borne illnesses	can be a	consequence of tick bites
+mosquito-borne illnesses	can be a	consequence of mosquito bites
+snake bites	can be a	consequence of encounters with snakes
+bee stings	can be a	consequence of encounters with bees
+spider bites	can be a	consequence of encounters with spiders
+poison ivy	can cause	a rash
+poison oak	can cause	a rash
+poison sumac	can cause	a rash
+contact dermatitis	can cause	a rash
+dust allergies	can cause	respiratory problems
+pollen allergies	can cause	respiratory problems
+ragweed allergies	can cause	respiratory problems
+animal allergies	can cause	respiratory problems
+ecosystem destruction	can be a	consequence of natural disasters
+forest fires	can cause	ecosystem destruction
+deforestation	can be a	consequence of forest fires
+landslides	can cause	deforestation
+erosion	can be a	consequence of wildfires
+wildfires	can cause	erosion
+cosmic radiation	can cause	ionization of molecules
+air pollution	can cause	respiratory problems
+water pollution	can cause	health problems
+soil pollution	can cause	health problems
+noise pollution	can cause	hearing loss
+light pollution	can cause	sleep disorders
+electromagnetic pollution	can cause	health problems

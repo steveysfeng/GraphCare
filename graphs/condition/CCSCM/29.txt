@@ -1,0 +1,96 @@
+cancer of prostate	is a	malignant tumor
+prostate	is a gland in	male reproductive system
+prostatectomy	is a surgical procedure for	cancer of prostate
+radiation therapy	can be used to treat	cancer of prostate
+hormone therapy	can be used to treat	cancer of prostate
+prostate specific antigen	is a blood test for	cancer of prostate
+metastasis	can occur in	cancer of prostate
+androgen deprivation therapy	can be used to treat	cancer of prostate
+chemotherapy	can be used to treat	cancer of prostate
+prostate cancer	has a	high mortality rate
+prostate cancer	is a common	cancer type
+prostate cancer	can be diagnosed using	biopsy
+prostate cancer	may cause	urinary symptoms
+prostate cancer	is more common in	older men
+prostate cancer	can spread to	nearby organs
+prostate cancer	may require	regular monitoring
+prostate cancer	risk factors include	age and family history
+prostate cancer	is influenced by	hormonal factors
+prostate cancer	can be classified into	different stages
+prostate cancer	can be classified as	localized or advanced
+prostate cancer	may require	multiple treatment modalities
+prostate cancer	can recur	after treatment
+prostate cancer	prognosis is influenced by	tumor stage and grade
+prostate cancer	may result in	erectile dysfunction
+prostate cancer	can metastasize to	bone
+prostate cancer	may cause	obstructive urinary symptoms
+prostate cancer	can be detected through	digital rectal examination
+prostate cancer	may require	regular screening
+prostate cancer	is associated with	increased PSA levels
+prostate cancer	is influenced by	genetic factors
+prostate cancer	incidence is increasing in	younger men
+prostate cancer	can be influenced by	lifestyle factors
+prostate biopsy	is a	diagnostic procedure
+prostate biopsy	is performed to	confirm prostate cancer
+glandular tissue	is found in	prostate
+prostate cancer	treatment may include	active surveillance
+prostate cancer	treatment may include	watchful waiting
+prostate cancer	is more common in	African American men
+prostate cancer	is more common in	men with a family history
+prostate cancer	can be influenced by	obesity
+prostate cancer	may be staged using	the TNM system
+prostate cancer	treatment may include	cryotherapy
+prostate cancer	treatment may include	brachytherapy
+prostate cancer	treatment may include	focal therapy
+prostate cancer	prognosis is influenced by	PSA levels
+prostate cancer	prognosis is influenced by	Gleason score
+prostate cancer	treatment may include	radical prostatectomy
+prostate cancer	treatment may include	hormone therapy
+prostate cancer	treatment may include	immunotherapy
+prostate cancer	treatment may include	targeted therapy
+prostate cancer	treatment may include	radiation therapy
+prostate cancer	treatment may include	chemotherapy
+urinary incontinence	may occur after	prostate cancer treatment
+prostate cancer	can be monitored using	PSA levels
+prostate cancer	is influenced by	estrogen levels
+prostate cancer	can be accompanied by	bone pain
+prostate cancer	may require	palliative care
+prostate cancer	treatment may include	androgen deprivation therapy
+prostate cancer	treatment may include	surgery
+prostate cancer	survival rates are influenced by	stage and grade
+prostate cancer	can cause	fatigue
+prostate cancer	is a	leading cause of cancer death in men
+prostate cancer	can cause	lower back pain
+prostate cancer	can cause	blood in the urine
+prostate cancer	treatment may include	immunosuppressive therapy
+prostate cancer	treatment may include	oral medications
+prostate cancer	can be diagnosed using	imaging tests
+prostate cancer	can cause	weight loss
+prostate cancer	can cause	difficulty in urination
+prostate cancer	risk factors include	exposure to certain chemicals
+prostate cancer	can be prevented through	healthy lifestyle choices
+prostate cancer	can be treated with	targeted therapy
+prostate cancer	can be treated with	immunotherapy
+prostate cancer	can be treated with	hormone therapy
+prostate cancer	can be treated with	chemotherapy
+prostate cancer	can be treated with	radiation therapy
+prostate cancer	can be treated with	surgery
+prostate cancer	can be treated with	cryotherapy
+prostate cancer	can be treated with	brachytherapy
+prostate cancer	can be treated with	focal therapy
+prostate cancer	can be treated with	immunosuppressive therapy
+prostate cancer	can be treated with	oral medications
+prostate cancer	treatment options depend on	tumor characteristics
+prostate cancer	treatment options depend on	patient preferences
+prostate cancer	is associated with	elevated serum PSA levels
+prostate cancer	can cause	bone metastases
+prostate cancer	can cause	lymph node metastases
+prostate cancer	can cause	bladder outlet obstruction
+prostate cancer	can cause	erectile dysfunction
+prostate cancer	can cause	urinary retention
+prostate cancer	can cause	urinary frequency
+prostate cancer	can cause	urinary urgency
+prostate cancer	can cause	hematuria
+prostate cancer	can cause	anemia
+prostate cancer	can cause	weight loss
+prostate cancer	can cause	fatigue

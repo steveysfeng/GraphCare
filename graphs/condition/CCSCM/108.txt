@@ -1,0 +1,157 @@
+congestive heart failure	is a	medical condition
+congestive heart failure	may cause	fluid buildup
+congestive heart failure	is associated with	shortness of breath
+congestive heart failure	can lead to	pulmonary edema
+congestive heart failure	is diagnosed using	echocardiogram
+echocardiogram	is a	diagnostic test
+congestive heart failure	is treated with	diuretics
+diuretics	help	remove excess fluid
+congestive heart failure	may require	hospital admission
+hospital admission	is necessary for	severe cases
+congestive heart failure	is a	chronic condition
+congestive heart failure	has	high mortality rate
+mortality rate	is influenced by	age
+congestive heart failure	is often caused by	coronary artery disease
+coronary artery disease	is characterized by	narrowing of arteries
+congestive heart failure	is managed with	lifestyle modifications
+lifestyle modifications	include	exercise and diet changes
+congestive heart failure	can lead to	fluid overload
+fluid overload	can result in	edema
+congestive heart failure	increases	risk of hospital readmission
+hospital readmission	is a	quality metric
+congestive heart failure	may require	heart transplantation
+heart transplantation	is a	surgical procedure
+congestive heart failure	is a	progressive disease
+congestive heart failure	is often managed by	cardiologists
+cardiologists	specialize in	heart diseases
+congestive heart failure	is a	major cause of morbidity
+morbidity	refers to	disease burden
+congestive heart failure	is more common in	older adults
+older adults	have	increased risk
+congestive heart failure	is a	long-term condition
+congestive heart failure	can be managed with	medication
+medication	can include	ACE inhibitors
+congestive heart failure	can result in	fatigue
+fatigue	is a	symptom
+congestive heart failure	can lead to	atrial fibrillation
+atrial fibrillation	is a	cardiac arrhythmia
+congestive heart failure	is exacerbated by	sodium intake
+sodium intake	is a	dietary factor
+congestive heart failure	can cause	peripheral edema
+peripheral edema	is swelling	in the limbs
+congestive heart failure	has	various etiologies
+etiologies	can include	myocardial infarction
+congestive heart failure	can result in	decreased cardiac output
+decreased cardiac output	leads to	poor organ perfusion
+congestive heart failure	increases	hospitalization rates
+hospitalization rates	are influenced by	disease severity
+congestive heart failure	is commonly treated with	beta blockers
+beta blockers	help	improve heart function
+congestive heart failure	can cause	pulmonary hypertension
+pulmonary hypertension	is characterized by	elevated blood pressure in lungs
+congestive heart failure	is a	leading cause of death
+congestive heart failure	is a	significant public health issue
+congestive heart failure	is linked to	lifestyle factors
+lifestyle factors	include	smoking and obesity
+congestive heart failure	can lead to	cardiac remodeling
+cardiac remodeling	involves	changes in heart structure
+congestive heart failure	can result in	impaired kidney function
+impaired kidney function	is a	comorbidity
+congestive heart failure	is influenced by	genetics
+genetics	play a role in	disease susceptibility
+congestive heart failure	can be prevented through	lifestyle modifications
+lifestyle modifications	include	weight management
+congestive heart failure	is a	progressive condition
+congestive heart failure	can lead to	cardiogenic shock
+cardiogenic shock	is a	life-threatening condition
+congestive heart failure	is exacerbated by	myocardial ischemia
+myocardial ischemia	is reduced	blood flow to the heart
+congestive heart failure	is associated with	poor prognosis
+poor prognosis	is related to	disease severity
+congestive heart failure	can cause	liver congestion
+liver congestion	is due to	impaired blood flow
+congestive heart failure	is characterized by	impaired ventricular function
+impaired ventricular function	results in	decreased cardiac output
+congestive heart failure	is managed with	angiotensin receptor blockers
+angiotensin receptor blockers	help	lower blood pressure
+congestive heart failure	is commonly treated with	digoxin
+digoxin	helps	strengthen heart contractions
+congestive heart failure	is a	medical condition
+congestive heart failure	is characterized by	fluid buildup
+fluid buildup	can occur in	lungs
+fluid buildup	can occur in	legs
+fluid buildup	can occur in	abdomen
+congestive heart failure	can be caused by	coronary artery disease
+coronary artery disease	is a	condition affecting the arteries
+congestive heart failure	can be caused by	high blood pressure
+high blood pressure	can result in	damage to the heart
+congestive heart failure	can be caused by	heart valve disease
+heart valve disease	is a	condition affecting the heart valves
+congestive heart failure	can be caused by	cardiomyopathy
+cardiomyopathy	is a	disease of the heart muscle
+congestive heart failure	can be caused by	arrhythmias
+arrhythmias	are	abnormal heart rhythms
+congestive heart failure	can be caused by	congenital heart defects
+congenital heart defects	are	heart abnormalities present from birth
+congestive heart failure	is managed with	medications
+congestive heart failure	is managed with	lifestyle changes
+medications	used to treat	congestive heart failure
+lifestyle changes	can include	diet modifications
+lifestyle changes	can include	regular exercise
+lifestyle changes	can include	weight loss
+diuretics	are	medications used to reduce fluid buildup
+angiotensin-converting enzyme inhibitors	are	medications used to relax blood vessels
+beta blockers	are	medications used to decrease heart rate
+congestive heart failure	can lead to	edema
+congestive heart failure	can lead to	shortness of breath
+congestive heart failure	can lead to	fatigue
+congestive heart failure	can lead to	irregular heartbeat
+congestive heart failure	can lead to	chest pain
+congestive heart failure	can lead to	decreased urine output
+congestive heart failure	can lead to	confusion
+congestive heart failure	can lead to	swelling of the legs and abdomen
+congestive heart failure	can lead to	weight gain
+congestive heart failure	can lead to	coughing
+congestive heart failure	can lead to	increased need to urinate at night
+congestive heart failure	can lead to	decreased appetite
+congestive heart failure	can lead to	nausea
+congestive heart failure	can lead to	difficulty concentrating
+congestive heart failure	can lead to	increased heart rate
+congestive heart failure	can lead to	dizziness
+congestive heart failure	can lead to	fainting
+congestive heart failure	can lead to	swelling of the liver
+congestive heart failure	can lead to	swelling of the ankles
+congestive heart failure	can lead to	increased nighttime urination
+congestive heart failure	can lead to	difficulty sleeping
+congestive heart failure	can lead to	rapid weight gain
+congestive heart failure	can lead to	swollen neck veins
+congestive heart failure	can lead to	frequent urination
+congestive heart failure	can lead to	increased abdominal girth
+congestive heart failure	can lead to	decreased exercise tolerance
+congestive heart failure	can lead to	swollen liver
+congestive heart failure	can lead to	pale skin
+congestive heart failure	can lead to	weak pulse
+congestive heart failure	can lead to	wheezing
+congestive heart failure	can lead to	decreased alertness
+congestive heart failure	can lead to	decreased urine concentration
+congestive heart failure	can lead to	increased abdominal discomfort
+congestive heart failure	can lead to	rapid breathing
+congestive heart failure	can lead to	decreased blood flow to organs
+congestive heart failure	can lead to	increased blood pressure
+congestive heart failure	can lead to	increased heart size
+congestive heart failure	can lead to	decreased kidney function
+congestive heart failure	can lead to	increased liver size
+congestive heart failure	can lead to	cyanosis
+congestive heart failure	can lead to	cool and pale extremities
+congestive heart failure	can lead to	jugular vein distension
+congestive heart failure	can lead to	decreased lung sounds
+congestive heart failure	can lead to	pulmonary edema
+congestive heart failure	can lead to	pleural effusion
+congestive heart failure	can lead to	enlarged liver
+congestive heart failure	can lead to	enlarged spleen
+congestive heart failure	can lead to	elevated jugular venous pressure
+congestive heart failure	can lead to	lung crackles
+congestive heart failure	can lead to	rapid breathing rate
+congestive heart failure	can lead to	decreased exercise tolerance
+congestive heart failure	can lead to	decreased organ perfusion
+congestive heart failure	can lead to	abnormal heart sounds

@@ -1,0 +1,4 @@
+cardiomyopathy	is a	condition
+peri-myocarditis	is a type of	myocarditis
+endo-myocarditis	is a type of	myocarditis
+myocarditis	may lead to	cardiomyopathy

@@ -1,0 +1,110 @@
+acute bronchitis	is a	respiratory condition
+acute bronchitis	is caused by	viral infection
+cough	is a	symptom of acute bronchitis
+acute bronchitis	can lead to	bronchospasm
+bronchodilators	are used to	relieve bronchospasm
+acute bronchitis	can result in	respiratory failure
+acute bronchitis	is treated with	rest and fluids
+acute bronchitis	may require	antibiotics
+acute bronchitis	can be prevented by	practicing good hand hygiene
+acute bronchitis	is more common in	children and older adults
+smoking	increases the risk of	acute bronchitis
+acute bronchitis	can lead to	pneumonia
+acute bronchitis	can cause	wheezing
+acute bronchitis	can be diagnosed by	chest X-ray
+acute bronchitis	is characterized by	inflammation of the bronchial tubes
+acute bronchitis	can lead to	exacerbation of asthma
+acute bronchitis	can worsen	chronic obstructive pulmonary disease (COPD)
+acute bronchitis	can be differentiated from	pneumonia by physical examination
+acute bronchitis	can cause	fatigue
+acute bronchitis	may result in	hospitalization
+acute bronchitis	can be a	recurrent condition
+acute bronchitis	can cause	chest pain
+acute bronchitis	is more common during	winter months
+acute bronchitis	can cause	shortness of breath
+acute bronchitis	may require	bronchoscopy
+acute bronchitis	can be managed by	avoiding irritants
+acute bronchitis	is associated with	increased risk of bronchospasm
+acute bronchitis	can cause	sore throat
+acute bronchitis	can be a	complication of flu
+acute bronchitis	can lead to	sinusitis
+acute bronchitis	can result in	ear infection
+acute bronchitis	can cause	body aches
+acute bronchitis	can result in	decreased lung function
+acute bronchitis	can cause	postnasal drip
+acute bronchitis	may require	oxygen therapy
+acute bronchitis	is more common in	smokers
+acute bronchitis	can be exacerbated by	exposure to air pollution
+acute bronchitis	can cause	headache
+acute bronchitis	can result in	decreased ability to exercise
+acute bronchitis	can cause	nasal congestion
+acute bronchitis	may require	nebulizer treatments
+acute bronchitis	can lead to	bronchiolitis in infants
+acute bronchitis	can cause	sleep disturbances
+acute bronchitis	can result in	weight loss
+acute bronchitis	can cause	malaise
+acute bronchitis	may require	antiviral medications
+acute bronchitis	can be triggered by	exposure to allergens
+acute bronchitis	can cause	hoarseness
+acute bronchitis	can result in	chest congestion
+acute bronchitis	can cause	chills
+acute bronchitis	can lead to	pleurisy
+acute bronchitis	can cause	difficulty swallowing
+acute bronchitis	may require	hospitalization for severe cases
+acute bronchitis	can result in	exacerbation of existing lung conditions
+acute bronchitis	can cause	elevated body temperature
+acute bronchitis	can be accompanied by	productive cough
+acute bronchitis	can cause	muscle soreness
+acute bronchitis	may require	anti-inflammatory medications
+acute bronchitis	can be caused by	bacteria
+acute bronchitis	can result in	wheezing in children
+acute bronchitis	can cause	nasal discharge
+acute bronchitis	may require	antihistamines
+acute bronchitis	can lead to	respiratory distress
+acute bronchitis	can cause	loss of appetite
+acute bronchitis	can result in	poor lung function
+acute bronchitis	can cause	chest tightness
+acute bronchitis	may require	corticosteroids
+acute bronchitis	can be associated with	allergic reaction
+acute bronchitis	can cause	breathing difficulties
+acute bronchitis	can result in	pharyngitis
+acute bronchitis	can cause	sinus congestion
+acute bronchitis	may require	mucolytic agents
+acute bronchitis	can lead to	bronchiolitis in young children
+acute bronchitis	can cause	weakness
+acute bronchitis	can result in	reduced lung capacity
+acute bronchitis	can cause	itchy throat
+acute bronchitis	may require	antitussive medications
+acute bronchitis	can be associated with	wheezing
+acute bronchitis	can cause	nasal itching
+acute bronchitis	can lead to	acute respiratory distress syndrome (ARDS)
+acute bronchitis	can cause	irritability
+acute bronchitis	can result in	impaired exercise tolerance
+acute bronchitis	can cause	dry throat
+acute bronchitis	may require	expectorants
+acute bronchitis	can be accompanied by	chest discomfort
+acute bronchitis	can cause	sneezing
+acute bronchitis	can result in	fatigue
+acute bronchitis	can cause	chest congestion
+acute bronchitis	may require	antipyretics
+acute bronchitis	can lead to	acute exacerbation of chronic bronchitis
+acute bronchitis	can cause	nasal irritation
+acute bronchitis	can result in	cough with mucus
+acute bronchitis	can cause	rib pain
+acute bronchitis	may require	cough suppressants
+acute bronchitis	can be associated with	inflamed airways
+acute bronchitis	can cause	difficulty speaking
+acute bronchitis	can lead to	pneumonia in children
+acute bronchitis	can result in	difficulty breathing
+acute bronchitis	can cause	runny nose
+acute bronchitis	may require	analgesics
+acute bronchitis	can be accompanied by	fever
+acute bronchitis	can cause	sore muscles
+acute bronchitis	can result in	increased risk of asthma attacks
+acute bronchitis	can cause	nasal discharge
+acute bronchitis	may require	decongestants
+acute bronchitis	can lead to	acute bronchiolitis in infants
+acute bronchitis	can cause	discomfort during inhalation
+acute bronchitis	can result in	decreased lung capacity
+acute bronchitis	can cause	burning sensation in throat
+acute bronchitis	may require	bronchodilators

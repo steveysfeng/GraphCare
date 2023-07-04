@@ -1,0 +1,93 @@
+pneumonia	is a	lung infection
+pneumonia	can be caused by	bacteria
+pneumonia	can be caused by	viruses
+pneumonia	can be treated with	antibiotics
+amoxicillin	is an	antibiotic
+pneumonia	can lead to	respiratory failure
+pneumonia	can cause	sepsis
+sepsis	can lead to	organ failure
+pneumonia	is a risk factor for	readmission
+pneumonia	is a risk factor for	mortality
+pneumonia	is more common in	older adults
+pneumonia	is more common in	individuals with weakened immune systems
+pneumonia	can cause	chest pain
+pneumonia	can cause	cough
+pneumonia	can cause	fever
+pneumonia	can cause	fatigue
+pneumonia	can cause	shortness of breath
+pneumonia	can lead to	hospitalization
+hospitalization	can result in	complications
+pneumonia	can be prevented by	vaccination
+pneumonia vaccine	can protect against	bacterial pneumonia
+pneumonia vaccine	can protect against	viral pneumonia
+pneumonia	can be diagnosed using	chest x-ray
+pneumonia	can be diagnosed using	blood tests
+pneumonia	can be diagnosed using	sputum culture
+pneumonia	can be diagnosed using	physical examination
+pneumonia	can be diagnosed using	auscultation
+pneumonia	can cause	lung abscess
+pneumonia	can cause	pleural effusion
+pleural effusion	can be diagnosed using	imaging tests
+pneumonia	is a cause of	morbidity
+pneumonia	can result in	bronchitis
+pneumonia	can result in	sinusitis
+pneumonia	can result in	ear infections
+pneumonia	can cause	pneumonia complications
+pneumonia complications	can include	respiratory failure
+pneumonia complications	can include	sepsis
+pneumonia	can be prevented by	practicing good hand hygiene
+pneumonia	can be prevented by	avoiding smoking
+pneumonia	can be prevented by	maintaining a healthy immune system
+pneumonia	can be prevented by	staying hydrated
+pneumonia	can be prevented by	avoiding close contact with infected individuals
+pneumonia	can be prevented by	receiving appropriate vaccinations
+pneumonia	can be prevented by	avoiding crowded places
+pneumonia	is associated with	increased healthcare costs
+pneumonia	is more common in	winter months
+pneumonia	can cause	breathing difficulties
+pneumonia	can cause	confusion
+pneumonia	can cause	decreased appetite
+pneumonia	can cause	muscle aches
+pneumonia	can cause	headaches
+pneumonia	can lead to	malnutrition
+malnutrition	can increase the risk of	pneumonia
+pneumonia	can cause	pneumonia-related pneumonia
+pneumonia-related pneumonia	is caused by	aspiration of oral secretions
+pneumonia-related pneumonia	is more common in	individuals with impaired swallowing
+pneumonia	can cause	hypoxemia
+pneumonia	can cause	tachypnea
+pneumonia	can cause	tachycardia
+pneumonia	can cause	leukocytosis
+pneumonia	can cause	consolidation on chest x-ray
+pneumonia	can cause	decreased breath sounds
+pneumonia	can cause	crackles on auscultation
+pneumonia	can cause	increased tactile fremitus
+pneumonia	can cause	egophony
+pneumonia	can cause	pleuritic chest pain
+pneumonia	can cause	elevated inflammatory markers
+pneumonia	can cause	elevated procalcitonin levels
+pneumonia	can cause	respiratory distress
+pneumonia	can cause	oxygen desaturation
+pneumonia	can cause	respiratory acidosis
+pneumonia	can cause	lobar consolidation
+pneumonia	can cause	patchy infiltrates
+pneumonia	is a type of	lower respiratory tract infection
+pneumonia	is a common	community-acquired infection
+pneumonia	can be classified as	community-acquired pneumonia
+pneumonia	can be classified as	hospital-acquired pneumonia
+pneumonia	can be classified as	ventilator-associated pneumonia
+pneumonia	can be classified as	aspiration pneumonia
+pneumonia	can be classified as	atypical pneumonia
+pneumonia	can be caused by	Streptococcus pneumoniae
+pneumonia	can be caused by	Haemophilus influenzae
+pneumonia	can be caused by	Staphylococcus aureus
+pneumonia	can be caused by	Mycoplasma pneumoniae
+pneumonia	can be caused by	Legionella pneumophila
+pneumonia	can be caused by	Chlamydia pneumoniae
+pneumonia	can be caused by	respiratory syncytial virus
+pneumonia	can be caused by	influenza virus
+pneumonia	can be caused by	parainfluenza virus
+pneumonia	can be caused by	adenovirus
+pneumonia	can be caused by	coronavirus
+pneumonia	can be caused by	rhinovirus
+pneumonia	can be caused by	varicella-zoster virus

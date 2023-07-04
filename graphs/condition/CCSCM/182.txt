@@ -1,0 +1,225 @@
+hemorrhage during pregnancy	can cause	maternal death
+hemorrhage during pregnancy	can cause	fetal distress
+maternal age	is a risk factor for	hemorrhage during pregnancy
+placenta previa	is a risk factor for	hemorrhage during pregnancy
+abruptio placenta	is a risk factor for	hemorrhage during pregnancy
+placenta previa	can lead to	placental abruption
+abruptio placenta	can result in	stillbirth
+hemorrhage during pregnancy	can lead to	preterm labor
+hemorrhage during pregnancy	can be caused by	uterine rupture
+placenta previa	can cause	bleeding
+placenta previa	is diagnosed by	ultrasound
+abruptio placenta	is diagnosed by	physical examination
+placenta previa	is managed with	bed rest
+abruptio placenta	is managed with	immediate delivery
+hemorrhage during pregnancy	is managed with	blood transfusion
+hemorrhage during pregnancy	can result in	emergency cesarean section
+placenta accreta	is a risk factor for	hemorrhage during pregnancy
+von Willebrand disease	is a risk factor for	hemorrhage during pregnancy
+diabetes mellitus	is a risk factor for	hemorrhage during pregnancy
+hypertensive disorders	are risk factors for	hemorrhage during pregnancy
+hemorrhage during pregnancy	can lead to	postpartum hemorrhage
+hemorrhage during pregnancy	is diagnosed by	physical examination
+hemorrhage during pregnancy	is managed with	uterine massage
+hemorrhage during pregnancy	can cause	anemia
+hemorrhage during pregnancy	can lead to	hypovolemic shock
+hemorrhage during pregnancy	is a cause of	maternal morbidity
+hemorrhage during pregnancy	can result in	neonatal blood loss
+hemorrhage during pregnancy	can lead to	maternal hypotension
+hemorrhage during pregnancy	can be prevented with	prenatal care
+hemorrhage during pregnancy	can result from	placental abnormalities
+hemorrhage during pregnancy	can occur during	labor
+hemorrhage during pregnancy	can be managed with	oxytocin
+hemorrhage during pregnancy	can cause	placental abruption
+hemorrhage during pregnancy	can be treated with	hysterectomy
+hemorrhage during pregnancy	can lead to	maternal anemia
+hemorrhage during pregnancy	can result in	uterine atony
+hemorrhage during pregnancy	can cause	coagulopathy
+hemorrhage during pregnancy	can be detected by	ultrasound
+hemorrhage during pregnancy	can be diagnosed with	complete blood count
+hemorrhage during pregnancy	can result from	placental previa
+hemorrhage during pregnancy	can be caused by	placental abruption
+hemorrhage during pregnancy	can be managed with	uterine artery embolization
+hemorrhage during pregnancy	can result in	placental insufficiency
+hemorrhage during pregnancy	can cause	maternal hypoxia
+hemorrhage during pregnancy	can be associated with	amniotic fluid embolism
+hemorrhage during pregnancy	can lead to	fetal growth restriction
+hemorrhage during pregnancy	can result in	neonatal hypoxia
+hemorrhage during pregnancy	can be caused by	uterine atony
+hemorrhage during pregnancy	can be diagnosed through	ultrasound imaging
+hemorrhage during pregnancy	can be treated with	blood transfusion
+hemorrhage during pregnancy	can be prevented by	avoiding trauma
+hemorrhage during pregnancy	can result in	maternal death
+hemorrhage during pregnancy	can lead to	neonatal anemia
+hemorrhage during pregnancy	can cause	fetal hypoxia
+hemorrhage during pregnancy	can be associated with	preeclampsia
+hemorrhage during pregnancy	can be managed with	cesarean delivery
+hemorrhage during pregnancy	can result from	placental abruption
+hemorrhage during pregnancy	can be diagnosed with	blood tests
+hemorrhage during pregnancy	can be treated with	uterine massage
+hemorrhage during pregnancy	can cause	postpartum hemorrhage
+hemorrhage during pregnancy	can lead to	fetal death
+hemorrhage during pregnancy	can be prevented with	prenatal vitamins
+hemorrhage during pregnancy	can result in	maternal hypotension
+hemorrhage during pregnancy	can be detected by	vaginal bleeding
+hemorrhage during pregnancy	can be diagnosed using	Doppler ultrasound
+hemorrhage during pregnancy	can result in	fetal distress
+hemorrhage during pregnancy	can cause	placental insufficiency
+hemorrhage during pregnancy	can occur due to	placenta previa
+hemorrhage during pregnancy	can be managed with	placental delivery
+hemorrhage during pregnancy	can result from	gestational hypertension
+hemorrhage during pregnancy	can be caused by	placental abnormalities
+hemorrhage during pregnancy	can be treated with	surgical intervention
+hemorrhage during pregnancy	can be diagnosed with	maternal history
+hemorrhage during pregnancy	can be prevented with	antenatal care
+hemorrhage during pregnancy	can lead to	neonatal death
+hemorrhage during pregnancy	can result in	maternal infection
+hemorrhage during pregnancy	can cause	fetal distress
+hemorrhage during pregnancy	can be associated with	preterm birth
+hemorrhage during pregnancy	can be managed with	blood products
+hemorrhage during pregnancy	can result from	uterine rupture
+hemorrhage during pregnancy	can be diagnosed by	physical examination
+hemorrhage during pregnancy	can be treated with	uterine artery embolization
+hemorrhage during pregnancy	can lead to	fetal growth restriction
+hemorrhage during pregnancy	can result in	perinatal morbidity
+hemorrhage during pregnancy	can be caused by	uterine atony
+hemorrhage during pregnancy	can be diagnosed by	ultrasound scan
+hemorrhage during pregnancy	can be treated with	compression sutures
+hemorrhage during pregnancy	can cause	coagulation disorders
+hemorrhage during pregnancy	can be prevented by	proper antenatal care
+hemorrhage during pregnancy	can result in	neonatal hypotension
+hemorrhage during pregnancy	can lead to	maternal hemorrhagic shock
+hemorrhage during pregnancy	can be associated with	placenta accreta
+hemorrhage during pregnancy	can result from	chronic hypertension
+hemorrhage during pregnancy	can be managed with	uterine tamponade
+hemorrhage during pregnancy	can cause	maternal hypoperfusion
+hemorrhage during pregnancy	can be detected with	ultrasound imaging
+hemorrhage during pregnancy	can be diagnosed through	blood tests
+hemorrhage during pregnancy	can be treated with	emergency delivery
+hemorrhage during pregnancy	can be prevented with	avoiding smoking
+hemorrhage during pregnancy	can result in	fetal demise
+hemorrhage during pregnancy	can lead to	uterine hypertonicity
+hemorrhage during pregnancy	can be caused by	placental problems
+hemorrhage during pregnancy	can be diagnosed with	prenatal imaging
+hemorrhage during pregnancy	can be prevented by	timely prenatal care
+hemorrhage during pregnancy	can result in	maternal hypovolemia
+hemorrhage during pregnancy	can cause	neonatal thrombocytopenia
+hemorrhage during pregnancy	can be associated with	Rh incompatibility
+hemorrhage during pregnancy	can be managed with	blood replacement
+hemorrhage during pregnancy	can result from	placental abnormalities
+hemorrhage during pregnancy	can be caused by	placental abruption
+hemorrhage during pregnancy	can be treated with	surgical procedures
+hemorrhage during pregnancy	can lead to	maternal anemia
+hemorrhage during pregnancy	can result in	uteroplacental insufficiency
+hemorrhage during pregnancy	can cause	hemodynamic instability
+hemorrhage during pregnancy	can be detected by	vaginal bleeding
+hemorrhage during pregnancy	can be diagnosed using	ultrasound examination
+hemorrhage during pregnancy	can result in	fetal morbidity
+hemorrhage during pregnancy	can be associated with	premature rupture of membranes
+hemorrhage during pregnancy	can be managed with	cesarean section
+hemorrhage during pregnancy	can result from	placental insufficiency
+hemorrhage during pregnancy	can be caused by	gestational hypertension
+hemorrhage during pregnancy	can be treated with	medication administration
+hemorrhage during pregnancy	can be diagnosed with	fetal heart monitoring
+hemorrhage during pregnancy	can be prevented with	adequate nutrition
+hemorrhage during pregnancy	can lead to	neonatal anemia
+hemorrhage during pregnancy	can result in	fetal hypoxemia
+hemorrhage during pregnancy	can be associated with	maternal coagulopathy
+hemorrhage during pregnancy	can be managed with	emergency intervention
+hemorrhage during pregnancy	can result from	maternal bleeding disorders
+hemorrhage during pregnancy	can be caused by	placental malformation
+hemorrhage during pregnancy	can be diagnosed through	physical examination
+hemorrhage during pregnancy	can be treated with	uterine compression
+hemorrhage during pregnancy	can cause	fetal blood loss
+hemorrhage during pregnancy	can be prevented by	regular prenatal check-ups
+hemorrhage during pregnancy	can result in	maternal infection
+hemorrhage during pregnancy	can lead to	fetal respiratory distress
+hemorrhage during pregnancy	can be associated with	preterm labor
+hemorrhage during pregnancy	can be managed with	fluid replacement
+hemorrhage during pregnancy	can cause	placental abruption
+hemorrhage during pregnancy	can be diagnosed with	laboratory tests
+hemorrhage during pregnancy	can be treated with	uterine massage
+hemorrhage during pregnancy	can lead to	postpartum hemorrhage
+hemorrhage during pregnancy	can be prevented with	regular exercise
+hemorrhage during pregnancy	can result in	fetal demise
+hemorrhage during pregnancy	can cause	transfusion-related complications
+hemorrhage during pregnancy	can be managed with	resuscitative measures
+hemorrhage during pregnancy	can result from	placenta previa
+hemorrhage during pregnancy	can be caused by	placental abnormalities
+hemorrhage during pregnancy	can be diagnosed by	clinical assessment
+hemorrhage during pregnancy	can be prevented with	appropriate prenatal care
+hemorrhage during pregnancy	can result in	fetal distress
+hemorrhage during pregnancy	can lead to	uterine hypotonicity
+hemorrhage during pregnancy	can be caused by	uterine rupture
+hemorrhage during pregnancy	can be diagnosed with	imaging tests
+hemorrhage during pregnancy	can be treated with	uterotonics
+hemorrhage during pregnancy	can cause	maternal hypoperfusion
+hemorrhage during pregnancy	can be detected by	vaginal examination
+hemorrhage during pregnancy	can be diagnosed with	ultrasound imaging
+hemorrhage during pregnancy	can result in	fetal morbidity
+hemorrhage during pregnancy	can be associated with	placental abruption
+hemorrhage during pregnancy	can result from	maternal hypertension
+hemorrhage during pregnancy	can be managed with	surgical intervention
+hemorrhage during pregnancy	can cause	maternal hypotension
+hemorrhage during pregnancy	can be prevented with	routine antenatal care
+hemorrhage during pregnancy	can result in	fetal anemia
+hemorrhage during pregnancy	can lead to	neonatal thrombocytopenia
+hemorrhage during pregnancy	can be associated with	placenta accreta
+hemorrhage during pregnancy	can be managed with	angiographic embolization
+hemorrhage during pregnancy	can result from	chronic hypertension
+hemorrhage during pregnancy	can be caused by	placental abruption
+hemorrhage during pregnancy	can be treated with	uterine artery ligation
+hemorrhage during pregnancy	can lead to	uterine hypertonicity
+hemorrhage during pregnancy	can result in	fetal growth restriction
+hemorrhage during pregnancy	can be detected by	pelvic examination
+hemorrhage during pregnancy	can be diagnosed through	blood investigations
+hemorrhage during pregnancy	can be treated with	blood replacement therapy
+hemorrhage during pregnancy	can be prevented by	early antenatal care
+hemorrhage during pregnancy	can result in	maternal hypovolemia
+hemorrhage during pregnancy	can cause	fetal thrombocytopenia
+hemorrhage during pregnancy	can be associated with	Rh sensitization
+hemorrhage during pregnancy	can be managed with	transfusion therapy
+hemorrhage during pregnancy	can result from	placental abnormalities
+hemorrhage during pregnancy	can lead to	maternal anemia
+hemorrhage during pregnancy	can cause	uteroplacental insufficiency
+hemorrhage during pregnancy	can be detected by	clinical examination
+hemorrhage during pregnancy	can be diagnosed using	laboratory investigations
+hemorrhage during pregnancy	can be treated with	balloon tamponade
+hemorrhage during pregnancy	can cause	fetal blood loss
+hemorrhage during pregnancy	can be prevented by	regular prenatal visits
+hemorrhage during pregnancy	can result in	maternal sepsis
+hemorrhage during pregnancy	can lead to	fetal respiratory distress syndrome
+hemorrhage during pregnancy	can be associated with	preterm labor
+hemorrhage during pregnancy	can be managed with	fluid resuscitation
+hemorrhage during pregnancy	can cause	placental insufficiency
+hemorrhage during pregnancy	can be diagnosed with	radiological imaging
+hemorrhage during pregnancy	can be treated with	surgical procedures
+hemorrhage during pregnancy	can lead to	postpartum hemorrhage
+hemorrhage during pregnancy	can be prevented with	regular check-ups
+hemorrhage during pregnancy	can result in	fetal death
+hemorrhage during pregnancy	can cause	transfusion-related reactions
+hemorrhage during pregnancy	can be managed with	blood replacement therapy
+hemorrhage during pregnancy	can result from	placental previa
+hemorrhage during pregnancy	can be caused by	placental abnormalities
+hemorrhage during pregnancy	can be diagnosed through	vaginal examination
+hemorrhage during pregnancy	can be prevented with	proper prenatal care
+hemorrhage during pregnancy	can result in	fetal distress
+hemorrhage during pregnancy	can lead to	uterine hypotonicity
+hemorrhage during pregnancy	can be caused by	uterine rupture
+hemorrhage during pregnancy	can be diagnosed with	imaging techniques
+hemorrhage during pregnancy	can be treated with	uterotonics
+hemorrhage during pregnancy	can cause	maternal hypoperfusion
+hemorrhage during pregnancy	can be detected by	vaginal examination
+hemorrhage during pregnancy	can be diagnosed with	ultrasonography
+hemorrhage during pregnancy	can result in	fetal morbidity
+hemorrhage during pregnancy	can be associated with	placental abruption
+hemorrhage during pregnancy	can result from	maternal hypertension
+hemorrhage during pregnancy	can be managed with	surgical intervention
+hemorrhage during pregnancy	can cause	maternal hypotension
+hemorrhage during pregnancy	can be prevented with	regular antenatal care
+hemorrhage during pregnancy	can result in	fetal anemia
+hemorrhage during pregnancy	can lead to	neonatal thrombocytopenia
+hemorrhage during pregnancy	can be associated with	placenta accreta
+hemorrhage during pregnancy	can be managed with	angiographic embolization
+hemorrhage during pregnancy	can result from	chronic hypertension
+hemorrhage during pregnancy	can be caused by	placental abruption

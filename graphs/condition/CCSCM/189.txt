@@ -1,0 +1,280 @@
+previous c-section	is a	surgical procedure
+previous c-section	increases the risk of	uterine rupture
+previous c-section	may require	a repeat c-section
+vaginal birth after c-section	is a	delivery option
+previous c-section	can cause	adhesions
+laparotomy	is a	surgical procedure
+previous c-section	is associated with	placenta accreta
+previous c-section	may lead to	postpartum hemorrhage
+previous c-section	is a risk factor for	placenta previa
+previous c-section	may require	a hysterectomy
+previous c-section	increases the risk of	preterm birth
+previous c-section	is a risk factor for	placental abruption
+previous c-section	may cause	scar dehiscence
+previous c-section	is a risk factor for	fetal macrosomia
+previous c-section	can cause	uterine infertility
+previous c-section	may lead to	complications in future pregnancies
+previous c-section	is associated with	increased maternal mortality
+previous c-section	increases the risk of	stillbirth
+previous c-section	can cause	bowel or bladder injury
+previous c-section	may result in	longer hospital stays
+previous c-section	is a risk factor for	neonatal intensive care unit admission
+previous c-section	may increase the risk of	maternal infection
+previous c-section	increases the risk of	placental abnormalities
+previous c-section	is a risk factor for	abnormal placentation
+previous c-section	may require	a vertical incision
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal readmission
+previous c-section	can cause	chronic pelvic pain
+previous c-section	may lead to	compromised fertility
+previous c-section	is a risk factor for	maternal depression
+previous c-section	increases the risk of	ectopic pregnancy
+previous c-section	may require	anesthesia
+previous c-section	is associated with	increased maternal stress
+previous c-section	can cause	scar tissue formation
+previous c-section	may result in	abnormal uterine bleeding
+previous c-section	is a risk factor for	venous thromboembolism
+previous c-section	increases the risk of	placenta accreta
+previous c-section	may require	a blood transfusion
+previous c-section	is associated with	increased maternal anxiety
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	preeclampsia
+previous c-section	is a risk factor for	fetal distress
+previous c-section	increases the risk of	maternal cardiac complications
+previous c-section	can cause	wound infection
+previous c-section	may result in	postpartum depression
+previous c-section	is associated with	increased maternal age
+previous c-section	increases the risk of	gestational diabetes
+previous c-section	may require	a catheter
+previous c-section	is a risk factor for	gestational hypertension
+previous c-section	can cause	scar rupture
+previous c-section	may lead to	poor wound healing
+previous c-section	is associated with	increased maternal obesity
+previous c-section	increases the risk of	fetal growth restriction
+previous c-section	can cause	pelvic pain
+previous c-section	may result in	fetal asphyxia
+previous c-section	is a risk factor for	postpartum sepsis
+previous c-section	increases the risk of	neonatal respiratory distress syndrome
+previous c-section	can cause	nerve damage
+previous c-section	may lead to	recurrent miscarriages
+previous c-section	is associated with	increased maternal hypertension
+previous c-section	increases the risk of	maternal hemorrhage
+previous c-section	can cause	wound dehiscence
+previous c-section	may require	a blood transfusion
+previous c-section	is a risk factor for	fetal malpresentation
+previous c-section	increases the risk of	postpartum infection
+previous c-section	can cause	placental insufficiency
+previous c-section	may result in	neonatal birth trauma
+previous c-section	is associated with	increased maternal diabetes
+previous c-section	increases the risk of	stillbirth
+previous c-section	can cause	urinary incontinence
+previous c-section	may lead to	abnormal placentation
+previous c-section	is a risk factor for	maternal mortality
+previous c-section	increases the risk of	neonatal jaundice
+previous c-section	can cause	uterine rupture
+previous c-section	may require	a blood transfusion
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal readmission
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	maternal depression
+previous c-section	is a risk factor for	fetal macrosomia
+previous c-section	increases the risk of	postpartum hemorrhage
+previous c-section	can cause	bowel or bladder injury
+previous c-section	may result in	longer hospital stays
+previous c-section	is associated with	increased maternal anxiety
+previous c-section	increases the risk of	placenta previa
+previous c-section	can cause	scar dehiscence
+previous c-section	may lead to	complications in future pregnancies
+previous c-section	is a risk factor for	neonatal intensive care unit admission
+previous c-section	increases the risk of	preterm birth
+previous c-section	can cause	uterine infertility
+previous c-section	may require	a hysterectomy
+previous c-section	is associated with	increased maternal stress
+previous c-section	increases the risk of	placental abnormalities
+previous c-section	can cause	chronic pelvic pain
+previous c-section	may lead to	compromised fertility
+previous c-section	is a risk factor for	maternal depression
+previous c-section	increases the risk of	ectopic pregnancy
+previous c-section	can cause	scar tissue formation
+previous c-section	may result in	abnormal uterine bleeding
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal mortality
+previous c-section	can cause	wound infection
+previous c-section	may require	anesthesia
+previous c-section	is a risk factor for	fetal distress
+previous c-section	increases the risk of	maternal cardiac complications
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	preeclampsia
+previous c-section	is associated with	increased maternal age
+previous c-section	increases the risk of	gestational diabetes
+previous c-section	may require	a catheter
+previous c-section	is a risk factor for	gestational hypertension
+previous c-section	can cause	scar rupture
+previous c-section	may lead to	poor wound healing
+previous c-section	is associated with	increased maternal obesity
+previous c-section	increases the risk of	fetal growth restriction
+previous c-section	can cause	pelvic pain
+previous c-section	may result in	fetal asphyxia
+previous c-section	is a risk factor for	postpartum sepsis
+previous c-section	increases the risk of	neonatal respiratory distress syndrome
+previous c-section	can cause	nerve damage
+previous c-section	may lead to	recurrent miscarriages
+previous c-section	is associated with	increased maternal hypertension
+previous c-section	increases the risk of	maternal hemorrhage
+previous c-section	can cause	wound dehiscence
+previous c-section	may require	a blood transfusion
+previous c-section	is a risk factor for	fetal malpresentation
+previous c-section	increases the risk of	postpartum infection
+previous c-section	can cause	placental insufficiency
+previous c-section	may result in	neonatal birth trauma
+previous c-section	is associated with	increased maternal diabetes
+previous c-section	increases the risk of	stillbirth
+previous c-section	can cause	urinary incontinence
+previous c-section	may lead to	abnormal placentation
+previous c-section	is a risk factor for	maternal mortality
+previous c-section	increases the risk of	neonatal jaundice
+previous c-section	can cause	uterine rupture
+previous c-section	may require	a blood transfusion
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal readmission
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	maternal depression
+previous c-section	is a risk factor for	fetal macrosomia
+previous c-section	increases the risk of	postpartum hemorrhage
+previous c-section	can cause	bowel or bladder injury
+previous c-section	may result in	longer hospital stays
+previous c-section	is associated with	increased maternal anxiety
+previous c-section	increases the risk of	placenta previa
+previous c-section	can cause	scar dehiscence
+previous c-section	may lead to	complications in future pregnancies
+previous c-section	is a risk factor for	neonatal intensive care unit admission
+previous c-section	increases the risk of	preterm birth
+previous c-section	can cause	uterine infertility
+previous c-section	may require	a hysterectomy
+previous c-section	is associated with	increased maternal stress
+previous c-section	increases the risk of	placental abnormalities
+previous c-section	can cause	chronic pelvic pain
+previous c-section	may lead to	compromised fertility
+previous c-section	is a risk factor for	maternal depression
+previous c-section	increases the risk of	ectopic pregnancy
+previous c-section	can cause	scar tissue formation
+previous c-section	may result in	abnormal uterine bleeding
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal mortality
+previous c-section	can cause	wound infection
+previous c-section	may require	anesthesia
+previous c-section	is a risk factor for	fetal distress
+previous c-section	increases the risk of	maternal cardiac complications
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	preeclampsia
+previous c-section	is associated with	increased maternal age
+previous c-section	increases the risk of	gestational diabetes
+previous c-section	may require	a catheter
+previous c-section	is a risk factor for	gestational hypertension
+previous c-section	can cause	scar rupture
+previous c-section	may lead to	poor wound healing
+previous c-section	is associated with	increased maternal obesity
+previous c-section	increases the risk of	fetal growth restriction
+previous c-section	can cause	pelvic pain
+previous c-section	may result in	fetal asphyxia
+previous c-section	is a risk factor for	postpartum sepsis
+previous c-section	increases the risk of	neonatal respiratory distress syndrome
+previous c-section	can cause	nerve damage
+previous c-section	may lead to	recurrent miscarriages
+previous c-section	is associated with	increased maternal hypertension
+previous c-section	increases the risk of	maternal hemorrhage
+previous c-section	can cause	wound dehiscence
+previous c-section	may require	a blood transfusion
+previous c-section	is a risk factor for	fetal malpresentation
+previous c-section	increases the risk of	postpartum infection
+previous c-section	can cause	placental insufficiency
+previous c-section	may result in	neonatal birth trauma
+previous c-section	is associated with	increased maternal diabetes
+previous c-section	increases the risk of	stillbirth
+previous c-section	can cause	urinary incontinence
+previous c-section	may lead to	abnormal placentation
+previous c-section	is a risk factor for	maternal mortality
+previous c-section	increases the risk of	neonatal jaundice
+previous c-section	can cause	uterine rupture
+previous c-section	may require	a blood transfusion
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal readmission
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	maternal depression
+previous c-section	is a risk factor for	fetal macrosomia
+previous c-section	increases the risk of	postpartum hemorrhage
+previous c-section	can cause	bowel or bladder injury
+previous c-section	may result in	longer hospital stays
+previous c-section	is associated with	increased maternal anxiety
+previous c-section	increases the risk of	placenta previa
+previous c-section	can cause	scar dehiscence
+previous c-section	may lead to	complications in future pregnancies
+previous c-section	is a risk factor for	neonatal intensive care unit admission
+previous c-section	increases the risk of	preterm birth
+previous c-section	can cause	uterine infertility
+previous c-section	may require	a hysterectomy
+previous c-section	is associated with	increased maternal stress
+previous c-section	increases the risk of	placental abnormalities
+previous c-section	can cause	chronic pelvic pain
+previous c-section	may lead to	compromised fertility
+previous c-section	is a risk factor for	maternal depression
+previous c-section	increases the risk of	ectopic pregnancy
+previous c-section	can cause	scar tissue formation
+previous c-section	may result in	abnormal uterine bleeding
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal mortality
+previous c-section	can cause	wound infection
+previous c-section	may require	anesthesia
+previous c-section	is a risk factor for	fetal distress
+previous c-section	increases the risk of	maternal cardiac complications
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	preeclampsia
+previous c-section	is associated with	increased maternal age
+previous c-section	increases the risk of	gestational diabetes
+previous c-section	may require	a catheter
+previous c-section	is a risk factor for	gestational hypertension
+previous c-section	can cause	scar rupture
+previous c-section	may lead to	poor wound healing
+previous c-section	is associated with	increased maternal obesity
+previous c-section	increases the risk of	fetal growth restriction
+previous c-section	can cause	pelvic pain
+previous c-section	may result in	fetal asphyxia
+previous c-section	is a risk factor for	postpartum sepsis
+previous c-section	increases the risk of	neonatal respiratory distress syndrome
+previous c-section	can cause	nerve damage
+previous c-section	may lead to	recurrent miscarriages
+previous c-section	is associated with	increased maternal hypertension
+previous c-section	increases the risk of	maternal hemorrhage
+previous c-section	can cause	wound dehiscence
+previous c-section	may require	a blood transfusion
+previous c-section	is a risk factor for	fetal malpresentation
+previous c-section	increases the risk of	postpartum infection
+previous c-section	can cause	placental insufficiency
+previous c-section	may result in	neonatal birth trauma
+previous c-section	is associated with	increased maternal diabetes
+previous c-section	increases the risk of	stillbirth
+previous c-section	can cause	urinary incontinence
+previous c-section	may lead to	abnormal placentation
+previous c-section	is a risk factor for	maternal mortality
+previous c-section	increases the risk of	neonatal jaundice
+previous c-section	can cause	uterine rupture
+previous c-section	may require	a blood transfusion
+previous c-section	is associated with	increased maternal morbidity
+previous c-section	increases the risk of	maternal readmission
+previous c-section	can cause	pelvic organ prolapse
+previous c-section	may lead to	maternal depression
+previous c-section	is a risk factor for	fetal macrosomia
+previous c-section	increases the risk of	postpartum hemorrhage
+previous c-section	can cause	bowel or bladder injury
+previous c-section	may result in	longer hospital stays
+previous c-section	is associated with	increased maternal anxiety
+previous c-section	increases the risk of	placenta previa
+previous c-section	can cause	scar dehiscence
+previous c-section	may lead to	complications in future pregnancies
+previous c-section	is a risk factor for	neonatal intensive care unit admission
+previous c-section	increases the risk of	preterm birth
+previous c-section	can cause	uterine infertility
+previous c-section	may require	a hysterectomy
+previous c-section	is associated with	increased maternal stress
+previous c-section	increases the risk of	placental abnormalities
+previous c-section	can cause	chronic pelvic pain

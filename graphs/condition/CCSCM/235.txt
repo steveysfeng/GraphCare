@@ -1,0 +1,21 @@
+open wounds of head	can lead to	skull fractures
+open wounds of head	are often caused by	trauma
+neck wounds	can result in	severe bleeding
+trunk wounds	may cause	damage to internal organs
+open wounds of head	require	immediate medical attention
+neck wounds	may require	surgery
+trunk wounds	may require	exploration to assess internal injuries
+open wounds of head	can lead to	infection
+neck wounds	can lead to	airway compromise
+open wounds of head	can be	lacerations
+neck wounds	can be	puncture wounds
+trunk wounds	can be	penetrating injuries
+open wounds of head	may require	suturing
+neck wounds	may require	wound closure techniques
+trunk wounds	may require	wound debridement
+open wounds of head	may result in	scarring
+neck wounds	may result in	loss of function
+trunk wounds	may lead to	cosmetic deformities
+open wounds of head	can cause	brain injury
+neck wounds	can cause	damage to blood vessels
+trunk wounds	can cause	damage to the chest wall

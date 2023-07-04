@@ -1,0 +1,79 @@
+disorders of lipid metabolism	can lead to	cardiovascular disease
+hyperlipidemia	is a type of	disorder of lipid metabolism
+statins	are used to	treat hyperlipidemia
+lipid profile	is a test for	disorders of lipid metabolism
+familial hypercholesterolemia	is a genetic	disorder of lipid metabolism
+atherosclerosis	is a complication of	disorders of lipid metabolism
+high-density lipoprotein (HDL)	is a type of	lipoprotein involved in lipid metabolism
+low-density lipoprotein (LDL)	is a type of	lipoprotein involved in lipid metabolism
+triglycerides	are a type of	lipid involved in metabolism
+dyslipidemia	is a general term for	disorders of lipid metabolism
+lipoprotein lipase	is an enzyme involved in	lipid metabolism
+obesity	is a risk factor for	disorders of lipid metabolism
+hypertriglyceridemia	is a type of	disorder of lipid metabolism
+elevated cholesterol levels	are associated with	disorders of lipid metabolism
+saturated fats	can contribute to	disorders of lipid metabolism
+apolipoprotein B (apoB)	is a protein involved in	lipid metabolism
+decreased physical activity	can increase the risk of	disorders of lipid metabolism
+low-density lipoprotein receptor (LDLR)	is a receptor involved in	lipid metabolism
+cholesterol ester transfer protein (CETP)	is a protein involved in	lipid metabolism
+obstructive liver disease	can cause	disorders of lipid metabolism
+familial combined hyperlipidemia	is a type of	disorder of lipid metabolism
+omega-3 fatty acids	can improve	disorders of lipid metabolism
+familial hypertriglyceridemia	is a type of	disorder of lipid metabolism
+familial dysbetalipoproteinemia	is a type of	disorder of lipid metabolism
+apolipoprotein A-I (apoA-I)	is a protein involved in	lipid metabolism
+chylomicrons	are a type of	lipoprotein involved in lipid metabolism
+diabetes mellitus	is a risk factor for	disorders of lipid metabolism
+hypercholesterolemia	is a type of	disorder of lipid metabolism
+hepatitis	can cause	disorders of lipid metabolism
+apolipoprotein E (apoE)	is a protein involved in	lipid metabolism
+diuretics	can affect	lipid metabolism
+bile acid sequestrants	are used to	treat disorders of lipid metabolism
+liver function	is important for	lipid metabolism
+glucagon-like peptide-1 (GLP-1)	can affect	lipid metabolism
+insulin resistance	is associated with	disorders of lipid metabolism
+nicotinic acid	is used to	treat disorders of lipid metabolism
+lipoprotein(a)	is a type of	lipoprotein involved in lipid metabolism
+apolipoprotein C-III (apoC-III)	is a protein involved in	lipid metabolism
+cholesteryl ester transfer protein (CETP)	is a protein involved in	lipid metabolism
+exercise	can improve	disorders of lipid metabolism
+familial lipoprotein lipase deficiency	is a type of	disorder of lipid metabolism
+dietary factors	can affect	lipid metabolism
+fibrate medications	are used to	treat disorders of lipid metabolism
+bile acid sequestrants	can affect	lipid metabolism
+clofibrate	is a medication used to	treat disorders of lipid metabolism
+lipoprotein particle size	can affect	lipid metabolism
+apolipoprotein C-II (apoC-II)	is a protein involved in	lipid metabolism
+oxidized low-density lipoprotein (LDL)	is a type of	lipoprotein involved in lipid metabolism
+polyunsaturated fats	can improve	disorders of lipid metabolism
+cholesteryl ester transfer protein (CETP) inhibitors	are used to	treat disorders of lipid metabolism
+obstructive kidney disease	can cause	disorders of lipid metabolism
+high-density lipoprotein (HDL) cholesterol	is a type of	cholesterol involved in lipid metabolism
+apoB/apoA-I ratio	can be measured to assess	lipid metabolism
+hypothyroidism	can affect	lipid metabolism
+metabolic syndrome	is associated with	disorders of lipid metabolism
+type 2 diabetes	is associated with	disorders of lipid metabolism
+antidiabetic medications	can affect	lipid metabolism
+atherogenic dyslipidemia	is a type of	disorder of lipid metabolism
+estrogen	can affect	lipid metabolism
+high-density lipoprotein cholesterol (HDL-C) levels	are considered protective against	disorders of lipid metabolism
+proprotein convertase subtilisin/kexin type 9 (PCSK9)	is a protein involved in	lipid metabolism
+angioplasty	can be performed as a treatment for	disorders of lipid metabolism
+coronary heart disease	is a complication of	disorders of lipid metabolism
+fibrates	are used to	treat disorders of lipid metabolism
+hepatobiliary disease	can cause	disorders of lipid metabolism
+fenofibrate	is a medication used to	treat disorders of lipid metabolism
+sphingolipidoses	are a group of	disorders of lipid metabolism
+metabolic pathways	are involved in	lipid metabolism
+apolipoprotein E (apoE) genotype	can affect	lipid metabolism
+antisense oligonucleotides	can be used to	target lipid metabolism genes
+peroxisomal disorders	are a group of	disorders of lipid metabolism
+exercise	can improve	lipid metabolism
+thyroid hormone	can affect	lipid metabolism
+dyslipidemia	is a risk factor for	disorders of lipid metabolism
+obstructive lung disease	can cause	disorders of lipid metabolism
+obesity	is a risk factor for	disorders of lipid metabolism
+ascites	can be a complication of	disorders of lipid metabolism
+apolipoprotein E (apoE) isoforms	can affect	lipid metabolism
+metabolic surgery	can be performed to treat	disorders of lipid metabolism

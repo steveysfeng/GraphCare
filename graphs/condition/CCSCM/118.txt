@@ -1,0 +1,13 @@
+phlebitis	is an	inflammation
+phlebitis	may cause	pain
+phlebitis	can occur in	superficial veins
+phlebitis	can occur in	deep veins
+thrombophlebitis	is a type of	phlebitis
+thrombophlebitis	can lead to	blood clot formation
+thrombophlebitis	is often treated with	anticoagulants
+thromboembolism	is a condition caused by	blood clot dislodgement
+thromboembolism	may result in	blockage of blood vessels
+thromboembolism	can cause	pulmonary embolism
+pulmonary embolism	is a	medical emergency
+pulmonary embolism	can lead to	potential complications
+pulmonary embolism	is treated with	anticoagulant therapy

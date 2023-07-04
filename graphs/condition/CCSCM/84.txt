@@ -1,0 +1,128 @@
+headache	can be a symptom of	migraine
+migraine	is a type of	headache
+headache	can be caused by	tension
+tension	can be a trigger for	headache
+headache	can be relieved by	medication
+medication	can alleviate	headache
+headache	can be associated with	nausea
+nausea	can be a symptom of	headache
+headache	can be worsened by	bright light
+bright light	can trigger	headache
+headache	can be accompanied by	sensitivity
+sensitivity	can be a symptom of	headache
+headache	can be managed with	lifestyle changes
+lifestyle changes	can help with	headache
+headache	can be prevented by	avoiding triggers
+avoiding triggers	can reduce	headache
+headache	can be a sign of	underlying condition
+underlying condition	can cause	headache
+headache	can be treated with	over-the-counter medication
+over-the-counter medication	can relieve	headache
+headache	can be chronic
+chronic	can describe	headache
+headache	can be episodic
+episodic	can describe	headache
+headache	can be accompanied by	dizziness
+dizziness	can be a symptom of	headache
+headache	can be related to	stress
+stress	can trigger	headache
+headache	can be caused by	sinusitis
+sinusitis	can cause	headache
+headache	can be a sign of	dehydration
+dehydration	can cause	headache
+headache	can be worsened by	alcohol
+alcohol	can trigger	headache
+headache	can be a symptom of	concussion
+concussion	can cause	headache
+headache	can be associated with	visual disturbances
+visual disturbances	can be a symptom of	headache
+headache	can be a side effect of	medication
+medication	can cause	headache
+headache	can be triggered by	certain foods
+certain foods	can cause	headache
+headache	can be worsened by	lack of sleep
+lack of sleep	can exacerbate	headache
+headache	can be a result of	head injury
+head injury	can cause	headache
+headache	can be relieved with	rest
+rest	can alleviate	headache
+headache	can be accompanied by	muscle tension
+muscle tension	can be a symptom of	headache
+headache	can be a result of	high blood pressure
+high blood pressure	can cause	headache
+headache	can be triggered by	strong smells
+strong smells	can cause	headache
+headache	can be associated with	hormonal changes
+hormonal changes	can cause	headache
+headache	can be a symptom of	brain tumor
+brain tumor	can cause	headache
+headache	can be a result of	eye strain
+eye strain	can cause	headache
+headache	can be relieved by	heat or cold therapy
+heat or cold therapy	can alleviate	headache
+headache	can be associated with	fatigue
+fatigue	can be a symptom of	headache
+headache	can be a result of	weather changes
+weather changes	can trigger	headache
+headache	can be worsened by	loud noise
+loud noise	can trigger	headache
+headache	can be related to	allergies
+allergies	can cause	headache
+headache	can be associated with	jaw clenching
+jaw clenching	can be a symptom of	headache
+headache	can be a side effect of	caffeine withdrawal
+caffeine withdrawal	can cause	headache
+headache	can be a sign of	hypertension
+hypertension	can cause	headache
+headache	can be worsened by	poor posture
+poor posture	can exacerbate	headache
+headache	can be accompanied by	sinus congestion
+sinus congestion	can be a symptom of	headache
+headache	can be caused by	hormonal imbalance
+hormonal imbalance	can cause	headache
+headache	can be a result of	neck tension
+neck tension	can cause	headache
+headache	can be relieved by	massage
+massage	can alleviate	headache
+headache	can be associated with	lack of exercise
+lack of exercise	can cause	headache
+headache	can be a symptom of	anxiety
+anxiety	can cause	headache
+headache	can be worsened by	weather changes
+weather changes	can trigger	headache
+headache	can be related to	caffeine consumption
+caffeine consumption	can cause	headache
+headache	can be triggered by	hormonal changes
+hormonal changes	can cause	headache
+headache	can be associated with	jaw clenching
+jaw clenching	can be a symptom of	headache
+headache	can be a side effect of	certain medications
+certain medications	can cause	headache
+headache	can be a sign of	meningitis
+meningitis	can cause	headache
+headache	can be worsened by	poor posture
+poor posture	can exacerbate	headache
+headache	can be accompanied by	sinus congestion
+sinus congestion	can be a symptom of	headache
+headache	can be caused by	hormonal imbalance
+hormonal imbalance	can cause	headache
+headache	can be a result of	neck tension
+neck tension	can cause	headache
+headache	can be relieved by	massage
+massage	can alleviate	headache
+headache	can be associated with	lack of exercise
+lack of exercise	can cause	headache
+headache	can be a symptom of	anxiety
+anxiety	can cause	headache
+headache	can be worsened by	weather changes
+weather changes	can trigger	headache
+headache	can be related to	caffeine consumption
+caffeine consumption	can cause	headache
+headache	can be triggered by	hormonal changes
+hormonal changes	can cause	headache
+headache	can be associated with	jaw clenching
+jaw clenching	can be a symptom of	headache
+headache	can be a side effect of	certain medications
+certain medications	can cause	headache
+headache	can be a sign of	meningitis
+meningitis	can cause	headache

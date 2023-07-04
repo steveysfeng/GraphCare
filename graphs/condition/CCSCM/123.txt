@@ -1,0 +1,183 @@
+influenza	is a	viral infection
+influenza	spreads through	respiratory droplets
+influenza vaccine	is a preventive measure for	influenza
+oseltamivir	is an	antiviral medication
+influenza	can lead to	pneumonia
+influenza	is associated with	fever
+zoonotic transmission	is possible with	influenza
+influenza	can cause	complications
+influenza	has different strains	such as H1N1
+influenza	can be prevented by	good hand hygiene
+influenza	can be severe in	immunocompromised individuals
+influenza	has seasonal outbreaks,
+influenza	can be diagnosed through	rapid antigen tests
+influenza	can be treated with	antiviral medications
+influenza	can result in	hospitalization
+influenza	is contagious
+influenza	can be transmitted from	person to person
+influenza	can cause	fatigue
+influenza	is more common during	winter months
+influenza	increases the risk of	secondary bacterial infections
+influenza	can affect the	respiratory system
+influenza	can cause	sore throat
+influenza	can lead to	dehydration
+influenza	can cause	muscle aches
+influenza	can result in	death
+influenza	can cause	chest pain
+influenza	can lead to	bronchitis
+influenza	can cause	headache
+influenza	can result in	loss of appetite
+influenza	can cause	nasal congestion
+influenza	can lead to	ear infections
+influenza	can cause	cough
+influenza	can lead to	acute respiratory distress syndrome (ARDS)
+influenza	can cause	vomiting
+influenza	can result in	encephalitis
+influenza	can cause	diarrhea
+influenza	can lead to	myocarditis
+influenza	can result in	seizures
+influenza	can cause	chills
+influenza	can lead to	myositis
+influenza	can cause	nausea
+influenza	can result in	pulmonary embolism
+influenza	can cause	weakness
+influenza	can lead to	meningitis
+influenza	can cause	joint pain
+influenza	can result in	respiratory failure
+influenza	can cause	dizziness
+influenza	can lead to	pleurisy
+influenza	can result in	pneumonia
+influenza	can cause	malaise
+influenza	can lead to	sinusitis
+influenza	can cause	shortness of breath
+influenza	can lead to	otitis media
+influenza	can result in	exacerbation of underlying conditions
+influenza	can cause	runny nose
+influenza	can lead to	respiratory distress
+influenza	can result in	acute myocardial infarction
+influenza	can cause	abdominal pain
+influenza	can lead to	sepsis
+influenza	can result in	arrhythmias
+influenza	can cause	high fever
+influenza	can lead to	acute kidney injury
+influenza	can result in	Guillain-Barré syndrome
+influenza	can cause	chest congestion
+influenza	can lead to	secondary infections
+influenza	can result in	encephalopathy
+influenza	can cause	difficulty breathing
+influenza	can lead to	myocardial injury
+influenza	can result in	stroke
+influenza	can cause	fatigue
+influenza	can lead to	myositis
+influenza	can result in	acute respiratory distress syndrome (ARDS)
+influenza	can cause	sore throat
+influenza	can lead to	ear infections
+influenza	can result in	bacterial pneumonia
+influenza	can cause	cough
+influenza	can lead to	acute exacerbation of asthma
+influenza	can result in	sinusitis
+influenza	can cause	headache
+influenza	can lead to	bronchitis
+influenza	can result in	retropharyngeal abscess
+influenza	can cause	muscle aches
+influenza	can lead to	pneumonia
+influenza	can result in	septicemia
+influenza	can cause	chest pain
+influenza	can lead to	myocarditis
+influenza	can result in	endocarditis
+influenza	can cause	vomiting
+influenza	can lead to	encephalitis
+influenza	can result in	optic neuritis
+influenza	can cause	diarrhea
+influenza	can lead to	pancreatitis
+influenza	can result in	meningitis
+influenza	can cause	chills
+influenza	can lead to	myositis
+influenza	can result in	rhabdomyolysis
+influenza	can cause	nausea
+influenza	can lead to	myocardial infarction
+influenza	can result in	acute kidney injury
+influenza	can cause	weakness
+influenza	can lead to	meningitis
+influenza	can result in	septic shock
+influenza	can cause	joint pain
+influenza	can lead to	respiratory failure
+influenza	can result in	acute liver failure
+influenza	can cause	dizziness
+influenza	can lead to	pleurisy
+influenza	can result in	pneumonia
+influenza	can cause	malaise
+influenza	can lead to	sinusitis
+influenza	can result in	exacerbation of chronic obstructive pulmonary disease (COPD)
+influenza	can cause	shortness of breath
+influenza	can lead to	otitis media
+influenza	can result in	bacterial meningitis
+influenza	can cause	runny nose
+influenza	can lead to	respiratory distress
+influenza	can result in	pericarditis
+influenza	can cause	abdominal pain
+influenza	can lead to	sepsis
+influenza	can result in	encephalopathy
+influenza	can cause	high fever
+influenza	can lead to	acute kidney injury
+influenza	can result in	myocarditis
+influenza	can cause	chest congestion
+influenza	can lead to	secondary infections
+influenza	can result in	myocardial injury
+influenza	can cause	fatigue
+influenza	can lead to	myositis
+influenza	can result in	acute respiratory distress syndrome (ARDS)
+influenza	can cause	sore throat
+influenza	can lead to	ear infections
+influenza	can result in	septicemia
+influenza	can cause	cough
+influenza	can lead to	acute exacerbation of chronic obstructive pulmonary disease (COPD)
+influenza	can result in	sinusitis
+influenza	can cause	headache
+influenza	can lead to	bronchitis
+influenza	can result in	retropharyngeal abscess
+influenza	can cause	muscle aches
+influenza	can lead to	pneumonia
+influenza	can result in	septicemia
+influenza	can cause	chest pain
+influenza	can lead to	myocarditis
+influenza	can result in	endocarditis
+influenza	can cause	vomiting
+influenza	can lead to	encephalitis
+influenza	can result in	optic neuritis
+influenza	can cause	diarrhea
+influenza	can lead to	pancreatitis
+influenza	can result in	meningitis
+influenza	can cause	chills
+influenza	can lead to	myositis
+influenza	can result in	rhabdomyolysis
+influenza	can cause	nausea
+influenza	can lead to	myocardial infarction
+influenza	can result in	acute kidney injury
+influenza	can cause	weakness
+influenza	can lead to	meningitis
+influenza	can result in	septic shock
+influenza	can cause	joint pain
+influenza	can lead to	respiratory failure
+influenza	can result in	acute liver failure
+influenza	can cause	dizziness
+influenza	can lead to	pleurisy
+influenza	can result in	pneumonia
+influenza	can cause	malaise
+influenza	can lead to	sinusitis
+influenza	can result in	exacerbation of chronic obstructive pulmonary disease (COPD)
+influenza	can cause	shortness of breath
+influenza	can lead to	otitis media
+influenza	can result in	bacterial meningitis
+influenza	can cause	runny nose
+influenza	can lead to	respiratory distress
+influenza	can result in	pericarditis
+influenza	can cause	abdominal pain
+influenza	can lead to	sepsis
+influenza	can result in	encephalopathy
+influenza	can cause	high fever
+influenza	can lead to	acute kidney injury
+influenza	can result in	myocarditis
+influenza	can cause	chest congestion
+influenza	can lead to	secondary infections
+influenza	can result in	myocardial injury

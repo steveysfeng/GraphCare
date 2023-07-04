@@ -1,0 +1,272 @@
+chronic kidney disease	is a	progressive condition
+hypertension	is a risk factor for	chronic kidney disease
+diabetes	is a risk factor for	chronic kidney disease
+chronic kidney disease	can lead to	end-stage renal disease
+hemodialysis	is a treatment for	end-stage renal disease
+chronic kidney disease	is associated with	cardiovascular disease
+angiotensin-converting enzyme inhibitors	are used to treat	hypertension in chronic kidney disease
+chronic kidney disease	is characterized by	decreased kidney function
+chronic kidney disease	can cause	electrolyte imbalances
+chronic kidney disease	is diagnosed using	blood tests
+chronic kidney disease	is a	global health issue
+chronic kidney disease	requires	monitoring of kidney function
+chronic kidney disease	can result in	anemia
+chronic kidney disease	increases the risk of	bone disease
+chronic kidney disease	is linked to	diet and nutrition
+chronic kidney disease	is managed through	lifestyle modifications
+chronic kidney disease	affects	both adults and children
+chronic kidney disease	has different stages based on	kidney function
+chronic kidney disease	may require	kidney transplantation
+chronic kidney disease	is associated with	high healthcare costs
+chronic kidney disease	can lead to	fluid retention
+chronic kidney disease	is a	progressive loss of kidney function
+chronic kidney disease	leads to	accumulation of waste products in the body
+chronic kidney disease	is a	silent condition
+chronic kidney disease	is a major cause of	morbidity and mortality
+chronic kidney disease	is often asymptomatic
+chronic kidney disease	is more common in	older adults
+chronic kidney disease	can be caused by	kidney infections
+chronic kidney disease	is more prevalent in	certain ethnic groups
+chronic kidney disease	is a	public health issue
+chronic kidney disease	is associated with	decreased quality of life
+chronic kidney disease	is a	chronic condition
+chronic kidney disease	can be managed through	medication
+chronic kidney disease	is associated with	increased risk of infections
+chronic kidney disease	is a leading cause of	kidney failure
+chronic kidney disease	affects	the urinary system
+chronic kidney disease	is a global	healthcare challenge
+chronic kidney disease	is preventable through	early intervention
+chronic kidney disease	is linked to	genetic factors
+chronic kidney disease	has a higher prevalence in	low-income countries
+chronic kidney disease	is associated with	increased hospitalizations
+chronic kidney disease	may require	dialysis
+chronic kidney disease	is managed through	interdisciplinary care
+chronic kidney disease	is a	chronic condition
+chronic kidney disease	is associated with	decreased immune function
+chronic kidney disease	can lead to	electrolyte imbalances
+chronic kidney disease	is a	silent killer
+chronic kidney disease	is characterized by	proteinuria
+chronic kidney disease	increases the risk of	cardiovascular events
+chronic kidney disease	is a	progressive decline in kidney function
+chronic kidney disease	is associated with	increased mortality rates
+chronic kidney disease	is diagnosed through	urine tests
+chronic kidney disease	is more common in	individuals with a family history of kidney disease
+chronic kidney disease	is associated with	increased healthcare utilization
+chronic kidney disease	can result in	fluid overload
+chronic kidney disease	is a	long-term condition
+chronic kidney disease	is a	noncommunicable disease
+chronic kidney disease	is more prevalent in	urban areas
+chronic kidney disease	is a	chronic illness
+chronic kidney disease	is associated with	metabolic abnormalities
+chronic kidney disease	is a	progressive decline in kidney function
+chronic kidney disease	requires	regular follow-up care
+chronic kidney disease	is a	life-threatening condition
+chronic kidney disease	is a	global burden of disease
+chronic kidney disease	can cause	hypertension
+chronic kidney disease	is associated with	an increased risk of kidney stones
+chronic kidney disease	is a	common chronic condition
+chronic kidney disease	is a	major public health problem
+chronic kidney disease	is implicated in	cognitive decline
+chronic kidney disease	is associated with	increased morbidity rates
+chronic kidney disease	can result in	acid-base imbalances
+chronic kidney disease	is diagnosed through	imaging tests
+chronic kidney disease	is more common in	males
+chronic kidney disease	is a	progressive loss of kidney function
+chronic kidney disease	is associated with	increased risk of fractures
+chronic kidney disease	is more prevalent in	individuals with a history of smoking
+chronic kidney disease	is a	chronic illness
+chronic kidney disease	can be managed through	dietary changes
+chronic kidney disease	is associated with	increased risk of infections
+chronic kidney disease	is a	lifelong condition
+chronic kidney disease	is a	complex disease
+chronic kidney disease	requires	regular monitoring
+chronic kidney disease	is associated with	impaired cognitive function
+chronic kidney disease	is a	leading cause of disability
+chronic kidney disease	can result in	electrolyte imbalances
+chronic kidney disease	is diagnosed through	kidney biopsy
+chronic kidney disease	is more common in	individuals with a history of substance abuse
+chronic kidney disease	is linked to	socioeconomic factors
+chronic kidney disease	is a	progressive decline in kidney function
+chronic kidney disease	increases the risk of	cardiovascular disease
+chronic kidney disease	can cause	mineral and bone disorders
+chronic kidney disease	is associated with	increased risk of malignancies
+chronic kidney disease	is a	common cause of hospitalizations
+chronic kidney disease	can result in	renal osteodystrophy
+chronic kidney disease	is a	chronic health condition
+chronic kidney disease	is associated with	decreased life expectancy
+chronic kidney disease	is a	lifelong disease
+chronic kidney disease	is often managed by	nephrologists
+chronic kidney disease	is associated with	increased risk of graft failure in kidney transplant recipients
+chronic kidney disease	can lead to	uremia
+chronic kidney disease	is a	significant health problem
+chronic kidney disease	is a	progressive loss of kidney function
+chronic kidney disease	is linked to	environmental factors
+chronic kidney disease	is associated with	higher healthcare costs
+chronic kidney disease	is a	major public health challenge
+chronic kidney disease	requires	dietary restrictions
+chronic kidney disease	can result in	fluid and electrolyte imbalances
+chronic kidney disease	is diagnosed through	kidney function tests
+chronic kidney disease	is more common in	individuals with a history of heart disease
+chronic kidney disease	is associated with	increased risk of depression
+chronic kidney disease	is a	chronic kidney condition
+chronic kidney disease	is linked to	inflammation
+chronic kidney disease	has a higher prevalence in	rural areas
+chronic kidney disease	is a	global health problem
+chronic kidney disease	is associated with	decreased exercise tolerance
+chronic kidney disease	can lead to	metabolic acidosis
+chronic kidney disease	is a	chronic kidney condition
+chronic kidney disease	is associated with	increased risk of hospital readmissions
+chronic kidney disease	may require	kidney transplant
+chronic kidney disease	is managed through	multidisciplinary care
+chronic kidney disease	can result in	altered mental status
+chronic kidney disease	is a	significant cause of disability
+chronic kidney disease	is a	major public health issue
+chronic kidney disease	affects	renal function
+chronic kidney disease	is a	lifelong health condition
+chronic kidney disease	is associated with	increased risk of cardiovascular events
+chronic kidney disease	can cause	electrolyte disturbances
+chronic kidney disease	is a	common renal disorder
+chronic kidney disease	is a	leading cause of mortality
+chronic kidney disease	can result in	volume overload
+chronic kidney disease	is diagnosed through	kidney ultrasound
+chronic kidney disease	is more common in	individuals with a history of obesity
+chronic kidney disease	is associated with	increased risk of cognitive impairment
+chronic kidney disease	is a	chronic kidney condition
+chronic kidney disease	can be managed through	physical activity
+chronic kidney disease	is associated with	increased risk of hospitalizations
+chronic kidney disease	is a	lifelong kidney condition
+chronic kidney disease	is a	complex condition
+chronic kidney disease	requires	regular check-ups
+chronic kidney disease	is associated with	decreased cognitive function
+chronic kidney disease	is a	leading cause of morbidity
+chronic kidney disease	can result in	electrolyte abnormalities
+chronic kidney disease	is diagnosed through	kidney function tests
+chronic kidney disease	is more common in	individuals with a history of diabetes
+chronic kidney disease	is associated with	increased risk of anxiety
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is linked to	lifestyle factors
+chronic kidney disease	has a higher prevalence in	high-income countries
+chronic kidney disease	is a	global health challenge
+chronic kidney disease	requires	fluid intake management
+chronic kidney disease	can lead to	hyponatremia
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is associated with	increased risk of hospital readmissions
+chronic kidney disease	may require	peritoneal dialysis
+chronic kidney disease	is managed through	specialized care
+chronic kidney disease	can result in	altered taste sensations
+chronic kidney disease	is a	major cause of disability
+chronic kidney disease	is a	major public health problem
+chronic kidney disease	affects	renal function
+chronic kidney disease	is a	lifelong condition
+chronic kidney disease	is associated with	increased risk of cardiovascular disease
+chronic kidney disease	can cause	electrolyte imbalances
+chronic kidney disease	is a	common renal disorder
+chronic kidney disease	is a	leading cause of mortality
+chronic kidney disease	can result in	volume overload
+chronic kidney disease	is diagnosed through	kidney ultrasound
+chronic kidney disease	is more common in	individuals with a history of obesity
+chronic kidney disease	is associated with	increased risk of cognitive impairment
+chronic kidney disease	is a	chronic condition
+chronic kidney disease	can be managed through	physical activity
+chronic kidney disease	is associated with	increased risk of hospitalizations
+chronic kidney disease	is a	lifelong kidney condition
+chronic kidney disease	is a	complex condition
+chronic kidney disease	requires	regular check-ups
+chronic kidney disease	is a	leading cause of morbidity
+chronic kidney disease	can result in	electrolyte abnormalities
+chronic kidney disease	is diagnosed through	kidney function tests
+chronic kidney disease	is more common in	individuals with a history of diabetes
+chronic kidney disease	is associated with	increased risk of anxiety
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is linked to	lifestyle factors
+chronic kidney disease	has a higher prevalence in	high-income countries
+chronic kidney disease	is a	global health challenge
+chronic kidney disease	requires	fluid intake management
+chronic kidney disease	can lead to	hyponatremia
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is associated with	increased risk of hospital readmissions
+chronic kidney disease	may require	peritoneal dialysis
+chronic kidney disease	is managed through	specialized care
+chronic kidney disease	can result in	altered taste sensations
+chronic kidney disease	is a	major cause of disability
+chronic kidney disease	is a	major public health problem
+chronic kidney disease	affects	renal function
+chronic kidney disease	is a	lifelong condition
+chronic kidney disease	is associated with	increased risk of cardiovascular disease
+chronic kidney disease	can cause	electrolyte imbalances
+chronic kidney disease	is a	common renal disorder
+chronic kidney disease	is a	leading cause of mortality
+chronic kidney disease	can result in	volume overload
+chronic kidney disease	is diagnosed through	kidney ultrasound
+chronic kidney disease	is more common in	individuals with a history of obesity
+chronic kidney disease	is associated with	increased risk of cognitive impairment
+chronic kidney disease	is a	chronic condition
+chronic kidney disease	can be managed through	physical activity
+chronic kidney disease	is associated with	increased risk of hospitalizations
+chronic kidney disease	is a	lifelong kidney condition
+chronic kidney disease	is a	complex condition
+chronic kidney disease	requires	regular check-ups
+chronic kidney disease	is a	leading cause of morbidity
+chronic kidney disease	can result in	electrolyte abnormalities
+chronic kidney disease	is diagnosed through	kidney function tests
+chronic kidney disease	is more common in	individuals with a history of diabetes
+chronic kidney disease	is associated with	increased risk of anxiety
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is linked to	lifestyle factors
+chronic kidney disease	has a higher prevalence in	high-income countries
+chronic kidney disease	is a	global health challenge
+chronic kidney disease	requires	fluid intake management
+chronic kidney disease	can lead to	hyponatremia
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is associated with	increased risk of hospital readmissions
+chronic kidney disease	may require	peritoneal dialysis
+chronic kidney disease	is managed through	specialized care
+chronic kidney disease	can result in	altered taste sensations
+chronic kidney disease	is a	major cause of disability
+chronic kidney disease	is a	major public health problem
+chronic kidney disease	affects	renal function
+chronic kidney disease	is a	lifelong condition
+chronic kidney disease	is associated with	increased risk of cardiovascular disease
+chronic kidney disease	can cause	electrolyte imbalances
+chronic kidney disease	is a	common renal disorder
+chronic kidney disease	is a	leading cause of mortality
+chronic kidney disease	can result in	volume overload
+chronic kidney disease	is diagnosed through	kidney ultrasound
+chronic kidney disease	is more common in	individuals with a history of obesity
+chronic kidney disease	is associated with	increased risk of cognitive impairment
+chronic kidney disease	is a	chronic condition
+chronic kidney disease	can be managed through	physical activity
+chronic kidney disease	is associated with	increased risk of hospitalizations
+chronic kidney disease	is a	lifelong kidney condition
+chronic kidney disease	is a	complex condition
+chronic kidney disease	requires	regular check-ups
+chronic kidney disease	is a	leading cause of morbidity
+chronic kidney disease	can result in	electrolyte abnormalities
+chronic kidney disease	is diagnosed through	kidney function tests
+chronic kidney disease	is more common in	individuals with a history of diabetes
+chronic kidney disease	is associated with	increased risk of anxiety
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is linked to	lifestyle factors
+chronic kidney disease	has a higher prevalence in	high-income countries
+chronic kidney disease	is a	global health challenge
+chronic kidney disease	requires	fluid intake management
+chronic kidney disease	can lead to	hyponatremia
+chronic kidney disease	is a	chronic kidney disorder
+chronic kidney disease	is associated with	increased risk of hospital readmissions
+chronic kidney disease	may require	peritoneal dialysis
+chronic kidney disease	is managed through	specialized care
+chronic kidney disease	can result in	altered taste sensations
+chronic kidney disease	is a	major cause of disability
+chronic kidney disease	is a	major public health problem
+chronic kidney disease	affects	renal function
+chronic kidney disease	is a	lifelong condition
+chronic kidney disease	is associated with	increased risk of cardiovascular disease
+chronic kidney disease	can cause	electrolyte imbalances
+chronic kidney disease	is a	common renal disorder
+chronic kidney disease	is a	leading cause of mortality
+chronic kidney disease	can result in	volume overload
+chronic kidney disease	is diagnosed through	kidney ultrasound
+chronic kidney disease	is more common in	individuals with a history of obesity
+chronic kidney disease	is associated with	increased risk of cognitive impairment
+chronic kidney disease	is a	chronic condition
+chronic kidney disease	can be managed through	physical activity

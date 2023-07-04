@@ -1,0 +1,154 @@
+malignant neoplasm without specification of site	is a	cancer
+cancer	can be treated by	chemotherapy
+malignant neoplasm without specification of site	has a	high mortality rate
+mortality rate	can be predicted by	tumor staging
+tumor staging	is determined by	tumor size
+malignant neoplasm without specification of site	can cause	metastasis
+metastasis	can be detected by	imaging tests
+imaging tests	include	CT scan
+CT scan	is an	X-ray procedure
+malignant neoplasm without specification of site	can be prevented by	healthy lifestyle choices
+healthy lifestyle choices	can reduce the risk of	cancer
+malignant neoplasm without specification of site	can require	surgery
+surgery	is performed by	surgeons
+surgeons	specialize in	oncology
+malignant neoplasm without specification of site	can lead to	pain
+pain	can be managed with	analgesics
+analgesics	include	opioids
+malignant neoplasm without specification of site	can result in	weight loss
+weight loss	is a	symptom
+symptom	can be monitored by	regular check-ups
+regular check-ups	are important for	early detection
+malignant neoplasm without specification of site	can be diagnosed by	biopsy
+biopsy	involves	tissue sample collection
+tissue sample collection	is done through	minimally invasive techniques
+malignant neoplasm without specification of site	can lead to	anemia
+anemia	is a	condition
+condition	can be managed with	iron supplements
+iron supplements	can increase	hemoglobin levels
+malignant neoplasm without specification of site	can cause	fatigue
+fatigue	is a	symptom
+symptom	can be alleviated by	rest
+malignant neoplasm without specification of site	is diagnosed using	cancer screening tests
+cancer screening tests	include	mammography
+mammography	is used for	breast cancer screening
+malignant neoplasm without specification of site	can be hereditary
+hereditary	means	passed down from parents
+malignant neoplasm without specification of site	can require	radiation therapy
+radiation therapy	uses	high-energy rays
+high-energy rays	target	cancer cells
+malignant neoplasm without specification of site	can be managed with	targeted therapy
+targeted therapy	involves	specific drugs
+malignant neoplasm without specification of site	can be treated with	immunotherapy
+immunotherapy	uses	immune system to fight cancer
+malignant neoplasm without specification of site	can be detected through	blood tests
+blood tests	measure	tumor markers
+malignant neoplasm without specification of site	can be influenced by	genetic factors
+genetic factors	can increase the risk of	cancer
+malignant neoplasm without specification of site	can require	palliative care
+palliative care	focuses on	symptom management
+malignant neoplasm without specification of site	can be classified as	carcinoma
+carcinoma	is a	type of cancer
+malignant neoplasm without specification of site	can affect	multiple organs
+multiple organs	can be impacted by	cancer spread
+malignant neoplasm without specification of site	is associated with	genetic mutations
+genetic mutations	can result in	uncontrolled cell growth
+malignant neoplasm without specification of site	can be affected by	environmental factors
+environmental factors	include	exposure to carcinogens
+malignant neoplasm without specification of site	can be detected by	abnormal tissue growth
+abnormal tissue growth	can be observed through	physical examination
+malignant neoplasm without specification of site	can lead to	lymph node involvement
+lymph node involvement	indicates	spread of cancer
+malignant neoplasm without specification of site	can be associated with	weight gain
+weight gain	can be a	side effect of treatment
+malignant neoplasm without specification of site	can be managed with	supportive care
+supportive care	focuses on	improving quality of life
+malignant neoplasm without specification of site	can be diagnosed at	advanced stages
+advanced stages	may require	more aggressive treatment
+malignant neoplasm without specification of site	can result in	hair loss
+hair loss	is a	side effect of chemotherapy
+malignant neoplasm without specification of site	can cause	immune suppression
+immune suppression	increases the risk of	infections
+malignant neoplasm without specification of site	can be influenced by	lifestyle factors
+lifestyle factors	include	diet and exercise
+malignant neoplasm without specification of site	can require	hormone therapy
+hormone therapy	targets	hormone receptors
+malignant neoplasm without specification of site	can be associated with	family history of cancer
+family history of cancer	is a	risk factor
+malignant neoplasm without specification of site	can be managed with	supportive medications
+supportive medications	help with	symptom relief
+malignant neoplasm without specification of site	can be affected by	age
+age	is a	risk factor for cancer
+malignant neoplasm without specification of site	can lead to	organ dysfunction
+organ dysfunction	can be caused by	tumor growth
+malignant neoplasm without specification of site	can cause	psychological distress
+psychological distress	can be addressed through	counseling
+malignant neoplasm without specification of site	can be prevented by	avoiding exposure to known carcinogens
+avoiding exposure to known carcinogens	reduces the risk of	cancer
+malignant neoplasm without specification of site	can be associated with	pain medication dependence
+pain medication dependence	can result from	long-term opioid use
+malignant neoplasm without specification of site	can lead to	loss of appetite
+loss of appetite	is a	common symptom
+malignant neoplasm without specification of site	can be caused by	genetic abnormalities
+genetic abnormalities	increase the risk of	cancer
+malignant neoplasm without specification of site	can require	follow-up appointments
+follow-up appointments	are important for	monitoring treatment response
+malignant neoplasm without specification of site	can be associated with	neuropathy
+neuropathy	is a	nerve damage
+malignant neoplasm without specification of site	can be influenced by	socioeconomic factors
+socioeconomic factors	affect	access to healthcare
+malignant neoplasm without specification of site	can be associated with	inflammation
+inflammation	is a	response to tissue damage
+malignant neoplasm without specification of site	can be treated with	radiation therapy
+radiation therapy	uses	high-energy beams
+malignant neoplasm without specification of site	can cause	respiratory symptoms
+respiratory symptoms	include	coughing and shortness of breath
+malignant neoplasm without specification of site	can be influenced by	hormonal changes
+hormonal changes	can affect	cancer growth
+malignant neoplasm without specification of site	can require	palliative radiation therapy
+palliative radiation therapy	focuses on	symptom relief
+malignant neoplasm without specification of site	can be associated with	anemia
+anemia	can be caused by	blood loss
+malignant neoplasm without specification of site	can involve	lymph nodes
+lymph nodes	are part of	the immune system
+malignant neoplasm without specification of site	can require	supportive measures
+supportive measures	aim to	improve quality of life
+malignant neoplasm without specification of site	can be associated with	depression
+depression	can be a	psychological complication
+malignant neoplasm without specification of site	can be diagnosed through	imaging tests
+imaging tests	can include	PET scan
+PET scan	is used for	cancer staging
+malignant neoplasm without specification of site	can cause	cachexia
+cachexia	is a	severe weight loss
+malignant neoplasm without specification of site	can be affected by	emotional well-being
+emotional well-being	can impact	treatment adherence
+malignant neoplasm without specification of site	can require	supportive therapy
+supportive therapy	focuses on	symptom management
+malignant neoplasm without specification of site	can lead to	chronic pain
+chronic pain	is a	long-lasting symptom
+malignant neoplasm without specification of site	can be associated with	thrombocytopenia
+thrombocytopenia	is a	low platelet count
+malignant neoplasm without specification of site	can be detected by	abnormal blood tests
+abnormal blood tests	may indicate	cancer presence
+malignant neoplasm without specification of site	can be influenced by	alcohol consumption
+alcohol consumption	is a	risk factor
+malignant neoplasm without specification of site	can result in	compromised immune system
+compromised immune system	is susceptible to	infections
+malignant neoplasm without specification of site	can require	genetic testing
+genetic testing	identifies	inherited cancer genes
+malignant neoplasm without specification of site	can be managed with	pain medications
+pain medications	provide	relief
+malignant neoplasm without specification of site	can be associated with	lymphedema
+lymphedema	is a	swelling
+malignant neoplasm without specification of site	can be detected by	abnormal growth patterns
+abnormal growth patterns	can be seen through	imaging scans
+malignant neoplasm without specification of site	can cause	cognitive impairment
+cognitive impairment	can be a	side effect
+malignant neoplasm without specification of site	can be influenced by	racial disparities
+racial disparities	affect	healthcare access
+malignant neoplasm without specification of site	can require	nutritional support
+nutritional support	ensures	adequate intake
+malignant neoplasm without specification of site	can be associated with	elevated tumor markers
+elevated tumor markers	indicate	cancer presence
+malignant neoplasm without specification of site	can affect	quality of life
+quality of life	can be improved by	supportive care measures

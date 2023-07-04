@@ -1,0 +1,243 @@
+fracture of lower limb	is a type of	bone injury
+fracture of lower limb	can occur in	femur
+x-ray	is used to diagnose	fracture of lower limb
+fracture of lower limb	may require	surgery
+casting	is a treatment for	fracture of lower limb
+physical therapy	is recommended after	fracture of lower limb
+fracture of lower limb	can lead to	chronic pain
+fracture of lower limb	increases the risk of	blood clots
+fracture of lower limb	can affect	mobility
+fracture of lower limb	is more common in	elderly population
+fracture of lower limb	is associated with	osteoporosis
+fracture of lower limb	can cause	deformity
+fracture of lower limb	is classified based on	the type of bone involved
+fracture of lower limb	may require	physical rehabilitation
+fracture of lower limb	is a risk factor for	pressure ulcers
+fracture of lower limb	can lead to	muscle weakness
+fracture of lower limb	is often caused by	trauma
+fracture of lower limb	can result in	restricted movement
+fracture of lower limb	is more common in	athletes
+fracture of lower limb	can be treated with	pain medication
+fracture of lower limb	can be prevented by	fall prevention strategies
+fracture of lower limb	can affect	quality of life
+fracture of lower limb	requires	immobilization
+fracture of lower limb	increases the risk of	infection
+fracture of lower limb	can cause	nerve damage
+fracture of lower limb	is a common	orthopedic injury
+fracture of lower limb	is more common in	males
+fracture of lower limb	can result in	limb-length discrepancy
+fracture of lower limb	can lead to	joint stiffness
+fracture of lower limb	is associated with	impaired balance
+fracture of lower limb	can cause	swelling
+fracture of lower limb	may require	surgical hardware
+fracture of lower limb	can be managed with	physical therapy
+fracture of lower limb	is a risk factor for	deep vein thrombosis
+fracture of lower limb	can be diagnosed with	MRI
+fracture of lower limb	is more common in	children
+fracture of lower limb	can result in	muscle atrophy
+fracture of lower limb	can cause	compartment syndrome
+fracture of lower limb	is associated with	immobility
+fracture of lower limb	can lead to	post-traumatic arthritis
+fracture of lower limb	is a common	sports injury
+fracture of lower limb	can be managed with	physical rehabilitation
+fracture of lower limb	increases the risk of	delayed union
+fracture of lower limb	can cause	impaired sensation
+fracture of lower limb	requires	immobilization period
+fracture of lower limb	is associated with	osteoarthritis
+fracture of lower limb	can result in	nonunion
+fracture of lower limb	can be diagnosed with	CT scan
+fracture of lower limb	is more common in	individuals with weakened bones
+fracture of lower limb	can lead to	muscle contracture
+fracture of lower limb	is associated with	nerve impingement
+fracture of lower limb	can cause	depression
+fracture of lower limb	may require	assisted devices for mobility
+fracture of lower limb	can be managed with	pain management techniques
+fracture of lower limb	increases the risk of	malunion
+fracture of lower limb	can result in	gait abnormalities
+fracture of lower limb	can cause	chronic swelling
+fracture of lower limb	is associated with	dislocation
+fracture of lower limb	can lead to	impaired circulation
+fracture of lower limb	is more common in	individuals with vitamin D deficiency
+fracture of lower limb	can result in	limb shortening
+fracture of lower limb	can cause	post-traumatic stress disorder
+fracture of lower limb	requires	surgical intervention
+fracture of lower limb	increases the risk of	osteomyelitis
+fracture of lower limb	can be diagnosed with	physical examination
+fracture of lower limb	is more common in	individuals with osteoporosis
+fracture of lower limb	can lead to	joint instability
+fracture of lower limb	is associated with	ligament tears
+fracture of lower limb	can cause	muscle spasms
+fracture of lower limb	may require	traction
+fracture of lower limb	can be managed with	assistive devices
+fracture of lower limb	increases the risk of	secondary fracture
+fracture of lower limb	can result in	post-fracture syndrome
+fracture of lower limb	can cause	fat embolism
+fracture of lower limb	is associated with	open fracture
+fracture of lower limb	can lead to	joint degeneration
+fracture of lower limb	is more common in	individuals with osteomalacia
+fracture of lower limb	can result in	nerve compression
+fracture of lower limb	can cause	hematoma
+fracture of lower limb	may require	arthroplasty
+fracture of lower limb	can be managed with	bracing
+fracture of lower limb	increases the risk of	nonunion
+fracture of lower limb	can lead to	disability
+fracture of lower limb	is associated with	ligament instability
+fracture of lower limb	can cause	joint dislocation
+fracture of lower limb	requires	reduction
+fracture of lower limb	increases the risk of	delayed healing
+fracture of lower limb	can be diagnosed with	ultrasound
+fracture of lower limb	is more common in	individuals with osteopenia
+fracture of lower limb	can result in	avascular necrosis
+fracture of lower limb	can cause	skin breakdown
+fracture of lower limb	may require	external fixation
+fracture of lower limb	can be managed with	activity modification
+fracture of lower limb	increases the risk of	septic arthritis
+fracture of lower limb	can lead to	joint stiffness
+fracture of lower limb	is associated with	soft tissue injury
+fracture of lower limb	can cause	muscle weakness
+fracture of lower limb	requires	immobilization period
+fracture of lower limb	increases the risk of	compartment syndrome
+fracture of lower limb	can result in	decreased range of motion
+fracture of lower limb	can be diagnosed with	bone scan
+fracture of lower limb	is more common in	individuals with calcium deficiency
+fracture of lower limb	can lead to	chronic pain
+fracture of lower limb	is associated with	stress fractures
+fracture of lower limb	can cause	nerve damage
+fracture of lower limb	may require	surgical hardware placement
+fracture of lower limb	can be managed with	rehabilitation program
+fracture of lower limb	increases the risk of	nonunions
+fracture of lower limb	can result in	deformity
+fracture of lower limb	can cause	muscle atrophy
+fracture of lower limb	is associated with	avulsion fractures
+fracture of lower limb	can lead to	post-traumatic arthritis
+fracture of lower limb	is more common in	individuals with vitamin D deficiency
+fracture of lower limb	can result in	nerve impingement
+fracture of lower limb	can cause	depression
+fracture of lower limb	may require	mobility aids
+fracture of lower limb	can be managed with	physical therapy
+fracture of lower limb	increases the risk of	malunions
+fracture of lower limb	can lead to	impaired gait
+fracture of lower limb	is associated with	osteomyelitis
+fracture of lower limb	can cause	post-fracture pain
+fracture of lower limb	requires	surgical intervention
+fracture of lower limb	increases the risk of	deep vein thrombosis
+fracture of lower limb	can be diagnosed with	imaging tests
+fracture of lower limb	is more common in	individuals with osteoporosis
+fracture of lower limb	can lead to	joint instability
+fracture of lower limb	is associated with	ligament tears
+fracture of lower limb	can cause	muscle spasms
+fracture of lower limb	may require	traction therapy
+fracture of lower limb	can be managed with	assistive devices
+fracture of lower limb	increases the risk of	secondary fractures
+fracture of lower limb	can result in	chronic pain
+fracture of lower limb	can cause	limb deformity
+fracture of lower limb	is associated with	impaired mobility
+fracture of lower limb	can lead to	joint degeneration
+fracture of lower limb	is more common in	individuals with osteomalacia
+fracture of lower limb	can result in	nerve compression
+fracture of lower limb	can cause	hematoma
+fracture of lower limb	may require	joint replacement surgery
+fracture of lower limb	can be managed with	braces
+fracture of lower limb	increases the risk of	delayed healing
+fracture of lower limb	can be diagnosed with	ultrasound imaging
+fracture of lower limb	is more common in	individuals with osteopenia
+fracture of lower limb	can lead to	avascular necrosis
+fracture of lower limb	can cause	skin breakdown
+fracture of lower limb	requires	external fixation
+fracture of lower limb	increases the risk of	septic arthritis
+fracture of lower limb	can result in	joint stiffness
+fracture of lower limb	can cause	muscle weakness
+fracture of lower limb	requires	immobilization period
+fracture of lower limb	increases the risk of	compartment syndrome
+fracture of lower limb	can lead to	decreased range of motion
+fracture of lower limb	is associated with	stress fractures
+fracture of lower limb	can cause	nerve damage
+fracture of lower limb	may require	surgery to stabilize
+fracture of lower limb	can be managed with	rehabilitation exercises
+fracture of lower limb	increases the risk of	nonunions
+fracture of lower limb	can result in	limb deformity
+fracture of lower limb	can cause	muscle wasting
+fracture of lower limb	is associated with	avulsion fractures
+fracture of lower limb	can lead to	post-fracture arthritis
+fracture of lower limb	is more common in	individuals with vitamin D deficiency
+fracture of lower limb	can result in	nerve compression
+fracture of lower limb	can cause	emotional distress
+fracture of lower limb	may require	use of walking aids
+fracture of lower limb	can be managed with	physiotherapy
+fracture of lower limb	increases the risk of	malunions
+fracture of lower limb	can lead to	impaired walking
+fracture of lower limb	is associated with	osteomyelitis
+fracture of lower limb	can cause	chronic post-fracture pain
+fracture of lower limb	requires	surgical intervention
+fracture of lower limb	increases the risk of	blood clots
+fracture of lower limb	can be diagnosed with	radiographic imaging
+fracture of lower limb	is more common in	individuals with osteoporosis
+fracture of lower limb	can lead to	joint instability
+fracture of lower limb	is associated with	ligament tears
+fracture of lower limb	can cause	muscle spasms
+fracture of lower limb	may require	orthotic devices
+fracture of lower limb	can be managed with	adaptive equipment
+fracture of lower limb	increases the risk of	secondary fractures
+fracture of lower limb	can result in	persistent pain
+fracture of lower limb	can cause	limb deformity
+fracture of lower limb	is associated with	impaired mobility
+fracture of lower limb	can lead to	joint degeneration
+fracture of lower limb	is more common in	individuals with osteomalacia
+fracture of lower limb	can result in	nerve impingement
+fracture of lower limb	can cause	hematoma
+fracture of lower limb	may require	joint replacement
+fracture of lower limb	can be managed with	immobilization
+fracture of lower limb	increases the risk of	septic arthritis
+fracture of lower limb	can result in	restricted joint movement
+fracture of lower limb	can cause	muscle weakness
+fracture of lower limb	is associated with	prolonged immobilization
+fracture of lower limb	requires	immobilization
+fracture of lower limb	increases the risk of	compartment syndrome
+fracture of lower limb	can lead to	decreased mobility
+fracture of lower limb	is associated with	stress fractures
+fracture of lower limb	can cause	nerve damage
+fracture of lower limb	may require	surgical reconstruction
+fracture of lower limb	can be managed with	rehabilitation program
+fracture of lower limb	increases the risk of	delayed union
+fracture of lower limb	can result in	deformity
+fracture of lower limb	can cause	muscle atrophy
+fracture of lower limb	is associated with	avulsion fractures
+fracture of lower limb	can lead to	post-fracture arthritis
+fracture of lower limb	is more common in	individuals with vitamin D deficiency
+fracture of lower limb	can result in	nerve compression
+fracture of lower limb	can cause	emotional distress
+fracture of lower limb	may require	use of assistive devices
+fracture of lower limb	can be managed with	physical therapy
+fracture of lower limb	increases the risk of	malunion
+fracture of lower limb	can lead to	impaired mobility
+fracture of lower limb	is associated with	osteomyelitis
+fracture of lower limb	can cause	chronic pain
+fracture of lower limb	requires	surgical intervention
+fracture of lower limb	increases the risk of	blood clots
+fracture of lower limb	can be diagnosed with	imaging tests
+fracture of lower limb	is more common in	individuals with osteoporosis
+fracture of lower limb	can lead to	joint instability
+fracture of lower limb	is associated with	ligament tears
+fracture of lower limb	can cause	muscle spasms
+fracture of lower limb	may require	orthopedic consultations
+fracture of lower limb	can be managed with	specialized equipment
+fracture of lower limb	increases the risk of	delayed healing
+fracture of lower limb	can result in	impaired walking
+fracture of lower limb	can cause	limb deformity
+fracture of lower limb	is associated with	impaired mobility
+fracture of lower limb	can lead to	joint degeneration
+fracture of lower limb	is more common in	individuals with osteomalacia
+fracture of lower limb	can result in	nerve impingement
+fracture of lower limb	can cause	hematoma
+fracture of lower limb	may require	surgical reconstruction
+fracture of lower limb	can be managed with	rehabilitation exercises
+fracture of lower limb	increases the risk of	nonunion
+fracture of lower limb	can result in	muscle atrophy
+fracture of lower limb	is associated with	avulsion fractures
+fracture of lower limb	can lead to	post-fracture arthritis
+fracture of lower limb	is more common in	individuals with vitamin D deficiency
+fracture of lower limb	can result in	nerve compression
+fracture of lower limb	can cause	emotional distress
+fracture of lower limb	may require	use of mobility aids
+fracture of lower limb	can be managed with	physical rehabilitation
+fracture of lower limb	increases the risk of	malunion

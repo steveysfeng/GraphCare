@@ -1,0 +1,133 @@
+fever of unknown origin	may be caused by	infection
+fever of unknown origin	can be a symptom of	malignancy
+fever of unknown origin	can be a sign of	autoimmune disease
+fever of unknown origin	may be indicative of	tuberculosis
+fever of unknown origin	is often associated with	elevated white blood cell count
+fever of unknown origin	can be a result of	drug reaction
+fever of unknown origin	is commonly seen in	systemic inflammatory response syndrome
+fever of unknown origin	can be attributed to	sepsis
+fever of unknown origin	may be due to	connective tissue diseases
+fever of unknown origin	can be caused by	abscess
+fever of unknown origin	can be a symptom of	HIV infection
+fever of unknown origin	can be a sign of	lymphoma
+fever of unknown origin	can occur in patients with	endocarditis
+fever of unknown origin	may be a result of	drug-induced fever
+fever of unknown origin	can be linked to	viral infections
+fever of unknown origin	can be caused by	urinary tract infection
+fever of unknown origin	can be a symptom of	infective endocarditis
+fever of unknown origin	may be a sign of	abscess pathology
+fever of unknown origin	can be associated with	granulomatous diseases
+fever of unknown origin	can be indicative of	hematological malignancies
+fever of unknown origin	can be a result of	drug hypersensitivity
+fever of unknown origin	is often seen in	children with bacterial infections
+fever of unknown origin	can be caused by	fungal infections
+fever of unknown origin	can be a symptom of	autoimmune hepatitis
+fever of unknown origin	may be a sign of	vasculitis
+fever of unknown origin	can be attributed to	abscess of unknown origin
+fever of unknown origin	may be due to	systemic lupus erythematosus
+fever of unknown origin	can be caused by	myasthenia gravis
+fever of unknown origin	can be a symptom of	Kawasaki disease
+fever of unknown origin	can be a sign of	Still's disease
+fever of unknown origin	can occur in patients with	pyelonephritis
+fever of unknown origin	may be a result of	reactive arthritis
+fever of unknown origin	can be linked to	tuberculosis infection
+fever of unknown origin	can be caused by	amoebic liver abscess
+fever of unknown origin	can be a symptom of	parasitic infection
+fever of unknown origin	may be a sign of	Whipple's disease
+fever of unknown origin	can be associated with	infective endocarditis
+fever of unknown origin	can be indicative of	sarcoidosis
+fever of unknown origin	can be a result of	drug-induced hypersensitivity
+fever of unknown origin	is often seen in	elderly patients with underlying malignancies
+fever of unknown origin	can be caused by	typhoid fever
+fever of unknown origin	can be a symptom of	cytomegalovirus infection
+fever of unknown origin	can be a sign of	reactive arthritis
+fever of unknown origin	can occur in patients with	Q fever
+fever of unknown origin	may be a result of	autoimmune thyroiditis
+fever of unknown origin	can be linked to	brucellosis infection
+fever of unknown origin	can be caused by	Staphylococcus aureus bacteremia
+fever of unknown origin	can be a symptom of	histoplasmosis
+fever of unknown origin	may be a sign of	familial Mediterranean fever
+fever of unknown origin	can be attributed to	Legionnaires' disease
+fever of unknown origin	can be indicative of	human granulocytic anaplasmosis
+fever of unknown origin	can be a result of	drug-induced hepatotoxicity
+fever of unknown origin	is often seen in	patients with connective tissue diseases
+fever of unknown origin	can be caused by	Epstein-Barr virus infection
+fever of unknown origin	can be a symptom of	leptospirosis
+fever of unknown origin	can be a sign of	tularemia
+fever of unknown origin	can occur in patients with	pneumonia
+fever of unknown origin	may be a result of	drug-induced rash
+fever of unknown origin	can be linked to	malignancy
+fever of unknown origin	can be caused by	malaria
+fever of unknown origin	can be a symptom of	cat-scratch disease
+fever of unknown origin	may be a sign of	Behcet's disease
+fever of unknown origin	can be attributed to	systemic lupus erythematosus
+fever of unknown origin	can be indicative of	sweet syndrome
+fever of unknown origin	can be a result of	drug-induced cytopenia
+fever of unknown origin	is often seen in	patients with granulomatous diseases
+fever of unknown origin	can be caused by	urinary tract stone
+fever of unknown origin	can be a symptom of	acute HIV infection
+fever of unknown origin	can be a sign of	pericarditis
+fever of unknown origin	can occur in patients with	infective endocarditis
+fever of unknown origin	may be a result of	drug-induced liver injury
+fever of unknown origin	can be linked to	human immunodeficiency virus
+fever of unknown origin	can be caused by	Klebsiella pneumoniae infections
+fever of unknown origin	can be a symptom of	Babesiosis
+fever of unknown origin	may be a sign of	relapsing polychondritis
+fever of unknown origin	can be attributed to	Q fever
+fever of unknown origin	can be indicative of	infectious mononucleosis
+fever of unknown origin	can be a result of	drug allergy
+fever of unknown origin	is often seen in	patients with Hodgkin's lymphoma
+fever of unknown origin	can be caused by	lobar pneumonia
+fever of unknown origin	can be a symptom of	brucellosis
+fever of unknown origin	can be a sign of	cat-scratch disease
+fever of unknown origin	can occur in patients with	bacterial endocarditis
+fever of unknown origin	may be a result of	drug-induced fever of unknown origin
+fever of unknown origin	can be linked to	systemic vasculitis
+fever of unknown origin	can be caused by	primary biliary cirrhosis
+fever of unknown origin	can be a symptom of	typhoid fever
+fever of unknown origin	can be a sign of	infective endocarditis
+fever of unknown origin	can occur in patients with	collagen vascular diseases
+fever of unknown origin	may be a result of	drug-induced hypersensitivity syndrome
+fever of unknown origin	can be linked to	Staphylococcus aureus infection
+fever of unknown origin	can be attributed to	pneumococcal pneumonia
+fever of unknown origin	can be indicative of	hepatitis
+fever of unknown origin	can be a result of	drug-induced liver disease
+fever of unknown origin	is often seen in	patients with tuberculosis
+fever of unknown origin	can be caused by	viral hepatitis
+fever of unknown origin	can be a symptom of	dengue fever
+fever of unknown origin	may be a sign of	disseminated gonorrhea
+fever of unknown origin	can be a result of	drug-induced hypersensitivity reaction
+fever of unknown origin	can be linked to	pneumonia
+fever of unknown origin	can be caused by	nontyphoidal salmonella infection
+fever of unknown origin	can be a symptom of	infective endocarditis
+fever of unknown origin	can be a sign of	paraneoplastic syndrome
+fever of unknown origin	can occur in patients with	salmonella infection
+fever of unknown origin	may be a result of	drug fever
+fever of unknown origin	can be linked to	Rathke's cleft cyst
+fever of unknown origin	can be attributed to	sarcoidosis
+fever of unknown origin	can be indicative of	infectious mononucleosis
+fever of unknown origin	can be a result of	drug-induced hepatitis
+fever of unknown origin	is often seen in	patients with Hodgkin's disease
+fever of unknown origin	can be caused by	Epstein-Barr virus infection
+fever of unknown origin	can be a symptom of	leptospirosis
+fever of unknown origin	can be a sign of	tropical diseases
+fever of unknown origin	can occur in patients with	pulmonary tuberculosis
+fever of unknown origin	may be a result of	drug hypersensitivity reaction
+fever of unknown origin	can be linked to	non-tuberculous mycobacterial infection
+fever of unknown origin	can be caused by	methicillin-resistant Staphylococcus aureus infection
+fever of unknown origin	can be a symptom of	histiocytosis
+fever of unknown origin	may be a sign of	sinusitis
+fever of unknown origin	can be attributed to	recurrent fever
+fever of unknown origin	can be indicative of	infective endocarditis
+fever of unknown origin	can be a result of	drug-induced rash
+fever of unknown origin	is often seen in	patients with solid organ tumors
+fever of unknown origin	can be caused by	Staphylococcus aureus infection
+fever of unknown origin	can be a symptom of	tularemia
+fever of unknown origin	can be a sign of	chronic infection
+fever of unknown origin	can occur in patients with	helminthic infection
+fever of unknown origin	may be a result of	drug-induced fever of unknown origin
+fever of unknown origin	can be linked to	tuberculosis
+fever of unknown origin	can be attributed to	systemic vasculitis
+fever of unknown origin	can be indicative of	adult-onset Still's disease
+fever of unknown origin	can be a result of	drug-induced neutropenia
+fever of unknown origin	is often seen in	patients with lymphoma

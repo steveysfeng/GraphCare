@@ -1,0 +1,22 @@
+multiple myeloma	is a	cancer
+multiple myeloma	affects	plasma cells
+plasma cells	produce	antibodies
+multiple myeloma	can cause	bone lesions
+multiple myeloma	is treated with	chemotherapy
+lenalidomide	is a	chemotherapy drug
+lenalidomide	can cause	blood clots
+thalidomide	is another	chemotherapy drug
+thalidomide	can cause	birth defects
+bortezomib	is a	chemotherapy drug
+bortezomib	inhibits	proteasomes
+multiple myeloma	can lead to	renal failure
+renal failure	requires	dialysis
+multiple myeloma	can result in	anemia
+anemia	is a	low red blood cell count
+multiple myeloma	can cause	hypercalcemia
+hypercalcemia	is an	elevated calcium level
+multiple myeloma	increases the risk of	infections
+multiple myeloma	can lead to	spinal cord compression
+spinal cord compression	requires	radiation therapy
+multiple myeloma	can cause	peripheral neuropathy
+peripheral neuropathy	causes	numbness and tingling

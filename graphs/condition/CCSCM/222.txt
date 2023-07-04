@@ -1,0 +1,96 @@
+hemolytic jaundice	is a type of	jaundice
+perinatal jaundice	is a type of	jaundice
+jaundice	can be caused by	liver disease
+jaundice	can lead to	liver failure
+liver disease	can be diagnosed through	blood tests
+liver failure	is often treated with	liver transplantation
+blood tests	can detect	liver enzymes
+liver transplantation	is a treatment for	liver failure
+liver enzymes	can be elevated in	liver disease
+liver transplantation	is a	surgical procedure
+surgical procedure	can have complications such as	infection
+infection	can be caused by	bacteria
+bacteria	can be treated with	antibiotics
+antibiotics	can have side effects such as	diarrhea
+diarrhea	can lead to	dehydration
+dehydration	can be treated with	intravenous fluids
+intravenous fluids	are administered through	a needle
+a needle	is used to	draw blood
+draw blood	is a procedure to	collect samples
+collect samples	are used for	laboratory testing
+laboratory testing	can provide information about	liver function
+liver function	can be affected by	jaundice
+liver function	can be measured by	liver function tests
+liver function tests	can include	bilirubin levels
+bilirubin levels	can indicate	jaundice
+liver disease	can lead to	cirrhosis
+cirrhosis	is a condition of	liver scarring
+liver scarring	can cause	liver dysfunction
+liver dysfunction	can result in	impaired metabolism
+impaired metabolism	can affect	drug clearance
+drug clearance	can impact	medication dosing
+medication dosing	should be adjusted in	liver disease
+liver disease	can increase the risk of	hepatocellular carcinoma
+hepatocellular carcinoma	is a type of	liver cancer
+liver cancer	can be detected through	imaging tests
+imaging tests	can include	ultrasound
+ultrasound	can visualize	liver abnormalities
+liver abnormalities	may be indicative of	liver disease
+liver disease	can lead to	hepatic encephalopathy
+hepatic encephalopathy	can cause	confusion
+confusion	may require	hospitalization
+hospitalization	can lead to	increased healthcare costs
+increased healthcare costs	can be a burden for	patients
+patients	may require	financial assistance
+financial assistance	can be provided by	social services
+social services	can help with	healthcare access
+healthcare access	is important for	early intervention
+early intervention	can improve	patient outcomes
+patient outcomes	can be measured by	mortality rates
+mortality rates	can be used for	healthcare prediction
+jaundice	can cause	anemia
+anemia	can result in	fatigue
+fatigue	can be managed with	rest
+rest	is essential for	recovery from illness
+recovery from illness	can be facilitated by	proper nutrition
+proper nutrition	can be achieved through	a balanced diet
+a balanced diet	should include	fruits and vegetables
+fruits and vegetables	can provide	antioxidants
+antioxidants	can help with	reducing oxidative stress
+reducing oxidative stress	can benefit	liver health
+liver health	can be supported by	lifestyle modifications
+lifestyle modifications	can include	exercise
+exercise	can improve	cardiovascular health
+cardiovascular health	is important for	overall wellbeing
+overall wellbeing	can be affected by	liver disease
+liver disease	can impact	quality of life
+quality of life	can be improved with	appropriate medical care
+appropriate medical care	should be provided by	healthcare professionals
+healthcare professionals	can include	doctors and nurses
+doctors and nurses	play a crucial role in	patient care
+patient care	should be tailored to	individual needs
+individual needs	can vary depending on	disease severity
+disease severity	can be assessed through	clinical evaluations
+clinical evaluations	can involve	physical examinations
+physical examinations	can include	palpation
+palpation	can detect	liver tenderness
+liver tenderness	may indicate	liver inflammation
+liver inflammation	can be seen in	hepatitis
+hepatitis	can be caused by	viral infection
+viral infection	can be prevented through	vaccination
+vaccination	is recommended for	at-risk individuals
+at-risk individuals	may include	healthcare workers
+healthcare workers	should follow	infection control measures
+infection control measures	can decrease the risk of	disease transmission
+disease transmission	can occur through	contact with bodily fluids
+contact with bodily fluids	can be minimized by	practicing good hygiene
+practicing good hygiene	includes	handwashing
+handwashing	should be done with	soap and water
+soap and water	can effectively	remove germs
+germs	can cause	infections
+infections	can worsen	liver disease
+liver disease	can be managed with	medication
+medication	should be taken as	prescribed
+prescribed medication	can interact with	other medications
+other medications	should be disclosed to	healthcare professionals
+healthcare professionals	can provide	medication counseling

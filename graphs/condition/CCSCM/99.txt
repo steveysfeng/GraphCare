@@ -1,0 +1,99 @@
+hypertension	is a	medical condition
+complications	can result from	hypertension
+secondary hypertension	is a type of	hypertension
+hypertension	can lead to	heart attack
+hypertension	can cause	stroke
+hypertension	is treated with	antihypertensive drugs
+angiotensin-converting enzyme inhibitors	are a type of	antihypertensive drug
+diuretics	are a type of	antihypertensive drug
+hypertension	can lead to	renal failure
+hypertension	can cause	cognitive decline
+hypertension	can result in	vision problems
+hypertension	is associated with	obesity
+hypertension	can be managed through	lifestyle changes
+hypertension	is diagnosed through	blood pressure measurement
+hypertension	is a risk factor for	cardiovascular diseases
+hypertension	can be controlled through	dietary modifications
+hormonal imbalance	can cause	secondary hypertension
+renal artery stenosis	is a cause of	secondary hypertension
+primary aldosteronism	is a cause of	secondary hypertension
+hypertension	is linked to	sleep apnea
+hypertension	is a risk factor for	diabetes
+hypertension	can lead to	aneurysms
+beta blockers	are a type of	antihypertensive drug
+calcium channel blockers	are a type of	antihypertensive drug
+hypertension	can result in	erectile dysfunction
+hypertension	can increase the risk of	dementia
+hypertension	can cause	peripheral artery disease
+hypertension	is a risk factor for	chronic kidney disease
+hypertension	can cause	heart failure
+hypertension	is associated with	high cholesterol levels
+hypertension	can lead to	hypertensive retinopathy
+hypertension	can cause	hypertensive emergencies
+hypertension	can result in	preeclampsia during pregnancy
+hypertension	is a risk factor for	metabolic syndrome
+hypertension	is associated with	smoking
+hypertension	is a risk factor for	atrial fibrillation
+hypertension	can lead to	aortic dissection
+hypertension	can cause	pulmonary arterial hypertension
+hypertension	can result in	left ventricular hypertrophy
+hypertension	is associated with	stress
+hypertension	can cause	kidney damage
+hypertension	is linked to	alcohol consumption
+hypertension	can lead to	coronary artery disease
+hypertension	is associated with	family history of high blood pressure
+hypertension	can result in	peripheral neuropathy
+hypertension	can cause	angina
+hypertension	is a risk factor for	stroke
+hypertension	can lead to	heart rhythm disorders
+hypertension	is associated with	sedentary lifestyle
+hypertension	can result in	glaucoma
+hypertension	is associated with	aging
+hypertension	can cause	myocardial infarction
+hypertension	is linked to	excessive salt intake
+hypertension	is a risk factor for	renal insufficiency
+hypertension	can lead to	vascular dementia
+hypertension	can cause	arterial stiffness
+hypertension	is associated with	insulin resistance
+hypertension	is a risk factor for	retinopathy
+hypertension	can result in	aortic aneurysms
+hypertension	can cause	mitral valve regurgitation
+hypertension	is linked to	poor sleep quality
+hypertension	is a risk factor for	peripheral vascular disease
+hypertension	can lead to	chronic heart failure
+hypertension	can cause	intracerebral hemorrhage
+hypertension	is associated with	high triglyceride levels
+hypertension	is a risk factor for	left ventricular dysfunction
+hypertension	can result in	carotid artery stenosis
+hypertension	can cause	aortic valve stenosis
+hypertension	is linked to	excessive caffeine consumption
+hypertension	is a risk factor for	myocardial ischemia
+hypertension	can lead to	renal artery thrombosis
+hypertension	can cause	aortic regurgitation
+hypertension	is associated with	depression
+hypertension	is a risk factor for	coronary artery calcification
+hypertension	can result in	cerebrovascular disease
+hypertension	can cause	ventricular hypertrophy
+hypertension	is linked to	poor diet
+hypertension	is a risk factor for	cognitive impairment
+hypertension	can lead to	congestive heart failure
+hypertension	can cause	hypertensive encephalopathy
+hypertension	is associated with	hormonal disorders
+hypertension	is a risk factor for	hypertrophic cardiomyopathy
+hypertension	can result in	intracranial hemorrhage
+hypertension	can cause	chronic kidney disease
+hypertension	is linked to	sedentary lifestyle
+hypertension	is a risk factor for	peripheral neuropathy
+hypertension	can lead to	coronary artery bypass graft
+hypertension	can cause	cerebrovascular accidents
+hypertension	is associated with	social stress
+hypertension	is a risk factor for	aortic dissection
+hypertension	can result in	glomerulosclerosis
+hypertension	can cause	diastolic dysfunction
+hypertension	is linked to	poor sleep quality
+hypertension	is a risk factor for	peripheral vascular disease
+hypertension	can lead to	myocardial infarction
+hypertension	can cause	hemorrhagic stroke
+hypertension	is associated with	high sodium intake
+hypertension	is a risk factor for	heart valve disease
+hypertension	can result in	retinal vein occlusion

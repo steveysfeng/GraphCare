@@ -1,0 +1,62 @@
+miscellaneous mental health disorders	can include	anxiety disorders
+miscellaneous mental health disorders	can include	mood disorders
+miscellaneous mental health disorders	can include	personality disorders
+miscellaneous mental health disorders	can include	psychotic disorders
+miscellaneous mental health disorders	can include	eating disorders
+miscellaneous mental health disorders	can include	substance use disorders
+anxiety disorders	may cause	panic attacks
+anxiety disorders	may cause	phobias
+anxiety disorders	may cause	obsessive-compulsive disorder
+anxiety disorders	may cause	generalized anxiety disorder
+mood disorders	may include	depression
+mood disorders	may include	bipolar disorder
+personality disorders	may include	borderline personality disorder
+personality disorders	may include	narcissistic personality disorder
+personality disorders	may include	antisocial personality disorder
+psychotic disorders	may include	schizophrenia
+psychotic disorders	may include	delusional disorder
+eating disorders	may include	anorexia nervosa
+eating disorders	may include	bulimia nervosa
+eating disorders	may include	binge eating disorder
+substance use disorders	may include	alcohol use disorder
+substance use disorders	may include	opioid use disorder
+substance use disorders	may include	cocaine use disorder
+substance use disorders	may include	cannabis use disorder
+panic attacks	can be	sudden
+panic attacks	can cause	chest pain
+panic attacks	can cause	shortness of breath
+phobias	can include	agoraphobia
+phobias	can include	social phobia
+phobias	can include	specific phobias
+obsessive-compulsive disorder	is characterized by	obsessions
+obsessive-compulsive disorder	is characterized by	compulsions
+generalized anxiety disorder	is characterized by	excessive worrying
+generalized anxiety disorder	is characterized by	restlessness
+depression	can cause	feelings of sadness
+depression	can cause	loss of interest
+bipolar disorder	is characterized by	mood swings
+bipolar disorder	is characterized by	episodes of mania
+borderline personality disorder	is characterized by	unstable relationships
+borderline personality disorder	is characterized by	intense fear of abandonment
+narcissistic personality disorder	is characterized by	grandiosity
+narcissistic personality disorder	is characterized by	lack of empathy
+antisocial personality disorder	is characterized by	disregard for others' rights
+antisocial personality disorder	is characterized by	manipulative behavior
+schizophrenia	can cause	hallucinations
+schizophrenia	can cause	delusions
+delusional disorder	is characterized by	non-bizarre delusions
+delusional disorder	is characterized by	functioning normally otherwise
+anorexia nervosa	is characterized by	extreme weight loss
+anorexia nervosa	is characterized by	fear of gaining weight
+bulimia nervosa	is characterized by	binge eating
+bulimia nervosa	is characterized by	purging behaviors
+binge eating disorder	is characterized by	recurrent episodes of binge eating
+binge eating disorder	is characterized by	lack of control
+alcohol use disorder	is characterized by	excessive alcohol consumption
+alcohol use disorder	is characterized by	loss of control
+opioid use disorder	is characterized by	dependence on opioids
+opioid use disorder	is characterized by	withdrawal symptoms
+cocaine use disorder	is characterized by	cocaine addiction
+cocaine use disorder	is characterized by	increased energy
+cannabis use disorder	is characterized by	marijuana addiction
+cannabis use disorder	is characterized by	impaired memory
