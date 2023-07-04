@@ -1,0 +1,100 @@
+antiinfectives/antiseptics	combined with	corticosteroids
+antiinfectives/antiseptics	treat	infections
+corticosteroids	reduce	inflammation
+antiinfectives/antiseptics	fight against	bacterial growth
+corticosteroids	suppress	immune response
+antiinfectives/antiseptics	used for	wound care
+corticosteroids	used to	treat allergies
+antiinfectives/antiseptics	may cause	skin irritation
+corticosteroids	may lead to	weight gain
+antiinfectives/antiseptics	used in	combination therapy
+corticosteroids	prescribed for	respiratory conditions
+antiinfectives/antiseptics	prevent	infection
+corticosteroids	manage	autoimmune diseases
+antiinfectives/antiseptics	assist in	wound healing
+corticosteroids	can cause	mood changes
+antiinfectives/antiseptics	used in	surgical procedures
+corticosteroids	increase	risk of infections
+antiinfectives/antiseptics	eliminate	pathogens
+corticosteroids	help with	post-operative recovery
+antiinfectives/antiseptics	target	various types of bacteria
+corticosteroids	used for	skin conditions
+antiinfectives/antiseptics	applied topically	on skin
+corticosteroids	can lead to	osteoporosis
+antiinfectives/antiseptics	prevent	bacterial infections
+corticosteroids	prescribed for	joint pain
+antiinfectives/antiseptics	may cause	allergic reactions
+corticosteroids	treat	asthma
+antiinfectives/antiseptics	used in	oral hygiene products
+corticosteroids	reduce	swelling
+antiinfectives/antiseptics	used for	urinary tract infections
+corticosteroids	improve	lung function
+antiinfectives/antiseptics	kill	microorganisms
+corticosteroids	used to	treat eczema
+antiinfectives/antiseptics	prevent	wound infections
+corticosteroids	prescribed for	arthritis
+antiinfectives/antiseptics	inhibit	bacterial growth
+corticosteroids	decrease	inflammation
+antiinfectives/antiseptics	can lead to	drug resistance
+corticosteroids	used for	organ transplant rejection prevention
+antiinfectives/antiseptics	applied locally	on skin
+corticosteroids	administered through	inhalation
+antiinfectives/antiseptics	used to	sanitize surfaces
+corticosteroids	suppress	immune system
+antiinfectives/antiseptics	used for	oral infections
+corticosteroids	prescribed for	allergic rhinitis
+antiinfectives/antiseptics	used in	wound dressings
+corticosteroids	alleviate	pain
+antiinfectives/antiseptics	can be	bactericidal
+corticosteroids	used in	cancer treatment
+antiinfectives/antiseptics	reduce	risk of infection
+corticosteroids	used for	eye inflammation treatment
+antiinfectives/antiseptics	effective against	gram-positive bacteria
+corticosteroids	minimize	allergic reactions
+antiinfectives/antiseptics	treat	fungal infections
+corticosteroids	used in	skin creams
+antiinfectives/antiseptics	induce	bacterial cell death
+corticosteroids	can lead to	cataracts
+antiinfectives/antiseptics	work by	disrupting bacterial DNA
+corticosteroids	prescribed for	inflammatory bowel disease
+antiinfectives/antiseptics	used in	mouthwash products
+corticosteroids	used for	multiple sclerosis treatment
+antiinfectives/antiseptics	may cause	skin discoloration
+corticosteroids	prescribed for	nephrotic syndrome
+antiinfectives/antiseptics	effective against	gram-negative bacteria
+corticosteroids	used to	treat skin allergies
+antiinfectives/antiseptics	used as	disinfectants
+corticosteroids	increase	blood sugar levels
+antiinfectives/antiseptics	fight against	viral infections
+corticosteroids	prescribed for	asthma exacerbation
+antiinfectives/antiseptics	used in	wound irrigation
+corticosteroids	prevent	organ rejection after transplant
+antiinfectives/antiseptics	used in	surgical scrubs
+corticosteroids	prescribed for	lupus
+antiinfectives/antiseptics	effective against	antibiotic-resistant bacteria
+corticosteroids	reduce	allergic reactions
+antiinfectives/antiseptics	help in	preventing contamination
+corticosteroids	used for	allergic skin conditions
+antiinfectives/antiseptics	used in	nasal sprays
+corticosteroids	alleviate	inflammation
+antiinfectives/antiseptics	used for	prophylaxis
+corticosteroids	prescribed for	chronic obstructive pulmonary disease (COPD)
+antiinfectives/antiseptics	inhibit	microbial growth
+corticosteroids	suppress	inflammation
+antiinfectives/antiseptics	effective against	drug-resistant pathogens
+corticosteroids	prescribed for	rheumatoid arthritis
+antiinfectives/antiseptics	used for	cellulitis treatment
+corticosteroids	used to	treat autoimmune hepatitis
+antiinfectives/antiseptics	can cause	skin dryness
+corticosteroids	minimize	immune response
+antiinfectives/antiseptics	used for	ear infections
+corticosteroids	prescribed for	dermatitis
+antiinfectives/antiseptics	used in	surgical hand scrubs
+corticosteroids	enhance	wound healing
+antiinfectives/antiseptics	effective against	multidrug-resistant bacteria
+corticosteroids	prescribed for	inflammatory bowel disease
+antiinfectives/antiseptics	used as	antifungal agents
+corticosteroids	used for	eye allergies
+antiinfectives/antiseptics	kill	bacteria
+corticosteroids	used to	treat ulcerative colitis
+antiinfectives/antiseptics	effective against	viral pathogens

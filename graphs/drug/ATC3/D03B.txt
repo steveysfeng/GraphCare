@@ -1,0 +1,147 @@
+enzymes	are used for	treatment of wounds
+enzymes	are used for	treatment of ulcers
+enzymes	can promote	wound healing
+enzymes	can accelerate	ulcer healing
+wounds	can be caused by	trauma
+ulcers	can be caused by	bacterial infections
+ulcers	can be caused by	poor blood circulation
+enzymes	can be derived from	plants
+enzymes	can be derived from	animals
+enzymes	are available as	topical creams
+enzymes	are available as	oral supplements
+enzymes	enhance	collagen formation
+enzymes	break down	dead tissue
+enzymes	decrease	inflammation
+enzymes	increase	angiogenesis
+enzymes	improve	granulation
+enzymes	debride	necrotic tissue
+enzymes	stimulate	fibroblast activity
+enzymes	protect	the wound from infection
+enzymes	can have	allergic reactions
+enzymes	can have	side effects
+enzymes	should be used with caution	in patients with known allergies
+enzymes	may interact with	certain medications
+enzymes	are safe	when used as directed
+enzymes	can be effective	in chronic wounds
+enzymes	can be effective	in diabetic ulcers
+enzymes	are contraindicated	in infected wounds
+enzymes	are contraindicated	in deep wounds
+enzymes	are contraindicated	in necrotic wounds
+enzymes	should not be used	on open arteries
+enzymes	should not be used	on exposed tendons
+enzymes	should not be used	on exposed nerves
+enzymes	require	proper wound care
+enzymes	should be used	under medical supervision
+enzymes	are not recommended	for use in children
+enzymes	are not recommended	for use during pregnancy
+enzymes	require	a prescription
+enzymes	are covered	by some insurance plans
+enzymes	are expensive	without insurance coverage
+enzymes	can be used	in conjunction with other wound care treatments
+enzymes	should be applied	according to manufacturer's instructions
+enzymes	should be stored	at room temperature
+enzymes	should be kept	out of reach of children
+enzymes	can be effective	in chronic ulcers
+enzymes	can be effective	in pressure ulcers
+enzymes	should not be used	on infected ulcers
+enzymes	should not be used	on necrotic ulcers
+enzymes	may require	multiple applications per day
+enzymes	may require	frequent dressing changes
+enzymes	should not be used	if allergic reaction occurs
+enzymes	can be used	for post-operative wound care
+enzymes	can be used	for venous ulcers
+enzymes	should not be used	on arterial ulcers
+enzymes	should not be used	on ischemic ulcers
+enzymes	promote	autolytic debridement
+enzymes	dissolve	biofilm
+enzymes	should be used	with caution in patients with diabetes
+enzymes	can be effective	in infected wounds
+enzymes	can be effective	in burns
+enzymes	should not be used	during radiotherapy
+enzymes	should not be used	during chemotherapy
+enzymes	can break down	fibrin
+enzymes	can break down	exudate
+enzymes	should be applied	with clean hands
+enzymes	should not be applied	to eyes
+enzymes	should be washed off	before applying other topical treatments
+enzymes	should not be used	on actively bleeding wounds
+enzymes	can improve	wound closure
+enzymes	can reduce	scar formation
+enzymes	can increase	tensile strength of the wound
+enzymes	can facilitate	reepithelialization
+enzymes	should be used	on clean wounds
+enzymes	should be used	on dehisced wounds
+enzymes	can prevent	biofilm formation
+enzymes	can accelerate	healing in chronic wounds
+enzymes	can help	remove slough
+enzymes	can help	remove eschar
+enzymes	should not be used	for hemostasis
+enzymes	should not be used	if wound is actively bleeding
+enzymes	can aid	in wound closure
+enzymes	can promote	angiogenesis
+enzymes	can promote	vasodilation
+enzymes	can increase	blood flow to the wound
+enzymes	should not be injected	into blood vessels
+enzymes	should not be injected	into nerves
+enzymes	can promote	tissue regeneration
+enzymes	can enhance	wound contraction
+enzymes	can prevent	scab formation
+enzymes	should be used	on clean ulcers
+enzymes	should be used	on non-infected ulcers
+enzymes	should not be used	on wounds with exposed bone
+enzymes	should not be used	on wounds with exposed cartilage
+enzymes	can be used	on necrotic wounds
+enzymes	can be used	on sloughy wounds
+enzymes	should not be applied	on dry wounds
+enzymes	should not be applied	on ischemic wounds
+enzymes	can be used	on pressure injuries
+enzymes	can be used	on diabetic foot ulcers
+enzymes	should not be applied	on clean wounds
+enzymes	should not be applied	on uninfected ulcers
+enzymes	can help	remove debris from the wound
+enzymes	can help	remove dead tissue from the wound
+enzymes	can be used	in conjunction with surgical debridement
+enzymes	can be used	in conjunction with mechanical debridement
+enzymes	can be used	in conjunction with autolytic debridement
+enzymes	can be used	in conjunction with sharp debridement
+enzymes	can be used	in conjunction with dressings
+enzymes	can aid	in healing of surgical wounds
+enzymes	can aid	in healing of traumatic wounds
+enzymes	can aid	in healing of chronic ulcers
+enzymes	can aid	in healing of diabetic ulcers
+enzymes	can aid	in healing of pressure ulcers
+enzymes	can aid	in healing of venous ulcers
+enzymes	can aid	in healing of infected wounds
+enzymes	can aid	in healing of burns
+enzymes	can aid	in healing of ischemic ulcers
+enzymes	can aid	in healing of necrotic wounds
+enzymes	can aid	in healing of sloughy wounds
+enzymes	can aid	in healing of dehisced wounds
+enzymes	can aid	in healing of non-healing wounds
+enzymes	can aid	in healing of large wounds
+enzymes	can aid	in healing of small wounds
+enzymes	can aid	in healing of superficial wounds
+enzymes	can aid	in healing of deep wounds
+enzymes	can aid	in healing of infected ulcers
+enzymes	can aid	in healing of arterial ulcers
+enzymes	can aid	in healing of chronic wounds
+enzymes	can aid	in healing of pressure injuries
+enzymes	can aid	in healing of diabetic foot ulcers
+enzymes	can aid	in healing of infected wounds
+enzymes	can aid	in healing of burns
+enzymes	can aid	in healing of infected ulcers
+enzymes	can aid	in healing of necrotic ulcers
+enzymes	can aid	in healing of sloughy ulcers
+enzymes	can aid	in healing of dehisced ulcers
+enzymes	can aid	in healing of non-healing ulcers
+enzymes	can aid	in healing of large ulcers
+enzymes	can aid	in healing of small ulcers
+enzymes	can aid	in healing of superficial ulcers
+enzymes	can aid	in healing of deep ulcers
+enzymes	can promote	healing in open wounds
+enzymes	can promote	healing in chronic ulcers
+enzymes	can promote	healing in diabetic ulcers
+enzymes	can promote	healing in pressure ulcers
+enzymes	can promote	healing in venous ulcers
+enzymes	should be used	for wound care
+enzymes	should be used	for ulcer care

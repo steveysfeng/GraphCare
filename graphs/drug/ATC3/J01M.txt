@@ -1,0 +1,76 @@
+quinolone antibacterials	are a	class of drugs
+quinolone antibacterials	used to	treat bacterial infections
+quinolone antibacterials	can cause	tendon rupture
+tendon rupture	is a	side effect
+quinolone antibacterials	linked to	increased risk of Clostridium difficile infection
+Clostridium difficile infection	is a	bacterial infection
+quinolone antibacterials	should not be taken	with certain medications
+certain medications	can interact	with quinolone antibacterials
+quinolone antibacterials	can lead to	drug-resistant bacteria
+drug-resistant bacteria	are	antibiotic-resistant
+quinolone antibacterials	can be	orally administered
+orally administered	means	taken by mouth
+quinolone antibacterials	can also be	used in eye drops
+eye drops	are	topical medication
+quinolone antibacterials	should be	used with caution in elderly patients
+elderly patients	are	at higher risk
+quinolone antibacterials	should not be	used in children
+children	are	more susceptible
+quinolone antibacterials	can have	low bioavailability
+bioavailability	is	the fraction of the administered dose that reaches the systemic circulation
+quinolone antibacterials	can be	bactericidal
+bactericidal	means	able to kill bacteria
+quinolone antibacterials	can inhibit	bacterial DNA replication
+bacterial DNA replication	is	essential for bacterial growth
+quinolone antibacterials	can be	synthetic or natural
+synthetic	means	man-made
+natural	means	derived from natural sources
+quinolone antibacterials	can be	broad-spectrum
+broad-spectrum	means	effective against a wide range of bacteria
+quinolone antibacterials	can be	narrow-spectrum
+narrow-spectrum	means	effective against specific types of bacteria
+quinolone antibacterials	can penetrate	bacterial cells
+bacterial cells	are	the basic structural units of bacteria
+quinolone antibacterials	can disrupt	bacterial DNA
+bacterial DNA	is	the genetic material of bacteria
+quinolone antibacterials	can be	bacteriostatic
+bacteriostatic	means	able to inhibit bacterial growth
+quinolone antibacterials	can be	bactericidal
+bactericidal	means	able to kill bacteria
+quinolone antibacterials	can be	effective against both Gram-positive and Gram-negative bacteria
+Gram-positive bacteria	are	a type of bacteria with a thick cell wall
+Gram-negative bacteria	are	a type of bacteria with a thin cell wall
+quinolone antibacterials	can be	used in combination therapy
+combination therapy	involves	using multiple drugs to treat an infection
+quinolone antibacterials	can be	used for prophylaxis
+prophylaxis	is	the prevention of a disease
+quinolone antibacterials	can be	administered intravenously
+intravenously	means	directly into a vein
+quinolone antibacterials	can be	excreted in urine
+urine	is	a waste product excreted by the kidneys
+quinolone antibacterials	can be	metabolized in the liver
+liver	is	the main organ responsible for drug metabolism
+quinolone antibacterials	can be	teratogenic
+teratogenic	means	able to cause birth defects
+quinolone antibacterials	can be	contraindicated in pregnancy
+contraindicated	means	not recommended
+quinolone antibacterials	can be	photosensitizing
+photosensitizing	means	causing increased sensitivity to sunlight
+quinolone antibacterials	can be	associated with QT prolongation
+QT prolongation	is	a heart rhythm disorder
+quinolone antibacterials	can be	associated with central nervous system side effects
+central nervous system side effects	can include	dizziness and confusion
+quinolone antibacterials	can be	associated with tendonitis
+tendonitis	is	inflammation of a tendon
+quinolone antibacterials	can be	associated with peripheral neuropathy
+peripheral neuropathy	is	damage to the peripheral nerves
+quinolone antibacterials	can be	associated with hypersensitivity reactions
+hypersensitivity reactions	can include	rash and itching
+quinolone antibacterials	can be	contraindicated in patients with a history of tendon disorders
+tendon disorders	include	tendonitis and tendon rupture
+quinolone antibacterials	can be	contraindicated in patients with a history of central nervous system disorders
+central nervous system disorders	include	epilepsy and mental health conditions
+quinolone antibacterials	can be	contraindicated in patients with a history of QT prolongation
+quinolone antibacterials	can be	contraindicated in patients with a history of hypersensitivity reactions
+quinolone antibacterials	can be	contraindicated in patients with a history of peripheral neuropathy
+quinolone antibacterials	should be	taken as directed by a healthcare professional

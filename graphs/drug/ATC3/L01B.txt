@@ -1,0 +1,302 @@
+antimetabolites	are	drugs
+antimetabolites	used in	cancer treatment
+cancer treatment	aims to	kill cancer cells
+antimetabolites	interfere with	DNA synthesis
+DNA synthesis	is a	biological process
+antimetabolites	inhibit	enzymes
+enzymes	are	proteins
+antimetabolites	can cause	side effects
+side effects	include	nausea
+antimetabolites	may lead to	anemia
+anemia	is	a condition
+antimetabolites	are classified as	chemotherapy agents
+chemotherapy agents	are used for	cancer treatment
+antimetabolites	can be	cytotoxic
+cytotoxic	agents	damage cells
+antimetabolites	can be	immunosuppressive
+immunosuppressive	drugs	weaken the immune system
+antimetabolites	can interact with	other medications
+other medications	can affect	antimetabolite metabolism
+antimetabolites	are	metabolized in the liver
+liver	is	an organ
+antimetabolites	are	excreted by the kidneys
+kidneys	are	organs
+antimetabolites	have	different mechanisms of action
+mechanisms of action	determine	drug efficacy
+antimetabolites	require	dosage adjustments
+dosage adjustments	are necessary	in renal impairment
+antimetabolites	can be	teratogenic
+teratogenic	substances	may cause birth defects
+antimetabolites	should be	used with caution in pregnancy
+antimetabolites	can affect	fertility
+fertility	is	the ability to conceive
+antimetabolites	have	varying half-life
+half-life	is	the time for drug elimination
+antimetabolites	may interact with	alcohol
+alcohol	can alter	drug metabolism
+antimetabolites	can be	genotoxic
+genotoxic	agents	can damage genetic material
+antimetabolites	can cause	bone marrow suppression
+bone marrow suppression	leads to	decreased blood cell production
+antimetabolites	can be	carcinogenic
+carcinogenic	substances	can cause cancer
+antimetabolites	can be	administered orally
+antimetabolites	can be	administered intravenously
+antimetabolites	should be	stored properly
+proper storage	ensures	drug stability
+antimetabolites	can lead to	drug resistance
+drug resistance	reduces	treatment effectiveness
+antimetabolites	may be	contraindicated in certain patients
+contraindications	include	allergy to the drug
+antimetabolites	can be	toxic
+toxic	substances	are harmful
+antimetabolites	can be	metabolized by enzymes
+enzymes	play a	role in drug metabolism
+antimetabolites	can cause	gastrointestinal symptoms
+gastrointestinal symptoms	include	vomiting
+antimetabolites	can have	long-term effects
+long-term effects	may impact	quality of life
+antimetabolites	may require	monitoring of blood counts
+blood counts	reflect	bone marrow function
+antimetabolites	may increase	risk of infections
+antimetabolites	can induce	remission
+remission	is	a state of disease absence
+antimetabolites	can be	used in combination with other drugs
+combination therapy	improves	treatment outcomes
+antimetabolites	can be	administered subcutaneously
+antimetabolites	can target	specific enzymes
+specific enzymes	are	drug targets
+antimetabolites	can be	synthetic
+synthetic	chemicals	are man-made
+antimetabolites	can interfere with	purine metabolism
+purine metabolism	is	a biochemical process
+antimetabolites	can cross	the blood-brain barrier
+blood-brain barrier	protects	the brain
+antimetabolites	can be	hepatotoxic
+hepatotoxic	substances	can damage the liver
+antimetabolites	can cause	photosensitivity
+photosensitivity	increases	sensitivity to sunlight
+antimetabolites	can be	used topically
+antimetabolites	can induce	apoptosis
+apoptosis	is	programmed cell death
+antimetabolites	can be	prodrugs
+prodrugs	are	inactive until metabolized
+antimetabolites	can be	teratogenic in animal studies
+animal studies	provide	preclinical evidence
+antimetabolites	can lead to	cytopenia
+cytopenia	is	a decrease in blood cell counts
+antimetabolites	can be	contraindicated in liver disease
+liver disease	affects	drug metabolism
+antimetabolites	can affect	DNA methylation
+DNA methylation	regulates	gene expression
+antimetabolites	can be	administered as a continuous infusion
+continuous infusion	ensures	sustained drug levels
+antimetabolites	can be	mutagenic
+mutagenic	substances	can cause mutations
+antimetabolites	can be	carcinostatic
+carcinostatic	drugs	inhibit cancer growth
+antimetabolites	can interfere with	pyrimidine metabolism
+pyrimidine metabolism	is	a biochemical process
+antimetabolites	can cause	neurotoxicity
+neurotoxicity	refers to	nerve damage
+antimetabolites	can be	used in combination with radiation therapy
+radiation therapy	uses	high-energy radiation
+antimetabolites	can lead to	drug intolerance
+drug intolerance	results in	adverse reactions
+antimetabolites	can disrupt	cell division
+cell division	is	a process of cell reproduction
+antimetabolites	can be	used in adjuvant therapy
+adjuvant therapy	aims to	prevent relapse
+antimetabolites	can be	used in palliative care
+palliative care	focuses on	symptom management
+antimetabolites	can cause	liver toxicity
+liver toxicity	can be	life-threatening
+antimetabolites	can inhibit	folate synthesis
+folate synthesis	is	a metabolic pathway
+antimetabolites	may require	dose reduction in renal impairment
+renal impairment	affects	drug clearance
+antimetabolites	can cause	myelosuppression
+myelosuppression	leads to	decreased blood cell production
+antimetabolites	can have	narrow therapeutic index
+narrow therapeutic index	means	small margin of safety
+antimetabolites	can be	administered intramuscularly
+intramuscular administration	ensures	systemic delivery
+antimetabolites	can affect	cellular metabolism
+cellular metabolism	is	vital for cell functioning
+antimetabolites	can increase	sensitivity to infections
+antimetabolites	can cause	diarrhea
+antimetabolites	can be	converted to active metabolites
+active metabolites	contribute to	drug effects
+antimetabolites	can interfere with	nucleotide synthesis
+nucleotide synthesis	is	a cellular process
+antimetabolites	can be	administered as a bolus dose
+bolus dose	delivers	a concentrated drug amount
+antimetabolites	can be	teratogenic in humans
+teratogenicity	may result in	birth defects
+antimetabolites	can modulate	immune response
+immune response	protects	against infections
+antimetabolites	can be	injected intrathecally
+intrathecal injection	delivers	drugs to the spinal canal
+antimetabolites	can inhibit	thymidylate synthase
+thymidylate synthase	is	an enzyme involved in DNA synthesis
+antimetabolites	can interfere with	antifolate drugs
+antifolate drugs	target	folic acid metabolism
+antimetabolites	can be	administered as a continuous infusion
+continuous infusion	allows	controlled drug delivery
+antimetabolites	can impair	wound healing
+wound healing	is	a process of tissue repair
+antimetabolites	can inhibit	purine synthesis
+purine synthesis	is	a metabolic pathway
+antimetabolites	can be	administered as an intraocular injection
+intraocular injection	delivers	drugs directly to the eye
+antimetabolites	can cause	skin rash
+skin rash	is	an allergic reaction
+antimetabolites	can disrupt	nucleic acid function
+nucleic acid function	is essential	for cell survival
+antimetabolites	can be	administered topically
+topical administration	delivers	drugs to the skin surface
+antimetabolites	can inhibit	RNA synthesis
+RNA synthesis	is	a cellular process
+antimetabolites	can be	contraindicated in breastfeeding
+breastfeeding	can transmit	drugs to the infant
+antimetabolites	can induce	cell cycle arrest
+cell cycle arrest	halts	cell division
+antimetabolites	can be	administered as a continuous infusion
+continuous infusion	provides	prolonged drug exposure
+antimetabolites	can disrupt	nucleotide salvage pathways
+nucleotide salvage pathways	recycle	nucleotides
+antimetabolites	can be	administered subconjunctivally
+subconjunctival administration	delivers	drugs to the eye surface
+antimetabolites	can inhibit	enzymes involved in purine metabolism
+antimetabolites	can interfere with	DNA repair
+DNA repair	is	a cellular process
+antimetabolites	can be	combined with targeted therapies
+targeted therapies	specifically attack	cancer cells
+antimetabolites	can alter	cell proliferation
+cell proliferation	is	the process of cell multiplication
+antimetabolites	can have	off-target effects
+off-target effects	are	unintended drug actions
+antimetabolites	can modulate	gene expression
+gene expression	controls	protein production
+antimetabolites	can be	administered as eye drops
+eye drops	deliver	drugs to the eye
+antimetabolites	can inhibit	enzymes involved in pyrimidine metabolism
+antimetabolites	can be	used in salvage therapy
+salvage therapy	aims to	rescue failed treatments
+antimetabolites	can disrupt	DNA replication
+DNA replication	is	a process of DNA copying
+antimetabolites	can target	specific cell types
+specific cell types	have	unique characteristics
+antimetabolites	can be	administered in combination with immunotherapy
+immunotherapy	helps	enhance the immune response
+antimetabolites	can be	converted to toxic metabolites
+toxic metabolites	contribute to	adverse effects
+antimetabolites	can interfere with	nucleoside metabolism
+nucleoside metabolism	is necessary	for DNA synthesis
+antimetabolites	can be	used in neoadjuvant therapy
+neoadjuvant therapy	precedes	primary treatment
+antimetabolites	can affect	cell signaling pathways
+cell signaling pathways	regulate	cellular responses
+antimetabolites	can be	administered as an ointment
+ointment	provides	localized drug delivery
+antimetabolites	can inhibit	enzymes involved in DNA repair
+antimetabolites	can impair	protein synthesis
+protein synthesis	is	a cellular process
+antimetabolites	can be	used in maintenance therapy
+maintenance therapy	aims to	prevent disease relapse
+antimetabolites	can disrupt	energy metabolism
+energy metabolism	is essential	for cell function
+antimetabolites	can target	specific metabolic pathways
+specific metabolic pathways	are	drug targets
+antimetabolites	can be	administered intraventricularly
+intraventricular injection	delivers	drugs to the brain
+antimetabolites	can inhibit	enzymes involved in RNA synthesis
+antimetabolites	can disrupt	DNA methylation
+antimetabolites	can be	administered as eye ointment
+eye ointment	provides	local drug application
+antimetabolites	can modulate	cell cycle progression
+cell cycle progression	controls	cell division timing
+antimetabolites	can be	administered as an intravitreal injection
+intravitreal injection	delivers	drugs directly to the eye
+antimetabolites	can interfere with	nucleotide salvage enzymes
+antimetabolites	can be	used in salvage chemotherapy
+salvage chemotherapy	aims to	treat relapsed cancer
+antimetabolites	can alter	cell differentiation
+cell differentiation	is	the process of cell specialization
+antimetabolites	can have	dose-dependent effects
+dose-dependent effects	vary	with drug dosage
+antimetabolites	can modulate	cell apoptosis
+cell apoptosis	is	programmed cell death
+antimetabolites	can be	administered as a gel
+gel	provides	localized drug release
+antimetabolites	can inhibit	enzymes involved in nucleotide synthesis
+antimetabolites	can disrupt	cell cycle regulation
+cell cycle regulation	controls	orderly cell progression
+antimetabolites	can be	used in induction therapy
+induction therapy	aims to	achieve remission
+antimetabolites	can affect	DNA repair mechanisms
+DNA repair mechanisms	maintain	genome integrity
+antimetabolites	can modulate	cellular signaling
+cellular signaling	regulates	cellular responses
+antimetabolites	can be	administered intravesically
+intravesical administration	delivers	drugs directly to the bladder
+antimetabolites	can inhibit	enzymes involved in purine synthesis
+antimetabolites	can disrupt	nucleotide metabolism
+nucleotide metabolism	is necessary	for DNA synthesis
+antimetabolites	can be	used in consolidation therapy
+consolidation therapy	aims to	prevent disease relapse
+antimetabolites	can impair	cellular respiration
+cellular respiration	generates	energy for cells
+antimetabolites	can target	specific metabolic enzymes
+specific metabolic enzymes	are	drug targets
+antimetabolites	can be	administered intraperitoneally
+intraperitoneal administration	delivers	drugs into the abdominal cavity
+antimetabolites	can modulate	RNA processing
+RNA processing	is	a step in gene expression
+antimetabolites	can be	used in hypomethylating therapy
+hypomethylating therapy	aims to	reverse DNA methylation
+antimetabolites	can alter	gene expression patterns
+gene expression patterns	determine	cellular function
+antimetabolites	can be	administered as a cream
+cream	provides	topical drug application
+antimetabolites	can inhibit	enzymes involved in pyrimidine synthesis
+antimetabolites	can disrupt	DNA replication fidelity
+DNA replication fidelity	ensures	accurate DNA copying
+antimetabolites	can target	specific cancer cell receptors
+specific cancer cell receptors	are	drug targets
+antimetabolites	can be	administered sublingually
+sublingual administration	provides	systemic drug absorption
+antimetabolites	can impair	cell cycle checkpoints
+cell cycle checkpoints	regulate	cell division progression
+antimetabolites	can be	used in combination with hormone therapy
+hormone therapy	targets	hormone-sensitive cancers
+antimetabolites	can affect	nucleotide stability
+nucleotide stability	is important	for DNA synthesis
+antimetabolites	can be	administered intradermally
+intradermal injection	delivers	drugs into the skin
+antimetabolites	can inhibit	enzymes involved in RNA synthesis
+antimetabolites	can disrupt	DNA methylation patterns
+DNA methylation patterns	regulate	gene expression
+antimetabolites	can modulate	protein function
+protein function	determines	cellular processes
+antimetabolites	can be	used in maintenance chemotherapy
+maintenance chemotherapy	prevents	disease recurrence
+antimetabolites	can interfere with	cell signaling pathways
+antimetabolites	can be	administered as a lotion
+lotion	provides	topical drug application
+antimetabolites	can inhibit	enzymes involved in nucleotide salvage
+antimetabolites	can disrupt	cell cycle progression
+cell cycle progression	is	a regulated process
+antimetabolites	can be	used in consolidation chemotherapy
+consolidation chemotherapy	eliminates	remaining cancer cells
+antimetabolites	can impair	DNA repair mechanisms
+antimetabolites	can modulate	cellular responses
+antimetabolites	can be	administered intranasally
+intranasal administration	delivers	drugs through the nose
+antimetabolites	can target	specific enzyme isoforms
+specific enzyme isoforms	have	distinct properties
+antimetabolites	can be	administered transdermally
+transdermal patch	provides	controlled drug release
+antimetabolites	can disrupt	nucleotide synthesis
+nucleotide synthesis	is necessary	for DNA replication
+antimetabolites	can inhibit	enzymes involved in pyrimidine metabolism

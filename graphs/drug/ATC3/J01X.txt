@@ -1,0 +1,9 @@
+other antibacterials	are classified as	drugs
+drugs	can be used for	treating infections
+infections	can be caused by	bacteria
+other antibacterials	may have	side effects
+side effects	can include	nausea
+other antibacterials	are categorized under	ATC code
+ATC code	stands for	Anatomical Therapeutic Chemical code
+other antibacterials	belong to	J01 class
+J01 class	includes	antibacterials

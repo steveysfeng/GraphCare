@@ -1,0 +1,155 @@
+protectives against uv-radiation	are	sunscreen
+sunscreen	protects against	skin damage
+sun damage	can cause	wrinkles
+protectives against uv-radiation	include	hats
+hats	can protect against	sunburn
+sunburn	can lead to	skin cancer
+protectives against uv-radiation	are	sunglasses
+sunglasses	protect against	eye damage
+eye damage	can result in	vision loss
+protectives against uv-radiation	are	long-sleeved clothing
+long-sleeved clothing	can protect against	sunburn
+protectives against uv-radiation	are	umbrellas
+umbrellas	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	are	lip balm
+lip balm	protects against	chapped lips
+chapped lips	can be caused by	sun exposure
+protectives against uv-radiation	can be	clothing with UPF
+clothing with UPF	provides	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	sunblock
+sunblock	blocks	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	include	shade structures
+shade structures	provide	protection from the sun
+protection from the sun	reduces the risk of	sunburn
+protectives against uv-radiation	are	sunshades
+sunshades	shield against	direct sunlight
+direct sunlight	can cause	sunburn
+protectives against uv-radiation	are	UV-filtering contact lenses
+UV-filtering contact lenses	protect against	UV rays
+UV rays	can damage	the eyes
+protectives against uv-radiation	are	sun-protective swimwear
+sun-protective swimwear	provides	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	are	wide-brimmed hats
+wide-brimmed hats	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	include	UV-blocking window film
+UV-blocking window film	blocks	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	include	awnings
+awnings	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	include	UV-blocking curtains
+UV-blocking curtains	block	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	include	UV-blocking window shades
+UV-blocking window shades	block	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	include	sun-protective gloves
+sun-protective gloves	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking umbrellas
+UV-blocking umbrellas	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	are	sun protective clothing
+sun protective clothing	provides	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking goggles
+UV-blocking goggles	protect against	UV rays
+UV rays	can damage	the eyes
+protectives against uv-radiation	include	sunscreen with high SPF
+sunscreen with high SPF	provides	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking face masks
+UV-blocking face masks	protect against	UV rays
+UV rays	can damage	the skin
+protectives against uv-radiation	include	UV-blocking clothing
+UV-blocking clothing	provides	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	are	parasols
+parasols	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	include	UV-blocking hats
+UV-blocking hats	provide	protection from the sun
+protection from the sun	reduces the risk of	sunburn
+protectives against uv-radiation	include	UV-blocking t-shirts
+UV-blocking t-shirts	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	sunscreen lip balm
+sunscreen lip balm	protects against	sunburnt lips
+sunburnt lips	can be caused by	sun exposure
+protectives against uv-radiation	include	UV-blocking bandanas
+UV-blocking bandanas	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking gloves
+UV-blocking gloves	provide	protection for the hands
+protection for the hands	reduces the risk of	sunburn
+protectives against uv-radiation	include	sun sleeves
+sun sleeves	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-protective eyewear
+UV-protective eyewear	protects against	harmful UV rays
+harmful UV rays	can cause	eye damage
+protectives against uv-radiation	include	UV-blocking swimwear
+UV-blocking swimwear	provides	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking clothing detergent
+UV-blocking clothing detergent	helps protect against	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	are	UV-blocking hats for dogs
+UV-blocking hats for dogs	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking scarves
+UV-blocking scarves	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking arm sleeves
+UV-blocking arm sleeves	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking coatings for windows
+UV-blocking coatings for windows	block	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	are	UV-blocking gloves for driving
+UV-blocking gloves for driving	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking face shields
+UV-blocking face shields	protect against	UV rays
+UV rays	can damage	the skin
+protectives against uv-radiation	include	UV-blocking shirts
+UV-blocking shirts	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking swim shirts
+UV-blocking swim shirts	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking window curtains
+UV-blocking window curtains	block	UV rays
+UV rays	can cause	skin damage
+protectives against uv-radiation	include	UV-blocking arm covers
+UV-blocking arm covers	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking beach hats
+UV-blocking beach hats	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking wristbands
+UV-blocking wristbands	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking neck gaiters
+UV-blocking neck gaiters	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	are	UV-blocking golf umbrellas
+UV-blocking golf umbrellas	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	include	UV-blocking visors
+UV-blocking visors	provide	sun protection
+sun protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking driving gloves
+UV-blocking driving gloves	provide	UV protection
+UV protection	helps prevent	sunburn
+protectives against uv-radiation	include	UV-blocking beach tents
+UV-blocking beach tents	provide	shade
+shade	can reduce	UV exposure
+protectives against uv-radiation	include	UV-blocking arm sleeves for running
+UV-blocking arm sleeves for running	provide	sun protection
+sun protection	helps prevent	sunburn

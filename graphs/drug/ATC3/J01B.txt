@@ -1,0 +1,281 @@
+amphenicols	are	antibiotics
+amphenicols	can treat	bacterial infections
+bacterial infections	can cause	fever
+amphenicols	can have	side effects
+side effects	include	nausea
+amphenicols	should not be	taken with alcohol
+amphenicols	can cause	allergic reactions
+allergic reactions	can result in	skin rash
+amphenicols	should be	taken with food
+amphenicols	can interact with	other medications
+other medications	include	anticoagulants
+amphenicols	can result in	drug resistance
+drug resistance	can lead to	ineffective treatment
+amphenicols	should not be	used in pregnancy
+amphenicols	should be	used with caution in elderly patients
+amphenicols	can lead to	bone marrow suppression
+bone marrow suppression	can cause	decreased production of blood cells
+amphenicols	can cause	liver problems
+liver problems	can result in	jaundice
+amphenicols	can lead to	antibiotic-associated diarrhea
+antibiotic-associated diarrhea	can be	severe
+amphenicols	can result in	photosensitivity reactions
+photosensitivity reactions	can cause	sunburn-like symptoms
+amphenicols	should not be	used in children under certain age
+amphenicols	can result in	blood disorders
+blood disorders	can cause	anemia
+amphenicols	should not be	used in breastfeeding mothers
+amphenicols	can lead to	altered gut microbiota
+altered gut microbiota	can result in	gastrointestinal issues
+amphenicols	can cause	peripheral neuropathy
+peripheral neuropathy	can result in	numbness and tingling
+amphenicols	can interact with	certain foods
+certain foods	can affect	drug absorption
+amphenicols	can lead to	delayed healing of wounds
+delayed healing of wounds	can result in	increased risk of infection
+amphenicols	can cause	bone deformities
+bone deformities	can result in	skeletal abnormalities
+amphenicols	can lead to	hearing loss
+hearing loss	can result in	impaired communication
+amphenicols	can increase	risk of fungal or viral infections
+risk of fungal or viral infections	can be	opportunistic
+amphenicols	can cause	dizziness
+amphenicols	can result in	peripheral edema
+peripheral edema	can cause	swelling in extremities
+amphenicols	can lead to	increased sensitivity to sunlight
+increased sensitivity to sunlight	can cause	sunburn
+amphenicols	can interact with	certain medical conditions
+certain medical conditions	include	liver disease
+amphenicols	can result in	blurred vision
+amphenicols	can cause	bone marrow toxicity
+bone marrow toxicity	can result in	pancytopenia
+amphenicols	can increase	risk of bleeding
+risk of bleeding	can result in	easy bruising
+amphenicols	can lead to	neurotoxicity
+neurotoxicity	can cause	confusion
+amphenicols	can cause	anorexia
+amphenicols	can result in	renal dysfunction
+renal dysfunction	can lead to	decreased kidney function
+amphenicols	can interact with	certain lab tests
+certain lab tests	include	liver function tests
+amphenicols	can cause	heart rhythm abnormalities
+heart rhythm abnormalities	can result in	palpitations
+amphenicols	can increase	risk of seizures
+risk of seizures	can result in	loss of consciousness
+amphenicols	should be	used with caution in patients with hepatic impairment
+amphenicols	can cause	hypotension
+hypotension	can result in	dizziness
+amphenicols	can lead to	neurologic disturbances
+neurologic disturbances	can cause	tremors
+amphenicols	can interact with	certain supplements
+certain supplements	include	antacids
+amphenicols	should be	stored at room temperature
+amphenicols	can cause	bone marrow depression
+bone marrow depression	can result in	decreased white blood cell count
+amphenicols	can lead to	mitochondrial dysfunction
+mitochondrial dysfunction	can cause	muscle weakness
+amphenicols	can result in	neurodevelopmental disorders
+neurodevelopmental disorders	can cause	learning disabilities
+amphenicols	should be	taken with water
+amphenicols	can lead to	blood dyscrasias
+blood dyscrasias	can cause	decreased platelet count
+amphenicols	can result in	hypoglycemia
+hypoglycemia	can cause	weakness
+amphenicols	can increase	risk of secondary infections
+risk of secondary infections	can be	bacterial or fungal
+amphenicols	can cause	hepatotoxicity
+hepatotoxicity	can result in	liver failure
+amphenicols	can lead to	gastrointestinal disturbances
+gastrointestinal disturbances	can cause	abdominal pain
+amphenicols	can interact with	certain medical procedures
+certain medical procedures	include	bone marrow transplant
+amphenicols	should be	taken as prescribed
+amphenicols	can cause	gray syndrome
+gray syndrome	can result in	abdominal distension
+amphenicols	can lead to	optic neuritis
+optic neuritis	can cause	vision loss
+amphenicols	can result in	increased risk of osteoporosis
+increased risk of osteoporosis	can cause	fractures
+amphenicols	should be	used with caution in patients with renal impairment
+amphenicols	can interact with	certain medical imaging tests
+certain medical imaging tests	include	liver scan
+amphenicols	can cause	aplastic anemia
+aplastic anemia	can result in	fatigue
+amphenicols	can increase	risk of blood clots
+risk of blood clots	can result in	deep vein thrombosis
+amphenicols	can lead to	neurodevelopmental toxicity
+neurodevelopmental toxicity	can cause	intellectual impairment
+amphenicols	can result in	decreased efficacy of birth control pills
+amphenicols	can interact with	certain chronic conditions
+certain chronic conditions	include	diabetes
+amphenicols	can cause	photosensitization
+photosensitization	can result in	skin burning
+amphenicols	can increase	risk of cardiac arrhythmias
+risk of cardiac arrhythmias	can result in	sudden cardiac arrest
+amphenicols	should not be	used in patients with myasthenia gravis
+amphenicols	can interact with	certain herbal supplements
+certain herbal supplements	include	St. John's wort
+amphenicols	can cause	blood dyscrasia
+blood dyscrasia	can result in	decreased red blood cell count
+amphenicols	can lead to	gastrointestinal toxicity
+gastrointestinal toxicity	can cause	diarrhea
+amphenicols	can result in	increased risk of neurologic symptoms
+increased risk of neurologic symptoms	can cause	headache
+amphenicols	can cause	agranulocytosis
+agranulocytosis	can result in	increased susceptibility to infections
+amphenicols	can lead to	mitochondrial toxicities
+mitochondrial toxicities	can cause	muscle pain
+amphenicols	can interact with	certain medical devices
+certain medical devices	include	pacemakers
+amphenicols	should not be	used in patients with liver dysfunction
+amphenicols	can cause	ocular toxicity
+ocular toxicity	can result in	vision changes
+amphenicols	can increase	risk of respiratory depression
+risk of respiratory depression	can be	life-threatening
+amphenicols	can lead to	neurotoxicities
+neurotoxicities	can cause	peripheral neuropathies
+amphenicols	can interact with	certain laboratory tests
+certain laboratory tests	include	complete blood count
+amphenicols	can result in	photosensitivity
+photosensitivity	can cause	skin rash
+amphenicols	can cause	metabolic disturbances
+metabolic disturbances	can result in	electrolyte imbalances
+amphenicols	can lead to	increased risk of malignancies
+increased risk of malignancies	can be	hematologic or solid tumors
+amphenicols	can result in	increased risk of drug interactions
+increased risk of drug interactions	can affect	drug effectiveness
+amphenicols	can cause	hepatic dysfunction
+hepatic dysfunction	can result in	elevated liver enzymes
+amphenicols	can lead to	neurologic side effects
+neurologic side effects	can cause	drowsiness
+amphenicols	can result in	cardiotoxicity
+cardiotoxicity	can cause	heart failure
+amphenicols	can increase	risk of neurologic adverse events
+risk of neurologic adverse events	can be	irreversible
+amphenicols	can cause	thrombocytopenia
+thrombocytopenia	can result in	increased bleeding risk
+amphenicols	can lead to	nephrotoxicity
+nephrotoxicity	can cause	kidney damage
+amphenicols	can interact with	certain medical conditions
+certain medical conditions	include	renal impairment
+amphenicols	can cause	aplastic crisis
+aplastic crisis	can result in	decreased red blood cell production
+amphenicols	can increase	risk of skin infections
+risk of skin infections	can result in	cellulitis
+amphenicols	can lead to	developmental toxicity
+developmental toxicity	can cause	birth defects
+amphenicols	can result in	potential drug interactions
+potential drug interactions	can affect	drug metabolism
+amphenicols	can cause	peripheral vascular collapse
+peripheral vascular collapse	can result in	shock
+amphenicols	can increase	risk of gastrointestinal disturbances
+risk of gastrointestinal disturbances	can result in	vomiting
+amphenicols	can lead to	ototoxicity
+ototoxicity	can cause	hearing impairment
+amphenicols	can interact with	certain lab assays
+certain lab assays	include	creatinine clearance
+amphenicols	can cause	hemolytic anemia
+hemolytic anemia	can result in	decreased oxygen-carrying capacity
+amphenicols	can increase	risk of pseudomembranous colitis
+risk of pseudomembranous colitis	can cause	severe diarrhea
+amphenicols	can lead to	neurotoxic effects
+neurotoxic effects	can cause	ataxia
+amphenicols	can result in	gastrointestinal toxicity
+gastrointestinal toxicity	can cause	abdominal cramps
+amphenicols	can cause	tendinitis
+amphenicols	can lead to	mitochondrial disorder
+mitochondrial disorder	can cause	muscle fatigue
+amphenicols	can increase	risk of secondary fungal infections
+risk of secondary fungal infections	can result in	oral thrush
+amphenicols	can result in	ototoxic effects
+ototoxic effects	can cause	tinnitus
+amphenicols	can cause	hemolytic reactions
+hemolytic reactions	can result in	jaundice
+amphenicols	can lead to	hepatopathy
+hepatopathy	can cause	liver dysfunction
+amphenicols	can result in	myelosuppression
+myelosuppression	can cause	decreased white blood cells count
+amphenicols	can increase	risk of secondary infections
+risk of secondary infections	can result in	pneumonia
+amphenicols	can lead to	hyperbilirubinemia
+hyperbilirubinemia	can cause	yellowing of skin
+amphenicols	can interact with	certain diagnostic tests
+certain diagnostic tests	include	urine glucose tests
+amphenicols	can cause	cardiopulmonary impairment
+cardiopulmonary impairment	can result in	difficulty breathing
+amphenicols	can increase	risk of neurological side effects
+risk of neurological side effects	can result in	seizures
+amphenicols	can lead to	nephropathy
+nephropathy	can cause	kidney dysfunction
+amphenicols	can result in	cardiac toxicity
+cardiac toxicity	can cause	abnormal heart rhythms
+amphenicols	can cause	aplastic crisis in patients with underlying disorders
+aplastic crisis in patients with underlying disorders	can result in	life-threatening conditions
+amphenicols	can lead to	neurobehavioral abnormalities
+neurobehavioral abnormalities	can cause	learning difficulties
+amphenicols	can result in	gastrointestinal side effects
+gastrointestinal side effects	can cause	diarrhea
+amphenicols	can cause	photosensitivity reactions
+photosensitivity reactions	can result in	skin redness
+amphenicols	can lead to	increased risk of photosensitivity
+increased risk of photosensitivity	can cause	sunburn
+amphenicols	can result in	musculoskeletal toxicity
+musculoskeletal toxicity	can cause	joint pain
+amphenicols	can increase	risk of adverse drug reactions
+risk of adverse drug reactions	can affect	treatment outcomes
+amphenicols	can cause	hematologic toxicity
+hematologic toxicity	can result in	decreased platelets count
+amphenicols	can lead to	renal impairment
+renal impairment	can cause	kidney failure
+amphenicols	can result in	impaired drug metabolism
+impaired drug metabolism	can affect	drug effectiveness
+amphenicols	can cause	ocular side effects
+ocular side effects	can result in	blurred vision
+amphenicols	can lead to	otoxicity
+otoxicity	can cause	hearing loss
+amphenicols	can result in	skeletal side effects
+skeletal side effects	can cause	bone marrow suppression
+amphenicols	can cause	neurotoxic side effects
+neurotoxic side effects	can result in	dizziness
+amphenicols	can lead to	cardiovascular toxicity
+cardiovascular toxicity	can cause	arrhythmias
+amphenicols	can increase	risk of hepatotoxicity
+risk of hepatotoxicity	can result in	liver damage
+amphenicols	can result in	endocrine dysfunction
+endocrine dysfunction	can cause	hormonal imbalances
+amphenicols	can cause	hematological side effects
+hematological side effects	can result in	anemia
+amphenicols	can lead to	developmental toxicity
+developmental toxicity	can cause	birth abnormalities
+amphenicols	can result in	respiratory toxicity
+respiratory toxicity	can cause	breathing difficulties
+amphenicols	can cause	skin side effects
+skin side effects	can result in	rash
+amphenicols	can lead to	neurotoxicity
+neurotoxicity	can cause	numbness
+amphenicols	can result in	immune system dysfunction
+immune system dysfunction	can cause	increased susceptibility to infections
+amphenicols	can increase	risk of drug resistance
+risk of drug resistance	can result in	treatment failure
+amphenicols	can cause	gastrointestinal side effects
+gastrointestinal side effects	can result in	stomach pain
+amphenicols	can lead to	genotoxicity
+genotoxicity	can cause	DNA damage
+amphenicols	can result in	pulmonary toxicity
+pulmonary toxicity	can cause	lung damage
+amphenicols	can cause	blood side effects
+blood side effects	can result in	decreased white blood cell count
+amphenicols	can lead to	renal side effects
+renal side effects	can cause	kidney dysfunction
+amphenicols	can result in	hepatotoxic effects
+hepatotoxic effects	can cause	liver damage
+amphenicols	can increase	risk of neurologic toxicity
+risk of neurologic toxicity	can result in	seizures
+amphenicols	can cause	cardiovascular side effects
+cardiovascular side effects	can result in	heart palpitations
+amphenicols	can lead to	musculoskeletal side effects
+musculoskeletal side effects	can cause	muscle pain
+amphenicols	can result in	gastrointestinal disturbances
+gastrointestinal disturbances	can cause	vomiting
+amphenicols	can cause	neurological side effects
+neurological side effects	can result in	confusion

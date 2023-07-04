@@ -1,0 +1,16 @@
+chemotherapeutics for topical use	are used for	skin cancer treatment
+chemotherapeutics for topical use	can cause	skin irritation
+chemotherapeutics for topical use	include	5-fluorouracil
+5-fluorouracil	is used in	cancer chemotherapy
+5-fluorouracil	can be	administered intravenously
+5-fluorouracil	is a	chemotherapy drug
+skin cancer	is a	type of cancer
+skin cancer	can be	caused by sun exposure
+skin irritation	may lead to	redness and itching
+chemotherapy	is a	treatment for cancer
+chemotherapy	can cause	hair loss
+chemotherapy drug	may have	toxic effects
+chemotherapy drug	is metabolized by	the liver
+chemotherapy drug	can suppress	the immune system
+X-ray contrast agent	is used for	imaging
+X-ray contrast agent	help	identify abnormalities

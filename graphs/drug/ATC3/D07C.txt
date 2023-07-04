@@ -1,0 +1,143 @@
+corticosteroids	can be combined with	antibiotics
+combination	can be used for	treating infections
+corticosteroids	can have	side effects
+side effects	may include	increased risk of infection
+antibiotics	target	bacterial infections
+corticosteroids	used for	reducing inflammation
+inflammation	can be caused by	bacterial infections
+corticosteroids	can interact with	other medications
+medications	may include	immunosuppressants
+immunosuppressants	used in	organ transplantation
+organ transplantation	can be	life-saving
+corticosteroids	prescribed for	autoimmune disorders
+autoimmune disorders	can affect	multiple organs
+corticosteroids	can be administered	orally
+corticosteroids	can be administered	topically
+topical administration	used for	skin conditions
+skin conditions	can be caused by	allergies
+allergies	can trigger	asthma attacks
+corticosteroids	can be administered	by injection
+corticosteroids	can be administered	by inhalation
+inhalation	used for	asthma treatment
+asthma treatment	can include	bronchodilators
+bronchodilators	help	relax muscles in the airways
+corticosteroids	can be administered	by nasal spray
+nasal spray	used for	allergic rhinitis
+allergic rhinitis	can cause	nasal congestion
+corticosteroids	can be administered	by eye drops
+eye drops	used for	treating eye inflammation
+eye inflammation	can be caused by	allergies
+corticosteroids	can be administered	by injection into joints
+joint injection	used for	arthritis treatment
+arthritis	can cause	joint pain
+corticosteroids	can be administered	by intravenous infusion
+intravenous infusion	used for	severe inflammatory conditions
+severe inflammatory conditions	can be	life-threatening
+corticosteroids	can be administered	by rectal suppository
+rectal suppository	used for	inflammatory bowel diseases
+inflammatory bowel diseases	include	Crohn's disease
+Crohn's disease	can cause	abdominal pain
+corticosteroids	can be administered	by intrathecal injection
+intrathecal injection	used for	spinal cord inflammation
+spinal cord inflammation	can be caused by	infections
+corticosteroids	can be administered	by intra-articular injection
+intra-articular injection	used for	joint pain relief
+corticosteroids	can be administered	by intralesional injection
+intralesional injection	used for	skin conditions
+corticosteroids	can be administered	by epidural injection
+epidural injection	used for	back pain relief
+back pain	can be caused by	herniated disc
+corticosteroids	can be administered	by intraocular injection
+intraocular injection	used for	eye inflammation
+corticosteroids	can be administered	by intramuscular injection
+intramuscular injection	used for	certain infections
+corticosteroids	can be administered	by intrauterine injection
+intrauterine injection	used for	conditions in the uterus
+corticosteroids	can be administered	by intralesional injection
+intralesional injection	used for	keloid treatment
+keloid	can result from	skin trauma
+corticosteroids	can be administered	by intraosseous injection
+intraosseous injection	used for	emergency situations
+emergency situations	can include	cardiac arrest
+corticosteroids	can be administered	by intravitreal injection
+intravitreal injection	used for	retinal diseases
+retinal diseases	can lead to	vision loss
+corticosteroids	can be administered	by intracervical injection
+intracervical injection	used for	cervical ripening
+cervical ripening	necessary for	labor induction
+corticosteroids	can be administered	by intracavernosal injection
+intracavernosal injection	used for	erectile dysfunction
+erectile dysfunction	can be caused by	diabetes
+corticosteroids	can be administered	by intradermal injection
+intradermal injection	used for	allergy testing
+allergy testing	helps identify	specific allergens
+corticosteroids	can be administered	by intraamniotic injection
+intraamniotic injection	used for	fetal lung maturation
+fetal lung maturation	important for	premature births
+corticosteroids	can be administered	by intrathecal injection
+intrathecal injection	used for	pain management
+corticosteroids	can be administered	by intravenous injection
+intravenous injection	used for	quick drug delivery
+corticosteroids	can interact with	alcohol
+alcohol	should be avoided	while taking corticosteroids
+corticosteroids	can interact with	herbal supplements
+herbal supplements	may have	drug interactions
+corticosteroids	can interact with	nonsteroidal anti-inflammatory drugs
+nonsteroidal anti-inflammatory drugs	used for	pain relief
+corticosteroids	can interact with	anticoagulants
+anticoagulants	used for	preventing blood clots
+corticosteroids	can interact with	anticonvulsants
+anticonvulsants	used for	treating seizures
+seizures	can be caused by	epilepsy
+corticosteroids	can interact with	diuretics
+diuretics	used for	reducing fluid retention
+fluid retention	can be a symptom of	heart failure
+corticosteroids	can interact with	oral contraceptives
+oral contraceptives	used for	birth control
+corticosteroids	can interact with	immunizations
+immunizations	recommended for	disease prevention
+corticosteroids	can interact with	antiviral drugs
+antiviral drugs	used for	treating viral infections
+viral infections	can cause	flu-like symptoms
+corticosteroids	can interact with	antifungal drugs
+antifungal drugs	used for	treating fungal infections
+fungal infections	can affect	skin and nails
+corticosteroids	can interact with	antihistamines
+antihistamines	used for	allergy relief
+corticosteroids	can interact with	bronchodilators
+corticosteroids	can interact with	antineoplastic drugs
+antineoplastic drugs	used for	cancer treatment
+cancer	can be treated with	chemotherapy
+corticosteroids	can interact with	antiretroviral drugs
+antiretroviral drugs	used for	managing HIV/AIDS
+HIV/AIDS	can be	life-threatening
+corticosteroids	can interact with	cardiovascular drugs
+cardiovascular drugs	used for	heart disease management
+heart disease	can be caused by	atherosclerosis
+corticosteroids	can interact with	respiratory drugs
+respiratory drugs	used for	managing asthma
+asthma	can be triggered by	allergens
+corticosteroids	can interact with	antihypertensive drugs
+antihypertensive drugs	used for	lowering blood pressure
+high blood pressure	a risk factor for	heart disease
+corticosteroids	can interact with	antidiabetic drugs
+antidiabetic drugs	used for	managing diabetes
+diabetes	can lead to	high blood sugar levels
+corticosteroids	can interact with	antipsychotic drugs
+antipsychotic drugs	used for	treating mental disorders
+mental disorders	can include	schizophrenia
+corticosteroids	can interact with	anticonvulsant drugs
+corticosteroids	can interact with	sedative drugs
+sedative drugs	used for	promoting sleep
+corticosteroids	can interact with	hypnotic drugs
+hypnotic drugs	used for	managing insomnia
+corticosteroids	can interact with	muscle relaxant drugs
+muscle relaxant drugs	used for	relieving muscle spasms
+corticosteroids	can interact with	narcotic analgesics
+narcotic analgesics	used for	pain management
+corticosteroids	can interact with	nonsteroidal anti-inflammatory drugs
+corticosteroids	can interact with	anticoagulant drugs
+corticosteroids	can interact with	immunosuppressant drugs
+corticosteroids	can interact with	aminoglycoside antibiotics
+aminoglycoside antibiotics	used for	treating severe infections
+severe infections	can lead to	sepsis

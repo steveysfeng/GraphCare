@@ -1,0 +1,14 @@
+plant alkaloids	are	natural products
+natural products	can be used as	antineoplastic drugs
+antineoplastic drugs	help to	treat cancer
+plant alkaloids	derived from	plants
+plants	produce	natural products
+antineoplastic drugs	can cause	side effects
+side effects	may include	nausea
+plant alkaloids	are	effective
+effective	at treating	cancer
+antineoplastic drugs	can be administered	intravenously
+intravenously	is a	route of administration
+plant alkaloids	have	medicinal properties
+medicinal properties	of plant alkaloids	can be utilized
+antineoplastic drugs	can result in	remission

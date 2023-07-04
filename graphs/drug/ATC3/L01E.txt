@@ -1,0 +1,98 @@
+protein kinase inhibitors	are	drugs
+protein kinase inhibitors	used as	antineoplastic agents
+protein kinase inhibitors	used as	immunomodulating agents
+antineoplastic agents	may have	side effects
+immunomodulating agents	may have	side effects
+side effects	can include	nausea
+protein kinase inhibitors	interact with	other drugs
+protein kinase inhibitors	can be	prescribed
+protein kinase inhibitors	can treat	cancer
+protein kinase inhibitors	can modulate	immune response
+immune response	can be	enhanced
+protein kinase inhibitors	mechanism of action	inhibits protein kinase activity
+protein kinase inhibitors	target	specific pathways
+specific pathways	involved in	cell growth
+specific pathways	involved in	immune response
+cell growth	can be	inhibited
+protein kinase inhibitors	can lead to	tumor shrinkage
+tumor shrinkage	is a	positive outcome
+protein kinase inhibitors	potential	adverse events
+protein kinase inhibitors	can cause	drug resistance
+drug resistance	can result in	treatment failure
+protein kinase inhibitors	efficacy	varies
+protein kinase inhibitors	pharmacokinetics	differ
+protein kinase inhibitors	doses	must be adjusted
+protein kinase inhibitors	response	can be monitored
+protein kinase inhibitors	should be discontinued	if severe toxicity occurs
+protein kinase inhibitors	alternative	treatment options
+alternative treatment options	include	chemotherapy
+protein kinase inhibitors	contraindicated	in certain patients
+protein kinase inhibitors	may suppress	immune system
+protein kinase inhibitors	should be used	with caution
+protein kinase inhibitors	can interact with	food
+protein kinase inhibitors	lower	blood cell counts
+blood cell counts	should be	monitored
+protein kinase inhibitors	increase	risk of infection
+protein kinase inhibitors	can cause	gastrointestinal issues
+protein kinase inhibitors	should be taken	on an empty stomach
+protein kinase inhibitors	can cross	blood-brain barrier
+blood-brain barrier	limits	drug access
+protein kinase inhibitors	can cross	placenta
+protein kinase inhibitors	should be used	during pregnancy	if benefits outweigh risks
+protein kinase inhibitors	breastfeeding	should be avoided
+protein kinase inhibitors	can be	administered orally
+protein kinase inhibitors	can be	administered intravenously
+protein kinase inhibitors	are	expensive
+protein kinase inhibitors	availability	varies
+protein kinase inhibitors	are available	by prescription
+protein kinase inhibitors	require	close monitoring
+protein kinase inhibitors	should be	stored properly
+protein kinase inhibitors	should not be	crushed or chewed
+protein kinase inhibitors	should be	taken as directed
+protein kinase inhibitors	can have	narrow therapeutic index
+protein kinase inhibitors	dosage adjustments	may be necessary
+protein kinase inhibitors	can cause	cardiovascular toxicity
+cardiovascular toxicity	can manifest as	heart rhythm abnormalities
+protein kinase inhibitors	can lead to	liver toxicity
+protein kinase inhibitors	can affect	kidney function
+kidney function	should be	evaluated
+protein kinase inhibitors	can impair	fertility
+protein kinase inhibitors	precautions	should be taken
+protein kinase inhibitors	can cause	hair loss
+hair loss	is a	common side effect
+protein kinase inhibitors	can affect	quality of life
+quality of life	can be	affected
+protein kinase inhibitors	can have	long-term effects
+protein kinase inhibitors	may require	dose adjustments
+protein kinase inhibitors	may require	treatment interruptions
+protein kinase inhibitors	can increase	risk of bleeding
+protein kinase inhibitors	can affect	wound healing
+wound healing	should be	monitored
+protein kinase inhibitors	can lead to	drug-drug interactions
+drug-drug interactions	can result in	adverse effects
+protein kinase inhibitors	can have	drug-drug interactions
+protein kinase inhibitors	require	thorough evaluation
+protein kinase inhibitors	can cause	hypersensitivity reactions
+hypersensitivity reactions	can manifest as	rash
+protein kinase inhibitors	can cause	fatigue
+fatigue	can be	debilitating
+protein kinase inhibitors	can cause	diarrhea
+protein kinase inhibitors	can cause	vomiting
+protein kinase inhibitors	can cause	anorexia
+protein kinase inhibitors	can cause	weight loss
+protein kinase inhibitors	can affect	mental health
+protein kinase inhibitors	can cause	depression
+protein kinase inhibitors	can cause	anxiety
+protein kinase inhibitors	can cause	insomnia
+protein kinase inhibitors	can cause	cognitive impairment
+cognitive impairment	can affect	memory
+protein kinase inhibitors	can cause	peripheral neuropathy
+protein kinase inhibitors	can cause	alopecia
+protein kinase inhibitors	can cause	skin toxicity
+protein kinase inhibitors	can cause	nail changes
+protein kinase inhibitors	can cause	mucositis
+protein kinase inhibitors	can cause	stomatitis
+protein kinase inhibitors	can cause	hand-foot syndrome
+protein kinase inhibitors	can cause	cardiovascular complications
+protein kinase inhibitors	can cause	pulmonary toxicity
+protein kinase inhibitors	can cause	ocular toxicity

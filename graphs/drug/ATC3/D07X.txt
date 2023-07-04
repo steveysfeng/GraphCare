@@ -1,0 +1,137 @@
+corticosteroids	are	medications
+medications	used for	inflammation
+inflammation	can cause	pain
+corticosteroids	can be combined with	other medications
+other medications	may include	antibiotics
+corticosteroids	used in	asthma treatment
+asthma treatment	helps with	breathing
+corticosteroids	can cause	weight gain
+weight gain	is a	side effect
+corticosteroids	are prescribed for	autoimmune disorders
+autoimmune disorders	can affect	multiple organs
+corticosteroids	used in	dermatology
+dermatology	deals with	skin conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	helps with	pain relief
+corticosteroids	can interact with	other medications
+other medications	may include	antihistamines
+corticosteroids	can be administered via	inhalation
+inhalation	is a	delivery method
+corticosteroids	can be used in	ophthalmology
+ophthalmology	deals with	eye conditions
+corticosteroids	can cause	mood changes
+mood changes	are	side effects
+corticosteroids	used in	rheumatology
+rheumatology	deals with	musculoskeletal disorders
+corticosteroids	are	synthetic hormones
+synthetic hormones	mimic	natural hormones
+corticosteroids	can be injected into	joints
+joints	are	body parts
+corticosteroids	are used to	reduce swelling
+reduce swelling	helps with	pain relief
+corticosteroids	can cause	osteoporosis
+osteoporosis	is a	bone disease
+corticosteroids	are used in	organ transplantation
+organ transplantation	involves	moving organs
+corticosteroids	can cause	fluid retention
+fluid retention	is a	side effect
+corticosteroids	used in	neurology
+neurology	deals with	nerves and the brain
+corticosteroids	are prescribed for	brain inflammation
+brain inflammation	can be caused by	infections
+corticosteroids	used in	gastroenterology
+gastroenterology	deals with	digestive system disorders
+corticosteroids	are used to	reduce swelling
+reduce swelling	can relieve	abdominal pain
+corticosteroids	can suppress	immune system
+immune system	protects against	infections
+corticosteroids	used in	oncology
+oncology	deals with	cancer treatment
+corticosteroids	can cause	hyperglycemia
+hyperglycemia	is a	side effect
+corticosteroids	are	synthetic hormones
+synthetic hormones	can mimic	natural hormones
+corticosteroids	used in	pulmonology
+pulmonology	deals with	respiratory conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can improve	lung function
+corticosteroids	can cause	hypertension
+hypertension	is a	side effect
+corticosteroids	are used in	hematology
+hematology	deals with	blood disorders
+corticosteroids	can be used to	treat anemia
+anemia	is a	blood condition
+corticosteroids	can cause	diabetes
+diabetes	is a	metabolic disorder
+corticosteroids	used in	endocrinology
+endocrinology	deals with	hormone disorders
+corticosteroids	are used to	regulate hormone levels
+regulate hormone levels	can treat	hormonal imbalances
+corticosteroids	can cause	insomnia
+insomnia	is a	side effect
+corticosteroids	used in	nephrology
+nephrology	deals with	kidney conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can improve	kidney function
+corticosteroids	can cause	cataracts
+cataracts	are	eye conditions
+corticosteroids	are commonly used in	primary care
+primary care	deals with	general health
+corticosteroids	can be used to	treat allergies
+allergies	can cause	allergic reactions
+corticosteroids	are used in	geriatrics
+geriatrics	deals with	elderly care
+corticosteroids	are recommended for	asthma exacerbations
+asthma exacerbations	can cause	difficulty breathing
+corticosteroids	can cause	immunosuppression
+immunosuppression	reduces	immune system activity
+corticosteroids	used in	cardiology
+cardiology	deals with	heart conditions
+corticosteroids	can be used to	reduce inflammation
+reduce inflammation	can improve	heart function
+corticosteroids	can cause	muscle weakness
+muscle weakness	is a	side effect
+corticosteroids	used in	urology
+urology	deals with	urinary system disorders
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can relieve	urinary symptoms
+corticosteroids	can cause	adrenal insufficiency
+adrenal insufficiency	is a	hormonal disorder
+corticosteroids	used in	psychiatry
+psychiatry	deals with	mental health conditions
+corticosteroids	can be used to	treat depression
+depression	can cause	low mood
+corticosteroids	can cause	muscle wasting
+muscle wasting	is a	side effect
+corticosteroids	used in	orthopedics
+orthopedics	deals with	musculoskeletal conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can help with	pain relief
+corticosteroids	can cause	thinning of the skin
+thinning of the skin	is a	side effect
+corticosteroids	can be used in	otolaryngology
+otolaryngology	deals with	ear	nose	and throat conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can improve	symptoms of ENT conditions
+corticosteroids	can cause	delayed wound healing
+delayed wound healing	is a	side effect
+corticosteroids	used in	pulmonology
+pulmonology	deals with	respiratory conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can improve	lung function
+corticosteroids	can cause	acne
+acne	is a	skin condition
+corticosteroids	used in	nephrology
+nephrology	deals with	kidney conditions
+corticosteroids	are used to	reduce inflammation
+reduce inflammation	can improve	kidney function
+corticosteroids	can cause	gastric ulcers
+gastric ulcers	are	digestive system conditions
+corticosteroids	are commonly used in	primary care
+primary care	deals with	general health
+corticosteroids	can be used to	treat allergic reactions
+allergic reactions	can cause	itching
+corticosteroids	are used in	geriatrics
+geriatrics	deals with	elderly care
+corticosteroids	are recommended for	pain management
+pain management	can help with	pain relief

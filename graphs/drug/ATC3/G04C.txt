@@ -1,0 +1,135 @@
+drugs	used in	benign prostatic hypertrophy
+drugs	can treat	enlarged prostate
+benign prostatic hypertrophy	can cause	urinary symptoms
+drugs	may have	side effects
+side effects	can include	dizziness
+drugs	work by	relaxing bladder muscles
+benign prostatic hypertrophy	increases	risk of urinary tract infections
+drugs	decrease	prostate size
+drugs	can improve	urinary flow
+benign prostatic hypertrophy	affects	older men
+drugs	alleviate	urinary frequency
+benign prostatic hypertrophy	can lead to	urinary retention
+drugs	reduce	prostate inflammation
+benign prostatic hypertrophy	can result in	kidney damage
+drugs	inhibit	5-alpha-reductase enzyme
+5-alpha-reductase enzyme	converts	testosterone to dihydrotestosterone
+benign prostatic hypertrophy	requires	long-term medication
+drugs	help	relieve urinary urgency
+benign prostatic hypertrophy	increases	risk of bladder stones
+drugs	block	alpha-adrenergic receptors
+alpha-adrenergic receptors	found in	prostate gland
+benign prostatic hypertrophy	can cause	erectile dysfunction
+drugs	reduce	prostate-specific antigen levels
+benign prostatic hypertrophy	can lead to	bladder outlet obstruction
+drugs	improve	quality of life
+benign prostatic hypertrophy	leads to	incomplete bladder emptying
+drugs	prevent	urinary incontinence
+benign prostatic hypertrophy	causes	urinary hesitancy
+drugs	increase	urine flow rate
+benign prostatic hypertrophy	results in	elevated post-void residual volume
+drugs	alleviate	nocturia
+benign prostatic hypertrophy	causes	weak urinary stream
+drugs	decrease	prostate-specific antigen levels
+benign prostatic hypertrophy	can require	surgical intervention
+drugs	reduce	prostate volume
+benign prostatic hypertrophy	affects	urinary system
+drugs	target	alpha-1 adrenergic receptors
+alpha-1 adrenergic receptors	found in	prostate and bladder neck
+benign prostatic hypertrophy	increases	risk of urinary retention
+drugs	improve	urinary symptoms
+benign prostatic hypertrophy	results in	bladder outlet obstruction
+drugs	inhibit	testosterone conversion
+benign prostatic hypertrophy	causes	frequent urination
+drugs	decrease	prostate-specific antigen levels
+benign prostatic hypertrophy	can lead to	urinary tract infections
+drugs	relax	smooth muscles in bladder
+benign prostatic hypertrophy	requires	regular monitoring
+drugs	alleviate	urinary urgency incontinence
+benign prostatic hypertrophy	can result in	renal insufficiency
+drugs	decrease	urinary hesitancy
+benign prostatic hypertrophy	causes	weakened urinary stream
+drugs	improve	urinary flow rate
+benign prostatic hypertrophy	leads to	increased post-void residual volume
+drugs	reduce	nocturia
+benign prostatic hypertrophy	can cause	bladder stones
+drugs	target	androgen receptors
+androgen receptors	found in	prostate tissue
+benign prostatic hypertrophy	increases	risk of prostate cancer
+drugs	alleviate	urinary frequency
+benign prostatic hypertrophy	can require	intermittent catheterization
+drugs	reduce	prostate-specific antigen levels
+benign prostatic hypertrophy	affects	urinary sphincter
+drugs	prevent	acute urinary retention
+benign prostatic hypertrophy	causes	urinary dribbling
+drugs	decrease	prostate size
+benign prostatic hypertrophy	is associated with	lower urinary tract symptoms
+drugs	improve	urinary symptoms
+benign prostatic hypertrophy	can result in	hydronephrosis
+drugs	relax	smooth muscles in prostate
+benign prostatic hypertrophy	requires	lifestyle modifications
+drugs	alleviate	urinary urgency incontinence
+benign prostatic hypertrophy	increases	risk of bladder dysfunction
+drugs	target	5-alpha-reductase enzyme
+5-alpha-reductase enzyme	converts	testosterone to dihydrotestosterone
+benign prostatic hypertrophy	can cause	post-void dribbling
+drugs	reduce	risk of urinary retention
+benign prostatic hypertrophy	leads to	decreased bladder capacity
+drugs	improve	urinary flow
+benign prostatic hypertrophy	affects	urinary frequency
+drugs	block	alpha-adrenergic receptors
+alpha-adrenergic receptors	found in	prostate and bladder neck
+benign prostatic hypertrophy	increases	risk of bladder outlet obstruction
+drugs	alleviate	urinary urgency
+benign prostatic hypertrophy	can lead to	chronic kidney disease
+drugs	decrease	prostate-specific antigen levels
+benign prostatic hypertrophy	requires	regular follow-up
+drugs	relieve	urinary obstruction
+benign prostatic hypertrophy	causes	weak urine stream
+drugs	increase	urine flow
+benign prostatic hypertrophy	results in	elevated post-void residual volume
+drugs	reduce	nocturnal polyuria
+benign prostatic hypertrophy	can lead to	urinary incontinence
+drugs	target	alpha-1 adrenergic receptors
+alpha-1 adrenergic receptors	found in	prostate tissue
+benign prostatic hypertrophy	increases	risk of urinary urgency
+drugs	improve	urinary symptoms
+benign prostatic hypertrophy	causes	bladder outlet obstruction
+drugs	inhibit	testosterone conversion
+benign prostatic hypertrophy	leads to	urinary hesitancy
+drugs	decrease	prostate-specific antigen levels
+benign prostatic hypertrophy	can result in	infection of urinary tract
+drugs	relax	smooth muscles in bladder
+benign prostatic hypertrophy	requires	regular check-ups
+drugs	alleviate	urinary urgency incontinence
+benign prostatic hypertrophy	increases	risk of hydronephrosis
+drugs	decrease	urinary hesitancy
+benign prostatic hypertrophy	causes	weakened urine stream
+drugs	improve	urinary flow rate
+benign prostatic hypertrophy	leads to	increased residual urine volume
+drugs	reduce	frequency of urination
+benign prostatic hypertrophy	can cause	bladder stone formation
+drugs	target	androgen receptors
+androgen receptors	found in	prostate and bladder neck
+benign prostatic hypertrophy	increases	risk of urinary tract infection
+drugs	alleviate	urinary frequency
+benign prostatic hypertrophy	can require	intermittent self-catheterization
+drugs	reduce	prostate-specific antigen levels
+benign prostatic hypertrophy	affects	detrusor muscle
+drugs	prevent	acute urinary retention
+benign prostatic hypertrophy	causes	urinary dribbling
+drugs	decrease	prostate size
+benign prostatic hypertrophy	is associated with	lower urinary tract dysfunction
+drugs	improve	urinary symptoms
+benign prostatic hypertrophy	can result in	renal impairment
+drugs	relax	smooth muscles in prostate
+benign prostatic hypertrophy	requires	dietary modifications
+drugs	alleviate	urinary urgency incontinence
+benign prostatic hypertrophy	increases	risk of bladder dysfunction
+drugs	target	5-alpha-reductase enzyme
+5-alpha-reductase enzyme	converts	testosterone to dihydrotestosterone
+benign prostatic hypertrophy	can cause	post-void dribbling
+drugs	reduce	risk of urinary retention
+benign prostatic hypertrophy	leads to	decreased bladder capacity
+drugs	improve	urinary flow
+benign prostatic hypertrophy	affects	urinary frequency

@@ -1,0 +1,92 @@
+sulfonamides	are	antibacterials
+trimethoprim	is	an antibacterial
+sulfonamides	and	trimethoprim	are	antibacterials
+sulfonamides	and	trimethoprim	used for	systemic use
+systemic use	is	for treating infections
+sulfonamides	and	trimethoprim	may have	side effects
+side effects	can include	allergic reactions
+sulfonamides	and	trimethoprim	can interact with	other medications
+sulfonamides	and	trimethoprim	may cause	drug resistance
+sulfonamides	and	trimethoprim	can result in	bacterial overgrowth
+bacterial overgrowth	leads to	superinfections
+sulfonamides	and	trimethoprim	can cause	blood disorders
+blood disorders	can lead to	anemia
+sulfonamides	and	trimethoprim	can cause	kidney damage
+kidney damage	can result in	renal failure
+sulfonamides	can treat	urinary tract infections
+trimethoprim	can treat	respiratory tract infections
+sulfonamides	and	trimethoprim	are	prescription drugs
+prescription drugs	need	a doctor's approval
+sulfonamides	and	trimethoprim	are	available in different formulations
+different formulations	include	tablets
+different formulations	include	oral suspension
+different formulations	include	injectable solution
+sulfonamides	and	trimethoprim	can be	administered orally
+sulfonamides	and	trimethoprim	can be	administered intravenously
+sulfonamides	and	trimethoprim	can be	administered topically
+sulfonamides	and	trimethoprim	should be	stored at room temperature
+sulfonamides	and	trimethoprim	should be	kept away from moisture
+sulfonamides	and	trimethoprim	should be	kept out of reach of children
+sulfonamides	and	trimethoprim	should not be	used past their expiration date
+sulfonamides	and	trimethoprim	can have	different brand names
+different brand names	include	Bactrim
+different brand names	include	Septra
+different brand names	include	Sulfatrim
+sulfonamides	and	trimethoprim	are	effective against bacteria
+trimethoprim	can inhibit	bacterial growth
+sulfonamides	can interfere with	bacterial metabolism
+sulfonamides	and	trimethoprim	work by	inhibiting different steps of bacterial folate synthesis
+sulfonamides	and	trimethoprim	can be	bactericidal
+sulfonamides	and	trimethoprim	can be	bacteriostatic
+bactericidal	means	causing bacterial death
+bacteriostatic	means	inhibiting bacterial growth
+sulfonamides	and	trimethoprim	are	commonly used in combination
+sulfonamides	and	trimethoprim	combination	is	called co-trimoxazole
+co-trimoxazole	can be	more effective than single drug therapy
+co-trimoxazole	is	used to treat	certain types of infections
+sulfonamides	and	trimethoprim	have	different mechanisms of action
+sulfonamides	inhibit	bacterial folic acid synthesis
+trimethoprim	inhibits	bacterial dihydrofolate reductase
+inhibition of folic acid synthesis	leads to	impaired DNA synthesis
+inhibition of folic acid synthesis	leads to	impaired protein synthesis
+sulfonamides	and	trimethoprim	can have	synergistic effects
+synergistic effects	mean	enhanced antibacterial activity
+sulfonamides	and	trimethoprim	can be	used together to treat	urinary tract infections
+sulfonamides	and	trimethoprim	can be	used together to treat	respiratory tract infections
+sulfonamides	and	trimethoprim	can be	used together to treat	gastrointestinal infections
+sulfonamides	and	trimethoprim	are	not effective against viral infections
+sulfonamides	and	trimethoprim	should not be	used to treat	common cold
+sulfonamides	and	trimethoprim	should not be	used to treat	flu
+sulfonamides	and	trimethoprim	should not be	used to treat	other viral infections
+sulfonamides	and	trimethoprim	can require	dose adjustment in patients with impaired kidney function
+sulfonamides	and	trimethoprim	can cross	placental barrier
+trimethoprim	can be	excreted in breast milk
+sulfonamides	and	trimethoprim	can be	contraindicated in pregnancy
+sulfonamides	and	trimethoprim	should not be	used by breastfeeding mothers
+sulfonamides	and	trimethoprim	should be	used with caution in the elderly
+sulfonamides	and	trimethoprim	can have	drug interactions
+sulfonamides	and	trimethoprim	can interact with	anticoagulant medications
+sulfonamides	and	trimethoprim	can interact with	sulfonylureas
+sulfonamides	and	trimethoprim	can interact with	methotrexate
+sulfonamides	and	trimethoprim	can interact with	phenytoin
+sulfonamides	and	trimethoprim	can interact with	dofetilide
+sulfonamides	and	trimethoprim	can interact with	cyclosporine
+sulfonamides	and	trimethoprim	can interact with	digoxin
+sulfonamides	and	trimethoprim	can interact with	lithium
+sulfonamides	and	trimethoprim	can interact with	angiotensin-converting enzyme inhibitors
+sulfonamides	and	trimethoprim	can interact with	diuretics
+sulfonamides	and	trimethoprim	can interact with	potassium supplements
+sulfonamides	and	trimethoprim	can interact with	probenecid
+sulfonamides	and	trimethoprim	can interact with	cyclophosphamide
+sulfonamides	and	trimethoprim	can interact with	pyrimethamine
+sulfonamides	and	trimethoprim	can interact with	cholestyramine
+sulfonamides	and	trimethoprim	can interact with	oral contraceptives
+sulfonamides	and	trimethoprim	can interact with	rifampin
+sulfonamides	and	trimethoprim	can interact with	antidiabetic drugs
+sulfonamides	and	trimethoprim	can interact with	warfarin
+sulfonamides	and	trimethoprim	can interact with	oral hypoglycemic agents
+sulfonamides	and	trimethoprim	can interact with	phenothiazines
+sulfonamides	and	trimethoprim	can interact with	tricyclic antidepressants
+sulfonamides	and	trimethoprim	can interact with	diuretics
+sulfonamides	and	trimethoprim	can interact with	cyclosporine
+sulfonamides	and	trimethoprim	can interact with	methotrexate

@@ -1,0 +1,119 @@
+drugs	are used for	treatment of lepra
+drugs	can include	dapsone
+dapsone	is a	medication
+medication	can be used for	lepra treatment
+dapsone	may cause	side effects
+side effects	can include	anemia
+dapsone	can interact with	rifampicin
+rifampicin	is an	antibiotic
+antibiotic	is used for	lepra treatment
+rifampicin	may have	drug interactions
+drug interactions	can lead to	decreased effectiveness of dapsone
+dapsone	can be combined with	clofazimine
+clofazimine	is another	medication
+medication	is used for	lepra treatment
+dapsone	can also be combined with	ethionamide
+ethionamide	is a	drug
+drug	is used for	lepra treatment
+drugs	should be used under	medical supervision
+medical supervision	is necessary for	lepra treatment
+lepra treatment	requires	long-term medication
+lepra treatment	can lead to	improvement of symptoms
+symptoms	can include	skin lesions
+improvement of symptoms	can result in	reduced transmission of lepra
+lepra	is a	chronic infectious disease
+disease	can be caused by	Mycobacterium leprae
+Mycobacterium leprae	is a	bacterium
+bacterium	can infect	skin and peripheral nerves
+skin and peripheral nerves	are affected by	lepra
+lepra	can lead to	nerve damage
+nerve damage	can cause	loss of sensation
+nerve damage	can also cause	muscle weakness
+loss of sensation	can result in	injuries
+muscle weakness	can lead to	disability
+lepra	can be diagnosed through	a skin biopsy
+skin biopsy	is a	diagnostic procedure
+diagnostic procedure	involves	removing a small piece of skin
+diagnostic procedure	can confirm	presence of Mycobacterium leprae
+lepra	can be treated through	multidrug therapy
+multidrug therapy	is a	treatment approach
+treatment approach	involves	simultaneous use of multiple drugs
+multidrug therapy	can last	for several months or years
+multidrug therapy	is effective in	curing lepra
+lepra	can lead to	disability
+disability	can be prevented with	early diagnosis and treatment
+lepra	can result in	social stigma
+social stigma	can lead to	discrimination
+lepra	can be prevented through	contact tracing
+contact tracing	involves	identifying and monitoring individuals in close contact with lepra patients
+contact tracing	is important for	early detection and treatment
+lepra	can be prevented through	vaccination
+vaccination	is a	preventive measure
+preventive measure	can reduce	lepra incidence
+lepra	can be managed through	supportive care
+supportive care	involves	managing symptoms and complications
+lepra	can affect	quality of life
+quality of life	can be improved with	appropriate care and support
+lepra	can be controlled with	public health measures
+public health measures	include	health education and awareness campaigns
+health education and awareness campaigns	are important for	early detection and treatment
+lepra	can have	long-term consequences
+long-term consequences	can include	permanent disability
+long-term consequences	can also include	deformities
+permanent disability	can result in	reduced mobility
+deformities	can cause	functional impairment
+lepra	can be a	global health issue
+global health issue	requires	international collaboration
+international collaboration	is necessary for	lepra control
+lepra control	can lead to	elimination of the disease
+lepra	can coexist with	other neglected tropical diseases
+other neglected tropical diseases	can have	overlapping symptoms
+lepra	can be a	public health priority
+public health priority	requires	allocation of resources
+allocation of resources	is important for	lepra control
+lepra	can have	socioeconomic impact
+socioeconomic impact	can include	loss of productivity
+socioeconomic impact	can also include	financial burden
+loss of productivity	can result in	economic losses
+financial burden	can lead to	poverty
+lepra	can be a	treatable condition
+treatable condition	requires	access to healthcare services
+access to healthcare services	is crucial for	lepra management
+lepra	can be a	chronic condition
+chronic condition	requires	long-term care
+long-term care	involves	regular monitoring and follow-up
+regular monitoring and follow-up	is necessary for	disease management
+lepra	can have	varying clinical presentation
+varying clinical presentation	can make	diagnosis challenging
+lepra	can be transmitted through	respiratory droplets
+respiratory droplets	can contain	Mycobacterium leprae
+lepra	can be prevented by	practicing good hygiene
+practicing good hygiene	includes	regular handwashing
+regular handwashing	can reduce	risk of transmission
+lepra	can have	different forms
+different forms	include	tuberculoid lepra and lepromatous lepra
+tuberculoid lepra	is a	milder form
+tuberculoid lepra	can cause	skin plaques
+lepromatous lepra	is a	more severe form
+lepromatous lepra	can cause	widespread skin lesions
+lepra	can have	genetic susceptibility
+genetic susceptibility	can increase	risk of developing the disease
+lepra	can have	relapses
+relapses	can occur	after completing treatment
+lepra	can result in	stigma and discrimination
+stigma and discrimination	can have	negative impact on mental health
+lepra	can be associated with	social exclusion
+social exclusion	can contribute to	psychological distress
+lepra	can be a	notifiable disease
+notifiable disease	requires	reporting to public health authorities
+reporting to public health authorities	is important for	disease surveillance
+lepra	can have	implications for pregnancy
+implications for pregnancy	can include	increased risk of adverse outcomes
+lepra	can affect	both adults and children
+adults and children	may require	different treatment approaches
+lepra	can have	diagnostic challenges
+diagnostic challenges	can delay	timely treatment
+diagnostic challenges	can be overcome with	specialized tests
+specialized tests	can detect	Mycobacterium leprae
+lepra	can be a	reemerging disease
+reemerging disease	requires	intensified control efforts

@@ -1,0 +1,12 @@
+beta-lactam antibacterials	are a class of	drugs
+penicillins	are a type of	beta-lactam antibacterials
+beta-lactam antibacterials	mechanism of action	inhibiting bacterial cell wall synthesis
+penicillins	mechanism of action	binding to penicillin-binding proteins
+beta-lactam antibacterials	commonly used for	bacterial infections
+penicillins	commonly used for	respiratory tract infections
+beta-lactam antibacterials	can cause	allergic reactions
+penicillins	can cause	diarrhea
+beta-lactam antibacterials	examples	amoxicillin
+penicillins	examples	amoxicillin
+beta-lactam antibacterials	may interact with	probenecid
+penicillins	may interact with	probenecid

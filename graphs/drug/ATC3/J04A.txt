@@ -1,0 +1,50 @@
+drugs	are used for	treatment
+treatment	is for	tuberculosis
+drugs	can include	isoniazid
+drugs	can include	rifampin
+drugs	can include	ethambutol
+drugs	can include	pyrazinamide
+isoniazid	belongs to	antituberculosis drugs
+rifampin	belongs to	antituberculosis drugs
+ethambutol	belongs to	antituberculosis drugs
+pyrazinamide	belongs to	antituberculosis drugs
+isoniazid	is used to	treat tuberculosis
+rifampin	is used to	treat tuberculosis
+ethambutol	is used to	treat tuberculosis
+pyrazinamide	is used to	treat tuberculosis
+isoniazid	mechanism of action	inhibits the synthesis of mycolic acid
+rifampin	mechanism of action	inhibits the RNA synthesis
+ethambutol	mechanism of action	inhibits the cell wall synthesis
+pyrazinamide	mechanism of action	disrupts the energy metabolism
+isoniazid	may cause	liver damage
+rifampin	may cause	orange-colored body fluids
+ethambutol	may cause	vision problems
+pyrazinamide	may cause	joint pain
+tuberculosis	is a	bacterial infection
+tuberculosis	can affect	lungs
+tuberculosis	can affect	other parts of the body
+tuberculosis	is caused by	Mycobacterium tuberculosis
+tuberculosis	is transmitted through	respiratory droplets
+tuberculosis	can lead to	death
+tuberculosis	can cause	persistent cough
+tuberculosis	can cause	weight loss
+tuberculosis	can cause	night sweats
+tuberculosis	can cause	fever
+tuberculosis	can cause	fatigue
+tuberculosis	can cause	chest pain
+tuberculosis	can cause	loss of appetite
+tuberculosis	can cause	chills
+tuberculosis	can cause	coughing up blood
+tuberculosis	can cause	shortness of breath
+tuberculosis	can cause	swollen lymph nodes
+tuberculosis	can cause	weakened immune system
+tuberculosis	can be diagnosed through	chest X-ray
+tuberculosis	can be diagnosed through	sputum test
+tuberculosis	can be diagnosed through	blood test
+tuberculosis	can be treated with	multiple drugs
+tuberculosis	treatment duration	depends on the drug regimen
+tuberculosis	treatment can include	directly observed therapy
+tuberculosis	treatment can include	isolation
+tuberculosis	can be preventable through	vaccination
+vaccination	can provide	immunity against tuberculosis
+vaccination	is called	Bacillus Calmette-Guérin (BCG) vaccine

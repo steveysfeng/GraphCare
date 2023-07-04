@@ -1,0 +1,4 @@
+muscle relaxants	are	drugs
+muscle relaxants	used for	muscle spasms
+muscle spasms	can cause	pain
+muscle relaxants	can be classified as	peripherally acting agents

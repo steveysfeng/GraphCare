@@ -1,0 +1,75 @@
+corticosteroids	are a	type of medication
+antiseptics	kill	bacteria
+corticosteroids	may be combined with	antiseptics
+corticosteroids	used to treat	inflammation
+inflammation	can cause	pain
+bacteria	can cause	infections
+corticosteroids	can reduce	pain
+corticosteroids	can treat	certain skin conditions
+corticosteroids	can interact with	antiseptics
+corticosteroids	can have	side effects
+side effects	may include	weight gain
+corticosteroids	can suppress	immune system
+immune system	fights	infections
+corticosteroids	can increase	risk of infections
+corticosteroids	can affect	hormone levels
+hormone levels	can impact	various bodily functions
+corticosteroids	can worsen	certain medical conditions
+corticosteroids	can be administered	orally
+corticosteroids	can be administered	topically
+corticosteroids	can be administered	by injection
+topically	means	applied to the skin
+corticosteroids	can be used	short-term
+corticosteroids	can be used	long-term
+corticosteroids	can be used	as eye drops
+corticosteroids	can be used	as nasal sprays
+corticosteroids	can be used	as inhalers
+corticosteroids	can be used	as creams
+corticosteroids	can be used	as ointments
+corticosteroids	can be used	as solutions
+corticosteroids	can be used	for asthma
+asthma	is a	respiratory condition
+corticosteroids	can be used	for allergies
+allergies	cause	allergic reactions
+corticosteroids	can be used	for eczema
+eczema	is a	skin condition
+corticosteroids	can be used	for psoriasis
+psoriasis	is a	skin condition
+corticosteroids	can be used	for arthritis
+arthritis	causes	joint inflammation
+corticosteroids	can be used	for inflammatory bowel disease
+inflammatory bowel disease	affects	the digestive tract
+corticosteroids	can be used	for multiple sclerosis
+multiple sclerosis	affects	the nervous system
+corticosteroids	should be used	under medical supervision
+corticosteroids	should not be abruptly discontinued
+corticosteroids	should be tapered off	gradually
+corticosteroids	should not be used	during certain infections
+corticosteroids	should not be used	by pregnant women
+corticosteroids	should not be used	by breastfeeding women
+corticosteroids	should be avoided	by people with certain medical conditions
+corticosteroids	may interact with	other medications
+corticosteroids	may increase	blood sugar levels
+corticosteroids	may increase	blood pressure
+corticosteroids	may decrease	bone density
+bone density	is a	measure of bone strength
+corticosteroids	may cause	fluid retention
+fluid retention	can lead to	swelling
+corticosteroids	may cause	mood changes
+corticosteroids	may cause	insomnia
+corticosteroids	may cause	cataracts
+cataracts	cause	clouded vision
+corticosteroids	may cause	glaucoma
+glaucoma	is a	eye condition
+corticosteroids	may affect	growth in children
+growth	is a	developmental process
+corticosteroids	may increase	risk of adrenal suppression
+adrenal suppression	affects	adrenal gland function
+corticosteroids	can be combined with	antiseptics for skin infections
+corticosteroids	can be combined with	antiseptics for wound care
+corticosteroids	can be combined with	antiseptics for dermatitis
+dermatitis	causes	skin inflammation
+corticosteroids	can be combined with	antiseptics for burns
+burns	cause	skin damage
+corticosteroids	can be combined with	antiseptics for acne
+acne	is a	skin condition

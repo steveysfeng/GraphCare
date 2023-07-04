@@ -1,0 +1,19 @@
+other beta-lactam antibacterials	belong to	the ATC group "J01C"
+the ATC group "J01C"	includes	amoxicillin
+amoxicillin	is a	beta-lactam antibacterial
+amoxicillin	can be used for	treating infections
+amoxicillin	is commonly prescribed for	respiratory tract infections
+respiratory tract infections	include	pneumonia
+amoxicillin	is not effective against	viral infections
+amoxicillin	can cause	allergic reactions
+allergic reactions	can range from	mild itching to severe anaphylaxis
+amoxicillin	should be avoided	by individuals with a history of penicillin allergy
+amoxicillin	is often combined with	clavulanic acid
+clavulanic acid	is a	beta-lactamase inhibitor
+the combination of amoxicillin and clavulanic acid	can treat	beta-lactamase-producing bacterial infections
+amoxicillin	is available in	various formulations such as tablets	capsules	and suspensions
+amoxicillin	can interact with	certain medications	such as probenecid
+probenecid	can increase	the blood levels of amoxicillin
+amoxicillin	is generally safe to use	during pregnancy
+amoxicillin	is excreted in	breast milk
+amoxicillin	can be dosed	based on the patient's weight or age

@@ -1,0 +1,138 @@
+macrolides	are	antibiotics
+lincosamides	are	antibiotics
+streptogramins	are	antibiotics
+macrolides	target	bacterial ribosomes
+lincosamides	target	bacterial ribosomes
+streptogramins	target	bacterial ribosomes
+macrolides	used to treat	respiratory tract infections
+macrolides	used to treat	skin infections
+macrolides	used to treat	sexually transmitted infections
+macrolides	used to treat	gastrointestinal infections
+lincosamides	used to treat	skin infections
+lincosamides	used to treat	respiratory tract infections
+lincosamides	used to treat	bone infections
+lincosamides	used to treat	joint infections
+lincosamides	used to treat	abdominal infections
+streptogramins	used to treat	skin infections
+streptogramins	used to treat	respiratory tract infections
+streptogramins	used to treat	bloodstream infections
+streptogramins	used to treat	bone infections
+streptogramins	used to treat	joint infections
+macrolides	can cause	gastrointestinal side effects
+macrolides	can cause	liver toxicity
+macrolides	can cause	allergic reactions
+macrolides	can cause	drug interactions
+macrolides	can cause	QT prolongation
+lincosamides	can cause	gastrointestinal side effects
+lincosamides	can cause	allergic reactions
+lincosamides	can cause	Clostridium difficile infection
+lincosamides	can cause	drug interactions
+lincosamides	can cause	neutropenia
+streptogramins	can cause	gastrointestinal side effects
+streptogramins	can cause	joint pains
+streptogramins	can cause	liver toxicity
+streptogramins	can cause	drug interactions
+macrolides	interact with	warfarin
+macrolides	interact with	statins
+macrolides	interact with	antifungals
+macrolides	interact with	calcium channel blockers
+macrolides	interact with	immunosuppressants
+macrolides	interact with	certain types of birth control
+lincosamides	interact with	neuromuscular blocking agents
+lincosamides	interact with	macrolides
+lincosamides	interact with	calcium channel blockers
+lincosamides	interact with	certain types of birth control
+lincosamides	interact with	statins
+lincosamides	interact with	anti-arrhythmics
+streptogramins	interact with	macrolides
+streptogramins	interact with	calcium channel blockers
+streptogramins	interact with	certain types of birth control
+streptogramins	interact with	antifungals
+streptogramins	interact with	antihypertensive medications
+macrolides	are contraindicated in	patients with hypersensitivity
+macrolides	are contraindicated in	patients with myasthenia gravis
+macrolides	are contraindicated in	patients with liver disease
+macrolides	are contraindicated in	pregnant women
+lincosamides	are contraindicated in	patients with hypersensitivity
+lincosamides	are contraindicated in	pregnant women
+lincosamides	are contraindicated in	patients with regional enteritis
+lincosamides	are contraindicated in	patients with ulcerative colitis
+streptogramins	are contraindicated in	patients with hypersensitivity
+streptogramins	are contraindicated in	patients with liver disease
+streptogramins	are contraindicated in	patients with myasthenia gravis
+macrolides	can interact with	clarithromycin
+macrolides	can interact with	erythromycin
+macrolides	can interact with	azithromycin
+macrolides	can interact with	telithromycin
+lincosamides	can interact with	clindamycin
+lincosamides	can interact with	lincomycin
+lincosamides	can interact with	pirlimycin
+lincosamides	can interact with	clindamycin phosphate
+streptogramins	can interact with	dalfopristin
+streptogramins	can interact with	quinupristin
+streptogramins	can interact with	pristinamycin
+streptogramins	can interact with	quinupristin-dalfopristin
+macrolides	have	bacteriostatic properties
+lincosamides	have	bacteriostatic properties
+streptogramins	have	bacteriostatic properties
+macrolides	have	anti-inflammatory effects
+lincosamides	have	anti-inflammatory effects
+streptogramins	have	anti-inflammatory effects
+macrolides	inhibit	protein synthesis in bacteria
+lincosamides	inhibit	protein synthesis in bacteria
+streptogramins	inhibit	protein synthesis in bacteria
+macrolides	can be	macrolactones
+lincosamides	can be	lincosamides
+streptogramins	can be	streptogramins
+macrolides	include	erythromycin
+macrolides	include	azithromycin
+macrolides	include	clarithromycin
+lincosamides	include	clindamycin
+lincosamides	include	lincomycin
+streptogramins	include	dalfopristin
+streptogramins	include	quinupristin
+macrolides	are also known as	macrolactones
+lincosamides	are also known as	clindamycins
+streptogramins	are also known as	streptogramins or pristinamycins
+macrolides	are used in	combination therapies
+lincosamides	are used in	combination therapies
+streptogramins	are used in	combination therapies
+macrolides	are	well-tolerated
+lincosamides	are	well-tolerated
+streptogramins	are	well-tolerated
+macrolides	have	broad-spectrum activity
+lincosamides	have	broad-spectrum activity
+streptogramins	have	broad-spectrum activity
+macrolides	can be	oral medications
+lincosamides	can be	oral medications
+streptogramins	can be	intravenous medications
+macrolides	can be	topical medications
+lincosamides	can be	topical medications
+streptogramins	can be	intramammary infusions
+macrolides	are available in	generic forms
+lincosamides	are available in	generic forms
+streptogramins	are available in	generic forms
+macrolides	are	macrolide antibiotics
+lincosamides	are	lincosamide antibiotics
+streptogramins	are	streptogramin antibiotics
+macrolides	may treat	chlamydia infections
+macrolides	may treat	mycoplasma infections
+macrolides	may treat	legionella infections
+lincosamides	may treat	anaerobic infections
+lincosamides	may treat	protozoal infections
+lincosamides	may treat	gram-positive bacterial infections
+streptogramins	may treat	gram-positive bacterial infections
+streptogramins	may treat	MRSA infections
+streptogramins	may treat	VRE infections
+macrolides	used to treat	respiratory tract infections in cystic fibrosis patients
+macrolides	used to treat	biofilm-associated infections
+macrolides	used to treat	acne
+lincosamides	used to treat	pelvic infections
+lincosamides	used to treat	intra-abdominal infections
+lincosamides	used to treat	skin and soft tissue infections
+streptogramins	used to treat	catheter-related bloodstream infections
+streptogramins	used to treat	bone and joint infections
+streptogramins	used to treat	surgical site infections
+macrolides	are effective against	respiratory bacteria
+lincosamides	are effective against	gram-positive cocci
+streptogramins	are effective against	resistant gram-positive bacteria

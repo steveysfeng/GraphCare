@@ -1,0 +1,153 @@
+tetracycline antibiotics	are	drugs
+tetracycline antibiotics	commonly used for	bacterial infections
+bacterial infections	can be caused by	various pathogens
+various pathogens	include	bacteria	viruses	and fungi
+tetracycline antibiotics	can inhibit	protein synthesis
+protein synthesis	essential for	cell growth and reproduction
+tetracycline antibiotics	can treat	acne
+acne	a common	skin condition
+tetracycline antibiotics	can lead to	antibiotic resistance
+antibiotic resistance	a growing	public health concern
+tetracycline antibiotics	should be taken	with food
+food	can help	improve absorption
+tetracycline antibiotics	can interact with	calcium
+calcium	found in	dairy products
+tetracycline antibiotics	should not be taken	with dairy products
+tetracycline antibiotics	may have	side effects
+side effects	can include	nausea	diarrhea	and allergic reactions
+tetracycline antibiotics	can cause	photosensitivity
+photosensitivity	increased sensitivity to	sunlight
+tetracycline antibiotics	should not be taken	during pregnancy
+pregnancy	can affect	fetal development
+tetracycline antibiotics	can be	bacteriostatic
+bacteriostatic	inhibiting bacterial	growth
+tetracycline antibiotics	can be	broad-spectrum
+broad-spectrum	effective against	a wide range of bacteria
+tetracycline antibiotics	can be	orally administered
+orally administered	taken by	mouth
+tetracycline antibiotics	can affect	gut microbiota
+gut microbiota	plays a role in	digestion and immune function
+tetracycline antibiotics	can be	prescribed for respiratory infections
+respiratory infections	can affect	the lungs and airways
+tetracycline antibiotics	can be	prescribed for urinary tract infections
+urinary tract infections	can affect	the kidneys	bladder	and urethra
+tetracycline antibiotics	can be	prescribed for sexually transmitted infections
+sexually transmitted infections	transmitted through	sexual contact
+tetracycline antibiotics	can be	prescribed for eye infections
+eye infections	can affect	the surface or interior of the eye
+tetracycline antibiotics	can be	prescribed for skin infections
+skin infections	can affect	the outer layers of the skin
+tetracycline antibiotics	can be	prescribed for periodontitis
+periodontitis	a severe form of	gum disease
+tetracycline antibiotics	can be	prescribed for respiratory tract infections
+respiratory tract infections	can affect	the nose	throat	and lungs
+tetracycline antibiotics	can be	prescribed for Lyme disease
+Lyme disease	caused by	bacteria transmitted through tick bites
+tetracycline antibiotics	can be	prescribed for cholera
+cholera	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for acne vulgaris
+acne vulgaris	a common	skin condition
+tetracycline antibiotics	can be	prescribed for Helicobacter pylori infection
+Helicobacter pylori infection	can lead to	peptic ulcers
+tetracycline antibiotics	can be	prescribed for periodontal infection
+periodontal infection	affecting the	structures around the teeth
+tetracycline antibiotics	can be	prescribed for rosacea
+rosacea	a chronic	inflammatory skin condition
+tetracycline antibiotics	can be	prescribed for mycoplasma pneumoniae infection
+Mycoplasma pneumoniae infection	can cause	pneumonia
+tetracycline antibiotics	can be	prescribed for chlamydia
+chlamydia	a common	sexually transmitted infection
+tetracycline antibiotics	can be	prescribed for acne rosacea
+acne rosacea	a chronic	inflammatory skin condition
+tetracycline antibiotics	can be	prescribed for anthrax
+anthrax	a potentially	deadly infection
+tetracycline antibiotics	can be	prescribed for brucellosis
+brucellosis	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for tularemia
+tularemia	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for typhus
+typhus	a group of	bacterial infections
+tetracycline antibiotics	can be	prescribed for rickettsialpox
+rickettsialpox	a rare	infectious disease
+tetracycline antibiotics	can be	prescribed for psittacosis
+psittacosis	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for Q fever
+Q fever	a zoonotic	disease
+tetracycline antibiotics	can be	prescribed for ehrlichiosis
+ehrlichiosis	a tick-borne	infection
+tetracycline antibiotics	can be	prescribed for Rocky Mountain spotted fever
+Rocky Mountain spotted fever	a tick-borne	infection
+tetracycline antibiotics	can be	prescribed for malaria
+malaria	a mosquito-borne	infectious disease
+tetracycline antibiotics	can be	prescribed for leptospirosis
+leptospirosis	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for plague
+plague	a life-threatening	infection
+tetracycline antibiotics	can be	prescribed for cholera
+cholera	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for urinary tract infection
+urinary tract infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for lung infection
+lung infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for ear infection
+ear infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for eye infection
+eye infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for skin infection
+skin infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for sexually transmitted infection
+sexually transmitted infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for respiratory infection
+respiratory infection	a bacterial	infection
+tetracycline antibiotics	can be	prescribed for tick-borne infection
+tick-borne infection	an infectious	disease
+tetracycline antibiotics	can be	prescribed for bacterial infection
+bacterial infection	an	infection
+tetracycline antibiotics	can be	prescribed for pneumonia
+pneumonia	a common	lung infection
+tetracycline antibiotics	can be	prescribed for urinary infection
+urinary infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for wound infection
+wound infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for sinus infection
+sinus infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for throat infection
+throat infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for skin condition
+skin condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for eye condition
+eye condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for urinary condition
+urinary condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for respiratory condition
+respiratory condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for dental condition
+dental condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for gum condition
+gum condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for periodontal condition
+periodontal condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for stomach condition
+stomach condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for urinary tract condition
+urinary tract condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for skin rash
+skin rash	a common	skin condition
+tetracycline antibiotics	can be	prescribed for joint condition
+joint condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for bone condition
+bone condition	a common	medical condition
+tetracycline antibiotics	can be	prescribed for blood infection
+blood infection	a serious	medical condition
+tetracycline antibiotics	can be	prescribed for gastrointestinal infection
+gastrointestinal infection	an	infection
+tetracycline antibiotics	can be	prescribed for respiratory tract infection
+respiratory tract infection	a common	infection
+tetracycline antibiotics	can be	prescribed for urinary tract infection
+urinary tract infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for ear infection
+ear infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for eye infection
+eye infection	a common	bacterial infection
+tetracycline antibiotics	can be	prescribed for skin infection
+skin infection	a common	bacterial infection

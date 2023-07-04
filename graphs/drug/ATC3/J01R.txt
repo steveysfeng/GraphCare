@@ -1,0 +1,147 @@
+combinations of antibacterials	are used for	treating infections
+combinations of antibacterials	can be effective against	multidrug-resistant bacteria
+multidrug-resistant bacteria	are resistant to	multiple antibiotics
+combinations of antibacterials	can cause	antibiotic resistance
+combinations of antibacterials	are prescribed in	combination therapies
+combination therapies	are used to	enhance treatment efficacy
+combinations of antibacterials	can lead to	drug interactions
+combinations of antibacterials	may be	synergistic
+synergistic	effect	can enhance the effectiveness of antibiotics
+combinations of antibacterials	can have	adverse reactions
+adverse reactions	may include	allergic reactions
+combinations of antibacterials	can be	bactericidal
+bactericidal	action	can kill bacteria
+combinations of antibacterials	are administered	orally
+combinations of antibacterials	are used in	combination therapies
+combination therapies	are employed for	treating complex infections
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	are used in	empirical therapy
+empirical therapy	is initiated before the causative pathogen is identified
+combinations of antibacterials	may cause	gastrointestinal disturbances
+combinations of antibacterials	can be	broad-spectrum
+broad-spectrum	antibiotics	target a wide range of bacterial species
+combinations of antibacterials	are effective against	Gram-positive bacteria
+Gram-positive bacteria	have a thick cell wall
+combinations of antibacterials	are effective against	Gram-negative bacteria
+Gram-negative bacteria	have an outer membrane
+combinations of antibacterials	can be	bacteriostatic
+bacteriostatic	antibiotics	inhibit bacterial growth
+combinations of antibacterials	can lead to	superinfection
+superinfection	occurs when a new infection arises during antibiotic treatment
+combinations of antibacterials	can be	time-dependent
+time-dependent	antibiotics	require a certain concentration above the minimum inhibitory concentration for a specific period of time
+combinations of antibacterials	can be	concentration-dependent
+concentration-dependent	antibiotics	exhibit a maximal effect at higher drug concentrations
+combinations of antibacterials	can be	duration-dependent
+duration-dependent	antibiotics	require a certain duration of exposure to effectively kill bacteria
+combinations of antibacterials	can be	dose-dependent
+dose-dependent	antibiotics	exhibit increased microbial kill with higher doses
+combinations of antibacterials	can induce	antibiotic-associated diarrhea
+combinations of antibacterials	can be	narrow-spectrum
+narrow-spectrum	antibiotics	target specific bacterial species
+combinations of antibacterials	can be	broad-spectrum
+broad-spectrum	antibiotics	target a wide range of bacterial species
+combinations of antibacterials	can be	intramuscular
+intramuscular	administration	allows for sustained release of antibiotics
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	can be	intrathecal
+intrathecal	administration	allows for direct delivery of antibiotics into the cerebrospinal fluid
+combinations of antibacterials	can be	intraventricular
+intraventricular	administration	allows for direct delivery of antibiotics into the brain ventricles
+combinations of antibacterials	can cause	allergic reactions
+combinations of antibacterials	are used in	combination therapies
+combination therapies	can lead to	improved patient outcomes
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	are used in	combination therapies
+combination therapies	are employed for	treating complex infections
+combinations of antibacterials	can be	intramuscular
+intramuscular	administration	allows for sustained release of antibiotics
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	can be	intrathecal
+intrathecal	administration	allows for direct delivery of antibiotics into the cerebrospinal fluid
+combinations of antibacterials	can be	intraventricular
+intraventricular	administration	allows for direct delivery of antibiotics into the brain ventricles
+combinations of antibacterials	are used to	prevent surgical site infections
+combinations of antibacterials	can be	administered prophylactically
+prophylactically	administered antibiotics	prevent infections before they occur
+combinations of antibacterials	can be	administered empirically
+empirically	administered antibiotics	are initiated before the causative pathogen is identified
+combinations of antibacterials	may cause	drug interactions
+combinations of antibacterials	can be	synergistic
+synergistic	effect	can enhance the effectiveness of antibiotics
+combinations of antibacterials	may cause	gastrointestinal disturbances
+combinations of antibacterials	can cause	antibiotic resistance
+antibiotic resistance	occurs when bacteria adapt and become resistant to antibiotics
+combinations of antibacterials	can be	effective
+combinations of antibacterials	are used for	treating infections
+combinations of antibacterials	are prescribed in	combination therapies
+combination therapies	are used to	enhance treatment efficacy
+combinations of antibacterials	can have	adverse reactions
+adverse reactions	may include	allergic reactions
+combinations of antibacterials	are effective against	multidrug-resistant bacteria
+multidrug-resistant bacteria	are resistant to	multiple antibiotics
+combinations of antibacterials	can be	bactericidal
+bactericidal	action	can kill bacteria
+combinations of antibacterials	can be	bacteriostatic
+bacteriostatic	antibiotics	inhibit bacterial growth
+combinations of antibacterials	are used in	empirical therapy
+empirical therapy	is initiated before the causative pathogen is identified
+combinations of antibacterials	can be	broad-spectrum
+broad-spectrum	antibiotics	target a wide range of bacterial species
+combinations of antibacterials	are effective against	Gram-positive bacteria
+Gram-positive bacteria	have a thick cell wall
+combinations of antibacterials	are effective against	Gram-negative bacteria
+Gram-negative bacteria	have an outer membrane
+combinations of antibacterials	can lead to	superinfection
+superinfection	occurs when a new infection arises during antibiotic treatment
+combinations of antibacterials	can be	time-dependent
+time-dependent	antibiotics	require a certain concentration above the minimum inhibitory concentration for a specific period of time
+combinations of antibacterials	can be	concentration-dependent
+concentration-dependent	antibiotics	exhibit a maximal effect at higher drug concentrations
+combinations of antibacterials	can be	duration-dependent
+duration-dependent	antibiotics	require a certain duration of exposure to effectively kill bacteria
+combinations of antibacterials	can be	dose-dependent
+dose-dependent	antibiotics	exhibit increased microbial kill with higher doses
+combinations of antibacterials	can induce	antibiotic-associated diarrhea
+combinations of antibacterials	can be	narrow-spectrum
+narrow-spectrum	antibiotics	target specific bacterial species
+combinations of antibacterials	can be	broad-spectrum
+broad-spectrum	antibiotics	target a wide range of bacterial species
+combinations of antibacterials	can be	intramuscular
+intramuscular	administration	allows for sustained release of antibiotics
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	can be	intrathecal
+intrathecal	administration	allows for direct delivery of antibiotics into the cerebrospinal fluid
+combinations of antibacterials	can be	intraventricular
+intraventricular	administration	allows for direct delivery of antibiotics into the brain ventricles
+combinations of antibacterials	are used in	combination therapies
+combination therapies	can lead to	improved patient outcomes
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	are used in	combination therapies
+combination therapies	are employed for	treating complex infections
+combinations of antibacterials	can be	intramuscular
+intramuscular	administration	allows for sustained release of antibiotics
+combinations of antibacterials	can be	intravenous
+intravenous	administration	allows for rapid drug delivery
+combinations of antibacterials	can be	intrathecal
+intrathecal	administration	allows for direct delivery of antibiotics into the cerebrospinal fluid
+combinations of antibacterials	can be	intraventricular
+intraventricular	administration	allows for direct delivery of antibiotics into the brain ventricles
+combinations of antibacterials	are used to	prevent surgical site infections
+combinations of antibacterials	can be	administered prophylactically
+prophylactically	administered antibiotics	prevent infections before they occur
+combinations of antibacterials	can be	administered empirically
+empirically	administered antibiotics	are initiated before the causative pathogen is identified
+combinations of antibacterials	may cause	drug interactions
+combinations of antibacterials	can be	synergistic
+synergistic	effect	can enhance the effectiveness of antibiotics
+combinations of antibacterials	may cause	gastrointestinal disturbances
+combinations of antibacterials	can cause	antibiotic resistance
+antibiotic resistance	occurs when bacteria adapt and become resistant to antibiotics
+combinations of antibacterials	can be	effective
