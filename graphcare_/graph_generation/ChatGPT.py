@@ -2,7 +2,7 @@ import os
 import openai
 
 with open("../../resources/openai.key", 'r') as f:
-    key = f.readlines()[0][:-1]
+    key = f.readlines()[0][:]
 
 class ChatGPT:
     def __init__(self):
