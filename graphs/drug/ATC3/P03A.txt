@@ -1,0 +1,12 @@
+ectoparasiticides	are used for	treating
+ectoparasiticides	can be	medications
+medications	include	scabicides
+scabicides	are used for	killing mites
+ectoparasiticides	can be	topical treatments
+topical treatments	are applied to	the skin
+scabicides	can cause	skin irritation
+ectoparasiticides	may require	multiple doses
+multiple doses	are needed for	complete treatment
+scabicides	are effective against	scabies mites
+scabies mites	cause	itching
+scabicides	can be	prescription drugs

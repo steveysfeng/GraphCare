@@ -1,0 +1,89 @@
+adrenergics	are	drugs
+adrenergics	administered through	inhalation
+adrenergics	used for	asthma treatment
+adrenergics	can cause	bronchodilation
+bronchodilation	improves	airflow
+adrenergics	dosage	varies
+dosage	depends on	patient's condition
+adrenergics	may interact with	other medications
+adrenergics	should not be used with	monoamine oxidase inhibitors
+monoamine oxidase inhibitors	can interact with	adrenergics
+adrenergics	can have	side effects
+side effects	include	increased heart rate
+adrenergics	mechanism of action	stimulates adrenergic receptors
+adrenergic receptors	are	proteins
+adrenergics	are used for	chronic obstructive pulmonary disease (COPD)
+adrenergics	can be prescribed	as rescue medication
+adrenergics	route of administration	inhalation
+adrenergics	contraindicated in	patients with heart problems
+adrenergics	may worsen	hypertension
+hypertension	is	high blood pressure
+adrenergics	can be prescribed	in combination with other medications
+adrenergics	can interact with	beta blockers
+beta blockers	are	medications
+adrenergics	can cause	tachycardia
+tachycardia	is	fast heart rate
+adrenergics	can be used	as bronchodilators
+adrenergics	can be used	for nasal congestion
+adrenergics	can be administered	using a nebulizer
+adrenergics	can be used	for bronchoconstriction
+bronchoconstriction	is	airway narrowing
+adrenergics	can cause	headache
+adrenergics	can be used	for exercise-induced asthma
+adrenergics	can increase	heart rate
+adrenergics	can relax	smooth muscles
+adrenergics	can be used	for allergic rhinitis
+adrenergics	can act on	adrenergic receptors
+adrenergics	can be used	for bronchospasm
+bronchospasm	is	narrowing of airways
+adrenergics	can stimulate	sympathetic nervous system
+sympathetic nervous system	regulates	fight-or-flight response
+adrenergics	can be used	to dilate airways
+adrenergics	can be used	for cardiovascular conditions
+adrenergics	can increase	blood pressure
+adrenergics	can be used	for obstructive sleep apnea
+adrenergics	can act as	respiratory stimulants
+adrenergics	can cause	agitation
+adrenergics	can be used	for nasal congestion due to cold
+adrenergics	can cause	dry mouth
+adrenergics	can be used	for acute bronchospasm
+adrenergics	can be used	for hypertension
+adrenergics	can cause	tremors
+adrenergics	can increase	airflow
+adrenergics	can be used	for allergic reactions
+adrenergics	can be used	for bronchial asthma
+adrenergics	can cause	nervousness
+adrenergics	can be used	as decongestants
+adrenergics	can be used	for chronic bronchitis
+adrenergics	can cause	palpitations
+adrenergics	can be used	for exercise-induced bronchospasm
+adrenergics	can have	sympathomimetic effects
+adrenergics	can be used	for nasal decongestion
+adrenergics	can be used	for obstructive airway diseases
+adrenergics	can cause	insomnia
+adrenergics	can be used	for temporary relief of nasal congestion
+adrenergics	can be used	for hyperactivity disorder
+adrenergics	can cause	dizziness
+adrenergics	can be used	for nasal allergies
+adrenergics	can be used	for bronchial hyperreactivity
+adrenergics	can cause	chest pain
+adrenergics	can be used	for acute bronchitis
+adrenergics	can be used	for sinus congestion
+adrenergics	can cause	sweating
+adrenergics	can be used	for allergy symptoms
+adrenergics	can be used	for respiratory distress syndrome
+adrenergics	can cause	restlessness
+adrenergics	can be used	for bronchospasm prophylaxis
+adrenergics	can be used	for rhinitis
+adrenergics	can cause	tremor
+adrenergics	can be used	for chronic obstructive lung disease
+adrenergics	can cause	irritability
+adrenergics	can be used	as expectorants
+adrenergics	can be used	for paroxysmal supraventricular tachycardia
+adrenergics	can cause	anxiety
+adrenergics	can be used	for bronchial congestion
+adrenergics	can be used	for nasal obstruction
+adrenergics	can cause	hypertension
+adrenergics	can be used	for asthma exacerbation
+adrenergics	can cause	palpitation
+adrenergics	can be used	for allergic sinusitis

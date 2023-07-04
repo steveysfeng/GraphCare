@@ -1,0 +1,10 @@
+other nervous system drugs	are classified as	ATC code N
+ATC code N	includes	drugs used in nervous system disorders
+nervous system disorders	may cause	pain and dysfunction
+drugs used in nervous system disorders	can treat	epilepsy
+drugs used in nervous system disorders	may have	side effects
+side effects	include	drowsiness
+drugs used in nervous system disorders	can interact with	other medications
+other medications	may affect	drug effectiveness
+drugs used in nervous system disorders	require	prescription
+prescription	is necessary for	access to drugs

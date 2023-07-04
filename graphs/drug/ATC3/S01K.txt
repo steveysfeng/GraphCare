@@ -1,0 +1,84 @@
+surgical aids	is a	medical device
+surgical aids	used in	ophthalmologic procedures
+ophthalmologic procedures	can include	cataract surgery
+ophthalmologic procedures	can include	LASIK surgery
+ophthalmologic procedures	can include	corneal transplant
+surgical aids	can improve	surgical outcomes
+surgical aids	can reduce	surgical complications
+surgical aids	can assist	surgeons
+surgical aids	can enhance	surgical precision
+surgical aids	can facilitate	wound closure
+surgical aids	can be used with	surgical instruments
+surgical aids	can be sterilized	for reuse
+surgical aids	can be disposable
+surgical aids	may have	different sizes
+surgical aids	may have	different shapes
+surgical aids	may be made of	stainless steel
+surgical aids	may be made of	titanium
+surgical aids	may be made of	plastic
+surgical aids	may have	a handle
+surgical aids	may have	a grip
+surgical aids	may have	a locking mechanism
+surgical aids	may have	a curved tip
+surgical aids	may have	a straight tip
+surgical aids	may have	a serrated edge
+surgical aids	may have	a smooth edge
+surgical aids	may have	a blunt tip
+surgical aids	may have	a sharp tip
+surgical aids	may be used for	tissue manipulation
+surgical aids	may be used for	hemostasis
+surgical aids	may be used for	suturing
+surgical aids	may be used for	wound retraction
+surgical aids	may be used for	tissue dissection
+surgical aids	may be used for	tissue approximation
+surgical aids	may be used for	tissue sealing
+surgical aids	may be used for	foreign body removal
+surgical aids	may be used for	ocular access
+surgical aids	may be used for	IOL implantation
+surgical aids	may be used for	vitrectomy
+surgical aids	may be used for	glaucoma surgery
+surgical aids	may be used for	retinal detachment repair
+surgical aids	may be used for	keratoplasty
+surgical aids	may be used for	ocular surface procedures
+surgical aids	may be used for	orbital surgery
+surgical aids	may be used for	strabismus surgery
+surgical aids	may be used for	eye muscle surgery
+surgical aids	may be used for	eyelid surgery
+surgical aids	may be used for	lacrimal surgery
+surgical aids	may be used for	conjunctival surgery
+surgical aids	may be used for	tumor resection
+surgical aids	may be used for	excision of abnormal tissue
+surgical aids	may be used for	tissue grafting
+surgical aids	may be used for	ophthalmic plastic surgery
+surgical aids	may be used for	enucleation
+surgical aids	may be used for	evisceration
+surgical aids	may be used for	orbital exenteration
+surgical aids	may be used for	eyelid reconstruction
+surgical aids	may be used for	drainage procedures
+surgical aids	may be used for	strabismus correction
+surgical aids	may be used for	blepharoplasty
+surgical aids	may be used for	ptosis repair
+surgical aids	may be used for	tarsorrhaphy
+surgical aids	may be used for	canthoplasty
+surgical aids	may be used for	dacryocystorhinostomy
+surgical aids	may be used for	entropion repair
+surgical aids	may be used for	ectropion repair
+surgical aids	may be used for	brow lift
+surgical aids	may be used for	sebaceous cyst excision
+surgical aids	may be used in	ophthalmic clinics
+surgical aids	may be used in	hospital operating rooms
+surgical aids	may be used in	ambulatory surgery centers
+surgical aids	may be used in	surgical suites
+surgical aids	may be used with	microscopes
+surgical aids	may be used under	local anesthesia
+surgical aids	may be used under	general anesthesia
+surgical aids	may be used in	pediatric ophthalmology
+surgical aids	may be used in	neuro-ophthalmology
+surgical aids	may be used in	retina clinics
+surgical aids	may be used in	cornea clinics
+surgical aids	may be used in	glaucoma clinics
+surgical aids	may be used in	oculoplastic clinics
+surgical aids	may be used in	ophthalmic oncology
+surgical aids	may be used in	ophthalmic trauma
+surgical aids	may be used in	ocular surface disease
+surgical aids	may be used in	ocular genetics

@@ -1,0 +1,10 @@
+antiinflammatory agents	are used for	ophthalmologic conditions
+antiinflammatory agents	can reduce	inflammation
+ophthalmologic conditions	may include	conjunctivitis
+antiinflammatory agents	can treat	uveitis
+uveitis	is an	eye condition
+antiinflammatory agents	may cause	blurred vision
+antiinflammatory agents	prescribed for	cataract surgery
+cataract surgery	is a	procedure
+antiinflammatory agents	can prevent	macular edema
+macular edema	is a	complication

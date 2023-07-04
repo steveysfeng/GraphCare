@@ -1,0 +1,188 @@
+adrenergics for systemic use	are	drugs
+adrenergics for systemic use	used in	cardiovascular diseases
+cardiovascular diseases	can include	hypertension
+adrenergics for systemic use	can cause	increased heart rate
+adrenergics for systemic use	interact with	beta blockers
+beta blockers	are	medications
+beta blockers	used to	treat high blood pressure
+beta blockers	can cause	fatigue
+adrenergics for systemic use	contraindicated in	patients with asthma
+asthma	is	a respiratory condition
+adrenergics for systemic use	can worsen	asthma symptoms
+adrenergics for systemic use	should be used with caution in	elderly patients
+elderly patients	are	at higher risk
+adrenergics for systemic use	can increase	the risk of falls
+adrenergics for systemic use	can interact with	monoamine oxidase inhibitors
+monoamine oxidase inhibitors	are	antidepressants
+monoamine oxidase inhibitors	can cause	hypertensive crisis
+adrenergics for systemic use	can exacerbate	hypertensive crisis
+adrenergics for systemic use	can interact with	alpha blockers
+alpha blockers	are	medications
+alpha blockers	used to	treat high blood pressure
+alpha blockers	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness
+adrenergics for systemic use	can interact with	tricyclic antidepressants
+tricyclic antidepressants	are	medications
+tricyclic antidepressants	can cause	drowsiness
+adrenergics for systemic use	can increase	the risk of drowsiness
+adrenergics for systemic use	can interact with	antihypertensive medications
+antihypertensive medications	are	medications
+antihypertensive medications	used to	lower blood pressure
+adrenergics for systemic use	can reduce	the effectiveness of antihypertensive medications
+adrenergics for systemic use	can interact with	diuretics
+diuretics	are	medications
+diuretics	used to	increase urine production
+adrenergics for systemic use	can counteract	the effects of diuretics
+adrenergics for systemic use	can interact with	anticoagulants
+anticoagulants	are	medications
+anticoagulants	used to	prevent blood clots
+adrenergics for systemic use	can increase	the risk of bleeding
+adrenergics for systemic use	can interact with	oral hypoglycemic agents
+oral hypoglycemic agents	are	medications
+oral hypoglycemic agents	used to	lower blood sugar levels
+adrenergics for systemic use	can increase	blood sugar levels
+adrenergics for systemic use	can interact with	anesthesia
+anesthesia	is	a medical procedure
+anesthesia	can cause	changes in blood pressure
+adrenergics for systemic use	can affect	blood pressure during anesthesia
+adrenergics for systemic use	can interact with	antipsychotic medications
+antipsychotic medications	are	medications
+antipsychotic medications	can cause	sedation
+adrenergics for systemic use	can increase	the sedative effects of antipsychotic medications
+adrenergics for systemic use	can interact with	sympathomimetic medications
+sympathomimetic medications	are	medications
+sympathomimetic medications	used to	mimic the effects of the sympathetic nervous system
+adrenergics for systemic use	can enhance	the effects of sympathomimetic medications
+adrenergics for systemic use	can interact with	antidepressant medications
+antidepressant medications	are	medications
+antidepressant medications	can cause	changes in blood pressure
+adrenergics for systemic use	can affect	blood pressure when taken with antidepressant medications
+adrenergics for systemic use	can interact with	anticonvulsant medications
+anticonvulsant medications	are	medications
+anticonvulsant medications	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness when taken with anticonvulsant medications
+adrenergics for systemic use	can interact with	diuretic medications
+diuretic medications	are	medications
+diuretic medications	used to	increase urine production
+adrenergics for systemic use	can reduce	the effectiveness of diuretic medications
+adrenergics for systemic use	can interact with	antihistamine medications
+antihistamine medications	are	medications
+antihistamine medications	can cause	drowsiness
+adrenergics for systemic use	can increase	the risk of drowsiness when taken with antihistamine medications
+adrenergics for systemic use	can interact with	antipsychotic medications
+antipsychotic medications	are	medications
+antipsychotic medications	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness when taken with antipsychotic medications
+adrenergics for systemic use	can interact with	beta-2 adrenergic agonists
+beta-2 adrenergic agonists	are	medications
+beta-2 adrenergic agonists	used to	treat asthma
+adrenergics for systemic use	can enhance	the effects of beta-2 adrenergic agonists
+adrenergics for systemic use	can interact with	calcium channel blockers
+calcium channel blockers	are	medications
+calcium channel blockers	used to	treat high blood pressure
+calcium channel blockers	can cause	headache
+adrenergics for systemic use	can increase	the risk of headache
+adrenergics for systemic use	can interact with	corticosteroids
+corticosteroids	are	medications
+corticosteroids	can cause	fluid retention
+adrenergics for systemic use	can worsen	fluid retention
+adrenergics for systemic use	can interact with	MAO inhibitors
+MAO inhibitors	are	medications
+MAO inhibitors	used to	treat depression
+MAO inhibitors	can cause	hypertensive crisis
+adrenergics for systemic use	can exacerbate	hypertensive crisis
+adrenergics for systemic use	can interact with	tricyclic antidepressants
+tricyclic antidepressants	are	medications
+tricyclic antidepressants	can cause	drowsiness
+adrenergics for systemic use	can increase	the risk of drowsiness
+adrenergics for systemic use	can interact with	antipsychotic medications
+antipsychotic medications	are	medications
+antipsychotic medications	can cause	sedation
+adrenergics for systemic use	can increase	the sedative effects of antipsychotic medications
+adrenergics for systemic use	can interact with	sympathomimetic medications
+sympathomimetic medications	are	medications
+sympathomimetic medications	used to	mimic the effects of the sympathetic nervous system
+adrenergics for systemic use	can enhance	the effects of sympathomimetic medications
+adrenergics for systemic use	can interact with	antidepressant medications
+antidepressant medications	are	medications
+antidepressant medications	can cause	changes in blood pressure
+adrenergics for systemic use	can affect	blood pressure when taken with antidepressant medications
+adrenergics for systemic use	can interact with	anticonvulsant medications
+anticonvulsant medications	are	medications
+anticonvulsant medications	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness when taken with anticonvulsant medications
+adrenergics for systemic use	can interact with	diuretic medications
+diuretic medications	are	medications
+diuretic medications	used to	increase urine production
+adrenergics for systemic use	can reduce	the effectiveness of diuretic medications
+adrenergics for systemic use	can interact with	antihistamine medications
+antihistamine medications	are	medications
+antihistamine medications	can cause	drowsiness
+adrenergics for systemic use	can increase	the risk of drowsiness when taken with antihistamine medications
+adrenergics for systemic use	can interact with	antipsychotic medications
+antipsychotic medications	are	medications
+antipsychotic medications	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness when taken with antipsychotic medications
+adrenergics for systemic use	can interact with	beta-2 adrenergic agonists
+beta-2 adrenergic agonists	are	medications
+beta-2 adrenergic agonists	used to	treat asthma
+adrenergics for systemic use	can enhance	the effects of beta-2 adrenergic agonists
+adrenergics for systemic use	can interact with	calcium channel blockers
+calcium channel blockers	are	medications
+calcium channel blockers	used to	treat high blood pressure
+calcium channel blockers	can cause	headache
+adrenergics for systemic use	can increase	the risk of headache
+adrenergics for systemic use	can interact with	corticosteroids
+corticosteroids	are	medications
+corticosteroids	can cause	fluid retention
+adrenergics for systemic use	can worsen	fluid retention
+adrenergics for systemic use	can interact with	MAO inhibitors
+MAO inhibitors	are	medications
+MAO inhibitors	used to	treat depression
+MAO inhibitors	can cause	hypertensive crisis
+adrenergics for systemic use	can exacerbate	hypertensive crisis
+adrenergics for systemic use	can interact with	tricyclic antidepressants
+tricyclic antidepressants	are	medications
+tricyclic antidepressants	can cause	drowsiness
+adrenergics for systemic use	can increase	the risk of drowsiness
+adrenergics for systemic use	can interact with	antipsychotic medications
+antipsychotic medications	are	medications
+antipsychotic medications	can cause	sedation
+adrenergics for systemic use	can increase	the sedative effects of antipsychotic medications
+adrenergics for systemic use	can interact with	sympathomimetic medications
+sympathomimetic medications	are	medications
+sympathomimetic medications	used to	mimic the effects of the sympathetic nervous system
+adrenergics for systemic use	can enhance	the effects of sympathomimetic medications
+adrenergics for systemic use	can interact with	antidepressant medications
+antidepressant medications	are	medications
+antidepressant medications	can cause	changes in blood pressure
+adrenergics for systemic use	can affect	blood pressure when taken with antidepressant medications
+adrenergics for systemic use	can interact with	anticonvulsant medications
+anticonvulsant medications	are	medications
+anticonvulsant medications	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness when taken with anticonvulsant medications
+adrenergics for systemic use	can interact with	diuretic medications
+diuretic medications	are	medications
+diuretic medications	used to	increase urine production
+adrenergics for systemic use	can reduce	the effectiveness of diuretic medications
+adrenergics for systemic use	can interact with	antihistamine medications
+antihistamine medications	are	medications
+antihistamine medications	can cause	drowsiness
+adrenergics for systemic use	can increase	the risk of drowsiness when taken with antihistamine medications
+adrenergics for systemic use	can interact with	antipsychotic medications
+antipsychotic medications	are	medications
+antipsychotic medications	can cause	dizziness
+adrenergics for systemic use	can increase	the risk of dizziness when taken with antipsychotic medications
+adrenergics for systemic use	can interact with	beta-2 adrenergic agonists
+beta-2 adrenergic agonists	are	medications
+beta-2 adrenergic agonists	used to	treat asthma
+adrenergics for systemic use	can enhance	the effects of beta-2 adrenergic agonists
+adrenergics for systemic use	can interact with	calcium channel blockers
+calcium channel blockers	are	medications
+calcium channel blockers	used to	treat high blood pressure
+calcium channel blockers	can cause	headache
+adrenergics for systemic use	can increase	the risk of headache
+adrenergics for systemic use	can interact with	corticosteroids
+corticosteroids	are	medications
+corticosteroids	can cause	fluid retention
+adrenergics for systemic use	can worsen	fluid retention

@@ -1,0 +1,10 @@
+other cold preparations	belong to	ATC category
+ATC category	includes	cold and flu medications
+cold and flu medications	can be used for	symptom relief
+symptom relief	may include	reduction in fever
+cold and flu medications	can also be used for	congestion relief
+congestion relief	may include	nasal decongestion
+cold and flu medications	sometimes contain	antihistamines
+antihistamines	can cause	drowsiness
+cold and flu medications	can interact with	other medications
+other medications	may include	blood pressure medications

@@ -1,0 +1,162 @@
+antidepressants	are used for	treating depression
+antidepressants	can help	improve mood
+antidepressants	may cause	side effects
+side effects	include	nausea
+antidepressants	should be	prescribed by a doctor
+antidepressants	can take	several weeks to work
+antidepressants	may interact with	other medications
+other medications	can decrease	effectiveness of antidepressants
+antidepressants	are available in	different forms
+different forms	include	tablets	capsules	and liquids
+antidepressants	can increase	risk of suicidal thoughts
+antidepressants	should be	taken as prescribed
+antidepressants	may require	dosage adjustments
+dosage adjustments	are necessary	for elderly patients
+antidepressants	can be	addictive
+addiction	can lead to	dependence
+antidepressants	are categorized into	different classes
+different classes	have	different mechanisms of action
+antidepressants	should not be	abruptly discontinued
+abrupt discontinuation	can cause	withdrawal symptoms
+antidepressants	can be	combined with therapy
+therapy	can help	improve treatment outcomes
+antidepressants	can be	prescribed for anxiety disorders
+antidepressants	should be	avoided during pregnancy
+pregnancy	can increase	risk of birth defects
+antidepressants	should not be	used with MAOIs
+MAOIs	interact with	antidepressants
+antidepressants	may require	periodic monitoring
+monitoring	is important	for assessing treatment response
+antidepressants	can be	prescribed for chronic pain
+chronic pain	is a	common indication for antidepressant use
+antidepressants	can be	used in pediatric patients
+pediatric patients	require	careful monitoring
+antidepressants	are metabolized	by the liver
+liver	plays a	role in drug metabolism
+antidepressants	can cause	weight gain
+weight gain	can be a	side effect of antidepressants
+antidepressants	can be	prescribed for insomnia
+insomnia	can be	a symptom of depression
+antidepressants	may have	drug interactions
+drug interactions	can affect	medication effectiveness
+antidepressants	can be	used for OCD
+OCD	is a	psychiatric disorder
+antidepressants	can be	used for PTSD
+PTSD	is a	mental health condition
+antidepressants	can be	used for chronic fatigue syndrome
+chronic fatigue syndrome	can cause	long-term exhaustion
+antidepressants	can be	used for fibromyalgia
+fibromyalgia	is a	chronic pain condition
+antidepressants	can be	used for neuropathic pain
+neuropathic pain	results from	damage to the nerves
+antidepressants	should not be	combined with alcohol
+alcohol	can interact with	antidepressants
+antidepressants	can be	used for social anxiety disorder
+social anxiety disorder	is a	specific phobia
+antidepressants	can be	used for panic disorder
+panic disorder	is an	anxiety disorder
+antidepressants	can be	used for generalized anxiety disorder
+generalized anxiety disorder	is a	chronic condition
+antidepressants	can be	used for bipolar disorder
+bipolar disorder	is a	mood disorder
+antidepressants	can be	used for borderline personality disorder
+borderline personality disorder	is a	personality disorder
+antidepressants	can be	used for eating disorders
+eating disorders	are mental health conditions
+antidepressants	can cause	sexual side effects
+sexual side effects	can include	decreased libido
+antidepressants	can be	used for neuropathic pain
+neuropathic pain	results from	damage to the nerves
+antidepressants	can be	used for attention deficit hyperactivity disorder
+attention deficit hyperactivity disorder	is a	neurodevelopmental disorder
+antidepressants	can be	used for smoking cessation
+smoking cessation	is the	process of quitting smoking
+antidepressants	can be	used for insomnia
+insomnia	is a	sleep disorder
+antidepressants	can be	used for postpartum depression
+postpartum depression	occurs	after childbirth
+antidepressants	can be	used for seasonal affective disorder
+seasonal affective disorder	is a	type of depression
+antidepressants	can be	used as maintenance treatment
+maintenance treatment	helps	prevent relapse
+antidepressants	can increase	risk of falls
+falls	can result in	fractures
+antidepressants	can be	used for headache
+headache	is a	common symptom
+antidepressants	can affect	sleep patterns
+antidepressants	can be	used for irritable bowel syndrome
+irritable bowel syndrome	is a	gastrointestinal disorder
+antidepressants	can be	used for hot flashes
+hot flashes	are a	symptom of menopause
+antidepressants	can interact with	grapefruit
+grapefruit	can affect	drug metabolism
+antidepressants	can be	used for tinnitus
+tinnitus	is a	ringing in the ears
+antidepressants	can be	used for migraine
+migraine	is a	type of headache
+antidepressants	can be	used for social phobia
+social phobia	is a	type of anxiety disorder
+antidepressants	can be	used for autism
+autism	is a	neurodevelopmental disorder
+antidepressants	can be	used for premenstrual dysphoric disorder
+premenstrual dysphoric disorder	is a	severe form of PMS
+antidepressants	can be	used for chronic insomnia
+chronic insomnia	is a	sleep disorder
+antidepressants	can be	used for stroke recovery
+stroke recovery	involves	rehabilitation therapy
+antidepressants	can be	used for chronic tension headache
+chronic tension headache	is a	type of headache
+antidepressants	can be	used for chronic migraine
+chronic migraine	is a	type of headache
+antidepressants	can be	prescribed in	different doses
+different doses	are used	for different patients
+antidepressants	can be	used for chronic musculoskeletal pain
+musculoskeletal pain	can result from	injury or inflammation
+antidepressants	can be	used for fibromyalgia
+fibromyalgia	is a	chronic pain condition
+antidepressants	can be	used for restless leg syndrome
+restless leg syndrome	is a	sleep disorder
+antidepressants	can be	used for ADHD
+ADHD	is a	neurodevelopmental disorder
+antidepressants	can be	used for chronic pelvic pain
+pelvic pain	can result from	various conditions
+antidepressants	can be	used for multiple sclerosis
+multiple sclerosis	is a	neurological disorder
+antidepressants	can be	used for chronic fatigue syndrome
+chronic fatigue syndrome	is a	condition characterized by long-term exhaustion
+antidepressants	can be	used for peripheral neuropathy
+peripheral neuropathy	is a	condition affecting the nerves
+antidepressants	can be	used for diabetic neuropathy
+diabetic neuropathy	is a	complication of diabetes
+antidepressants	can be	used for neuralgia
+neuralgia	is a	condition characterized by severe pain
+antidepressants	can be	used for panic attacks
+panic attacks	are sudden	intense bouts of fear
+antidepressants	can be	used for social anxiety
+social anxiety	is a	fear of social situations
+antidepressants	can be	used for nausea
+nausea	is a	symptom of various conditions
+antidepressants	can be	used for eating disorders
+eating disorders	are mental health conditions
+antidepressants	can be	used for bipolar depression
+bipolar depression	is a	type of depression
+antidepressants	can be	used for chronic pain
+chronic pain	is a	common indication for antidepressant use
+antidepressants	can be	used for generalized anxiety
+generalized anxiety	is a	chronic condition
+antidepressants	can be	used for neuropathic pain
+neuropathic pain	results from	damage to the nerves
+antidepressants	can be	used for post-traumatic stress disorder
+post-traumatic stress disorder	is a	mental health condition
+antidepressants	can be	used for obsessive-compulsive disorder
+obsessive-compulsive disorder	is a	mental health condition
+antidepressants	can be	used for panic disorder
+panic disorder	is a	type of anxiety disorder
+antidepressants	can be	used for premenstrual dysphoric disorder
+premenstrual dysphoric disorder	is a	severe form of PMS
+antidepressants	can be	used for social phobia
+social phobia	is a	type of anxiety disorder
+antidepressants	can be	used for chronic headaches
+headaches	can be	debilitating
+antidepressants	can be	used for fibromyalgia
+fibromyalgia	is a	chronic pain condition

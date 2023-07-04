@@ -1,0 +1,55 @@
+antiinflammatory agents and antiinfectives in combination	are	drugs
+drugs	used for	treating infections
+drugs	used for	reducing inflammation
+drugs	may have	side effects
+side effects	can include	nausea
+side effects	can include	rash
+side effects	can include	diarrhea
+side effects	can include	dizziness
+drugs	should not be used with	certain medications
+certain medications	can interact with	drugs
+drugs	can increase	risk of bleeding
+drugs	can decrease	effectiveness of birth control
+drugs	can increase	risk of infection
+drugs	can interact with	alcohol
+drugs	can interact with	grapefruit juice
+drugs	can interact with	certain foods
+drugs	can interact with	herbal supplements
+drugs	can interact with	other medications
+drugs	can interact with	over-the-counter drugs
+drugs	can interact with	vitamins
+drugs	should not be used by	pregnant women
+pregnant women	should consult with	doctor
+drugs	should not be used by	breastfeeding women
+breastfeeding women	should consult with	doctor
+drugs	can be	prescribed by doctor
+drugs	can be	obtained with a prescription
+drugs	can be	available over-the-counter
+drugs	can be	taken orally
+drugs	can be	applied topically
+drugs	can be	injected
+drugs	can be	administered intravenously
+drugs	can be	in the form of tablets
+drugs	can be	in the form of capsules
+drugs	can be	in the form of creams
+drugs	can be	in the form of ointments
+drugs	can be	in the form of gels
+drugs	can be	in the form of injections
+drugs	can be	in the form of solutions
+drugs	can be	in the form of suspensions
+drugs	can be	in the form of syrups
+drugs	can be	in the form of drops
+drugs	can be	in the form of suppositories
+drugs	can be	in the form of inhalers
+drugs	can be	in the form of patches
+drugs	can be	in the form of lozenges
+drugs	can be	in the form of powders
+drugs	can be	in the form of sprays
+drugs	can be	in the form of aerosols
+drugs	can be	in the form of enemas
+drugs	can be	in the form of implants
+drugs	can be	in the form of creams
+drugs	can be	in the form of lotions
+drugs	can be	in the form of oils
+drugs	can be	in the form of serums
+drugs	can be	in the form of pastes

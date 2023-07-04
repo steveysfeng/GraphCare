@@ -1,0 +1,136 @@
+decongestants	are used for	nasal congestion
+antiallergics	are used for	allergies
+decongestants	can cause	increased blood pressure
+antiallergics	can cause	drowsiness
+decongestants	interact with	certain medications
+antiallergics	are available as	nasal sprays
+decongestants	relieve	stuffy nose
+antiallergics	reduce	allergy symptoms
+decongestants	may have	contraindications
+antiallergics	may interact with	alcohol
+decongestants	should not be used	in children under a certain age
+antiallergics	can be taken	orally
+decongestants	are available as	tablets
+antiallergics	can be prescribed	for chronic allergies
+decongestants	can be used	before certain medical procedures
+antiallergics	help	prevent allergic reactions
+decongestants	are contraindicated in	individuals with certain medical conditions
+antiallergics	may require	dosage adjustments for elderly patients
+decongestants	can be found	over-the-counter
+antiallergics	can be administered	via inhalation
+decongestants	can cause	insomnia
+antiallergics	are available in	different formulations
+decongestants	should not be used	for extended periods of time
+antiallergics	may have	drug interactions
+decongestants	should not be used	with certain medical conditions
+antiallergics	may cause	dry mouth
+decongestants	should not be used	during pregnancy
+antiallergics	may be used	in combination with decongestants
+decongestants	can be administered	intranasally
+antiallergics	can cause	blurred vision
+decongestants	can be taken	as needed
+antiallergics	should be monitored	for potential side effects
+decongestants	may cause	jitteriness
+antiallergics	can be found	in both prescription and over-the-counter forms
+decongestants	can increase	heart rate
+antiallergics	reduce	histamine release
+decongestants	should not be used	concurrently with MAO inhibitors
+antiallergics	can be used	to treat asthma
+decongestants	should be used	with caution in certain populations
+antiallergics	can be taken	with or without food 
+decongestants	can cause	rebound congestion
+antiallergics	may interact with	other allergy medications
+decongestants	may contain	pseudoephedrine
+antiallergics	can be administered	via injection
+decongestants	can be used	in combination with antihistamines
+antiallergics	may require	dose adjustments for patients with renal impairment
+decongestants	can cause	restlessness
+antiallergics	should not be used	in children under a certain age
+decongestants	can be addictive
+antiallergics	relieve	nasal congestion
+decongestants	are available in	different strengths
+antiallergics	can be taken	before exposure to allergens
+decongestants	act	by constricting blood vessels
+antiallergics	block	histamine receptors
+decongestants	should not be used	in individuals with glaucoma
+antiallergics	can be used	to manage hives
+decongestants	are available as	nasal drops
+antiallergics	can cause	dry eyes
+decongestants	need	to be used according to package instructions
+antiallergics	can be used	long-term for chronic allergies
+decongestants	should not be used	in individuals with heart disease
+antiallergics	can be used	as prophylaxis for seasonal allergies
+decongestants	reduce	nasal congestion
+antiallergics	can cause	fatigue
+decongestants	should not be used	in individuals with high blood pressure
+antiallergics	may interact with	other medications
+decongestants	should not be used	in individuals with diabetes
+antiallergics	can cause	gastrointestinal upset
+decongestants	can be used	topically
+antiallergics	should not be used	in individuals with liver disease
+decongestants	can cause	irritability
+antiallergics	should not be used	in individuals with asthma
+decongestants	can be used	in combination with corticosteroids
+antiallergics	can cause	dizziness
+decongestants	are contraindicated in	individuals with hypersensitivity to the drug
+antiallergics	can cause	skin rash
+decongestants	should not be used	with certain antidepressants
+antiallergics	can be used	in children under a certain age
+decongestants	should not be used	with certain blood pressure medications
+antiallergics	should not be used	during breastfeeding
+decongestants	can cause	nervousness
+antiallergics	should not be used	with certain antifungal medications
+decongestants	can be used	to treat sinus congestion
+antiallergics	can cause	headache
+decongestants	can be used	to manage allergic rhinitis
+antiallergics	may require	titration of dosage
+decongestants	can be used	with caution during pregnancy
+antiallergics	may cause	difficulty urinating
+decongestants	are available in	different formulations
+antiallergics	should not be used	with certain antibiotics
+decongestants	are available as	liquid formulations
+antiallergics	should not be used	with certain sedative medications
+decongestants	can cause	tremors
+antiallergics	should not be used	with certain antiviral medications
+decongestants	can be used	for temporary relief
+antiallergics	may cause	changes in appetite
+decongestants	can exacerbate	certain medical conditions
+antiallergics	can cause	stomach upset
+decongestants	should not be used	with certain diuretic medications
+antiallergics	should not be used	with certain muscle relaxant medications
+decongestants	should not be used	with certain anticonvulsant medications
+antiallergics	can cause	dry skin
+decongestants	should not be used	with certain anti-anxiety medications
+antiallergics	can be used	to manage conjunctivitis
+decongestants	should not be used	with certain antiarrhythmic medications
+antiallergics	can cause	insomnia
+decongestants	are available as	extended-release formulations
+antiallergics	should not be used	with certain antipsychotic medications
+decongestants	should not be used	during breastfeeding
+antiallergics	can cause	difficulty concentrating
+decongestants	should not be used	in individuals with thyroid disease
+antiallergics	can be used	for prevention of allergic reactions
+decongestants	should not be used	with certain anticoagulant medications
+antiallergics	can cause	decreased libido
+decongestants	can be used	in combination with cough suppressants
+antiallergics	may require	dose adjustments for patients with hepatic impairment
+decongestants	can cause	increased heart rate
+antiallergics	should not be used	with certain bronchodilator medications
+decongestants	should not be used	in individuals with prostate enlargement
+antiallergics	can cause	blurred vision
+decongestants	can be taken	as directed by a healthcare professional
+antiallergics	should be used	with caution in elderly patients
+decongestants	should not be used	in individuals with urinary retention
+antiallergics	can be used	to manage angioedema
+decongestants	are available in	combination formulations
+antiallergics	can cause	increased appetite
+decongestants	should not be used	with certain sedative-hypnotic medications
+antiallergics	should be used	with caution in patients with renal impairment
+decongestants	can cause	palpitations
+antiallergics	should not be used	with certain anticholinergic medications
+decongestants	should not be used	in individuals with a history of drug abuse
+antiallergics	can cause	mood changes
+decongestants	can be used	for relief of sinus pressure
+antiallergics	should not be used	in individuals with narrow-angle glaucoma
+decongestants	can cause	tachycardia
+antiallergics	can be used	to treat allergic conjunctivitis

@@ -1,0 +1,77 @@
+diagnostic agents	are used for	ophthamologic procedures
+ophthamologic procedures	can include	eye exams
+eye exams	are used to	diagnose eye conditions
+diagnostic agents	can be	dye or contrast agents
+dye or contrast agents	help to	enhance imaging
+diagnostic agents	can be	injected
+injected	into the	bloodstream
+bloodstream	carries	the agents
+agents	can	circulate throughout the body
+agents	can	reach the eyes
+agents	can	highlight specific structures
+highlight specific structures	aid in	diagnosis
+diagnostic agents	differ in	composition
+composition	includes	various chemicals
+diagnostic agents	may have	side effects
+side effects	can be	allergic reactions
+diagnostic agents	can be	administered orally
+administered orally	for	certain tests
+certain tests	may require	fasting
+fasting	is necessary	before the test
+diagnostic agents	can be	topical
+topical	application	involves direct contact
+direct contact	with the	eye surface
+eye surface	absorbs	the agents
+agents	provide	imaging information
+imaging information	helps with	diagnosis
+diagnostic agents	can require	special precautions
+special precautions	include	informed consent
+informed consent	ensures	patient understanding
+diagnostic agents	can have	contraindications
+contraindications	are specific conditions	that make them unsafe
+diagnostic agents	can interact with	other medications
+other medications	may interfere with	imaging results
+imaging results	are used to	guide treatment
+diagnostic agents	are often	used in combination
+combination	enhances	diagnostic accuracy
+diagnostic agents	can be	expensive
+expensive	cost	may limit access
+access	is important	for proper healthcare
+diagnostic agents	may require	prior authorization
+prior authorization	ensures	insurance coverage
+diagnostic agents	are regulated	by authorities
+authorities	ensure	safety and efficacy
+diagnostic agents	can be	administered by healthcare professionals
+healthcare professionals	have	proper training
+diagnostic agents	can be	administered by technicians
+technicians	follow	strict protocols
+strict protocols	ensure	accuracy and safety
+diagnostic agents	can be	washed out of the body
+washed out of the body	through	urine or sweat
+urine or sweat	help eliminate	the agents
+eliminate	means	reducing concentration
+diagnostic agents	can be	used in children
+used in children	requires	pediatric dosage
+pediatric dosage	is based on	weight and age
+diagnostic agents	can be	radioactive
+radioactive	agents	emit radiation
+radiation	aids in	imaging
+diagnostic agents	can be	administered on an outpatient basis
+outpatient basis	allows	convenience for patients
+patients	may need	transportation arrangements
+transportation arrangements	ensure	timely arrival
+timely arrival	is essential	for the procedure
+diagnostic agents	can be	intravenous
+intravenous	administration	requires a vein
+vein	is accessed through	a needle
+needle	must be	sterile
+sterile	equipment	prevents infections
+diagnostic agents	can have	long-term effects
+long-term effects	depend on	the specific agent
+diagnostic agents	can have	short-term effects
+short-term effects	may include	dizziness or drowsiness
+diagnostic agents	are not	a replacement for clinical evaluation
+clinical evaluation	is necessary	for accurate diagnosis
+diagnostic agents	aid in	medical decision-making
+medical decision-making	involves	weighing risks and benefits
+weighing risks and benefits	is important	for patient safety

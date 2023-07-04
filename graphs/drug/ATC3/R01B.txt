@@ -1,0 +1,101 @@
+nasal decongestants for systemic use	are	drugs
+nasal decongestants for systemic use	used for	relieving nasal congestion
+nasal decongestants for systemic use	can cause	increased heart rate
+nasal decongestants for systemic use	contraindicated in	patients with hypertension
+nasal decongestants for systemic use	interact with	monoamine oxidase inhibitors
+monoamine oxidase inhibitors	are	antidepressant drugs
+nasal decongestants for systemic use	should be used	with caution in patients with cardiovascular disease
+nasal decongestants for systemic use	can cause	rebound congestion
+nasal decongestants for systemic use	should not be	used for more than 3 days
+nasal decongestants for systemic use	can cause	drowsiness
+nasal decongestants for systemic use	are available	over-the-counter
+nasal decongestants for systemic use	should be	avoided in pregnancy
+nasal decongestants for systemic use	should be used	according to the recommended dosage
+nasal decongestants for systemic use	can interact	with other medications
+nasal decongestants for systemic use	may have	side effects
+side effects	include	headache
+nasal decongestants for systemic use	can lead to	increased blood pressure
+nasal decongestants for systemic use	can cause	insomnia
+nasal decongestants for systemic use	should not be	used in children under the age of 6
+nasal decongestants for systemic use	should be	stored in a cool	dry place
+nasal decongestants for systemic use	may interact	with alcohol
+nasal decongestants for systemic use	can cause	gastrointestinal disturbances
+nasal decongestants for systemic use	can cause	allergic reactions
+nasal decongestants for systemic use	can interfere	with sleep
+nasal decongestants for systemic use	can cause	tremors
+nasal decongestants for systemic use	can lead to	dependency
+nasal decongestants for systemic use	should be	used with caution in elderly patients
+nasal decongestants for systemic use	can cause	dry mouth
+nasal decongestants for systemic use	should be	avoided in patients with glaucoma
+nasal decongestants for systemic use	can cause	dizziness
+nasal decongestants for systemic use	can cause	restlessness
+nasal decongestants for systemic use	should not be	taken with other decongestants
+nasal decongestants for systemic use	should be	avoided in patients with diabetes
+nasal decongestants for systemic use	can cause	palpitations
+nasal decongestants for systemic use	should be	used with caution in patients with thyroid disorders
+nasal decongestants for systemic use	can cause	urinary retention
+nasal decongestants for systemic use	can interact	with certain medications
+nasal decongestants for systemic use	can cause	dryness of nasal mucosa
+nasal decongestants for systemic use	can cause	nasal irritation
+nasal decongestants for systemic use	can cause	nasal bleeding
+nasal decongestants for systemic use	can cause	throat irritation
+nasal decongestants for systemic use	can cause	increased intraocular pressure
+nasal decongestants for systemic use	can cause	difficulty in urination
+nasal decongestants for systemic use	can cause	skin rashes
+nasal decongestants for systemic use	can cause	hives
+nasal decongestants for systemic use	should not be	used in patients with hyperthyroidism
+nasal decongestants for systemic use	can cause	nervousness
+nasal decongestants for systemic use	should not be	used in patients with prostate enlargement
+nasal decongestants for systemic use	may cause	drug interactions
+nasal decongestants for systemic use	can cause	blurred vision
+nasal decongestants for systemic use	can cause	tachycardia
+nasal decongestants for systemic use	should be	avoided in patients with liver disease
+nasal decongestants for systemic use	should be	avoided in patients with kidney disease
+nasal decongestants for systemic use	should not be	used in patients with narrow-angle glaucoma
+nasal decongestants for systemic use	can cause	irregular heart rhythms
+nasal decongestants for systemic use	should not be	used in patients with urinary retention
+nasal decongestants for systemic use	should not be	used in patients with increased intraocular pressure
+nasal decongestants for systemic use	can cause	decreased appetite
+nasal decongestants for systemic use	should not be	used in patients with seizures
+nasal decongestants for systemic use	should be	avoided in patients with hypersensitivity reactions to the active ingredient
+nasal decongestants for systemic use	should be	avoided in patients with hypersensitivity reactions to other sympathomimetic drugs
+nasal decongestants for systemic use	can cause	anxiety
+nasal decongestants for systemic use	can cause	chest pain
+nasal decongestants for systemic use	should be	used with caution in patients with hyperthyroidism
+nasal decongestants for systemic use	can cause	increased thirst
+nasal decongestants for systemic use	should be	avoided in patients with severe hypertension
+nasal decongestants for systemic use	should be	stored out of reach of children
+nasal decongestants for systemic use	should be	used with caution in patients with diabetes
+nasal decongestants for systemic use	should not be	used in patients with arrhythmias
+nasal decongestants for systemic use	can cause	difficulty sleeping
+nasal decongestants for systemic use	should not be	used in patients with hyperthyroidism
+nasal decongestants for systemic use	should not be	used in patients with cardiac disease
+nasal decongestants for systemic use	can cause	agitation
+nasal decongestants for systemic use	can cause	nervousness
+nasal decongestants for systemic use	can cause	increased blood sugar levels
+nasal decongestants for systemic use	may interact	with certain medical conditions
+nasal decongestants for systemic use	can cause	decreased urine output
+nasal decongestants for systemic use	can cause	difficulty in breathing
+nasal decongestants for systemic use	can cause	rapid heartbeat
+nasal decongestants for systemic use	should be	avoided in patients with glaucoma
+nasal decongestants for systemic use	should be	avoided in patients with prostate problems
+nasal decongestants for systemic use	can cause	constipation
+nasal decongestants for systemic use	should not be	used in patients with sleep apnea
+nasal decongestants for systemic use	should not be	used in patients with asthma
+nasal decongestants for systemic use	may cause	drug dependence
+nasal decongestants for systemic use	can cause	difficulty in concentration
+nasal decongestants for systemic use	can cause	blurred vision
+nasal decongestants for systemic use	can cause	tremors
+nasal decongestants for systemic use	can cause	increased blood pressure
+nasal decongestants for systemic use	can cause	increased sweating
+nasal decongestants for systemic use	can cause	nausea
+nasal decongestants for systemic use	can cause	vomiting
+nasal decongestants for systemic use	can cause	diarrhea
+nasal decongestants for systemic use	can cause	abdominal pain
+nasal decongestants for systemic use	can cause	indigestion
+nasal decongestants for systemic use	can cause	difficulty in speaking
+nasal decongestants for systemic use	can cause	dry mouth
+nasal decongestants for systemic use	can cause	dry throat
+nasal decongestants for systemic use	can cause	metallic taste
+nasal decongestants for systemic use	can cause	nasal dryness
+nasal decongestants for systemic use	can cause	throat dryness

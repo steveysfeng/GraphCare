@@ -1,0 +1,105 @@
+agents against leishmaniasis	are used for	treatment
+agents against trypanosomiasis	are used for	treatment
+leishmaniasis	caused by	protozoan parasite
+trypanosomiasis	caused by	protozoan parasite
+treatment	may involve	antiparasitic drugs
+antiparasitic drugs	can be	toxic
+toxicity	can lead to	side effects
+side effects	include	nausea
+side effects	can be	severe
+treatment	may require	multiple courses
+multiple courses	can lead to	development of drug resistance
+development of drug resistance	can make	treatment ineffective
+treatment	can lead to	improvement
+improvement	can be	temporary
+treatment	can lead to	cure
+cure	is possible for	some patients
+treatment	may cause	complications
+complications	can include	organ damage
+treatment	may require	hospitalization
+treatment	can be	expensive
+expensive	can limit	access to treatment
+treatment	requires	monitoring
+monitoring	is necessary to	assess effectiveness
+monitoring	is necessary to	detect adverse reactions
+treatment	can be	time-consuming
+time-consuming	can impact	quality of life
+leishmaniasis	can be	endemic
+trypanosomiasis	can be	endemic
+endemic	means	prevalent in a certain region
+prevalent	means	common
+leishmaniasis	can be	life-threatening
+trypanosomiasis	can be	life-threatening
+life-threatening	means	can cause death
+treatment	can be	difficult
+difficult	can be due to	drug resistance
+difficult	can be due to	lack of effective drugs
+treatment	can be	challenging
+challenging	can be due to	limited resources
+challenging	can be due to	healthcare infrastructure
+leishmaniasis	can affect	skin
+trypanosomiasis	can affect	central nervous system
+skin	can show	lesions
+central nervous system	can show	neurological symptoms
+lesions	can lead to	scarring
+neurological symptoms	can lead to	paralysis
+lesions	can be	painful
+paralysis	can be	permanent
+treatment	can lead to	drug interactions
+drug interactions	can affect	efficacy
+drug interactions	can cause	adverse reactions
+treatment	can have	long-term effects
+long-term effects	can be	unknown
+treatment	can be	prophylactic
+prophylactic	means	preventative
+treatment	can be	tailored to individual patients
+individual patients	may require	different drugs
+treatment	can be	complex
+complex	can involve	multiple healthcare providers
+complex	can involve	multidisciplinary approach
+treatment	can be	interdisciplinary
+interdisciplinary	involves	collaboration among different specialties
+treatment	can be	ongoing
+ongoing	means	continuous
+treatment	can be	supportive
+supportive	means	providing care and relief
+treatment	may require	surgery
+surgery	can be	necessary
+treatment	can be	time-sensitive
+time-sensitive	means	requiring immediate action
+treatment	may involve	immunotherapy
+immunotherapy	can be	effective
+treatment	may involve	supportive therapy
+supportive therapy	can help	manage symptoms
+treatment	can be	individualized
+individualized	means	personalized
+treatment	can be	interdisciplinary
+interdisciplinary	involves	collaboration among different specialties
+treatment	can be	complementary
+complementary	means	used alongside traditional treatments
+treatment	can be	alternative
+alternative	means	used instead of traditional treatments
+treatment	can be	experimental
+experimental	means	in the early stages of testing
+treatment	can have	long-term impact
+long-term impact	can be	unknown
+treatment	can require	monitoring of drug levels
+monitoring of drug levels	is necessary to	ensure efficacy
+monitoring of drug levels	is necessary to	prevent toxicity
+treatment	can require	lifestyle changes
+lifestyle changes	can improve	treatment outcomes
+lifestyle changes	can include	diet modification
+lifestyle changes	can include	exercise regimen
+treatment	can have	psychological impact
+psychological impact	can affect	mental health
+psychological impact	can affect	quality of life
+treatment	may require	rehabilitation
+rehabilitation	can help	regain functionality
+treatment	can have	financial implications
+financial implications	can be	burdensome
+treatment	can be	time-intensive
+time-intensive	means	requiring significant time commitment
+treatment	can be	multifaceted
+multifaceted	means	involving multiple aspects
+treatment	can involve	coordination of care
+coordination of care	is important for	treatment success

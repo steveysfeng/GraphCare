@@ -1,0 +1,76 @@
+decongestants	are used for	nasal congestion
+nasal preparations	are used for	nasal congestion
+decongestants	can cause	rebound congestion
+nasal preparations	can cause	rebound congestion
+decongestants	may contain	pseudoephedrine
+pseudoephedrine	is a	sympathomimetic agent
+nasal preparations	may contain	oxymetazoline
+oxymetazoline	is a	vasoconstrictor
+decongestants	are contraindicated in	patients with hypertension
+nasal preparations	are contraindicated in	patients with hypertension
+decongestants	may interact with	monoamine oxidase inhibitors
+monoamine oxidase inhibitors	are antidepressant medications
+nasal preparations	may interact with	beta blockers
+beta blockers	are used to treat	hypertension
+decongestants	should be used	short-term
+nasal preparations	should be used	short-term
+decongestants	are available in	oral and nasal forms
+nasal preparations	are available in	nasal spray form
+decongestants	are not recommended for	children under 6 years old
+nasal preparations	are not recommended for	children under 6 years old
+decongestants	can cause	insomnia
+nasal preparations	can cause	dryness of the nasal passages
+decongestants	can interact with	other medications
+nasal preparations	can interact with	other medications
+decongestants	can increase	blood pressure
+nasal preparations	can increase	heart rate
+decongestants	should be used with caution in	patients with cardiovascular disease
+nasal preparations	should be used with caution in	patients with cardiovascular disease
+decongestants	can cause	nervousness
+nasal preparations	can cause	headache
+decongestants	can cause	dizziness
+nasal preparations	can cause	sneezing
+decongestants	can cause	nasal irritation
+nasal preparations	can cause	nasal congestion
+decongestants	should not be used with	MAOIs
+nasal preparations	should not be used with	MAOIs
+decongestants	are commonly found in	cold and allergy medications
+nasal preparations	are commonly found in	nasal sprays
+decongestants	can be bought	over-the-counter
+nasal preparations	can be bought	over-the-counter
+decongestants	are commonly used	during cold and flu season
+nasal preparations	are commonly used	for sinus congestion
+decongestants	can cause	restlessness
+nasal preparations	can cause	burning sensation in the nose
+decongestants	should not be used by	patients with glaucoma
+nasal preparations	should not be used by	patients with glaucoma
+decongestants	should not be used by	patients with enlarged prostate
+nasal preparations	should not be used by	patients with enlarged prostate
+decongestants	can cause	insomnia
+nasal preparations	can cause	rebound congestion
+decongestants	should not be used in	patients with diabetes
+nasal preparations	should not be used in	patients with diabetes
+decongestants	can cause	elevated blood pressure
+nasal preparations	can cause	burning or stinging sensation in the nose
+decongestants	should not be used by	patients with heart disease
+nasal preparations	should not be used by	patients with heart disease
+decongestants	should not be used by	patients with thyroid disease
+nasal preparations	should not be used by	patients with thyroid disease
+decongestants	can be used	for temporary relief of nasal congestion
+nasal preparations	can be used	to relieve nasal congestion
+decongestants	should not be used with	beta blockers
+nasal preparations	should not be used with	beta blockers
+decongestants	should not be used with	monoamine oxidase inhibitors
+nasal preparations	should not be used with	monoamine oxidase inhibitors
+decongestants	should not be used with	calcium channel blockers
+nasal preparations	should not be used with	calcium channel blockers
+decongestants	should not be used with	tricyclic antidepressants
+nasal preparations	should not be used with	tricyclic antidepressants
+decongestants	can cause	drug dependence
+nasal preparations	can cause	drug dependence
+decongestants	should not be used with	diuretics
+nasal preparations	should not be used with	diuretics
+decongestants	should not be used with	stimulants
+nasal preparations	should not be used with	stimulants
+decongestants	can cause	increased heart rate
+nasal preparations	can cause	nasal dryness

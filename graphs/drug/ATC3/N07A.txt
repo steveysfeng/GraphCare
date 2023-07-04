@@ -1,0 +1,200 @@
+parasympathomimetics	are	drugs
+drugs	used for	treating certain medical conditions
+parasympathomimetics	enhance	parasympathetic nervous system activity
+parasympathomimetics	can be classified as	cholinergic agents
+cholinergic agents	stimulate	cholinergic receptors
+parasympathomimetics	can also be classified as	muscarinic agonists
+muscarinic agonists	activate	muscarinic receptors
+parasympathomimetics	used for	treating diseases like glaucoma
+glaucoma	is	an eye condition
+parasympathomimetics	can be	inhaled
+inhaled	parasympathomimetics	used for	treating asthma
+asthma	is	a respiratory condition
+parasympathomimetics	used for	treating urinary retention
+urinary retention	is	a condition where emptying of the bladder is impaired
+parasympathomimetics	used for	treating Alzheimer's disease
+Alzheimer's disease	is	a neurodegenerative disorder
+parasympathomimetics	can have	side effects
+side effects	can include	blurred vision
+parasympathomimetics	may interact with	other medications
+parasympathomimetics	contraindicated in	patients with certain conditions
+parasympathomimetics	can be	administered orally
+parasympathomimetics	can be	administered topically
+topically	administered parasympathomimetics	used for	treating certain eye conditions
+eye conditions	can include	conjunctivitis
+conjunctivitis	is	inflammation of the conjunctiva
+parasympathomimetics	can be	administered intravenously
+intravenously	administered parasympathomimetics	used for	emergency situations
+emergency situations	can include	bradycardia
+bradycardia	is	abnormally slow heart rate
+parasympathomimetics	can be	administered subcutaneously
+parasympathomimetics	can be	administered intramuscularly
+intramuscularly	administered parasympathomimetics	used for	certain medical conditions
+certain medical conditions	can include	postoperative ileus
+postoperative ileus	is	a condition where normal bowel function is disrupted after surgery
+parasympathomimetics	can be	administered by inhalation
+inhalation	of parasympathomimetics	used for	treating chronic obstructive pulmonary disease
+chronic obstructive pulmonary disease	is	a lung disease
+parasympathomimetics	can be	administered by injection
+injection	of parasympathomimetics	used for	emergency situations
+parasympathomimetics	can be	administered intravascularly
+intravascularly	administered parasympathomimetics	used for	treating certain cardiac conditions
+cardiac conditions	can include	heart failure
+parasympathomimetics	can be	administered ophthalmically
+ophthalmically	administered parasympathomimetics	used for	treating certain eye conditions
+parasympathomimetics	can be	administered nasally
+nasally	administered parasympathomimetics	used for	treating certain respiratory conditions
+parasympathomimetics	can be	administered via a transdermal patch
+transdermal patch	containing parasympathomimetics	used for	certain medical conditions
+certain medical conditions	can include	overactive bladder
+overactive bladder	is	a condition where the bladder muscles contract involuntarily
+parasympathomimetics	can be	administered via a nasal spray
+nasal spray	containing parasympathomimetics	used for	certain medical conditions
+certain medical conditions	can include	allergic rhinitis
+allergic rhinitis	is	inflammation of the nasal passages due to allergic reactions
+parasympathomimetics	can be	administered via eye drops
+eye drops	containing parasympathomimetics	used for	certain eye conditions
+parasympathomimetics	can be	administered via the rectum
+rectally	administered parasympathomimetics	used for	treating certain medical conditions
+parasympathomimetics	can be	administered via a nebulizer
+nebulizer	delivering parasympathomimetics	used for	treating certain respiratory conditions
+parasympathomimetics	can be	administered via a suppository
+suppository	containing parasympathomimetics	used for	treating certain medical conditions
+parasympathomimetics	can be	administered via an intrathecal pump
+intrathecal pump	delivering parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravitreal injection
+intravitreal injection	delivering parasympathomimetics	used for	treating certain eye conditions
+parasympathomimetics	can be	administered via an intranasal spray
+intranasal spray	delivering parasympathomimetics	used for	treating certain medical conditions
+parasympathomimetics	can be	administered via a buccal tablet
+buccal tablet	containing parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracerebral injection
+intracerebral injection	delivering parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracavitary route
+intracavitary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intramammary route
+intramammary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrathecal route
+intrathecal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratympanic route
+intratympanic administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracardiac injection
+intracardiac injection	delivering parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraocular route
+intraocular administration of parasympathomimetics	used for	treating certain eye conditions
+parasympathomimetics	can be	administered via an intrauterine route
+intrauterine administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraarticular route
+intraarticular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intralymphatic route
+intralymphatic administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrasynovial route
+intrasynovial administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraspinal route
+intraspinal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intramural route
+intramural administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracoronary route
+intracoronary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraprostatic route
+intraprostatic administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravesical route
+intravesical administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravitreous route
+intravitreous administration of parasympathomimetics	used for	treating certain eye conditions
+parasympathomimetics	can be	administered via an intraventricular route
+intraventricular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracanalicular route
+intracanalicular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraluminal route
+intraluminal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intranasal route
+intranasal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraleukocyte route
+intraleukocyte administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intramammary route
+intramammary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraperitoneal route
+intraperitoneal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrabursal route
+intrabursal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravenous route
+intravenous administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrathecal route
+intrathecal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intralymphatic route
+intralymphatic administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraadrenal route
+intraadrenal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratesticular route
+intratesticular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraglenoidal route
+intraglenoidal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intradiscal route
+intradiscal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intranasal route
+intranasal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracardiac route
+intracardiac administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraurethral route
+intraurethral administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intralesional route
+intralesional administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracranial route
+intracranial administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravascular route
+intravascular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraruminal route
+intraruminal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraduodenal route
+intraduodenal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratesticular route
+intratesticular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraventricular route
+intraventricular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraspinal route
+intraspinal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrauterine route
+intrauterine administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intranasal route
+intranasal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intramammary route
+intramammary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratracheal route
+intratracheal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravaginal route
+intravaginal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracanalicular route
+intracanalicular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratumor route
+intratumor administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrapericardial route
+intrapericardial administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracerebroventricular route
+intracerebroventricular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intranodal route
+intranodal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intracaecal route
+intracaecal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratumescent route
+inratumescent administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraepidermal route
+intraepidermal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intratendinous route
+intratendinous administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrabursal route
+intrabursal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intravascular route
+intravascular administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrabronchial route
+intrabronchial administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrabiliary route
+intrabiliary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraprostatic route
+intraprostatic administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intrameningeal route
+intrameningeal administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intramammary route
+intramammary administration of parasympathomimetics	used for	certain medical conditions
+parasympathomimetics	can be	administered via an intraperitoneal route
+intraperitoneal administration of parasympathomimetics	used for	certain medical conditions

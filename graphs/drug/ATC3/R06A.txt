@@ -1,0 +1,130 @@
+antihistamines for systemic use	are used for	allergies
+antihistamines for systemic use	can cause	drowsiness
+antihistamines for systemic use	may interact with	sedatives
+antihistamines for systemic use	can treat	hives
+antihistamines for systemic use	are available as	tablets
+antihistamines for systemic use	can be	anticholinergic
+antihistamines for systemic use	may have	dry mouth
+anticholinergic	can cause	blurred vision
+antihistamines for systemic use	may be contraindicated in	narrow-angle glaucoma
+antihistamines for systemic use	can relieve	itching
+antihistamines for systemic use	can be	sedating
+sedatives	can enhance the effect of	antihistamines for systemic use
+antihistamines for systemic use	can be	non-sedating
+antihistamines for systemic use	may have	dizziness
+antihistamines for systemic use	can interact with	alcohol
+antihistamines for systemic use	may cause	dry eyes
+antihistamines for systemic use	can be	second generation
+antihistamines for systemic use	can cause	fatigue
+antihistamines for systemic use	are contraindicated in	breastfeeding
+antihistamines for systemic use	can be	over-the-counter
+antihistamines for systemic use	may have	antimuscarinic effects
+antihistamines for systemic use	can be administered	orally
+antihistamines for systemic use	are prescribed for	hay fever
+antihistamines for systemic use	can interact with	benzodiazepines
+antihistamines for systemic use	may cause	drowsiness
+antihistamines for systemic use	can alleviate	sneezing
+antihistamines for systemic use	can be	first generation
+antihistamines for systemic use	can have	sedative effects
+antihistamines for systemic use	are not recommended	in children under 2 years old
+antihistamines for systemic use	can be	antipruritic
+antihistamines for systemic use	may have	constipation
+antihistamines for systemic use	can treat	motion sickness
+antihistamines for systemic use	can be	long-acting
+antihistamines for systemic use	can be	short-acting
+antihistamines for systemic use	can be	H1 receptor blockers
+antihistamines for systemic use	can relieve	runny nose
+antihistamines for systemic use	can be	sedating
+antihistamines for systemic use	can be	non-sedating
+antihistamines for systemic use	can alleviate	congestion
+antihistamines for systemic use	can reduce	allergic reactions
+antihistamines for systemic use	can be	second generation
+antihistamines for systemic use	can be	third generation
+antihistamines for systemic use	may cause	blurred vision
+antihistamines for systemic use	are available as	capsules
+antihistamines for systemic use	can be	anticholinergic
+antihistamines for systemic use	may have	dry mouth
+antihistamines for systemic use	can interact with	sedatives
+antihistamines for systemic use	can be	over-the-counter
+antihistamines for systemic use	may have	dizziness
+antihistamines for systemic use	can interact with	alcohol
+antihistamines for systemic use	can treat	seasonal allergies
+antihistamines for systemic use	can cause	fatigue
+antihistamines for systemic use	can alleviate	itching
+sedatives	can enhance the effect of	antihistamines for systemic use
+antihistamines for systemic use	may be contraindicated in	angle-closure glaucoma
+antihistamines for systemic use	can interact with	benzodiazepines
+antihistamines for systemic use	can cause	dry eyes
+antihistamines for systemic use	can be	taken orally
+antihistamines for systemic use	can treat	allergic rhinitis
+antihistamines for systemic use	can be	antipruritic
+antihistamines for systemic use	can relieve	sneezing
+antihistamines for systemic use	can reduce	itching
+antihistamines for systemic use	can be	long-lasting
+antihistamines for systemic use	may have	sedative effects
+antihistamines for systemic use	can be	H1 blockers
+antihistamines for systemic use	can alleviate	watery eyes
+antihistamines for systemic use	can be	sold over-the-counter
+antihistamines for systemic use	can treat	urticaria
+antihistamines for systemic use	can alleviate	hives
+antihistamines for systemic use	can cause	dry throat
+antihistamines for systemic use	can be	taken as tablets
+antihistamines for systemic use	can have	anticholinergic effects
+antihistamines for systemic use	can treat	itching
+antihistamines for systemic use	can cause	sleepiness
+antihistamines for systemic use	can be	long-acting
+antihistamines for systemic use	can be	short-acting
+antihistamines for systemic use	can relieve	congestion
+antihistamines for systemic use	can be	non-sedating
+antihistamines for systemic use	can reduce	symptoms of cold allergy
+antihistamines for systemic use	can be	H1 receptor antagonists
+antihistamines for systemic use	can alleviate	nasal congestion
+antihistamines for systemic use	can cause	dry nose
+antihistamines for systemic use	can treat	motion sickness
+antihistamines for systemic use	are contraindicated in	pregnancy
+antihistamines for systemic use	can reduce	allergic reactions
+antihistamines for systemic use	can be	second generation
+antihistamines for systemic use	can be	third generation
+antihistamines for systemic use	may cause	blurred vision
+antihistamines for systemic use	are available as	capsules
+antihistamines for systemic use	can be	anticholinergic
+antihistamines for systemic use	may have	dry mouth
+antihistamines for systemic use	can interact with	sedatives
+antihistamines for systemic use	can be	over-the-counter
+antihistamines for systemic use	may have	dizziness
+antihistamines for systemic use	can interact with	alcohol
+antihistamines for systemic use	can treat	seasonal allergies
+antihistamines for systemic use	can cause	fatigue
+antihistamines for systemic use	can alleviate	itching
+sedatives	can enhance the effect of	antihistamines for systemic use
+antihistamines for systemic use	may be contraindicated in	angle-closure glaucoma
+antihistamines for systemic use	can interact with	benzodiazepines
+antihistamines for systemic use	can cause	dry eyes
+antihistamines for systemic use	can be	taken orally
+antihistamines for systemic use	can treat	allergic rhinitis
+antihistamines for systemic use	can be	antipruritic
+antihistamines for systemic use	can relieve	sneezing
+antihistamines for systemic use	can reduce	itching
+antihistamines for systemic use	can be	long-lasting
+antihistamines for systemic use	may have	sedative effects
+antihistamines for systemic use	can be	H1 blockers
+antihistamines for systemic use	can alleviate	watery eyes
+antihistamines for systemic use	can be	sold over-the-counter
+antihistamines for systemic use	can treat	urticaria
+antihistamines for systemic use	can alleviate	hives
+antihistamines for systemic use	can cause	dry throat
+antihistamines for systemic use	can be	taken as tablets
+antihistamines for systemic use	can have	anticholinergic effects
+antihistamines for systemic use	can treat	itching
+antihistamines for systemic use	can cause	sleepiness
+antihistamines for systemic use	can be	long-acting
+antihistamines for systemic use	can be	short-acting
+antihistamines for systemic use	can relieve	congestion
+antihistamines for systemic use	can be	non-sedating
+antihistamines for systemic use	can reduce	symptoms of cold allergy
+antihistamines for systemic use	can be	H1 receptor antagonists
+antihistamines for systemic use	can alleviate	nasal congestion
+antihistamines for systemic use	can cause	dry nose
+antihistamines for systemic use	can treat	motion sickness
+antihistamines for systemic use	are contraindicated in	pregnancy
+antihistamines for systemic use	can reduce	allergic reactions

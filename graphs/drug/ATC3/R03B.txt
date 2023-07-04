@@ -1,0 +1,87 @@
+other drugs for obstructive airway diseases	belong to	inhalants
+inhalants	used in	ATC classification
+inhalants	can treat	obstructive airway diseases
+obstructive airway diseases	may require	drug treatment
+drug treatment	helps manage	symptoms
+inhalants	administered through	inhalation
+inhalants	may cause	bronchodilation
+bronchodilation	improves	airway flow
+inhalants	include	bronchodilators
+bronchodilators	relax	smooth muscles
+bronchodilators	used for	airway diseases
+airway diseases	can cause	breathing difficulties
+inhalants	provide	quick relief
+inhalants	need	prescription
+prescription	required for	inhalants
+inhalants	can be	short-acting
+short-acting inhalants	provide	immediate relief
+inhalants	may be	long-acting
+long-acting inhalants	offer	sustained relief
+inhalants	available in	different forms
+different forms	include	inhalers
+inhalers	deliver	medication
+medication	helps	open airways
+inhalants	may be	used in combination therapy
+combination therapy	involves	multiple drugs
+multiple drugs	used for	better control
+better control	aims to	reduce symptoms
+inhalants	can be	categorized by mechanism of action
+mechanism of action	determines	how they work
+inhalants	classified as	beta-agonists
+beta-agonists	stimulate	beta receptors
+beta receptors	found in	airway smooth muscles
+inhalants	also classified as	anticholinergics
+anticholinergics	inhibit	acetylcholine
+acetylcholine	responsible for	muscle contraction
+inhalants	may interact with	other medications
+other medications	can affect	inhalant effectiveness
+inhalants	should be	used with caution
+caution	necessary to	prevent complications
+inhalants	can cause	side effects
+side effects	include	dry mouth
+inhalants	require	proper technique
+proper technique	ensures	correct drug delivery
+inhalants	prescribed based on	individual needs
+individual needs	determine	drug choice
+inhalants	need	regular monitoring
+regular monitoring	ensures	treatment effectiveness
+inhalants	may need	dose adjustment
+dose adjustment	necessary for	optimal response
+inhalants	should not be	used for acute attacks
+acute attacks	require	immediate medical attention
+inhalants	can interact with	certain conditions
+certain conditions	may contraindicate	inhalant use
+inhalants	not suitable for	everyone
+inhalants	contraindicated in	certain populations
+certain populations	include	pregnant women
+inhalants	can be	addictive
+addiction	a risk of	inhalant misuse
+inhalant misuse	can lead to	dependence
+dependence	requires	professional intervention
+inhalants	should be	stored properly
+proper storage	prevents	drug degradation
+inhalants	may be	available in generic form
+generic inhalants	offer	cost savings
+cost savings	can make	medication more affordable
+inhalants	may have	brand name alternatives
+brand name alternatives	provide	options for patients
+inhalants	require	careful monitoring
+careful monitoring	ensures	treatment safety
+inhalants	can be	used long-term
+long-term use	necessary for	chronic conditions
+chronic conditions	require	ongoing management
+inhalants	can improve	quality of life
+quality of life	an important goal of	treatment
+inhalants	need to be	stored away from heat
+heat	can affect	inhalant stability
+inhalants	can be	used for maintenance therapy
+maintenance therapy	aimed at	symptom control
+inhalants	offer	convenient administration
+convenient administration	improves	patient compliance
+inhalants	used according to	prescribed schedule
+prescribed schedule	important for	treatment efficacy
+inhalants	can be	administered through nebulizers
+nebulizers	deliver	fine mist
+fine mist	facilitates	drug absorption
+inhalants	need to be	disposed properly
+proper disposal	prevents	environmental contamination

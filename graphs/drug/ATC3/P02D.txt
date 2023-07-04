@@ -1,0 +1,7 @@
+anticestodals	are	drugs
+anticestodals	used for	treating parasitic infections
+parasitic infections	can be caused by	tapeworms
+anticestodals	can be	effective
+anticestodals	include	praziquantel
+praziquantel	is	a specific anticestodal drug
+praziquantel	works by	paralyzing the tapeworms

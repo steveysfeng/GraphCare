@@ -1,0 +1,133 @@
+agents	can treat	amoebiasis
+agents	can treat	other protozoal diseases
+agents	are	effective
+agents	may have	side effects
+side effects	can include	nausea
+side effects	can include	vomiting
+side effects	can include	diarrhea
+amoebiasis	is	a medical condition
+amoebiasis	is caused by	protozoal infection
+protozoal infection	can spread through	contaminated water
+protozoal infection	can spread through	poor sanitation
+protozoal diseases	can be	life-threatening
+amoebiasis	can lead to	complications
+complications	can include	liver abscess
+complications	can include	peritonitis
+complications	can include	intestinal obstruction
+complications	can include	sepsis
+agents	are	prescribed by doctors
+agents	can be	taken orally
+agents	can be	administered intravenously
+agents	can be	administered rectally
+agents	should be	used with caution in pregnant women
+agents	should be	used with caution in children
+agents	should be	used with caution in elderly patients
+agents	can interact with	other medications
+agents	should be	used under medical supervision
+agents	should not be	used without a prescription
+amoebiasis	can be	prevented
+prevention measures	include	practicing good hygiene
+prevention measures	include	drinking clean water
+prevention measures	include	washing hands regularly
+prevention measures	include	avoiding raw/undercooked food
+prevention measures	include	avoiding contaminated water sources
+agents	can be	expensive
+agents	can be	covered by insurance
+agents	can be	obtained from pharmacies
+agents	can be	obtained online
+agents	can have	generic alternatives
+generic alternatives	may be	more affordable
+amoebiasis	is more common in	developing countries
+amoebiasis	is less common in	developed countries
+agents	can be	effective in treating other parasitic infections
+agents	are	registered medications
+agents	are	approved for medical use
+amoebiasis	can lead to	chronic infection
+chronic infection	can cause	long-term complications
+long-term complications	can include	intestinal damage
+long-term complications	can include	nutritional deficiencies
+long-term complications	can include	impaired immunity
+agents	can be	used for both treatment and prevention
+agents	can be	prescribed for prophylactic use
+agents	can be	used in combination therapy
+combination therapy	can be	more effective
+agents	can be	used in immunocompromised patients
+immunocompromised patients	are	at higher risk
+agents	may require	dosage adjustments
+agents	are	metabolized by the liver
+agents	are	excreted by the kidneys
+agents	have	varying half-lives
+agents	should be	stored properly
+improper storage	can lead to	decreased efficacy
+improper storage	can lead to	drug degradation
+improper storage	can lead to	bacterial contamination
+agents	can be	prescribed for a specific duration
+agents	can be	prescribed for a specific dosage
+dosage	should be	based on patient's weight
+agents	can cause	allergic reactions
+allergic reactions	can be	life-threatening
+agents	may require	regular monitoring
+regular monitoring	helps	assess treatment response
+regular monitoring	helps	detect potential side effects
+agents	may need	dose adjustments
+agents	may take	time to show improvement
+agents	can interact with	certain foods
+agents	can interact with	alcohol
+agents	can interact with	herbal supplements
+agents	can interact with	certain medical conditions
+agents	can be	contraindicated in certain patients
+agents	should be	used as prescribed
+agents	may not be	suitable for everyone
+agents	can be	toxic in high doses
+high doses	should be	avoided
+agents	should be	stored away from children
+agents	are	effective against specific types of protozoa
+agents	are	not effective against viral infections
+agents	are	not effective against bacterial infections
+agents	can take	different forms (e.g.	tablets	capsules	suspensions)
+agents	can have	different brand names
+brand names	can vary	by country
+agents	can be	part of combination medications
+combination medications	can have	additional components
+combination medications	can have	synergistic effects
+agents	have	specific mechanisms of action
+mechanisms of action	can vary	between agents
+mechanisms of action	involve	targeting the parasite's DNA
+mechanisms of action	involve	disrupting parasite's metabolic processes
+mechanisms of action	involve	blocking parasite's reproduction
+resistance	can develop	to certain agents
+agents	are	essential in global health programs
+global health programs	aim to	control parasitic infections
+global health programs	aim to	prevent disease transmission
+global health programs	aim to	improve access to treatment
+agents	are	on the World Health Organization's List of Essential Medicines
+amoebiasis	is	a significant public health concern
+public health concern	requires	surveillance and control measures
+public health concern	requires	community education
+public health concern	requires	research for new treatments
+agents	can be	used in combination with antibiotics
+agents	can be	used in combination with antivirals
+agents	can be	used in combination with antifungals
+agents	can be	used in combination with immunosuppressants
+agents	have	limited effectiveness against drug-resistant strains
+agents	can be	used in veterinary medicine
+veterinary medicine	aims to	treat protozoal infections in animals
+veterinary medicine	aims to	prevent disease in livestock
+veterinary medicine	aims to	improve animal health
+veterinary medicine	contributes to	food safety
+agents	can be	imported/exported
+importing/exporting agents	requires	regulatory approval
+agents	are	subject to quality control
+agents	need	proper storage conditions during transportation
+agents	have	specific storage temperature requirements
+agents	may have	limited availability in certain regions
+agents	can be	included in national treatment guidelines
+national treatment guidelines	are	evidence-based
+agents	can be	produced by different pharmaceutical companies
+pharmaceutical companies	compete	to develop new agents
+research	plays a	crucial role
+research	helps	improve treatment outcomes
+research	helps	discover new agents
+research	helps	understand resistance mechanisms
+research	helps	identify novel drug targets
+research	requires	funding support
