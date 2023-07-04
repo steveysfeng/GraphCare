@@ -1,0 +1,274 @@
+nonoperative urinary system measurements	are used for	monitoring
+nonoperative urinary system measurements	can indicate	kidney function
+nonoperative urinary system measurements	include	urine output
+nonoperative urinary system measurements	measure	bladder capacity
+nonoperative urinary system measurements	help diagnose	urinary tract infections
+nonoperative urinary system measurements	can assess	urinary incontinence
+nonoperative urinary system measurements	evaluate	kidney stone formation
+nonoperative urinary system measurements	monitor	prostate health
+nonoperative urinary system measurements	measure	urethral resistance
+nonoperative urinary system measurements	can detect	urinary reflux
+nonoperative urinary system measurements	assess	bladder pressure
+nonoperative urinary system measurements	help diagnose	urinary retention
+nonoperative urinary system measurements	evaluate	urinary system obstructions
+nonoperative urinary system measurements	measure	residual urine volume
+nonoperative urinary system measurements	can identify	urinary leakage
+nonoperative urinary system measurements	assess	urine pH levels
+nonoperative urinary system measurements	help diagnose	renal failure
+nonoperative urinary system measurements	evaluate	kidney function after transplant
+nonoperative urinary system measurements	monitor	renal artery stenosis
+nonoperative urinary system measurements	measure	ureteral peristalsis
+nonoperative urinary system measurements	can detect	urinary fistulas
+nonoperative urinary system measurements	assess	renal tubular function
+nonoperative urinary system measurements	help diagnose	urinary tract obstructions
+nonoperative urinary system measurements	evaluate	bladder function
+nonoperative urinary system measurements	measure	urethral sphincter tone
+nonoperative urinary system measurements	can identify	urinary tract calculi
+nonoperative urinary system measurements	assess	renal blood flow
+nonoperative urinary system measurements	help diagnose	bladder cancer
+nonoperative urinary system measurements	evaluate	urethral stricture
+nonoperative urinary system measurements	measure	urine osmolality
+nonoperative urinary system measurements	can detect	vesicoureteral reflux
+nonoperative urinary system measurements	assess	renal pelvis dilation
+nonoperative urinary system measurements	help diagnose	prostate enlargement
+nonoperative urinary system measurements	evaluate	bladder outlet obstruction
+nonoperative urinary system measurements	measure	urine specific gravity
+nonoperative urinary system measurements	can identify	urethral diverticulum
+nonoperative urinary system measurements	assess	renal function
+nonoperative urinary system measurements	help diagnose	bladder dysfunction
+nonoperative urinary system measurements	evaluate	neurogenic bladder
+nonoperative urinary system measurements	measure	urine pH
+nonoperative urinary system measurements	can detect	urinary tract anomalies
+nonoperative urinary system measurements	assess	renal cysts
+nonoperative urinary system measurements	help diagnose	interstitial cystitis
+nonoperative urinary system measurements	evaluate	detrusor muscle function
+nonoperative urinary system measurements	measure	urine electrolyte levels
+nonoperative urinary system measurements	can identify	ureterovesical junction obstruction
+nonoperative urinary system measurements	assess	renal scarring
+nonoperative urinary system measurements	help diagnose	urinary bladder stones
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can detect	urethral stricture
+nonoperative urinary system measurements	assess	renal cortical thickness
+nonoperative urinary system measurements	help diagnose	chronic kidney disease
+nonoperative urinary system measurements	evaluate	ureteral obstruction
+nonoperative urinary system measurements	measure	urine volume
+nonoperative urinary system measurements	can identify	bladder diverticulum
+nonoperative urinary system measurements	assess	renal function impairment
+nonoperative urinary system measurements	help diagnose	urinary tract stones
+nonoperative urinary system measurements	evaluate	detrusor overactivity
+nonoperative urinary system measurements	measure	urine creatinine levels
+nonoperative urinary system measurements	can detect	urinary retention
+nonoperative urinary system measurements	assess	renal perfusion
+nonoperative urinary system measurements	help diagnose	overactive bladder
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine protein levels
+nonoperative urinary system measurements	can identify	bladder outlet obstruction
+nonoperative urinary system measurements	assess	renal function decline
+nonoperative urinary system measurements	help diagnose	urinary incontinence
+nonoperative urinary system measurements	evaluate	urethral function
+nonoperative urinary system measurements	measure	urine glucose levels
+nonoperative urinary system measurements	can detect	renal artery stenosis
+nonoperative urinary system measurements	assess	renal parenchymal disease
+nonoperative urinary system measurements	help diagnose	urethral stricture
+nonoperative urinary system measurements	evaluate	bladder neck obstruction
+nonoperative urinary system measurements	measure	urine sediment
+nonoperative urinary system measurements	can identify	renal tubular acidosis
+nonoperative urinary system measurements	assess	renal function impairment after transplant
+nonoperative urinary system measurements	help diagnose	urge incontinence
+nonoperative urinary system measurements	evaluate	urinary flow rate
+nonoperative urinary system measurements	measure	urine calcium levels
+nonoperative urinary system measurements	can detect	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal collecting system dilation
+nonoperative urinary system measurements	help diagnose	cystitis
+nonoperative urinary system measurements	evaluate	urethral stricture
+nonoperative urinary system measurements	measure	urine potassium levels
+nonoperative urinary system measurements	can identify	bladder neck contracture
+nonoperative urinary system measurements	assess	renal artery occlusion
+nonoperative urinary system measurements	help diagnose	renal dysfunction
+nonoperative urinary system measurements	evaluate	bladder sensation
+nonoperative urinary system measurements	measure	urine sodium levels
+nonoperative urinary system measurements	can detect	urethral sphincter dysfunction
+nonoperative urinary system measurements	assess	renal artery calcification
+nonoperative urinary system measurements	help diagnose	urinary tract infection
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine chloride levels
+nonoperative urinary system measurements	can identify	bladder neck obstruction
+nonoperative urinary system measurements	assess	renal artery stenosis severity
+nonoperative urinary system measurements	help diagnose	nephropathy
+nonoperative urinary system measurements	evaluate	bladder sensation impairment
+nonoperative urinary system measurements	measure	urine pH levels
+nonoperative urinary system measurements	can detect	detrusor overactivity
+nonoperative urinary system measurements	assess	renal artery stenosis etiology
+nonoperative urinary system measurements	help diagnose	urethritis
+nonoperative urinary system measurements	evaluate	bladder contractility
+nonoperative urinary system measurements	measure	urine osmolality
+nonoperative urinary system measurements	can identify	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal artery waveform
+nonoperative urinary system measurements	help diagnose	glomerulonephritis
+nonoperative urinary system measurements	evaluate	urethral stricture
+nonoperative urinary system measurements	measure	urine specific gravity
+nonoperative urinary system measurements	can detect	urinary retention
+nonoperative urinary system measurements	assess	renal artery calcification
+nonoperative urinary system measurements	help diagnose	urolithiasis
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine electrolyte levels
+nonoperative urinary system measurements	can identify	ureterovesical junction obstruction
+nonoperative urinary system measurements	assess	renal artery stenosis severity
+nonoperative urinary system measurements	help diagnose	bladder outlet obstruction
+nonoperative urinary system measurements	evaluate	detrusor overactivity
+nonoperative urinary system measurements	measure	urine creatinine levels
+nonoperative urinary system measurements	can detect	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal arterial flow
+nonoperative urinary system measurements	help diagnose	renal failure
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can identify	ureteral stricture
+nonoperative urinary system measurements	assess	renal cortex thickness
+nonoperative urinary system measurements	help diagnose	chronic renal insufficiency
+nonoperative urinary system measurements	evaluate	ureteral obstruction
+nonoperative urinary system measurements	measure	urine volume
+nonoperative urinary system measurements	can detect	bladder diverticulum
+nonoperative urinary system measurements	assess	renal function impairment
+nonoperative urinary system measurements	help diagnose	urinary bladder stones
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can identify	urethral stricture
+nonoperative urinary system measurements	assess	renal cortical thinning
+nonoperative urinary system measurements	help diagnose	renal insufficiency
+nonoperative urinary system measurements	evaluate	bladder neck obstruction
+nonoperative urinary system measurements	measure	urine sediment
+nonoperative urinary system measurements	can detect	renal tubular acidosis
+nonoperative urinary system measurements	assess	renal function decline
+nonoperative urinary system measurements	help diagnose	urinary incontinence
+nonoperative urinary system measurements	evaluate	urethral function
+nonoperative urinary system measurements	measure	urine glucose levels
+nonoperative urinary system measurements	can identify	renal artery stenosis
+nonoperative urinary system measurements	assess	renal parenchymal disease
+nonoperative urinary system measurements	help diagnose	urethral stricture
+nonoperative urinary system measurements	evaluate	bladder neck obstruction
+nonoperative urinary system measurements	measure	urine potassium levels
+nonoperative urinary system measurements	can detect	bladder neck contracture
+nonoperative urinary system measurements	assess	renal artery occlusion
+nonoperative urinary system measurements	help diagnose	renal disease
+nonoperative urinary system measurements	evaluate	bladder sensation
+nonoperative urinary system measurements	measure	urine sodium levels
+nonoperative urinary system measurements	can identify	urethral sphincter dysfunction
+nonoperative urinary system measurements	assess	renal artery calcification
+nonoperative urinary system measurements	help diagnose	urinary tract infection
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine chloride levels
+nonoperative urinary system measurements	can detect	bladder neck obstruction
+nonoperative urinary system measurements	assess	renal artery stenosis severity
+nonoperative urinary system measurements	help diagnose	nephropathy
+nonoperative urinary system measurements	evaluate	bladder sensation impairment
+nonoperative urinary system measurements	measure	urine pH levels
+nonoperative urinary system measurements	can identify	detrusor overactivity
+nonoperative urinary system measurements	assess	renal artery stenosis etiology
+nonoperative urinary system measurements	help diagnose	urethritis
+nonoperative urinary system measurements	evaluate	bladder contractility
+nonoperative urinary system measurements	measure	urine osmolality
+nonoperative urinary system measurements	can detect	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal artery waveform
+nonoperative urinary system measurements	help diagnose	glomerulonephritis
+nonoperative urinary system measurements	evaluate	urethral stricture
+nonoperative urinary system measurements	measure	urine specific gravity
+nonoperative urinary system measurements	can identify	urinary retention
+nonoperative urinary system measurements	assess	renal artery calcification
+nonoperative urinary system measurements	help diagnose	urolithiasis
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine electrolyte levels
+nonoperative urinary system measurements	can detect	ureterovesical junction obstruction
+nonoperative urinary system measurements	assess	renal artery stenosis severity
+nonoperative urinary system measurements	help diagnose	bladder outlet obstruction
+nonoperative urinary system measurements	evaluate	detrusor overactivity
+nonoperative urinary system measurements	measure	urine creatinine levels
+nonoperative urinary system measurements	can detect	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal arterial flow
+nonoperative urinary system measurements	help diagnose	renal failure
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can identify	urethral stricture
+nonoperative urinary system measurements	assess	renal cortex thickness
+nonoperative urinary system measurements	help diagnose	chronic renal insufficiency
+nonoperative urinary system measurements	evaluate	ureteral obstruction
+nonoperative urinary system measurements	measure	urine volume
+nonoperative urinary system measurements	can detect	bladder diverticulum
+nonoperative urinary system measurements	assess	renal function impairment
+nonoperative urinary system measurements	help diagnose	urinary bladder stones
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can identify	urethral stricture
+nonoperative urinary system measurements	assess	renal cortical thinning
+nonoperative urinary system measurements	help diagnose	renal insufficiency
+nonoperative urinary system measurements	evaluate	bladder neck obstruction
+nonoperative urinary system measurements	measure	urine sediment
+nonoperative urinary system measurements	can detect	renal tubular acidosis
+nonoperative urinary system measurements	assess	renal function decline
+nonoperative urinary system measurements	help diagnose	urinary incontinence
+nonoperative urinary system measurements	evaluate	urethral function
+nonoperative urinary system measurements	measure	urine glucose levels
+nonoperative urinary system measurements	can identify	renal artery stenosis
+nonoperative urinary system measurements	assess	renal parenchymal disease
+nonoperative urinary system measurements	help diagnose	urethral stricture
+nonoperative urinary system measurements	evaluate	bladder neck obstruction
+nonoperative urinary system measurements	measure	urine potassium levels
+nonoperative urinary system measurements	can detect	bladder neck contracture
+nonoperative urinary system measurements	assess	renal artery occlusion
+nonoperative urinary system measurements	help diagnose	renal disease
+nonoperative urinary system measurements	evaluate	bladder sensation
+nonoperative urinary system measurements	measure	urine sodium levels
+nonoperative urinary system measurements	can identify	urethral sphincter dysfunction
+nonoperative urinary system measurements	assess	renal artery calcification
+nonoperative urinary system measurements	help diagnose	urinary tract infection
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine chloride levels
+nonoperative urinary system measurements	can detect	bladder neck obstruction
+nonoperative urinary system measurements	assess	renal artery stenosis severity
+nonoperative urinary system measurements	help diagnose	nephropathy
+nonoperative urinary system measurements	evaluate	bladder sensation impairment
+nonoperative urinary system measurements	measure	urine pH levels
+nonoperative urinary system measurements	can identify	detrusor overactivity
+nonoperative urinary system measurements	assess	renal artery stenosis etiology
+nonoperative urinary system measurements	help diagnose	urethritis
+nonoperative urinary system measurements	evaluate	bladder contractility
+nonoperative urinary system measurements	measure	urine osmolality
+nonoperative urinary system measurements	can detect	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal artery waveform
+nonoperative urinary system measurements	help diagnose	glomerulonephritis
+nonoperative urinary system measurements	evaluate	urethral stricture
+nonoperative urinary system measurements	measure	urine specific gravity
+nonoperative urinary system measurements	can identify	urinary retention
+nonoperative urinary system measurements	assess	renal artery calcification
+nonoperative urinary system measurements	help diagnose	urolithiasis
+nonoperative urinary system measurements	evaluate	bladder compliance
+nonoperative urinary system measurements	measure	urine electrolyte levels
+nonoperative urinary system measurements	can detect	ureterovesical junction obstruction
+nonoperative urinary system measurements	assess	renal artery stenosis severity
+nonoperative urinary system measurements	help diagnose	bladder outlet obstruction
+nonoperative urinary system measurements	evaluate	detrusor overactivity
+nonoperative urinary system measurements	measure	urine creatinine levels
+nonoperative urinary system measurements	can detect	urinary sphincter dysfunction
+nonoperative urinary system measurements	assess	renal arterial flow
+nonoperative urinary system measurements	help diagnose	renal failure
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can identify	urethral stricture
+nonoperative urinary system measurements	assess	renal cortex thickness
+nonoperative urinary system measurements	help diagnose	chronic renal insufficiency
+nonoperative urinary system measurements	evaluate	ureteral obstruction
+nonoperative urinary system measurements	measure	urine volume
+nonoperative urinary system measurements	can detect	bladder diverticulum
+nonoperative urinary system measurements	assess	renal function impairment
+nonoperative urinary system measurements	help diagnose	urinary bladder stones
+nonoperative urinary system measurements	evaluate	bladder capacity
+nonoperative urinary system measurements	measure	post-void residual
+nonoperative urinary system measurements	can identify	urethral stricture
+nonoperative urinary system measurements	assess	renal cortical thinning
+nonoperative urinary system measurements	help diagnose	renal insufficiency
+nonoperative urinary system measurements	evaluate	bladder neck obstruction
+nonoperative urinary system measurements	measure	urine sediment
+nonoperative urinary system measurements	can detect	renal tubular acidosis
+nonoperative urinary system measurements	assess	renal function decline
+nonoperative urinary system measurements	help diagnose	urinary incontinence
+nonoperative urinary system measurements	evaluate	urethral function

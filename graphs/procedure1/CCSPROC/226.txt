@@ -1,0 +1,108 @@
+other diagnostic radiology and related techniques	are used for	imaging
+imaging	can detect	tumors
+imaging	can detect	fractures
+imaging	can detect	abnormalities
+other diagnostic radiology and related techniques	can help diagnose	diseases
+diseases	can be treated with	medications
+medications	can have side effects,
+medications	can interact with	other medications
+medications	can be prescribed by	doctors
+doctors	can specialize in	specific fields
+specific fields	can include	cardiology
+specific fields	can include	neurology
+specific fields	can include	dermatology
+other diagnostic radiology and related techniques	are performed by	radiologists
+radiologists	can interpret	images
+radiologists	can recommend	further tests
+further tests	can help determine	a diagnosis
+diagnosis	is crucial for	treatment
+treatment	can involve	surgery
+treatment	can involve	medication
+treatment	can involve	therapy
+surgery	can be performed by	surgeons
+medication	can be prescribed by	doctors
+medication	can be administered by	nurses
+medication	can help manage	symptoms
+therapy	can be provided by	psychologists
+therapy	can be provided by	physical therapists
+therapy	can help improve	function
+psychologists	can provide	counseling
+physical therapists	can design	exercise programs
+exercise programs	can help strengthen	muscles
+exercise programs	can help improve	flexibility
+muscles	can be affected by	conditions
+conditions	can cause	pain
+conditions	can cause	weakness
+conditions	can cause	stiffness
+pain	can be managed with	analgesics
+analgesics	can have	side effects
+analgesics	can be prescribed by	doctors
+weakness	can be improved with	physical therapy
+stiffness	can be reduced with	stretching
+stretching	can be recommended by	physical therapists
+physical therapists	can provide	instructions
+instructions	can include	proper body mechanics
+proper body mechanics	can help prevent	injuries
+injuries	can result from	accidents
+accidents	can be prevented with	safety measures
+safety measures	can include	wearing protective gear
+wearing protective gear	is important for	athletes
+athletes	can benefit from	sports medicine
+sports medicine	can provide	specialized care
+specialized care	can help athletes	recover from injuries
+athletes	can consult with	sports medicine doctors
+sports medicine doctors	can perform	physical exams
+physical exams	can assess	a person's health
+a person's health	can be affected by	lifestyle choices
+lifestyle choices	can include	diet
+lifestyle choices	can include	exercise
+lifestyle choices	can include	smoking
+diet	can impact	overall health
+exercise	can improve	cardiovascular fitness
+smoking	can increase	the risk of	diseases
+diseases	can be managed with	medication
+medication	can help control	symptoms
+symptoms	can vary depending on	the condition
+the condition	can be diagnosed using	tests
+tests	can include	blood tests
+tests	can include	imaging tests
+blood tests	can measure	various parameters
+imaging tests	can provide	detailed pictures
+detailed pictures	can help identify	abnormalities
+blood tests	can be performed by	lab technicians
+lab technicians	can analyze	samples
+samples	can be collected by	nurses
+nurses	can provide	patient care
+patient care	can involve	administering medications
+patient care	can involve	monitoring vital signs
+monitoring vital signs	can indicate	changes in health
+changes in health	can be discussed with	doctors
+doctors	can make	treatment recommendations
+treatment recommendations	can include	surgery
+treatment recommendations	can include	medication
+treatment recommendations	can include	lifestyle changes
+surgery	can be performed in	operating rooms
+operating rooms	are equipped with	surgical instruments
+surgical instruments	are used by	surgeons
+surgeons	can specialize in	specific procedures
+specific procedures	can include	organ transplants
+specific procedures	can include	joint replacements
+specific procedures	can include	tumor removal
+organ transplants	can save	lives
+joint replacements	can help improve	mobility
+tumor removal	can be curative for	cancer
+cancer	can be treated with	chemotherapy
+cancer	can be treated with	radiation therapy
+cancer	can be treated with	targeted therapy
+chemotherapy	can be administered by	oncologists
+radiation therapy	can be delivered by	radiation oncologists
+targeted therapy	can be prescribed by	medical oncologists
+oncologists	can specialize in	different types of cancer
+different types of cancer	can require	different treatments
+different treatments	can have	different side effects
+different treatments	can have	different success rates
+different treatments	can have	different costs
+different treatments	can be recommended based on	the stage of cancer
+the stage of cancer	can be determined by	diagnostic tests
+diagnostic tests	can include	biopsies
+biopsies	can be performed by	surgeons

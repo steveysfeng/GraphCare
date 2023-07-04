@@ -1,0 +1,92 @@
+ophthalmologic diagnosis	is a	medical procedure
+otologic diagnosis	is a	medical procedure
+ophthalmologic diagnosis	used for	identifying eye conditions
+otologic diagnosis	used for	identifying ear conditions
+ophthalmologic treatment	is a	medical procedure
+otologic treatment	is a	medical procedure
+ophthalmologic treatment	used for	managing eye conditions
+otologic treatment	used for	managing ear conditions
+diagnosis	helps with	treatment
+ophthalmologic diagnosis	can include	eye examination
+otologic diagnosis	can include	ear examination
+ophthalmologic treatment	can include	medication
+otologic treatment	can include	surgery
+ophthalmologic diagnosis	helps in	determining treatment plan
+otologic diagnosis	helps in	determining treatment plan
+ophthalmologic treatment	helps in	improving vision
+otologic treatment	helps in	improving hearing
+diagnosis	is important for	early intervention
+ophthalmologic diagnosis	can detect	cataracts
+otologic diagnosis	can detect	hearing loss
+ophthalmologic treatment	can correct	refractive errors
+otologic treatment	can correct	structural abnormalities
+ophthalmologic treatment	can alleviate	dry eyes
+otologic treatment	can alleviate	ear infections
+ophthalmologic diagnosis	can diagnose	glaucoma
+otologic diagnosis	can diagnose	ear wax impaction
+ophthalmologic treatment	can manage	macular degeneration
+otologic treatment	can manage	vertigo
+ophthalmologic diagnosis	helps in	preventing vision loss
+otologic diagnosis	helps in	preventing hearing loss
+ophthalmologic treatment	can prevent	retinal detachment
+otologic treatment	can prevent	recurrent ear infections
+ophthalmologic diagnosis	can assess	optic nerve
+otologic diagnosis	can assess	eardrum
+ophthalmologic treatment	can reduce	eye inflammation
+otologic treatment	can reduce	ear pain
+ophthalmologic diagnosis	can evaluate	visual acuity
+otologic diagnosis	can evaluate	hearing sensitivity
+ophthalmologic treatment	can improve	eye muscle function
+otologic treatment	can improve	auditory processing
+ophthalmologic diagnosis	can monitor	intraocular pressure
+otologic diagnosis	can monitor	middle ear fluid
+ophthalmologic treatment	can restore	tear drainage
+otologic treatment	can restore	normal hearing
+ophthalmologic diagnosis	can determine	retinal health
+otologic diagnosis	can determine	cochlear function
+ophthalmologic treatment	can repair	corneal injuries
+otologic treatment	can repair	tympanic membrane perforations
+ophthalmologic diagnosis	can evaluate	visual field
+otologic diagnosis	can evaluate	balance function
+ophthalmologic treatment	can control	glaucoma progression
+otologic treatment	can control	tinnitus
+ophthalmologic diagnosis	can identify	age-related macular degeneration
+otologic diagnosis	can identify	auditory processing disorder
+ophthalmologic treatment	can alleviate	dry eye symptoms
+otologic treatment	can alleviate	ear pressure
+ophthalmologic diagnosis	can measure	intraocular pressure
+otologic diagnosis	can measure	auditory thresholds
+ophthalmologic treatment	can treat	ocular allergies
+otologic treatment	can treat	ear wax impaction
+ophthalmologic diagnosis	can screen	diabetic retinopathy
+otologic diagnosis	can screen	hearing loss
+ophthalmologic treatment	can correct	astigmatism
+otologic treatment	can correct	conductive hearing loss
+ophthalmologic diagnosis	can detect	age-related macular degeneration
+otologic diagnosis	can detect	eustachian tube dysfunction
+ophthalmologic treatment	can manage	retinal detachment
+otologic treatment	can manage	cholesteatoma
+ophthalmologic diagnosis	can assess	ocular health
+otologic diagnosis	can assess	auditory nerve function
+ophthalmologic treatment	can improve	dry eye symptoms
+otologic treatment	can improve	tinnitus
+ophthalmologic diagnosis	can evaluate	visual distortion
+otologic diagnosis	can evaluate	hearing loss severity
+ophthalmologic treatment	can control	ocular inflammation
+otologic treatment	can control	ear infections
+ophthalmologic diagnosis	can determine	need for cataract surgery
+otologic diagnosis	can determine	need for hearing aids
+ophthalmologic treatment	can repair	retinal tears
+otologic treatment	can repair	ossicular chain discontinuity
+ophthalmologic diagnosis	can detect	diabetic retinopathy
+otologic diagnosis	can detect	otitis media
+ophthalmologic treatment	can manage	glaucoma
+otologic treatment	can manage	noise-induced hearing loss
+ophthalmologic diagnosis	can identify	retinal disorders
+otologic diagnosis	can identify	vestibular disorders
+ophthalmologic treatment	can alleviate	eye redness
+otologic treatment	can alleviate	ear fullness
+ophthalmologic diagnosis	can screen	refractive errors
+otologic diagnosis	can screen	auditory neuropathy
+ophthalmologic treatment	can correct	myopia
+otologic treatment	can correct	sensorineural hearing loss

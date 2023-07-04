@@ -1,0 +1,71 @@
+electrographic cardiac monitoring	is a	medical procedure
+electrographic cardiac monitoring	used for	monitoring heart activity
+electrographic cardiac monitoring	can detect	arrhythmias
+arrhythmia	is a	heart condition
+arrhythmia	can lead to	stroke
+electrographic cardiac monitoring	helps in	stroke prevention
+electrographic cardiac monitoring	can monitor	heart rate
+heart rate	can indicate	heart function
+electrographic cardiac monitoring	helps in	assessing heart function
+electrographic cardiac monitoring	can identify	cardiac arrest
+cardiac arrest	is a	life-threatening condition
+electrographic cardiac monitoring	aids in	rapid response to cardiac arrest
+electrographic cardiac monitoring	can detect	ischemia
+ischemia	is a	lack of blood flow
+ischemia	can cause	heart attack
+electrographic cardiac monitoring	helps in	early detection of heart attack
+electrographic cardiac monitoring	can measure	QT interval
+QT interval	can indicate	risk of arrhythmias
+electrographic cardiac monitoring	assists in	identifying arrhythmia risk
+electrographic cardiac monitoring	can monitor	drug effects on heart
+electrographic cardiac monitoring	plays a role in	drug safety monitoring
+electrographic cardiac monitoring	can detect	abnormal heart rhythms
+abnormal heart rhythms	can be caused by	medication
+electrographic cardiac monitoring	helps in	medication management
+electrographic cardiac monitoring	can track	response to treatment
+response to treatment	can indicate	effectiveness of treatment
+electrographic cardiac monitoring	aids in	treatment optimization
+electrographic cardiac monitoring	can monitor	electrolyte imbalances
+electrolyte imbalances	can affect	heart function
+electrographic cardiac monitoring	helps in	managing electrolyte imbalances
+electrographic cardiac monitoring	can detect	sleep apnea
+sleep apnea	is a	sleep disorder
+sleep apnea	increases	cardiovascular risk
+electrographic cardiac monitoring	assists in	sleep apnea diagnosis
+electrographic cardiac monitoring	can monitor	heart rate variability
+heart rate variability	can indicate	autonomic dysfunction
+electrographic cardiac monitoring	helps in	autonomic dysfunction evaluation
+electrographic cardiac monitoring	can identify	QT prolongation
+QT prolongation	can lead to	arrhythmias
+electrographic cardiac monitoring	aids in	preventing arrhythmias
+electrographic cardiac monitoring	can detect	myocardial infarction
+myocardial infarction	is a	heart attack
+myocardial infarction	can cause	heart failure
+electrographic cardiac monitoring	facilitates in	post-myocardial infarction management
+electrographic cardiac monitoring	can assess	heart rate variability
+heart rate variability	can indicate	autonomic nervous system function
+electrographic cardiac monitoring	helps in	autonomic nervous system assessment
+electrographic cardiac monitoring	can measure	ST segment
+ST segment	can indicate	myocardial ischemia
+electrographic cardiac monitoring	assists in	early detection of myocardial ischemia
+electrographic cardiac monitoring	can monitor	ventricular fibrillation
+ventricular fibrillation	is a	life-threatening arrhythmia
+electrographic cardiac monitoring	aids in	prompt treatment of ventricular fibrillation
+electrographic cardiac monitoring	can detect	syncope
+syncope	is a	temporary loss of consciousness
+syncope	can be caused by	heart conditions
+electrographic cardiac monitoring	helps in	evaluating syncope
+electrographic cardiac monitoring	can measure	T wave amplitude
+T wave amplitude	can indicate	cardiac repolarization
+electrographic cardiac monitoring	assists in	assessing cardiac repolarization
+electrographic cardiac monitoring	can detect	heart block
+heart block	is a	conduction disorder
+heart block	can cause	dizziness
+electrographic cardiac monitoring	aids in	diagnosing heart block
+electrographic cardiac monitoring	can monitor	PR interval
+PR interval	can indicate	atrioventricular conduction
+electrographic cardiac monitoring	helps in	evaluating atrioventricular conduction
+electrographic cardiac monitoring	can detect	supraventricular tachycardia
+supraventricular tachycardia	is a	rapid heart rate
+supraventricular tachycardia	can cause	palpitations
+electrographic cardiac monitoring	assists in	diagnosing supraventricular tachycardia

@@ -1,0 +1,91 @@
+psychological evaluation	is a	medical procedure
+psychiatric evaluation	is a	medical procedure
+evaluation	used for	diagnosis
+therapy	is a	treatment
+psychological evaluation	can determine	mental health conditions
+psychiatric evaluation	can diagnose	mental disorders
+therapy	can help with	mental health issues
+psychological evaluation	involves	assessment
+psychiatric evaluation	involves	assessment
+therapy	involves	counseling
+psychological evaluation	performed by	psychologist
+psychiatric evaluation	performed by	psychiatrist
+therapy	administered by	therapist
+psychological evaluation	used in	mental health treatment
+psychiatric evaluation	used in	mental health treatment
+therapy	used in	mental health treatment
+psychological evaluation	can identify	psychological factors
+psychiatric evaluation	can assess	psychiatric symptoms
+therapy	can alleviate	symptoms
+psychological evaluation	used for	assessment
+psychiatric evaluation	used for	diagnosis
+therapy	used for	treatment
+psychological evaluation	focuses on	psychological functioning
+psychiatric evaluation	focuses on	psychiatric disorders
+therapy	focuses on	emotional well-being
+psychological evaluation	helps to determine	appropriate treatment approach
+psychiatric evaluation	helps to create	treatment plan
+therapy	helps to improve	coping skills
+psychological evaluation	often includes	psychological testing
+psychiatric evaluation	often includes	psychiatric assessment
+therapy	often includes	cognitive-behavioral therapy
+psychological evaluation	can detect	underlying mental health issues
+psychiatric evaluation	can identify	co-occurring disorders
+therapy	can address	trauma
+psychological evaluation	provides information about	cognitive functioning
+psychiatric evaluation	provides insight into	psychological symptoms
+therapy	provides support for	emotional healing
+psychological evaluation	assesses	psychological symptoms
+psychiatric evaluation	assesses	psychiatric disorders
+therapy	addresses	emotional distress
+psychological evaluation	evaluates	mental health status
+psychiatric evaluation	evaluates	psychiatric conditions
+therapy	enhances	coping mechanisms
+psychological evaluation	informs	treatment decisions
+psychiatric evaluation	informs	medication management
+therapy	incorporates	evidence-based practices
+psychological evaluation	requires	patient's cooperation
+psychiatric evaluation	requires	comprehensive assessment
+therapy	requires	active participation
+psychological evaluation	used to	determine appropriate therapy
+psychiatric evaluation	used to	inform treatment interventions
+therapy	used to	promote overall well-being
+psychological evaluation	assesses	cognitive abilities
+psychiatric evaluation	assesses	mental health symptoms
+therapy	supports	emotional growth
+psychological evaluation	helps to identify	psychological distress
+psychiatric evaluation	helps to determine	appropriate medication
+therapy	helps to develop	coping strategies
+psychological evaluation	assists in	treatment planning
+psychiatric evaluation	assists in	differential diagnosis
+therapy	focuses on	behavior change
+psychological evaluation	provides insights into	emotional functioning
+psychiatric evaluation	provides information about	psychiatric history
+therapy	provides tools for	self-care
+psychological evaluation	screens for	mental health conditions
+psychiatric evaluation	screens for	psychiatric disorders
+therapy	reduces	symptoms severity
+psychological evaluation	evaluates	emotional well-being
+psychiatric evaluation	evaluates	psychiatric symptoms
+therapy	involves	therapeutic activities
+psychological evaluation	informs	psychological assessment
+psychiatric evaluation	informs	treatment approach
+therapy	involves	patient-centered care
+psychological evaluation	identifies	psychological needs
+psychiatric evaluation	identifies	appropriate medication
+therapy	teaches	coping strategies
+psychological evaluation	assesses	emotional health
+psychiatric evaluation	assesses	mental health conditions
+therapy	teaches	stress management
+psychological evaluation	helps to diagnose	mental health disorders
+psychiatric evaluation	helps to identify	potential risk factors
+therapy	helps to foster	emotional resilience
+psychological evaluation	helps to evaluate	psychological conditions
+psychiatric evaluation	helps to understand	psychiatric symptoms
+therapy	helps to promote	self-reflection
+psychological evaluation	helps to manage	psychological symptoms
+psychiatric evaluation	helps to assess	treatment response
+therapy	can be used for	individual counseling
+psychological evaluation	can be used to	monitor progress
+psychiatric evaluation	can be used for	medication evaluation
+therapy	can be used as	group therapy

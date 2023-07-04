@@ -1,0 +1,194 @@
+diagnostic ultrasound of head and neck	is a	medical procedure
+diagnostic ultrasound of head and neck	used for	diagnosis
+diagnostic ultrasound of head and neck	can detect	tumors
+diagnostic ultrasound of head and neck	can assess	blood flow
+diagnostic ultrasound of head and neck	can identify	abnormalities
+diagnostic ultrasound of head and neck	uses	sound waves
+diagnostic ultrasound of head and neck	is non-invasive
+diagnostic ultrasound of head and neck	provides	real-time imaging
+diagnostic ultrasound of head and neck	helps	guide interventions
+diagnostic ultrasound of head and neck	evaluates	lymph nodes
+diagnostic ultrasound of head and neck	assesses	salivary glands
+diagnostic ultrasound of head and neck	detects	cysts
+diagnostic ultrasound of head and neck	differentiates	between benign and malignant tumors
+diagnostic ultrasound of head and neck	visualizes	thyroid gland
+diagnostic ultrasound of head and neck	measures	blood flow velocity
+diagnostic ultrasound of head and neck	aids in	biopsy guidance
+diagnostic ultrasound of head and neck	examines	salivary ducts
+diagnostic ultrasound of head and neck	screens	for carotid artery stenosis
+diagnostic ultrasound of head and neck	can identify	nerve impingements
+diagnostic ultrasound of head and neck	evaluates	soft tissues
+diagnostic ultrasound of head and neck	is a	medical procedure
+diagnostic ultrasound of head and neck	used for	diagnosis
+ultrasound machine	is used in	diagnostic ultrasound of head and neck
+radiologist	performs	diagnostic ultrasound of head and neck
+head and neck	can be imaged with	diagnostic ultrasound
+tumor	can be detected with	diagnostic ultrasound of head and neck
+carotid artery	can be assessed with	diagnostic ultrasound of head and neck
+abnormal growth	can be identified with	diagnostic ultrasound of head and neck
+blood flow	can be evaluated with	diagnostic ultrasound of head and neck
+cranial nerves	can be examined with	diagnostic ultrasound of head and neck
+lymph nodes	can be examined with	diagnostic ultrasound of head and neck
+structural abnormalities	can be detected with	diagnostic ultrasound of head and neck
+salivary glands	can be examined with	diagnostic ultrasound of head and neck
+thyroid gland	can be evaluated with	diagnostic ultrasound of head and neck
+parotid gland	can be assessed with	diagnostic ultrasound of head and neck
+submandibular gland	can be examined with	diagnostic ultrasound of head and neck
+cyst	can be identified with	diagnostic ultrasound of head and neck
+abscess	can be detected with	diagnostic ultrasound of head and neck
+infection	can be diagnosed with	diagnostic ultrasound of head and neck
+swelling	can be assessed with	diagnostic ultrasound of head and neck
+fracture	can be detected with	diagnostic ultrasound of head and neck
+hematoma	can be identified with	diagnostic ultrasound of head and neck
+lymphadenopathy	can be evaluated with	diagnostic ultrasound of head and neck
+stenosis	can be assessed with	diagnostic ultrasound of head and neck
+aneurysm	can be detected with	diagnostic ultrasound of head and neck
+vascular abnormalities	can be identified with	diagnostic ultrasound of head and neck
+abscess	can be diagnosed with	diagnostic ultrasound of head and neck
+tissue biopsy	can be guided by	diagnostic ultrasound of head and neck
+arteriosclerosis	can be detected with	diagnostic ultrasound of head and neck
+calcifications	can be identified with	diagnostic ultrasound of head and neck
+benign tumor	can be diagnosed with	diagnostic ultrasound of head and neck
+malignant tumor	can be detected with	diagnostic ultrasound of head and neck
+anechoic	is a characteristic of	diagnostic ultrasound of head and neck
+hypoechoic	is a characteristic of	diagnostic ultrasound of head and neck
+hyperechoic	is a characteristic of	diagnostic ultrasound of head and neck
+shadowing	is a characteristic of	diagnostic ultrasound of head and neck
+vascular flow	can be assessed with	diagnostic ultrasound of head and neck
+obstruction	can be detected with	diagnostic ultrasound of head and neck
+stenosis	can be identified with	diagnostic ultrasound of head and neck
+organ	can be visualized with	diagnostic ultrasound of head and neck
+inflammation	can be diagnosed with	diagnostic ultrasound of head and neck
+size	can be measured with	diagnostic ultrasound of head and neck
+nodule	can be detected with	diagnostic ultrasound of head and neck
+aneurysm	can be identified with	diagnostic ultrasound of head and neck
+stenosis	can be assessed with	diagnostic ultrasound of head and neck
+vessel lumen	can be evaluated with	diagnostic ultrasound of head and neck
+flow direction	can be determined with	diagnostic ultrasound of head and neck
+hypoechoic	can be indicative of	tumor
+hyperechoic	can be indicative of	calcification
+shadowing	can be indicative of	dense structure
+blood flow	can be visualized with	diagnostic ultrasound of head and neck
+tissue vascularity	can be assessed with	diagnostic ultrasound of head and neck
+infection	can be visualized with	diagnostic ultrasound of head and neck
+cystic structure	can be identified with	diagnostic ultrasound of head and neck
+evaluated	can be done with	diagnostic ultrasound of head and neck
+image	can be obtained with	diagnostic ultrasound of head and neck
+abnormality	can be detected with	diagnostic ultrasound of head and neck
+diagnosis	is made with	diagnostic ultrasound of head and neck
+visualization	is possible with	diagnostic ultrasound of head and neck
+guidance	can be provided with	diagnostic ultrasound of head and neck
+guidance	can be used for	tissue biopsy
+guidance	can be used for	fluid aspiration
+head and neck anatomy	is assessed with	diagnostic ultrasound of head and neck
+nervous system	can be examined with	diagnostic ultrasound of head and neck
+head and neck trauma	can be evaluated with	diagnostic ultrasound of head and neck
+effusion	can be detected with	diagnostic ultrasound of head and neck
+structural abnormality	can be identified with	diagnostic ultrasound of head and neck
+disease	can be diagnosed with	diagnostic ultrasound of head and neck
+ultrasound waves	are used in	diagnostic ultrasound of head and neck
+transducer	is used in	diagnostic ultrasound of head and neck
+scanning	is done during	diagnostic ultrasound of head and neck
+patient	is positioned for	diagnostic ultrasound of head and neck
+gel	is applied for	diagnostic ultrasound of head and neck
+image	is produced during	diagnostic ultrasound of head and neck
+sonographer	performs	diagnostic ultrasound of head and neck
+lesion	can be detected with	diagnostic ultrasound of head and neck
+imaging modality	can be used for	diagnosis
+evaluation	can be done with	diagnostic ultrasound of head and neck
+tumor size	can be measured with	diagnostic ultrasound of head and neck
+traumatic injury	can be assessed with	diagnostic ultrasound of head and neck
+congenital abnormality	can be identified with	diagnostic ultrasound of head and neck
+lymph node metastasis	can be detected with	diagnostic ultrasound of head and neck
+visualization	can be achieved with	diagnostic ultrasound of head and neck
+anatomy	can be assessed with	diagnostic ultrasound of head and neck
+vascular abnormalities	can be identified with	diagnostic ultrasound of head and neck
+ultrasonography	is an alternative term for	diagnostic ultrasound of head and neck
+lesion	can be characterized with	diagnostic ultrasound of head and neck
+mass	can be identified with	diagnostic ultrasound of head and neck
+soft tissue	can be evaluated with	diagnostic ultrasound of head and neck
+color Doppler	can be used for	flow assessment
+scan	can be performed with	diagnostic ultrasound of head and neck
+fluid collection	can be detected with	diagnostic ultrasound of head and neck
+boundary	can be defined with	diagnostic ultrasound of head and neck
+deeper structures	can be visualized with	diagnostic ultrasound of head and neck
+quality	can be assessed with	diagnostic ultrasound of head and neck
+specific organ	can be examined with	diagnostic ultrasound of head and neck
+suspected pathology	can be assessed with	diagnostic ultrasound of head and neck
+surgeon	can use	diagnostic ultrasound of head and neck
+radiation exposure	is not associated with	diagnostic ultrasound of head and neck
+interpretation	can be done for	diagnostic ultrasound of head and neck
+heterogeneous echogenicity	can be indicative of	inflammation
+isoechoic	can be indicative of	normal tissue
+anechoic	can be indicative of	cyst
+diameter	can be measured with	diagnostic ultrasound of head and neck
+malignant tumor	can be diagnosed with	diagnostic ultrasound of head and neck
+neoplasm	can be detected with	diagnostic ultrasound of head and neck
+flow velocity	can be measured with	diagnostic ultrasound of head and neck
+coma	can be evaluated with	diagnostic ultrasound of head and neck
+lesion	can be targeted with	diagnostic ultrasound of head and neck
+musculoskeletal structures	can be imaged with	diagnostic ultrasound of head and neck
+posterior acoustic shadowing	can be indicative of	calcification
+calcifications	can be visualized with	diagnostic ultrasound of head and neck
+sonographic appearance	can be assessed with	diagnostic ultrasound of head and neck
+procedural guidance	can be provided with	diagnostic ultrasound of head and neck
+fluid	can be detected with	diagnostic ultrasound of head and neck
+hemorrhage	can be identified with	diagnostic ultrasound of head and neck
+vessel stenosis	can be assessed with	diagnostic ultrasound of head and neck
+structure	can be evaluated with	diagnostic ultrasound of head and neck
+hypoechoic	can be indicative of	fluid-filled structure
+anechoic	can be indicative of	fluid-filled structure
+sonographic features	can be assessed with	diagnostic ultrasound of head and neck
+echogenicity	can be evaluated with	diagnostic ultrasound of head and neck
+depth	can be assessed with	diagnostic ultrasound of head and neck
+standardized protocol	can be utilized in	diagnostic ultrasound of head and neck
+real-time	is a characteristic of	diagnostic ultrasound of head and neck
+tumor margins	can be assessed with	diagnostic ultrasound of head and neck
+artifact	can interfere with	diagnostic ultrasound of head and neck
+patient position	can be adjusted for	diagnostic ultrasound of head and neck
+large vessel thrombosis	can be detected with	diagnostic ultrasound of head and neck
+organ size	can be measured with	diagnostic ultrasound of head and neck
+vessel occlusion	can be evaluated with	diagnostic ultrasound of head and neck
+transverse view	provides	cross-sectional imaging capability
+longitudinal view	provides	imaging along the length of the structure
+resolution	can be assessed with	diagnostic ultrasound of head and neck
+radiolucent	is a characteristic of	diagnostic ultrasound of head and neck
+lesion depth	can be determined with	diagnostic ultrasound of head and neck
+fluid accumulation	can be detected with	diagnostic ultrasound of head and neck
+anechoic	can be indicative of	fluid-filled cyst
+vascular thrombus	can be identified with	diagnostic ultrasound of head and neck
+fluid aspiration	can be performed with	diagnostic ultrasound of head and neck
+vessel patency	can be assessed with	diagnostic ultrasound of head and neck
+tissue	can be evaluated with	diagnostic ultrasound of head and neck
+lesion location	can be identified with	diagnostic ultrasound of head and neck
+echo pattern	can be assessed with	diagnostic ultrasound of head and neck
+real-time imaging	can be used for	guidance
+flow direction	can be visualized with	diagnostic ultrasound of head and neck
+echogenicity	can be indicative of	tissue characteristics
+image quality	can be assessed with	diagnostic ultrasound of head and neck
+operating room	can use	diagnostic ultrasound of head and neck
+fluid-filled structure	can be detected with	diagnostic ultrasound of head and neck
+limitation	can be encountered with	diagnostic ultrasound of head and neck
+incidence	can be determined with	diagnostic ultrasound of head and neck
+sound waves	are used in	diagnostic ultrasound of head and neck
+image acquisition	can be optimized for	diagnostic ultrasound of head and neck
+vascular structures	can be visualized with	diagnostic ultrasound of head and neck
+congenital anomaly	can be detected with	diagnostic ultrasound of head and neck
+vessel wall	can be assessed with	diagnostic ultrasound of head and neck
+flow pattern	can be evaluated with	diagnostic ultrasound of head and neck
+procedure	can be guided by	diagnostic ultrasound of head and neck
+artifact	can be minimized during	diagnostic ultrasound of head and neck
+vessel diameter	can be measured with	diagnostic ultrasound of head and neck
+tumor vascularity	can be assessed with	diagnostic ultrasound of head and neck
+image resolution	can be optimized with	diagnostic ultrasound of head and neck
+parenchyma	can be evaluated with	diagnostic ultrasound of head and neck
+fluid collection	can be evaluated with	diagnostic ultrasound of head and neck
+vascular structure	can be assessed with	diagnostic ultrasound of head and neck
+limitation	can be overcome with	diagnostic ultrasound of head and neck
+organ function	can be evaluated with	diagnostic ultrasound of head and neck
+disease progression	can be monitored with	diagnostic ultrasound of head and neck
+differential diagnosis	can be made with	diagnostic ultrasound of head and neck
+effusion	can be identified with	diagnostic ultrasound of head and neck
+prognosis	can be assessed with	diagnostic ultrasound of head and neck
+perfusion	can be assessed with	diagnostic ultrasound of head and neck
+aspiration	can be performed with	diagnostic ultrasound of head and neck

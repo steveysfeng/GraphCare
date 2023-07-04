@@ -1,0 +1,140 @@
+diagnostic ultrasound	is a	medical procedure
+gastrointestinal tract	is a	body part
+diagnostic ultrasound	used for	diagnosis
+diagnostic ultrasound	can detect	abnormalities
+diagnostic ultrasound	helpful for	evaluating organ function
+diagnostic ultrasound	can diagnose	tumors
+diagnostic ultrasound	can visualize	blood flow
+diagnostic ultrasound	useful in	monitoring pregnancy
+diagnostic ultrasound	can detect	inflammation
+diagnostic ultrasound	can identify	obstructions
+diagnostic ultrasound	can assess	bowel movements
+diagnostic ultrasound	noninvasive procedure
+diagnostic ultrasound	commonly used for	abdominal issues
+diagnostic ultrasound	can detect	cysts
+diagnostic ultrasound	can evaluate	organ size
+diagnostic ultrasound	can guide	needle biopsies
+diagnostic ultrasound	can detect	abscesses
+diagnostic ultrasound	can assess	motility disorders
+gastrointestinal tract	can be affected by	ulcers
+gastrointestinal tract	can develop	strictures
+gastrointestinal tract	can be affected by	tumors
+gastrointestinal tract	can be inflamed in	Crohn's disease
+gastrointestinal tract	can develop	diverticula
+gastrointestinal tract	can experience	motility disorders
+gastrointestinal tract	can be obstructed by	adhesions
+gastrointestinal tract	can be affected by	hernias
+gastrointestinal tract	can undergo	endoscopic procedures
+gastrointestinal tract	affected by	digestive enzymes
+gastrointestinal tract	can be infected by	bacteria
+gastrointestinal tract	can be affected by	autoimmune disorders
+gastrointestinal tract	can develop	polyps
+gastrointestinal tract	can experience	bleeding
+gastrointestinal tract	can be affected by	food allergies
+gastrointestinal tract	can be affected by	radiation therapy
+gastrointestinal tract	can be affected by	chemotherapy
+gastrointestinal tract	can develop	strictures
+gastrointestinal tract	can be affected by	malabsorption
+gastrointestinal tract	can be affected by	acid reflux
+gastrointestinal tract	can develop	hemorrhoids
+gastrointestinal tract	can be affected by	viral infections
+gastrointestinal tract	can be affected by	parasitic infections
+gastrointestinal tract	can develop	fistulas
+gastrointestinal tract	can be affected by	genetic disorders
+gastrointestinal tract	can develop	ulcers
+gastrointestinal tract	can experience	diarrhea
+gastrointestinal tract	can develop	strictures
+gastrointestinal tract	can be affected by	lactose intolerance
+gastrointestinal tract	can be affected by	gluten intolerance
+gastrointestinal tract	can be affected by	food poisoning
+gastrointestinal tract	can develop	perforations
+gastrointestinal tract	can be affected by	smoking
+gastrointestinal tract	can be affected by	alcohol consumption
+gastrointestinal tract	can be affected by	obesity
+diagnostic ultrasound	is a	medical imaging technique
+gastrointestinal tract	is part of	digestive system
+ultrasound	used for	diagnosis
+ultrasound	can detect	abnormalities
+diagnostic ultrasound	used for	gastrointestinal tract
+diagnostic ultrasound	helpful for	gastrointestinal disorders
+gastrointestinal tract	can have	inflammation
+gastrointestinal tract	can have	tumors
+ultrasound	can detect	inflammation
+ultrasound	can detect	tumors
+diagnostic ultrasound	helpful for	inflammation detection
+diagnostic ultrasound	helpful for	tumor detection
+diagnostic ultrasound	used for	gastrointestinal disorders diagnosis
+diagnostic ultrasound	can detect	abnormalities in gastrointestinal tract
+inflammation	can cause	pain
+inflammation	can cause	discomfort
+tumors	can cause	obstruction
+tumors	can cause	bleeding
+inflammation	can be caused by	infection
+inflammation	can be caused by	autoimmune conditions
+tumors	can be benign	or malignant
+tumors	can be detected early	through ultrasound
+ultrasound	can help in	biopsy guidance
+ultrasound	can assist in	fluid collection drainage
+ultrasound	can guide	minimally invasive procedures
+ultrasound	can aid in	treatment planning
+gastrointestinal disorders	can lead to	malabsorption
+gastrointestinal disorders	can lead to	weight loss
+gastrointestinal disorders	can lead to	nutritional deficiencies
+gastrointestinal disorders	can be managed through	dietary changes
+gastrointestinal disorders	can be managed through	medication
+gastrointestinal disorders	can be managed through	surgery
+gastrointestinal disorders	can have	chronic course
+gastrointestinal disorders	can have	episodic symptoms
+gastrointestinal disorders	can require	long-term management
+gastrointestinal disorders	can necessitate	frequent medical visits
+gastrointestinal disorders	can increase	risk of other conditions
+ultrasound	can help in	assessing disease progression
+ultrasound	can assist in	monitoring treatment response
+gastrointestinal disorders	can affect	quality of life
+gastrointestinal disorders	can be associated with	anxiety
+gastrointestinal disorders	can be associated with	depression
+gastrointestinal disorders	can impact	social functioning
+gastrointestinal disorders	can impact	work productivity
+gastrointestinal disorders	can require	lifestyle modifications
+gastrointestinal disorders	can require	stress management techniques
+gastrointestinal disorders	can benefit from	support groups
+gastrointestinal disorders	can benefit from	psychological counseling
+infection	can be treated with	antibiotics
+infection	can be treated with	antivirals
+autoimmune conditions	can be managed with	immunosuppressive medication
+ultrasound	can provide	real-time imaging
+ultrasound	uses	sound waves
+ultrasound	non-invasive	procedure
+ultrasound	painless	procedure
+ultrasound	safe	for most patients
+ultrasound	convenient	for outpatient settings
+ultrasound	does not expose patients	to ionizing radiation
+ultrasound	provides	high-resolution images
+ultrasound	can be used	in neonatal care
+ultrasound	can be used	during pregnancy
+ultrasound	can be used	in pediatric patients
+ultrasound	can be used	in geriatric patients
+ultrasound	can be performed	by trained technologists
+ultrasound	can be interpreted	by radiologists
+ultrasound	can be integrated	with other diagnostic tests
+ultrasound	can be used	in emergency situations
+minimally invasive procedures	can reduce	recovery time
+minimally invasive procedures	can minimize	scarring
+minimally invasive procedures	can decrease	risk of complications
+minimally invasive procedures	may require	sedation or anesthesia
+surgery	may be recommended	for certain conditions
+surgery	can have	risks and complications
+surgery	may require	hospitalization
+gastrointestinal disorders	require	individualized treatment
+gastrointestinal disorders	require	multidisciplinary care
+gastrointestinal disorders	necessitate	regular follow-up
+gastrointestinal disorders	require	patient education
+gastrointestinal disorders	can benefit from	nutritional counseling
+gastrointestinal disorders	can benefit from	physical therapy
+gastrointestinal disorders	can benefit from	medication adjustments
+gastrointestinal disorders	can benefit from	surgical consultations
+gastrointestinal disorders	can benefit from	alternative therapies
+gastrointestinal disorders	require	ongoing monitoring
+gastrointestinal disorders	require	symptom management
+gastrointestinal disorders	require	lifestyle adaptations
+gastrointestinal disorders	require	compliance with treatment plans

@@ -1,0 +1,101 @@
+nasogastric tube	is a	medical device
+nasogastric tube	used for	feeding
+nasogastric tube	used for	medication administration
+nasogastric tube	inserted through	nostril
+nasogastric tube	reaches	stomach
+nasogastric tube	can cause	discomfort
+nasogastric tube	can cause	nasal irritation
+nasogastric tube	can cause	infection
+nasogastric tube	can cause	aspiration
+nasogastric tube	commonly used in	ICU patients
+nasogastric tube	commonly used in	patients with swallowing difficulties
+nasogastric tube	commonly used in	patients with gastrointestinal bleeding
+nasogastric tube	commonly used in	patients undergoing surgery
+nasogastric tube	has	different types
+nasogastric tube	can be	single-lumen
+nasogastric tube	can be	double-lumen
+nasogastric tube	can be	weighted
+nasogastric tube	can be	non-weighted
+nasogastric tube	can be	short-term
+nasogastric tube	can be	long-term
+nasogastric tube	can be	temporary
+nasogastric tube	can be	permanent
+nasogastric tube	can be	used in neonates
+nasogastric tube	can be	used in adults
+nasogastric tube	can be	used in geriatric patients
+nasogastric tube	can be	used in critically ill patients
+nasogastric tube	can be	used in anorexic patients
+nasogastric tube	can be	used in comatose patients
+nasogastric tube	requires	proper positioning
+nasogastric tube	requires	frequent monitoring
+nasogastric tube	requires	regular flushing
+nasogastric tube	requires	gentle insertion
+nasogastric tube	requires	secure fixation
+nasogastric tube	can be	used for decompression
+nasogastric tube	can be	used for lavage
+nasogastric tube	can be	used for administering contrast
+nasogastric tube	can be	used for gastric decompression
+nasogastric tube	can be	used for enteral nutrition
+nasogastric tube	can be	used for medication administration
+nasogastric tube	can be	used for drainage
+nasogastric tube	can be	used for gastric pH monitoring
+nasogastric tube	can cause	complications
+nasogastric tube	can cause	tube blockage
+nasogastric tube	can cause	tube dislocation
+nasogastric tube	can cause	tube migration
+nasogastric tube	can cause	tube occlusion
+nasogastric tube	can cause	tube misplacement
+nasogastric tube	can cause	tube perforation
+nasogastric tube	can cause	tube breakage
+nasogastric tube	can cause	tube kinking
+nasogastric tube	can cause	skin irritation
+nasogastric tube	can cause	sinusitis
+nasogastric tube	can cause	pneumonia
+nasogastric tube	can cause	electrolyte imbalance
+nasogastric tube	can cause	malnutrition
+nasogastric tube	can cause	metabolic alkalosis
+nasogastric tube	can cause	mechanical complications
+nasogastric tube	can cause	respiratory complications
+nasogastric tube	can cause	sepsis
+nasogastric tube	can cause	aspiration pneumonia
+nasogastric tube	can cause	gastric perforation
+nasogastric tube	can cause	nasal injury
+nasogastric tube	can cause	vocal cord injury
+nasogastric tube	can cause	esophageal injury
+nasogastric tube	can cause	tracheal injury
+nasogastric tube	contraindicated in	patients at high risk of aspiration
+nasogastric tube	contraindicated in	patients with esophageal obstruction
+nasogastric tube	contraindicated in	patients with severe upper gastrointestinal bleeding
+nasogastric tube	contraindicated in	patients with uncooperative behavior
+nasogastric tube	contraindicated in	patients with facial trauma
+nasogastric tube	contraindicated in	patients with nasal fractures
+nasogastric tube	contraindicated in	patients with coagulopathy
+nasogastric tube	associated with	patient discomfort
+nasogastric tube	associated with	pressure ulcers
+nasogastric tube	associated with	local infection
+nasogastric tube	associated with	fistula formation
+nasogastric tube	associated with	nasal necrosis
+nasogastric tube	associated with	bleeding
+nasogastric tube	associated with	malpositioning
+nasogastric tube	associated with	misplacement
+nasogastric tube	associated with	scarring
+nasogastric tube	associated with	ulceration
+nasogastric tube	associated with	dislodgement
+nasogastric tube	associated with	blockage
+nasogastric tube	associated with	reflux
+nasogastric tube	associated with	leakage
+nasogastric tube	associated with	discomfort
+nasogastric tube	associated with	pharyngeal irritation
+nasogastric tube	associated with	coughing
+nasogastric tube	associated with	gagging
+nasogastric tube	associated with	hoarseness
+nasogastric tube	associated with	vomiting
+nasogastric tube	associated with	regurgitation
+nasogastric tube	associated with	pulmonary complications
+nasogastric tube	associated with	nutritional complications
+nasogastric tube	associated with	metabolic complications
+nasogastric tube	associated with	mechanical complications
+nasogastric tube	associated with	infection risk
+nasogastric tube	associated with	discomfort during removal
+nasogastric tube	associated with	difficulty swallowing after removal
+nasogastric tube	associated with	delayed oral intake after removal

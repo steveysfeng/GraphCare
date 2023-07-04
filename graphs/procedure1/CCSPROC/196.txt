@@ -1,0 +1,124 @@
+diagnostic ultrasound	is a	medical procedure
+diagnostic ultrasound	used for	diagnosis
+diagnostic ultrasound	used for	imaging
+diagnostic ultrasound	can detect	abnormalities
+diagnostic ultrasound	can detect	tumors
+diagnostic ultrasound	can detect	cysts
+diagnostic ultrasound	can detect	organ enlargement
+abdomen	can be examined with	diagnostic ultrasound
+retroperitoneum	can be examined with	diagnostic ultrasound
+diagnostic ultrasound	is non-invasive
+diagnostic ultrasound	uses sound waves
+diagnostic ultrasound	does not use ionizing radiation
+diagnostic ultrasound	commonly used in prenatal care
+diagnostic ultrasound	can assess fetal development
+diagnostic ultrasound	can detect birth defects
+diagnostic ultrasound	can guide needle biopsies
+diagnostic ultrasound	can aid in surgical procedures
+ultrasound gel	is used during	diagnostic ultrasound
+ultrasound transducer	is used to transmit	sound waves
+ultrasound machine	is used to generate	diagnostic images
+sonographer	performs	diagnostic ultrasound
+radiologist	interprets	diagnostic ultrasound
+diagnostic ultrasound	can help diagnose	gallstones
+diagnostic ultrasound	can help diagnose	kidney stones
+diagnostic ultrasound	can help diagnose	liver disease
+diagnostic ultrasound	can help diagnose	appendicitis
+diagnostic ultrasound	can help diagnose	pancreatitis
+diagnostic ultrasound	can help diagnose	ovarian cysts
+diagnostic ultrasound	can help diagnose	bladder dysfunction
+diagnostic ultrasound	can help diagnose	prostate enlargement
+diagnostic ultrasound	can help diagnose	thyroid nodules
+diagnostic ultrasound	can help diagnose	abdominal aortic aneurysm
+diagnostic ultrasound	can help diagnose	hernias
+diagnostic ultrasound	can help diagnose	lymph node enlargement
+diagnostic ultrasound	can help diagnose	spleen abnormalities
+diagnostic ultrasound	can help diagnose	adrenal gland disorders
+diagnostic ultrasound	can help diagnose	retroperitoneal tumors
+diagnostic ultrasound	can help diagnose	gastrointestinal obstruction
+diagnostic ultrasound	can help diagnose	urinary tract infections
+diagnostic ultrasound	can help diagnose	pelvic inflammatory disease
+diagnostic ultrasound	can help diagnose	ectopic pregnancy
+diagnostic ultrasound	can help diagnose	uterine fibroids
+diagnostic ultrasound	can help diagnose	endometrial polyps
+diagnostic ultrasound	can help diagnose	ovarian cancer
+diagnostic ultrasound	can help diagnose	testicular cancer
+diagnostic ultrasound	can help diagnose	herniated discs
+diagnostic ultrasound	can help diagnose	kidney infections
+diagnostic ultrasound	can help diagnose	liver cancer
+diagnostic ultrasound	can help diagnose	pancreatic cancer
+diagnostic ultrasound	can help diagnose	gallbladder inflammation
+diagnostic ultrasound	can help diagnose	biliary obstruction
+diagnostic ultrasound	can help diagnose	splenic rupture
+diagnostic ultrasound	can help diagnose	renal artery stenosis
+diagnostic ultrasound	can help diagnose	aortic dissection
+diagnostic ultrasound	can help diagnose	rectal prolapse
+diagnostic ultrasound	can help diagnose	diverticulitis
+diagnostic ultrasound	can help diagnose	mesenteric ischemia
+diagnostic ultrasound	can help diagnose	ovarian torsion
+diagnostic ultrasound	can help diagnose	nephrolithiasis
+diagnostic ultrasound	can help diagnose	pheochromocytoma
+diagnostic ultrasound	can help diagnose	appendiceal abscess
+diagnostic ultrasound	can help diagnose	liver abscess
+diagnostic ultrasound	can help diagnose	cholecystitis
+diagnostic ultrasound	can help diagnose	hydatid cyst
+diagnostic ultrasound	can help diagnose	ovarian hyperstimulation syndrome
+diagnostic ultrasound	can help diagnose	hepatic vein thrombosis
+diagnostic ultrasound	can help diagnose	obstructed kidney
+diagnostic ultrasound	can help diagnose	splenomegaly
+diagnostic ultrasound	can help diagnose	lymphoma
+diagnostic ultrasound	can help diagnose	fetal malposition
+diagnostic ultrasound	can help diagnose	pelvic masses
+diagnostic ultrasound	can help diagnose	bladder stones
+diagnostic ultrasound	is a	medical procedure
+abdominal ultrasound	is a type of	diagnostic ultrasound
+retroperitoneal ultrasound	is a type of	diagnostic ultrasound
+diagnostic ultrasound	used for	diagnosis
+abdominal ultrasound	used for	examining organs in the abdomen
+retroperitoneal ultrasound	used for	examining organs in the retroperitoneum
+diagnostic ultrasound	can detect	abdominal tumors
+diagnostic ultrasound	can detect	kidney stones
+diagnostic ultrasound	can detect	liver diseases
+abdominal ultrasound	can detect	gallstones
+retroperitoneal ultrasound	can detect	pancreatic tumors
+retroperitoneal ultrasound	can detect	renal masses
+diagnostic ultrasound	non-invasive	imaging technique
+diagnostic ultrasound	uses sound waves	to create images
+abdominal ultrasound	can help	assess abdominal pain
+diagnostic ultrasound	can be used	in pregnancy
+diagnostic ultrasound	can measure	the size of abdominal organs
+diagnostic ultrasound	provides	real-time imaging
+abdominal ultrasound	helps	guide biopsies
+diagnostic ultrasound	has no known	harmful effects
+diagnostic ultrasound	is painless and	safe
+abdominal ultrasound	can visualize	the liver
+retroperitoneal ultrasound	can visualize	the kidneys
+diagnostic ultrasound	can identify	abdominal masses
+diagnostic ultrasound	can assess	blood flow in vessels
+abdominal ultrasound	can help	diagnose appendicitis
+retroperitoneal ultrasound	can help	diagnose renal artery stenosis
+diagnostic ultrasound	can evaluate	abdominal trauma
+diagnostic ultrasound	can assess	the size of the spleen
+abdominal ultrasound	can detect	abdominal aortic aneurysm
+diagnostic ultrasound	can monitor	fetal development
+abdominal ultrasound	can identify	liver cirrhosis
+retroperitoneal ultrasound	can detect	adrenal gland tumors
+retroperitoneal ultrasound	can visualize	the pancreas
+diagnostic ultrasound	can guide	needle aspirations
+abdominal ultrasound	can help	diagnose kidney stones
+retroperitoneal ultrasound	can aid	in the diagnosis of retroperitoneal fibrosis
+diagnostic ultrasound	can assess	gallbladder function
+abdominal ultrasound	can identify	splenic abnormalities
+retroperitoneal ultrasound	can detect	lymph node enlargement
+diagnostic ultrasound	used in	gastroenterology
+abdominal ultrasound	used in	obstetrics
+retroperitoneal ultrasound	used in	urology
+diagnostic ultrasound	can assist	in the placement of drainage tubes
+abdominal ultrasound	can visualize	the appendix
+retroperitoneal ultrasound	can evaluate	renal function
+diagnostic ultrasound	can identify	abdominal infections
+abdominal ultrasound	can detect	pancreatic cysts
+retroperitoneal ultrasound	can assess	adrenal gland function
+diagnostic ultrasound	can guide	bladder catheterization
+abdominal ultrasound	can detect	abdominal tumors
+retroperitoneal ultrasound	can aid	in the diagnosis of retroperitoneal tumors

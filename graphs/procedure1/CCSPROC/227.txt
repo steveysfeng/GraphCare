@@ -1,0 +1,122 @@
+other diagnostic procedures	include	MRI
+other diagnostic procedures	used to	detect diseases
+other diagnostic procedures	can be	invasive
+MRI	is a type of	diagnostic procedure
+other diagnostic procedures	can be	non-invasive
+MRI	used for	imaging organs
+other diagnostic procedures	can be	painful
+MRI	used to	diagnose brain tumors
+other diagnostic procedures	can involve	radiation
+MRI	used to	examine blood vessels
+other diagnostic procedures	include	CT scan
+MRI	used for	evaluating joint injuries
+other diagnostic procedures	involve	ultrasound
+MRI	used to	study the heart
+other diagnostic procedures	include	X-ray
+MRI	used to	assess liver function
+other diagnostic procedures	include	PET scan
+MRI	used for	detecting multiple sclerosis
+other diagnostic procedures	involve	endoscopy
+MRI	used for	evaluating spinal cord injuries
+other diagnostic procedures	include	biopsy
+MRI	used to	monitor treatment response
+other diagnostic procedures	involve	blood tests
+MRI	used for	guiding surgeries
+other diagnostic procedures	include	genetic testing
+MRI	used to	identify strokes
+other diagnostic procedures	involve	urine tests
+MRI	used for	staging cancer
+other diagnostic procedures	include	pulmonary function tests
+MRI	used to	investigate abnormalities in the brain
+other diagnostic procedures	involve	stool tests
+MRI	used for	diagnosing infections
+other diagnostic procedures	include	electrocardiogram
+MRI	used to	evaluate spinal cord tumors
+other diagnostic procedures	involve	allergy tests
+MRI	used for	assessing cardiac function
+other diagnostic procedures	include	lumbar puncture
+MRI	used to	diagnose neurodegenerative diseases
+other diagnostic procedures	involve	nerve conduction studies
+MRI	used for	analyzing brain activity
+other diagnostic procedures	include	bone scan
+MRI	used to	detect spinal cord compression
+other diagnostic procedures	involve	biopsy
+MRI	used for	monitoring brain tumors
+other diagnostic procedures	include	colonoscopy
+MRI	used to	visualize blood flow
+other diagnostic procedures	involve	Pap smear
+MRI	used for	identifying brain lesions
+other diagnostic procedures	include	echocardiogram
+MRI	used to	diagnose spinal disorders
+other diagnostic procedures	involve	genetic testing
+MRI	used for	evaluating vascular abnormalities
+other diagnostic procedures	include	EEG
+MRI	used to	assess bone health
+other diagnostic procedures	involve	fluorescence imaging
+MRI	used for	diagnosing breast cancer
+other diagnostic procedures	include	Holter monitor
+MRI	used to	detect prostate cancer
+other diagnostic procedures	involve	liver function tests
+MRI	used for	studying musculoskeletal disorders
+other diagnostic procedures	include	skin biopsy
+MRI	used to	diagnose pituitary tumors
+other diagnostic procedures	involve	cardiac stress tests
+MRI	used for	analyzing brain anatomy
+other diagnostic procedures	include	barium swallow
+MRI	used to	evaluate spinal cord lesions
+other diagnostic procedures	involve	sputum tests
+MRI	used for	identifying brain tumors
+other diagnostic procedures	include	tympanometry
+MRI	used to	diagnose spinal cord trauma
+other diagnostic procedures	involve	blood pressure monitoring
+MRI	used for	assessing cerebral palsy
+other diagnostic procedures	include	holter monitor
+MRI	used to	detect spinal cord tumors
+other diagnostic procedures	involve	stress tests
+MRI	used for	studying brain development
+other diagnostic procedures	include	fundoscopy
+MRI	used to	assess spinal cord compression
+other diagnostic procedures	involve	allergy tests
+MRI	used for	diagnosing dementia
+other diagnostic procedures	include	bone marrow biopsy
+MRI	used to	identify brain hemorrhages
+other diagnostic procedures	involve	breath tests
+MRI	used for	monitoring treatment response
+other diagnostic procedures	include	spirometry
+MRI	used to	diagnose spinal stenosis
+other diagnostic procedures	involve	urine tests
+MRI	used for	evaluating brain tumors
+other diagnostic procedures	include	skin prick tests
+MRI	used to	detect spinal cord injuries
+other diagnostic procedures	involve	sleep studies
+MRI	used for	studying stroke rehabilitation
+other diagnostic procedures	include	arthroscopy
+MRI	used to	diagnose neurovascular disorders
+other diagnostic procedures	involve	prenatal tests
+MRI	used for	assessing brain iron levels
+other diagnostic procedures	include	nerve conduction studies
+MRI	used to	identify spinal cord lesions
+other diagnostic procedures	involve	exercise tests
+MRI	used for	diagnosing epilepsy
+other diagnostic procedures	include	sputum culture
+MRI	used to	evaluate spinal cord abnormalities
+other diagnostic procedures	involve	Pap smear
+MRI	used for	monitoring brain function
+other diagnostic procedures	include	abdominal ultrasound
+MRI	used to	assess spinal disc herniation
+other diagnostic procedures	involve	stool tests
+MRI	used for	detecting brain aneurysms
+other diagnostic procedures	include	electromyography
+MRI	used to	diagnose spinal cord tumors
+other diagnostic procedures	involve	cardiac catheterization
+MRI	used for	studying brain tumors
+other diagnostic procedures	include	hysteroscopy
+MRI	used to	evaluate spinal cord disorders
+other diagnostic procedures	involve	genetic testing
+MRI	used for	diagnosing migraines
+other diagnostic procedures	include	fetal ultrasound
+MRI	used to	detect spinal cord compression
+other diagnostic procedures	involve	skin biopsy
+MRI	used for	assessing movement disorders
+other diagnostic procedures	include	colonoscopy
+MRI	used to	diagnose spinal cord trauma

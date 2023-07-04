@@ -1,0 +1,85 @@
+nuclear medicine imaging	is a	medical procedure
+nuclear medicine imaging	used for	diagnosis
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	involves	radioactive tracers
+nuclear medicine imaging	emits	gamma rays
+gamma rays	can be detected by	special cameras
+radioactive tracers	are injected into	patient's bloodstream
+radioactive tracers	bind to	specific areas in the body
+specific areas in the body	can indicate	bone abnormalities
+nuclear medicine imaging	is non-invasive
+nuclear medicine imaging	provides	detailed images
+detailed images	help in	diagnosing bone diseases
+nuclear medicine imaging	is painless
+nuclear medicine imaging	is often used to	monitor treatment effectiveness
+nuclear medicine imaging	can identify	metastatic bone lesions
+nuclear medicine imaging	can determine	bone mass density
+nuclear medicine imaging	is used for	staging bone cancer
+nuclear medicine imaging	can assess	bone infections
+nuclear medicine imaging	can evaluate	bone metabolism
+nuclear medicine imaging	can guide	bone biopsies
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can visualize	bone fractures
+nuclear medicine imaging	can assess	bone healing
+nuclear medicine imaging	can detect	bone necrosis
+nuclear medicine imaging	can identify	bone inflammation
+nuclear medicine imaging	can evaluate	bone marrow abnormalities
+nuclear medicine imaging	can detect	bone cysts
+nuclear medicine imaging	can diagnose	bone tumors
+nuclear medicine imaging	is commonly used for	bone scans
+nuclear medicine imaging	can evaluate	bone trauma
+nuclear medicine imaging	can detect	bone metastases
+nuclear medicine imaging	can assess	bone turnover
+nuclear medicine imaging	can visualize	bone vascularity
+nuclear medicine imaging	can detect	bone erosions
+bone erosions	can indicate	rheumatoid arthritis
+nuclear medicine imaging	can determine	bone mineral density
+nuclear medicine imaging	can detect	bone spur formations
+nuclear medicine imaging	can assess	bone viability
+nuclear medicine imaging	can detect	stress fractures
+nuclear medicine imaging	can evaluate	bone marrow disorders
+nuclear medicine imaging	can identify	bone deformities
+nuclear medicine imaging	can visualize	bone vasculature
+nuclear medicine imaging	can detect	bone fusion
+nuclear medicine imaging	can assess	bone necroses
+nuclear medicine imaging	can detect	bone inflammation
+nuclear medicine imaging	can evaluate	bone resorption
+nuclear medicine imaging	can guide	bone surgeries
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can assess	bone regeneration
+nuclear medicine imaging	can identify	bone stress
+nuclear medicine imaging	can visualize	bone architecture
+nuclear medicine imaging	can detect	bone abnormalities
+nuclear medicine imaging	can determine	bone remodeling
+nuclear medicine imaging	can detect	bone ischemia
+nuclear medicine imaging	can assess	bone formation
+nuclear medicine imaging	can evaluate	bone turnover rate
+nuclear medicine imaging	can guide	bone therapies
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can identify	bone malignancies
+nuclear medicine imaging	can visualize	bone lesions
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can assess	bone resorption rate
+nuclear medicine imaging	can determine	bone mineral metabolism
+nuclear medicine imaging	can detect	bone loss
+nuclear medicine imaging	can evaluate	bone vascularization
+nuclear medicine imaging	can guide	bone fracture fixation
+nuclear medicine imaging	can detect	bone inflammation
+nuclear medicine imaging	can assess	bone formation rate
+nuclear medicine imaging	can identify	bone demineralization
+nuclear medicine imaging	can visualize	bone healing process
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can determine	bone density
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can assess	bone remodeling process
+nuclear medicine imaging	can evaluate	bone turnover process
+nuclear medicine imaging	can guide	bone cancer treatment
+nuclear medicine imaging	can detect	bone fractures
+nuclear medicine imaging	can identify	bone abnormalities
+nuclear medicine imaging	can visualize	bone lesions
+nuclear medicine imaging	can detect	bone infections
+nuclear medicine imaging	can assess	bone resorption
+nuclear medicine imaging	can determine	bone mineralization
+nuclear medicine imaging	can detect	bone tumors
+nuclear medicine imaging	can evaluate	bone vascularity
+nuclear medicine imaging	can guide	bone surgeries

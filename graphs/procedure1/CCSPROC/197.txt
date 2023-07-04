@@ -1,0 +1,155 @@
+diagnostic ultrasound	is a	medical procedure
+diagnostic ultrasound	used for	diagnosis
+abdominal ultrasound	is a type of	diagnostic ultrasound
+abdominal ultrasound	used for	evaluating abdominal organs
+pelvic ultrasound	is a type of	diagnostic ultrasound
+pelvic ultrasound	used for	evaluating pelvic organs
+transvaginal ultrasound	is a type of	pelvic ultrasound
+transvaginal ultrasound	used for	evaluating female reproductive organs
+transrectal ultrasound	is a type of	pelvic ultrasound
+transrectal ultrasound	used for	evaluating prostate and rectum
+renal ultrasound	is a type of	abdominal ultrasound
+renal ultrasound	used for	evaluating kidneys
+liver ultrasound	is a type of	abdominal ultrasound
+liver ultrasound	used for	evaluating liver
+gallbladder ultrasound	is a type of	abdominal ultrasound
+gallbladder ultrasound	used for	evaluating gallbladder
+thyroid ultrasound	is a type of	diagnostic ultrasound
+thyroid ultrasound	used for	evaluating thyroid gland
+cardiac ultrasound	is a type of	diagnostic ultrasound
+cardiac ultrasound	used for	evaluating heart
+echocardiography	is a type of	cardiac ultrasound
+echocardiography	used for	evaluating heart function
+vascular ultrasound	is a type of	diagnostic ultrasound
+vascular ultrasound	used for	evaluating blood vessels
+carotid ultrasound	is a type of	vascular ultrasound
+carotid ultrasound	used for	evaluating carotid arteries
+doppler ultrasound	is a type of	vascular ultrasound
+doppler ultrasound	used for	evaluating blood flow
+obstetric ultrasound	is a type of	diagnostic ultrasound
+obstetric ultrasound	used for	evaluating fetus during pregnancy
+ultrasound guided biopsy	is a procedure done using	diagnostic ultrasound
+ultrasound guided biopsy	used for	obtaining tissue samples
+ultrasound guided aspiration	is a procedure done using	diagnostic ultrasound
+ultrasound guided aspiration	used for	draining fluid from body cavities
+ultrasound contrast	is a substance used in	diagnostic ultrasound
+ultrasound contrast	used for	enhancing ultrasound images
+transcranial ultrasound	is a type of	diagnostic ultrasound
+transcranial ultrasound	used for	evaluating brain
+musculoskeletal ultrasound	is a type of	diagnostic ultrasound
+musculoskeletal ultrasound	used for	evaluating muscles and joints
+ultrasound technician	is a healthcare professional who performs	diagnostic ultrasound
+ultrasound technician	trained in	operating ultrasound equipment
+ultrasound machine	is a medical device used for	diagnostic ultrasound
+ultrasound machine	emits	high-frequency sound waves
+ultrasound probe	is a component of	ultrasound machine
+ultrasound probe	used for	sending and receiving sound waves
+ultrasound gel	is a substance applied on	skin during ultrasound
+ultrasound gel	used for	improving sound wave transmission
+sonographer	is a healthcare professional who interprets	diagnostic ultrasound
+sonographer	trained in	analyzing ultrasound images
+abdominal organ abnormalities	can be detected using	abdominal ultrasound
+pelvic organ abnormalities	can be detected using	pelvic ultrasound
+heart conditions	can be diagnosed using	cardiac ultrasound
+carotid artery stenosis	can be diagnosed using	carotid ultrasound
+blood flow abnormalities	can be detected using	doppler ultrasound
+fetal abnormalities	can be detected using	obstetric ultrasound
+musculoskeletal injuries	can be diagnosed using	musculoskeletal ultrasound
+ultrasound	is a	medical procedure
+ultrasound	used for	diagnosis
+ultrasound	can visualize	internal organs
+ultrasound	can detect	abnormalities
+ultrasound	used in	obstetrics
+ultrasound	used in	cardiology
+ultrasound	used in	radiology
+ultrasound	used in	emergency medicine
+ultrasound	used in	urology
+ultrasound	used in	gastroenterology
+ultrasound	used in	ophthalmology
+ultrasound	used in	orthopedics
+ultrasound	used in	vascular medicine
+ultrasound	used in	gynecology
+ultrasound	used in	neurology
+ultrasound	used in	pulmonology
+ultrasound	used in	nephrology
+ultrasound	used in	endocrinology
+ultrasound	used to	guide procedures
+ultrasound	used to	monitor pregnancies
+ultrasound	used to	assess cardiac function
+ultrasound	used to	evaluate blood flow
+ultrasound	can detect	tumors
+ultrasound	can detect	cysts
+ultrasound	can detect	gallstones
+ultrasound	can detect	kidney stones
+ultrasound	can detect	blood clots
+ultrasound	can detect	aneurysms
+ultrasound	can detect	fetal abnormalities
+ultrasound	can detect	heart defects
+ultrasound	can detect	liver disease
+ultrasound	can detect	bladder problems
+ultrasound	can detect	prostate abnormalities
+ultrasound	can detect	thyroid nodules
+ultrasound	can detect	lung conditions
+ultrasound	can detect	musculoskeletal injuries
+ultrasound	can detect	joint inflammation
+ultrasound	can detect	arterial stenosis
+ultrasound	can detect	lymph node enlargement
+ultrasound	can detect	pancreatitis
+ultrasound	can detect	ascites
+ultrasound	can detect	ovarian cysts
+ultrasound	can detect	testicular abnormalities
+ultrasound	can detect	splenic abnormalities
+ultrasound	can detect	adrenal tumors
+ultrasound	can detect	gastrointestinal bleeding
+ultrasound	can detect	hernias
+ultrasound	can detect	carotid artery disease
+ultrasound	can detect	deep vein thrombosis
+ultrasound	can detect	pulmonary embolism
+ultrasound	can detect	gallbladder disease
+ultrasound	can detect	pancreas tumors
+ultrasound	can detect	liver cirrhosis
+ultrasound	can detect	appendicitis
+ultrasound	can detect	kidney cysts
+ultrasound	can detect	bladder tumors
+ultrasound	can detect	prostate cancer
+ultrasound	can detect	thyroid cancer
+ultrasound	can detect	lung cancer
+ultrasound	can detect	breast cancer
+ultrasound	can detect	soft tissue injuries
+ultrasound	can detect	bone fractures
+ultrasound	can detect	ligament tears
+ultrasound	can detect	muscle tears
+ultrasound	can detect	tendonitis
+ultrasound	can detect	bursitis
+ultrasound	can detect	nerve compression
+ultrasound	can detect	edema
+ultrasound	can detect	cellulitis
+ultrasound	can detect	lymphedema
+ultrasound	can detect	abscesses
+ultrasound	can detect	foreign bodies
+ultrasound	can detect	hematoma
+ultrasound	can detect	synovitis
+ultrasound	can detect	hydrocele
+ultrasound	can detect	varicocele
+ultrasound	can detect	spermatocele
+ultrasound	can detect	epidermoid cysts
+ultrasound	can detect	pseudocysts
+ultrasound	can detect	seromas
+ultrasound	can detect	parotid gland tumors
+ultrasound	can detect	lymphoma
+ultrasound	can detect	melanoma
+ultrasound	can detect	pituitary tumors
+ultrasound	can detect	thyroid nodules
+ultrasound	can detect	endometrial polyps
+ultrasound	can detect	ovarian tumors
+ultrasound	can detect	fibroids
+ultrasound	can detect	ovarian cysts
+ultrasound	can detect	uterine abnormalities
+ultrasound	can detect	fallopian tube blockage
+ultrasound	can detect	ectopic pregnancy
+ultrasound	can detect	ovarian cancer
+ultrasound	can detect	cervical cancer
+ultrasound	can detect	endometrial cancer
+ultrasound	can detect	vaginal masses
+ultrasound	can detect	erectile dysfunction
+ultrasound	can detect	varicose veins

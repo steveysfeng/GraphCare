@@ -1,0 +1,152 @@
+cancer chemotherapy	is a	medical treatment
+cancer chemotherapy	used for	cancer treatment
+chemotherapy drugs	are used in	cancer chemotherapy
+chemotherapy drugs	target	cancer cells
+chemotherapy drugs	can cause	side effects
+side effects	include	nausea
+side effects	can be managed with	anti-nausea medication
+nausea	can lead to	decreased appetite
+decreased appetite	can result in	weight loss
+weight loss	may require	nutritional support
+chemotherapy drugs	can suppress	bone marrow function
+bone marrow function	is important for	blood cell production
+suppressed bone marrow function	can lead to	decreased immunity
+decreased immunity	can increase	infection risk
+infection risk	can require	antibiotic treatment
+chemotherapy drugs	can cause	hair loss
+hair loss	can affect	self-esteem
+self-esteem	can impact	mental wellbeing
+chemotherapy drugs	can damage	reproductive organs
+damage to reproductive organs	can result in	infertility
+infertility	can cause	emotional distress
+chemotherapy drugs	can affect	liver function
+impaired liver function	can lead to	liver toxicity
+liver toxicity	may require	dose adjustments
+dose adjustments	can be done by	healthcare providers
+chemotherapy drugs	can impact	heart function
+heart function	is important for	circulation
+impaired heart function	can lead to	heart failure
+heart failure	may require	medication
+chemotherapy drugs	can affect	kidney function
+kidney function	is important for	waste elimination
+impaired kidney function	can lead to	renal failure
+renal failure	may require	dialysis
+chemotherapy drugs	can cause	peripheral neuropathy
+peripheral neuropathy	can result in	numbness and tingling
+numbness and tingling	can affect	daily activities
+chemotherapy drugs	can impact	lung function
+impaired lung function	can lead to	shortness of breath
+shortness of breath	may require	oxygen therapy
+chemotherapy drugs	can affect	cognitive function
+impaired cognitive function	can result in	difficulty concentrating
+difficulty concentrating	can affect	work or school performance
+chemotherapy drugs	can result in	fatigue
+fatigue	can impact	daily functioning
+chemotherapy drugs	can cause	gastrointestinal issues
+gastrointestinal issues	include	diarrhea
+diarrhea	can lead to	dehydration
+dehydration	may require	intravenous fluids
+chemotherapy drugs	can increase	the risk of secondary cancers
+secondary cancers	may require	additional treatment
+chemotherapy drugs	can interact with	other medications
+medication interactions	can affect	treatment efficacy
+treatment efficacy	can influence	treatment outcomes
+chemotherapy drugs	can impact	quality of life
+impaired quality of life	can lead to	psychological distress
+psychological distress	may require	counseling or therapy
+chemotherapy drugs	can result in	long-term effects
+long-term effects	require	ongoing monitoring
+ongoing monitoring	is important for	survivorship care
+chemotherapy drugs	can be administered	intravenously
+chemotherapy drugs	can be taken	orally
+oral chemotherapy	requires	adherence to medication schedule
+medication schedule adherence	is important for	treatment effectiveness
+chemotherapy drugs	can be administered	in cycles
+treatment cycles	can include	rest periods
+rest periods	allow	recovery
+chemotherapy drugs	can be given	before surgery
+chemotherapy before surgery	is known as	neoadjuvant therapy
+chemotherapy before surgery	can shrink	tumors
+chemotherapy drugs	can be given	after surgery
+chemotherapy after surgery	is known as	adjuvant therapy
+adjuvant therapy	can kill	remaining cancer cells
+chemotherapy drugs	can be given	in combination
+combination chemotherapy	may have	synergistic effects
+chemotherapy drugs	can be given	as palliative care
+palliative care	aims to	relieve symptoms
+chemotherapy drugs	can be used	in combination with	radiation therapy
+chemotherapy and radiation therapy	can have	complementary effects
+chemotherapy drugs	can be used	in targeted therapy
+targeted therapy	aims to	inhibit specific molecules
+chemotherapy drugs	can be used	in immunotherapy
+immunotherapy	stimulates	the immune system
+chemotherapy drugs	can be classified as	alkylating agents
+alkylating agents	damage	DNA
+chemotherapy drugs	can be classified as	antimetabolites
+antimetabolites	interfere with	cellular metabolism
+chemotherapy drugs	can be classified as	antitumor antibiotics
+antitumor antibiotics	inhibit	DNA replication
+chemotherapy drugs	can be classified as	plant alkaloids
+plant alkaloids	disrupt	microtubule function
+chemotherapy drugs	can be classified as	topoisomerase inhibitors
+topoisomerase inhibitors	prevent	DNA repair
+chemotherapy drugs	can be classified as	corticosteroids
+corticosteroids	reduce	inflammation
+chemotherapy drugs	can be classified as	immune system suppressants
+immune system suppressants	dampen	immune response
+chemotherapy drugs	can be classified as	hormone inhibitors
+hormone inhibitors	block	hormone receptors
+chemotherapy drugs	can be classified as	monoclonal antibodies
+monoclonal antibodies	target	specific proteins
+chemotherapy drugs	can be classified as	tyrosine kinase inhibitors
+tyrosine kinase inhibitors	block	enzyme activity
+chemotherapy drugs	can be classified as	proteasome inhibitors
+proteasome inhibitors	interfere with	protein degradation
+chemotherapy drugs	can be classified as	apoptosis inducers
+apoptosis inducers	promote	cell death
+chemotherapy drugs	can be classified as	angiogenesis inhibitors
+angiogenesis inhibitors	inhibit	blood vessel formation
+chemotherapy drugs	can be classified as	immunosuppressants
+immunosuppressants	reduce	immune activity
+chemotherapy drugs	can be classified as	monoclonal antibody-drug conjugates
+monoclonal antibody-drug conjugates	deliver	drug directly to target cells
+chemotherapy drugs	can be classified as	mitotic inhibitors
+mitotic inhibitors	disrupt	cell division
+chemotherapy drugs	can be classified as	DNA synthesis inhibitors
+DNA synthesis inhibitors	prevent	DNA replication
+chemotherapy drugs	can be classified as	cell cycle non-specific agents
+cell cycle non-specific agents	target	cells in any phase
+chemotherapy drugs	can be classified as	platinum-based drugs
+platinum-based drugs	interfere with	DNA repair
+chemotherapy drugs	can be classified as	antimicrotubule agents
+antimicrotubule agents	inhibit	microtubule function
+chemotherapy drugs	can be classified as	epigenetic modifiers
+epigenetic modifiers	alter	gene expression
+chemotherapy drugs	can be classified as	dehydrogenase inhibitors
+dehydrogenase inhibitors	block	enzyme activity
+chemotherapy drugs	can be classified as	retinoids
+retinoids	promote	cell differentiation
+chemotherapy drugs	can be classified as	kinase inhibitors
+kinase inhibitors	block	enzyme activity
+chemotherapy drugs	can be classified as	histone deacetylase inhibitors
+histone deacetylase inhibitors	alter	gene expression
+chemotherapy drugs	can be classified as	immunostimulants
+immunostimulants	enhance	immune response
+chemotherapy drugs	can be classified as	antimigratory agents
+antimigratory agents	inhibit	cell movement
+chemotherapy drugs	can be classified as	oxygen-containing compounds
+oxygen-containing compounds	promote	free radical formation
+chemotherapy drugs	can be classified as	alkylating-like agents
+alkylating-like agents	damage	DNA
+chemotherapy drugs	can be classified as	antiangiogenesis agents
+antiangiogenesis agents	inhibit	blood vessel formation
+chemotherapy drugs	can be classified as	protein kinase inhibitors
+protein kinase inhibitors	block	enzyme activity
+chemotherapy drugs	can be classified as	protease inhibitors
+protease inhibitors	block	enzyme activity
+chemotherapy drugs	can be classified as	hormone antagonists
+hormone antagonists	block	hormone receptors
+chemotherapy drugs	can be classified as	prodrug forms
+prodrug forms	require	activation
+chemotherapy drugs	can be classified as	antimetabolite prodrugs
+antimetabolite prodrugs	interfere with	cellular metabolism

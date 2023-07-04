@@ -1,0 +1,96 @@
+enteral nutrition	is a	type of nutrition
+parenteral nutrition	is a	type of nutrition
+enteral nutrition	is given through	feeding tube
+parenteral nutrition	is given through	intravenous line
+enteral nutrition	used for	patients unable to consume food orally
+parenteral nutrition	used for	patients unable to tolerate enteral nutrition
+enteral nutrition	provides	essential nutrients
+parenteral nutrition	provides	total nutrition
+enteral nutrition	can cause	tube-related complications
+parenteral nutrition	can cause	infection
+enteral nutrition	is less likely to cause	adverse events compared to parenteral nutrition
+parenteral nutrition	is more likely to cause	electrolyte imbalances compared to enteral nutrition
+enteral nutrition	can lead to	improved gastrointestinal function
+parenteral nutrition	can lead to	improved nutritional status
+enteral nutrition	may be discontinued	once oral intake is possible
+parenteral nutrition	may be continued	until oral intake is possible
+enteral nutrition	requires	monitoring of tube placement
+parenteral nutrition	requires	monitoring of blood glucose levels
+enteral nutrition	is more cost-effective than	parenteral nutrition
+parenteral nutrition	is more expensive than	enteral nutrition
+enteral nutrition	is preferred	in patients with functional gastrointestinal tracts
+parenteral nutrition	is preferred	in patients with nonfunctional gastrointestinal tracts
+enteral nutrition	improves	patient outcomes
+parenteral nutrition	improves	survival in critically ill patients
+enteral nutrition	reduces	infectious complications
+parenteral nutrition	increases	risk of sepsis
+enteral nutrition	should be	initiated early in critically ill patients
+parenteral nutrition	should be	initiated in patients with contraindications to enteral nutrition
+enteral nutrition	is less likely to	disrupt gut microbiota compared to parenteral nutrition
+parenteral nutrition	is more likely to	disrupt gut microbiota compared to enteral nutrition
+enteral nutrition	has	lower rate of catheter-related bloodstream infections compared to parenteral nutrition
+parenteral nutrition	has	higher rate of catheter-related bloodstream infections compared to enteral nutrition
+enteral nutrition	may be	preferred over parenteral nutrition in postoperative patients
+parenteral nutrition	may be	preferred over enteral nutrition in patients with severe intestinal failure
+enteral nutrition	requires	gastrointestinal function
+parenteral nutrition	does not require	gastrointestinal function
+enteral nutrition	may result in	diarrhea
+parenteral nutrition	may be associated with	liver dysfunction
+enteral nutrition	can be	administered as a bolus
+parenteral nutrition	can be	administered as a continuous infusion
+enteral nutrition	is	less invasive than parenteral nutrition
+parenteral nutrition	is	more invasive than enteral nutrition
+enteral nutrition	is associated with	fewer complications compared to parenteral nutrition
+parenteral nutrition	is associated with	more complications compared to enteral nutrition
+enteral nutrition	may have	better patient tolerance
+parenteral nutrition	may have	less gastrointestinal side effects
+enteral nutrition	may not be	suitable for all patients
+parenteral nutrition	may be	the only option for some patients
+enteral nutrition	can	meet nutritional needs
+parenteral nutrition	can	provide adequate calories and nutrients
+enteral nutrition	can	maintain gut integrity
+parenteral nutrition	can	support cell function and tissue repair
+enteral nutrition	can be	tailored to individual patient needs
+parenteral nutrition	can be	adjusted as per patient requirements
+enteral nutrition	can	improve wound healing
+parenteral nutrition	can	prevent malnutrition
+enteral nutrition	may be	associated with aspiration risk
+parenteral nutrition	may be	associated with metabolic complications
+enteral nutrition	requires	appropriate tube placement
+parenteral nutrition	requires	sterile technique for administration
+enteral nutrition	may need	tube replacement as per schedule
+parenteral nutrition	may require	frequent line changes
+enteral nutrition	is	widely available
+parenteral nutrition	may be	difficult to obtain
+enteral nutrition	can	be administered at home
+parenteral nutrition	may	require hospitalization
+enteral nutrition	may be	more comfortable for patients
+parenteral nutrition	may be	associated with pain or discomfort
+enteral nutrition	can	be administered by the patient or caregiver
+parenteral nutrition	requires	healthcare professional for administration
+enteral nutrition	may be	suitable for short-term use
+parenteral nutrition	may be	suitable for long-term use
+enteral nutrition	is	preferred for gut rehabilitation in critically ill patients
+parenteral nutrition	is	preferred for patients with intestinal failure
+enteral nutrition	may be	insufficient for patients with high nutrient requirements
+parenteral nutrition	may be	necessary in patients with poor absorption capacity
+enteral nutrition	can	support immune function
+parenteral nutrition	can	prevent weight loss
+enteral nutrition	should be	adjusted as per patient tolerance
+parenteral nutrition	should be	monitored closely to prevent complications
+enteral nutrition	can	reduce hospital costs
+parenteral nutrition	can	increase hospital costs
+enteral nutrition	may result in	constipation
+parenteral nutrition	may result in	hyperglycemia
+enteral nutrition	should be	initiated cautiously in patients at risk for refeeding syndrome
+parenteral nutrition	should be	initiated in patients at risk for refeeding syndrome
+enteral nutrition	may	prolong hospital stay
+parenteral nutrition	may	shorten hospital stay
+enteral nutrition	can	improve patient quality of life
+parenteral nutrition	can	be life-saving in certain conditions
+enteral nutrition	should be	tailored to patient preferences
+parenteral nutrition	should be	monitored for potential complications
+enteral nutrition	should be	initiated under professional guidance
+parenteral nutrition	should be	administered under strict aseptic conditions
+enteral nutrition	may not be	appropriate for patients with severe malabsorption
+parenteral nutrition	may not be	appropriate for patients with intestinal obstruction

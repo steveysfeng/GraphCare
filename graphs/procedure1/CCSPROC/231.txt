@@ -1,0 +1,149 @@
+other therapeutic procedures	are used for	treating medical conditions
+other therapeutic procedures	include	surgery
+surgery	can be used for	removing tumors
+surgery	can be used for	repairing injuries
+surgery	can be used for	transplanting organs
+other therapeutic procedures	include	radiation therapy
+radiation therapy	can be used for	killing cancer cells
+radiation therapy	can be used for	reducing tumor size
+other therapeutic procedures	include	chemotherapy
+chemotherapy	can be used for	destroying cancer cells
+chemotherapy	can be used for	preventing cancer from spreading
+other therapeutic procedures	include	immunotherapy
+immunotherapy	can be used for	boosting the immune system
+immunotherapy	can be used for	targeting specific cancer cells
+other therapeutic procedures	include	physical therapy
+physical therapy	can be used for	improving mobility
+physical therapy	can be used for	reducing pain
+other therapeutic procedures	include	occupational therapy
+occupational therapy	can be used for	helping patients regain daily skills
+occupational therapy	can be used for	improving cognitive abilities
+other therapeutic procedures	include	speech therapy
+speech therapy	can be used for	improving communication skills
+speech therapy	can be used for	addressing swallowing difficulties
+other therapeutic procedures	include	psychotherapy
+psychotherapy	can be used for	addressing mental health issues
+psychotherapy	can be used for	managing stress
+other therapeutic procedures	include	electroconvulsive therapy
+electroconvulsive therapy	can be used for	treating severe depression
+electroconvulsive therapy	can be used for	treating bipolar disorder
+other therapeutic procedures	include	dialysis
+dialysis	can be used for	filtering waste from the blood
+dialysis	can be used for	treating kidney failure
+other therapeutic procedures	include	cardiac catheterization
+cardiac catheterization	can be used for	diagnosing heart conditions
+cardiac catheterization	can be used for	removing blockages
+other therapeutic procedures	include	joint replacement surgery
+joint replacement surgery	can be used for	relieving joint pain
+joint replacement surgery	can be used for	improving mobility
+other therapeutic procedures	include	gastric bypass surgery
+gastric bypass surgery	can be used for	weight loss
+gastric bypass surgery	can be used for	managing obesity
+other therapeutic procedures	include	organ transplantation
+organ transplantation	can be used for	replacing damaged organs
+organ transplantation	can be used for	prolonging life
+other therapeutic procedures	include	hormonal therapy
+hormonal therapy	can be used for	managing hormone-related conditions
+hormonal therapy	can be used for	treating cancer
+other therapeutic procedures	include	gene therapy
+gene therapy	can be used for	treating genetic disorders
+gene therapy	can be used for	preventing disease progression
+other therapeutic procedures	include	stem cell transplantation
+stem cell transplantation	can be used for	treating blood disorders
+stem cell transplantation	can be used for	repairing damaged tissues
+other therapeutic procedures	include	cognitive behavioral therapy
+cognitive behavioral therapy	can be used for	treating mental health conditions
+cognitive behavioral therapy	can be used for	changing negative thought patterns
+other therapeutic procedures	include	arthroscopy
+arthroscopy	can be used for	visualizing and treating joint problems
+arthroscopy	can be used for	removing loose fragments
+other therapeutic procedures	include	angioplasty
+angioplasty	can be used for	widening narrowed arteries
+angioplasty	can be used for	improving blood flow
+other therapeutic procedures	include	brachytherapy
+brachytherapy	can be used for	delivering internal radiation therapy
+brachytherapy	can be used for	treating cancer
+other therapeutic procedures	include	magnetic resonance imaging
+magnetic resonance imaging	can be used for	diagnosing medical conditions
+magnetic resonance imaging	can be used for	monitoring treatment progress
+other therapeutic procedures	include	ultrasound
+ultrasound	can be used for	visualizing internal structures
+ultrasound	can be used for	monitoring fetal development
+other therapeutic procedures	include	epidural steroid injections
+epidural steroid injections	can be used for	relieving back pain
+epidural steroid injections	can be used for	reducing inflammation
+other therapeutic procedures	include	bronchoscopy
+bronchoscopy	can be used for	examining the airways
+bronchoscopy	can be used for	taking tissue samples
+other therapeutic procedures	include	colonoscopy
+colonoscopy	can be used for	screening for colon cancer
+colonoscopy	can be used for	removing polyps
+other therapeutic procedures	include	endoscopy
+endoscopy	can be used for	examining the digestive tract
+endoscopy	can be used for	diagnosing gastrointestinal conditions
+other therapeutic procedures	include	biopsy
+biopsy	can be used for	obtaining tissue samples
+biopsy	can be used for	diagnosing cancer
+other therapeutic procedures	include	electrocardiogram
+electrocardiogram	can be used for	measuring heart activity
+electrocardiogram	can be used for	diagnosing heart problems
+other therapeutic procedures	include	thoracentesis
+thoracentesis	can be used for	draining fluid from the chest
+thoracentesis	can be used for	relieving breathing difficulties
+other therapeutic procedures	include	lumbar puncture
+lumbar puncture	can be used for	collecting cerebrospinal fluid
+lumbar puncture	can be used for	diagnosing nervous system disorders
+other therapeutic procedures	include	angiogram
+angiogram	can be used for	visualizing blood vessels
+angiogram	can be used for	detecting blockages
+other therapeutic procedures	include	mastectomy
+mastectomy	can be used for	removing breast tissue
+mastectomy	can be used for	treating breast cancer
+other therapeutic procedures	include	hysterectomy
+hysterectomy	can be used for	removing the uterus
+hysterectomy	can be used for	treating gynecological conditions
+other therapeutic procedures	include	tonsillectomy
+tonsillectomy	can be used for	removing the tonsils
+tonsillectomy	can be used for	treating recurrent infections
+other therapeutic procedures	include	circumcision
+circumcision	can be used for	removing the foreskin
+circumcision	can be used for	reducing the risk of certain infections
+other therapeutic procedures	include	appendectomy
+appendectomy	can be used for	removing the appendix
+appendectomy	can be used for	treating appendicitis
+other therapeutic procedures	include	hernia repair
+hernia repair	can be used for	repairing hernias
+hernia repair	can be used for	preventing complications
+other therapeutic procedures	include	cataract surgery
+cataract surgery	can be used for	removing cataracts
+cataract surgery	can be used for	improving vision
+other therapeutic procedures	include	dental extraction
+dental extraction	can be used for	removing teeth
+dental extraction	can be used for	treating dental issues
+other therapeutic procedures	include	skin grafting
+skin grafting	can be used for	repairing damaged skin
+skin grafting	can be used for	promoting wound healing
+other therapeutic procedures	include	amputation
+amputation	can be used for	removing a limb
+amputation	can be used for	treating severe injuries
+other therapeutic procedures	include	ablation
+ablation	can be used for	destroying abnormal tissue
+ablation	can be used for	treating arrhythmias
+other therapeutic procedures	include	cardiovascular surgery
+cardiovascular surgery	can be used for	treating heart conditions
+cardiovascular surgery	can be used for	improving heart function
+other therapeutic procedures	include	bariatric surgery
+bariatric surgery	can be used for	weight loss
+bariatric surgery	can be used for	managing obesity
+other therapeutic procedures	include	cochlear implantation
+cochlear implantation	can be used for	restoring hearing
+cochlear implantation	can be used for	improving speech perception
+other therapeutic procedures	include	endoscopic retrograde cholangiopancreatography
+endoscopic retrograde cholangiopancreatography	can be used for	diagnosing and treating pancreatic and biliary diseases
+endoscopic retrograde cholangiopancreatography	can be used for	removing gallstones
+other therapeutic procedures	include	craniotomy
+craniotomy	can be used for	accessing the brain
+craniotomy	can be used for	removing tumors
+other therapeutic procedures	include	hip replacement surgery
+hip replacement surgery	can be used for	relieving hip pain
+hip replacement surgery	can be used for	improving mobility

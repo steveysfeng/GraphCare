@@ -1,0 +1,13 @@
+physical therapy exercises	are a type of	therapy
+physical therapy exercises	used for	rehabilitation
+physical therapy exercises	can improve	flexibility
+physical therapy exercises	can reduce	pain
+manipulation	is a type of	procedure
+manipulation	used for	realigning
+manipulation	can relieve	muscle tension
+manipulation	can improve	joint mobility
+procedure	involves	medical intervention
+procedure	used for	treatment
+procedure	can be	invasive
+procedure	can have	risks
+procedure	can require	anesthesia

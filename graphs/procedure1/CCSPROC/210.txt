@@ -1,0 +1,125 @@
+other nuclear medicine imaging	is a	medical procedure
+other nuclear medicine imaging	used for	diagnosis
+other nuclear medicine imaging	can detect	cancer
+other nuclear medicine imaging	involves	radioactive materials
+other nuclear medicine imaging	uses	gamma rays
+other nuclear medicine imaging	requires	specialized equipment
+other nuclear medicine imaging	identifies	organ function
+other nuclear medicine imaging	helps	monitor treatment progress
+other nuclear medicine imaging	is used	in cardiology
+other nuclear medicine imaging	is used	in neurology
+other nuclear medicine imaging	is used	in oncology
+other nuclear medicine imaging	is used	in pulmonary medicine
+other nuclear medicine imaging	requires	medical supervision
+other nuclear medicine imaging	is performed	by trained technologists
+other nuclear medicine imaging	may have	side effects
+other nuclear medicine imaging	may cause	allergic reactions
+other nuclear medicine imaging	requires	patient preparation
+other nuclear medicine imaging	provides	detailed images
+other nuclear medicine imaging	is useful	for detecting abnormalities
+other nuclear medicine imaging	guides	treatment planning
+other nuclear medicine imaging	helps	evaluate disease progression
+other nuclear medicine imaging	is non-invasive
+other nuclear medicine imaging	is a	radiation-based procedure
+other nuclear medicine imaging	involves	injection of radiopharmaceuticals
+other nuclear medicine imaging	can detect	infection
+other nuclear medicine imaging	can detect	inflammation
+other nuclear medicine imaging	can detect	blood flow
+other nuclear medicine imaging	can detect	organ dysfunction
+other nuclear medicine imaging	can detect	bone fractures
+other nuclear medicine imaging	can detect	metastasis
+other nuclear medicine imaging	can detect	ischemia
+other nuclear medicine imaging	can detect	blood clots
+other nuclear medicine imaging	can detect	heart disease
+other nuclear medicine imaging	can detect	brain abnormalities
+other nuclear medicine imaging	can detect	liver disease
+other nuclear medicine imaging	can detect	kidney disease
+other nuclear medicine imaging	can detect	lung disease
+other nuclear medicine imaging	can detect	gastrointestinal diseases
+other nuclear medicine imaging	can detect	prostate cancer
+other nuclear medicine imaging	can detect	thyroid disorders
+other nuclear medicine imaging	can detect	bone diseases
+other nuclear medicine imaging	can detect	lymphoma
+other nuclear medicine imaging	can detect	sarcoma
+other nuclear medicine imaging	can detect	leukemia
+other nuclear medicine imaging	can detect	uterine abnormalities
+other nuclear medicine imaging	can detect	ovarian abnormalities
+other nuclear medicine imaging	can detect	breast abnormalities
+other nuclear medicine imaging	can detect	lung cancer
+other nuclear medicine imaging	can detect	colorectal cancer
+other nuclear medicine imaging	can detect	pancreatic cancer
+other nuclear medicine imaging	can detect	head and neck cancer
+other nuclear medicine imaging	can detect	gallbladder diseases
+other nuclear medicine imaging	can detect	musculoskeletal disorders
+other nuclear medicine imaging	can detect	hormone imbalances
+other nuclear medicine imaging	can detect	fertility problems
+other nuclear medicine imaging	can detect	urinary tract infections
+other nuclear medicine imaging	can detect	kidney stones
+other nuclear medicine imaging	can detect	bladder conditions
+other nuclear medicine imaging	can detect	adrenal abnormalities
+other nuclear medicine imaging	can detect	neuroendocrine tumors
+other nuclear medicine imaging	can detect	pituitary disorders
+other nuclear medicine imaging	can detect	meningioma
+other nuclear medicine imaging	can detect	neuroblastoma
+other nuclear medicine imaging	can detect	glioblastoma
+other nuclear medicine imaging	can detect	medulloblastoma
+other nuclear medicine imaging	can detect	astrocytoma
+other nuclear medicine imaging	can detect	oligodendroglioma
+other nuclear medicine imaging	can detect	ependymoma
+other nuclear medicine imaging	can detect	chordoma
+other nuclear medicine imaging	can detect	meningioma
+other nuclear medicine imaging	can detect	acoustic neuroma
+other nuclear medicine imaging	can detect	lymphoma
+other nuclear medicine imaging	can detect	melanoma
+other nuclear medicine imaging	can detect	basal cell carcinoma
+other nuclear medicine imaging	can detect	squamous cell carcinoma
+other nuclear medicine imaging	can detect	hepatic metastases
+other nuclear medicine imaging	can detect	bone metastases
+other nuclear medicine imaging	can detect	pulmonary metastases
+other nuclear medicine imaging	can detect	brain metastases
+other nuclear medicine imaging	can detect	lymph node metastases
+other nuclear medicine imaging	can detect	peritoneal metastases
+other nuclear medicine imaging	can detect	ascites
+other nuclear medicine imaging	can detect	pleural effusion
+other nuclear medicine imaging	can detect	cysts
+other nuclear medicine imaging	can detect	abscesses
+other nuclear medicine imaging	can detect	fibroids
+other nuclear medicine imaging	can detect	polyps
+other nuclear medicine imaging	can detect	endometriosis
+other nuclear medicine imaging	can detect	ovarian cysts
+other nuclear medicine imaging	can detect	breast cancer
+other nuclear medicine imaging	can detect	uterine cancer
+other nuclear medicine imaging	can detect	cervical cancer
+other nuclear medicine imaging	can detect	prostate disorders
+other nuclear medicine imaging	can detect	testicular abnormalities
+other nuclear medicine imaging	can detect	lung infections
+other nuclear medicine imaging	can detect	osteomyelitis
+other nuclear medicine imaging	can detect	septic arthritis
+other nuclear medicine imaging	can detect	abscesses
+other nuclear medicine imaging	can detect	inflammatory bowel disease
+other nuclear medicine imaging	can detect	diverticulitis
+other nuclear medicine imaging	can detect	appendicitis
+other nuclear medicine imaging	can detect	cholecystitis
+other nuclear medicine imaging	can detect	pancreatitis
+other nuclear medicine imaging	can detect	hepatic steatosis
+other nuclear medicine imaging	can detect	cirrhosis
+other nuclear medicine imaging	can detect	renal artery stenosis
+other nuclear medicine imaging	can detect	hydronephrosis
+other nuclear medicine imaging	can detect	renal cysts
+other nuclear medicine imaging	can detect	polycystic kidney disease
+other nuclear medicine imaging	can detect	renal cell carcinoma
+other nuclear medicine imaging	can detect	bladder cancer
+other nuclear medicine imaging	can detect	renal failure
+other nuclear medicine imaging	can detect	chronic kidney disease
+other nuclear medicine imaging	can detect	interstitial lung disease
+other nuclear medicine imaging	can detect	pulmonary embolism
+other nuclear medicine imaging	can detect	chronic obstructive pulmonary disease
+other nuclear medicine imaging	can detect	asthma
+other nuclear medicine imaging	can detect	lung fibrosis
+other nuclear medicine imaging	can detect	lung nodules
+other nuclear medicine imaging	can detect	lung cysts
+other nuclear medicine imaging	can detect	lung tumors
+other nuclear medicine imaging	can detect	lung metastases
+other nuclear medicine imaging	can detect	lung abscesses
+other nuclear medicine imaging	can detect	tuberculosis
+other nuclear medicine imaging	can detect	bronchiectasis

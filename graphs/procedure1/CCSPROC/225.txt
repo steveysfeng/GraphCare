@@ -1,0 +1,270 @@
+conversion of cardiac rhythm	is a	medical procedure
+conversion of cardiac rhythm	used for	treating arrhythmias
+cardioversion	is a type of	conversion of cardiac rhythm
+cardioversion	uses	electrical shocks
+cardioversion	can restore	normal heart rhythm
+cardioversion	is effective in	treating atrial fibrillation
+cardioversion	may cause	transient cardiac arrhythmias
+cardioversion	requires	informed consent
+cardioversion	is performed by	trained medical professionals
+cardioversion	can be performed in	outpatient settings
+cardioversion	may cause	chest discomfort
+cardioversion	should be followed by	close monitoring
+cardioversion	has	potential risks
+cardioversion	is contraindicated in	certain conditions
+cardioversion	may require	repeat procedures
+cardioversion	should be done	under sedation or anesthesia
+cardioversion	is not recommended	during pregnancy
+cardioversion	should be followed by	anticoagulation therapy
+cardioversion	has	success rate of over 90%
+cardioversion	may be combined with	pharmacological antiarrhythmic therapy
+cardioversion	has	different approaches
+cardioversion	may be performed	using biphasic or monophasic energy
+cardioversion	can be guided by	imaging techniques
+cardioversion	is sometimes done	on an emergency basis
+cardioversion	may be used	in emergency resuscitation
+cardioversion	is contraindicated	in patients with structural heart disease
+cardioversion	may cause	skin burns
+cardioversion	may require	intubation and mechanical ventilation
+cardioversion	should be done	with synchronized shock delivery
+cardioversion	is associated with	transient ST segment changes
+cardioversion	should be followed by	regular cardiac monitoring
+cardioversion	can be done	with external defibrillator pads
+cardioversion	is less effective	if performed after a longer duration of arrhythmia
+cardioversion	may require	sedation reversal after the procedure
+cardioversion	may cause	post-procedure nausea
+cardioversion	may be considered	as a therapeutic option
+cardioversion	has	potential complications
+cardioversion	is more effective	in younger patients
+cardioversion	is typically done	under conscious sedation
+cardioversion	may result in	transient hypotension
+cardioversion	may cause	transient bradycardia
+cardioversion	should be performed	after optimization of underlying conditions
+cardioversion	may require	electrical cardioversion machine
+cardioversion	may be followed by	antiarrhythmic medication
+cardioversion	can be used	for rhythm control
+cardioversion	can be used	for rate control
+cardioversion	may be indicated	in unstable patients
+cardioversion	can be performed	in the presence of anticoagulation therapy
+cardioversion	may be necessary	in symptomatic patients
+cardioversion	may be considered	in persistent atrial fibrillation
+cardioversion	can be guided by	fluoroscopy
+cardioversion	should be considered	in patients with first-time arrhythmias
+cardioversion	may be performed	using internal defibrillator electrodes
+cardioversion	may require	cardioversion pads
+cardioversion	may be performed	using esophageal probes
+cardioversion	may cause	temporary disruption of the electrical conduction system
+cardioversion	should be used	with caution in patients with implanted devices
+cardioversion	can improve	symptoms and quality of life
+cardioversion	may be performed	using different energy levels
+cardioversion	is most effective	when performed early
+cardioversion	can be done	under general anesthesia
+cardioversion	can be done	using monophasic waveform
+cardioversion	can be done	using biphasic waveform
+cardioversion	has	variable success rates
+cardioversion	may be done	using external paddles
+cardioversion	may cause	transient arrhythmias
+cardioversion	may be performed	using venovenous extracorporeal membrane oxygenation
+cardioversion	is used	as a treatment for supraventricular tachycardia
+cardioversion	may require	endotracheal intubation
+cardioversion	may cause	post-procedure fatigue
+cardioversion	may require	resuscitation equipment
+cardioversion	is an	electrophysiological intervention
+cardioversion	is associated with	conversion success rate
+cardioversion	should be followed by	patient monitoring on telemetry
+cardioversion	can be performed	using synchronized shock
+cardioversion	is	a non-surgical procedure
+cardioversion	should be done	in a controlled environment
+cardioversion	is	a safe procedure
+cardioversion	should be followed by	ECG monitoring
+cardioversion	may be associated with	transient ST segment elevation
+cardioversion	should be performed	after transient ischemic attack evaluation
+cardioversion	is performed	under monitored anesthesia care
+cardioversion	requires	electrical energy
+cardioversion	may cause	transient loss of consciousness
+cardioversion	may be associated with	hemodynamic instability
+cardioversion	may result in	restoration of sinus rhythm
+cardioversion	is a method	of arrhythmia management
+cardioversion	may require	airway management
+cardioversion	may be done	in combination with antiplatelet therapy
+cardioversion	is performed	with defibrillation pads
+cardioversion	is used	to convert abnormal heart rhythms
+cardioversion	can be performed	using antegrade or retrograde techniques
+cardioversion	is	an effective treatment
+cardioversion	may require	anesthesia reversal
+cardioversion	should be followed by	post-procedure vital signs monitoring
+cardioversion	is a	therapeutic procedure
+cardioversion	may be performed	using esophageal intubation
+cardioversion	may be performed	using pharmacologic agents
+cardioversion	may require	immediate airway support
+cardioversion	should be followed by	observation period
+cardioversion	may require	anesthetic induction
+cardioversion	may be done	using direct current
+cardioversion	may be associated with	mild pain or discomfort
+cardioversion	should be performed	with chest compressions
+cardioversion	is a	synchronized counter-shock therapy
+cardioversion	requires	defibrillator machine
+cardioversion	may cause	transient hypoxia
+cardioversion	may be followed by	antiarrhythmic drug therapy
+cardioversion	can be effective	for restoring normal heart function
+cardioversion	may cause	transient hypertension
+cardioversion	may be performed	using intravenous drugs
+cardioversion	may require	mechanical ventilation support
+cardioversion	may be performed	using transesophageal echocardiogram
+cardioversion	may cause	transient ST segment depression
+cardioversion	may require	post-procedure observation
+cardioversion	can be done	using transthoracic approach
+cardioversion	may be followed by	telemetry monitoring
+cardioversion	is performed	with anesthesia support
+cardioversion	aims to	restore normal heart rhythm
+cardioversion	may cause	transient breathlessness
+cardioversion	may be performed	using antiarrhythmic medications
+cardioversion	may require	sedation during the procedure
+cardioversion	may result in	transient hemodynamic instability
+cardioversion	may cause	transient chest discomfort
+cardioversion	should be done	with proper electrode placement
+cardioversion	may be performed	using anteroposterior paddles
+cardioversion	may require	temporary pacemaker insertion
+cardioversion	may cause	transient tachycardia
+cardioversion	may be followed by	overnight observation
+cardioversion	can be used	to treat ventricular tachycardia
+cardioversion	is	a common procedure
+cardioversion	may be performed	in the electrophysiology lab
+cardioversion	may cause	transient heart block
+cardioversion	may be performed	in patients with cardiac arrest
+cardioversion	may require	rapid sequence induction
+cardioversion	should be followed by	adequate pain management
+cardioversion	may cause	transient dizziness
+cardioversion	may result in	immediate symptom relief
+cardioversion	may require	intravenous sedation
+cardioversion	may require	heparin administration
+cardioversion	should be performed	with appropriate resuscitation equipment
+cardioversion	may be performed	using transvenous approach
+cardioversion	may cause	transient changes in blood pressure
+cardioversion	may require	endotracheal intubation during general anesthesia
+cardioversion	should be followed by	post-procedural pain assessment
+cardioversion	is associated with	improved quality of life
+cardioversion	can be used	for rhythm stabilization
+cardioversion	may be done	using automated external defibrillators
+cardioversion	may cause	transient dyspnea
+cardioversion	may be required	in patients with wide QRS complex
+cardioversion	may be performed	using ultrasound imaging
+cardioversion	should be performed	with continuous blood pressure monitoring
+cardioversion	may require	reversal of neuromuscular blockade
+cardioversion	may cause	transient chest pain
+cardioversion	is performed	on conscious or sedated patients
+cardioversion	may be performed	using endotracheal tube
+cardioversion	may require	supplemental oxygen therapy
+cardioversion	should be done	after administration of intravenous sedation
+cardioversion	may cause	transient dysrhythmias
+cardioversion	may result in	partial or complete success
+cardioversion	may require	antiarrhythmic drug administration
+cardioversion	is	an electrical intervention
+cardioversion	should be followed by	pain assessment
+cardioversion	can be done	using internal paddles
+cardioversion	may cause	transient fatigue
+cardioversion	may be performed	using external biphasic waveform
+cardioversion	may require	sedation during recovery period
+cardioversion	may cause	transient discomfort
+cardioversion	may be followed by	overnight cardiac monitoring
+cardioversion	may be performed	using external monophasic waveform
+cardioversion	may require	reversal of anesthetic agents
+cardioversion	should be performed	with hemodynamic monitoring
+cardioversion	may cause	transient nausea
+cardioversion	may require	repeat cardioversion attempts
+cardioversion	may be done	in combination with beta-blocker therapy
+cardioversion	is used	for treating ventricular fibrillation
+cardioversion	may be performed	using external patch electrodes
+cardioversion	may cause	transient headache
+cardioversion	may require	ECG monitoring
+cardioversion	should be performed	with arterial line placement
+cardioversion	may cause	temporary interruption of blood flow
+cardioversion	may be required	in cases of unstable hemodynamics
+cardioversion	should be followed by	pain management
+cardioversion	is a	recommended treatment
+cardioversion	may be performed	using anterolateral paddles
+cardioversion	may cause	transient vomiting
+cardioversion	may result in	immediate improvement in symptoms
+cardioversion	may require	transesophageal echocardiography
+cardioversion	should be performed	with continuous ECG monitoring
+cardioversion	may cause	transient arrhythmogenic effects
+cardioversion	may require	induction of general anesthesia
+cardioversion	should be followed by	post-procedure clinical evaluation
+cardioversion	may require	synchronization with the R wave
+cardioversion	may cause	transient myalgia
+cardioversion	may be performed	using anterior-posterior approach
+cardioversion	may result in	immediate hemodynamic stability
+cardioversion	may require	heparin reversal
+cardioversion	should be performed	with airway control
+cardioversion	may cause	transient back pain
+cardioversion	may be done	under local anesthesia
+cardioversion	may require	observation for recurrent arrhythmia
+cardioversion	can be used	in cases of atrial flutter
+cardioversion	may be performed	using transcutaneous pacing
+cardioversion	may cause	transient paresthesia
+cardioversion	may require	arterial and venous access
+cardioversion	may cause	transient muscle contractions
+cardioversion	should be done	with rapid defibrillation
+cardioversion	may be performed	using ultrasound-guided approach
+cardioversion	may require	monitoring of arterial blood gases
+cardioversion	may result in	electrical termination of arrhythmia
+cardioversion	may cause	transient erythema
+cardioversion	may be done	using intravenous boluses
+cardioversion	may require	reversal of neuromuscular blockade
+cardioversion	should be performed	with endotracheal intubation
+cardioversion	may cause	transient cough
+cardioversion	may require	resuscitation medications
+cardioversion	may be performed	using direct current countershock
+cardioversion	may require	synchronization with the QRS complex
+cardioversion	should be done	with real-time ECG monitoring
+cardioversion	may cause	transient pharyngeal injury
+cardioversion	may be done	using intravenous bolus doses
+cardioversion	may require	restoration of spontaneous circulation
+cardioversion	is an option	for patients with recurrent arrhythmias
+cardioversion	may be performed	using short-acting anesthesia agents
+cardioversion	may cause	transient dyspepsia
+cardioversion	may require	intubation and ventilation
+cardioversion	may be performed	using specialized catheters
+cardioversion	may result in	immediate clinical improvement
+cardioversion	may cause	transient hoarseness
+cardioversion	may require	monitoring of central venous pressure
+cardioversion	should be performed	with pulse oximetry monitoring
+cardioversion	may cause	temporary diaphragmatic paralysis
+cardioversion	may be done	using manual paddles
+cardioversion	may require	continuous infusion of antiarrhythmic drugs
+cardioversion	should be performed	with assessment of cardiac output
+cardioversion	may cause	transient epigastric pain
+cardioversion	may require	administration of vasoactive medications
+cardioversion	should be performed	with blood pressure measurement
+cardioversion	may cause	transient tracheobronchial stimulation
+cardioversion	may be performed	using anteroposterior patch placement
+cardioversion	may require	temporary pacemaker support
+cardioversion	may result in	immediate ECG rhythm normalization
+cardioversion	may cause	transient dysphagia
+cardioversion	may require	monitoring of invasive pressures
+cardioversion	should be performed	with end tidal CO2 monitoring
+cardioversion	may cause	transient dysgeusia
+cardioversion	may be done	using intravenous maintenance infusion
+cardioversion	may require	administration of inotropic agents
+cardioversion	should be performed	with arterial blood gas analysis
+cardioversion	may cause	transient esophageal irritation
+cardioversion	may be performed	using stepwise energy levels
+cardioversion	may require	continuous cardiac output monitoring
+cardioversion	should be followed by	neurologic assessment
+cardioversion	may cause	transient loss of swallow reflex
+cardioversion	may require	invasive hemodynamic monitoring
+cardioversion	should be performed	with continuous arterial oxygen saturation monitoring
+cardioversion	may cause	transient periodontal damage
+cardioversion	may require	administration of diuretic agents
+cardioversion	should be performed	with endobronchial intubation
+cardioversion	may cause	transient macroglossia
+cardioversion	may be performed	using manual shock delivery
+cardioversion	may require	administration of vasopressor drugs
+cardioversion	should be performed	with evaluation of central venous oxygen saturation
+cardioversion	may cause	transient dental trauma
+cardioversion	may require	hemodynamic support
+cardioversion	should be performed	with nasogastric tube insertion
+cardioversion	may cause	transient odynophagia
+cardioversion	may require	invasive blood pressure monitoring
+cardioversion	may require	insertion of left ventricular assist device
+cardioversion	should be performed	with continuous invasive pressure monitoring

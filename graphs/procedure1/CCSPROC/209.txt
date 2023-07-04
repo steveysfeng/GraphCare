@@ -1,0 +1,206 @@
+non-imaging nuclear medicine probe or assay	is a	diagnostic tool
+non-imaging nuclear medicine probe or assay	used for	detecting diseases
+non-imaging nuclear medicine probe or assay	measures	radioactive tracer activity
+non-imaging nuclear medicine probe or assay	can identify	abnormal cell function
+non-imaging nuclear medicine probe or assay	helps in	cancer staging
+non-imaging nuclear medicine probe or assay	aids in	drug response monitoring
+non-imaging nuclear medicine probe or assay	used in	molecular imaging
+non-imaging nuclear medicine probe or assay	can diagnose	thyroid disorders
+non-imaging nuclear medicine probe or assay	assists in	bone scanning
+non-imaging nuclear medicine probe or assay	helps in	cardiac imaging
+non-imaging nuclear medicine probe or assay	is essential for	neurological evaluations
+non-imaging nuclear medicine probe or assay	evaluates	organ function
+non-imaging nuclear medicine probe or assay	aids in	detecting infections
+non-imaging nuclear medicine probe or assay	measures	metabolic activity
+non-imaging nuclear medicine probe or assay	serves as	a non-invasive method
+non-imaging nuclear medicine probe or assay	contributes to	personalized medicine
+non-imaging nuclear medicine probe or assay	used for	treatment planning
+non-imaging nuclear medicine probe or assay	measures	radiation dose
+non-imaging nuclear medicine probe or assay	helps in	radiation safety monitoring
+non-imaging nuclear medicine probe or assay	assists in	monitoring therapeutic response
+non-imaging nuclear medicine probe or assay	evaluates	organ transplant function
+non-imaging nuclear medicine probe or assay	aids in	identifying cancer recurrence
+non-imaging nuclear medicine probe or assay	can detect	blood clots
+non-imaging nuclear medicine probe or assay	assists in	evaluating lung function
+non-imaging nuclear medicine probe or assay	helps in	assessing gastrointestinal motility
+non-imaging nuclear medicine probe or assay	identifies	gallbladder function
+non-imaging nuclear medicine probe or assay	measures	liver function
+non-imaging nuclear medicine probe or assay	helps in	studying brain metabolism
+non-imaging nuclear medicine probe or assay	aids in	identifying pulmonary embolism
+non-imaging nuclear medicine probe or assay	assists in	detecting gastric emptying disorders
+non-imaging nuclear medicine probe or assay	evaluates	renal function
+non-imaging nuclear medicine probe or assay	aids in	diagnosing prostate cancer
+non-imaging nuclear medicine probe or assay	contributes to	bone mineral density testing
+non-imaging nuclear medicine probe or assay	used for	evaluating myocardial perfusion
+non-imaging nuclear medicine probe or assay	helps in	diagnosing neuroendocrine tumors
+non-imaging nuclear medicine probe or assay	measures	thyroid uptake and function
+non-imaging nuclear medicine probe or assay	assists in	detecting parathyroid disorders
+non-imaging nuclear medicine probe or assay	aids in	identifying liver metastases
+non-imaging nuclear medicine probe or assay	contributes to	identifying Alzheimer's disease
+non-imaging nuclear medicine probe or assay	used for	evaluating lung ventilation
+non-imaging nuclear medicine probe or assay	helps in	diagnosing renal artery stenosis
+non-imaging nuclear medicine probe or assay	measures	lung perfusion
+non-imaging nuclear medicine probe or assay	assists in	identifying biliary tract obstruction
+non-imaging nuclear medicine probe or assay	aids in	diagnosing lymphoma
+non-imaging nuclear medicine probe or assay	contributes to	evaluating testicular function
+non-imaging nuclear medicine probe or assay	used for	assessing cardiac function
+non-imaging nuclear medicine probe or assay	helps in	diagnosing liver abscess
+non-imaging nuclear medicine probe or assay	identifies	metastatic bone lesions
+non-imaging nuclear medicine probe or assay	measures	pancreatic beta cell mass
+non-imaging nuclear medicine probe or assay	assists in	detecting myocarditis
+non-imaging nuclear medicine probe or assay	aids in	diagnosing adrenal tumors
+non-imaging nuclear medicine probe or assay	contributes to	evaluating lung nodules
+non-imaging nuclear medicine probe or assay	used for	diagnosing pheochromocytoma
+non-imaging nuclear medicine probe or assay	helps in	identifying renal cysts
+non-imaging nuclear medicine probe or assay	measures	gastric acid secretion
+non-imaging nuclear medicine probe or assay	assists in	evaluating gastric cancer
+non-imaging nuclear medicine probe or assay	aids in	diagnosing liver cirrhosis
+non-imaging nuclear medicine probe or assay	contributes to	identifying meningiomas
+non-imaging nuclear medicine probe or assay	used for	detecting paragangliomas
+non-imaging nuclear medicine probe or assay	helps in	assessing splenic function
+non-imaging nuclear medicine probe or assay	identifies	renal artery occlusion
+non-imaging nuclear medicine probe or assay	measures	brain perfusion
+non-imaging nuclear medicine probe or assay	assists in	detecting esophageal reflux
+non-imaging nuclear medicine probe or assay	aids in	diagnosing bone infection
+non-imaging nuclear medicine probe or assay	contributes to	evaluating gastric motility
+non-imaging nuclear medicine probe or assay	used for	detecting chronic pancreatitis
+non-imaging nuclear medicine probe or assay	helps in	identifying thymomas
+non-imaging nuclear medicine probe or assay	measures	parathyroid hormone levels
+non-imaging nuclear medicine probe or assay	assists in	detecting gastric lymphoma
+non-imaging nuclear medicine probe or assay	aids in	diagnosing liver hemangioma
+non-imaging nuclear medicine probe or assay	contributes to	identifying cerebral perfusion deficits
+non-imaging nuclear medicine probe or assay	used for	detecting bile leak
+non-imaging nuclear medicine probe or assay	helps in	assessing cardiac innervation
+non-imaging nuclear medicine probe or assay	identifies	tuberculous meningitis
+non-imaging nuclear medicine probe or assay	measures	gastrointestinal transit time
+non-imaging nuclear medicine probe or assay	assists in	detecting pancreatic neuroendocrine tumors
+non-imaging nuclear medicine probe or assay	aids in	diagnosing adrenal metastases
+non-imaging nuclear medicine probe or assay	contributes to	evaluating lung infection
+non-imaging nuclear medicine probe or assay	used for	detecting primary hyperparathyroidism
+non-imaging nuclear medicine probe or assay	helps in	identifying ovarian torsion
+non-imaging nuclear medicine probe or assay	measures	gastric emptying time
+non-imaging nuclear medicine probe or assay	assists in	detecting colon transit time abnormalities
+non-imaging nuclear medicine probe or assay	aids in	diagnosing biliary atresia
+non-imaging nuclear medicine probe or assay	contributes to	evaluating renal artery stenosis
+non-imaging nuclear medicine probe or assay	used for	detecting gastrointestinal bleeding
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery thrombosis
+non-imaging nuclear medicine probe or assay	measures	renal blood flow
+non-imaging nuclear medicine probe or assay	assists in	detecting gastric outlet obstruction
+non-imaging nuclear medicine probe or assay	aids in	diagnosing pulmonary hypertension
+non-imaging nuclear medicine probe or assay	contributes to	evaluating heart transplant rejection
+non-imaging nuclear medicine probe or assay	used for	detecting bile duct strictures
+non-imaging nuclear medicine probe or assay	helps in	identifying renal vein thrombosis
+non-imaging nuclear medicine probe or assay	measures	thyroid hormone production
+non-imaging nuclear medicine probe or assay	assists in	detecting pancreatic cysts
+non-imaging nuclear medicine probe or assay	aids in	diagnosing papillary thyroid cancer
+non-imaging nuclear medicine probe or assay	contributes to	evaluating spinal cord perfusion
+non-imaging nuclear medicine probe or assay	used for	detecting hepatic artery stenosis
+non-imaging nuclear medicine probe or assay	helps in	identifying adrenal adenomas
+non-imaging nuclear medicine probe or assay	identifies	brain death
+non-imaging nuclear medicine probe or assay	measures	liver blood flow
+non-imaging nuclear medicine probe or assay	assists in	detecting small bowel bacterial overgrowth
+non-imaging nuclear medicine probe or assay	aids in	diagnosing pleural effusion
+non-imaging nuclear medicine probe or assay	contributes to	evaluating lung cancer staging
+non-imaging nuclear medicine probe or assay	used for	detecting myocardial viability
+non-imaging nuclear medicine probe or assay	helps in	identifying renal infarction
+non-imaging nuclear medicine probe or assay	measures	pancreatic ductal system
+non-imaging nuclear medicine probe or assay	assists in	detecting gastric varices
+non-imaging nuclear medicine probe or assay	aids in	diagnosing fungal infections
+non-imaging nuclear medicine probe or assay	contributes to	evaluating orthotopic heart transplant patency
+non-imaging nuclear medicine probe or assay	used for	detecting gastrointestinal motility disorders
+non-imaging nuclear medicine probe or assay	helps in	identifying adrenal adenocarcinoma
+non-imaging nuclear medicine probe or assay	identifies	Crohn's disease
+non-imaging nuclear medicine probe or assay	measures	cerebrospinal fluid flow
+non-imaging nuclear medicine probe or assay	assists in	detecting duodenogastric reflux
+non-imaging nuclear medicine probe or assay	aids in	diagnosing paraneoplastic syndromes
+non-imaging nuclear medicine probe or assay	contributes to	evaluating liver transplant function
+non-imaging nuclear medicine probe or assay	used for	detecting colorectal cancer
+non-imaging nuclear medicine probe or assay	helps in	identifying genitourinary infections
+non-imaging nuclear medicine probe or assay	measures	lung ventilation
+non-imaging nuclear medicine probe or assay	assists in	detecting intestinal malabsorption
+non-imaging nuclear medicine probe or assay	aids in	diagnosing breast cancer metastases
+non-imaging nuclear medicine probe or assay	contributes to	evaluating gastric bypass patency
+non-imaging nuclear medicine probe or assay	used for	detecting coronary artery disease
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery aneurysm
+non-imaging nuclear medicine probe or assay	identifies	spinal cord compression
+non-imaging nuclear medicine probe or assay	measures	pancreatic exocrine function
+non-imaging nuclear medicine probe or assay	assists in	detecting Meckel's diverticulum
+non-imaging nuclear medicine probe or assay	aids in	diagnosing soft tissue infections
+non-imaging nuclear medicine probe or assay	contributes to	evaluating bile leakage
+non-imaging nuclear medicine probe or assay	used for	detecting gastric cancer staging
+non-imaging nuclear medicine probe or assay	helps in	identifying arterial occlusive disease
+non-imaging nuclear medicine probe or assay	measures	pancreatic islet cell mass
+non-imaging nuclear medicine probe or assay	assists in	detecting pancreatic insufficiency
+non-imaging nuclear medicine probe or assay	aids in	diagnosing peritoneal carcinomatosis
+non-imaging nuclear medicine probe or assay	contributes to	evaluating splenic artery patency
+non-imaging nuclear medicine probe or assay	used for	detecting liver metastases
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery fibromuscular dysplasia
+non-imaging nuclear medicine probe or assay	identifies	intracranial hemorrhage
+non-imaging nuclear medicine probe or assay	measures	pancreatic secretory function
+non-imaging nuclear medicine probe or assay	assists in	detecting superior mesenteric artery syndrome
+non-imaging nuclear medicine probe or assay	aids in	diagnosing vertebral osteomyelitis
+non-imaging nuclear medicine probe or assay	contributes to	evaluating arterial steal syndrome
+non-imaging nuclear medicine probe or assay	used for	detecting hepatorenal syndrome
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery dissection
+non-imaging nuclear medicine probe or assay	measures	adrenal hormone production
+non-imaging nuclear medicine probe or assay	assists in	detecting chronic mesenteric ischemia
+non-imaging nuclear medicine probe or assay	aids in	diagnosing spinal infections
+non-imaging nuclear medicine probe or assay	contributes to	evaluating vascular graft patency
+non-imaging nuclear medicine probe or assay	used for	detecting pancreatic pseudocyst
+non-imaging nuclear medicine probe or assay	helps in	identifying renal vein thrombosis
+non-imaging nuclear medicine probe or assay	identifies	lumbar CSF leak
+non-imaging nuclear medicine probe or assay	measures	adrenal medullary function
+non-imaging nuclear medicine probe or assay	assists in	detecting hepatobiliary cystadenoma
+non-imaging nuclear medicine probe or assay	aids in	diagnosing vertebral compression fractures
+non-imaging nuclear medicine probe or assay	contributes to	evaluating bypass graft patency
+non-imaging nuclear medicine probe or assay	used for	detecting hepatocellular adenoma
+non-imaging nuclear medicine probe or assay	helps in	identifying renal hemorrhage
+non-imaging nuclear medicine probe or assay	measures	meconium ileus
+non-imaging nuclear medicine probe or assay	assists in	detecting acute mesenteric ischemia
+non-imaging nuclear medicine probe or assay	aids in	diagnosing hepatic hemangioma
+non-imaging nuclear medicine probe or assay	contributes to	evaluating arteriovenous fistula patency
+non-imaging nuclear medicine probe or assay	used for	detecting gastric neuroendocrine tumors
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery embolism
+non-imaging nuclear medicine probe or assay	identifies	ventriculopleural shunt function
+non-imaging nuclear medicine probe or assay	measures	adrenal nodule function
+non-imaging nuclear medicine probe or assay	assists in	detecting hepatic adenoma
+non-imaging nuclear medicine probe or assay	aids in	diagnosing cauda equina syndrome
+non-imaging nuclear medicine probe or assay	contributes to	evaluating portosystemic shunt patency
+non-imaging nuclear medicine probe or assay	used for	detecting carcinoid tumor
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery anastomotic stenosis
+non-imaging nuclear medicine probe or assay	measures	testicular torsion
+non-imaging nuclear medicine probe or assay	assists in	detecting hepatic infarction
+non-imaging nuclear medicine probe or assay	aids in	diagnosing piriformis syndrome
+non-imaging nuclear medicine probe or assay	contributes to	evaluating arteriovenous malformation patency
+non-imaging nuclear medicine probe or assay	used for	detecting gastrointestinal perforation
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery restenosis
+non-imaging nuclear medicine probe or assay	identifies	spinal pseudomeningocele
+non-imaging nuclear medicine probe or assay	measures	pancreatic inflammation
+non-imaging nuclear medicine probe or assay	assists in	detecting hepatic cystadenoma
+non-imaging nuclear medicine probe or assay	aids in	diagnosing discitis
+non-imaging nuclear medicine probe or assay	contributes to	evaluating venous graft patency
+non-imaging nuclear medicine probe or assay	used for	detecting gastrointestinal fistula
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery thrombosis
+non-imaging nuclear medicine probe or assay	measures	potential fecal incontinence
+non-imaging nuclear medicine probe or assay	assists in	detecting peribiliary cysts
+non-imaging nuclear medicine probe or assay	aids in	diagnosing sacroiliitis
+non-imaging nuclear medicine probe or assay	contributes to	evaluating arteriovenous graft patency
+non-imaging nuclear medicine probe or assay	used for	detecting celiac artery stenosis
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery atherosclerosis
+non-imaging nuclear medicine probe or assay	identifies	cerebrospinal fluid leak
+non-imaging nuclear medicine probe or assay	measures	pancreatic insufficiency
+non-imaging nuclear medicine probe or assay	assists in	detecting hepatic cystadenocarcinoma
+non-imaging nuclear medicine probe or assay	aids in	diagnosing phrenic nerve injury
+non-imaging nuclear medicine probe or assay	contributes to	evaluating hemodialysis graft patency
+non-imaging nuclear medicine probe or assay	used for	detecting middle colic artery syndrome
+non-imaging nuclear medicine probe or assay	helps in	identifying renal vein thrombosis
+non-imaging nuclear medicine probe or assay	measures	potential urinary incontinence
+non-imaging nuclear medicine probe or assay	assists in	detecting biliary stricture
+non-imaging nuclear medicine probe or assay	aids in	diagnosing sacral insufficiency fractures
+non-imaging nuclear medicine probe or assay	contributes to	evaluating arteriovenous shunt patency
+non-imaging nuclear medicine probe or assay	used for	detecting celiac axis compression syndrome
+non-imaging nuclear medicine probe or assay	helps in	identifying renal artery aneurysm
+non-imaging nuclear medicine probe or assay	identifies	ventriculopleural shunt malfunction
+non-imaging nuclear medicine probe or assay	measures	cystic fibrosis
+non-imaging nuclear medicine probe or assay	assists in	detecting hepatic hemangioblastoma
+non-imaging nuclear medicine probe or assay	aids in	diagnosing sciatic nerve entrapment

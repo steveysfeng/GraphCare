@@ -1,0 +1,101 @@
+traction	is a	medical treatment
+traction	used for	musculoskeletal injuries
+splints	are a type of	wound care
+splints	used for	immobilization
+wound care	includes	cleaning and dressing wounds
+wound care	important for	preventing infection
+trauma	can cause	the need for traction
+trauma	can lead to	the need for splints
+wound infection	can lead to	the need for wound care
+immobilization	necessary for	bone healing
+infection	can delay	wound healing
+immobility	can lead to	the need for traction
+immobility	can necessitate	the use of splints
+wound dressing	important for	preventing contamination
+infection	can result in	the need for wound care
+bone fracture	often requires	traction
+bone fracture	may require	splints
+wound healing	can be expedited with	appropriate wound care
+musculoskeletal injuries	often require	immobilization
+infection	can complicate	wound care
+bone healing	requires	immobilization
+wound care	crucial for	promoting healing
+splints	helpful in	supporting injured limbs
+wound cleaning	part of	wound care
+wound dressing	necessary for	protecting wounds
+trauma	can necessitate	traction
+trauma	can result in	the need for splints
+wound infection	can prolong	the need for wound care
+immobilization	important for	preventing further injury
+infection	can hinder	wound healing
+immobility	can lead to	a need for traction
+immobility	can require	splints
+wound dressing	essential for	keeping wounds clean
+infection	can delay	the healing process
+bone fracture	may necessitate	traction
+bone fracture	often treated with	splints
+wound healing	facilitated by	appropriate wound care
+musculoskeletal injuries	commonly managed with	immobilization
+infection	can affect	wound care
+bone healing	facilitated by	immobilization
+wound care	important for	preventing complications
+splints	effective in	stabilizing fractures
+wound cleaning	crucial for	preventing infection
+wound dressing	vital for	maintaining wound integrity
+trauma	can result in	the need for traction
+trauma	can lead to	the use of splints
+wound infection	can necessitate	wound care
+immobilization	necessary for	bone fracture management
+infection	can impede	wound healing
+immobility	can require	the application of traction
+immobility	often necessitates	the use of splints
+wound dressing	key in	wound management
+infection	can hinder	the healing process
+bone fracture	may require	the use of traction
+bone fracture	commonly treated with	splints
+wound healing	dependent on	appropriate wound care
+musculoskeletal injuries	often warrant	immobilization
+infection	can impact	wound care
+bone healing	expedited by	immobilization
+wound care	essential for	preventing complications
+splints	useful for	stabilizing fractures
+wound cleaning	essential for	preventing infection
+wound dressing	necessary for	wound protection
+trauma	can necessitate	the use of traction
+trauma	can result in	the need for splints
+wound infection	can necessitate	wound care
+immobilization	crucial for	bone fracture management
+infection	can impede	wound healing
+immobility	can require	traction
+immobility	can necessitate	splints
+wound dressing	important for	preventing contamination
+infection	can delay	the healing process
+bone fracture	may necessitate	traction
+bone fracture	often treated with	splints
+wound healing	facilitated by	appropriate wound care
+musculoskeletal injuries	commonly managed with	immobilization
+infection	can affect	wound care
+bone healing	facilitated by	immobilization
+wound care	important for	preventing complications
+splints	effective in	stabilizing fractures
+wound cleaning	crucial for	preventing infection
+wound dressing	vital for	maintaining wound integrity
+trauma	can result in	the need for traction
+trauma	can lead to	the use of splints
+wound infection	can necessitate	wound care
+immobilization	necessary for	bone fracture management
+infection	can impede	wound healing
+immobility	can require	the application of traction
+immobility	often necessitates	the use of splints
+wound dressing	key in	wound management
+infection	can hinder	the healing process
+bone fracture	may require	the use of traction
+bone fracture	commonly treated with	splints
+wound healing	dependent on	appropriate wound care
+musculoskeletal injuries	often warrant	immobilization
+infection	can impact	wound care
+bone healing	expedited by	immobilization
+wound care	essential for	preventing complications
+splints	useful for	stabilizing fractures
+wound cleaning	essential for	preventing infection
+wound dressing	necessary for	wound protection

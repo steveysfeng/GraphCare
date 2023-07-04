@@ -1,0 +1,100 @@
+swan-ganz catheterization	is a	medical procedure
+swan-ganz catheterization	used for	monitoring
+swan-ganz catheter	is used in	swan-ganz catheterization
+swan-ganz catheter	measures	cardiac output
+swan-ganz catheter	measures	pulmonary artery pressure
+swan-ganz catheter	measures	right ventricular pressure
+swan-ganz catheter	measures	pulmonary capillary wedge pressure
+swan-ganz catheter	measures	central venous pressure
+swan-ganz catheterization	involves inserting	a catheter
+swan-ganz catheter	is inserted into	a major vein
+swan-ganz catheter	is advanced	into the right side of the heart
+swan-ganz catheter	provides	continuous monitoring
+swan-ganz catheterization	helps in	assessing cardiac function
+swan-ganz catheterization	can aid in	diagnosing heart conditions
+swan-ganz catheterization	may lead to	complications
+complications of swan-ganz catheterization	include	infection
+complications of swan-ganz catheterization	include	bleeding
+complications of swan-ganz catheterization	include	arrhythmia
+complications of swan-ganz catheterization	include	pulmonary artery rupture
+complications of swan-ganz catheterization	include	thrombosis
+complications of swan-ganz catheterization	include	pneumothorax
+swan-ganz catheterization	is typically performed in	the intensive care unit
+swan-ganz catheterization	requires	sterile technique
+swan-ganz catheterization	requires	monitoring of vital signs
+swan-ganz catheterization	helps in	guiding fluid resuscitation
+swan-ganz catheterization	assists in	managing hemodynamic instability
+swan-ganz catheterization	may be used in	post-operative monitoring
+swan-ganz catheterization	can help in	titrating medications
+swan-ganz catheter	provides	real-time data
+swan-ganz catheter	assists in	optimizing fluid balance
+swan-ganz catheterization	aids in	evaluating response to therapies
+swan-ganz catheterization	allows for	direct measurement of pressures
+swan-ganz catheterization	can monitor	response to vasoactive medications
+swan-ganz catheterization	is performed by	trained healthcare professionals
+swan-ganz catheterization	is considered	an invasive procedure
+swan-ganz catheterization	helps in	tailoring treatment plans
+swan-ganz catheterization	is used in	critical care settings
+swan-ganz catheterization	assists in	optimizing oxygenation
+swan-ganz catheterization	provides	continuous hemodynamic monitoring
+swan-ganz catheterization	offers	valuable clinical information
+swan-ganz catheterization	has	associated risks
+swan-ganz catheter	can be	single-use
+swan-ganz catheterization	is performed using	fluoroscopic guidance
+swan-ganz catheterization	enables	assessment of cardiac output
+swan-ganz catheterization	allows for	assessment of vascular resistance
+swan-ganz catheterization	is beneficial in	septic shock management
+swan-ganz catheterization	provides	accurate measurement of pressures
+swan-ganz catheterization	helps in	fluid management
+swan-ganz catheterization	aids in	diagnosing pulmonary hypertension
+swan-ganz catheterization	is associated with	infection risk
+swan-ganz catheterization	allows for	rapid response to hemodynamic changes
+swan-ganz catheter	can be used for	fluid administration
+swan-ganz catheter	can be used for	medication administration
+swan-ganz catheter	allows for	assessment of preload
+swan-ganz catheter	allows for	assessment of afterload
+swan-ganz catheter	allows for	assessment of contractility
+swan-ganz catheter	allows for	assessment of oxygen delivery
+swan-ganz catheter	allows for	assessment of oxygen consumption
+swan-ganz catheterization	assists in	guiding management of heart failure
+swan-ganz catheterization	supports	decision-making in critically ill patients
+swan-ganz catheterization	plays	a crucial role in hemodynamic monitoring
+swan-ganz catheterization	facilitates	individualized patient care
+swan-ganz catheter	provides	valuable diagnostic information
+swan-ganz catheter	helps in	assessing fluid responsiveness
+swan-ganz catheter	helps in	guiding vasopressor use
+swan-ganz catheter	helps in	guiding fluid removal
+swan-ganz catheter	helps in	guiding pulmonary artery catheter removal
+swan-ganz catheter	aids in	optimizing organ perfusion
+swan-ganz catheter	assists in	evaluating response to diuretics
+swan-ganz catheter	assists in	guiding mechanical ventilation
+swan-ganz catheter	provides	accurate assessment of left ventricular function
+swan-ganz catheter	provides	continuous monitoring of cardiac output
+swan-ganz catheter	provides	assessment of right ventricular function
+swan-ganz catheter	provides	assessment of pulmonary circulation
+swan-ganz catheter	aids in	determining need for inotropic support
+swan-ganz catheter	aids in	assessing fluid balance
+swan-ganz catheter	aids in	titrating oxygen therapy
+swan-ganz catheter	helps in	managing septic shock
+swan-ganz catheter	helps in	assessing response to fluids
+swan-ganz catheter	helps in	evaluating organ perfusion
+swan-ganz catheter	helps in	guiding administration of inotropes
+swan-ganz catheter	helps in	guiding administration of vasopressors
+swan-ganz catheter	aids in	assessing tissue oxygenation
+swan-ganz catheter	aids in	guiding treatment of shock
+swan-ganz catheter	aids in	assessing response to mechanical ventilation
+swan-ganz catheter	aids in	managing pulmonary edema
+swan-ganz catheter	aids in	determining need for vasoactive medications
+swan-ganz catheter	assists in	managing acute respiratory distress syndrome
+swan-ganz catheter	assists in	diagnosing cardiac tamponade
+swan-ganz catheter	assists in	diagnosing constrictive pericarditis
+swan-ganz catheter	allows for	optimization of cardiovascular function
+swan-ganz catheter	allows for	assessment of tissue perfusion
+swan-ganz catheter	allows for	monitoring of fluid status
+swan-ganz catheter	helps in	guiding interventions for hypotension
+swan-ganz catheterization	assists in	tailoring treatment for heart failure
+swan-ganz catheter	helps in	optimizing preload
+swan-ganz catheter	helps in	optimizing afterload
+swan-ganz catheter	helps in	optimizing contractility
+swan-ganz catheter	helps in	optimizing oxygen delivery
+swan-ganz catheter	helps in	optimizing oxygen consumption

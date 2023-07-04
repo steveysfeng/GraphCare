@@ -1,0 +1,207 @@
+electrocardiogram	is a	medical test
+electrocardiogram	used for	diagnosing heart conditions
+electrocardiogram	measures	electrical activity of the heart
+electrocardiogram	can detect	abnormal heart rhythms
+electrocardiogram	helps in	assessing heart function
+electrocardiogram	used in	monitoring patients with heart disease
+electrocardiogram	aids in	determining the effectiveness of heart medications
+electrocardiogram	assists in	evaluating the risk of heart attack
+electrocardiogram	useful for	evaluating chest pain
+electrocardiogram	often done to	evaluate symptoms of dizziness or fainting
+electrocardiogram	helps in	guiding the placement of cardiac devices
+electrocardiogram	used to	assess the effects of electrolyte imbalances
+electrocardiogram	important tool for	evaluating athletes for heart conditions
+electrocardiogram	can indicate	heart muscle damage
+electrocardiogram	helps in	diagnosing cardiac arrhythmias
+electrocardiogram	assists in	evaluating the effectiveness of heart surgeries
+electrocardiogram	used in	preoperative evaluation
+electrocardiogram	useful for	determining the cause of chest discomfort
+electrocardiogram	can reveal	evidence of previous heart attacks
+electrocardiogram	aids in	detecting the presence of conduction abnormalities
+electrocardiogram	helpful in	identifying heart rhythm disturbances
+electrocardiogram	can show	signs of decreased blood flow to the heart
+electrocardiogram	used to	evaluate the response to cardiac resuscitation
+electrocardiogram	helps in	assessing the risk of sudden cardiac death
+electrocardiogram	used for	monitoring the effects of heart medications
+electrocardiogram	can detect	coronary artery disease
+electrocardiogram	important in	evaluating syncope
+electrocardiogram	aids in	assessing the presence of a heart attack
+electrocardiogram	used in	evaluating the impact of heart disease on the body
+electrocardiogram	helpful in	diagnosing heart valve abnormalities
+electrocardiogram	can indicate	heart chamber enlargement
+electrocardiogram	useful for	assessing heart rate and rhythm
+electrocardiogram	helps in	guiding treatment decisions for heart conditions
+electrocardiogram	used in	identifying blockages in the heart's electrical system
+electrocardiogram	can detect	abnormalities in the heart's conduction system
+electrocardiogram	important for	monitoring patients during heart procedures
+electrocardiogram	aids in	evaluating the effects of heart failure
+electrocardiogram	used to	assess the risk of stroke
+electrocardiogram	helps in	evaluating the impact of medications on the heart
+electrocardiogram	assists in	determining the need for cardiac catheterization
+electrocardiogram	used in	diagnosing pericarditis
+electrocardiogram	useful for	evaluating heart conditions in pregnant women
+electrocardiogram	can indicate	a heart block
+electrocardiogram	helps in	diagnosing Wolf-Parkinson-White syndrome
+electrocardiogram	used for	evaluating the effects of stress on the heart
+electrocardiogram	useful for	assessing the risk of arrhythmias in surgery
+electrocardiogram	can detect	abnormalities in the heart's electrical pathways
+electrocardiogram	assists in	determining the need for cardioversion
+electrocardiogram	helps in	evaluating the impact of hypertension on the heart
+electrocardiogram	used to	monitor the effects of heart rhythm medications
+electrocardiogram	useful for	assessing the risk of heart disease in diabetes
+electrocardiogram	can show	evidence of drug-induced heart rhythm abnormalities
+electrocardiogram	aids in	diagnosing Brugada syndrome
+electrocardiogram	used for	evaluating the effects of chronic lung disease on the heart
+electrocardiogram	helpful in	diagnosing heart rhythm disorders in infants
+electrocardiogram	can indicate	evidence of electrolyte imbalances
+electrocardiogram	assists in	assessing the risk of sudden cardiac arrest
+electrocardiogram	used in	evaluating heart conditions in elderly patients
+electrocardiogram	useful for	monitoring the effects of exercise on the heart
+electrocardiogram	helps in	diagnosing heart rhythm disorders in children
+electrocardiogram	aids in	evaluating the effects of heart transplant on heart function
+electrocardiogram	used for	assessing the risk of heart complications in surgery
+electrocardiogram	can detect	evidence of myocarditis
+electrocardiogram	assists in	determining the need for pacemaker implantation
+electrocardiogram	helpful in	diagnosing long Q-T syndrome
+electrocardiogram	used in	evaluating the effects of sleep disorders on the heart
+electrocardiogram	useful for	monitoring the effects of heart arrhythmia medications
+electrocardiogram	helps in	assessing the risk of ventricular fibrillation
+electrocardiogram	used to	evaluate the effects of heart valve disease
+electrocardiogram	can detect	abnormalities in the heart's electrical impulses
+electrocardiogram	important for	evaluating the effects of stress on the heart
+electrocardiogram	aids in	diagnosing heart ischemia
+electrocardiogram	used for	evaluating the effects of obesity on heart function
+electrocardiogram	useful for	monitoring the effects of heart rhythm disturbances
+electrocardiogram	helps in	assessing the risk of atrial fibrillation
+electrocardiogram	used in	diagnosing atrial flutter
+electrocardiogram	can indicate	evidence of structural heart disease
+electrocardiogram	assists in	determining the need for ablation therapy
+electrocardiogram	helps in	evaluating the effects of alcohol on the heart
+electrocardiogram	used to	assess the risk of myocardial infarction
+electrocardiogram	useful for	monitoring the effects of heart transplant on heart rhythm
+electrocardiogram	can detect	evidence of drug toxicity on the heart
+electrocardiogram	aids in	diagnosing ischemic heart disease
+electrocardiogram	used for	evaluating the effects of chemotherapy on the heart
+electrocardiogram	helpful in	determining the need for heart surgery
+electrocardiogram	can indicate	evidence of heart valve stenosis
+electrocardiogram	helps in	assessing the risk of heart conduction abnormalities
+electrocardiogram	used in	diagnosing ventricular tachycardia
+electrocardiogram	useful for	monitoring the effects of heart medications on heart rate
+electrocardiogram	assists in	evaluating the effects of thyroid disorders on the heart
+electrocardiogram	helps in	assessing the risk of ventricular ectopy
+electrocardiogram	used to	evaluate the effects of heart valve regurgitation
+electrocardiogram	can detect	evidence of stress-induced heart dysfunction
+electrocardiogram	important for	diagnosing tachycardia
+electrocardiogram	aids in	assessing the risk of angina
+electrocardiogram	used for	evaluating the effects of heart disease on exercise capacity
+electrocardiogram	useful for	monitoring the effects of heart medications on Q-T interval
+electrocardiogram	can indicate	evidence of bundle branch block
+electrocardiogram	helps in	diagnosing pericardial effusion
+electrocardiogram	assists in	evaluating the effects of anemia on the heart
+electrocardiogram	used to	assess the risk of heart failure exacerbation
+electrocardiogram	useful for	monitoring the effects of antiarrhythmic medications
+electrocardiogram	helps in	assessing the risk of torsades de pointes
+electrocardiogram	used in	diagnosing atrioventricular block
+electrocardiogram	can detect	evidence of digitalis toxicity
+electrocardiogram	important for	evaluating the effects of pulmonary embolism on the heart
+electrocardiogram	aids in	diagnosing hypertrophic cardiomyopathy
+electrocardiogram	used for	evaluating the impact of sleep apnea on the heart
+electrocardiogram	helpful in	determining the need for heart valve repair
+electrocardiogram	can indicate	evidence of atrial enlargement
+electrocardiogram	helps in	assessing the risk of arrhythmias in pregnancy
+electrocardiogram	used to	evaluate the effects of heart defects on heart function
+electrocardiogram	useful for	monitoring the effects of heart surgery on heart rate
+electrocardiogram	assists in	evaluating the effects of electrolyte imbalances on heart rhythm
+electrocardiogram	helps in	assessing the risk of ventricular tachycardia
+electrocardiogram	used in	diagnosing left ventricular hypertrophy
+electrocardiogram	useful for	monitoring the effects of heart medications on heart rhythm
+electrocardiogram	can detect	evidence of myocardial infarction in progress
+electrocardiogram	aids in	diagnosing arrhythmogenic right ventricular cardiomyopathy
+electrocardiogram	used for	evaluating the impact of sleep disorders on heart rate
+electrocardiogram	helpful in	determining the need for heart transplant
+electrocardiogram	can indicate	evidence of myocardial ischemia
+electrocardiogram	helps in	assessing the risk of supraventricular tachycardia
+electrocardiogram	used to	assess the effects of heart valve repair on heart rhythm
+electrocardiogram	useful for	monitoring the effects of heart medications on T-wave abnormalities
+electrocardiogram	assists in	evaluating the effects of hyperkalemia on heart function
+electrocardiogram	helps in	assessing the risk of atrioventricular nodal reentrant tachycardia
+electrocardiogram	used in	diagnosing ventricular fibrillation
+electrocardiogram	can detect	evidence of medication-induced heart conduction abnormalities
+electrocardiogram	important for	evaluating the effects of heart trauma on heart function
+electrocardiogram	aids in	diagnosing dilated cardiomyopathy
+electrocardiogram	used for	evaluating the impact of obesity on heart rhythm
+electrocardiogram	helpful in	determining the need for cardiac ablation
+electrocardiogram	can indicate	evidence of ventricular hypertrophy
+electrocardiogram	helps in	assessing the risk of heart valve dysfunction
+electrocardiogram	used to	monitor the effects of heart transplantation on heart rhythm
+electrocardiogram	useful for	assessing the risk of heart complications in diabetes
+electrocardiogram	assists in	evaluating the effects of hypokalemia on heart function
+electrocardiogram	helps in	diagnosing ventricular tachycardia in infants
+electrocardiogram	used in	diagnosing atrial septal defect
+electrocardiogram	can detect	evidence of cocaine-induced heart abnormalities
+electrocardiogram	aids in	diagnosing arrhythmia secondary to coronary artery disease
+electrocardiogram	used for	evaluating the impact of lung disease on the heart
+electrocardiogram	helpful in	determining the need for heart valve replacement
+electrocardiogram	can indicate	evidence of sinus node dysfunction
+electrocardiogram	assists in	assessing the risk of premature ventricular contractions
+electrocardiogram	helps in	diagnosing left bundle branch block
+electrocardiogram	used to	evaluate the effects of heart surgery on heart rate variability
+electrocardiogram	useful for	monitoring the effects of heart rhythm disturbances during pregnancy
+electrocardiogram	aids in	evaluating the effects of hyperthyroidism on the heart
+electrocardiogram	used in	diagnosing atrial fibrillation
+electrocardiogram	can detect	evidence of myocardial infarction in the past
+electrocardiogram	important for	diagnosing ventricular fibrillation
+electrocardiogram	helps in	assessing the risk of heart conduction block
+electrocardiogram	used for	evaluating the effects of heart disease on exercise capacity
+electrocardiogram	useful for	monitoring the effects of heart medications on PR interval
+electrocardiogram	assists in	evaluating the effects of hypercalcemia on heart function
+electrocardiogram	helps in	assessing the risk of atrial flutter
+electrocardiogram	used to	assess the effects of heart valve regurgitation on heart rhythm
+electrocardiogram	can detect	evidence of stress-induced heart conduction abnormalities
+electrocardiogram	important for	diagnosing ventricular tachycardia
+electrocardiogram	aids in	assessing the risk of angina pectoris
+electrocardiogram	used for	evaluating the effects of heart disease on heart rhythm
+electrocardiogram	helpful in	determining the need for heart transplant
+electrocardiogram	can indicate	evidence of heart valve stenosis
+electrocardiogram	helps in	assessing the risk of heart conduction abnormalities
+electrocardiogram	used in	diagnosing ventricular tachycardia
+electrocardiogram	useful for	monitoring the effects of heart medications on heart rate
+electrocardiogram	assists in	evaluating the effects of thyroid disorders on the heart
+electrocardiogram	helps in	assessing the risk of ventricular ectopy
+electrocardiogram	used to	evaluate the effects of heart valve regurgitation
+electrocardiogram	can detect	evidence of stress-induced heart dysfunction
+electrocardiogram	important for	diagnosing tachycardia
+electrocardiogram	aids in	assessing the risk of angina
+electrocardiogram	used for	evaluating the effects of heart disease on exercise capacity
+electrocardiogram	useful for	monitoring the effects of heart medications on Q-T interval
+electrocardiogram	assists in	evaluating the effects of hyperkalemia on heart function
+electrocardiogram	helps in	assessing the risk of atrioventricular nodal reentrant tachycardia
+electrocardiogram	used in	diagnosing ventricular fibrillation
+electrocardiogram	can detect	evidence of medication-induced heart conduction abnormalities
+electrocardiogram	important for	evaluating the effects of heart trauma on heart function
+electrocardiogram	aids in	diagnosing dilated cardiomyopathy
+electrocardiogram	used for	evaluating the impact of obesity on heart rhythm
+electrocardiogram	helpful in	determining the need for cardiac ablation
+electrocardiogram	can indicate	evidence of ventricular hypertrophy
+electrocardiogram	helps in	assessing the risk of heart valve dysfunction
+electrocardiogram	used to	monitor the effects of heart transplantation on heart rhythm
+electrocardiogram	useful for	assessing the risk of heart complications in diabetes
+electrocardiogram	assists in	evaluating the effects of hypokalemia on heart function
+electrocardiogram	helps in	diagnosing ventricular tachycardia in infants
+electrocardiogram	used in	diagnosing atrial septal defect
+electrocardiogram	can detect	evidence of cocaine-induced heart abnormalities
+electrocardiogram	aids in	diagnosing arrhythmia secondary to coronary artery disease
+electrocardiogram	used for	evaluating the impact of lung disease on the heart
+electrocardiogram	helpful in	determining the need for heart valve replacement
+electrocardiogram	can indicate	evidence of sinus node dysfunction
+electrocardiogram	assists in	assessing the risk of premature ventricular contractions
+electrocardiogram	helps in	diagnosing left bundle branch block
+electrocardiogram	used to	evaluate the effects of heart surgery on heart rate variability
+electrocardiogram	useful for	monitoring the effects of heart rhythm disturbances during pregnancy
+electrocardiogram	aids in	evaluating the effects of hyperthyroidism on the heart
+electrocardiogram	used in	diagnosing atrial fibrillation
+electrocardiogram	can detect	evidence of myocardial infarction in the past
+electrocardiogram	important for	diagnosing ventricular fibrillation
+electrocardiogram	helps in	assessing the risk of heart conduction block
+electrocardiogram	used for	evaluating the effects of heart disease on exercise capacity
+electrocardiogram	useful for	monitoring the effects of heart medications on PR interval

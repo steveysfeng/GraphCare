@@ -1,0 +1,95 @@
+nonoperative removal of foreign body	is a	medical procedure
+nonoperative removal of foreign body	used for	foreign body extraction
+magnet	is a tool for	nonoperative removal of foreign body
+magnet	attracts	metallic objects
+magnet	useful in	nonoperative removal of foreign body
+endoscope	can be used for	nonoperative removal of foreign body
+endoscope	inserted through	natural orifice
+endoscope	allows for	visualization
+endoscope	useful in	nonoperative removal of foreign body
+forceps	can be used for	nonoperative removal of foreign body
+forceps	used to	grasp and remove foreign body
+forceps	useful in	nonoperative removal of foreign body
+nonoperative removal of foreign body	can be performed in	emergency department
+nonoperative removal of foreign body	can be performed under	local anesthesia
+nonoperative removal of foreign body	can be performed by	trained healthcare professionals
+nonoperative removal of foreign body	can prevent	complications
+nonoperative removal of foreign body	can cause	minimal trauma
+nonoperative removal of foreign body	can be followed by	imaging to ensure complete removal
+nonoperative removal of foreign body	may require	follow-up care
+nonoperative removal of foreign body	may result in	patient satisfaction
+nonoperative removal of foreign body	can be done with	minimal scarring
+nonoperative removal of foreign body	can be done with	minimal downtime
+endotracheal intubation	can be performed prior to	nonoperative removal of foreign body
+endotracheal intubation	facilitates	airway management
+endotracheal intubation	prevents	aspiration during procedure
+endotracheal intubation	useful in	nonoperative removal of foreign body
+nonoperative removal of foreign body	can be performed in	outpatient setting
+nonoperative removal of foreign body	can be performed in	inpatient setting
+nonoperative removal of foreign body	can be performed using	general anesthesia
+nonoperative removal of foreign body	can require	regional or general anesthesia
+nonoperative removal of foreign body	can be done using	endoscopic guidance
+nonoperative removal of foreign body	can be done using	fluoroscopic guidance
+nonoperative removal of foreign body	can be done using	ultrasound guidance
+nonoperative removal of foreign body	can be done using	bronchoscopic guidance
+nonoperative removal of foreign body	can be done using	gastrointestinal endoscopy guidance
+nonoperative removal of foreign body	can be done using	interventional radiology guidance
+nonoperative removal of foreign body	is contraindicated in	presence of sharp objects
+nonoperative removal of foreign body	is contraindicated in	presence of large objects
+nonoperative removal of foreign body	is contraindicated in	presence of impacted objects
+nonoperative removal of foreign body	is contraindicated in	presence of caustic or toxic objects
+nonoperative removal of foreign body	is contraindicated in	presence of esophageal strictures
+nonoperative removal of foreign body	is contraindicated in	presence of unstable patients
+nonoperative removal of foreign body	is contraindicated in	presence of uncooperative patients
+nonoperative removal of foreign body	is contraindicated in	presence of severe respiratory distress
+nonoperative removal of foreign body	is contraindicated in	presence of significant bleeding
+nonoperative removal of foreign body	is contraindicated in	presence of esophageal perforation
+nonoperative removal of foreign body	is contraindicated in	presence of tracheal injury
+nonoperative removal of foreign body	is contraindicated in	presence of known or suspected malignancy
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the eye
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the ear
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the nose
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the vagina
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the rectum
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the urethra
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the genital tract
+nonoperative removal of foreign body	is contraindicated in	presence of perforation or obstruction in the gastrointestinal tract
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the airway
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the bronchus
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the trachea
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the larynx
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the pharynx
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the esophagus
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the stomach
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the small intestine
+nonoperative removal of foreign body	is contraindicated in	presence of foreign body in the large intestine
+foreign body	can cause	local tissue damage
+foreign body	can cause	infection
+foreign body	can cause	bleeding
+foreign body	can cause	obstruction
+foreign body	can cause	perforation
+foreign body	can cause	pain
+foreign body	can cause	inflammation
+foreign body	can cause	allergic reactions
+foreign body	can cause	scarring
+foreign body	can cause	granulation tissue formation
+foreign body	can cause	abscess formation
+foreign body	can cause	fistula formation
+foreign body	can cause	foreign body reaction
+foreign body	can cause	foreign body giant cell reaction
+foreign body	can cause	cyst formation
+foreign body	can cause	adhesion formation
+foreign body	can cause	ulceration
+foreign body	can cause	erosion
+foreign body	can cause	necrosis
+foreign body	can cause	gangrene
+foreign body	can cause	sepsis
+foreign body	can cause	toxic shock syndrome
+foreign body	can cause	organ damage
+foreign body	can cause	organ perforation
+foreign body	can cause	systemic infection
+foreign body	can cause	systemic inflammatory response
+foreign body	can cause	septicemia
+foreign body	can cause	septic shock
+foreign body	can cause	multiple organ failure
+foreign body	can cause	death

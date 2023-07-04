@@ -1,0 +1,123 @@
+nuclear medicine imaging	is a	medical procedure
+nuclear medicine imaging	used for	diagnosis
+nuclear medicine imaging	can detect	pulmonary diseases
+nuclear medicine imaging	involves	radioactive substances
+radioactive substances	emit	gamma rays
+gamma rays	can be detected by	gamma cameras
+gamma cameras	are used in	nuclear medicine imaging
+nuclear medicine imaging	can help in	staging pulmonary diseases
+nuclear medicine imaging	can guide	treatment planning
+nuclear medicine imaging	is non-invasive
+nuclear medicine imaging	requires	specialized equipment
+specialized equipment	includes	gamma cameras
+gamma cameras	detect	radiation
+nuclear medicine imaging	is commonly used for	lung cancer diagnosis
+nuclear medicine imaging	can assess	lung function
+lung function	is important for	treatment decisions
+nuclear medicine imaging	can evaluate	pulmonary embolism
+pulmonary embolism	is a	potentially life-threatening condition
+nuclear medicine imaging	can identify	areas of reduced blood flow
+areas of reduced blood flow	may indicate	pulmonary embolism
+nuclear medicine imaging	can monitor	treatment response
+nuclear medicine imaging	can assess	lung ventilation
+lung ventilation	is important for	respiratory function
+nuclear medicine imaging	can detect	lung infections
+nuclear medicine imaging	can localize	abnormal lung findings
+abnormal lung findings	may suggest	lung pathology
+nuclear medicine imaging	can guide	lung biopsies
+nuclear medicine imaging	can evaluate	lung transplant viability
+lung transplant viability	is crucial for	transplant success
+nuclear medicine imaging	can help in	assessing lung diseases
+nuclear medicine imaging	can identify	pulmonary nodules
+pulmonary nodules	can be	benign or malignant
+nuclear medicine imaging	can aid in	cancer staging
+nuclear medicine imaging	can monitor	tumor response to therapy
+nuclear medicine imaging	can assess	lung perfusion
+lung perfusion	is important for	oxygenation
+nuclear medicine imaging	can detect	lung metastases
+lung metastases	indicate	cancer spread
+nuclear medicine imaging	can guide	pulmonary interventions
+pulmonary interventions	include	drainage procedures
+nuclear medicine imaging	can evaluate	lung inflammation
+nuclear medicine imaging	can assist	in lung disease monitoring
+nuclear medicine imaging	can detect	pulmonary fibrosis
+pulmonary fibrosis	is a	progressive lung disease
+nuclear medicine imaging	can help in	personalized medicine
+nuclear medicine imaging	can guide	targeted therapies
+nuclear medicine imaging	can detect	lung abnormalities
+lung abnormalities	may be	congenital or acquired
+nuclear medicine imaging	can aid in	risk stratification
+nuclear medicine imaging	can assess	lung blood flow
+lung blood flow	is important for	gas exchange
+nuclear medicine imaging	can detect	aspiration
+aspiration	can lead to	lung complications
+nuclear medicine imaging	can aid in	infection diagnosis
+nuclear medicine imaging	can identify	lung scarring
+lung scarring	may result from	chronic inflammation
+nuclear medicine imaging	can help in	therapeutic planning
+nuclear medicine imaging	can detect	lung abscesses
+lung abscesses	are	localized infections
+nuclear medicine imaging	can assess	lung function in pulmonary hypertension
+nuclear medicine imaging	can detect	lung tumors
+lung tumors	can be	primary or metastatic
+nuclear medicine imaging	can aid in	pulmonary embolism diagnosis
+nuclear medicine imaging	can detect	lung inflammation in autoimmune diseases
+nuclear medicine imaging	can evaluate	lung ventilation in asthma
+nuclear medicine imaging	can assess	lung function in chronic obstructive pulmonary disease (COPD)
+nuclear medicine imaging	can detect	lung infections in immunocompromised patients
+immunocompromised patients	are at increased risk for	lung infections
+nuclear medicine imaging	can aid in	monitoring response to immunotherapy
+nuclear medicine imaging	can guide	pulmonary artery catheter placement
+pulmonary artery catheter placement	is used for	hemodynamic monitoring
+nuclear medicine imaging	can detect	lung edema
+lung edema	is a	sign of heart failure
+nuclear medicine imaging	can help in	evaluating lung damage
+nuclear medicine imaging	can assess	lung function in interstitial lung diseases
+nuclear medicine imaging	can detect	lung metastases in patients with cancer
+patients with cancer	often require	lung metastasis surveillance
+nuclear medicine imaging	can aid in	target volume delineation for radiation therapy
+target volume delineation for radiation therapy	is crucial for	treatment accuracy
+nuclear medicine imaging	can evaluate	lung function in cystic fibrosis
+nuclear medicine imaging	can assess	lung perfusion in pulmonary hypertension
+nuclear medicine imaging	can guide	lung resection surgeries
+lung resection surgeries	are done for	lung cancer treatment
+nuclear medicine imaging	can detect	lung involvement in systemic diseases
+systemic diseases	can affect	multiple organs
+nuclear medicine imaging	can aid in	coronary artery disease evaluation
+nuclear medicine imaging	can assess	lung function in lung transplantation
+nuclear medicine imaging	can guide	lung drainage procedures
+lung drainage procedures	are used for	pleural effusion management
+nuclear medicine imaging	can detect	lung fibrosis in connective tissue disorders
+nuclear medicine imaging	can evaluate	lung perfusion in pulmonary embolism
+nuclear medicine imaging	can identify	lung inflammation in sarcoidosis
+sarcoidosis	is a	chronic granulomatous disease
+nuclear medicine imaging	can help in	infection localization
+nuclear medicine imaging	can detect	lung airway abnormalities
+lung airway abnormalities	can contribute to	respiratory symptoms
+nuclear medicine imaging	can aid in	pulmonary hypertension diagnosis
+nuclear medicine imaging	can assess	lung function in idiopathic pulmonary fibrosis
+nuclear medicine imaging	can guide	lung tumor biopsies
+nuclear medicine imaging	can detect	lung involvement in vasculitis
+vasculitis	can affect	blood vessels in the lungs
+nuclear medicine imaging	can help in	lung disorder prognosis
+nuclear medicine imaging	can evaluate	lung perfusion in chronic thromboembolic pulmonary hypertension
+nuclear medicine imaging	can aid in	diagnosing lung graft rejection
+nuclear medicine imaging	can guide	lung stent placement
+lung stent placement	is used for	airway obstruction management
+nuclear medicine imaging	can detect	lung involvement in rheumatoid arthritis
+rheumatoid arthritis	can lead to	lung complications
+nuclear medicine imaging	can help in	lung disease classification
+nuclear medicine imaging	can evaluate	lung perfusion in pulmonary vascular disorders
+nuclear medicine imaging	can guide	lung ablation therapies
+nuclear medicine imaging	can detect	lung involvement in granulomatosis with polyangiitis
+granulomatosis with polyangiitis	can cause	lung vasculitis
+nuclear medicine imaging	can aid in	differentiating lung lesions
+nuclear medicine imaging	can assess	lung function in interstitial lung diseases
+nuclear medicine imaging	can detect	lung involvement in systemic lupus erythematosus
+systemic lupus erythematosus	can affect	multiple organs including the lungs
+nuclear medicine imaging	can help in	assessing lung response to treatment
+nuclear medicine imaging	can evaluate	lung perfusion in chronic obstructive pulmonary disease (COPD)
+nuclear medicine imaging	can guide	lung nodule localization for biopsy
+nuclear medicine imaging	can detect	lung involvement in autoimmune hepatitis
+autoimmune hepatitis	can cause	hepatopulmonary syndrome
+nuclear medicine imaging	can aid in	lung disease monitoring and follow-up

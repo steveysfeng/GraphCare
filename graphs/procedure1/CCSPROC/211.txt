@@ -1,0 +1,80 @@
+radiation therapy	is a	cancer treatment
+radiation therapy	uses	high-energy radiation
+radiation therapy	damages	DNA of cancer cells
+radiation therapy	can shrink	tumors
+radiation therapy	can be used	before or after surgery
+radiation therapy	can cause	side effects
+radiation therapy	requires	precise planning
+radiation therapy	may require	multiple sessions
+radiation therapy	can be delivered	externally or internally
+radiation therapy	can be targeted	to specific areas
+radiation therapy	may be combined	with chemotherapy
+radiation therapy	can be used	to relieve symptoms
+radiation therapy	helps	control cancer growth
+radiation therapy	is not	suitable for all cancers
+radiation therapy	has	long-term effects
+radiation therapy	is usually	done in a hospital or clinic
+radiation therapy	is performed	by radiation oncologists
+radiation therapy	requires	regular follow-up
+radiation therapy	can be	curative
+radiation therapy	has	varying success rates
+radiation therapy	can cause	tissue damage
+radiation therapy	may increase	risk of other cancers
+radiation therapy	can be	targeted to avoid healthy tissue
+radiation therapy	can be	palliative
+radiation therapy	can be	used for localized or advanced cancers
+radiation therapy	can be	used along with immunotherapy
+radiation therapy	can be	used in combination with surgery
+radiation therapy	can be	used in pediatric patients
+radiation therapy	is	non-invasive
+radiation therapy	is	effective for certain types of cancer
+radiation therapy	requires	careful monitoring
+radiation therapy	can cause	fatigue
+radiation therapy	can cause	hair loss
+radiation therapy	can affect	fertility
+radiation therapy	can damage	healthy cells
+radiation therapy	may limit	future treatment options
+radiation therapy	can be	an outpatient procedure
+radiation therapy	may be	recommended as the primary treatment
+radiation therapy	may be	used as a secondary treatment
+radiation therapy	can	improve survival rate
+radiation therapy	can	provide pain relief
+radiation therapy	has	different types
+radiation therapy	can be	time-consuming
+radiation therapy	can	affect the immune system
+radiation therapy	can be	administered with different techniques
+radiation therapy	can be	given in high doses
+radiation therapy	can be	delivered with precision
+radiation therapy	can be	used in combination with targeted therapy
+radiation therapy	can be	used to treat metastatic cancer
+radiation therapy	can be	used in elderly patients
+radiation therapy	may require	immobilization devices
+radiation therapy	can have	long-lasting effects
+radiation therapy	can be	used for early-stage cancer
+radiation therapy	can be	used for recurrent cancer
+radiation therapy	can be	used for inoperable tumors
+radiation therapy	can be	used after surgery to kill remaining cancer cells
+radiation therapy	can be	used to treat side effects of cancer
+radiation therapy	can be	used to treat brain tumors
+radiation therapy	can be	used to treat lung cancer
+radiation therapy	can be	used to treat breast cancer
+radiation therapy	can be	used to treat prostate cancer
+radiation therapy	can be	used to treat cervical cancer
+radiation therapy	can be	used to treat colorectal cancer
+radiation therapy	can be	used to treat skin cancer
+radiation therapy	can be	used to treat head and neck cancer
+radiation therapy	can be	used to treat sarcoma
+radiation therapy	can be	used to treat lymphoma
+radiation therapy	can be	used to treat leukemia
+radiation therapy	can be	used to treat pancreatic cancer
+radiation therapy	can be	used to treat ovarian cancer
+radiation therapy	can be	used to treat bladder cancer
+radiation therapy	can be	used to treat liver cancer
+radiation therapy	can be	used to treat kidney cancer
+radiation therapy	can be	used to treat esophageal cancer
+radiation therapy	can be	used to treat stomach cancer
+radiation therapy	can be	used to treat bone cancer
+radiation therapy	can be	used to treat thyroid cancer
+radiation therapy	can be	used to treat testicular cancer
+radiation therapy	can be	used to treat uterine cancer
+radiation therapy	can be	used to treat gallbladder cancer

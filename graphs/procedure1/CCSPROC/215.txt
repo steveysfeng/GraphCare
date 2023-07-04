@@ -1,0 +1,104 @@
+other physical therapy	is a	treatment
+rehabilitation	is a	treatment
+other physical therapy	used for	recovery
+rehabilitation	used for	recovery
+other physical therapy	can improve	flexibility
+rehabilitation	can improve	flexibility
+other physical therapy	can strengthen	muscles
+rehabilitation	can strengthen	muscles
+other physical therapy	can reduce	pain
+rehabilitation	can reduce	pain
+other physical therapy	can improve	balance
+rehabilitation	can improve	balance
+other physical therapy	can enhance	coordination
+rehabilitation	can enhance	coordination
+other physical therapy	can increase	range of motion
+rehabilitation	can increase	range of motion
+other physical therapy	can restore	mobility
+rehabilitation	can restore	mobility
+other physical therapy	can prevent	future injuries
+rehabilitation	can prevent	future injuries
+other physical therapy	can promote	overall wellness
+rehabilitation	can promote	overall wellness
+other physical therapy	requires	professional supervision
+rehabilitation	requires	professional supervision
+other physical therapy	involves	exercises
+rehabilitation	involves	exercises
+other physical therapy	focuses on	specific goals
+rehabilitation	focuses on	specific goals
+other physical therapy	supports	healing process
+rehabilitation	supports	healing process
+other physical therapy	can be	customized
+rehabilitation	can be	customized
+other physical therapy	is used	after surgery
+rehabilitation	is used	after surgery
+other physical therapy	is used	after injury
+rehabilitation	is used	after injury
+other physical therapy	is used	for chronic conditions
+rehabilitation	is used	for chronic conditions
+other physical therapy	is provided	by physical therapists
+rehabilitation	is provided	by physical therapists
+other physical therapy	is tailored	to individual needs
+rehabilitation	is tailored	to individual needs
+other physical therapy	involves	patient education
+rehabilitation	involves	patient education
+other physical therapy	can be	outpatient
+rehabilitation	can be	outpatient
+physical therapists	can assess	patient's condition
+physical therapists	can assess	patient's progress
+physical therapists	can design	treatment plan
+physical therapists	can provide	guidance
+physical therapists	can monitor	patient's progress
+physical therapists	can adjust	treatment plan
+physical therapists	can provide	support
+physical therapists	can educate	patients
+physical therapists	can teach	exercises
+physical therapists	can help	patients achieve goals
+physical therapists	can collaborate	with other healthcare professionals
+physical therapists	can prescribe	assistive devices
+physical therapists	can recommend	lifestyle modifications
+physical therapists	can explain	importance of exercises
+physical therapists	can demonstrate	proper technique
+physical therapists	can ensure	safety during exercises
+physical therapists	can motivate	patients
+physical therapists	can encourage	adherence to treatment plan
+physical therapists	can address	patient's concerns
+physical therapists	can provide	emotional support
+physical therapists	can enhance	patient's quality of life
+physical therapists	can promote	independence
+physical therapists	can facilitate	return to daily activities
+physical therapists	can optimize	functional abilities
+physical therapists	can prevent	complications
+physical therapists	can manage	pain
+physical therapists	can improve	self-confidence
+physical therapists	can facilitate	social interaction
+physical therapists	can ensure	continuity of care
+physical therapists	can promote	self-management skills
+physical therapists	can empower	patients
+physical therapists	can support	patient's autonomy
+physical therapists	can provide	resources
+physical therapists	can promote	patient's overall well-being
+physical therapists	can educate	caregivers
+physical therapists	can develop	home exercise programs
+physical therapists	can recommend	assistive technology
+physical therapists	can collaborate	with other healthcare providers
+physical therapists	can facilitate	functional independence
+physical therapists	can provide	pain management strategies
+physical therapists	can promote	healthy lifestyle choices
+physical therapists	can optimize	physical function
+physical therapists	can prevent	functional decline
+physical therapists	can support	patient's self-efficacy
+physical therapists	can facilitate	return to work
+physical therapists	can promote	active aging
+physical therapists	can advocate	for patient's needs
+physical therapists	can enhance	patient's satisfaction
+physical therapists	can ensure	patient's safety
+physical therapists	can promote	patient's self-care
+physical therapists	can empower	patients in their recovery
+physical therapists	can provide	education on injury prevention
+physical therapists	can promote	optimal health
+physical therapists	can improve	patient's functional mobility
+physical therapists	can facilitate	community reintegration
+physical therapists	can optimize	physical performance
+physical therapists	can prevent	re-injury
+physical therapists	can promote	adherence to treatment plan

@@ -1,0 +1,195 @@
+diagnostic ultrasound	is a	medical procedure
+diagnostic ultrasound	used for	diagnosis
+urinary tract	is a part of	body
+diagnostic ultrasound	can detect	kidney stones
+diagnostic ultrasound	can detect	bladder tumors
+diagnostic ultrasound	can detect	urinary tract infections
+diagnostic ultrasound	can detect	urethral obstruction
+diagnostic ultrasound	can detect	renal cysts
+diagnostic ultrasound	can detect	hydronephrosis
+diagnostic ultrasound	can detect	urinary tract abnormalities
+diagnostic ultrasound	can detect	urinary tract trauma
+diagnostic ultrasound	can detect	ureteral stones
+diagnostic ultrasound	can detect	kidney tumors
+diagnostic ultrasound	can detect	urinary tract stones
+diagnostic ultrasound	can detect	urinary tract calculi
+diagnostic ultrasound	can detect	renal artery stenosis
+diagnostic ultrasound	can detect	urethral strictures
+diagnostic ultrasound	can detect	ureteral strictures
+diagnostic ultrasound	can detect	urinary bladder diverticula
+diagnostic ultrasound	can detect	urinary tract tumors
+diagnostic ultrasound	can detect	urinary bladder abnormalities
+diagnostic ultrasound	can detect	urinary bladder trauma
+diagnostic ultrasound	can detect	renal artery occlusion
+diagnostic ultrasound	can detect	urethral diverticula
+diagnostic ultrasound	can detect	ureteral diverticula
+diagnostic ultrasound	can detect	urethral tumors
+diagnostic ultrasound	can detect	ureteral tumors
+diagnostic ultrasound	can detect	urinary bladder calculi
+diagnostic ultrasound	can detect	urinary bladder calculi
+diagnostic ultrasound	can detect	renal vein thrombosis
+diagnostic ultrasound	can detect	urethral trauma
+diagnostic ultrasound	can detect	ureteral trauma
+diagnostic ultrasound	can detect	urethral calculi
+diagnostic ultrasound	can detect	ureteral calculi
+diagnostic ultrasound	can detect	renal vein occlusion
+diagnostic ultrasound	can detect	urethral diverticulitis
+diagnostic ultrasound	can detect	ureteral diverticulitis
+diagnostic ultrasound	can detect	urethral strictures
+diagnostic ultrasound	can detect	ureteral strictures
+diagnostic ultrasound	can detect	urinary bladder calculi
+diagnostic ultrasound	can detect	urinary bladder calculi
+diagnostic ultrasound	can detect	renal vein thrombosis
+diagnostic ultrasound	can detect	urethral trauma
+diagnostic ultrasound	can detect	ureteral trauma
+diagnostic ultrasound	can detect	urethral calculi
+diagnostic ultrasound	can detect	ureteral calculi
+diagnostic ultrasound	can detect	urethral diverticulitis
+diagnostic ultrasound	can detect	ureteral diverticulitis
+diagnostic ultrasound	can detect	renal artery abnormalities
+diagnostic ultrasound	can detect	urethral abnormalities
+diagnostic ultrasound	can detect	ureteral abnormalities
+diagnostic ultrasound	can detect	urinary bladder stenosis
+diagnostic ultrasound	can detect	urinary bladder strictures
+diagnostic ultrasound	can detect	urinary bladder abnormalities
+diagnostic ultrasound	can detect	renal vein abnormalities
+diagnostic ultrasound	can detect	urethral abnormalities
+diagnostic ultrasound	can detect	ureteral abnormalities
+diagnostic ultrasound	can detect	urinary bladder stenosis
+diagnostic ultrasound	can detect	urinary bladder strictures
+diagnostic ultrasound	can detect	urinary bladder abnormalities
+diagnostic ultrasound	can detect	urethral neoplasms
+diagnostic ultrasound	can detect	ureteral neoplasms
+diagnostic ultrasound	can detect	urinary bladder neoplasms
+diagnostic ultrasound	can detect	renal vein neoplasms
+diagnostic ultrasound	can detect	urethral neoplasms
+diagnostic ultrasound	can detect	ureteral neoplasms
+diagnostic ultrasound	can detect	urinary bladder neoplasms
+diagnostic ultrasound	can detect	renal vein neoplasms
+diagnostic ultrasound	can detect	bladder outlet obstruction
+diagnostic ultrasound	can detect	bladder diverticula
+diagnostic ultrasound	can detect	bladder trauma
+diagnostic ultrasound	can detect	ureteropelvic junction obstruction
+diagnostic ultrasound	can detect	vesicoureteral reflux
+diagnostic ultrasound	can detect	bowel obstruction
+diagnostic ultrasound	can detect	ureteral neoplasms
+diagnostic ultrasound	can detect	urinary bladder neoplasms
+diagnostic ultrasound	can detect	renal vein neoplasms
+diagnostic ultrasound	can detect	bladder outlet obstruction
+diagnostic ultrasound	can detect	bladder diverticula
+diagnostic ultrasound	can detect	bladder trauma
+diagnostic ultrasound	can detect	ureteropelvic junction obstruction
+diagnostic ultrasound	can detect	vesicoureteral reflux
+diagnostic ultrasound	can detect	bowel obstruction
+diagnostic ultrasound	is a	medical procedure
+diagnostic ultrasound	used for	diagnosis
+urinary tract	is a part of	human body
+diagnostic ultrasound	can identify	kidney stones
+diagnostic ultrasound	can detect	urinary tract infections
+diagnostic ultrasound	can visualize	bladder
+diagnostic ultrasound	can monitor	kidney function
+diagnostic ultrasound	can assess	urethral obstruction
+diagnostic ultrasound	can evaluate	prostate size
+diagnostic ultrasound	can screen for	urinary tract tumors
+diagnostic ultrasound	can guide	urinary catheter placement
+diagnostic ultrasound	can assist	in kidney biopsy
+diagnostic ultrasound	is non-invasive
+diagnostic ultrasound	uses sound waves
+diagnostic ultrasound	has no ionizing radiation
+diagnostic ultrasound	is safe for pregnant women
+diagnostic ultrasound	requires a trained technician
+diagnostic ultrasound	can be performed in a clinic
+diagnostic ultrasound	can be performed in a hospital setting
+diagnostic ultrasound	can be performed at the patient's bedside
+diagnostic ultrasound	has real-time imaging capabilities
+diagnostic ultrasound	provides immediate results
+diagnostic ultrasound	is less expensive compared to other imaging modalities
+diagnostic ultrasound	has limitations for obese patients
+diagnostic ultrasound	has limitations for gas-filled structures
+diagnostic ultrasound	has limitations for bone imaging
+diagnostic ultrasound	has limitations for certain deep structures
+diagnostic ultrasound	may require a full bladder for certain exams
+diagnostic ultrasound	may cause mild discomfort during the exam
+diagnostic ultrasound	may be used in conjunction with other tests
+diagnostic ultrasound	can aid in treatment planning
+diagnostic ultrasound	can guide needle placement for procedures
+urinary tract	can be affected by various conditions
+urinary tract	includes kidneys	ureters	bladder	and urethra
+kidney stones	can cause urinary tract pain
+kidney stones	can lead to kidney damage
+kidney stones	can block urine flow
+kidney stones	can be treated with lithotripsy
+kidney stones	can be treated with surgery
+urinary tract infections	can be caused by bacteria
+urinary tract infections	can lead to kidney infection
+urinary tract infections	can cause urinary frequency and urgency
+urinary tract infections	can be treated with antibiotics
+bladder	is a hollow organ
+bladder	stores urine
+bladder	can be affected by prostate enlargement
+bladder	can be affected by bladder cancer
+bladder	can be affected by neurogenic bladder
+kidney function	can be impaired by kidney disease
+kidney function	can be affected by dehydration
+kidney function	can be assessed by blood tests
+urethral obstruction	can be caused by an enlarged prostate
+urethral obstruction	can cause urinary retention
+urethral obstruction	can require surgical intervention
+prostate size	can be assessed by digital rectal exam
+prostate size	can be measured by ultrasound
+prostate size	can increase with age
+urinary tract tumors	can be benign or malignant
+urinary tract tumors	can be detected early with screening
+urinary tract tumors	can be treated with surgery
+urinary catheter placement	may be necessary for urine drainage
+urinary catheter placement	can be guided by ultrasound
+kidney biopsy	is a procedure to obtain tissue samples
+kidney biopsy	can aid in diagnosis
+kidney biopsy	can be guided by ultrasound
+kidney biopsy	carries a small risk of bleeding or infection
+non-invasive	medical procedures	do not require incisions
+sound waves	are used in imaging
+sound waves	are safe for humans
+ionizing radiation	is used in some imaging modalities
+ionizing radiation	can have long-term effects
+safe	medical procedures	have minimal risks
+safe	medical procedures	prioritize patient well-being
+pregnant women	should avoid ionizing radiation
+trained technician	should perform the procedure
+trained technician	should interpret the results
+clinic	is a healthcare facility
+hospital setting	provides specialized care
+bedside	ultrasound	improves patient comfort
+real-time imaging	provides immediate visualization
+real-time imaging	allows for dynamic assessment
+immediate results	aid in clinical decision-making
+immediate results	reduce patient anxiety
+less expensive	imaging modalities	are cost-effective
+obese patients	may have limited image quality
+gas-filled structures	may produce acoustic artifacts
+bone imaging	requires specialized techniques
+deep structures	may be challenging to visualize
+full bladder	enhances ureteral or bladder visualization
+discomfort	during the exam	is temporary
+multiple tests	can provide a comprehensive evaluation
+treatment planning	considers diagnostic ultrasound findings
+needle placement	can be guided by ultrasound
+various conditions	can affect the urinary tract
+kidneys	filter waste products
+ureters	transport urine from kidneys to bladder
+urethra	carries urine from bladder out of the body
+prostate enlargement	can cause urinary symptoms
+bladder cancer	often presents with blood in the urine
+neurogenic bladder	is a dysfunction of bladder control
+kidney disease	may progress to kidney failure
+dehydration	can affect kidney function
+blood tests	can assess kidney function
+enlarged prostate	can cause urinary symptoms
+kidney retention	can be uncomfortable and lead to complications
+surgical intervention	may be required for urethral obstruction
+digital rectal exam	assesses prostate size
+screening	can detect urinary tract tumors early
+surgery	is a common treatment for urinary tract tumors
+urine drainage	may be necessary in certain situations
+tissue samples	provide diagnostic information
+bleeding	and infection	are potential risks of kidney biopsy
