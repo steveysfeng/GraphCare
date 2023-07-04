@@ -1,0 +1,241 @@
+electrolytes with carbohydrates	can be used for	rehydration
+antidiarrheals	can treat	diarrhea
+intestinal antiinflammatory/antiinfective agents	can reduce	inflammation
+electrolytes with carbohydrates	may contain	sodium
+antidiarrheals	may have	side effects
+intestinal antiinflammatory/antiinfective agents	may be effective against	bacterial infections
+rehydration	is important for	maintaining fluid balance
+diarrhea	can be caused by	viral infections
+inflammation	can be a result of	bacterial overgrowth
+sodium	is an essential	electrolyte
+side effects	can include	stomach upset
+bacterial infections	can lead to	diarrhea
+fluid balance	is necessary for	proper bodily function
+viral infections	can cause	diarrhea
+bacterial overgrowth	can cause	inflammation
+stomach upset	can be a symptom of	medication side effects
+diarrhea	can lead to	dehydration
+dehydration	can result in	electrolyte imbalance
+dehydration	can be treated with	rehydration therapy
+electrolyte imbalance	can lead to	complications
+rehydration therapy	can consist of	fluids and electrolytes
+complications	can be serious	if not addressed
+rehydration therapy	is an important	treatment for dehydration
+dehydration	can occur due to	excessive sweating
+dehydration	can occur as a result of	vomiting and diarrhea
+dehydration	can cause	dizziness
+dehydration	can cause	fatigue
+dehydration	can lead to	thirst
+dehydration	can lead to	dry mouth
+dehydration	can lead to	decreased urine output
+dehydration	can lead to	sunken eyes
+dehydration	can lead to	rapid heartbeat
+dehydration	can lead to	confusion
+dehydration	can lead to	irritability
+dehydration	can lead to	lightheadedness
+dehydration	can lead to	dark-colored urine
+dehydration	can lead to	weakness
+dehydration	can occur as a result of	certain medications
+dehydration	can occur due to	excessive alcohol consumption
+dehydration	can occur due to	high fever
+dehydration	can occur due to	intense physical activity
+dehydration	can occur due to	certain medical conditions
+dehydration	can occur due to	inadequate fluid intake
+dehydration	can occur due to	prolonged sun exposure
+dehydration	can occur due to	insufficient fluid intake
+dehydration	can occur due to	certain medical treatments
+dehydration	can occur due to	chronic illness
+dehydration	can occur due to	aging
+dehydration	can occur due to	certain dietary choices
+dehydration	can occur due to	certain environmental conditions
+dehydration	can lead to	muscle cramps
+dehydration	can lead to	dry skin
+dehydration	can lead to	reduced sweating
+dehydration	can lead to	headaches
+dehydration	can lead to	fainting
+dehydration	can lead to	decreased blood pressure
+dehydration	can lead to	increased heart rate
+dehydration	can lead to	sunken fontanelle in infants
+dehydration	can lead to	dry mucous membranes
+dehydration	can lead to	sunken appearance of eyes
+dehydration	can lead to	decreased skin turgor
+dehydration	can lead to	concentrated urine
+dehydration	can lead to	thirst sensation
+dehydration	can lead to	fatigue and weakness
+dehydration	can lead to	increased body temperature
+dehydration	can lead to	reduced urine output
+dehydration	can lead to	dry tongue
+dehydration	can lead to	reduced tear production
+dehydration	can lead to	feeling lightheaded
+dehydration	can lead to	dark urine
+dehydration	can lead to	sunken cheeks
+dehydration	can lead to	dry lips
+dehydration	can lead to	dry nose
+dehydration	can lead to	reduced saliva production
+dehydration	can lead to	sunken abdomen
+dehydration	can lead to	dry throat
+dehydration	can lead to	weak pulse
+dehydration	can lead to	rapid breathing
+dehydration	can lead to	increased thirst
+dehydration	can lead to	dry eyes
+dehydration	can lead to	decreased sweating
+dehydration	can lead to	feeling weak
+dehydration	can lead to	chapped lips
+dehydration	can lead to	sunken skin
+dehydration	can lead to	decreased skin elasticity
+dehydration	can lead to	dark circles under the eyes
+dehydration	can lead to	sunken cheekbones
+dehydration	can lead to	dry hair
+dehydration	can lead to	dry nails
+dehydration	can lead to	mood changes
+dehydration	can lead to	rapid weight loss
+dehydration	can lead to	heart palpitations
+dehydration	can lead to	decreased urine production
+dehydration	can lead to	weakness in muscles
+dehydration	can lead to	dry and puffy skin
+dehydration	can lead to	decreased blood volume
+dehydration	can lead to	reduced cognitive function
+dehydration	can lead to	sunken temples
+dehydration	can lead to	dry and cracked lips
+dehydration	can lead to	weak and brittle nails
+dehydration	can lead to	reduced tears
+dehydration	can lead to	dry and flaky scalp
+dehydration	can lead to	decreased endurance
+dehydration	can lead to	rapid weight gain
+dehydration	can lead to	decreased saliva production
+dehydration	can lead to	feeling thirsty all the time
+dehydration	can lead to	muscle weakness
+dehydration	can lead to	dry and itchy skin
+dehydration	can lead to	difficulty swallowing
+dehydration	can lead to	sunken neck
+dehydration	can lead to	poor memory and concentration
+dehydration	can lead to	slow wound healing
+dehydration	can lead to	weak and brittle hair
+dehydration	can lead to	reduced physical performance
+dehydration	can lead to	excessive panting in pets
+dehydration	can lead to	increased irritability
+dehydration	can lead to	sunken chest
+dehydration	can lead to	dry and cracked mouth
+dehydration	can lead to	weak and brittle teeth
+dehydration	can lead to	reduced synovial fluid production
+electrolytes with carbohydrates	are	supplements
+antidiarrheals	are	drugs
+intestinal antiinflammatory/antiinfective agents	are	drugs
+electrolytes with carbohydrates	used for	rehydration
+antidiarrheals	used for	treating diarrhea
+intestinal antiinflammatory/antiinfective agents	used for	intestinal inflammation and infections
+supplements	can provide	hydration
+drugs	can treat	diarrhea
+drugs	can reduce	intestinal inflammation and infections
+diarrhea	can cause	dehydration
+intestinal inflammation and infections	may result in	diarrhea
+dehydration	can lead to	electrolyte imbalance
+dehydration	can cause	fatigue
+dehydration	can lead to	dizziness
+dehydration	can result in	dry mouth
+dehydration	can cause	muscle cramps
+dehydration	can lead to	confusion
+dehydration	can cause	increased heart rate
+dehydration	can result in	decreased urine output
+dehydration	can cause	weakness
+dehydration	can lead to	fainting
+dehydration	can result in	sunken eyes
+dehydration	can cause	dark urine
+dehydration	can lead to	irritability
+dehydration	can result in	decreased skin elasticity
+dehydration	can cause	thirst
+dehydration	can lead to	lightheadedness
+dehydration	can result in	fatigue
+dehydration	can cause	headache
+dehydration	can lead to	dry skin
+dehydration	can result in	increased body temperature
+dehydration	can cause	rapid breathing
+dehydration	can lead to	constipation
+dehydration	can result in	dark-colored urine
+dehydration	can cause	decreased tear production
+dehydration	can lead to	weight loss
+dehydration	can result in	sunken fontanelles in infants
+dehydration	can cause	decreased blood pressure
+dehydration	can lead to	dry mucous membranes
+dehydration	can result in	poor skin turgor
+dehydration	can cause	dry tongue
+dehydration	can lead to	feeling thirsty
+dehydration	can result in	decreased saliva production
+dehydration	can cause	decreased urine volume
+dehydration	can lead to	reduced cognition
+dehydration	can result in	rapid heartbeat
+dehydration	can cause	dark yellow urine
+dehydration	can lead to	irritability in infants
+dehydration	can result in	low blood pressure
+dehydration	can cause	dry lips
+dehydration	can lead to	dry eyes
+dehydration	can result in	dry axilla
+dehydration	can cause	sunken cheeks
+dehydration	can lead to	lethargy
+dehydration	can result in	sunken fontanelle in infants
+dehydration	can cause	reduced urine output
+dehydration	can lead to	increased thirst
+dehydration	can result in	dry or sticky mouth
+dehydration	can cause	decreased sweating
+dehydration	can lead to	dry nasal passages
+dehydration	can result in	wrinkled skin
+dehydration	can cause	increased body temperature
+dehydration	can lead to	sunken appearance of the eyes
+dehydration	can result in	muscle weakness
+dehydration	can cause	dry throat
+dehydration	can lead to	fatigue and weakness
+dehydration	can result in	weight loss
+dehydration	can cause	decreased urine concentration
+dehydration	can lead to	reduced tear production
+dehydration	can result in	sunken cheeks in infants
+dehydration	can cause	reduced blood flow to the extremities
+dehydration	can lead to	dry tongue and mouth
+dehydration	can result in	decreased tissue elasticity
+dehydration	can cause	sunken eyes and cheeks
+dehydration	can lead to	decreased urine flow
+dehydration	can result in	dry skin with poor turgor
+dehydration	can cause	sunken fontanelles in babies
+dehydration	can lead to	reduced saliva production
+dehydration	can result in	dark urine color
+dehydration	can cause	decreased urine frequency
+dehydration	can lead to	altered mental status
+dehydration	can result in	increased heart rate and breathing
+dehydration	can cause	feeling faint
+dehydration	can lead to	dark-colored urine
+dehydration	can result in	reduced tear production
+dehydration	can cause	increased thirst sensation
+dehydration	can lead to	decreased fluid intake
+dehydration	can result in	dry mouth and lips
+dehydration	can cause	decreased sweating ability
+dehydration	can lead to	dry nose
+dehydration	can result in	skin wrinkles
+dehydration	can cause	increased body temperature
+dehydration	can lead to	sunken eyes
+dehydration	can result in	muscle cramping
+dehydration	can cause	dry throat sensation
+dehydration	can lead to	fatigue and weakness
+dehydration	can result in	weight loss
+dehydration	can cause	decreased urine concentration
+dehydration	can lead to	reduced tear production
+dehydration	can result in	sunken cheeks in infants
+dehydration	can cause	reduced blood flow to the extremities
+dehydration	can lead to	dry tongue and mouth
+dehydration	can result in	decreased tissue elasticity
+dehydration	can cause	sunken eyes and cheeks
+dehydration	can lead to	decreased urine flow
+dehydration	can result in	dry skin with poor turgor
+dehydration	can cause	sunken fontanelles in babies
+dehydration	can lead to	reduced saliva production
+dehydration	can result in	dark urine color
+dehydration	can cause	decreased urine frequency
+dehydration	can lead to	altered mental status
+dehydration	can result in	increased heart rate and breathing
+dehydration	can cause	feeling faint
+dehydration	can lead to	dark-colored urine
+dehydration	can result in	reduced tear production
+dehydration	can cause	increased thirst sensation
+dehydration	can lead to	decreased fluid intake
+dehydration	can result in	dry mouth and lips
+dehydration	can cause	decreased sweating ability
+dehydration	can lead to	dry nose
+dehydration	can result in	skin wrinkles

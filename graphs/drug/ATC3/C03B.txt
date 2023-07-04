@@ -1,0 +1,74 @@
+low-ceiling diuretics	are	medications
+low-ceiling diuretics	used for	reducing fluid retention
+low-ceiling diuretics	may have	side effects
+side effects	can include	electrolyte imbalance
+low-ceiling diuretics	may interact with	other medications
+low-ceiling diuretics	prescribed for	hypertension
+low-ceiling diuretics	can cause	increased urine production
+low-ceiling diuretics	mechanism of action	inhibiting sodium reabsorption
+low-ceiling diuretics	not effective for	edema due to liver failure
+low-ceiling diuretics	not recommended for	long-term use
+low-ceiling diuretics	should be used with caution in	patients with renal impairment
+low-ceiling diuretics	commonly used agents	furosemide and ethacrynic acid
+low-ceiling diuretics	avoid using	in patients with sulfa allergy
+low-ceiling diuretics	may require	dose adjustments in elderly patients
+low-ceiling diuretics	associated with	decreased potassium levels
+low-ceiling diuretics	contraindicated in	anuria
+low-ceiling diuretics	used as	antihypertensive agents
+low-ceiling diuretics	important in	heart failure management
+low-ceiling diuretics	should be monitored for	renal function
+low-ceiling diuretics	can lead to	dehydration
+low-ceiling diuretics	can cause	gout exacerbation
+low-ceiling diuretics	commonly used in	acute pulmonary edema
+low-ceiling diuretics	mechanism of action	blocking sodium chloride reabsorption
+low-ceiling diuretics	may be used as	adjunct therapy in ascites
+low-ceiling diuretics	may cause	increased uric acid levels
+low-ceiling diuretics	used to treat	drug-induced edema
+low-ceiling diuretics	avoid using in	patients with hearing loss
+low-ceiling diuretics	duration of diuretic effect	shorter than high-ceiling diuretics
+low-ceiling diuretics	may cause	postural hypotension
+low-ceiling diuretics	avoid using in	patients with fluid overload
+low-ceiling diuretics	can cause	hypokalemia
+low-ceiling diuretics	monitor for signs of	hypovolemia
+low-ceiling diuretics	used for	reducing blood pressure
+low-ceiling diuretics	commonly used for	edema in heart failure
+low-ceiling diuretics	commonly used in	cirrhosis
+low-ceiling diuretics	can lead to	increased urination
+low-ceiling diuretics	should be used with caution	in patients with diabetes
+low-ceiling diuretics	may require	dosage adjustments in patients with renal impairment
+low-ceiling diuretics	contraindicated in	anuria and severe electrolyte imbalance
+low-ceiling diuretics	commonly prescribed for	edema in heart failure patients
+low-ceiling diuretics	can cause	dehydration and electrolyte imbalance
+low-ceiling diuretics	mechanism of action	blocking sodium and chloride reabsorption
+low-ceiling diuretics	can lead to	increased urine output
+low-ceiling diuretics	commonly used in	acute decompensated heart failure
+low-ceiling diuretics	may be used as	adjunct therapy in chronic kidney disease
+low-ceiling diuretics	may cause	increased uric acid levels in the blood
+low-ceiling diuretics	used to treat	drug-induced fluid retention
+low-ceiling diuretics	avoid using in	patients with hearing impairment
+low-ceiling diuretics	duration of effect	shorter compared to high-ceiling diuretics
+low-ceiling diuretics	may cause	orthostatic hypotension
+low-ceiling diuretics	avoid using in	patients with volume overload
+low-ceiling diuretics	can cause	low potassium levels
+low-ceiling diuretics	monitor for signs of	low blood volume
+low-ceiling diuretics	used for	lowering blood pressure
+low-ceiling diuretics	commonly used for	edema in heart failure
+low-ceiling diuretics	commonly used in	liver cirrhosis
+low-ceiling diuretics	can lead to	increased frequency of urination
+low-ceiling diuretics	should be used with caution	in patients with diabetes mellitus
+low-ceiling diuretics	may require	dosage adjustments in patients with impaired kidney function
+low-ceiling diuretics	contraindicated in	patients with no urine output and severe electrolyte imbalance
+low-ceiling diuretics	commonly prescribed for	edema in heart failure patients
+low-ceiling diuretics	can cause	dehydration and electrolyte imbalance
+low-ceiling diuretics	mechanism of action	blocking the reabsorption of sodium and chloride
+low-ceiling diuretics	can lead to	increased urine production
+low-ceiling diuretics	commonly used in	acute decompensated heart failure
+low-ceiling diuretics	may be used as	adjunct therapy in chronic kidney disease
+low-ceiling diuretics	may cause	increased levels of uric acid in the blood
+low-ceiling diuretics	used in the treatment of	drug-induced fluid retention
+low-ceiling diuretics	avoid using in	patients with hearing loss
+low-ceiling diuretics	have a shorter duration of action	compared to high-ceiling diuretics
+low-ceiling diuretics	may cause	low blood pressure upon standing
+low-ceiling diuretics	should be avoided in	patients with fluid overload
+low-ceiling diuretics	can cause	low levels of potassium in the blood
+low-ceiling diuretics	monitor for signs of	low blood volume

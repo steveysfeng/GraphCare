@@ -1,0 +1,16 @@
+antiadrenergic agents	centrally acting	are a	class
+antiadrenergic agents	centrally acting	used for	hypertension
+antiadrenergic agents	centrally acting	can reduce	blood pressure
+antiadrenergic agents	centrally acting	can cause	drowsiness
+antiadrenergic agents	centrally acting	mechanism of action	inhibits sympathetic nervous system
+antiadrenergic agents	centrally acting	examples	clonidine
+clonidine	is a	drug
+clonidine	common side effect	dry mouth
+clonidine	can be used for	opiate withdrawal
+clonidine	brand name	Catapres
+opiate withdrawal	is a	condition
+opiate withdrawal	symptoms	include	nausea	vomiting	and muscle aches
+Catapres	can also treat	ADHD
+ADHD	is a	disorder
+ADHD	symptoms	include	hyperactivity and impulsivity
+antiadrenergic agents	centrally acting	contraindicated in	patients with severe coronary insufficiency

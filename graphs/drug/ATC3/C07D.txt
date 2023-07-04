@@ -1,0 +1,94 @@
+beta blocking agents	can be combined with	thiazides
+thiazides	categorized as	diuretics
+other diuretics	can be combined with	beta blocking agents
+diuretics	commonly used to	treat hypertension
+beta blocking agents	used to	lower heart rate
+thiazides	can cause	electrolyte imbalance
+diuretics	may increase	urination
+beta blocking agents	can cause	fatigue
+thiazides	can be used to	treat edema
+diuretics	can affect	blood pressure
+beta blocking agents	may have	interactions with other medications
+thiazides	commonly prescribed to	patients with high blood pressure
+diuretics	may be prescribed to	reduce fluid retention
+beta blocking agents	can lead to	dizziness
+thiazides	can interact with	certain medications
+diuretics	can help	rid the body of excess fluid
+beta blocking agents	should be used with caution in	patients with asthma
+thiazides	can cause	muscle cramps
+diuretics	can be used to	manage heart failure
+beta blocking agents	used in	treatment of arrhythmias
+thiazides	may increase the risk of	gout
+diuretics	can lead to	dehydration
+beta blocking agents	can reduce	anxiety
+thiazides	can affect	kidney function
+diuretics	may be prescribed to	reduce blood pressure
+beta blocking agents	can have	negative effects on sexual function
+thiazides	can cause	dizziness
+diuretics	commonly prescribed for	hypertension
+beta blocking agents	can be used to	prevent migraines
+thiazides	can lead to	increased blood sugar levels
+diuretics	can help	reduce swelling
+beta blocking agents	can cause	sleep disturbances
+thiazides	can interact with	lithium
+diuretics	can be used to	manage cirrhosis
+beta blocking agents	may have	contraindications with certain medical conditions
+thiazides	can cause	allergic reactions
+diuretics	may be used to	treat kidney stones
+beta blocking agents	should be used with caution in	patients with diabetes
+thiazides	can affect	cholesterol levels
+diuretics	can be prescribed to	relieve symptoms of heart failure
+beta blocking agents	can reduce	heart rate
+thiazides	can increase	potassium levels
+diuretics	commonly used in	treating hypertension
+beta blocking agents	may be prescribed for	anxiety disorder
+thiazides	can cause	low sodium levels
+diuretics	can be used in	treating kidney disease
+beta blocking agents	can interact with	certain herbal supplements
+thiazides	can lead to	increased uric acid levels
+diuretics	may be prescribed to	manage fluid buildup in the body
+beta blocking agents	can cause	cold hands and feet
+thiazides	commonly prescribed to	patients with heart failure
+diuretics	can affect	potassium levels
+beta blocking agents	should be avoided in	patients with heart block
+thiazides	can cause	photosensitivity
+diuretics	commonly used to	reduce blood pressure
+beta blocking agents	can have	adverse effects on exercise tolerance
+thiazides	can interact with	nonsteroidal anti-inflammatory drugs
+diuretics	may be prescribed for	liver disease
+beta blocking agents	can be used to	prevent recurrent heart attacks
+thiazides	can cause	increased calcium levels
+diuretics	can be used to	reduce symptoms of edema
+beta blocking agents	may have	interactions with alcohol
+thiazides	can affect	blood glucose levels
+diuretics	can lead to	decreased potassium levels
+beta blocking agents	used in	treatment of glaucoma
+thiazides	can cause	elevated blood pressure
+diuretics	commonly prescribed to	patients with kidney disease
+beta blocking agents	can cause	bronchospasm
+thiazides	can interact with	certain antibiotics
+diuretics	can help	reduce symptoms of liver disease
+beta blocking agents	can increase	risk of depression
+thiazides	can cause	hyponatremia
+diuretics	may be prescribed to	relieve symptoms of kidney stones
+beta blocking agents	should be used with caution in	patients with liver disease
+thiazides	commonly prescribed for	hypertension
+diuretics	can affect	magnesium levels
+beta blocking agents	can lead to	heart failure
+thiazides	can increase	urine production
+diuretics	may be used to	manage ascites
+beta blocking agents	can cause	shortness of breath
+thiazides	can cause	erectile dysfunction
+diuretics	can be prescribed to	manage pulmonary edema
+beta blocking agents	used to	reduce tremors
+thiazides	can interact with	certain anti-seizure medications
+diuretics	can help	reduce symptoms of cirrhosis
+beta blocking agents	can lower	blood pressure
+thiazides	can cause	hypercalcemia
+diuretics	may be prescribed to	treat glaucoma
+beta blocking agents	can affect	blood sugar levels
+thiazides	can increase	blood glucose levels
+diuretics	commonly used to	manage fluid overload
+beta blocking agents	should be used with caution in	patients with depression
+thiazides	can cause	hypokalemia
+diuretics	can lead to	electrolyte imbalances

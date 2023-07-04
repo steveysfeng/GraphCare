@@ -1,0 +1,218 @@
+iron antianemic preparations	is a	drug
+iron antianemic preparations	used for	treating iron deficiency
+iron deficiency	can cause	anemia
+iron antianemic preparations	can be	oral or intravenous
+oral	route of administration	for iron antianemic preparations
+intravenous	route of administration	for iron antianemic preparations
+iron antianemic preparations	should be	taken with food
+iron antianemic preparations	can interact with	certain medications
+certain medications	can affect the absorption of	iron antianemic preparations
+iron antianemic preparations	can cause	constipation
+iron antianemic preparations	should not be	taken with calcium supplements
+calcium supplements	can decrease the absorption of	iron antianemic preparations
+iron antianemic preparations	can cause	gastrointestinal side effects
+iron antianemic preparations	may take	weeks to improve anemia
+iron antianemic preparations	should be	stored at room temperature
+iron antianemic preparations	can interact with	antacids
+antacids	can decrease the absorption of	iron antianemic preparations
+iron antianemic preparations	can cause	dark stools
+iron antianemic preparations	can cause	allergic reactions
+iron antianemic preparations	should be	kept out of reach of children
+iron antianemic preparations	can cause	iron overload
+iron overload	can be	harmful
+iron antianemic preparations	can be	prescribed by a healthcare professional
+healthcare professional	can monitor	iron levels
+iron antianemic preparations	should not be	taken with tea or coffee
+tea or coffee	can decrease the absorption of	iron antianemic preparations
+iron antianemic preparations	can cause	stomach upset
+iron antianemic preparations	can cause	dizziness
+iron antianemic preparations	can cause	fatigue
+iron antianemic preparations	can cause	headache
+iron antianemic preparations	can cause	skin discoloration
+iron antianemic preparations	can cause	joint pain
+iron antianemic preparations	can cause	muscle pain
+iron antianemic preparations	can cause	changes in taste
+iron antianemic preparations	can cause	stomach cramps
+iron antianemic preparations	should be	taken as directed by a healthcare professional
+healthcare professional	can provide	dosage instructions
+iron antianemic preparations	can cause	heartburn
+iron antianemic preparations	can cause	diarrhea
+iron antianemic preparations	can cause	vomiting
+iron antianemic preparations	can cause	indigestion
+iron antianemic preparations	can cause	an upset stomach
+iron antianemic preparations	can cause	dark urine
+iron antianemic preparations	can cause	black or hairy tongue
+iron antianemic preparations	can cause	constipation
+iron antianemic preparations	can cause	stomach cramps
+iron antianemic preparations	can cause	metallic taste in the mouth
+iron antianemic preparations	can cause	weight loss
+iron antianemic preparations	can cause	dry mouth
+iron antianemic preparations	can cause	stomach pain
+iron antianemic preparations	can cause	throat irritation
+iron antianemic preparations	can cause	difficulty swallowing
+iron antianemic preparations	can cause	decreased appetite
+iron antianemic preparations	can cause	sleep problems
+iron antianemic preparations	can cause	restlessness
+iron antianemic preparations	can cause	mood changes
+iron antianemic preparations	can cause	skin rash
+iron antianemic preparations	can cause	chest pain
+iron antianemic preparations	can cause	shortness of breath
+iron antianemic preparations	can cause	swelling of the face	lips or tongue
+iron antianemic preparations	can cause	hives
+iron antianemic preparations	can cause	difficulty breathing
+iron antianemic preparations	can cause	rapid heartbeat
+iron antianemic preparations	can cause	allergic reactions
+iron antianemic preparations	can cause	an overdose
+iron antianemic preparations	can cause	death
+iron antianemic preparations	can cause	anemia to improve
+iron antianemic preparations	can cause	iron levels to increase
+iron antianemic preparations	can cause	iron levels to decrease
+iron antianemic preparations	can cause	iron to be absorbed by the body
+iron antianemic preparations	can cause	iron to be excreted by the body
+iron antianemic preparations	can cause	iron to be stored in the body
+iron antianemic preparations	can cause	iron to be transported in the blood
+iron antianemic preparations	can cause	iron to be utilized by the body
+iron antianemic preparations	can cause	iron deficiency to be corrected
+iron antianemic preparations	can cause	iron overload to occur
+iron antianemic preparations	can cause	iron to bind to proteins
+iron antianemic preparations	can cause	iron to be released from proteins
+iron antianemic preparations	can cause	iron to interact with enzymes
+iron antianemic preparations	can cause	iron to be stored in ferritin
+iron antianemic preparations	can cause	iron to be transported by transferrin
+iron antianemic preparations	can cause	iron to be absorbed in the duodenum
+iron antianemic preparations	can cause	iron to be absorbed in the small intestine
+iron antianemic preparations	can cause	iron to be absorbed by active transport
+iron antianemic preparations	can cause	iron to be absorbed by facilitated diffusion
+iron antianemic preparations	can cause	iron to be absorbed by heme carriers
+iron antianemic preparations	can cause	iron to be absorbed by divalent metal transporter 1
+iron antianemic preparations	can cause	iron to be absorbed by gastric acid
+iron antianemic preparations	can cause	iron to be absorbed by ascorbic acid
+iron antianemic preparations	can cause	iron to be absorbed by food components
+iron antianemic preparations	can cause	iron to be transported to the bone marrow
+iron antianemic preparations	can cause	iron to be utilized in the production of red blood cells
+iron antianemic preparations	can cause	iron to be utilized in the synthesis of hemoglobin
+iron antianemic preparations	can cause	iron to be utilized in the production of myoglobin
+iron antianemic preparations	can cause	iron to be utilized in the production of cytochromes
+iron antianemic preparations	can cause	iron to be utilized in the production of enzymes
+iron antianemic preparations	can cause	iron to be utilized in oxygen transport
+iron antianemic preparations	can cause	iron to be utilized in energy production
+iron antianemic preparations	can cause	iron to be utilized in neural development
+iron antianemic preparations	can cause	iron to be utilized in immune function
+iron antianemic preparations	can cause	iron to be utilized in DNA synthesis
+iron antianemic preparations	can cause	iron to be utilized in cell proliferation
+iron antianemic preparations	can cause	iron to be utilized in synaptic transmission
+iron antianemic preparations	can cause	iron to be utilized in dopamine synthesis
+iron antianemic preparations	can cause	iron to be utilized in serotonin synthesis
+iron antianemic preparations	can cause	iron to be utilized in norepinephrine synthesis
+iron antianemic preparations	can cause	iron to be utilized in hemostasis
+iron antianemic preparations	can cause	iron to be utilized in thyroid hormone synthesis
+iron antianemic preparations	can cause	iron to bind to ferritin
+iron antianemic preparations	can cause	iron to be transported by transferrin
+iron antianemic preparations	can cause	iron to be stored in liver
+iron antianemic preparations	can cause	iron to be stored in spleen
+iron antianemic preparations	can cause	iron to be stored in bone marrow
+iron antianemic preparations	can cause	iron to be stored in muscle
+iron antianemic preparations	can cause	iron to be stored in duodenum
+iron antianemic preparations	can cause	iron to be stored in macrophages
+iron antianemic preparations	can cause	iron to be stored in ferritin
+iron antianemic preparations	can cause	iron to be transported in blood plasma
+iron antianemic preparations	can cause	iron to be transported by transferrin
+iron antianemic preparations	can cause	iron to be utilized in erythropoiesis
+iron antianemic preparations	can cause	iron to be utilized in cellular respiration
+iron antianemic preparations	can cause	iron to be utilized in immune response
+iron antianemic preparations	can cause	iron to be utilized in heart function
+iron antianemic preparations	can cause	iron to be utilized in muscle function
+iron antianemic preparations	can cause	iron to be utilized in brain function
+iron antianemic preparations	can cause	iron to be utilized in bone development
+iron antianemic preparations	can cause	iron to be utilized in hormone production
+iron antianemic preparations	can cause	iron to be utilized in enzyme activity
+iron antianemic preparations	can cause	iron to be utilized in neurotransmitter synthesis
+iron antianemic preparations	can cause	iron to be utilized in red blood cell production
+iron antianemic preparations	can cause	iron to be utilized in oxygen transport
+iron antianemic preparations	can cause	iron to be utilized in metabolism
+iron antianemic preparations	can cause	iron to be utilized in growth and development
+iron antianemic preparations	can cause	iron to be utilized in wound healing
+iron antianemic preparations	can cause	iron to be utilized in DNA repair
+iron antianemic preparations	can cause	iron to be utilized in immune cell production
+iron antianemic preparations	can cause	iron to be utilized in cellular signaling
+iron antianemic preparations	can cause	iron to be utilized in neurotransmission
+iron antianemic preparations	can cause	iron to be utilized in thyroid hormone synthesis
+iron antianemic preparations	can cause	iron to be utilized in muscle contraction
+iron antianemic preparations	can cause	iron to be utilized in blood clotting
+iron antianemic preparations	can cause	iron to be utilized in energy metabolism
+iron antianemic preparations	can cause	iron to build up in the body
+iron antianemic preparations	can cause	iron to be eliminated from the body
+iron antianemic preparations	can cause	iron to be excreted in urine
+iron antianemic preparations	can cause	iron to be excreted in feces
+iron antianemic preparations	can cause	iron to be excreted through sweating
+iron antianemic preparations	can cause	iron to be excreted in breast milk
+iron antianemic preparations	can cause	iron to be excreted by the kidneys
+iron antianemic preparations	can cause	iron to be excreted by the liver
+iron antianemic preparations	can cause	iron to be excreted by the skin
+iron antianemic preparations	can cause	iron to be excreted by the lungs
+iron antianemic preparations	can cause	iron to be excreted in tears
+iron antianemic preparations	can cause	iron to be excreted in saliva
+iron antianemic preparations	can cause	iron to be excreted by the intestines
+iron antianemic preparations	can cause	iron to be excreted by the pancreas
+iron antianemic preparations	can cause	iron to be excreted by the prostate
+iron antianemic preparations	can cause	iron to be excreted by the testes
+iron antianemic preparations	can cause	iron to be excreted by the ovaries
+iron antianemic preparations	can cause	iron to be excreted by the uterus
+iron antianemic preparations	can cause	iron to be excreted by the vagina
+iron antianemic preparations	can cause	iron to be excreted in semen
+iron antianemic preparations	can cause	iron to be excreted in vaginal fluid
+iron antianemic preparations	can cause	iron to be excreted in bile
+iron antianemic preparations	can cause	iron to be excreted in cerumen
+iron antianemic preparations	can cause	iron to be excreted by the lacrimal glands
+iron antianemic preparations	can cause	iron to be excreted by the salivary glands
+iron antianemic preparations	can cause	iron to be excreted by the lactating mammary glands
+iron antianemic preparations	can cause	iron to be excreted by the sudoriferous glands
+iron antianemic preparations	can cause	iron to be excreted by the meibomian glands
+iron antianemic preparations	can cause	iron to be excreted by the ceruminous glands
+iron antianemic preparations	can cause	iron to be eliminated from the body through excretion
+iron antianemic preparations	can cause	iron to be eliminated from the body through metabolism
+iron antianemic preparations	can cause	iron to be eliminated from the body through respiration
+iron antianemic preparations	can cause	iron to be eliminated from the body through lactation
+iron antianemic preparations	can cause	iron to be eliminated from the body through menstruation
+iron antianemic preparations	can cause	iron to be eliminated from the body through ejaculation
+iron antianemic preparations	can cause	iron to be eliminated from the body through urine
+iron antianemic preparations	can cause	iron to be eliminated from the body through faeces
+iron antianemic preparations	can cause	iron to be eliminated from the body through sweat
+iron antianemic preparations	can cause	iron to be eliminated from the body through tears
+iron antianemic preparations	can cause	iron to be eliminated from the body through saliva
+iron antianemic preparations	can cause	iron to be eliminated from the body through bile
+iron antianemic preparations	can cause	iron to be eliminated from the body through cerumen
+iron antianemic preparations	can cause	iron to be absorbed in the gastrointestinal tract
+iron antianemic preparations	can cause	iron to be absorbed in the small intestine
+iron antianemic preparations	can cause	iron to be absorbed in the duodenum
+iron antianemic preparations	can cause	iron to be absorbed in the jejunum
+iron antianemic preparations	can cause	iron to be absorbed in the ileum
+iron antianemic preparations	can cause	iron to be absorbed in the colon
+iron antianemic preparations	can cause	iron to be absorbed in the rectum
+iron antianemic preparations	can cause	iron to be absorbed in the stomach
+iron antianemic preparations	can cause	iron to be absorbed in the pancreas
+iron antianemic preparations	can cause	iron to be absorbed in the liver
+iron antianemic preparations	can cause	iron to be absorbed in the gallbladder
+iron antianemic preparations	can cause	iron to be absorbed in the spleen
+iron antianemic preparations	can cause	iron to be absorbed in the kidney
+iron antianemic preparations	can cause	iron to be absorbed in the bladder
+iron antianemic preparations	can cause	iron to be absorbed in the ureters
+iron antianemic preparations	can cause	iron to be absorbed in the urethra
+iron antianemic preparations	can cause	iron to be absorbed in the vagina
+iron antianemic preparations	can cause	iron to be absorbed in the cervix
+iron antianemic preparations	can cause	iron to be absorbed in the uterus
+iron antianemic preparations	can cause	iron to be absorbed in the fallopian tubes
+iron antianemic preparations	can cause	iron to be absorbed in the ovaries
+iron antianemic preparations	can cause	iron to be absorbed in the testes
+iron antianemic preparations	can cause	iron to be absorbed in the prostate
+iron antianemic preparations	can cause	iron to be absorbed in the seminal vesicles
+iron antianemic preparations	can cause	iron to be absorbed in the epididymis
+iron antianemic preparations	can cause	iron to be absorbed in the Mammary glands
+iron antianemic preparations	can cause	iron to be absorbed in the Lactiferous sinuses
+iron antianemic preparations	can cause	iron to be absorbed in the Alveoli
+iron antianemic preparations	can cause	iron to be absorbed in the Lactiferous duct
+iron antianemic preparations	can cause	iron to be absorbed in the Fornix
+iron antianemic preparations	can cause	iron to be absorbed in the Montgomery glands
+iron antianemic preparations	can cause	iron to be absorbed in the Areola
+iron antianemic preparations	can cause	iron to be absorbed in the Sulcus lunatus
+iron antianemic preparations	can cause	iron to be absorbed in the Skin

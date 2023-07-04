@@ -1,0 +1,272 @@
+stomatological preparations	are used for	dental care
+dental care	includes	teeth cleaning
+stomatological preparations	can be	toothpaste
+toothpaste	contains	fluoride
+stomatological preparations	used for	mouthwash
+mouthwash	helps with	bad breath
+stomatological preparations	used for	dental fillings
+dental fillings	are used to	restore teeth
+stomatological preparations	include	dental floss
+dental floss	is used for	teeth cleaning
+stomatological preparations	can be	dental sealants
+dental sealants	protect against	tooth decay
+stomatological preparations	used for	dentures
+dentures	replace	missing teeth
+stomatological preparations	can be	dental adhesives
+dental adhesives	help with	securing dentures
+stomatological preparations	used for	dental braces
+dental braces	are used to	align teeth
+stomatological preparations	include	mouthguards
+mouthguards	protect	teeth during sports
+stomatological preparations	used for	oral surgery
+oral surgery	includes	tooth extraction
+stomatological preparations	can be	dental anesthetics
+dental anesthetics	numb	the mouth
+stomatological preparations	used for	gum disease
+gum disease	causes	inflammation
+stomatological preparations	can be	antiseptic mouthwash
+antiseptic mouthwash	helps with	killing bacteria
+stomatological preparations	used for	teeth whitening
+teeth whitening	can remove	stains
+stomatological preparations	can be	orthodontic appliances
+orthodontic appliances	correct	misaligned teeth
+stomatological preparations	used for	root canal treatment
+root canal treatment	removes	infected pulp
+stomatological preparations	can be	dental implants
+dental implants	replace	missing teeth
+stomatological preparations	used for	temporomandibular joint disorder
+temporomandibular joint disorder	causes	jaw pain
+stomatological preparations	can be	dental occlusal splints
+dental occlusal splints	help with	teeth grinding
+stomatological preparations	used for	oral cancer screening
+oral cancer screening	detects	abnormal cells
+stomatological preparations	can be	dental bonding agents
+dental bonding agents	help with	tooth restoration
+stomatological preparations	used for	dental examinations
+dental examinations	involve	checking for cavities
+stomatological preparations	can be	teeth desensitizing agents
+teeth desensitizing agents	reduce	tooth sensitivity
+stomatological preparations	used for	periodontal disease
+periodontal disease	affects	gums and bone
+stomatological preparations	can be	dental prosthesis
+dental prosthesis	replaces	missing teeth
+stomatological preparations	used for	oral hygiene
+oral hygiene	involves	keeping the mouth clean
+stomatological preparations	can be	mouth ulcer gel
+mouth ulcer gel	helps with	healing mouth sores
+stomatological preparations	used for	dental sealant application
+dental sealant application	protects	teeth from decay
+stomatological preparations	can be	dental restorative materials
+dental restorative materials	repair	damaged teeth
+stomatological preparations	used for	teeth polishing
+teeth polishing	removes	surface stains
+stomatological preparations	can be	dental crowns
+dental crowns	cover	damaged teeth
+stomatological preparations	used for	oral health education
+oral health education	teaches	proper oral care
+stomatological preparations	can be	teeth whitening strips
+teeth whitening strips	help in	whitening teeth
+stomatological preparations	used for	tooth extraction
+tooth extraction	removes	damaged or painful teeth
+stomatological preparations	can be	dental brackets
+dental brackets	are used in	orthodontic treatment
+stomatological preparations	used for	dental scaling
+dental scaling	removes	plaque and tartar
+stomatological preparations	can be	mouthguards for snoring
+mouthguards for snoring	help in	reducing snoring
+stomatological preparations	used for	dental bonding
+dental bonding	improves	tooth appearance
+stomatological preparations	can be	dental veneers
+dental veneers	enhance	tooth aesthetics
+stomatological preparations	used for	oral implant surgery
+oral implant surgery	involves	placement of dental implants
+stomatological preparations	can be	saliva substitutes
+saliva substitutes	help with	dry mouth
+stomatological preparations	used for	dental radiographs
+dental radiographs	are used to	diagnose dental conditions
+stomatological preparations	can be	teeth aligners
+teeth aligners	help in	teeth straightening
+stomatological preparations	used for	dental whitening gels
+dental whitening gels	whiten	teeth
+stomatological preparations	can be	dental root canals
+dental root canals	treat	infected tooth pulp
+stomatological preparations	used for	dental plaque control
+dental plaque control	prevents	tooth decay
+stomatological preparations	can be	oral irrigators
+oral irrigators	clean	the mouth with water
+stomatological preparations	used for	dental splints
+dental splints	stabilize	loose teeth
+stomatological preparations	can be	mouth ulcers ointment
+mouth ulcers ointment	treats	mouth ulcers
+stomatological preparations	used for	dental bridge placement
+dental bridge placement	replaces	missing teeth
+stomatological preparations	can be	teeth grinding mouthguards
+teeth grinding mouthguards	protect	teeth from grinding
+stomatological preparations	used for	oral thrush treatment
+oral thrush treatment	treats	fungal infection
+stomatological preparations	can be	dental amalgam fillings
+dental amalgam fillings	restore	cavities
+stomatological preparations	used for	gum surgery
+gum surgery	treats	gum disease
+stomatological preparations	can be	interdental brushes
+interdental brushes	clean	the spaces between teeth
+stomatological preparations	used for	dental abscess drainage
+dental abscess drainage	treats	tooth infection
+stomatological preparations	can be	dental pulp removal agents
+dental pulp removal agents	remove	infected tooth pulp
+stomatological preparations	used for	dental education programs
+dental education programs	promote	oral health awareness
+stomatological preparations	can be	teeth cleaning solutions
+teeth cleaning solutions	remove	plaque and stains
+stomatological preparations	used for	dental bone grafting
+dental bone grafting	replaces	lost bone in the jaw
+stomatological preparations	can be	oral disinfectants
+oral disinfectants	kill	bacteria in the mouth
+stomatological preparations	used for	dental fluorosis prevention
+dental fluorosis prevention	avoids	excessive fluoride intake
+stomatological preparations	can be	teeth whitening trays
+teeth whitening trays	hold	whitening gel
+stomatological preparations	used for	dental pulp capping
+dental pulp capping	preserves	damaged tooth pulp
+stomatological preparations	can be	orthodontic retainers
+orthodontic retainers	maintain	teeth alignment
+stomatological preparations	used for	dental prosthesis cleaning
+dental prosthesis cleaning	keeps	prosthetic teeth clean
+stomatological preparations	can be	dental pulpotomy materials
+dental pulpotomy materials	treat	infected tooth pulp
+stomatological preparations	used for	dental root planing
+dental root planing	cleans	tooth root surfaces
+stomatological preparations	can be	oral corticosteroids
+oral corticosteroids	reduce	inflammation in the mouth
+stomatological preparations	used for	dental restoration
+dental restoration	repairs	damaged teeth
+stomatological preparations	can be	dental veneer adhesives
+dental veneer adhesives	secure	dental veneers
+stomatological preparations	used for	dental trauma treatment
+dental trauma treatment	manages	tooth injuries
+stomatological preparations	can be	dental x-ray contrast agents
+dental x-ray contrast agents	help with	imaging teeth
+stomatological preparations	used for	dental sensitivity treatment
+dental sensitivity treatment	reduces	tooth sensitivity
+stomatological preparations	can be	oral candidiasis medication
+oral candidiasis medication	treats	fungal infection in the mouth
+stomatological preparations	used for	dental cavity prevention
+dental cavity prevention	reduces	risk of tooth decay
+stomatological preparations	can be	orthodontic separators
+orthodontic separators	create	space between teeth
+stomatological preparations	used for	dental prosthesis repair
+dental prosthesis repair	fixes	broken prosthetic teeth
+stomatological preparations	can be	gum disease mouthwash
+gum disease mouthwash	controls	gum inflammation
+stomatological preparations	used for	dental cementation
+dental cementation	attaches	dental restorations
+stomatological preparations	can be	tooth desensitizing films
+tooth desensitizing films	reduce	tooth sensitivity
+stomatological preparations	used for	dental implant surgery
+dental implant surgery	replaces	missing teeth
+stomatological preparations	can be	dental splinting materials
+dental splinting materials	stabilize	loose teeth
+stomatological preparations	used for	orthodontic appliances care
+orthodontic appliances care	maintains	appliance hygiene
+stomatological preparations	can be	dental root canal sealants
+dental root canal sealants	seal	treated tooth roots
+stomatological preparations	used for	dental sealant maintenance
+dental sealant maintenance	prolongs	sealant effectiveness
+stomatological preparations	can be	oral antifungals
+oral antifungals	treat	fungal infections in the mouth
+stomatological preparations	used for	dental cavity treatment
+dental cavity treatment	removes	decayed tooth tissue
+stomatological preparations	can be	denture adhesives
+denture adhesives	secure	dentures in place
+stomatological preparations	used for	dental hygiene instructions
+dental hygiene instructions	teach	proper oral care
+stomatological preparations	can be	dental remineralization agents
+dental remineralization agents	restore	tooth enamel
+stomatological preparations	used for	dental abscess treatment
+dental abscess treatment	drains	infected tooth abscess
+stomatological preparations	can be	bruxism oral appliances
+bruxism oral appliances	prevent	teeth grinding
+stomatological preparations	used for	oral prosthesis adjustment
+oral prosthesis adjustment	improves	prosthesis fit
+stomatological preparations	can be	dental pulp sedatives
+dental pulp sedatives	relieve	tooth pain
+stomatological preparations	used for	dental bridge repair
+dental bridge repair	fixes	damaged dental bridges
+stomatological preparations	can be	orthodontic retainer cleaners
+orthodontic retainer cleaners	keep	retainers clean
+stomatological preparations	used for	dental prophylaxis
+dental prophylaxis	cleans	teeth and gums
+stomatological preparations	can be	oral rinses
+oral rinses	refresh	the mouth
+stomatological preparations	used for	dental sealant replacement
+dental sealant replacement	refreshes	sealant protection
+stomatological preparations	can be	mouth ulcer solutions
+mouth ulcer solutions	promote	mouth ulcer healing
+stomatological preparations	used for	dental implant maintenance
+dental implant maintenance	ensures	implant longevity
+stomatological preparations	can be	dental pulp capping agents
+dental pulp capping agents	preserve	damaged tooth pulp
+stomatological preparations	used for	periodontal treatment
+periodontal treatment	manages	gum disease
+stomatological preparations	can be	tongue scrapers
+tongue scrapers	clean	the tongue
+stomatological preparations	used for	dental emergency treatments
+dental emergency treatments	address	urgent dental issues
+stomatological preparations	can be	orthodontic headgear
+orthodontic headgear	helps with	correcting jaw and bite problems
+stomatological preparations	used for	oral appliance fitting
+oral appliance fitting	customizes	dental appliances
+stomatological preparations	can be	dental impression materials
+dental impression materials	create	dental impressions
+stomatological preparations	used for	dental bonding procedures
+dental bonding procedures	improve	tooth appearance
+stomatological preparations	can be	teeth sensitivity gels
+teeth sensitivity gels	reduce	tooth sensitivity
+stomatological preparations	used for	dental plaque removal
+dental plaque removal	cleans	teeth surfaces
+stomatological preparations	can be	dry mouth sprays
+dry mouth sprays	alleviate	dry mouth symptoms
+stomatological preparations	used for	dental crown placement
+dental crown placement	restores	damaged teeth
+stomatological preparations	can be	orthodontic aligners
+orthodontic aligners	straighten	teeth
+stomatological preparations	used for	dental calculus removal
+dental calculus removal	cleans	teeth from tartar
+stomatological preparations	can be	mouthguard disinfectants
+mouthguard disinfectants	sanitize	mouthguards
+stomatological preparations	used for	palatal expanders
+palatal expanders	widen	the upper jaw
+stomatological preparations	can be	dental impressions
+dental impressions	capture	tooth structure
+stomatological preparations	used for	dental splinting
+dental splinting	stabilizes	loose teeth
+stomatological preparations	can be	dental bite guards
+dental bite guards	protect	teeth from clenching
+stomatological preparations	used for	teeth stain removal
+teeth stain removal	whitens	discolored teeth
+stomatological preparations	can be	dental prosthetic maintenance
+dental prosthetic maintenance	keeps	prosthetic teeth in good condition
+stomatological preparations	used for	dental emergencies
+dental emergencies	require	immediate dental care
+stomatological preparations	can be	orthodontic brackets
+orthodontic brackets	are used in	braces
+stomatological preparations	used for	orthodontic treatment
+orthodontic treatment	aligns	teeth
+stomatological preparations	can be	saliva stimulants
+saliva stimulants	increase	saliva production
+stomatological preparations	used for	dental bridge removal
+dental bridge removal	takes out	dental bridges
+stomatological preparations	can be	dental fluorides
+dental fluorides	prevent	tooth decay
+stomatological preparations	used for	dental impression disinfection
+dental impression disinfection	sterilizes	dental impressions
+stomatological preparations	can be	oral pain relievers
+oral pain relievers	alleviate	tooth pain
+stomatological preparations	used for	gum inflammation treatment
+gum inflammation treatment	reduces	swollen gum tissue
+stomatological preparations	can be	dental filling materials
+dental filling materials	restore	cavities
+stomatological preparations	used for	bruxism treatment
+bruxism treatment	manages	teeth grinding
+stomatological preparations	can be	dental splint adhesives
+dental splint adhesives	attach	dental splints

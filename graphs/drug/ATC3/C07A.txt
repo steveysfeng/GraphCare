@@ -1,0 +1,82 @@
+beta blocking agents	are	drugs
+beta blocking agents	commonly prescribed for	hypertension
+hypertension	is a	medical condition
+beta blocking agents	used to	decrease heart rate
+beta blocking agents	can cause	fatigue
+beta blocking agents	can lead to	erectile dysfunction
+beta blocking agents	may interact with	other medications
+beta blocking agents	are contraindicated in	asthma
+beta blocking agents	can increase	risk of hypoglycemia
+beta blocking agents	should not be used in	heart failure
+beta blocking agents	can reduce	anxiety
+beta blocking agents	can worsen	depression
+beta blocking agents	may cause	bronchospasm
+beta blocking agents	can cause	dizziness
+beta blocking agents	are associated with	sleep disturbances
+beta blocking agents	are helpful in	preventing migraines
+beta blocking agents	can result in	weight gain
+beta blocking agents	can decrease	exercise capacity
+beta blocking agents	are beneficial in	treating glaucoma
+beta blocking agents	can alleviate	stage fright
+beta blocking agents	may impair	memory
+beta blocking agents	can cause	cold hands and feet
+beta blocking agents	may increase	risk of falls
+beta blocking agents	are used in	cardiac arrhythmias
+beta blocking agents	may reduce	tremors
+beta blocking agents	should not be abruptly discontinued in	patients with coronary artery disease
+beta blocking agents	can worsen	symptoms of Raynaud's disease
+beta blocking agents	can decrease	blood pressure
+beta blocking agents	may affect	lipid profile
+beta blocking agents	can cause	shortness of breath
+beta blocking agents	may result in	bradycardia
+beta blocking agents	are effective in	treating essential tremors
+beta blocking agents	can cause	gastrointestinal problems
+beta blocking agents	should be used with caution in	elderly patients
+beta blocking agents	may exacerbate	psoriasis
+beta blocking agents	can increase	risk of stroke
+beta blocking agents	are useful in	managing hyperthyroidism
+beta blocking agents	may cause	impotence
+beta blocking agents	can impair	glucose tolerance
+beta blocking agents	should not be used in	pregnant women
+beta blocking agents	are associated with	decreased exercise tolerance
+beta blocking agents	can improve	symptoms of angina
+beta blocking agents	may result in	peripheral edema
+beta blocking agents	can cause	hoarseness
+beta blocking agents	should be used with caution in	patients with renal impairment
+beta blocking agents	can worsen	symptoms of asthma
+beta blocking agents	may reduce	risk of atrial fibrillation
+beta blocking agents	can lead to	sleep disturbances
+beta blocking agents	are commonly used in	heart failure
+beta blocking agents	can alleviate	akathisia
+beta blocking agents	may cause	nightmares
+beta blocking agents	can increase	risk of falls in elderly
+beta blocking agents	should be used with caution in	patients with peripheral vascular disease
+beta blocking agents	may exacerbate	depression
+beta blocking agents	can result in	hypotension
+beta blocking agents	are effective in	treating essential tremor
+beta blocking agents	can cause	bradycardia
+beta blocking agents	may cause	exacerbation of heart failure symptoms
+beta blocking agents	can impair	cognitive function
+beta blocking agents	should be used cautiously in	patients with diabetes
+beta blocking agents	can reduce	anxiety symptoms
+beta blocking agents	may cause	wheezing
+beta blocking agents	are associated with	decreased exercise capacity
+beta blocking agents	can cause	skin rash
+beta blocking agents	may result in	sexual dysfunction
+beta blocking agents	can decrease	intraocular pressure
+beta blocking agents	are commonly prescribed for	migraines
+beta blocking agents	can exacerbate	asthma symptoms
+beta blocking agents	may increase	risk of heart attack
+beta blocking agents	should be used cautiously in	patients with liver disease
+beta blocking agents	can cause	vivid dreams
+beta blocking agents	may lead to	bronchospasm
+beta blocking agents	can worsen	congestive heart failure
+beta blocking agents	are contraindicated in	patients with heart block
+beta blocking agents	can impair	mental alertness
+beta blocking agents	should be used cautiously in	patients with hyperthyroidism
+beta blocking agents	may result in	orthostatic hypotension
+beta blocking agents	can cause	dry eyes
+beta blocking agents	may exacerbate	psoriatic arthritis
+beta blocking agents	can increase	risk of bronchospasm
+beta blocking agents	are effective in	treating hypertension
+beta blocking agents	may cause	fatigue

@@ -1,0 +1,226 @@
+other drugs	used in	diabetes
+diabetes	treated with	drugs
+drugs	classified under	ATC (Anatomical Therapeutic Chemical) code
+ATC code	helps in	categorizing drugs
+diabetes	managed with	medication
+medication	includes	drug therapy
+drug therapy	aimed at	controlling blood sugar levels
+blood sugar levels	affected by	diabetes
+diabetes	can cause	high blood sugar
+high blood sugar	can lead to	complications
+complications	require	treatment
+treatment	can involve	medication
+medication	prescribed for	managing diabetes
+managing diabetes	crucial for	maintaining health
+health	impacted by	diabetes
+diabetes	contributes to	various health issues
+health issues	require	medical intervention
+medical intervention	often includes	drugs
+drugs	improve	diabetes management
+diabetes management	important for	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	drug utilization
+drug utilization	dependent on	diabetes type
+diabetes type	determines	appropriate drug therapy
+appropriate drug therapy	critical for	effective treatment
+effective treatment	crucial for	diabetes control
+diabetes control	essential for	preventing complications
+preventing complications	key in	maintaining quality of life
+maintaining quality of life	affected by	diabetes control
+diabetes control	vital for	long-term health
+long-term health	impacted by	diabetes control
+diabetes control	aided by	drug therapy
+drug therapy	assists in	managing blood sugar levels
+managing blood sugar levels	necessary for	diabetes control
+diabetes control	necessary for	preventing complications
+preventing complications	crucial for	overall health
+overall health	influenced by	diabetes control
+diabetes control	improved with	medication
+medication	plays a role in	diabetes management
+diabetes management	linked to	drug therapy
+drug therapy	an integral part of	diabetes treatment
+diabetes treatment	essential for	disease management
+disease management	important for	long-term well-being
+long-term well-being	impacted by	diabetes treatment
+diabetes treatment	involves	medication usage
+medication usage	necessary for	managing diabetes
+managing diabetes	vital for	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	emphasizes	drug utilization
+drug utilization	addresses	diabetes treatment goals
+diabetes treatment goals	include	blood sugar control
+blood sugar control	important for	managing diabetes
+managing diabetes	critical for	overall health
+overall health	affected by	diabetes management
+diabetes management	supports	medication efficacy
+medication efficacy	influenced by	diabetes control
+diabetes control	achieved through	drug therapy
+drug therapy	contributes to	diabetes management
+diabetes management	enhances	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	medication administration
+medication administration	necessary for	managing diabetes
+managing diabetes	plays a role in	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	relies on	drug therapy
+drug therapy	aids in	controlling blood sugar levels
+controlling blood sugar levels	crucial for	managing diabetes
+managing diabetes	essential for	preventing complications
+preventing complications	important for	overall health
+overall health	influenced by	diabetes management
+diabetes management	improves	medication utilization
+medication utilization	impacted by	diabetes control
+diabetes control	facilitated by	drug therapy
+drug therapy	essential for	diabetes management
+diabetes management	necessary for	optimal health
+optimal health	influenced by	diabetes management
+diabetes management	involves	medication usage
+medication usage	vital for	managing diabetes
+managing diabetes	important for	maintaining health
+maintaining health	impacted by	diabetes management
+diabetes management	emphasizes	drug utilization
+drug utilization	addresses	diabetes treatment goals
+diabetes treatment goals	focused on	blood sugar control
+blood sugar control	crucial for	managing diabetes
+managing diabetes	critical for	overall health
+overall health	affected by	diabetes management
+diabetes management	supports	medication efficacy
+medication efficacy	influenced by	diabetes control
+diabetes control	achieved through	drug therapy
+drug therapy	contributes to	diabetes management
+diabetes management	enhances	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	medication administration
+medication administration	necessary for	managing diabetes
+managing diabetes	plays a role in	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	relies on	drug therapy
+drug therapy	aids in	controlling blood sugar levels
+controlling blood sugar levels	crucial for	managing diabetes
+managing diabetes	essential for	preventing complications
+preventing complications	important for	overall health
+overall health	influenced by	diabetes management
+diabetes management	improves	medication utilization
+medication utilization	impacted by	diabetes control
+diabetes control	facilitated by	drug therapy
+drug therapy	essential for	diabetes management
+diabetes management	necessary for	optimal health
+optimal health	influenced by	diabetes management
+diabetes management	involves	medication usage
+medication usage	vital for	managing diabetes
+managing diabetes	important for	maintaining health
+maintaining health	impacted by	diabetes management
+diabetes management	emphasizes	drug utilization
+drug utilization	addresses	diabetes treatment goals
+diabetes treatment goals	focused on	blood sugar control
+blood sugar control	crucial for	managing diabetes
+managing diabetes	critical for	overall health
+overall health	affected by	diabetes management
+diabetes management	supports	medication efficacy
+medication efficacy	influenced by	diabetes control
+diabetes control	achieved through	drug therapy
+drug therapy	contributes to	diabetes management
+diabetes management	enhances	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	medication administration
+medication administration	necessary for	managing diabetes
+managing diabetes	plays a role in	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	relies on	drug therapy
+drug therapy	aids in	controlling blood sugar levels
+controlling blood sugar levels	crucial for	managing diabetes
+managing diabetes	essential for	preventing complications
+preventing complications	important for	overall health
+overall health	influenced by	diabetes management
+diabetes management	improves	medication utilization
+medication utilization	impacted by	diabetes control
+diabetes control	facilitated by	drug therapy
+drug therapy	essential for	diabetes management
+diabetes management	necessary for	optimal health
+optimal health	influenced by	diabetes management
+diabetes management	involves	medication usage
+medication usage	vital for	managing diabetes
+managing diabetes	important for	maintaining health
+maintaining health	impacted by	diabetes management
+diabetes management	emphasizes	drug utilization
+drug utilization	addresses	diabetes treatment goals
+diabetes treatment goals	designed to	control blood sugar levels
+control blood sugar levels	important for	managing diabetes
+managing diabetes	critical for	overall health
+overall health	affected by	diabetes management
+diabetes management	supports	medication efficacy
+medication efficacy	influenced by	diabetes control
+diabetes control	achieved through	drug therapy
+drug therapy	contributes to	diabetes management
+diabetes management	enhances	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	medication administration
+medication administration	necessary for	managing diabetes
+managing diabetes	plays a role in	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	relies on	drug therapy
+drug therapy	aids in	controlling blood sugar levels
+controlling blood sugar levels	crucial for	managing diabetes
+managing diabetes	essential for	preventing complications
+preventing complications	important for	overall health
+overall health	influenced by	diabetes management
+diabetes management	improves	medication utilization
+medication utilization	impacted by	diabetes control
+diabetes control	facilitated by	drug therapy
+drug therapy	essential for	diabetes management
+diabetes management	necessary for	optimal health
+optimal health	influenced by	diabetes management
+diabetes management	involves	medication usage
+medication usage	vital for	managing diabetes
+managing diabetes	important for	maintaining health
+maintaining health	impacted by	diabetes management
+diabetes management	emphasizes	drug utilization
+drug utilization	addresses	diabetes treatment goals
+diabetes treatment goals	focused on	blood sugar control
+blood sugar control	crucial for	managing diabetes
+managing diabetes	critical for	overall health
+overall health	affected by	diabetes management
+diabetes management	supports	medication efficacy
+medication efficacy	influenced by	diabetes control
+diabetes control	achieved through	drug therapy
+drug therapy	contributes to	diabetes management
+diabetes management	enhances	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	medication administration
+medication administration	necessary for	managing diabetes
+managing diabetes	plays a role in	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	relies on	drug therapy
+drug therapy	aids in	controlling blood sugar levels
+controlling blood sugar levels	crucial for	managing diabetes
+managing diabetes	essential for	preventing complications
+preventing complications	important for	overall health
+overall health	influenced by	diabetes management
+diabetes management	improves	medication utilization
+medication utilization	impacted by	diabetes control
+diabetes control	facilitated by	drug therapy
+drug therapy	essential for	diabetes management
+diabetes management	necessary for	optimal health
+optimal health	influenced by	diabetes management
+diabetes management	involves	medication usage
+medication usage	vital for	managing diabetes
+managing diabetes	important for	maintaining health
+maintaining health	impacted by	diabetes management
+diabetes management	emphasizes	drug utilization
+drug utilization	addresses	diabetes treatment goals
+diabetes treatment goals	designed to	control blood sugar levels
+control blood sugar levels	important for	managing diabetes
+managing diabetes	critical for	overall health
+overall health	affected by	diabetes management
+diabetes management	supports	medication efficacy
+medication efficacy	influenced by	diabetes control
+diabetes control	achieved through	drug therapy
+drug therapy	contributes to	diabetes management
+diabetes management	enhances	overall well-being
+overall well-being	influenced by	diabetes management
+diabetes management	includes	medication administration
+medication administration	necessary for	managing diabetes
+managing diabetes	plays a role in	maintaining health
+maintaining health	influenced by	diabetes management
+diabetes management	relies on	drug therapy
+drug therapy	aids in	controlling blood sugar levels

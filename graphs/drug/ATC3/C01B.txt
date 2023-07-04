@@ -1,0 +1,8 @@
+antiarrhythmics	are	drugs
+drugs	used to treat	abnormal heart rhythms
+antiarrhythmics	classified as	class I
+class I	includes	sodium channel blockers
+class I	used to	slow the conduction of electrical signals in the heart
+antiarrhythmics	classified as	class III
+class III	includes	potassium channel blockers
+class III	used to	prolong the duration of the action potential in the heart

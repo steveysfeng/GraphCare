@@ -1,0 +1,83 @@
+combinations of antihypertensives	belong to	atc-gr. c02
+combinations of antihypertensives	are used for	treating high blood pressure
+combinations of antihypertensives	can include	multiple drugs
+multiple drugs	can include	calcium channel blockers
+multiple drugs	can include	diuretics
+multiple drugs	can include	beta blockers
+multiple drugs	can include	angiotensin-converting enzyme inhibitors
+multiple drugs	can include	angiotensin receptor blockers
+multiple drugs	can include	renin inhibitors
+calcium channel blockers	are used for	relaxing and widening blood vessels
+diuretics	are used for	increasing urine production
+beta blockers	are used for	reducing heart rate and blood pressure
+angiotensin-converting enzyme inhibitors	are used for	relaxing blood vessels
+angiotensin receptor blockers	are used for	blocking the actions of certain hormones
+renin inhibitors	are used for	decreasing the production of a hormone called renin
+combinations of antihypertensives	may interact with	other medications
+combinations of antihypertensives	may interact with	certain foods
+combinations of antihypertensives	can cause	side effects
+side effects	can include	dizziness
+side effects	can include	headache
+side effects	can include	fatigue
+side effects	can include	nausea
+side effects	can include	dry cough
+side effects	can include	rash
+combinations of antihypertensives	may increase	the risk of low blood pressure
+combinations of antihypertensives	may increase	the risk of electrolyte imbalances
+combinations of antihypertensives	may increase	the risk of kidney problems
+combinations of antihypertensives	may increase	the risk of liver problems
+combinations of antihypertensives	may increase	the risk of allergic reactions
+combinations of antihypertensives	may decrease	the effectiveness of other medications
+combinations of antihypertensives	may decrease	the effectiveness of certain supplements
+combinations of antihypertensives	may require	regular monitoring of blood pressure
+combinations of antihypertensives	may require	dosage adjustments
+combinations of antihypertensives	may require	frequent blood tests
+combinations of antihypertensives	may require	adherence to a specific diet
+combinations of antihypertensives	may require	lifestyle modifications
+combinations of antihypertensives	may require	avoidance of certain activities
+combinations of antihypertensives	can improve	blood pressure control
+combinations of antihypertensives	can reduce	the risk of heart attack
+combinations of antihypertensives	can reduce	the risk of stroke
+combinations of antihypertensives	can reduce	the risk of kidney damage
+combinations of antihypertensives	can improve	overall cardiovascular health
+combinations of antihypertensives	can enhance	quality of life
+combinations of antihypertensives	should be prescribed	by a healthcare professional
+combinations of antihypertensives	should be taken	as directed
+combinations of antihypertensives	should not be	abruptly discontinued
+combinations of antihypertensives	should not be	taken with certain medications
+combinations of antihypertensives	should not be	taken with certain foods
+combinations of antihypertensives	should be	stored at room temperature
+combinations of antihypertensives	should be	kept out of reach of children
+combinations of antihypertensives	may have	different brand and generic names
+combinations of antihypertensives	may be	available in different formulations
+combinations of antihypertensives	may require	a prior authorization for insurance coverage
+combinations of antihypertensives	may be	covered by insurance
+combinations of antihypertensives	may be	available as generics
+combinations of antihypertensives	may be	available as brand-name drugs
+combinations of antihypertensives	may have	different dosing schedules
+combinations of antihypertensives	may have	specific storage instructions
+combinations of antihypertensives	may be	contraindicated in certain patients
+combinations of antihypertensives	may have	specific age restrictions
+combinations of antihypertensives	may interact with	alcohol
+combinations of antihypertensives	should be	avoided during pregnancy
+combinations of antihypertensives	should not be	taken while breastfeeding
+combinations of antihypertensives	may have	black box warnings
+combinations of antihypertensives	may require	special precautions in certain populations
+combinations of antihypertensives	may require	dose adjustments in elderly patients
+combinations of antihypertensives	should not be	crushed or chewed
+combinations of antihypertensives	should be	swallowed whole
+combinations of antihypertensives	should be	taken with or without food
+combinations of antihypertensives	may be	available in different strengths
+combinations of antihypertensives	should be	taken at the same time each day
+combinations of antihypertensives	may require	periodic blood tests
+combinations of antihypertensives	may require	regular follow-up appointments
+combinations of antihypertensives	may have	different mechanisms of action
+combinations of antihypertensives	may have	different contraindications
+combinations of antihypertensives	may have	different adverse effects
+combinations of antihypertensives	may have	different routes of administration
+combinations of antihypertensives	may have	different drug interactions
+combinations of antihypertensives	may have	different precautions
+combinations of antihypertensives	may have	different warnings
+combinations of antihypertensives	may have	different monitoring requirements
+combinations of antihypertensives	may have	different indications
+combinations of antihypertensives	may have	different therapeutic uses

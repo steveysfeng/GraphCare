@@ -1,0 +1,97 @@
+drugs	can treat	peptic ulcer
+drugs	can treat	gastro-oesophageal reflux disease (GORD)
+peptic ulcer	can cause	stomach pain
+gastro-oesophageal reflux disease (GORD)	can cause	acid reflux
+acid reflux	can lead to	heartburn
+drugs	can relieve	stomach pain
+drugs	can reduce	acid reflux
+drugs	can alleviate	heartburn
+peptic ulcer	can result in	bleeding
+gastro-oesophageal reflux disease (GORD)	can lead to	esophagitis
+esophagitis	may cause	difficulty swallowing
+drugs	can prevent	bleeding
+drugs	can treat	esophagitis
+drugs	can improve	difficulty swallowing
+peptic ulcer	is a	gastrointestinal disorder
+gastro-oesophageal reflux disease (GORD)	is a	chronic condition
+stomach pain	is a	symptom
+acid reflux	is a	symptom
+heartburn	is a	symptom
+bleeding	is a	complication
+esophagitis	is a	complication
+difficulty swallowing	is a	complication
+gastrointestinal disorder	can lead to	complications
+chronic condition	requires	long-term treatment
+symptom	can be alleviated by	medication
+complication	may require	medical intervention
+long-term treatment	can involve	multiple drugs
+medication	can interact with	other medications
+medical intervention	can include	surgical procedures
+multiple drugs	can have	drug interactions
+chronic condition	is associated with	lifestyle modifications
+lifestyle modifications	can help	manage the condition
+surgical procedures	can be performed for	complications
+drug interactions	can result in	adverse effects
+gastrointestinal disorder	can be caused by	bacterial infection
+chronic condition	can be managed through	diet changes
+symptom	can be triggered by	certain foods
+adverse effects	may lead to	medication discontinuation
+bacterial infection	may require	antibiotic treatment
+diet changes	can be recommended by	a nutritionist
+certain foods	can worsen	symptoms
+medication discontinuation	should be done	under medical supervision
+antibiotic treatment	may cause	gastrointestinal side effects
+nutritionist	can provide	dietary recommendations
+symptoms	can vary in	severity
+gastrointestinal disorder	can impact	daily life
+chronic condition	can result in	decreased quality of life
+severity	of symptoms	can be assessed
+daily life	can be affected by	symptoms
+decreased quality of life	can be improved with	appropriate management
+symptoms	can be monitored through	regular check-ups
+appropriate management	can involve	lifestyle adjustments
+severity	can be evaluated through	medical evaluations
+symptoms	can be exacerbated by	stress
+regular check-ups	are important for	disease monitoring
+lifestyle adjustments	can include	stress reduction techniques
+medical evaluations	can guide	treatment decisions
+stress	can worsen	symptoms
+disease monitoring	is necessary for	disease management
+stress reduction techniques	can help	manage symptoms
+treatment decisions	should be made	based on individual patient needs
+peptic ulcer	is a	medical condition
+gastro-oesophageal reflux disease (gord)	is a	medical condition
+peptic ulcer	can cause	stomach pain
+gastro-oesophageal reflux disease (gord)	can cause	heartburn
+drugs	can treat	peptic ulcer
+drugs	can treat	gastro-oesophageal reflux disease (gord)
+drugs	can relieve	stomach pain
+drugs	can relieve	heartburn
+proton pump inhibitors	are a type of	drugs
+proton pump inhibitors	can reduce	stomach acid production
+antacids	are a type of	drugs
+antacids	can neutralize	stomach acid
+H2 blockers	are a type of	drugs
+H2 blockers	can reduce	stomach acid production
+prokinetics	are a type of	drugs
+prokinetics	can help	improve gastrointestinal motility
+mucosal protectants	are a type of	drugs
+mucosal protectants	can form	a protective barrier in the stomach
+lifestyle changes	can help	manage peptic ulcer
+lifestyle changes	can help	manage gastro-oesophageal reflux disease (gord)
+smoking	can worsen	peptic ulcer
+obesity	can worsen	gastro-oesophageal reflux disease (gord)
+caffeine	can worsen	peptic ulcer
+spicy foods	can worsen	gastro-oesophageal reflux disease (gord)
+stress	can worsen	peptic ulcer
+alcohol	can worsen	gastro-oesophageal reflux disease (gord)
+dietary modifications	can help	manage peptic ulcer
+weight loss	can help	manage gastro-oesophageal reflux disease (gord)
+drugs	used for	peptic ulcer
+drugs	used for	gastro-oesophageal reflux disease
+peptic ulcer	can cause	stomach pain
+gastro-oesophageal reflux disease	can cause	heartburn
+drugs	can alleviate	stomach pain
+drugs	can alleviate	heartburn
+stomach pain	can be alleviated by	drugs
+heartburn	can be alleviated by	drugs

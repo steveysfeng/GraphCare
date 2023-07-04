@@ -1,0 +1,184 @@
+blood glucose lowering drugs	can be used for	type 2 diabetes
+blood glucose lowering drugs	may cause	hypoglycemia
+blood glucose lowering drugs	include	metformin
+metformin	used for	type 2 diabetes
+blood glucose lowering drugs	may interact with	other medications
+blood glucose lowering drugs	can be prescribed by	healthcare professionals
+blood glucose lowering drugs	may require	regular monitoring
+blood glucose lowering drugs	can help	improve glycemic control
+blood glucose lowering drugs	should be taken	as directed by healthcare provider
+blood glucose lowering drugs	may have	different mechanisms of action
+blood glucose lowering drugs	may be taken	orally
+blood glucose lowering drugs	may be taken	in combination with insulin
+blood glucose lowering drugs	can be divided into	different classes
+sulfonylureas	are a type of	blood glucose lowering drugs
+sulfonylureas	work by	stimulating insulin secretion
+sulfonylureas	may cause	weight gain
+thiazolidinediones	are a type of	blood glucose lowering drugs
+thiazolidinediones	work by	increasing insulin sensitivity
+thiazolidinediones	may increase	risk of heart failure
+DPP-4 inhibitors	are a type of	blood glucose lowering drugs
+DPP-4 inhibitors	work by	inhibiting the breakdown of incretin hormones
+DPP-4 inhibitors	may cause	joint pain
+SGLT2 inhibitors	are a type of	blood glucose lowering drugs
+SGLT2 inhibitors	work by	blocking the reabsorption of glucose in the kidneys
+SGLT2 inhibitors	may increase	risk of genital infections
+GLP-1 receptor agonists	are a type of	blood glucose lowering drugs
+GLP-1 receptor agonists	work by	stimulating insulin secretion and reducing glucagon secretion
+GLP-1 receptor agonists	may cause	nausea
+meglitinides	are a type of	blood glucose lowering drugs
+meglitinides	work by	stimulating insulin secretion
+meglitinides	may cause	hypoglycemia
+alpha-glucosidase inhibitors	are a type of	blood glucose lowering drugs
+alpha-glucosidase inhibitors	work by	slowing down the digestion of carbohydrates
+alpha-glucosidase inhibitors	may cause	flatulence
+blood glucose lowering drugs	may be affected by	renal function
+blood glucose lowering drugs	should be adjusted	in patients with renal impairment
+blood glucose lowering drugs	should be adjusted	in patients with liver disease
+blood glucose lowering drugs	may require	dose titration
+blood glucose lowering drugs	may be contraindicated in	certain medical conditions
+blood glucose lowering drugs	may have	different side effect profiles
+blood glucose lowering drugs	may be prescribed	in combination with lifestyle modifications
+blood glucose lowering drugs	may have	long-term effects on glycemic control
+blood glucose lowering drugs	can be monitored	through blood glucose testing
+blood glucose lowering drugs	can be monitored	through HbA1c testing
+blood glucose lowering drugs	may cause	gastrointestinal symptoms
+blood glucose lowering drugs	can be associated with	medication adherence challenges
+blood glucose lowering drugs	may have	different onset and duration of action
+blood glucose lowering drugs	may be used	as monotherapy or in combination
+blood glucose lowering drugs	may be prescribed	based on individual patient characteristics
+blood glucose lowering drugs	may have	different treatment goals
+blood glucose lowering drugs	can help	reduce the risk of complications in type 2 diabetes
+blood glucose lowering drugs	can be prescribed	for patients with prediabetes
+sulfonylureas	may be used	as first-line therapy for type 2 diabetes
+metformin	may be used	as first-line therapy for type 2 diabetes
+SGLT2 inhibitors	may be used	as second-line therapy for type 2 diabetes
+DPP-4 inhibitors	may be used	as second-line therapy for type 2 diabetes
+thiazolidinediones	may be used	as third-line therapy for type 2 diabetes
+blood glucose lowering drugs	may require	regular kidney function monitoring
+blood glucose lowering drugs	can affect	lipid levels
+blood glucose lowering drugs	can affect	blood pressure
+blood glucose lowering drugs	can be associated with	weight changes
+blood glucose lowering drugs	may have	different cost and insurance coverage
+blood glucose lowering drugs	can be associated with	drug-drug interactions
+blood glucose lowering drugs	should be used	with caution in pregnancy
+blood glucose lowering drugs	may be adjusted	in older adults
+blood glucose lowering drugs	may require	regular eye examinations
+meglitinides	may be used	as mealtime insulin secretagogues
+alpha-glucosidase inhibitors	may be used	to manage postprandial hyperglycemia
+meglitinides	may be taken	before meals
+alpha-glucosidase inhibitors	may be taken	with meals
+meglitinides	may require	dose adjustments with changes in meal patterns
+alpha-glucosidase inhibitors	may require	dose adjustments with changes in meal patterns
+meglitinides	may cause	weight gain
+blood glucose lowering drugs	can be used	to prevent the progression of prediabetes to type 2 diabetes
+blood glucose lowering drugs	can be used	to reduce the risk of cardiovascular events in type 2 diabetes
+blood glucose lowering drugs	can be used	to improve quality of life in type 2 diabetes
+blood glucose lowering drugs	can be used	to reduce microvascular complications in type 2 diabetes
+blood glucose lowering drugs	should be used	in conjunction with lifestyle modifications
+blood glucose lowering drugs	may require	dose adjustments during illness or surgery
+blood glucose lowering drugs	may require	dose adjustments in patients with gastroparesis
+blood glucose lowering drugs	may require	dose adjustments in patients with renal impairment
+blood glucose lowering drugs	should be used	with caution in patients with liver disease
+blood glucose lowering drugs	may interact with	anticoagulant medications
+blood glucose lowering drugs	may interact with	beta blockers
+blood glucose lowering drugs	may interact with	statins
+blood glucose lowering drugs	may interact with	ACE inhibitors
+blood glucose lowering drugs	may interact with	angiotensin receptor blockers
+blood glucose lowering drugs	may interact with	diuretics
+blood glucose lowering drugs	may interact with	corticosteroids
+meglitinides	and	sulfonylureas	have a	similar mechanism of action
+DPP-4 inhibitors	and	GLP-1 receptor agonists	have a	similar mechanism of action
+thiazolidinediones	and	metformin	have a	different mechanism of action
+blood glucose lowering drugs	should be used	according to evidence-based guidelines
+blood glucose lowering drugs	can be used	in combination with lifestyle modifications to achieve glycemic control
+blood glucose lowering drugs	may have	different efficacy and safety profiles
+blood glucose lowering drugs	may require	individualized treatment plans
+blood glucose lowering drugs	may be adjusted	based on patient response
+blood glucose lowering drugs	should be used	with caution in patients with hypoglycemia unawareness
+blood glucose lowering drugs	should be used	with caution in patients with CVD
+blood glucose lowering drugs	should be used	with caution in patients with heart failure
+blood glucose lowering drugs	may have	different dosing regimens
+sulfonylureas	may be taken	once or twice daily
+sulfonylureas	should be taken	with meals
+SGLT2 inhibitors	may be taken	once daily
+DPP-4 inhibitors	may be taken	once daily
+thiazolidinediones	may be taken	once daily
+GLP-1 receptor agonists	may be taken	once daily or once weekly
+metformin	may be taken	once or twice daily
+sulfonylureas	should be taken	at the same time each day
+blood glucose lowering drugs	may require	regular monitoring of kidney function
+blood glucose lowering drugs	may require	regular monitoring of liver function
+blood glucose lowering drugs	should be used	with caution in patients with renal impairment
+blood glucose lowering drugs	should be used	with caution in patients with hepatic impairment
+blood glucose lowering drugs	should be used	with caution in patients with thyroid disorders
+blood glucose lowering drugs	should be used	with caution in patients with adrenal insufficiency
+blood glucose lowering drugs	may require	dose adjustments in patients with hepatic impairment
+blood glucose lowering drugs	can be associated with	drug-induced hypoglycemia
+blood glucose lowering drugs	can cause	drug-induced liver injury
+blood glucose lowering drugs	should be used	with caution in patients with gastrointestinal disorders
+blood glucose lowering drugs	can cause	drug-induced gastrointestinal side effects
+blood glucose lowering drugs	should be used	with caution in patients with pancreatic disorders
+blood glucose lowering drugs	can increase	pancreatic enzyme levels
+blood glucose lowering drugs	should be used	with caution in patients with gallbladder disorders
+blood glucose lowering drugs	can increase	the risk of urinary tract infections
+blood glucose lowering drugs	can increase	the risk of yeast infections
+blood glucose lowering drugs	should be used	with caution in patients with mental health disorders
+blood glucose lowering drugs	should be used	with caution in elderly patients
+blood glucose lowering drugs	may require	dose adjustments in elderly patients
+blood glucose lowering drugs	can affect	cognitive function
+blood glucose lowering drugs	can affect	mood
+blood glucose lowering drugs	can cause	drug-induced neuropathy
+blood glucose lowering drugs	should be used	with caution in patients with peripheral neuropathy
+blood glucose lowering drugs	should be used	with caution in patients with autonomic neuropathy
+blood glucose lowering drugs	should be used	with caution in patients with retinopathy
+blood glucose lowering drugs	should be used	with caution in patients with nephropathy
+blood glucose lowering drugs	should be used	with caution in patients with macular degeneration
+blood glucose lowering drugs	can affect	sleep
+blood glucose lowering drugs	should be used	with caution in patients with sleep disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of substance abuse
+blood glucose lowering drugs	can cause	drug-induced hematologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of pancreatitis
+blood glucose lowering drugs	should be used	with caution in patients with a history of cardiovascular events
+blood glucose lowering drugs	can increase	the risk of bone fractures
+blood glucose lowering drugs	should be used	with caution in patients with a history of cancer
+blood glucose lowering drugs	can cause	drug-induced malignancies
+blood glucose lowering drugs	should be used	with caution in patients with a history of respiratory disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of hepatic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of renal disorders
+blood glucose lowering drugs	can cause	drug-induced renal impairment
+blood glucose lowering drugs	should be used	with caution in patients with a history of hematologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of endocrine disorders
+blood glucose lowering drugs	can cause	drug-induced endocrine disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of musculoskeletal disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of dermatologic disorders
+blood glucose lowering drugs	can cause	drug-induced dermatologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of gastrointestinal disorders
+blood glucose lowering drugs	can cause	drug-induced gastrointestinal bleeding
+blood glucose lowering drugs	should be used	with caution in patients with a history of neurological disorders
+blood glucose lowering drugs	can cause	drug-induced neurologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of rheumatologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of genitourinary disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of psychiatric disorders
+blood glucose lowering drugs	can cause	drug-induced psychiatric disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of immunologic disorders
+blood glucose lowering drugs	can cause	drug-induced immunologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of hematopoietic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of reproductive disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of allergic reactions
+blood glucose lowering drugs	can cause	drug-induced allergic reactions
+blood glucose lowering drugs	should be used	with caution in patients with a history of hepatic encephalopathy
+blood glucose lowering drugs	should be used	with caution in patients with a history of metabolic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of renal calculi
+blood glucose lowering drugs	can cause	drug-induced renal calculi
+blood glucose lowering drugs	should be used	with caution in patients with a history of urinary retention
+blood glucose lowering drugs	should be used	with caution in patients with a history of cataracts
+blood glucose lowering drugs	should be used	with caution in patients with a history of glaucoma
+blood glucose lowering drugs	should be used	with caution in patients with a history of dental disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of otic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of urologic disorders
+blood glucose lowering drugs	should be used	with caution in patients with a history of hematopoietic disorders
+blood glucose lowering drugs	can affect	sexual function
+blood glucose lowering drugs	should be used	with caution in patients with a history of sexual dysfunction
+blood glucose lowering drugs	can cause	drug-induced sexual dysfunction
+blood glucose lowering drugs	should be used	with caution in patients with a history of hematologic malignancies

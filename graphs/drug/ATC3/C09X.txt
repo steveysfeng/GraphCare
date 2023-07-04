@@ -1,0 +1,31 @@
+other agents acting on the renin-angiotensin system	are	drugs
+drugs	used for	hypertension
+drugs	may have	side effects
+side effects	can include	dizziness
+side effects	can include	cough
+drugs	can interact with	diuretics
+drugs	can interact with	NSAIDs
+hypertension	is a	medical condition
+hypertension	can lead to	heart disease
+heart disease	can cause	heart attack
+heart disease	can cause	stroke
+heart disease	can cause	kidney disease
+diuretics	are	medications
+diuretics	used as	treatment
+diuretics	can cause	dehydration
+diuretics	can cause	potassium deficiency
+NSAIDs	are	medications
+NSAIDs	used for	pain relief
+NSAIDs	may worsen	kidney function
+NSAIDs	may increase	blood pressure
+kidney disease	is a	medical condition
+kidney disease	may cause	fatigue
+kidney disease	may cause	edema
+fatigue	is a	symptom
+edema	is a	symptom
+dehydration	is a	condition
+potassium deficiency	is a	condition
+dizziness	is a	symptom
+cough	is a	symptom
+heart attack	is a	medical emergency
+stroke	is a	medical emergency

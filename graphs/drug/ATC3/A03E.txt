@@ -1,0 +1,261 @@
+antispasmodics	used for	treating muscle spasms
+anticholinergics	can be combined with	other drugs
+antispasmodics	may interact with	certain medications
+anticholinergics	can cause	dry mouth
+other drugs	can include	analgesics
+antispasmodics	mechanism	inhibiting muscle contractions
+anticholinergics	mechanism	blocking the action of acetylcholine
+antispasmodics	can be prescribed for	irritable bowel syndrome
+anticholinergics	can be used for	urinary incontinence
+other drugs	can be prescribed for	hypertension
+antispasmodics	can help	relieve abdominal cramps
+anticholinergics	can treat	overactive bladder
+other drugs	can improve	pain management
+antispasmodics	can reduce	bladder spasms
+anticholinergics	can minimize	involuntary muscle movements
+antispasmodics	can relax	smooth muscles
+anticholinergics	may be prescribed with	opioids
+other drugs	can be used for	asthma treatment
+antispasmodics	can be administered	orally
+anticholinergics	can be taken	as a pill
+antispasmodics	should not be used	during pregnancy
+anticholinergics	may cause	drowsiness
+antispasmodics	have	muscle-relaxing effects
+anticholinergics	can alleviate	symptoms of Parkinson's disease
+other drugs	may interact with	anticoagulants
+antispasmodics	can be used in	combination therapy
+anticholinergics	have	bronchodilating properties
+antispasmodics	can help with	menstrual cramps
+anticholinergics	can be administered	topically
+antispasmodics	can be used to	manage biliary colic
+anticholinergics	can be prescribed	for chronic obstructive pulmonary disease
+other drugs	can be used for	depression
+antispasmodics	can be injected	intravenously
+anticholinergics	can relieve	stomach and intestinal cramps
+antispasmodics	can alleviate	symptoms of urinary tract infections
+anticholinergics	can be used	for motion sickness
+other drugs	can be taken	subcutaneously
+antispasmodics	can reduce	uterine contractions
+anticholinergics	can cause	blurred vision
+antispasmodics	can help with	gallstones
+anticholinergics	may interact with	antihistamines
+other drugs	can be used for	neuropathic pain
+antispasmodics	can be administered	intramuscularly
+anticholinergics	can relieve	intestinal spasms
+antispasmodics	can reduce	muscle tightness
+anticholinergics	can be inhaled	for asthma treatment
+antispasmodics	can be used for	esophageal spasms
+anticholinergics	can improve	bladder control
+other drugs	can alleviate	anxiety symptoms
+antispasmodics	can treat	muscle cramps
+anticholinergics	can minimize	drooling
+antispasmodics	can be used	for hemorrhoid treatment
+anticholinergics	can be administered	intravenously
+antispasmodics	can relax	the urinary bladder
+anticholinergics	can alleviate	drooling
+antispasmodics	can help	relieve menstrual pain
+anticholinergics	can treat	hyperhidrosis
+other drugs	can be used for	sleep disorders
+antispasmodics	can be used for	colic treatment
+anticholinergics	can be used	for neurogenic bladder
+antispasmodics	can reduce	muscle spasms
+anticholinergics	can block	certain receptors
+antispasmodics	can be used for	bladder spasms
+anticholinergics	can alleviate	excessive sweating
+antispasmodics	can be administered	intradermally
+anticholinergics	can help	relieve bronchospasms
+antispasmodics	can treat	peptic ulcers
+other drugs	can be prescribed for	anxiety disorders
+antispasmodics	can be used	for gastrointestinal spasms
+anticholinergics	can be taken	as an inhaler
+antispasmodics	can alleviate	symptoms of endometriosis
+anticholinergics	can minimize	muscle rigidity
+antispasmodics	can reduce	bladder overactivity
+anticholinergics	can relieve	motion sickness
+antispasmodics	can be used for	colicky pain
+anticholinergics	can be used	for urinary retention
+antispasmodics	can help	relax the muscles
+anticholinergics	can suppress	excessive salivation
+antispasmodics	can be prescribed for	gallbladder disease
+anticholinergics	can be administered	orally
+antispasmodics	can be taken	as a syrup
+anticholinergics	can block	acetylcholine receptors
+antispasmodics	can relieve	muscle cramps
+anticholinergics	can alleviate	involuntary movements
+antispasmodics	can be used for	urinary incontinence
+anticholinergics	can be prescribed for	COPD
+other drugs	can be used for	hypertension treatment
+antispasmodics	can reduce	abdominal pain
+anticholinergics	can help with	overactive bladder
+antispasmodics	can relax	the smooth muscles
+anticholinergics	may be combined with	opioids
+antispasmodics	can have	anticholinergic effects
+anticholinergics	can improve	Parkinson's symptoms
+other drugs	may have	anticoagulant properties
+antispasmodics	can be used	in combination therapy
+anticholinergics	can have	bronchodilator effects
+antispasmodics	can help with	menstrual cramping
+anticholinergics	can be applied	topically
+antispasmodics	can be used for	managing biliary colic
+anticholinergics	can be prescribed	for COPD
+other drugs	can be used for	treating depression
+antispasmodics	can be injected	intravenously
+anticholinergics	can relieve	gastrointestinal cramps
+antispasmodics	can alleviate	UTI symptoms
+anticholinergics	can be used	for motion sickness
+other drugs	can be given	subcutaneously
+antispasmodics	can reduce	uterine contractions
+anticholinergics	can cause	blurry vision
+antispasmodics	can aid with	gallstone treatment
+anticholinergics	may interact with	antihistamine medications
+other drugs	can be used for	neuropathic pain relief
+antispasmodics	can be injected	intramuscularly
+anticholinergics	can relieve	bowel spasms
+antispasmodics	can decrease	muscle tightness
+anticholinergics	can be inhaled	to treat asthma
+antispasmodics	can help with	esophageal spasms
+anticholinergics	can improve	urinary control
+other drugs	can alleviate	symptoms of anxiety
+antispasmodics	can treat	cramps
+anticholinergics	can minimize	excessive drooling
+antispasmodics	can be used for	hemorrhoid relief
+anticholinergics	can be administered	intravenously
+antispasmodics	can relax	the bladder muscles
+anticholinergics	can reduce	drooling
+antispasmodics	can help	relieve menstrual pain
+anticholinergics	can treat	excessive sweating
+other drugs	can be used for	sleep disorders
+antispasmodics	can be used	for treating colic
+anticholinergics	can be used	for neurogenic bladder
+antispasmodics	can reduce	spasms
+anticholinergics	can block	receptors
+antispasmodics	can be used for	bladder spasms
+anticholinergics	can alleviate	excessive sweat
+antispasmodics	can be injected	into the skin
+anticholinergics	can help	relieve bronchial spasms
+antispasmodics	can treat	ulcers
+other drugs	can be prescribed for	anxiety relief
+antispasmodics	can be used	for stomach spasms
+anticholinergics	can be inhaled	as a bronchodilator
+antispasmodics	can alleviate	endometriosis symptoms
+anticholinergics	can minimize	muscle stiffness
+antispasmodics	can reduce	overactive bladder
+anticholinergics	can relieve	nausea
+antispasmodics	can be used for	colicky pain
+anticholinergics	can be used	for urinary retention
+antispasmodics	can help	relax muscles
+anticholinergics	can suppress	saliva production
+antispasmodics	can be prescribed for	gallbladder issues
+anticholinergics	can be taken	orally
+antispasmodics	can be consumed	as a syrup
+anticholinergics	can block	acetylcholine receptors
+antispasmodics	can relieve	cramps
+anticholinergics	can alleviate	jerky movements
+antispasmodics	can be used	for urinary control
+anticholinergics	can be prescribed	for COPD
+other drugs	can be used for	hypertension management
+antispasmodics	can reduce	abdominal discomfort
+anticholinergics	can help with	bladder control
+antispasmodics	can relax	smooth muscles
+anticholinergics	may be combined	with opioids
+antispasmodics	can have	anticholinergic properties
+anticholinergics	can improve	symptoms of Parkinson's disease
+other drugs	may have	anticoagulation properties
+antispasmodics	can be used	in combination therapies
+anticholinergics	can work as	bronchodilators
+antispasmodics	can help with	menstrual pain
+anticholinergics	can be applied	topically
+antispasmodics	can be used	for gallbladder colic
+anticholinergics	can be prescribed	for COPD symptoms
+other drugs	can be used	for depression treatment
+antispasmodics	can be injected	intravenously
+anticholinergics	can relieve	stomach cramps
+antispasmodics	can alleviate	UTI symptoms
+anticholinergics	can be used	for preventing motion sickness
+other drugs	can be administered	subcutaneously
+antispasmodics	can reduce	uterine contractions
+anticholinergics	can cause	vision blurring
+antispasmodics	can help with	treating gallstones
+anticholinergics	may interact with	antihistamine drugs
+other drugs	can be used for	neuropathic pain management
+antispasmodics	can be injected	into the muscles
+anticholinergics	can relieve	intestinal cramps
+antispasmodics	can decrease	muscle tightness
+anticholinergics	can be inhaled	for asthma treatment
+antispasmodics	can be used for	esophageal spasm relief
+anticholinergics	can improve	bladder function
+other drugs	can alleviate	symptoms of anxiety disorders
+antispasmodics	can relieve	muscle spasms
+anticholinergics	can minimize	excessive drooling
+antispasmodics	can be used for	hemorrhoid pain relief
+anticholinergics	can be administered	intravenously
+antispasmodics	can relax	the bladder
+anticholinergics	can alleviate	drooling symptoms
+antispasmodics	can help	with menstrual pain
+anticholinergics	can treat	excessive sweating
+other drugs	can be used for	treating sleep disorders
+antispasmodics	can be used	for colic treatment
+anticholinergics	can be used for	neurogenic bladder treatment
+antispasmodics	can reduce	muscle spasms
+anticholinergics	can block	specific receptors
+antispasmodics	can be used for	bladder spasm relief
+anticholinergics	can alleviate	excessive sweating
+antispasmodics	can be injected	intradermally
+anticholinergics	can help with	relieving bronchospasms
+antispasmodics	can treat	ulcers
+other drugs	can be prescribed for	anxiety disorders
+antispasmodics	can be used	for gastrointestinal spasm relief
+anticholinergics	can be inhaled	as a bronchodilator
+antispasmodics	can alleviate	symptoms of endometriosis
+anticholinergics	can minimize	muscle rigidity
+antispasmodics	can reduce	bladder spasms
+anticholinergics	can relieve	motion sickness symptoms
+antispasmodics	can be used for	colicky pain relief
+anticholinergics	can be used	for relieving urinary retention
+antispasmodics	can help	relax the muscles
+anticholinergics	can suppress	excessive salivation
+antispasmodics	can be prescribed for	gallbladder disease relief
+anticholinergics	can be taken	orally
+antispasmodics	can be consumed	as a syrup
+anticholinergics	can block	receptors of acetylcholine
+antispasmodics	can relieve	muscle cramps
+anticholinergics	can alleviate	involuntary movements
+antispasmodics	can be used	for urinary incontinence relief
+anticholinergics	can be prescribed	for COPD treatment
+other drugs	can be used	for hypertension treatment
+antispasmodics	can reduce	abdominal discomfort
+anticholinergics	can help with	bladder control
+antispasmodics	can relax	the smooth muscles
+anticholinergics	may be combined	with opioids
+antispasmodics	can have	anticholinergic properties
+anticholinergics	can improve	symptoms of Parkinson's disease
+other drugs	may have	anticoagulation properties
+antispasmodics	can be used	in combination therapies
+anticholinergics	can work as	bronchodilators
+antispasmodics	can help with	menstrual pain
+anticholinergics	can be applied	topically
+antispasmodics	can be used	for gallbladder colic relief
+anticholinergics	can be prescribed	for COPD symptoms
+other drugs	can be used	for treating depression
+antispasmodics	can be injected	intravenously
+anticholinergics	can relieve	stomach cramps
+antispasmodics	can alleviate	UTI symptoms
+anticholinergics	can be used	for preventing motion sickness
+other drugs	can be administered	subcutaneously
+antispasmodics	can reduce	uterine contractions
+anticholinergics	can cause	blurred vision
+antispasmodics	can help with	treating gallstones
+anticholinergics	may interact with	antihistamine medications
+other drugs	can be used for	neuropathic pain management
+antispasmodics	can be injected	intramuscularly
+anticholinergics	can relieve	bowel spasms
+antispasmodics	can decrease	muscle tightness
+anticholinergics	can be inhaled	for asthma treatment
+antispasmodics	can be used for	esophageal spasm relief
+anticholinergics	can improve	bladder function
+other drugs	can alleviate	symptoms of anxiety disorders
+antispasmodics	can treat	cramps
+anticholinergics	can minimize	excessive drooling
+antispasmodics	can be used for	hemorrhoid pain relief
+anticholinergics	can be administered	intravenously
+antispasmodics	can relax	the bladder muscles

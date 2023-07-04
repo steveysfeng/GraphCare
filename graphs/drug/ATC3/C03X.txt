@@ -1,0 +1,43 @@
+other diuretics	belong to	drug class
+drug class	used for	treating hypertension
+drug class	can cause	potassium depletion
+potassium depletion	may lead to	muscle cramps
+drug class	include	furosemide
+furosemide	also known as	Lasix
+furosemide	commonly prescribed for	edema
+edema	is a	symptom of heart failure
+furosemide	should be used with caution in	patients with renal impairment
+furosemide	can interact with	other medications
+other medications	may reduce the effectiveness of	furosemide
+furosemide	may increase the risk of	ototoxicity
+ototoxicity	can cause	hearing loss
+furosemide	is available in	various dosage forms
+various dosage forms	include	tablets and oral solution
+furosemide	should be taken	with food
+furosemide	may cause	dizziness
+dizziness	can increase the risk of	falls
+furosemide	should not be used in	patients with anuria
+furosemide	is contraindicated in	patients with hypersensitivity to sulfonamides
+furosemide	can be administered	intravenously
+intravenous administration	can lead to	rapid diuresis
+furosemide	should be stored	at room temperature
+room temperature	should not exceed	25 degrees Celsius
+furosemide	may be used in	pediatric patients
+pediatric patients	require	dosage adjustment
+furosemide	can be used in	combination with other diuretics
+furosemide	has a	short duration of action
+furosemide	may cause	electrolyte imbalance
+electrolyte imbalance	can result in	cardiac arrhythmias
+furosemide	should be used with caution in	patients with liver disease
+furosemide	can be used	intramuscularly
+intramuscular administration	may cause	pain and irritation at the injection site
+furosemide	may be prescribed	as maintenance therapy
+maintenance therapy	aims to	manage chronic conditions
+furosemide	should not be used	during pregnancy
+furosemide	should be used with caution in	elderly patients
+furosemide	may interact with	nonsteroidal anti-inflammatory drugs
+nonsteroidal anti-inflammatory drugs	can reduce the diuretic effect of	furosemide
+furosemide	should be taken	at the same time each day
+furosemide	can be used	in veterinary medicine
+veterinary medicine	may require	different dosages
+furosemide	may be administered	orally

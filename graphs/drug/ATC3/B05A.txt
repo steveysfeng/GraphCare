@@ -1,0 +1,87 @@
+blood and related products	are used in	transfusions
+blood and related products	can transmit	infections
+blood and related products	used for	plasma fractionation
+plasma fractionation	produces	clotting factors
+blood and related products	can be stored at	cold temperatures
+blood and related products	can be preserved with	anticoagulants
+blood and related products	contains	red blood cells
+red blood cells	carry	oxygen
+blood and related products	can be used for	research
+research	helps in	medical advancements
+blood and related products	can be donated	voluntarily
+blood and related products	can be tested for	compatibility
+compatibility testing	ensures	safe transfusions
+blood and related products	can be processed into	platelets
+platelets	aid in	blood clotting
+blood and related products	are used in	hemodialysis
+hemodialysis	filters	waste products from blood
+blood and related products	contains	white blood cells
+white blood cells	help in	immune response
+blood and related products	play a role in	blood typing
+blood typing	determines	blood group
+blood and related products	can be used for	cell therapy
+cell therapy	involves	cellular transplantation
+blood and related products	can be used as	growth factors
+growth factors	stimulate	tissue repair
+blood and related products	can be used for	coagulation assays
+coagulation assays	measure	blood clotting ability
+blood and related products	can be used in	plasma exchange
+plasma exchange	removes	harmful substances from blood
+blood and related products	can be processed into	cryoprecipitate
+cryoprecipitate	contains	clotting proteins
+blood and related products	can be used in	bone marrow transplantation
+bone marrow transplantation	replaces	damaged bone marrow
+blood and related products	can be tested for	viral markers
+viral markers	indicate	presence of infections
+blood and related products	can be used in	therapeutic apheresis
+therapeutic apheresis	removes	specific components from blood
+blood and related products	can be used for	blood volume expansion
+blood volume expansion	increases	circulating blood volume
+blood and related products	can be used for	fibrinolysis testing
+fibrinolysis testing	evaluates	clot dissolution function
+blood and related products	can be processed into	cryopreserved red blood cells
+cryopreserved red blood cells	can be used for	rare blood type transfusions
+blood and related products	can be used for	granulocyte transfusions
+granulocyte transfusions	help in	fighting infections
+blood and related products	can be used in	organ transplantations
+organ transplantations	require	blood matching
+blood and related products	can be used for	autologous transfusions
+autologous transfusions	involve	using the patient's own blood
+blood and related products	can be used for	plasma transfusions
+plasma transfusions	provide	clotting factors
+blood and related products	can be used in	hemotherapy
+hemotherapy	involves	drug administration via blood
+blood and related products	can be used for	erythrocytapheresis
+erythrocytapheresis	removes	excess red blood cells
+blood and related products	can be used for	leukapheresis
+leukapheresis	removes	excess white blood cells
+blood and related products	can be used for	photopheresis
+photopheresis	treats	certain blood disorders
+blood and related products	can be used for	immunoglobulin administration
+immunoglobulin administration	boosts	immune system
+blood and related products	can be used in	plasmapheresis
+plasmapheresis	removes	plasma from blood
+blood and related products	can be used for	red cell exchange
+red cell exchange	replaces	diseased red blood cells
+blood and related products	can be used for	stem cell transplantation
+stem cell transplantation	regenerates	damaged tissues
+blood and related products	can be used for	research studies
+research studies	contribute to	medical knowledge
+blood and related products	can be used for	reconstitution of blood volume
+reconstitution of blood volume	restores	blood pressure
+blood and related products	can be used for	immune globulin administration
+immune globulin administration	provides	disease resistance
+blood and related products	can be used in	cancer treatments
+cancer treatments	often require	blood transfusions
+blood and related products	can be used for	plasma therapy
+plasma therapy	can treat	autoimmune disorders
+blood and related products	can be used in	therapeutic leukapheresis
+therapeutic leukapheresis	removes	excess white blood cells
+blood and related products	can be used for	therapeutic plasma exchange
+therapeutic plasma exchange	removes	abnormal substances from plasma
+blood and related products	can be used for	therapeutic erythrocytapheresis
+therapeutic erythrocytapheresis	removes	excess red blood cells
+blood and related products	can be used for	therapeutic plasmapheresis
+therapeutic plasmapheresis	removes	plasma from blood
+blood and related products	can be used for	immunotherapy
+immunotherapy	enhances	immune response

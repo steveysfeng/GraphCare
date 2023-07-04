@@ -1,0 +1,6 @@
+beta blocking agents	can be used for	hypertension
+vasodilators	can be used for	hypertension
+beta blocking agents	can cause	bradycardia
+vasodilators	can cause	hypotension
+beta blocking agents	interact with	calcium channel blockers
+vasodilators	interact with	ACE inhibitors

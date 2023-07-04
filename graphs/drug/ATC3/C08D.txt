@@ -1,0 +1,11 @@
+selective calcium channel blockers	are	drugs
+selective calcium channel blockers	used for	hypertension
+selective calcium channel blockers	can cause	hypotension
+selective calcium channel blockers	can have	direct cardiac effects
+direct cardiac effects	include	slowing heart rate
+direct cardiac effects	can lead to	arrhythmias
+selective calcium channel blockers	should not be used in	heart failure patients
+selective calcium channel blockers	can interact with	other medications
+other medications	may include	beta blockers
+selective calcium channel blockers	contraindicated in	patients with conduction abnormalities
+selective calcium channel blockers	should be used with caution in	elderly patients

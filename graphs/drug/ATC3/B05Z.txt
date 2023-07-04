@@ -1,0 +1,108 @@
+hemodialytics	used for	kidney failure treatment
+hemofiltrates	used for	blood purification
+hemodialytics	removes	waste products
+hemofiltrates	removes	toxins
+hemodialytics	administered through	dialysis machine
+hemofiltrates	administered through	extracorporeal circuit
+hemodialytics	function	removing excess fluids
+hemofiltrates	function	filtering blood
+hemodialytics	can cause	hypotension
+hemofiltrates	can cause	electrolyte imbalances
+hemodialytics	often used in	end-stage renal disease
+hemofiltrates	often used in	acute kidney injury
+hemodialytics	filter	blood
+hemofiltrates	filter	blood
+hemodialytics	involves	hemodialysis
+hemofiltrates	involves	hemofiltration
+hemodialytics	can be administered	intravenously
+hemofiltrates	can be administered	continuously
+hemodialytics	can be used	in peritoneal dialysis
+hemofiltrates	can be used	in continuous renal replacement therapy
+hemodialytics	require	monitoring of vitals
+hemofiltrates	require	close monitoring of fluid balance
+hemodialytics	help	maintain electrolyte balance
+hemofiltrates	help	maintain acid-base balance
+hemodialytics	used in	chronic kidney disease
+hemofiltrates	used in	septic shock
+hemodialytics	can improve	quality of life
+hemofiltrates	can improve	organ function
+hemodialytics	can be	life-saving
+hemofiltrates	may be	temporary treatment
+hemodialytics	may cause	anemia
+hemofiltrates	may cause	hypokalemia
+hemodialytics	require	access to blood vessels
+hemofiltrates	require	access to venous system
+hemodialytics	often combined with	hemoperfusion
+hemofiltrates	often combined with	hemodiafiltration
+hemodialytics	remove	excess potassium
+hemofiltrates	remove	inflammatory mediators
+hemodialytics	can be done	at home
+hemofiltrates	performed	in hospital setting
+hemodialytics	decrease	urea levels
+hemofiltrates	decrease	cytokine levels
+hemodialytics	improve	acidosis
+hemofiltrates	improve	edema
+hemodialytics	adjust	fluid balance
+hemofiltrates	adjust	electrolyte balance
+hemodialytics	reduce	cardiovascular risk
+hemofiltrates	reduce	mortality rate
+hemodialytics	linked to	infection risk
+hemofiltrates	linked to	bleeding risk
+hemodialytics	eliminate	uremic toxins
+hemofiltrates	eliminate	metabolic waste
+hemodialytics	help	reduce symptoms
+hemofiltrates	help	improve kidney function
+hemodialytics	require	close medical supervision
+hemofiltrates	require	constant monitoring
+hemodialytics	can lead to	dialysis dependence
+hemofiltrates	can lead to	fluid overload
+hemodialytics	can be	outpatient treatment
+hemofiltrates	can be	continuous treatment
+hemodialytics	contraindicated in	severe cardiovascular disease
+hemofiltrates	contraindicated in	severe respiratory failure
+hemodialytics	improve	clearance of toxins
+hemofiltrates	improve	fluid balance
+hemodialytics	help	prolong survival
+hemofiltrates	help	prevent complications
+hemodialytics	used in	end-stage organ failure
+hemofiltrates	used in	critical care
+hemodialytics	require	trained healthcare professionals
+hemofiltrates	require	specialized equipment
+hemodialytics	increase	excretion of urea
+hemofiltrates	increase	removal of cytokines
+hemodialytics	need	regular blood tests
+hemofiltrates	need	frequent monitoring of parameters
+hemodialytics	reduce	symptoms of uremia
+hemofiltrates	reduce	fluid overload
+hemodialytics	require	vascular access
+hemofiltrates	require	hemofilter for filtration
+hemodialytics	improves	clearance of creatinine
+hemofiltrates	improves	removal of bacterial products
+hemodialytics	associated with	improved survival rates
+hemofiltrates	associated with	reduced mortality rates
+hemodialytics	help	maintain acid-base balance
+hemofiltrates	help	maintain electrolyte balance
+hemodialytics	used in	renal replacement therapy
+hemofiltrates	used in	continuous venovenous hemofiltration
+hemodialytics	can be performed	at dialysis center
+hemofiltrates	can be performed	at ICU
+hemodialytics	enhance	toxin removal
+hemofiltrates	enhance	fluid removal
+hemodialytics	are	effective for renal support
+hemofiltrates	are	effective for blood purification
+hemodialytics	can be	temporary solution
+hemofiltrates	can be	long-term treatment
+hemodialytics	help	maintain homeostasis
+hemofiltrates	help	restore hemodynamic stability
+hemodialytics	improve	clearance of urea
+hemofiltrates	improve	clearance of waste products
+hemodialytics	enhance	solute removal
+hemofiltrates	enhance	particle removal
+hemodialytics	can lead to	electrolyte imbalances
+hemofiltrates	can lead to	hemodilution
+hemodialytics	assist in	fluid balance
+hemofiltrates	assist in	solute balance
+hemodialytics	involve	extracorporeal circulation
+hemofiltrates	involve	ultrafiltration
+hemodialytics	prevent	waste buildup
+hemofiltrates	prevent	toxin buildup

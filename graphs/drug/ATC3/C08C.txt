@@ -1,0 +1,103 @@
+selective calcium channel blockers	are	drugs
+selective calcium channel blockers	have	vascular effects
+vascular effects	can include	vasodilation
+vascular effects	can lead to	reduced blood pressure
+selective calcium channel blockers	used for	hypertension
+selective calcium channel blockers	can be	prescribed
+selective calcium channel blockers	can have	side effects
+side effects	may include	headache
+side effects	may include	dizziness
+side effects	may include	constipation
+selective calcium channel blockers	should not be used with	beta blockers
+selective calcium channel blockers	can interact with	grapefruit juice
+selective calcium channel blockers	are	effective
+selective calcium channel blockers	are	well-tolerated
+selective calcium channel blockers	may be	prescribed in combination with ACE inhibitors
+selective calcium channel blockers	can be	used in patients with asthma
+selective calcium channel blockers	can cause	peripheral edema
+selective calcium channel blockers	can reduce	myocardial oxygen demand
+selective calcium channel blockers	can inhibit	calcium ion influx
+selective calcium channel blockers	can improve	coronary blood flow
+selective calcium channel blockers	may have	amlodipine as an example
+selective calcium channel blockers	may have	nifedipine as an example
+selective calcium channel blockers	may have	felodipine as an example
+selective calcium channel blockers	may have	diltiazem as an example
+selective calcium channel blockers	may have	verapamil as an example
+selective calcium channel blockers	may have	isradipine as an example
+selective calcium channel blockers	may have	nicardipine as an example
+selective calcium channel blockers	may have	nimodipine as an example
+selective calcium channel blockers	may have	amlodipine as a brand name
+selective calcium channel blockers	may have	nifedipine as a brand name
+selective calcium channel blockers	may have	felodipine as a brand name
+selective calcium channel blockers	may have	diltiazem as a brand name
+selective calcium channel blockers	may have	verapamil as a brand name
+selective calcium channel blockers	may have	isradipine as a brand name
+selective calcium channel blockers	may have	nicardipine as a brand name
+selective calcium channel blockers	may have	nimodipine as a brand name
+selective calcium channel blockers	may have	amlodipine as a generic name
+selective calcium channel blockers	may have	nifedipine as a generic name
+selective calcium channel blockers	may have	felodipine as a generic name
+selective calcium channel blockers	may have	diltiazem as a generic name
+selective calcium channel blockers	may have	verapamil as a generic name
+selective calcium channel blockers	may have	isradipine as a generic name
+selective calcium channel blockers	may have	nicardipine as a generic name
+selective calcium channel blockers	may have	nimodipine as a generic name
+selective calcium channel blockers	may have	amlodipine as a medication
+selective calcium channel blockers	may have	nifedipine as a medication
+selective calcium channel blockers	may have	felodipine as a medication
+selective calcium channel blockers	may have	diltiazem as a medication
+selective calcium channel blockers	may have	verapamil as a medication
+selective calcium channel blockers	may have	isradipine as a medication
+selective calcium channel blockers	may have	nicardipine as a medication
+selective calcium channel blockers	may have	nimodipine as a medication
+selective calcium channel blockers	have	multiple formulations
+selective calcium channel blockers	available as	tablets
+selective calcium channel blockers	available as	capsules
+selective calcium channel blockers	available as	extended-release tablets
+selective calcium channel blockers	can be	taken orally
+selective calcium channel blockers	can be	administered intravenously
+selective calcium channel blockers	can be	administered sublingually
+selective calcium channel blockers	can be	administered topically
+selective calcium channel blockers	can be	used in combination therapy
+selective calcium channel blockers	may interact with	CYP3A4 inhibitors
+selective calcium channel blockers	may interact with	grapefruit juice
+selective calcium channel blockers	may have	drug interactions
+selective calcium channel blockers	should be	used with caution
+selective calcium channel blockers	should be	used under medical supervision
+selective calcium channel blockers	may be	contraindicated in patients with heart failure
+selective calcium channel blockers	may be	contraindicated in patients with bradycardia
+selective calcium channel blockers	may be	contraindicated in patients with hypotension
+selective calcium channel blockers	may be	contraindicated in patients with aortic stenosis
+selective calcium channel blockers	may be	contraindicated in patients with severe hepatic impairment
+selective calcium channel blockers	may be	contraindicated in patients with severe renal impairment
+selective calcium channel blockers	may have	a long half-life
+selective calcium channel blockers	may have	a short half-life
+selective calcium channel blockers	may have	dose adjustments
+selective calcium channel blockers	may have	dosage forms
+selective calcium channel blockers	may have	different dosages
+selective calcium channel blockers	may have	different strengths
+selective calcium channel blockers	may be	prescribed as a once-daily dose
+selective calcium channel blockers	may be	prescribed as a twice-daily dose
+selective calcium channel blockers	may be	prescribed as a three-times-daily dose
+selective calcium channel blockers	may be	prescribed as an extended-release formulation
+selective calcium channel blockers	may require	titration
+selective calcium channel blockers	may require	regular monitoring
+selective calcium channel blockers	may require	periodic dose adjustments
+selective calcium channel blockers	may require	dosage modification
+selective calcium channel blockers	may require	individualized therapy
+selective calcium channel blockers	may require	gradual discontinuation
+selective calcium channel blockers	may require	tapering off
+selective calcium channel blockers	may require	treatment cessation
+selective calcium channel blockers	may require	additional antihypertensive therapy
+selective calcium channel blockers	may require	lifestyle modifications
+selective calcium channel blockers	may require	dietary changes
+selective calcium channel blockers	may require	exercise routine
+selective calcium channel blockers	may require	weight management
+selective calcium channel blockers	may require	regular follow-ups
+selective calcium channel blockers	may have	a narrow therapeutic index
+selective calcium channel blockers	may have	a high efficacy rate
+selective calcium channel blockers	may have	a low toxicity rate
+selective calcium channel blockers	may have	a quick onset of action
+selective calcium channel blockers	may have	a long duration of action
+selective calcium channel blockers	may have	a low incidence of adverse effects
+selective calcium channel blockers	may have	a high patient compliance rate

@@ -1,0 +1,156 @@
+beta blocking agents	are	drugs
+beta blocking agents	used for	hypertension
+beta blocking agents	can cause	bradycardia
+beta blocking agents	may interact with	other medications
+other medications	can include	diuretics
+beta blocking agents	contraindicated in	asthma
+beta blocking agents	potentially effective in	heart failure
+beta blocking agents	can be used in combination with	calcium channel blockers
+beta blocking agents	are also known as	beta blockers
+beta blocking agents	can reduce	mortality
+beta blockers	mechanism of action	block beta-adrenergic receptors
+beta blockers	can be selective or nonselective
+beta blockers	may cause	fatigue
+beta blockers	can be used to treat	migraines
+beta blockers	should be used with caution in	diabetic patients
+beta blockers	can decrease	blood pressure
+beta blockers	can be used to treat	anxiety
+beta blockers	can mask	hypoglycemic symptoms
+beta blockers	may cause	sexual dysfunction
+beta blockers	can be used to treat	glaucoma
+beta blockers	may cause	bronchospasms
+beta blockers	should be avoided in	patients with heart block
+beta blockers	may increase	triglyceride levels
+beta blockers	can be used in	post-myocardial infarction
+beta blockers	can block	sympathetic nervous system activity
+beta blockers	can be used to prevent	migraine attacks
+beta blockers	can be used to reduce	angina episodes
+beta blockers	can be used to treat	essential tremor
+beta blockers	can be used to treat	stage fright
+beta blockers	should be used with caution in	elderly patients
+beta blockers	should be tapered off	before stopping abruptly
+beta blockers	may cause	depression
+beta blockers	can be used to reduce	symptoms of hyperthyroidism
+beta blockers	can be used to treat	post-traumatic stress disorder
+beta blockers	can be used to treat	alcohol withdrawal syndrome
+beta blockers	should be avoided in	patients with certain heart conditions
+beta blockers	can be used to treat	fetal arrhythmias
+beta blockers	can be used to treat	social anxiety disorder
+beta blockers	may cause	sleep disturbances
+beta blockers	can be used to treat	performance anxiety
+beta blockers	can be used to treat	essential hypertension
+beta blockers	can be used to prevent	heart attacks
+beta blockers	can be used to treat	hypertrophic cardiomyopathy
+beta blockers	may cause	impotence
+beta blockers	can be used to prevent	migraines
+beta blockers	should be avoided in	patients with severe asthma
+beta blockers	may cause	nightmares
+beta blockers	can affect	exercise tolerance
+beta blockers	can be used to treat	akathisia
+beta blockers	may cause	slowed heart rate
+beta blockers	can be used to treat	glaucoma
+beta blockers	can be used to treat	panic disorder
+beta blockers	can be used to prevent	recurrent variceal bleeding
+beta blockers	can be used to treat	hyperthyroidism
+beta blockers	may cause	dizziness
+beta blockers	may cause	cold extremities
+beta blockers	can be used to treat	essential tremor
+beta blockers	can be used to treat	ventricular arrhythmias
+beta blockers	can be used to treat	heart failure
+beta blockers	can be used to treat	myocardial infarction
+beta blockers	can be used to treat	osteoporosis
+beta blockers	can be used to treat	anxiety disorders
+beta blockers	can be used to treat	atrial fibrillation
+beta blockers	can be used to reduce	symptoms of thyrotoxicosis
+beta blockers	can be used to treat	akathisia
+beta blockers	can be used to treat	glaucoma
+beta blockers	can be used to treat	portal hypertension
+beta blockers	can be used to treat	cardiomyopathy
+beta blockers	can be used to treat	restless legs syndrome
+beta blockers	can be used to treat	migraine prophylaxis
+beta blockers	can be used to treat	hypertension in pregnancy
+beta blockers	can be used to treat	performance anxiety
+beta blockers	can be used to treat	essential hypertension
+beta blockers	can be used to treat	unstable angina
+beta blockers	can be used to prevent	heart attacks
+beta blockers	can be used to treat	migraines with aura
+beta blockers	should be used with caution in	patients with diabetes
+beta blockers	may cause	hypotension
+beta blockers	can be used to treat	glaucoma
+beta blockers	can be used to treat	hyperthyroidism
+beta blockers	can be used to treat	panic disorder
+beta blockers	can be used to prevent	recurrent variceal bleeding
+beta blockers	can be used to treat	variceal bleeding
+beta blockers	may cause	sleep disturbances
+beta blockers	can be used to treat	hypertrophic obstructive cardiomyopathy
+beta blockers	can be used to treat	tremors
+beta blockers	can be used to treat	hyperhidrosis
+beta blockers	may cause	depression
+beta blockers	can be used to treat	familial tremor
+beta blockers	can be used to treat	hypertension in children
+beta blockers	can be used to treat	glaucoma
+beta blockers	should be tapered off	before stopping abruptly
+beta blockers	may cause	fatigue
+beta blockers	can be used to treat	migraines
+beta blockers	can be used to treat	stage fright
+beta blockers	can be used to reduce	symptoms of essential tremor
+beta blockers	should be used with caution in	pregnant patients
+beta blockers	should be used with caution in	elderly patients
+beta blockers	can be used to treat	anxiety
+beta blockers	can be used to treat	social anxiety disorder
+beta blockers	may cause	sexual dysfunction
+beta blockers	should be avoided in	patients with liver disease
+beta blockers	should be used with caution in	patients with kidney disease
+beta blockers	may interact with	other medications
+other medications	can include	diuretics
+other medications	can include	calcium channel blockers
+other medications	can include	ACE inhibitors
+other medications	can include	angiotensin receptor blockers
+other medications	can include	nitrates
+other medications	can include	anticoagulants
+other medications	can include	alpha blockers
+other medications	can include	alpha-2 receptor agonists
+other medications	can include	antiarrhythmics
+other medications	can include	anti-anxiety drugs
+other medications	can include	antipsychotics
+other medications	can include	antihypertensives
+other medications	can include	antiplatelet drugs
+other medications	can include	anti-epileptics
+other medications	can include	antidiabetics
+other medications	can include	anti-inflammatory drugs
+other medications	can include	antifungals
+other medications	can include	antimalarials
+other medications	can include	antibiotics
+other medications	can include	antivirals
+other medications	can include	antiobesity drugs
+other medications	can include	antiretrovirals
+other medications	can include	antithrombotics
+other medications	can include	antidepressants
+other medications	can include	antiepileptics
+other medications	can include	antispasmodics
+other medications	can include	antiemetics
+other medications	can include	antitussives
+other medications	can include	anticonvulsants
+other medications	can include	antipyretics
+other medications	can include	antacids
+other medications	can include	anticholinergics
+other medications	can include	anxiolytics
+other medications	can include	CNS stimulants
+other medications	can include	corticosteroids
+other medications	can include	decongestants
+other medications	can include	dopaminergics
+other medications	can include	fibrinolytics
+other medications	can include	immunosuppressants
+other medications	can include	laxatives
+other medications	can include	macrolides
+other medications	can include	muscle relaxants
+other medications	can include	narcotic analgesics
+other medications	can include	nondepolarizing muscle relaxants
+other medications	can include	nonsteroidal anti-inflammatory drugs
+other medications	can include	opioid analgesics
+other medications	can include	phosphodiesterase inhibitors
+other medications	can include	sedatives
+other medications	can include	skeletal muscle relaxants
+other medications	can include	stimulants
+other medications	can include	thiazide diuretics
+beta blocking agents	other combinations	are	not specified

@@ -1,0 +1,86 @@
+beta blocking agents	are	drugs
+thiazides	are	drugs
+beta blocking agents	used for	hypertension
+thiazides	used for	hypertension
+beta blocking agents	can cause	bradycardia
+thiazides	can cause	hypokalemia
+beta blocking agents	interact with	calcium channel blockers
+thiazides	interact with	ACE inhibitors
+beta blocking agents	contraindicated in	asthma
+thiazides	contraindicated in	sulfa allergy
+beta blocking agents	prescribed with	diuretics
+thiazides	prescribed with	ACE inhibitors
+beta blocking agents	can reduce	heart rate
+thiazides	can reduce	blood pressure
+beta blocking agents	may increase	risk of stroke
+thiazides	may increase	risk of gout
+beta blocking agents	used in	heart failure
+thiazides	used in	edema
+beta blocking agents	block	beta receptors
+thiazides	inhibit	sodium reabsorption
+beta blocking agents	can cause	bronchospasm
+thiazides	can cause	hyperuricemia
+beta blocking agents	can mask	hypoglycemia symptoms
+thiazides	can increase	urine production
+beta blocking agents	may decrease	exercise tolerance
+thiazides	may decrease	calcium excretion
+beta blocking agents	reduce	sympathetic outflow
+thiazides	decrease	plasma volume
+beta blocking agents	affect	renin-angiotensin system
+thiazides	affect	electrolyte balance
+beta blocking agents	may be linked to	depression
+thiazides	may be linked to	erectile dysfunction
+beta blocking agents	can cross	blood-brain barrier
+thiazides	can increase	cholesterol levels
+beta blocking agents	used in	anxiety disorders
+thiazides	used in	diabetes insipidus
+beta blocking agents	lower	heart rate
+thiazides	promote	sodium excretion
+beta blocking agents	decrease	myocardial oxygen demand
+thiazides	decrease	blood volume
+beta blocking agents	can impair	peripheral circulation
+thiazides	can impair	glucose tolerance
+beta blocking agents	block	sympathetic stimulation
+thiazides	increase	calcium reabsorption
+beta blocking agents	may cause	fatigue
+thiazides	may cause	photosensitivity
+beta blocking agents	reduce	cardiac output
+thiazides	increase	potassium excretion
+beta blocking agents	inhibit	sympathetic nervous system
+thiazides	promote	diuresis
+beta blocking agents	decrease	renin secretion
+thiazides	increase	uric acid levels
+beta blocking agents	used for	cardiac arrhythmias
+thiazides	used for	nephrogenic diabetes insipidus
+beta blocking agents	may worsen	peripheral arterial disease
+thiazides	may worsen	renal function
+beta blocking agents	can cause	cold extremities
+thiazides	can cause	impotence
+beta blocking agents	used in	migraine prophylaxis
+thiazides	used in	osteoporosis
+beta blocking agents	decrease	sympathetic nervous system activity
+thiazides	increase	bicarbonate excretion
+beta blocking agents	may impair	exercise tolerance
+thiazides	may impair	glucose control
+beta blocking agents	reduce	blood pressure
+thiazides	promote	calcium excretion
+beta blocking agents	inhibit	renin secretion
+thiazides	increase	sodium excretion
+beta blocking agents	block	beta-adrenergic receptors
+thiazides	inhibit	carbonic anhydrase
+beta blocking agents	may cause	dizziness
+thiazides	may cause	electrolyte imbalances
+beta blocking agents	used in	essential tremor
+thiazides	used in	kidney stones
+beta blocking agents	decrease	myocardial contractility
+thiazides	decrease	magnesium reabsorption
+beta blocking agents	can cause	bronchoconstriction
+thiazides	can cause	muscle cramps
+beta blocking agents	used in	hyperthyroidism
+thiazides	used in	hypertension
+beta blocking agents	may cause	sleep disturbances
+thiazides	may cause	renal dysfunction
+beta blocking agents	can reduce	blood flow
+thiazides	can impair	glucose tolerance
+beta blocking agents	counteract	sympathetic activity
+thiazides	enhance	calcium reabsorption

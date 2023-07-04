@@ -1,0 +1,84 @@
+ace inhibitors	are a	class of drugs
+ace inhibitors	used to	treat hypertension
+ace inhibitors	can cause	cough
+ace inhibitors	often prescribed in	combination with other antihypertensive drugs
+combination therapy	is effective in	managing hypertension
+combination therapy	may lead to	improved blood pressure control
+ace inhibitors	contraindicated in	pregnancy
+ace inhibitors	may interact with	nonsteroidal anti-inflammatory drugs
+nonsteroidal anti-inflammatory drugs	can reduce	the antihypertensive effects of ace inhibitors
+ace inhibitors	have been associated with	angioedema
+angioedema	is a	serious side effect of ace inhibitors
+angioedema	characterized by	swelling of the lips and face
+ace inhibitors	have been shown to	reduce the risk of heart failure
+ace inhibitors	may increase	the risk of hyperkalemia
+ace inhibitors	recommended as	first-line therapy for hypertension
+ace inhibitors	can improve	renal outcomes in patients with diabetes and hypertension
+renal outcomes	include	reduction in proteinuria
+ace inhibitors	should be used with caution in	patients with renal artery stenosis
+ace inhibitors	can cause	hypotension
+ace inhibitors	may be less effective in	African-American patients
+ace inhibitors	can cause	renal dysfunction
+ace inhibitors	may be associated with	persistent dry cough
+persistent dry cough	can be a	side effect of ace inhibitors
+ace inhibitors	can cause	hyperkalemia
+ace inhibitors	should be avoided in	patients with bilateral renal artery stenosis
+ace inhibitors	have been associated with	acute renal failure
+acute renal failure	is a	rare but serious complication of ace inhibitors
+ace inhibitors	may interact with	potassium-sparing diuretics
+potassium-sparing diuretics	can increase	the risk of hyperkalemia when combined with ace inhibitors
+ace inhibitors	have been associated with	fetal malformations
+fetal malformations	can occur	if ace inhibitors are taken during pregnancy
+ace inhibitors	should not be used in	patients with a history of angioedema
+ace inhibitors	can cause	dizziness
+ace inhibitors	recommended for	patients with heart failure and reduced ejection fraction
+ace inhibitors	should be used with caution in	patients with aortic stenosis
+ace inhibitors	may be less effective in	older patients
+older patients	are at increased risk for	adverse effects of ace inhibitors
+ace inhibitors	can cause	renal impairment
+renal impairment	may occur	in patients with pre-existing renal disease
+ace inhibitors	may be associated with	a persistent dry cough
+ace inhibitors	may interact with	lithium
+lithium	can increase	the risk of toxicity with ace inhibitors
+ace inhibitors	can cause	hyperkalemia and renal dysfunction
+ace inhibitors	should not be used concurrently with	angiotensin receptor blockers
+ace inhibitors	can cause	hypotension in volume-depleted patients
+ace inhibitors	may interact with	diuretics
+diuretics	can potentiate	the hypotensive effect of ace inhibitors
+ace inhibitors	contraindicated in	patients with a history of angioedema
+ace inhibitors	may be less effective in	patients with resistant hypertension
+ace inhibitors	can cause	hyperkalemia and fetal toxicity
+ace inhibitors	may interact with	potassium supplements
+potassium supplements	can increase	the risk of hyperkalemia with ace inhibitors
+ace inhibitors	can cause	renal dysfunction and hyperkalemia
+ace inhibitors	should be used with caution in	elderly patients
+elderly patients	are more susceptible to	orthostatic hypotension with ace inhibitors
+ace inhibitors	may be associated with	a dry cough
+ace inhibitors	recommended as	first-line therapy for hypertension in patients with diabetes
+ace inhibitors	can cause	angioedema and acute renal failure
+ace inhibitors	may interact with	allopurinol
+allopurinol	can increase	the risk of hypersensitivity reactions with ace inhibitors
+ace inhibitors	can cause	renal dysfunction and hypotension
+ace inhibitors	should be avoided in	patients with a history of angioedema
+ace inhibitors	may be less effective in	patients with aortic stenosis
+ace inhibitors	can cause	hyperkalemia and renal impairment
+ace inhibitors	should be used with caution in	patients with renal impairment
+ace inhibitors	may interact with	NSAIDs
+NSAIDs	can reduce	the antihypertensive effect of ace inhibitors
+ace inhibitors	recommended as	first-line therapy for hypertension in patients with chronic kidney disease
+ace inhibitors	can cause	a persistent dry cough and hyperkalemia
+ace inhibitors	may interact with	diuretics and potassium supplements
+ace inhibitors	associated with	fetal toxicity and renal impairment
+ace inhibitors	contraindicated in	patients with a history of angioedema and bilateral renal artery stenosis
+ace inhibitors	should be avoided in	pregnancy
+ace inhibitors	can cause	hyperkalemia and orthostatic hypotension
+ace inhibitors	may interact with	lithium and allopurinol
+ace inhibitors	can cause	renal dysfunction and angioedema
+ace inhibitors	recommended for	patients with heart failure and post-myocardial infarction
+ace inhibitors	should be used with caution in	patients with impaired renal function
+ace inhibitors	may be less effective in	black patients
+black patients	have a lower response rate to	ace inhibitors
+ace inhibitors	can cause	cough and angioedema
+ace inhibitors	may interact with	nonsteroidal anti-inflammatory drugs and potassium-sparing diuretics
+ace inhibitors	can cause	renal dysfunction and hyperkalemia in patients with renal artery stenosis
+ace inhibitors	should be used with caution in	patients with aortic stenosis and congestive heart failure

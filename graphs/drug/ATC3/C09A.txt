@@ -1,0 +1,177 @@
+ace inhibitors	are	drugs
+ace inhibitors	used for	hypertension
+hypertension	is a	medical condition
+ace inhibitors	can cause	dry cough
+ace inhibitors	can lead to	hyperkalemia
+ace inhibitors	can reduce	blood pressure
+ace inhibitors	can improve	heart failure
+ace inhibitors	can prevent	kidney damage
+ace inhibitors	may interact with	diuretics
+diuretics	are	medications
+ace inhibitors	may interact with	NSAIDs
+NSAIDs	are	drugs
+ace inhibitors	may interact with	potassium supplements
+potassium supplements	are	medications
+ace inhibitors	can be	prescribed
+prescribed	by	healthcare providers
+ace inhibitors	can cause	angioedema
+ace inhibitors	can increase	serum creatinine
+ace inhibitors	can cause	hypotension
+ace inhibitors	can lead to	renal insufficiency
+ace inhibitors	can reduce	proteinuria
+ace inhibitors	can be	administered
+administered	orally
+ace inhibitors	can block	angiotensin-converting enzyme
+ace inhibitors	can inhibit	the formation of angiotensin II
+ace inhibitors	can result in	dry mouth
+ace inhibitors	can reduce	ischemic heart disease
+ace inhibitors	can be used	in pregnancy
+ace inhibitors	should not be	used during breastfeeding
+ace inhibitors	can cause	dizziness
+ace inhibitors	can increase	potassium levels
+ace inhibitors	can decrease	aldosterone production
+aldosterone	is a	hormone
+ace inhibitors	may require	dose adjustments
+ace inhibitors	can be associated with	renal dysfunction
+renal dysfunction	is a	condition
+ace inhibitors	can affect	the renin-angiotensin-aldosterone system
+renin-angiotensin-aldosterone system	is a	physiological pathway
+ace inhibitors	can lead to	renal failure
+renal failure	is a	medical condition
+ace inhibitors	can result in	decreased glomerular filtration rate
+glomerular filtration rate	is a	measure of kidney function
+ace inhibitors	may be	contraindicated
+contraindicated	in	patients with bilateral renal artery stenosis
+ace inhibitors	can be	beneficial
+beneficial	in	patients with heart failure
+ace inhibitors	can cause	persistently elevated serum creatinine
+ace inhibitors	can reduce	mortality
+ace inhibitors	can be associated with	cough
+ace inhibitors	can affect	the renin-angiotensin system
+renin-angiotensin system	is a	hormonal system
+ace inhibitors	can increase	bradykinin levels
+bradykinin	is a	peptide hormone
+ace inhibitors	can result in	postural hypotension
+ace inhibitors	can interfere with	sodium and water balance
+ace inhibitors	can lead to	hypotension
+ace inhibitors	can cause	renal impairment
+ace inhibitors	can be	prescribed for heart failure
+ace inhibitors	can cause	hyperkalemia
+ace inhibitors	can be	administered intravenously
+ace inhibitors	can result in	elevated blood urea nitrogen
+ace inhibitors	can lead to	life-threatening angioedema
+angioedema	is a	severe allergic reaction
+ace inhibitors	can increase	the risk of hyperkalemia
+ace inhibitors	can have	drug interactions
+drug interactions	can result in	adverse reactions
+ace inhibitors	can affect	blood pressure
+ace inhibitors	can have	vasodilatory effects
+ace inhibitors	can be	contraindicated in pregnancy
+ace inhibitors	can cause	fetal harm
+ace inhibitors	can be associated with	renal complications
+renal complications	can include	acute kidney injury
+ace inhibitors	can cause	rash
+ace inhibitors	can lead to	increased serum potassium levels
+increased serum potassium levels	can result in	arrhythmias
+ace inhibitors	can lead to	decreased renal function
+ace inhibitors	can decrease	albuminuria
+ace inhibitors	can increase	blood urea nitrogen levels
+blood urea nitrogen	is a	measure of kidney function
+ace inhibitors	can result in	renal insufficiency
+ace inhibitors	can cause	adverse effects
+adverse effects	can include	dizziness
+ace inhibitors	can reduce	left ventricular hypertrophy
+left ventricular hypertrophy	is an	abnormal enlargement of the heart
+ace inhibitors	can be	beneficial in hypertension
+ace inhibitors	can result in	decreased renal blood flow
+ace inhibitors	can affect	the renin-angiotensin system
+ace inhibitors	can lead to	hyperkalemia
+ace inhibitors	can cause	swelling
+ace inhibitors	can result in	persistent dry cough
+ace inhibitors	can increase	the risk of angioedema
+ace inhibitors	can have	antihypertensive effects
+ace inhibitors	can lead to	decreased renal perfusion
+ace inhibitors	can improve	cardiac function
+cardiac function	is the	ability of the heart to pump blood
+ace inhibitors	can be used for	heart failure
+ace inhibitors	can cause	tachycardia
+ace inhibitors	can affect	blood pressure regulation
+ace inhibitors	can result in	fluid retention
+ace inhibitors	can reduce	the risk of cardiovascular events
+cardiovascular events	can include	heart attacks
+ace inhibitors	can increase	bradykinin concentrations
+ace inhibitors	can lead to	renal dysfunction
+ace inhibitors	can be	first-line agents
+first-line agents	for	hypertension management
+ace inhibitors	can block	the production of angiotensin II
+ace inhibitors	can interfere with	the renin-angiotensin system
+ace inhibitors	can cause	fatigue
+ace inhibitors	can be used	as monotherapy
+monotherapy	is the	use of a single medication
+ace inhibitors	can be	cardioprotective
+ace inhibitors	can decrease	vasoconstriction
+ace inhibitors	can be beneficial	in heart failure patients
+ace inhibitors	can reduce	cardiac remodeling
+cardiac remodeling	is the process of changes in heart structure
+ace inhibitors	can result in	decreased aldosterone secretion
+ace inhibitors	can have	cardiorenal effects
+ace inhibitors	can cause	orthostatic hypotension
+ace inhibitors	can inhibit	the conversion of angiotensin I to angiotensin II
+ace inhibitors	can decrease	peripheral vascular resistance
+peripheral vascular resistance	is the resistance in the blood vessels
+ace inhibitors	can be used	in combination therapy
+combination therapy	is the	use of multiple medications
+ace inhibitors	can increase	renal blood flow
+ace inhibitors	can reduce	the risk of stroke
+ace inhibitors	can cause	renal dysfunction
+ace inhibitors	can lead to	bradykinin accumulation
+bradykinin accumulation	can result in	cough
+ace inhibitors	can affect	the renin-angiotensin-aldosterone system
+ace inhibitors	can have	renoprotective effects
+renoprotective effects	can prevent	kidney damage
+ace inhibitors	can improve	left ventricular function
+left ventricular function	is the	ability of the heart's main pumping chamber to contract
+ace inhibitors	can result in	increased creatinine levels
+ace inhibitors	can have	anti-inflammatory effects
+anti-inflammatory effects	can reduce	tissue damage
+ace inhibitors	can cause	orthostatic dizziness
+ace inhibitors	can lead to	angioedema
+ace inhibitors	can increase	the risk of hyperkalemia
+ace inhibitors	can decrease	peripheral resistance
+ace inhibitors	can be	well tolerated
+ace inhibitors	can be	used for diabetic nephropathy
+diabetic nephropathy	is a	kidney disease
+ace inhibitors	can result in	increased bradykinin levels
+ace inhibitors	can have	antiproteinuric effects
+antiproteinuric effects	can reduce	proteinuria
+ace inhibitors	can cause	headache
+ace inhibitors	can decrease	preload
+preload	is the	stretch of the heart muscle
+ace inhibitors	can have	vasodilatory properties
+ace inhibitors	can improve	renal function
+renal function	is the	ability of the kidneys to filter waste and produce urine
+ace inhibitors	can be	used for hypertension management
+ace inhibitors	can lead to	renal impairment
+ace inhibitors	can cause	weakness
+ace inhibitors	can reduce	afterload
+afterload	is the	resistance against which the heart pumps
+ace inhibitors	can decrease	the risk of myocardial infarction
+myocardial infarction	is a	heart attack
+ace inhibitors	can be used	in combination with diuretics
+diuretics	are	medications
+ace inhibitors	can result in	increased renin secretion
+ace inhibitors	can cause	hypokalemia
+ace inhibitors	can decrease	the progression of heart failure
+ace inhibitors	can have	renoprotective effects
+ace inhibitors	can reduce	aortic stiffness
+aortic stiffness	is the	loss of elasticity in the aorta
+ace inhibitors	can be beneficial	in patients with chronic kidney disease
+chronic kidney disease	is a	progressive loss of kidney function
+ace inhibitors	can increase	bradykinin activity
+bradykinin activity	can cause	cough
+ace inhibitors	can result in	decreased systemic vascular resistance
+ace inhibitors	can cause	nausea
+ace inhibitors	can improve	endothelial function
+endothelial function	is the	ability of blood vessels to dilate and constrict
+ace inhibitors	can decrease	the risk of recurrent heart attacks
+ace inhibitors	can be	recommended

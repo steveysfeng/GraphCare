@@ -1,0 +1,25 @@
+other drugs	used for	acid related disorders
+acid related disorders	fall under	ATC category
+ATC category	includes	drugs
+other drugs	are used for	acid related disorders
+acid related disorders	can be treated with	other drugs
+other drugs	are categorized in	ATC classification
+ATC classification	is a system for	categorizing drugs
+ATC classification	was developed by	World Health Organization
+other drugs	used for	acid related disorders
+acid related disorders	can be treated with	other drugs
+other drugs	classified as	ATC
+ATC	stands for	Anatomical Therapeutic Chemical Classification System
+ATC	used for	drug classification
+drug classification	helps in	recommending drugs
+other drugs	help in	managing acid related disorders
+acid related disorders	may require	other drugs for treatment
+other drugs	may have	side effects
+side effects	can include	nausea
+other drugs	may interact with	certain medications
+certain medications	can have	drug interactions
+drug interactions	should be	considered while prescribing other drugs for acid related disorders
+other drugs	can be	prescribed by healthcare professionals
+healthcare professionals	are responsible for	prescribing other drugs
+prescribing other drugs	should be based on	patient's condition
+patient's condition	influences	choice of other drugs

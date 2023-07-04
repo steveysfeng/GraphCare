@@ -1,0 +1,102 @@
+vitamin B12	is a	vitamin
+folic acid	is a	vitamin
+vitamin B12	is needed for	red blood cell production
+folic acid	is needed for	DNA synthesis
+vitamin B12	deficiency	can cause anemia
+folic acid	deficiency	can cause anemia
+vitamin B12	is found in	animal products
+folic acid	is found in	leafy green vegetables
+vitamin B12	is absorbed	in the small intestine
+folic acid	is absorbed	in the small intestine
+vitamin B12	can be obtained	through injections
+folic acid	can be obtained	through supplements
+vitamin B12	plays a role in	nervous system function
+folic acid	plays a role in	fetal development
+vitamin B12	is necessary for	DNA synthesis
+folic acid	is necessary for	cell division
+vitamin B12	can help	prevent birth defects
+folic acid	can help	prevent neural tube defects
+vitamin B12	deficiency	can lead to neurological problems
+folic acid	deficiency	can lead to neural tube defects
+vitamin B12	is important for	brain health
+folic acid	is important for	heart health
+vitamin B12	is involved in	energy production
+folic acid	is involved in	amino acid metabolism
+vitamin B12	is essential	for nerve function
+folic acid	is essential	for cell growth
+vitamin B12	is necessary for	myelin synthesis
+folic acid	is necessary for	red blood cell formation
+vitamin B12	is converted	into its active form in the body
+folic acid	is required	for proper brain development
+vitamin B12	is important for	mood regulation
+folic acid	is important for	preventing birth defects
+vitamin B12	can improve	symptoms of depression
+folic acid	can reduce	the risk of certain cancers
+vitamin B12	deficiency	can cause fatigue
+folic acid	deficiency	can cause weakness
+vitamin B12	is essential for	bone health
+folic acid	is essential for	DNA repair
+vitamin B12	helps maintain	healthy nerve cells
+folic acid	supports	fetal growth
+vitamin B12	is crucial for	red blood cell maturation
+folic acid	plays a role in	genetic expression
+vitamin B12	is required for	folate metabolism
+folic acid	is necessary for	normal brain function
+vitamin B12	is important for	cognitive function
+folic acid	is important for	immune function
+vitamin B12	can improve	memory
+folic acid	can reduce	the risk of heart disease
+vitamin B12	is crucial for	metabolism
+folic acid	is crucial for	cell growth
+vitamin B12	is involved in	methylation reactions
+folic acid	is involved in	DNA methylation
+vitamin B12	can help	treat pernicious anemia
+folic acid	can help	prevent birth defects
+vitamin B12	deficiency	can cause neurological damage
+folic acid	deficiency	can cause poor growth
+vitamin B12	is important for	skin health
+folic acid	is important for	preventing heart disease
+vitamin B12	can improve	energy levels
+folic acid	can enhance	fertility
+vitamin B12	is necessary for	normal neurological function
+folic acid	is necessary for	brain development
+vitamin B12	is required	for red blood cell maturation
+folic acid	is required	for DNA synthesis
+vitamin B12	is involved in	the synthesis of neurotransmitters
+folic acid	is involved in	cell division
+vitamin B12	helps maintain	healthy skin
+folic acid	supports	fetal development
+vitamin B12	is essential for	energy production
+folic acid	is essential for	tissue repair
+vitamin B12	is necessary for	maintaining healthy bones
+folic acid	is necessary for	healthy pregnancy
+vitamin B12	is converted	into its active form through a series of reactions
+folic acid	is important for	preventing birth defects
+vitamin B12	can help	treat megaloblastic anemia
+folic acid	can help	prevent certain types of cancer
+vitamin B12	deficiency	can cause memory loss
+folic acid	deficiency	can cause digestive problems
+vitamin B12	is important for	eye health
+folic acid	is important for	preventing stroke
+vitamin B12	is involved in	the metabolism of fatty acids
+folic acid	is involved in	the production of red blood cells
+vitamin B12	is necessary for	normal growth and development
+folic acid	is necessary for	fetal growth
+vitamin B12	is required for	the synthesis of DNA
+folic acid	is required for	cell division
+vitamin B12	is crucial for	nerve function
+folic acid	plays a role in	cardiovascular health
+vitamin B12	is essential for	proper brain function
+folic acid	is essential for	healthy cell growth
+vitamin B12	is necessary for	the metabolism of carbohydrates
+folic acid	is necessary for	blood cell formation
+vitamin B12	is converted	into its active form in the liver
+folic acid	is important for	preventing birth defects
+vitamin B12	can help	treat neuropathy
+folic acid	can help	prevent cognitive decline
+vitamin B12	deficiency	can lead to mood disorders
+folic acid	deficiency	can lead to birth defects
+vitamin B12	is important for	hair health
+folic acid	is important for	preventing certain birth defects
+vitamin B12	can enhance	athletic performance
+folic acid	can reduce	the risk of Alzheimer's disease

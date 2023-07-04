@@ -1,0 +1,238 @@
+angiotensin II receptor blockers (ARBs)	is a	drug
+angiotensin II receptor blockers (ARBs)	used for	hypertension
+hypertension	is a	medical condition
+angiotensin II receptor blockers (ARBs)	may have	side effects
+side effects	can include	dizziness
+angiotensin II receptor blockers (ARBs)	can interact with	diuretics
+diuretics	are a	medication
+angiotensin II receptor blockers (ARBs)	can reduce	blood pressure
+blood pressure	is a	medical condition
+angiotensin II receptor blockers (ARBs)	should be used with caution in	pregnancy
+pregnancy	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can lower	heart rate
+heart rate	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	should not be used with	ACE inhibitors
+ACE inhibitors	are a	medication
+ACE inhibitors	also used for	hypertension
+angiotensin II receptor blockers (ARBs)	can cause	cough
+cough	is a	symptom
+angiotensin II receptor blockers (ARBs)	can be prescribed as	combination therapy
+combination therapy	involves	multiple drugs
+angiotensin II receptor blockers (ARBs)	can be used in	diabetic nephropathy
+diabetic nephropathy	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can be used in	heart failure
+heart failure	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can be used in	left ventricular dysfunction
+left ventricular dysfunction	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can be used in	chronic kidney disease
+chronic kidney disease	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can interact with	potassium-sparing diuretics
+potassium-sparing diuretics	are a	medication
+angiotensin II receptor blockers (ARBs)	can interact with	nonsteroidal anti-inflammatory drugs (NSAIDs)
+nonsteroidal anti-inflammatory drugs (NSAIDs)	are a	medication
+angiotensin II receptor blockers (ARBs)	can interact with	lithium
+lithium	is a	medication
+angiotensin II receptor blockers (ARBs)	can interact with	angiotensin-converting enzyme (ACE)
+angiotensin-converting enzyme (ACE)	is an	enzyme
+angiotensin II receptor blockers (ARBs)	can interact with	angiotensin
+angiotensin	is a	peptide hormone
+angiotensin II receptor blockers (ARBs)	is a	subclass of medications
+medication	can be	prescribed
+angiotensin II receptor blockers (ARBs)	can be used in	stroke prevention
+stroke prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used in	myocardial infarction prevention
+myocardial infarction prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used in	heart attack prevention
+heart attack prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used in	cardiac remodeling prevention
+cardiac remodeling prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used in	diabetic retinopathy
+diabetic retinopathy	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can be used in	end-stage renal disease
+end-stage renal disease	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can be used in	proteinuria
+proteinuria	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can be used in	cerebrovascular disease
+cerebrovascular disease	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can have	similar efficacy to ACE inhibitors
+similar efficacy	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can decrease	vascular resistance
+vascular resistance	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can block	angiotensin II receptors
+angiotensin II receptors	are	specific proteins
+angiotensin II receptors	are found in	blood vessels
+blood vessels	are a	body structure
+angiotensin II receptor blockers (ARBs)	can affect	renin-angiotensin-aldosterone system
+renin-angiotensin-aldosterone system	is a	physiological system
+angiotensin II receptor blockers (ARBs)	can reduce	aldosterone levels
+aldosterone	is a	hormone
+angiotensin II receptor blockers (ARBs)	can increase	renin levels
+renin	is an	enzyme
+angiotensin II receptor blockers (ARBs)	can decrease	insulin resistance
+insulin resistance	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can improve	microalbuminuria
+microalbuminuria	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can reduce	renal damage
+renal damage	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can prevent	ventricular hypertrophy
+ventricular hypertrophy	is a	medical condition
+angiotensin II receptor blockers (ARBs)	can help	vasodilation
+vasodilation	is a	physiological process
+angiotensin II receptor blockers (ARBs)	can inhibit	angiotensin II-induced vasoconstriction
+angiotensin II-induced vasoconstriction	is a	physiological process
+angiotensin II receptor blockers (ARBs)	can bind to	angiotensin II receptors
+angiotensin II receptors	are	membrane proteins
+angiotensin II receptor blockers (ARBs)	can be used in	arrhythmia treatment
+arrhythmia treatment	is a	medical application
+angiotensin II receptor blockers (ARBs)	can affect	aldosterone release
+aldosterone release	is a	physiological process
+angiotensin II receptor blockers (ARBs)	can decrease	mortality
+mortality	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can decrease	hospital readmission
+hospital readmission	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed for	African Americans
+African Americans	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	elderly patients
+elderly patients	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with heart failure
+patients with heart failure	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with left ventricular dysfunction
+patients with left ventricular dysfunction	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with chronic kidney disease
+patients with chronic kidney disease	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with hypertension
+patients with hypertension	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with diabetic nephropathy
+patients with diabetic nephropathy	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with cerebrovascular disease
+patients with cerebrovascular disease	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with end-stage renal disease
+patients with end-stage renal disease	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with proteinuria
+patients with proteinuria	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with angina
+patients with angina	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with cardiac remodeling
+patients with cardiac remodeling	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with diabetes
+patients with diabetes	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed for	patients with microalbuminuria
+patients with microalbuminuria	are a	population group
+angiotensin II receptor blockers (ARBs)	can be prescribed under	prescription
+prescription	is a	medical process
+angiotensin II receptor blockers (ARBs)	can be prescribed by	healthcare provider
+healthcare provider	is a	profession
+angiotensin II receptor blockers (ARBs)	can be prescribed at	different doses
+different doses	are a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed with	food
+food	is a	substance
+angiotensin II receptor blockers (ARBs)	can be prescribed at	regular intervals
+regular intervals	are a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed for	long-term use
+long-term use	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed alongside	lifestyle modifications
+lifestyle modifications	are a	medical intervention
+angiotensin II receptor blockers (ARBs)	can be prescribed during	hospitalization
+hospitalization	is a	medical process
+angiotensin II receptor blockers (ARBs)	can be prescribed for	outpatient treatment
+outpatient treatment	is a	medical process
+angiotensin II receptor blockers (ARBs)	can be prescribed with	other medications
+other medications	are	various drugs
+angiotensin II receptor blockers (ARBs)	can be administered	orally
+orally	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered as	tablets
+tablets	are a	medication form
+angiotensin II receptor blockers (ARBs)	can be administered as	capsules
+capsules	are a	medication form
+angiotensin II receptor blockers (ARBs)	can be administered as	solutions
+solutions	are a	medication form
+angiotensin II receptor blockers (ARBs)	can be administered as	injections
+injections	are a	administration route
+angiotensin II receptor blockers (ARBs)	can be administered as	suspensions
+suspensions	are a	medication form
+angiotensin II receptor blockers (ARBs)	can be administered as	infusions
+infusions	are a	administration route
+angiotensin II receptor blockers (ARBs)	can be administered through	intravenous route
+intravenous route	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered through	subcutaneous route
+subcutaneous route	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered through	oral route
+oral route	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered through	intramuscular route
+intramuscular route	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered through	intraperitoneal route
+intraperitoneal route	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered through	topical route
+topical route	is an	administration route
+angiotensin II receptor blockers (ARBs)	can be administered as	monotherapy
+monotherapy	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered as	combination therapy
+combination therapy	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered at	fixed intervals
+fixed intervals	are a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be administered at	variable intervals
+variable intervals	are a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be administered for	short durations
+short durations	are a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be administered for	long durations
+long durations	are a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be administered before	meals
+meals	are	specific occasions
+angiotensin II receptor blockers (ARBs)	can be administered after	meals
+angiotensin II receptor blockers (ARBs)	can be administered with	water
+water	is a	liquid
+angiotensin II receptor blockers (ARBs)	can be administered on	empty stomach
+empty stomach	is a	medical state
+angiotensin II receptor blockers (ARBs)	can be administered on	full stomach
+full stomach	is a	medical state
+angiotensin II receptor blockers (ARBs)	can be administered according to	individual response
+individual response	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be administered for	maintenance therapy
+maintenance therapy	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered for	post-myocardial infarction treatment
+post-myocardial infarction treatment	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered for	cardiac remodeling
+angiotensin II receptor blockers (ARBs)	can be administered for	proteinuria treatment
+proteinuria treatment	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered for	ventricular hypertrophy treatment
+ventricular hypertrophy treatment	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered for	end-stage renal disease treatment
+end-stage renal disease treatment	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered for	diabetic retinopathy treatment
+diabetic retinopathy treatment	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be administered for	cerebrovascular disease treatment
+cerebrovascular disease treatment	is a	medical treatment
+angiotensin II receptor blockers (ARBs)	can be prescribed at	specific dosage
+specific dosage	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed at	maximum dosage
+maximum dosage	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed at	minimum dosage
+minimum dosage	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed at	optimal dosage
+optimal dosage	is a	medical measurement
+angiotensin II receptor blockers (ARBs)	can be prescribed in	tablet form
+tablet form	is a	medication form
+angiotensin II receptor blockers (ARBs)	can be prescribed in	capsule form
+capsule form	is a	medication form
+angiotensin II receptor blockers (ARBs)	can be prescribed in	injectable form
+injectable form	is a	medication form
+angiotensin II receptor blockers (ARBs)	can be prescribed in	solution form
+solution form	is a	medication form
+angiotensin II receptor blockers (ARBs)	can be used for	hypertension management
+hypertension management	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	heart failure management
+heart failure management	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	diabetes management
+diabetes management	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	chronic kidney disease management
+chronic kidney disease management	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	proteinuria management
+proteinuria management	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	myocardial infarction prevention
+myocardial infarction prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	stroke prevention
+stroke prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	cardiac remodeling prevention
+cardiac remodeling prevention	is a	medical application
+angiotensin II receptor blockers (ARBs)	can be used for	ventricular hypertrophy prevention
+ventricular hypertrophy prevention	is a	medical application

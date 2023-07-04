@@ -1,0 +1,29 @@
+antiadrenergic agents	are	drugs
+antiadrenergic agents	used for	hypertension treatment
+antiadrenergic agents	block	sympathetic ganglia
+antiadrenergic agents	can cause	orthostatic hypotension
+antiadrenergic agents	may interact with	beta blockers
+beta blockers	are	drugs
+beta blockers	used for	hypertension treatment
+beta blockers	block	beta receptors
+beta blockers	can cause	bradycardia
+antiadrenergic agents	interact with	vasodilators
+vasodilators	are	drugs
+vasodilators	used for	hypertension treatment
+vasodilators	relax	blood vessels
+vasodilators	can cause	headache
+antiadrenergic agents	interact with	diuretics
+diuretics	are	drugs
+diuretics	used for	hypertension treatment
+diuretics	increase	urinary output
+diuretics	can cause	electrolyte imbalance
+antiadrenergic agents	interact with	ACE inhibitors
+ACE inhibitors	are	drugs
+ACE inhibitors	used for	hypertension treatment
+ACE inhibitors	inhibit	angiotensin converting enzyme
+ACE inhibitors	can cause	dry cough
+antiadrenergic agents	interact with	calcium channel blockers
+calcium channel blockers	are	drugs
+calcium channel blockers	used for	hypertension treatment
+calcium channel blockers	block	calcium channels
+calcium channel blockers	can cause	edema

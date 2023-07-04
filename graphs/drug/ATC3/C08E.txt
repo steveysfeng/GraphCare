@@ -1,0 +1,279 @@
+non-selective calcium channel blockers	are	drugs
+non-selective calcium channel blockers	used for	hypertension
+hypertension	is a	medical condition
+non-selective calcium channel blockers	can cause	hypotension
+non-selective calcium channel blockers	may interact with	other medications
+non-selective calcium channel blockers	can affect	heart rate
+non-selective calcium channel blockers	can have	side effects
+non-selective calcium channel blockers	may increase	risk of heart failure
+non-selective calcium channel blockers	may be prescribed for	arrhythmia
+arrhythmia	is a	heart condition
+non-selective calcium channel blockers	may be contraindicated with	certain medical conditions
+non-selective calcium channel blockers	can lead to	dizziness
+dizziness	is a	symptom
+non-selective calcium channel blockers	should not be taken with	grapefruit juice
+grapefruit juice	can interact with	medications
+non-selective calcium channel blockers	dosage	should be adjusted
+non-selective calcium channel blockers	mechanism of action	involves blocking calcium channels
+calcium channels	are	cellular proteins
+non-selective calcium channel blockers	should be used with	caution during pregnancy
+pregnancy	is a	condition
+non-selective calcium channel blockers	can be	prescribed in combination with other medications
+non-selective calcium channel blockers	can lead to	fluid retention
+fluid retention	can cause	swelling
+non-selective calcium channel blockers	can affect	blood pressure
+non-selective calcium channel blockers	should be taken	as directed
+non-selective calcium channel blockers	can decrease	myocardial oxygen demand
+myocardial oxygen demand	is	a measure
+non-selective calcium channel blockers	should not be stopped	abruptly
+non-selective calcium channel blockers	may be contraindicated in	liver disease
+liver disease	is a	medical condition
+non-selective calcium channel blockers	can interact with	alcohol
+alcohol	can	interact with medications
+non-selective calcium channel blockers	may increase	risk of bleeding
+bleeding	is a	symptom
+non-selective calcium channel blockers	can reduce	peripheral vascular resistance
+peripheral vascular resistance	is a	physiological parameter
+non-selective calcium channel blockers	can be	prescribed for angina
+angina	is a	heart condition
+non-selective calcium channel blockers	can interact with	herbal supplements
+herbal supplements	can	interact with medications
+non-selective calcium channel blockers	can cause	edema
+edema	is a	symptom
+non-selective calcium channel blockers	may be	contraindicated in certain patients
+non-selective calcium channel blockers	can affect	liver function
+liver function	is a	physiological parameter
+non-selective calcium channel blockers	can lead to	medication interactions
+medication interactions	can	have adverse effects
+non-selective calcium channel blockers	can decrease	myocardial contractility
+myocardial contractility	is	a measure
+non-selective calcium channel blockers	can cause	constipation
+constipation	is a	symptom
+non-selective calcium channel blockers	can impair	cognitive function
+cognitive function	is	a measure
+non-selective calcium channel blockers	should be	titrated to effect
+non-selective calcium channel blockers	can increase	serum levels of digoxin
+serum levels of digoxin	are	blood levels
+non-selective calcium channel blockers	can lead to	bradycardia
+bradycardia	is a	heart condition
+non-selective calcium channel blockers	can be taken	with or without food
+non-selective calcium channel blockers	can decrease	systemic vascular resistance
+systemic vascular resistance	is a	physiological parameter
+non-selective calcium channel blockers	can interact with	grapefruit
+grapefruit	can	interact with medications
+non-selective calcium channel blockers	can cause	flushing
+flushing	is a	symptom
+non-selective calcium channel blockers	can affect	kidney function
+kidney function	is	a	physiological parameter
+non-selective calcium channel blockers	should be	administered with caution
+non-selective calcium channel blockers	can increase	risk of falls
+risk of falls	is	a measure
+non-selective calcium channel blockers	can interfere with	the cardiac conduction system
+cardiac conduction system	is	a	physiological system
+non-selective calcium channel blockers	can cause	peripheral edema
+peripheral edema	is	a symptom
+non-selective calcium channel blockers	can affect	renal function
+renal function	is	a	physiological parameter
+non-selective calcium channel blockers	can be	prescribed for migraine
+migraine	is a	medical condition
+non-selective calcium channel blockers	can increase	risk of gastrointestinal bleeding
+gastrointestinal bleeding	is	a	medical condition
+non-selective calcium channel blockers	can lead to	bradyarrhythmia
+bradyarrhythmia	is a	heart condition
+non-selective calcium channel blockers	can cause	orthostatic hypotension
+orthostatic hypotension	is a	medical condition
+non-selective calcium channel blockers	can affect	platelet aggregation
+platelet aggregation	is	a	physiological process
+non-selective calcium channel blockers	can be	prescribed for Raynaud's phenomenon
+Raynaud's phenomenon	is	a	medical condition
+non-selective calcium channel blockers	can interact with	grapefruit extract
+grapefruit extract	can	interact with medications
+non-selective calcium channel blockers	can cause	headache
+headache	is a	symptom
+non-selective calcium channel blockers	can decrease	myocardial infarction risk
+myocardial infarction risk	is	a	measure
+non-selective calcium channel blockers	can lead to	sinus bradycardia
+sinus bradycardia	is a	heart condition
+non-selective calcium channel blockers	can cause	fatigue
+fatigue	is a	symptom
+non-selective calcium channel blockers	can affect	liver enzymes
+liver enzymes	are	biochemical markers
+non-selective calcium channel blockers	can interact with	grapefruit products
+grapefruit products	can	interact with medications
+non-selective calcium channel blockers	can increase	risk of heart block
+heart block	is a	heart condition
+non-selective calcium channel blockers	can cause	flushing of the skin
+flushing of the skin	is	a	symptom
+non-selective calcium channel blockers	can impair	renal function
+renal function	is	a	physiological parameter
+non-selective calcium channel blockers	can be	prescribed for hypertension
+hypertension	is a	medical condition
+non-selective calcium channel blockers	can lead to	peripheral edema
+peripheral edema	is	a	symptom
+non-selective calcium channel blockers	can interfere with	calcium channels
+calcium channels	are	cellular proteins
+non-selective calcium channel blockers	can cause	dizziness
+dizziness	is	a	symptom
+non-selective calcium channel blockers	can affect	blood pressure
+non-selective calcium channel blockers	can decrease	peripheral vascular resistance
+peripheral vascular resistance	is a	physiological parameter
+non-selective calcium channel blockers	can interact with	alcohol
+alcohol	can	interact with medications
+non-selective calcium channel blockers	may increase	risk of bleeding
+bleeding	is a	symptom
+non-selective calcium channel blockers	can reduce	myocardial oxygen demand
+myocardial oxygen demand	is	a measure
+non-selective calcium channel blockers	should not be stopped	abruptly
+non-selective calcium channel blockers	may be contraindicated in	liver disease
+liver disease	is a	medical condition
+non-selective calcium channel blockers	can interact with	herbal supplements
+herbal supplements	can	interact with medications
+non-selective calcium channel blockers	can cause	edema
+edema	is a	symptom
+non-selective calcium channel blockers	may be	contraindicated in certain patients
+non-selective calcium channel blockers	can affect	liver function
+liver function	is a	physiological parameter
+non-selective calcium channel blockers	can lead to	medication interactions
+medication interactions	can	have adverse effects
+non-selective calcium channel blockers	can decrease	myocardial contractility
+myocardial contractility	is	a measure
+non-selective calcium channel blockers	can cause	constipation
+constipation	is a	symptom
+non-selective calcium channel blockers	can impair	cognitive function
+cognitive function	is	a measure
+non-selective calcium channel blockers	should be	titrated to effect
+non-selective calcium channel blockers	can increase	serum levels of digoxin
+serum levels of digoxin	are	blood levels
+non-selective calcium channel blockers	can lead to	bradycardia
+bradycardia	is a	heart condition
+non-selective calcium channel blockers	can be taken	with or without food
+non-selective calcium channel blockers	can decrease	systemic vascular resistance
+systemic vascular resistance	is a	physiological parameter
+non-selective calcium channel blockers	can interact with	grapefruit
+grapefruit	can	interact with medications
+non-selective calcium channel blockers	can cause	flushing
+flushing	is a	symptom
+non-selective calcium channel blockers	can affect	kidney function
+kidney function	is	a	physiological parameter
+non-selective calcium channel blockers	should be	administered with caution
+non-selective calcium channel blockers	can increase	risk of falls
+risk of falls	is	a measure
+non-selective calcium channel blockers	can interfere with	the cardiac conduction system
+cardiac conduction system	is	a	physiological system
+non-selective calcium channel blockers	can cause	peripheral edema
+peripheral edema	is	a symptom
+non-selective calcium channel blockers	can affect	renal function
+renal function	is	a	physiological parameter
+non-selective calcium channel blockers	can be	prescribed for migraine
+migraine	is a	medical condition
+non-selective calcium channel blockers	can increase	risk of gastrointestinal bleeding
+gastrointestinal bleeding	is	a	medical condition
+non-selective calcium channel blockers	can lead to	bradyarrhythmia
+bradyarrhythmia	is a	heart condition
+non-selective calcium channel blockers	can cause	orthostatic hypotension
+orthostatic hypotension	is a	medical condition
+non-selective calcium channel blockers	can affect	platelet aggregation
+platelet aggregation	is	a	physiological process
+non-selective calcium channel blockers	can be	prescribed for Raynaud's phenomenon
+Raynaud's phenomenon	is	a	medical condition
+non-selective calcium channel blockers	can interact with	grapefruit extract
+grapefruit extract	can	interact with medications
+non-selective calcium channel blockers	can cause	headache
+headache	is a	symptom
+non-selective calcium channel blockers	can decrease	myocardial infarction risk
+myocardial infarction risk	is	a	measure
+non-selective calcium channel blockers	can lead to	sinus bradycardia
+sinus bradycardia	is a	heart condition
+non-selective calcium channel blockers	can cause	fatigue
+fatigue	is a	symptom
+non-selective calcium channel blockers	can affect	liver enzymes
+liver enzymes	are	biochemical markers
+non-selective calcium channel blockers	can interact with	grapefruit products
+grapefruit products	can	interact with medications
+non-selective calcium channel blockers	can increase	risk of heart block
+heart block	is a	heart condition
+non-selective calcium channel blockers	can cause	flushing of the skin
+flushing of the skin	is	a	symptom
+non-selective calcium channel blockers	can impair	renal function
+renal function	is	a	physiological parameter
+non-selective calcium channel blockers	can be	prescribed for hypertension
+hypertension	is a	medical condition
+non-selective calcium channel blockers	can lead to	peripheral edema
+peripheral edema	is	a	symptom
+non-selective calcium channel blockers	can interfere with	calcium channels
+calcium channels	are	cellular proteins
+non-selective calcium channel blockers	can cause	dizziness
+dizziness	is	a	symptom
+non-selective calcium channel blockers	can affect	blood pressure
+non-selective calcium channel blockers	can decrease	peripheral vascular resistance
+peripheral vascular resistance	is a	physiological parameter
+non-selective calcium channel blockers	can interact with	alcohol
+alcohol	can	interact with medications
+non-selective calcium channel blockers	may increase	risk of bleeding
+bleeding	is a	symptom
+non-selective calcium channel blockers	can reduce	myocardial oxygen demand
+myocardial oxygen demand	is	a measure
+non-selective calcium channel blockers	should not be stopped	abruptly
+non-selective calcium channel blockers	may be contraindicated in	liver disease
+liver disease	is a	medical condition
+non-selective calcium channel blockers	can interact with	herbal supplements
+herbal supplements	can	interact with medications
+non-selective calcium channel blockers	can cause	edema
+edema	is a	symptom
+non-selective calcium channel blockers	may be	contraindicated in certain patients
+non-selective calcium channel blockers	can affect	liver function
+liver function	is a	physiological parameter
+non-selective calcium channel blockers	can lead to	medication interactions
+medication interactions	can	have adverse effects
+non-selective calcium channel blockers	can decrease	myocardial contractility
+myocardial contractility	is	a measure
+non-selective calcium channel blockers	can cause	constipation
+constipation	is a	symptom
+non-selective calcium channel blockers	can impair	cognitive function
+cognitive function	is	a measure
+non-selective calcium channel blockers	should be	titrated to effect
+non-selective calcium channel blockers	can increase	serum levels of digoxin
+serum levels of digoxin	are	blood levels
+non-selective calcium channel blockers	can lead to	bradycardia
+bradycardia	is a	heart condition
+non-selective calcium channel blockers	can be taken	with or without food
+non-selective calcium channel blockers	can decrease	systemic vascular resistance
+systemic vascular resistance	is a	physiological parameter
+non-selective calcium channel blockers	can interact with	grapefruit
+grapefruit	can	interact with medications
+non-selective calcium channel blockers	can cause	flushing
+flushing	is a	symptom
+non-selective calcium channel blockers	can affect	kidney function
+kidney function	is	a	physiological parameter
+non-selective calcium channel blockers	should be	administered with caution
+non-selective calcium channel blockers	can increase	risk of falls
+risk of falls	is	a measure
+non-selective calcium channel blockers	can interfere with	the cardiac conduction system
+cardiac conduction system	is	a	physiological system
+non-selective calcium channel blockers	can cause	peripheral edema
+peripheral edema	is	a	symptom
+non-selective calcium channel blockers	can affect	renal function
+renal function	is	a	physiological parameter
+non-selective calcium channel blockers	can be	prescribed for migraine
+migraine	is a	medical condition
+non-selective calcium channel blockers	can increase	risk of gastrointestinal bleeding
+gastrointestinal bleeding	is	a	medical condition
+non-selective calcium channel blockers	can lead to	bradyarrhythmia
+bradyarrhythmia	is a	heart condition
+non-selective calcium channel blockers	can cause	orthostatic hypotension
+orthostatic hypotension	is a	medical condition
+non-selective calcium channel blockers	can affect	platelet aggregation
+platelet aggregation	is	a	physiological process
+non-selective calcium channel blockers	can be	prescribed for Raynaud's phenomenon
+Raynaud's phenomenon	is	a	medical condition
+non-selective calcium channel blockers	can interact with	grapefruit extract
+grapefruit extract	can	interact with medications
+non-selective calcium channel blockers	can cause	headache
+headache	is a	symptom
+non-selective calcium channel blockers	can decrease	myocardial infarction risk
+myocardial infarction risk	is	a	measure
+non-selective calcium channel blockers	can lead to	sinus bradycardia
+sinus bradycardia	is a	heart condition
+non-selective calcium channel blockers	can cause	fatigue
+fatigue	is a	symptom
+non-selective calcium channel blockers	can affect	liver enzymes

@@ -1,0 +1,35 @@
+other cardiac preparations	belong to	ATC category
+ATC category	contains	drugs
+drugs	used for treating	cardiac conditions
+cardiac conditions	can include	heart failure
+heart failure	may require	medication
+medication	can help with	symptoms
+medication	include	beta blockers
+beta blockers	also known as	beta-adrenergic blocking agents
+beta-adrenergic blocking agents	work by	blocking the effects of adrenaline
+blocking the effects of adrenaline	can reduce	heart rate
+heart rate	linked to	blood pressure
+beta blockers	can lower	blood pressure
+blood pressure	associated with	risk of cardiovascular disease
+beta blockers	can decrease	risk of cardiovascular disease
+cardiovascular disease	leading cause of	death
+beta blockers	can decrease	mortality rate
+beta blockers	prescribed for	hypertension
+hypertension	can be caused by	high blood pressure
+high blood pressure	can lead to	stroke
+stroke	can cause	disability
+beta blockers	can reduce	risk of stroke
+beta blockers	may interact with	other medications
+other medications	may include	anticoagulants
+anticoagulants	used to	prevent blood clots
+beta blockers	can have	side effects
+side effects	include	fatigue
+fatigue	can impact	quality of life
+beta blockers	should be used	under medical supervision
+medical supervision	important for	monitoring effectiveness and safety
+beta blockers	may require	regular check-ups
+regular check-ups	ensure	proper dosage
+beta blockers	should not be	abruptly stopped
+abruptly stopping beta blockers	can lead to	rebound effects
+rebound effects	can include	increased heart rate
+beta blockers	should be	tapered off

@@ -1,0 +1,150 @@
+calcium channel blockers	are used with	diuretics
+diuretics	can be	prescribed
+calcium channel blockers	can be	prescribed
+calcium channel blockers	interact with	diuretics
+diuretics	can reduce	blood pressure
+calcium channel blockers	can reduce	blood pressure
+diuretics	can cause	electrolyte imbalance
+calcium channel blockers	can cause	electrolyte imbalance
+diuretics	can increase	urine output
+calcium channel blockers	can increase	urine output
+diuretics	can treat	hypertension
+calcium channel blockers	can treat	hypertension
+diuretics	can treat	edema
+calcium channel blockers	can treat	edema
+diuretics	can treat	heart failure
+calcium channel blockers	can treat	heart failure
+diuretics	can treat	kidney disease
+calcium channel blockers	can treat	kidney disease
+diuretics	can treat	liver disease
+calcium channel blockers	can treat	liver disease
+diuretics	can treat	nephrotic syndrome
+calcium channel blockers	can treat	nephrotic syndrome
+diuretics	can treat	glaucoma
+calcium channel blockers	can treat	glaucoma
+diuretics	can treat	polycystic ovary syndrome
+calcium channel blockers	can treat	polycystic ovary syndrome
+diuretics	can treat	pulmonary edema
+calcium channel blockers	can treat	pulmonary edema
+diuretics	can treat	hypercalcemia
+calcium channel blockers	can treat	hypercalcemia
+diuretics	can treat	diabetes insipidus
+calcium channel blockers	can treat	diabetes insipidus
+diuretics	can treat	Ménière's disease
+calcium channel blockers	can treat	Ménière's disease
+diuretics	can treat	lithium-induced diabetes insipidus
+calcium channel blockers	can treat	lithium-induced diabetes insipidus
+diuretics	can treat	renal tubular acidosis
+calcium channel blockers	can treat	renal tubular acidosis
+diuretics	can treat	high blood calcium
+calcium channel blockers	can treat	high blood calcium
+diuretics	can treat	primary aldosteronism
+calcium channel blockers	can treat	primary aldosteronism
+diuretics	can treat	secondary aldosteronism
+calcium channel blockers	can treat	secondary aldosteronism
+diuretics	can treat	Cushing's syndrome
+calcium channel blockers	can treat	Cushing's syndrome
+diuretics	can treat	pheochromocytoma
+calcium channel blockers	can treat	pheochromocytoma
+diuretics	can treat	osteoporosis
+calcium channel blockers	can treat	osteoporosis
+diuretics	can treat	altitude sickness
+calcium channel blockers	can treat	altitude sickness
+diuretics	can treat	acute mountain sickness
+calcium channel blockers	can treat	acute mountain sickness
+diuretics	can treat	nocturia
+calcium channel blockers	can treat	nocturia
+diuretics	can treat	lymphedema
+calcium channel blockers	can treat	lymphedema
+diuretics	can treat	hyperaldosteronism
+calcium channel blockers	can treat	hyperaldosteronism
+diuretics	can treat	cirrhosis
+calcium channel blockers	can treat	cirrhosis
+diuretics	can treat	hypertension during pregnancy
+calcium channel blockers	can treat	hypertension during pregnancy
+diuretics	can treat	congenital nephrotic syndrome
+calcium channel blockers	can treat	congenital nephrotic syndrome
+diuretics	can treat	lymphatic filariasis
+calcium channel blockers	can treat	lymphatic filariasis
+diuretics	can treat	endolymphatic hydrops
+calcium channel blockers	can treat	endolymphatic hydrops
+diuretics	can treat	polycystic kidney disease
+calcium channel blockers	can treat	polycystic kidney disease
+diuretics	can treat	syndrome of inappropriate antidiuretic hormone secretion
+calcium channel blockers	can treat	syndrome of inappropriate antidiuretic hormone secretion
+diuretics	can treat	central diabetes insipidus
+calcium channel blockers	can treat	central diabetes insipidus
+diuretics	can treat	nephrogenic diabetes insipidus
+calcium channel blockers	can treat	nephrogenic diabetes insipidus
+diuretics	can treat	cyclin-dependent kinase inhibitor 2A loss-of-function syndrome
+calcium channel blockers	can treat	cyclin-dependent kinase inhibitor 2A loss-of-function syndrome
+diuretics	can treat	pseudohypoaldosteronism type 1
+calcium channel blockers	can treat	pseudohypoaldosteronism type 1
+diuretics	can treat	Liddle syndrome
+calcium channel blockers	can treat	Liddle syndrome
+diuretics	can treat	Gitelman syndrome
+calcium channel blockers	can treat	Gitelman syndrome
+diuretics	can treat	Bartter syndrome
+calcium channel blockers	can treat	Bartter syndrome
+diuretics	can treat	hyperaldosteronism
+calcium channel blockers	can treat	hyperaldosteronism
+diuretics	can treat	hypertension
+calcium channel blockers	can treat	hypertension
+diuretics	can treat	osteoporosis
+calcium channel blockers	can treat	osteoporosis
+diuretics	can treat	kidney stones
+calcium channel blockers	can treat	kidney stones
+diuretics	can treat	glaucoma
+calcium channel blockers	can treat	glaucoma
+diuretics	can treat	edema
+calcium channel blockers	can treat	edema
+diuretics	can treat	heart failure
+calcium channel blockers	can treat	heart failure
+diuretics	can treat	liver disease
+calcium channel blockers	can treat	liver disease
+diuretics	can treat	nephrotic syndrome
+calcium channel blockers	can treat	nephrotic syndrome
+diuretics	can treat	heart disease
+calcium channel blockers	can treat	heart disease
+diuretics	can treat	diabetes insipidus
+calcium channel blockers	can treat	diabetes insipidus
+diuretics	can treat	Ménière's disease
+calcium channel blockers	can treat	Ménière's disease
+diuretics	can treat	glomerulonephritis
+calcium channel blockers	can treat	glomerulonephritis
+diuretics	can treat	high blood calcium
+calcium channel blockers	can treat	high blood calcium
+diuretics	can treat	primary aldosteronism
+calcium channel blockers	can treat	primary aldosteronism
+diuretics	can treat	secondary aldosteronism
+calcium channel blockers	can treat	secondary aldosteronism
+diuretics	can treat	pulmonary edema
+calcium channel blockers	can treat	pulmonary edema
+diuretics	can treat	nephritic syndrome
+calcium channel blockers	can treat	nephritic syndrome
+diuretics	can treat	erysipelas
+calcium channel blockers	can treat	erysipelas
+diuretics	can treat	cerebral edema
+calcium channel blockers	can treat	cerebral edema
+diuretics	can treat	hypertension during pregnancy
+calcium channel blockers	can treat	hypertension during pregnancy
+diuretics	can treat	hypokalemia
+calcium channel blockers	can treat	hypokalemia
+diuretics	can treat	cardiomyopathy
+calcium channel blockers	can treat	cardiomyopathy
+diuretics	can treat	nocturnal enuresis
+calcium channel blockers	can treat	nocturnal enuresis
+diuretics	can treat	lymphedema
+calcium channel blockers	can treat	lymphedema
+diuretics	can treat	barium poisoning
+calcium channel blockers	can treat	barium poisoning
+diuretics	can treat	pseudohypoaldosteronism type 1
+calcium channel blockers	can treat	pseudohypoaldosteronism type 1
+diuretics	can treat	Liddle syndrome
+calcium channel blockers	can treat	Liddle syndrome
+diuretics	can treat	Gitelman syndrome
+calcium channel blockers	can treat	Gitelman syndrome
+diuretics	can treat	Bartter syndrome
+calcium channel blockers	can treat	Bartter syndrome
+diuretics	can treat	hyperaldosteronism
+calcium channel blockers	can treat	hyperaldosteronism

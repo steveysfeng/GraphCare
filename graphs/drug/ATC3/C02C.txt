@@ -1,0 +1,11 @@
+antiadrenergic agents	peripherally acting	are used for
+antiadrenergic agents	peripherally acting	can treat	hypertension
+hypertension	is a	medical condition
+antiadrenergic agents	peripherally acting	can cause	dizziness
+dizziness	is a	side effect
+antiadrenergic agents	peripherally acting	can interact with	other medications
+other medications	include	beta blockers
+beta blockers	are used for	heart disease
+heart disease	is a	medical condition
+antiadrenergic agents	peripherally acting	can be	contraindicated
+contraindicated	for	patients with	asthma

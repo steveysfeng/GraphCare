@@ -1,0 +1,83 @@
+high-ceiling diuretics	are a type of	medication
+high-ceiling diuretics	increase	urine production
+high-ceiling diuretics	used for	treating edema
+high-ceiling diuretics	can cause	electrolyte imbalance
+electrolyte imbalance	can lead to	cardiac arrhythmias
+high-ceiling diuretics	interact with	other medications
+high-ceiling diuretics	commonly prescribed for	hypertension
+high-ceiling diuretics	mechanism of action	inhibit sodium reabsorption
+high-ceiling diuretics	can lead to	dehydration
+dehydration	may result in	dizziness
+high-ceiling diuretics	can be	loop diuretics
+high-ceiling diuretics	may be	furosemide
+furosemide	is a	drug
+high-ceiling diuretics	also known as	loop diuretics
+high-ceiling diuretics	are effective in	reducing fluid retention
+high-ceiling diuretics	are prescribed for	liver cirrhosis
+high-ceiling diuretics	may interact with	NSAIDs
+NSAIDs	can reduce	diuretic effectiveness
+high-ceiling diuretics	should be used with	caution in patients with impaired kidney function
+high-ceiling diuretics	may be	contraindicated in pregnancy
+high-ceiling diuretics	can cause	hypokalemia
+hypokalemia	increases the risk of	cardiac complications
+high-ceiling diuretics	should be used with	caution in elderly patients
+high-ceiling diuretics	can be	torsemide
+torsemide	is a	medication
+high-ceiling diuretics	may be	prescribed for heart failure
+high-ceiling diuretics	should be monitored for	renal function
+high-ceiling diuretics	increase the excretion of	sodium
+high-ceiling diuretics	have a	rapid onset of action
+high-ceiling diuretics	may interact with	lithium
+lithium	is a	medication
+high-ceiling diuretics	have a	high ceiling effect
+high-ceiling diuretics	can lead to	fluid and electrolyte imbalances
+fluid imbalances	can result in	hypotension
+high-ceiling diuretics	are contraindicated in	anuria
+anuria	is a	condition
+high-ceiling diuretics	require	close monitoring
+high-ceiling diuretics	may be	prescribed for kidney stones
+high-ceiling diuretics	can cause	ototoxicity
+ototoxicity	can result in	hearing loss
+high-ceiling diuretics	can cause	hyperuricemia
+hyperuricemia	is a	condition
+high-ceiling diuretics	can be	ethacrynic acid
+ethacrynic acid	is a	medication
+high-ceiling diuretics	can interfere with	glucose control
+high-ceiling diuretics	require	regular blood pressure monitoring
+high-ceiling diuretics	may be	prescribed for ascites
+ascites	is a	condition
+high-ceiling diuretics	can cause	volume depletion
+volume depletion	can lead to	hypovolemic shock
+high-ceiling diuretics	can be	bumetanide
+bumetanide	is a	medication
+high-ceiling diuretics	should be used with	caution in patients with gout
+high-ceiling diuretics	may be	prescribed for nephrotic syndrome
+high-ceiling diuretics	can cause	metabolic alkalosis
+metabolic alkalosis	is a	condition
+high-ceiling diuretics	can increase	urinary calcium excretion
+high-ceiling diuretics	can be	indapamide
+indapamide	is a	medication
+high-ceiling diuretics	may be	prescribed for hypertension
+high-ceiling diuretics	can cause	hyponatremia
+hyponatremia	is a	condition
+high-ceiling diuretics	can lead to	increased urine output
+high-ceiling diuretics	should be used with	caution in patients with sulfa allergies
+high-ceiling diuretics	may interact with	digoxin
+digoxin	is a	medication
+high-ceiling diuretics	can cause	hypomagnesemia
+hypomagnesemia	is a	condition
+high-ceiling diuretics	may be	administered intravenously
+high-ceiling diuretics	can cause	photosensitivity
+photosensitivity	can result in	sunburn
+high-ceiling diuretics	can be	metolazone
+metolazone	is a	medication
+high-ceiling diuretics	are commonly used in	heart failure treatment
+high-ceiling diuretics	can cause	hypovolemia
+high-ceiling diuretics	may be	prescribed for renal impairment
+high-ceiling diuretics	can cause	hypochloremia
+hypochloremia	is a	condition
+high-ceiling diuretics	should be used with	caution in patients with hepatic impairment
+high-ceiling diuretics	may interact with	anticoagulants
+anticoagulants	are	medications
+high-ceiling diuretics	can cause	hypocalcemia
+hypocalcemia	is a	condition

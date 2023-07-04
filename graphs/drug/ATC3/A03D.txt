@@ -1,0 +1,214 @@
+antispasmodics	are combined with	analgesics
+analgesics	can help with	pain relief
+antispasmodics	can help with	muscle spasms
+antispasmodics	are used in	combination therapies
+combination therapies	are used for	multiple symptoms
+analgesics	provide	pain relief
+antispasmodics	provide	muscle spasm relief
+antispasmodics	can be	prescribed by doctors
+analgesics	can be	prescribed by doctors
+combination therapies	can be	prescribed by doctors
+antispasmodics	can be	used in different formulations
+analgesics	can be	used in different formulations
+combination therapies	can be	used in different formulations
+antispasmodics	can have	side effects
+analgesics	can have	side effects
+combination therapies	can have	side effects
+side effects	may include	drowsiness
+side effects	may include	dizziness
+side effects	may include	dry mouth
+side effects	may include	constipation
+side effects	may include	blurred vision
+antispasmodics	may interact with	other medications
+analgesics	may interact with	other medications
+combination therapies	may interact with	other medications
+antispasmodics	may interact with	certain medical conditions
+analgesics	may interact with	certain medical conditions
+combination therapies	may interact with	certain medical conditions
+antispasmodics	can be	taken orally
+analgesics	can be	taken orally
+antispasmodics	can be	taken in other forms
+analgesics	can be	taken in other forms
+combination therapies	can be	taken orally or in other forms
+antispasmodics	should be	taken as directed by a doctor
+analgesics	should be	taken as directed by a doctor
+combination therapies	should be	taken as directed by a doctor
+antispasmodics	are	prescription medications
+analgesics	are	prescription medications
+combination therapies	are	prescription medications
+antispasmodics	are used	for treating conditions like irritable bowel syndrome
+analgesics	are used	for treating conditions like headaches
+combination therapies	are used	for treating conditions like menstrual cramps
+antispasmodics	are used	in combination with other medications
+analgesics	are used	in combination with other medications
+combination therapies	are used	in combination with other medications
+antispasmodics	can be	purchased over-the-counter
+analgesics	can be	purchased over-the-counter
+combination therapies	can be	purchased over-the-counter
+antispasmodics	can be	used for short-term relief
+analgesics	can be	used for short-term relief
+combination therapies	can be	used for short-term relief
+antispasmodics	can be	used for long-term management
+analgesics	can be	used for long-term management
+combination therapies	can be	used for long-term management
+antispasmodics	should not be	used without medical supervision
+analgesics	should not be	used without medical supervision
+combination therapies	should not be	used without medical supervision
+antispasmodics	are	safe when used as directed
+analgesics	are	safe when used as directed
+combination therapies	are	safe when used as directed
+antispasmodics	can be	used by adults
+analgesics	can be	used by adults
+combination therapies	can be	used by adults
+antispasmodics	may not be	suitable for everyone
+analgesics	may not be	suitable for everyone
+combination therapies	may not be	suitable for everyone
+antispasmodics	can provide	relief from muscle spasms
+analgesics	can provide	relief from pain
+combination therapies	can provide	relief from multiple symptoms
+antispasmodics	can be	addictive if misused
+analgesics	can be	addictive if misused
+combination therapies	can be	addictive if misused
+antispasmodics	should not be	used during pregnancy
+analgesics	should not be	used during pregnancy
+combination therapies	should not be	used during pregnancy
+antispasmodics	should not be	used by breastfeeding mothers
+analgesics	should not be	used by breastfeeding mothers
+combination therapies	should not be	used by breastfeeding mothers
+antispasmodics	should be	stored in a safe place
+analgesics	should be	stored in a safe place
+combination therapies	should be	stored in a safe place
+antispasmodics	may require	dosage adjustments
+analgesics	may require	dosage adjustments
+combination therapies	may require	dosage adjustments
+antispasmodics	should not be	shared with others
+analgesics	should not be	shared with others
+combination therapies	should not be	shared with others
+antispasmodics	can be	used for different conditions
+analgesics	can be	used for different conditions
+combination therapies	can be	used for different conditions
+antispasmodics	have	potential side effects
+analgesics	have	potential side effects
+combination therapies	have	potential side effects
+antispasmodics	can be	used in pediatric patients
+analgesics	can be	used in pediatric patients
+combination therapies	can be	used in pediatric patients
+antispasmodics	can interact with	alcohol
+analgesics	can interact with	alcohol
+combination therapies	can interact with	alcohol
+antispasmodics	can interact with	certain foods
+analgesics	can interact with	certain foods
+combination therapies	can interact with	certain foods
+antispasmodics	can interact with	herbal supplements
+analgesics	can interact with	herbal supplements
+combination therapies	can interact with	herbal supplements
+antispasmodics	can be combined with	analgesics
+combined antispasmodics and analgesics	used for	pain relief
+combined antispasmodics and analgesics	may cause	drowsiness
+combined antispasmodics and analgesics	prescribed for	muscle spasms
+muscle spasms	can be caused by	certain medical conditions
+certain medical conditions	include	irritable bowel syndrome
+combined antispasmodics and analgesics	administered	orally
+combined antispasmodics and analgesics	available in	tablet form
+antispasmodics	are used in combination with	analgesics
+antispasmodics	can relieve	muscle spasms
+analgesics	can relieve	pain
+antispasmodics	can be used to treat	urinary tract spasms
+analgesics	can be used to treat	headaches
+antispasmodics	can be used to treat	gastrointestinal spasms
+analgesics	can be used to treat	toothaches
+antispasmodics	can be used to treat	menstrual cramps
+analgesics	can be used to treat	muscle aches
+antispasmodics	can be used to treat	irritable bowel syndrome
+analgesics	can be used to treat	arthritis
+antispasmodics	can be used to treat	gallbladder spasms
+analgesics	can be used to treat	back pain
+antispasmodics	can be used to treat	asthma
+analgesics	can be used to treat	post-surgical pain
+antispasmodics	can be used to treat	kidney stones
+analgesics	can be used to treat	migraines
+antispasmodics	can be used to treat	bladder spasms
+analgesics	can be used to treat	menstrual pain
+antispasmodics	can be used to treat	bronchospasm
+analgesics	can be used to treat	neuropathic pain
+antispasmodics	can be used to treat	biliary colic
+analgesics	can be used to treat	cancer pain
+antispasmodics	can be used to treat	spasticity
+analgesics	can be used to treat	fibromyalgia
+antispasmodics	can be used to treat	multiple sclerosis
+analgesics	can be used to treat	post-herpetic neuralgia
+antispasmodics	can be used to treat	gastrointestinal disorders
+analgesics	can be used to treat	postoperative pain
+antispasmodics	can be used to treat	endometriosis
+analgesics	can be used to treat	joint pain
+antispasmodics	can be used to treat	spasm associated with cirrhosis of the liver
+analgesics	can be used to treat	diabetic neuropathy
+antispasmodics	can be used to treat	esophageal spasm
+analgesics	can be used to treat	osteoarthritis
+antispasmodics	can be used to treat	gastroparesis
+analgesics	can be used to treat	postoperative nausea and vomiting
+antispasmodics	can be used to treat	post-traumatic stress disorder
+analgesics	can be used to treat	rheumatoid arthritis
+antispasmodics	can be used to treat	interstitial cystitis
+analgesics	can be used to treat	phantom limb pain
+antispasmodics	can be used to treat	ileus
+analgesics	can be used to treat	shingles
+antispasmodics	can be used to treat	irritable bowel disease
+analgesics	can be used to treat	sciatica
+antispasmodics	can be used to treat	gastroesophageal reflux disease
+analgesics	can be used to treat	trigeminal neuralgia
+antispasmodics	can be used to treat	central nervous system disorders
+analgesics	can be used to treat	tendonitis
+antispasmodics	can be used to treat	cystitis
+analgesics	can be used to treat	neuralgia
+antispasmodics	can be used to treat	colonic diverticular disease
+analgesics	can be used to treat	cancer-related pain
+antispasmodics	can be used to treat	post-operative urinary retention
+analgesics	can be used to treat	temporomandibular joint disorder
+antispasmodics	can be used to treat	chronic fatigue syndrome
+analgesics	can be used to treat	phantom pain
+antispasmodics	can be used to treat	crohn's disease
+analgesics	can be used to treat	neuropathic itch
+antispasmodics	can be used to treat	infant colic
+analgesics	can be used to treat	osteoporosis
+antispasmodics	can be used to treat	muscular dystrophy
+analgesics	can be used to treat	infection-related pain
+antispasmodics	can be used to treat	parkinson's disease
+analgesics	can be used to treat	tennis elbow
+antispasmodics	can be used to treat	restless leg syndrome
+analgesics	can be used to treat	chemotherapy-induced neuropathy
+antispasmodics	can be used to treat	ulcerative colitis
+analgesics	can be used to treat	post-surgical itching
+antispasmodics	can be used to treat	tracheal stenosis
+analgesics	can be used to treat	fibromyalgia-related pain
+antispasmodics	can be used to treat	cervical dystonia
+analgesics	can be used to treat	diabetic gastroparesis
+antispasmodics	can be used to treat	tinnitus
+analgesics	can be used to treat	dental pain
+antispasmodics	can be used to treat	peptic ulcer disease
+analgesics	can be used to treat	carpal tunnel syndrome
+antispasmodics	can be used to treat	urinary incontinence
+analgesics	can be used to treat	neuropathic itch
+antispasmodics	can be used to treat	gastroduodenal ulcers
+analgesics	can be used to treat	osteoarthritis-related pain
+antispasmodics	can be used to treat	fibromyalgia-related symptoms
+analgesics	can be used to treat	biliary dyskinesia
+antispasmodics	can be used to treat	postoperative urinary incontinence
+analgesics	can be used to treat	temporomandibular disorders
+antispasmodics	can be used to treat	diabetic diarrhea
+analgesics	can be used to treat	intercostal neuralgia
+antispasmodics	can be used to treat	spastic bladder
+analgesics	can be used to treat	migrainous neuralgia
+antispasmodics	can be used to treat	irritable bowel syndrome with diarrhea
+analgesics	can be used to treat	postoperative pain relief
+antispasmodics	can be used to treat	chronic daily headache
+analgesics	can be used to treat	brachioradial pruritus
+antispasmodics	can be used to treat	intradialytic muscle cramps
+analgesics	can be used to treat	tennis leg
+antispasmodics	can be used to treat	pilonidal cyst
+analgesics	can be used to treat	trigeminal trophic lateral paralysis
+antispasmodics	can be used to treat	sphincter of Oddi dysfunction syndrome
+analgesics	can be used to treat	postoperative ileus
+antispasmodics	can be used to treat	pediatric suprapubic pain syndrome
+analgesics	can be used to treat	excruciating menstrual pain
+antispasmodics	can be used to treat	esophageal motility disorders

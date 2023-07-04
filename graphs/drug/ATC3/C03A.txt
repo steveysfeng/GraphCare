@@ -1,0 +1,110 @@
+low-ceiling diuretics	are a type of	diuretic
+thiazides	are a type of	low-ceiling diuretics
+low-ceiling diuretics	used to	treat hypertension
+low-ceiling diuretics	mechanism of action	inhibits sodium reabsorption
+low-ceiling diuretics	may cause	electrolyte imbalance
+thiazides	can lead to	hypokalemia
+hypokalemia	may result in	muscle weakness
+low-ceiling diuretics	can increase	urine output
+low-ceiling diuretics	often prescribed with	ACE inhibitors
+low-ceiling diuretics	can interact with	NSAIDs
+NSAIDs	can reduce	diuretic efficacy
+low-ceiling diuretics	should be used with caution in	patients with renal impairment
+low-ceiling diuretics	contraindicated in	patients with anuria
+low-ceiling diuretics	are not recommended for	pregnant women
+low-ceiling diuretics	can decrease	blood pressure
+low-ceiling diuretics	commonly used	in the treatment of heart failure
+low-ceiling diuretics	may increase	uric acid levels
+low-ceiling diuretics	can cause	dehydration
+dehydration	can lead to	dizziness
+low-ceiling diuretics	may interact with	lithium
+lithium	can cause	toxicity
+low-ceiling diuretics	may be prescribed	for edema
+edema	is the	swelling of body tissues
+low-ceiling diuretics	are a	first-line therapy for hypertension
+low-ceiling diuretics	can lead to	increased urination
+low-ceiling diuretics	can be used	in the treatment of cirrhosis
+cirrhosis	is a	liver disease
+low-ceiling diuretics	should be used with caution in	patients with diabetes
+low-ceiling diuretics	can cause	photosensitivity
+low-ceiling diuretics	may be used	in the treatment of nephrotic syndrome
+nephrotic syndrome	is a	kidney disorder
+low-ceiling diuretics	may cause	orthostatic hypotension
+low-ceiling diuretics	are not recommended	for pediatric use
+low-ceiling diuretics	can be used	in the management of ascites
+ascites	is the	accumulation of fluid in the abdomen
+low-ceiling diuretics	may interact with	digoxin
+digoxin	is a	cardiac glycoside
+low-ceiling diuretics	can lead to	increased excretion of calcium
+low-ceiling diuretics	may be used	for the treatment of nephrogenic diabetes insipidus
+nephrogenic diabetes insipidus	is a	condition characterized by excessive urination and thirst
+low-ceiling diuretics	can cause	muscle cramps
+low-ceiling diuretics	should be used with caution in	patients with gout
+low-ceiling diuretics	can lead to	increased blood glucose levels
+low-ceiling diuretics	may cause	drowsiness
+drowsiness	can affect	motor coordination
+low-ceiling diuretics	can interact with	corticosteroids
+corticosteroids	can increase	potassium loss
+low-ceiling diuretics	can be used	in the management of kidney stones
+kidney stones	are	hard deposits formed in the kidneys
+low-ceiling diuretics	may interact with	tetracycline antibiotics
+tetracycline antibiotics	can decrease	diuretic effectiveness
+low-ceiling diuretics	can lead to	increased risk of falls
+low-ceiling diuretics	should be used with caution in	elderly patients
+low-ceiling diuretics	can cause	increased sensitivity to sunlight
+low-ceiling diuretics	may have	long-term effects on bone density
+low-ceiling diuretics	can be used	in the treatment of heart failure with preserved ejection fraction
+heart failure with preserved ejection fraction	is a	type of heart failure
+low-ceiling diuretics	may interact with	ACE inhibitors
+low-ceiling diuretics	can cause	excessive diuresis
+excessive diuresis	may lead to	dehydration
+low-ceiling diuretics	may be used	for the management of pulmonary edema
+pulmonary edema	is the	accumulation of fluid in the lungs
+low-ceiling diuretics	can cause	low blood pressure
+low blood pressure	can lead to	lightheadedness
+low-ceiling diuretics	may be used	in the treatment of glaucoma
+glaucoma	is a	condition characterized by increased pressure in the eye
+low-ceiling diuretics	can interact with	lithium
+lithium	may require	dose adjustment when taken with low-ceiling diuretics
+low-ceiling diuretics	can affect	electrolyte levels
+low-ceiling diuretics	are contraindicated in	patients with anuria
+low-ceiling diuretics	can lead to	increased urine production
+low-ceiling diuretics	can be used	to reduce edema
+edema	can result from	heart failure
+low-ceiling diuretics	should be used with caution in	patients with liver disease
+low-ceiling diuretics	may increase	the risk of hyperuricemia
+low-ceiling diuretics	may interact with	NSAIDs
+low-ceiling diuretics	can cause	electrolyte abnormalities
+electrolyte abnormalities	can lead to	cardiac arrhythmias
+low-ceiling diuretics	should be used with caution in	patients with renal impairment
+low-ceiling diuretics	may cause	metabolic alkalosis
+low-ceiling diuretics	can lead to	increased sodium excretion
+low-ceiling diuretics	can be used	in the treatment of hypertension
+low-ceiling diuretics	are	prescribed for fluid retention
+low-ceiling diuretics	can increase	urine production
+low-ceiling diuretics	are used	in the treatment of edema
+low-ceiling diuretics	can cause	hypokalemia
+low-ceiling diuretics	may interact with	corticosteroids
+low-ceiling diuretics	may be used	in the treatment of congestive heart failure
+congestive heart failure	is a	condition characterized by the heart's inability to pump enough blood
+low-ceiling diuretics	can lead to	increased potassium excretion
+low-ceiling diuretics	can cause	polyuria
+polyuria	is excessive	urination
+low-ceiling diuretics	should be used with caution in	patients with diabetes
+low-ceiling diuretics	can decrease	blood volume
+low-ceiling diuretics	may interact with	lithium
+low-ceiling diuretics	can cause	muscle weakness
+low-ceiling diuretics	may be prescribed	for hypertension management
+hypertension	is a	condition characterized by high blood pressure
+low-ceiling diuretics	can lead to	increased magnesium excretion
+low-ceiling diuretics	can be used	in the treatment of renal impairment
+low-ceiling diuretics	can cause	hyponatremia
+hyponatremia	is a	low sodium level in the blood
+low-ceiling diuretics	should be used with caution in	elderly patients
+low-ceiling diuretics	may interact with	digoxin
+low-ceiling diuretics	can increase	salt excretion
+low-ceiling diuretics	may cause	dizziness
+low-ceiling diuretics	can lead to	increased excretion of water
+low-ceiling diuretics	can interact with	lithium
+low-ceiling diuretics	should be used with caution in	patients with gout
+low-ceiling diuretics	can cause	orthostatic hypotension

@@ -1,0 +1,15 @@
+arteriolar smooth muscle	is a	tissue
+agents acting on	affect	arteriolar smooth muscle
+arteriolar smooth muscle	control	blood flow
+agents acting on	can cause	vasoconstriction
+vasoconstriction	increase	blood pressure
+agents acting on	can be used for	hypertension treatment
+hypertension treatment	aims to	lower blood pressure
+agents acting on	can have	side effects
+side effects	include	dizziness
+agents acting on	can interact with	other medications
+other medications	can decrease	effectiveness of agents acting on
+agents acting on	can be contraindicated in	certain medical conditions
+certain medical conditions	include	severe cardiovascular disease
+agents acting on	should be used with caution in	elderly patients
+elderly patients	are at increased risk for	adverse effects

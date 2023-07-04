@@ -1,0 +1,17 @@
+cardiac glycosides	are	drugs
+cardiac glycosides	used for	heart failure
+heart failure	can lead to	fluid retention
+fluid retention	may cause	edema
+cardiac glycosides	mechanism of action	inhibits sodium-potassium ATPase
+sodium-potassium ATPase	is	an enzyme
+cardiac glycosides	can	increase cardiac contractility
+cardiac contractility	is	the force of heart muscle contraction
+cardiac glycosides	can	slow down heart rate
+heart rate	is	the number of heart beats per minute
+cardiac glycosides	can	improve cardiac output
+cardiac output	is	the amount of blood pumped by the heart per minute
+cardiac glycosides	can	help control irregular heart rhythms
+irregular heart rhythms	can be	atrial fibrillation
+atrial fibrillation	is	a type of irregular heartbeat
+cardiac glycosides	have	narrow therapeutic index
+narrow therapeutic index	means	a small difference between a safe and toxic dose

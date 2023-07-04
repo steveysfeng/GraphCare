@@ -1,0 +1,9 @@
+other antianemic preparations in atc	are	medications
+medications	used for	treating anemia
+treating anemia	can help	increase red blood cell count
+other antianemic preparations in atc	include	iron supplements
+iron supplements	can be	taken orally
+other antianemic preparations in atc	may have	side effects
+side effects	might include	gastrointestinal upset
+other antianemic preparations in atc	are classified as	ATC code B03AE
+ATC code B03AE	represents	other antianemic preparations

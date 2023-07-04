@@ -1,0 +1,242 @@
+beta blocking agents	are a type of	drug
+diuretics	are a type of	drug
+beta blocking agents	can be used for	hypertension
+diuretics	can be used for	edema
+beta blocking agents	can interact with	other medications
+diuretics	can interact with	other medications
+beta blocking agents	may cause	bradycardia
+diuretics	may cause	electrolyte imbalances
+beta blocking agents	should not be used with	asthma
+diuretics	should not be used with	renal failure
+beta blocking agents	are contraindicated in	heart block
+diuretics	are contraindicated in	anuria
+beta blocking agents	can increase	exercise tolerance
+diuretics	can increase	urine output
+beta blocking agents	can reduce	heart rate
+diuretics	can reduce	blood pressure
+beta blocking agents	are commonly prescribed for	cardiac conditions
+diuretics	are commonly prescribed for	fluid overload
+beta blocking agents	should be taken with	food
+diuretics	should be taken with	plenty of water
+beta blocking agents	should not be abruptly stopped	without medical supervision
+diuretics	should not be abruptly stopped	without medical supervision
+beta blocking agents	are available in	various formulations
+diuretics	are available in	various formulations
+beta blocking agents	are excreted by	the kidneys
+diuretics	increase	urine production
+beta blocking agents	can cause	fatigue
+diuretics	can cause	dizziness
+beta blocking agents	can worsen	depression
+diuretics	can worsen	gout
+beta blocking agents	should be taken at	the same time each day
+diuretics	should be taken in	the morning
+beta blocking agents	can interact with	alcohol
+diuretics	can interact with	NSAIDs
+beta blocking agents	are not recommended for	pregnancy
+diuretics	are not recommended for	breastfeeding
+beta blocking agents	can be prescribed by	a cardiologist
+diuretics	can be prescribed by	a nephrologist
+beta blocking agents	require	close monitoring
+diuretics	require	regular blood tests
+beta blocking agents	can be administered	orally
+diuretics	can be administered	intravenously
+beta blocking agents	can be purchased	with a prescription
+diuretics	can be purchased	over-the-counter
+beta blocking agents	have a	half-life
+diuretics	have a	duration of action
+beta blocking agents	are metabolized by	the liver
+diuretics	are metabolized by	the kidneys
+beta blocking agents	can cause	erectile dysfunction
+diuretics	can cause	dehydration
+beta blocking agents	can be used in	combination therapy
+diuretics	can be used in	combination therapy
+beta blocking agents	can be used for	migraine prevention
+diuretics	can be used for	hypertension management
+beta blocking agents	can reduce	intraocular pressure
+diuretics	can reduce	edema
+beta blocking agents	are contraindicated in	asthma
+diuretics	are contraindicated in	anuria
+beta blocking agents	are associated with	decreased exercise capacity
+diuretics	are associated with	increased urination
+beta blocking agents	should be stored	at room temperature
+diuretics	should be stored	in a dry place
+beta blocking agents	can cause	bronchospasm
+diuretics	can cause	hypokalemia
+beta blocking agents	can interact with	grapefruit juice
+diuretics	can interact with	digoxin
+beta blocking agents	are available in	generic forms
+diuretics	are available in	brand names
+beta blocking agents	can be taken	once a day
+diuretics	can be taken	multiple times a day
+beta blocking agents	can be taken	with or without food
+diuretics	should be taken	with food
+beta blocking agents	should not be used	during pregnancy
+diuretics	should not be used	during breastfeeding
+beta blocking agents	should be avoided	in patients with liver disease
+diuretics	should be avoided	in patients with kidney disease
+beta blocking agents	require	a prescription
+diuretics	can be found	at a pharmacy
+beta blocking agents	can cause	sleep disturbances
+diuretics	can cause	muscle cramps
+beta blocking agents	may be used	long-term
+diuretics	may be used	short-term
+beta blocking agents	can be used	off-label
+diuretics	can be used	in combination
+beta blocking agents	can be used	in children
+diuretics	can be used	in elderly patients
+beta blocking agents	can be used	in adults
+diuretics	can be used	in pregnant women
+beta blocking agents	can be used	in breastfeeding women
+beta blocking agents	can be used	in patients with heart failure
+diuretics	can be used	in patients with kidney disease
+beta blocking agents	can be used	in patients with hypertension
+diuretics	can be used	in patients with edema
+beta blocking agents	can be used	in patients with arrhythmias
+diuretics	can be used	in patients with cirrhosis
+beta blocking agents	can be used	in patients with migraine
+diuretics	can be used	in patients with renal failure
+beta blocking agents	can be used	in patients with glaucoma
+diuretics	can be used	in patients with congestive heart failure
+beta blocking agents	can be used	in patients with angina
+diuretics	can be used	in patients with diabetes
+beta blocking agents	can be used	in patients with hyperthyroidism
+diuretics	can be used	in patients with nephrotic syndrome
+beta blocking agents	can be used	in patients with COPD
+diuretics	can be used	in patients with hypertension and heart failure
+beta blocking agents	can be used	in patients with atrial fibrillation
+diuretics	can be used	in patients with hyponatremia
+beta blocking agents	can be used	in patients with essential tremor
+diuretics	can be used	in patients with ascites
+beta blocking agents	can be used	in patients with hypertension and diabetes
+diuretics	can be used	in patients with kidney stones
+beta blocking agents	can be used	in patients with hypertrophic cardiomyopathy
+diuretics	can be used	in patients with premenstrual bloating
+beta blocking agents	can be used	in patients with post-myocardial infarction
+diuretics	can be used	in patients with polycystic kidney disease
+beta blocking agents	can be used	in patients with hyperaldosteronism
+diuretics	can be used	in patients with acute kidney injury
+beta blocking agents	can be used	in patients with glomerulonephritis
+diuretics	can be used	in patients with heart failure exacerbation
+beta blocking agents	can be used	in patients with pheochromocytoma
+diuretics	can be used	in patients with hepatic cirrhosis
+beta blocking agents	can be used	in patients with orthostatic hypotension
+diuretics	can be used	in patients with nephrogenic diabetes insipidus
+beta blocking agents	can be used	in patients with Raynaud's disease
+diuretics	can be used	in patients with hypercalcemia
+beta blocking agents	can be used	in patients with primary aldosteronism
+diuretics	can be used	in patients with lymphedema
+beta blocking agents	can be used	in patients with aortic stenosis
+diuretics	can be used	in patients with edema due to heart failure
+beta blocking agents	can be used	in patients with Cushing's syndrome
+diuretics	can be used	in patients with chronic kidney disease
+beta blocking agents	can be used	in patients with atrial flutter
+diuretics	can be used	in patients with renal tubular acidosis
+beta blocking agents	can be used	in patients with supraventricular tachycardia
+diuretics	can be used	in patients with lithium-induced nephrogenic diabetes insipidus
+beta blocking agents	can be used	in patients with unstable angina
+diuretics	can be used	in patients with hypernatremia
+beta blocking agents	can be used	in patients with tachycardia
+diuretics	can be used	in patients with hypokalemic periodic paralysis
+beta blocking agents	can be used	in patients with thyrotoxicosis
+diuretics	can be used	in patients with hyperparathyroidism
+beta blocking agents	can be used	in patients with hypertension and renal artery stenosis
+diuretics	can be used	in patients with cardiogenic shock
+beta blocking agents	can be used	in patients with prosthetic heart valves
+diuretics	can be used	in patients with renal vein thrombosis
+beta blocking agents	can be used	in patients with essential hypertension
+diuretics	can be used	in patients with adrenal insufficiency
+beta blocking agents	can be used	in patients with paroxysmal supraventricular tachycardia
+diuretics	can be used	in patients with arachnoid cyst
+beta blocking agents	can be used	in patients with hypertensive emergency
+diuretics	can be used	in patients with nephrogenic syndrome of inappropriate antidiuresis
+beta blocking agents	can be used	in patients with subthreshold depression
+diuretics	can be used	in patients with metabolic alkalosis
+beta blocking agents	can be used	in patients with resistant hypertension
+diuretics	can be used	in patients with dietary sodium restriction
+beta blocking agents	can be used	in patients with hypertensive urgency
+diuretics	can be used	in patients with secondary hypertension
+beta blocking agents	can be used	in patients with acute decompensated heart failure
+diuretics	can be used	in patients with kidney transplantation
+beta blocking agents	can be used	in patients with pulmonary hypertension
+diuretics	can be used	in patients with constrictive pericarditis
+beta blocking agents	can be used	in patients with hypertrophic obstructive cardiomyopathy
+diuretics	can be used	in patients with orthopedic trauma
+beta blocking agents	can be used	in patients with hyperthyroidism and tachycardia
+diuretics	can be used	in patients with hyponatremia due to SIADH
+beta blocking agents	can be used	in patients with heterozygous familial hypercholesterolemia
+diuretics	can be used	in patients with neonatal respiratory distress syndrome
+beta blocking agents	can be used	in patients with angina pectoris
+diuretics	can be used	in patients with neonatal jaundice
+beta blocking agents	can be used	in patients with portal hypertension
+diuretics	can be used	in patients with partial obstruction of the urinary tract
+beta blocking agents	can be used	in patients with lower urinary tract symptoms
+diuretics	can be used	in patients with premature labor
+beta blocking agents	can be used	in patients with tachycardia-induced heart failure
+diuretics	can be used	in patients with vitamin D toxicity
+beta blocking agents	can be used	in patients with vasovagal syncope
+diuretics	can be used	in patients with nephrolithiasis
+beta blocking agents	can be used	in patients with diabetic nephropathy
+diuretics	can be used	in patients with hyperthyroidism and edema
+beta blocking agents	can be used	in patients with idiopathic cardiomyopathy
+diuretics	can be used	in patients with glomerulopathy
+beta blocking agents	can be used	in patients with corticosteroid-induced hypertension
+diuretics	can be used	in patients with gestational hypertension
+beta blocking agents	can be used	in patients with superior vena cava syndrome
+diuretics	can be used	in patients with cerebrospinal fluid leak
+beta blocking agents	can be used	in patients with biliary atresia
+diuretics	can be used	in patients with heart transplantation
+beta blocking agents	can be used	in patients with hypertensive encephalopathy
+diuretics	can be used	in patients with prostate cancer
+beta blocking agents	can be used	in patients with acute diarrhea
+diuretics	can be used	in patients with tumor lysis syndrome
+beta blocking agents	can be used	in patients with reverse takotsubo cardiomyopathy
+diuretics	can be used	in patients with diabetic macular edema
+beta blocking agents	can be used	in patients with chronic lung disease
+diuretics	can be used	in patients with pheochromocytoma crisis
+beta blocking agents	can be used	in patients with anemia
+diuretics	can be used	in patients with cystic fibrosis
+beta blocking agents	can be used	in patients with patent ductus arteriosus
+diuretics	can be used	in patients with breast cancer
+beta blocking agents	can be used	in patients with arterial fibrillation
+diuretics	can be used	in patients with pyloric stenosis
+beta blocking agents	can be used	in patients with aortic regurgitation
+diuretics	can be used	in patients with end-stage renal disease
+beta blocking agents	can be used	in patients with hypertensive retinopathy
+diuretics	can be used	in patients with nephronophthisis
+beta blocking agents	can be used	in patients with triple vessel disease
+diuretics	can be used	in patients with renal papillary necrosis
+beta blocking agents	can be used	in patients with corneal graft rejection
+diuretics	can be used	in patients with neurogenic bladder
+beta blocking agents	can be used	in patients with echinococcosis
+diuretics	can be used	in patients with renin-secreting tumor
+beta blocking agents	can be used	in patients with idiopathic orthostatic hypotension
+diuretics	can be used	in patients with hypoplastic left heart syndrome
+beta blocking agents	can be used	in patients with hypertensive crisis
+diuretics	can be used	in patients with delirium
+beta blocking agents	can be used	in patients with Kawasaki disease
+diuretics	can be used	in patients with Bartter syndrome
+beta blocking agents	can be used	in patients with hereditary angioedema
+diuretics	can be used	in patients with near-drowning
+beta blocking agents	can be used	in patients with primary glomerulonephritis
+diuretics	can be used	in patients with uric acid nephrolithiasis
+beta blocking agents	can be used	in patients with lung edema
+diuretics	can be used	in patients with sickle cell disease
+beta blocking agents	can be used	in patients with diabetic retinopathy
+diuretics	can be used	in patients with cardiac tamponade
+beta blocking agents	can be used	in patients with cyclosporine nephrotoxicity
+diuretics	can be used	in patients with interstitial nephritis
+beta blocking agents	can be used	in patients with aortic aneurysm
+diuretics	can be used	in patients with rhabdomyolysis
+beta blocking agents	can be used	in patients with stress-induced cardiomyopathy
+diuretics	can be used	in patients with light chain cast nephropathy
+beta blocking agents	can be used	in patients with adult-onset asthma
+diuretics	can be used	in patients with hyperimmunoglobulinemia D syndrome
+beta blocking agents	can be used	in patients with infiltrative cardiomyopathy
+diuretics	can be used	in patients with acute fatty liver of pregnancy
+beta blocking agents	can be used	in patients with connective tissue disease
+diuretics	can be used	in patients with urethral stricture
+beta blocking agents	can be used	in patients with viral myocarditis
+diuretics	can be used	in patients with tuberous sclerosis complex
+beta blocking agents	can be used	in patients with takotsubo cardiomyopathy
+diuretics	can be used	in patients with skull base fracture
+beta blocking agents	can be used	in patients with pulmonary arterial hypertension

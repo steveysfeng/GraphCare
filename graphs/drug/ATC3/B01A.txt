@@ -1,0 +1,17 @@
+antithrombotic agents	are	drugs
+antithrombotic agents	used to	prevent blood clot formation
+blood clot formation	can lead to	stroke
+antithrombotic agents	also	called anticoagulants
+anticoagulants	prevent	blood from clotting
+antithrombotic agents	commonly used	in patients with atrial fibrillation
+atrial fibrillation	is a	heart condition
+antithrombotic agents	can	increase bleeding risk
+bleeding risk	is	a side effect
+side effect	can be	gastrointestinal bleeding
+antithrombotic agents	should be	monitored regularly
+monitoring	can be done	through blood tests
+blood tests	measure	clotting factors
+antithrombotic agents	can interact with	other medications
+interaction	can occur	with antiplatelet drugs
+antithrombotic agents	may be	contraindicated in certain conditions
+contraindicated conditions	include	active bleeding

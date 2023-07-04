@@ -1,0 +1,95 @@
+cardiac stimulants	are	drugs
+cardiac stimulants	used for	increasing heart rate
+cardiac stimulants	can cause	arrhythmia
+cardiac stimulants	have	side effects
+side effects	include	dizziness
+cardiac stimulants	contraindicated in	patients with heart disease
+cardiac stimulants	interact with	beta blockers
+beta blockers	decrease effectiveness of	cardiac stimulants
+cardiac stimulants	belong to	pharmacological class
+pharmacological class	includes	sympathomimetics
+cardiac stimulants	administered via	injection
+cardiac stimulants	increase	cardiac output
+cardiac stimulants	prescribed for	low blood pressure
+cardiac stimulants	metabolized by	liver
+cardiac stimulants	have	therapeutic effects
+therapeutic effects	can vary	depending on the drug
+cardiac stimulants	interact with	other medications
+other medications	include	antiarrhythmics
+cardiac stimulants	have	contraindications
+contraindications	may include	pregnancy
+cardiac stimulants	increase	myocardial contractility
+cardiac stimulants	used in	cardiac resuscitation
+cardiac resuscitation	improves	survival rates
+cardiac stimulants	inhibit	norepinephrine reuptake
+norepinephrine reuptake	increases	heart rate
+cardiac stimulants	may lead to	drug dependence
+cardiac stimulants	can be	addictive
+cardiac stimulants	stimulate	sympathetic nervous system
+sympathetic nervous system	responsible for	fight or flight response
+cardiac stimulants	enhance	cardiac performance
+cardiac stimulants	potentiate	sympathetic effects
+cardiac stimulants	increase	blood flow
+blood flow	essential for	oxygen delivery
+cardiac stimulants	used in	sepsis therapy
+sepsis therapy	requires	hemodynamic support
+cardiac stimulants	affect	myocardial contractility
+cardiac stimulants	improve	hemodynamic stability
+cardiac stimulants	increase	coronary blood flow
+coronary blood flow	supplies	oxygen to the heart
+cardiac stimulants	relieve	symptoms of heart failure
+heart failure	characterized by	reduced cardiac output
+cardiac stimulants	counteract	cardiodepressive medications
+cardiac stimulants	alleviate	fatigue
+cardiac stimulants	increase	heart rate variability
+heart rate variability	associated with	better prognosis
+cardiac stimulants	decrease	preload
+preload	determines	ventricular filling
+cardiac stimulants	contraindicated in	patients with hypertension
+cardiac stimulants	used in	bradycardia treatment
+bradycardia treatment	increases	heart rate
+cardiac stimulants	enhance	contractility
+cardiac stimulants	improve	ejection fraction
+cardiac stimulants	enhance	systolic function
+cardiac stimulants	may cause	palpitations
+cardiac stimulants	stimulate	adrenergic receptors
+adrenergic receptors	affected by	cardiac stimulants
+cardiac stimulants	increase	stroke volume
+stroke volume	determines	cardiac output
+cardiac stimulants	have	positive inotropic effect
+positive inotropic effect	enhances	myocardial contractility
+cardiac stimulants	increase	oxygen demand
+oxygen demand	influenced by	heart rate
+cardiac stimulants	may lead to	tachycardia
+cardiac stimulants	used as	bronchodilators
+bronchodilators	relax	smooth muscles
+cardiac stimulants	improve	exercise tolerance
+exercise tolerance	measures	cardiovascular fitness
+cardiac stimulants	prescribed for	chronic obstructive pulmonary disease
+chronic obstructive pulmonary disease	characterized by	airflow limitation
+cardiac stimulants	affect	sympathetic tone
+sympathetic tone	regulates	cardiac function
+cardiac stimulants	increase	contractile force
+contractile force	determines	pumping ability
+cardiac stimulants	inhibit	epinephrine reuptake
+epinephrine reuptake	increases	heart rate
+cardiac stimulants	enhance	diastolic function
+diastolic function	responsible for	ventricular filling
+cardiac stimulants	improve	heart function
+cardiac stimulants	increase	contractility
+cardiac stimulants	enhance	CO2 removal
+CO2 removal	improves	respiratory function
+cardiac stimulants	used in	cardiogenic shock
+cardiogenic shock	results from	heart failure
+cardiac stimulants	stimulate	myocardial beta receptors
+myocardial beta receptors	regulate	heart rate
+cardiac stimulants	relieve	pulmonary congestion
+pulmonary congestion	caused by	fluid accumulation
+cardiac stimulants	may cause	chest pain
+cardiac stimulants	affect	baroreceptor reflex
+baroreceptor reflex	regulates	blood pressure
+cardiac stimulants	increase	cardiac index
+cardiac index	measures	cardiac output
+cardiac stimulants	used in	septic shock
+septic shock	characterized by	systemic inflammation
+cardiac stimulants	enhance	ventricular function
