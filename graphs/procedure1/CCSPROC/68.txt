@@ -1,0 +1,94 @@
+esophageal varices	can cause	bleeding
+bleeding	can be	life-threatening
+injection	is a	procedure
+ligation	is a	procedure
+injection	can treat	esophageal varices
+ligation	can treat	esophageal varices
+injection	can stop	bleeding
+ligation	can stop	bleeding
+esophageal varices	can recur	after treatment
+injection	is a type of	therapy
+ligation	is a type of	therapy
+therapy	can prevent	bleeding
+bleeding	can result in	anemia
+anemia	can cause	fatigue
+fatigue	can impair	quality of life
+quality of life	can be	reduced
+therapy	can improve	quality of life
+therapy	can reduce	the need for blood transfusions
+blood transfusions	can be	risky
+therapy	can lower	the risk of bleeding
+therapy	can be	effective
+therapy	can be	safe
+esophageal varices	can lead to	portal hypertension
+portal hypertension	can cause	ascites
+ascites	can lead to	abdominal distension
+abdominal distension	can cause	discomfort
+discomfort	can be	distressing
+therapy	can relieve	discomfort
+therapy	can prevent	complications
+complications	can be	severe
+therapy	can be	expensive
+therapy	can require	multiple sessions
+therapy	can be	time-consuming
+time-consuming	can be	inconvenient
+therapy	can be	invasive
+therapy	can have	side effects
+side effects	can include	pain
+therapy	can require	anesthesia
+anesthesia	can have	risks
+risks	can be	minimal
+therapy	can require	follow-up visits
+follow-up visits	can be	necessary
+therapy	can be	effective for most people
+therapy	can have	long-term benefits
+long-term benefits	can outweigh	the risks
+therapy	can require	monitoring
+monitoring	can be	important
+therapy	can be	tailored to the individual
+individual	can have	different responses to therapy
+therapy	can require	lifestyle changes
+lifestyle changes	can include	diet modifications
+diet modifications	can be	challenging
+therapy	can require	regular check-ups
+regular check-ups	can be	time-consuming
+therapy	can require	dietary restrictions
+therapy	can limit	physical activity
+physical activity	can improve	health
+health	can be	affected
+therapy	can have	long-term effects
+long-term effects	can be	beneficial
+therapy	can be	covered by insurance
+insurance	can be	costly
+therapy	can be	difficult to access
+therapy	can be	recommended by a healthcare professional
+healthcare professional	can guide	treatment decisions
+therapy	can be	individualized
+individualized	can lead to	better outcomes
+therapy	can be	successful
+therapy	can require	periodic evaluations
+periodic evaluations	can be	necessary
+therapy	can be	a lifelong commitment
+lifelong commitment	can be	challenging
+therapy	can be	a last resort
+last resort	can be	necessary
+therapy	can be	a viable option
+therapy	can be	an alternative to surgery
+surgery	can be	invasive
+therapy	can be	a less invasive option
+therapy	can be	an effective treatment
+therapy	can require	collaboration between healthcare providers
+collaboration	can improve	outcomes
+therapy	can require	patient education
+patient education	can be	empowering
+empowering	can lead to	better self-management
+therapy	can be	a component of comprehensive care
+comprehensive care	can improve	outcomes
+therapy	can be	a standard of care
+standard of care	can ensure	quality
+therapy	can be	recommended for high-risk individuals
+high-risk individuals	can benefit from	therapy
+therapy	can be	a preventive measure
+preventive measure	can reduce	the risk of complications
+therapy	can be	a cost-effective option
+cost-effective option	can be	important

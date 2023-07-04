@@ -1,0 +1,167 @@
+tonsillectomy	is a	surgical procedure
+tonsillectomy	used for	removing tonsils
+adenoidectomy	is a	surgical procedure
+adenoidectomy	used for	removing adenoids
+tonsillectomy	can be performed with	adenoidectomy
+tonsillectomy	can be performed to treat	recurrent tonsillitis
+adenoidectomy	can be performed to treat	enlarged adenoids
+tonsillectomy	may require	general anesthesia
+adenoidectomy	may require	general anesthesia
+tonsillectomy	commonly performed in	children
+adenoidectomy	commonly performed in	children
+tonsillectomy	can lead to	temporary pain
+adenoidectomy	can lead to	temporary pain
+tonsillectomy	can cause	bleeding
+adenoidectomy	can cause	bleeding
+tonsillectomy	may require	overnight hospital stay
+adenoidectomy	may require	overnight hospital stay
+tonsillectomy	can result in	improved sleep
+adenoidectomy	can result in	improved breathing
+tonsillectomy	can decrease	frequency of infections
+adenoidectomy	can decrease	frequency of infections
+tonsillectomy	risks include	infection
+adenoidectomy	risks include	infection
+tonsillectomy	risks include	anesthesia complications
+adenoidectomy	risks include	anesthesia complications
+tonsillectomy	recovery time	typically 10-14 days
+adenoidectomy	recovery time	typically 7-10 days
+tonsillectomy	possible complications	include bleeding
+adenoidectomy	possible complications	include bleeding
+tonsillectomy	can be performed with	robotic surgery
+adenoidectomy	can be performed with	robotic surgery
+tonsillectomy	can be performed with	laser technology
+adenoidectomy	can be performed with	laser technology
+tonsillectomy	can be performed with	electrocautery
+adenoidectomy	can be performed with	electrocautery
+tonsillectomy	can be performed with	harmonic scalpel
+adenoidectomy	can be performed with	harmonic scalpel
+tonsillectomy	can be performed with	cold knife dissection
+adenoidectomy	can be performed with	cold knife dissection
+tonsillectomy	can be performed with	coblation technique
+adenoidectomy	can be performed with	coblation technique
+tonsillectomy	can be performed with	radiofrequency ablation
+adenoidectomy	can be performed with	radiofrequency ablation
+tonsillectomy	can be performed with	microdebrider
+adenoidectomy	can be performed with	microdebrider
+tonsillectomy	can be performed with	suction cautery
+adenoidectomy	can be performed with	suction cautery
+tonsillectomy	can be performed with	ultrasonic scalpel
+adenoidectomy	can be performed with	ultrasonic scalpel
+tonsillectomy	can be performed with	argon plasma coagulation
+adenoidectomy	can be performed with	argon plasma coagulation
+tonsillectomy	can be performed with	cryosurgery
+adenoidectomy	can be performed with	cryosurgery
+tonsillectomy	can be performed with	plasma knife
+adenoidectomy	can be performed with	plasma knife
+tonsillectomy	can be performed with	thermal welding
+adenoidectomy	can be performed with	thermal welding
+tonsillectomy	can be performed with	water jet dissection
+adenoidectomy	can be performed with	water jet dissection
+tonsillectomy	can be performed with	harmonic scalpel dissection
+adenoidectomy	can be performed with	harmonic scalpel dissection
+tonsillectomy	can be performed with	powered devices
+adenoidectomy	can be performed with	powered devices
+tonsillectomy	can be performed with	laser dissection
+adenoidectomy	can be performed with	laser dissection
+tonsillectomy	can be performed with	microbipolar cautery
+adenoidectomy	can be performed with	microbipolar cautery
+tonsillectomy	can be performed with	bipolar cauterization
+adenoidectomy	can be performed with	bipolar cauterization
+tonsillectomy	can be performed with	suction diathermy
+adenoidectomy	can be performed with	suction diathermy
+tonsillectomy	can be performed with	harmonic scalpel tonsillectomy
+adenoidectomy	can be performed with	harmonic scalpel adenoidectomy
+tonsillectomy	can be performed with	argon plasma tonsillectomy
+adenoidectomy	can be performed with	argon plasma adenoidectomy
+tonsillectomy	can be performed with	laser tonsillectomy
+adenoidectomy	can be performed with	laser adenoidectomy
+hypertension	is a	medical condition
+hypertension	also known as	high blood pressure
+hypertension	can lead to	heart disease
+hypertension	can lead to	stroke
+hypertension	can cause	kidney damage
+hypertension	can cause	vision problems
+hypertension	can cause	metabolic syndrome
+hypertension	can cause	sleep apnea
+hypertension	can cause	erectile dysfunction
+hypertension	can cause	cognitive decline
+hypertension	can increase risk of	dementia
+hypertension	can increase risk of	chronic kidney disease
+hypertension	can increase risk of	heart failure
+hypertension	can increase risk of	peripheral artery disease
+hypertension	can increase risk of	aortic aneurysm
+hypertension	can increase risk of	angina
+hypertension	can increase risk of	arrhythmia
+hypertension	can increase risk of	deep vein thrombosis
+hypertension	can increase risk of	pulmonary embolism
+hypertension	can increase risk of	liver disease
+hypertension	can increase risk of	osteoporosis
+hypertension	can increase risk of	depression
+hypertension	can increase risk of	anxiety
+hypertension	can increase risk of	cancer
+hypertension	can increase risk of	birth complications
+hypertension	can increase risk of	premature birth
+hypertension	can increase risk of	low birth weight
+hypertension	can increase risk of	preeclampsia
+hypertension	can increase risk of	gestational diabetes
+hypertension	can increase risk of	placental abruption
+hypertension	can increase risk of	stillbirth
+hypertension	can increase risk of	neonatal death
+hypertension	risks include	heart attack
+hypertension	risks include	kidney failure
+hypertension	risks include	vision loss
+hypertension	risks include	heart failure
+hypertension	risks include	stroke
+hypertension	risks include	peripheral artery disease
+hypertension	risks include	aortic aneurysm
+hypertension	risks include	angina
+hypertension	risks include	arrhythmia
+hypertension	risks include	deep vein thrombosis
+hypertension	risks include	pulmonary embolism
+hypertension	risks include	liver disease
+hypertension	risks include	osteoporosis
+hypertension	risks include	depression
+hypertension	risks include	anxiety
+hypertension	risks include	cancer
+hypertension	risks include	birth complications
+hypertension	risks include	premature birth
+hypertension	risks include	low birth weight
+hypertension	risks include	preeclampsia
+hypertension	risks include	gestational diabetes
+hypertension	risks include	placental abruption
+hypertension	risks include	stillbirth
+hypertension	risks include	neonatal death
+hypertension	treatment options	include medication
+hypertension	treatment options	include lifestyle changes
+hypertension	medication options	include diuretics
+hypertension	medication options	include beta blockers
+hypertension	medication options	include ACE inhibitors
+hypertension	medication options	include angiotensin receptor blockers
+hypertension	medication options	include calcium channel blockers
+hypertension	medication options	include alpha blockers
+hypertension	medication options	include central agonists
+hypertension	medication options	include peripheral adrenergic inhibitors
+hypertension	medication options	include vasodilators
+hypertension	medication options	include renin inhibitors
+hypertension	lifestyle changes	include exercise
+hypertension	lifestyle changes	include diet
+hypertension	lifestyle changes	include weight loss
+hypertension	lifestyle changes	include reduced sodium intake
+hypertension	lifestyle changes	include increased potassium intake
+hypertension	lifestyle changes	include reduced alcohol consumption
+hypertension	lifestyle changes	include smoking cessation
+hypertension	lifestyle changes	include stress reduction
+hypertension	lifestyle changes	include adequate sleep
+hypertension	lifestyle changes	include regular blood pressure monitoring
+hypertension	lifestyle changes	include regular medication adherence
+hypertension	lifestyle changes	include relaxation techniques
+hypertension	lifestyle changes	include dietary approaches to stop hypertension
+hypertension	lifestyle changes	include dash eating plan
+hypertension	lifestyle changes	include Mediterranean diet
+hypertension	lifestyle changes	include low-carbohydrate diet
+hypertension	lifestyle changes	include plant-based diet
+hypertension	lifestyle changes	include intermittent fasting
+hypertension	lifestyle changes	include mind-body exercises
+hypertension	lifestyle changes	include yoga
+hypertension	lifestyle changes	include tai chi
+hypertension	lifestyle changes	include qigong

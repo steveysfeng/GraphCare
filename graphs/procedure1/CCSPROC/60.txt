@@ -1,0 +1,100 @@
+embolectomy	is a	surgical procedure
+endarterectomy	is a	surgical procedure
+embolectomy	used for	treating arterial blockages
+endarterectomy	used for	removing plaque from arteries
+embolectomy	can prevent	tissue damage
+endarterectomy	can improve	blood flow
+embolectomy	performed on	lower limbs
+endarterectomy	performed on	lower limbs
+embolectomy	recommended for	acute arterial occlusion
+endarterectomy	recommended for	severe peripheral artery disease
+embolectomy	can be done	under local anesthesia
+endarterectomy	can be done	under general anesthesia
+embolectomy	requires	skilled surgeon
+endarterectomy	requires	skilled surgeon
+embolectomy	potential complications	include bleeding
+endarterectomy	potential complications	include infection
+embolectomy	can lead to	improved limb function
+endarterectomy	can lead to	reduced risk of future blockages
+embolectomy	post-operative care	includes bed rest
+endarterectomy	post-operative care	includes compression stockings
+embolectomy	follow-up	includes regular check-ups
+endarterectomy	follow-up	includes doppler ultrasound
+embolectomy	contraindicated in	certain patients
+endarterectomy	contraindicated in	patients with severe comorbidities
+embolectomy	success rate	depends on extent of occlusion
+endarterectomy	success rate	depends on extent of arterial blockage
+embolectomy	potential alternative	is thrombolytic therapy
+endarterectomy	potential alternative	is angioplasty
+embolectomy	can be	life-saving
+endarterectomy	can improve	quality of life
+embolectomy	performed by	vascular surgeon
+endarterectomy	performed by	vascular surgeon
+embolectomy	commonly performed	in emergency settings
+endarterectomy	commonly performed	in elective cases
+embolectomy	anesthesia	administered by anesthesiologist
+endarterectomy	anesthesia	administered by anesthesiologist
+embolectomy	procedure	lasts approximately 2-3 hours
+endarterectomy	procedure	lasts approximately 1-2 hours
+embolectomy	recommended	after failed thrombolysis
+endarterectomy	recommended	for significant stenosis
+embolectomy	potential benefit	is limb salvage
+endarterectomy	potential benefit	is improved walking distance
+embolectomy	recovery time	varies depending on individual
+endarterectomy	recovery time	may take several weeks
+embolectomy	post-operative pain	managed with pain medication
+endarterectomy	post-operative pain	managed with pain medication
+embolectomy	critical for	arterial reperfusion
+endarterectomy	critical for	preventing future blockages
+embolectomy	often performed	in conjunction with vascular bypass
+endarterectomy	often performed	in conjunction with angioplasty
+embolectomy	potential risk	of blood clot formation
+endarterectomy	potential risk	of recurrent plaque formation
+embolectomy	procedure	carries risks and benefits
+endarterectomy	procedure	carries risks and benefits
+embolectomy	requires	hospital admission
+endarterectomy	requires	hospital admission
+embolectomy	potential need	for rehabilitation
+endarterectomy	potential need	for lifestyle modifications
+embolectomy	long-term prognosis	depends on underlying condition
+endarterectomy	long-term prognosis	depends on lifestyle changes
+embolectomy	can be	minimally invasive
+endarterectomy	can be	open surgery
+embolectomy	potential damage	to surrounding tissues
+endarterectomy	potential complications	include nerve injury
+embolectomy	potential benefit	is restoration of blood flow
+endarterectomy	potential benefit	is reduced risk of complications
+embolectomy	high success rate	in acute cases
+endarterectomy	high success rate	in well-selected patients
+embolectomy	not indicated	for chronic arterial occlusion
+endarterectomy	not indicated	for minor plaque build-up
+embolectomy	post-operative care	includes wound care
+endarterectomy	post-operative care	includes monitoring for infection
+embolectomy	potential advantage	over thrombolytic therapy
+endarterectomy	potential advantage	over stenting
+embolectomy	evaluation	includes imaging studies
+endarterectomy	evaluation	includes angiography
+embolectomy	potential cause	of blood vessel injury
+endarterectomy	potential cause	of embolism
+embolectomy	potential benefit	is restoration of limb function
+endarterectomy	potential benefit	is improved blood circulation
+embolectomy	potential risk	of blood loss
+endarterectomy	potential risk	of wound infection
+embolectomy	potential alternative	is vascular bypass grafting
+endarterectomy	potential alternative	is arterial stenting
+embolectomy	can be	life-saving procedure
+endarterectomy	can be	preventive procedure
+embolectomy	effectiveness	depends on prompt intervention
+endarterectomy	effectiveness	depends on appropriate patient selection
+embolectomy	appropriate for	acute arterial occlusion
+endarterectomy	appropriate for	severe peripheral artery disease
+embolectomy	success rate	varies depending on occlusion location
+endarterectomy	success rate	varies depending on degree of stenosis
+embolectomy	potential benefit	is limb salvage
+endarterectomy	potential benefit	is improved blood flow
+embolectomy	potential complication	is post-operative bleeding
+endarterectomy	potential complication	is restenosis
+embolectomy	potential risk	of surgical site infection
+endarterectomy	potential risk	of nerve damage
+embolectomy	requires	skilled vascular surgeon
+endarterectomy	requires	experienced vascular surgeon

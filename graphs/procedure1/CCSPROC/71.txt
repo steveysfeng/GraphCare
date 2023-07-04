@@ -1,0 +1,81 @@
+gastrostomy	is a	medical procedure
+gastrostomy	used for	feeding
+gastrostomy	can be	temporary
+temporary gastrostomy	used for	short-term nutrition
+gastrostomy	can be	permanent
+permanent gastrostomy	used for	long-term nutrition
+gastrostomy	performed under	general anesthesia
+gastrostomy	requires	surgical placement
+gastrostomy	can be	laparoscopic
+laparoscopic gastrostomy	performed using	minimally invasive techniques
+gastrostomy	involves	creating an opening
+gastrostomy	made in	the abdomen
+gastrostomy	connected to	a feeding tube
+feeding tube	allows	delivery of nutrients
+gastrostomy	can be	inserted percutaneously
+percutaneous gastrostomy	inserted through	the skin
+gastrostomy	provides	direct access to the stomach
+gastrostomy	used in	patients with swallowing difficulties
+gastrostomy	may be	indicated for neurological disorders
+gastrostomy	may be	indicated for gastrointestinal conditions
+gastrostomy	may be	indicated for cancer patients
+gastrostomy	can help	prevent malnutrition
+gastrostomy	can reduce	aspiration pneumonia
+gastrostomy	requires	regular care and maintenance
+gastrostomy	may need	tube replacement
+gastrostomy	should be	cleaned regularly
+gastrostomy	can be	associated with complications
+gastrostomy	potential complications include	infection
+gastrostomy	potential complications include	leakage
+gastrostomy	potential complications include	migration of the tube
+gastrostomy	potential complications include	dislodgement of the tube
+gastrostomy	potential complications include	granulation tissue
+gastrostomy	potential complications include	tube blockage
+gastrostomy	potential complications include	skin irritation
+gastrostomy	potential complications include	bleeding
+gastrostomy	potential complications include	perforation
+gastrostomy	potential complications include	bowel obstruction
+gastrostomy	potential complications include	peritonitis
+gastrostomy	potential complications include	necrotizing fasciitis
+gastrostomy	potential complications include	malposition of the tube
+gastrostomy	potential complications include	buried bumper syndrome
+gastrostomy	potential complications include	metabolic imbalances
+gastrostomy	potential complications include	tube disconnection
+gastrostomy	potential complications include	gastrocolic fistula
+gastrostomy	potential complications include	gastric outlet obstruction
+gastrostomy	potential complications include	tube-related pain
+gastrostomy	potential complications include	wound infection
+gastrostomy	potential complications include	scarring
+gastrostomy	potential complications include	respiratory distress
+gastrostomy	potential complications include	skin breakdown
+gastrostomy	potential complications include	migration of the stoma
+gastrostomy	potential complications include	erythema
+gastrostomy	potential complications include	cellulitis
+gastrostomy	potential complications include	fistula formation
+gastrostomy	potential complications include	tube kinking
+gastrostomy	potential complications include	fixational failure
+gastrostomy	potential complications include	death
+gastrostomy	potential complications include	hospital readmissions
+gastrostomy	potential complications include	tissue necrosis
+gastrostomy	potential complications include	hypergranulation formation
+gastrostomy	potential complications include	device complications
+gastrostomy	potential complications include	site problems
+gastrostomy	potential complications include	tampering with the device
+gastrostomy	potential complications include	enteral feeding complications
+gastrostomy	potential complications include	aspiration of gastric contents
+gastrostomy	potential complications include	gastroesophageal reflux
+gastrostomy	potential complications include	gastroparesis
+gastrostomy	potential complications include	gastric ulceration
+gastrostomy	potential complications include	esophageal erosion
+gastrostomy	potential complications include	skin infections
+gastrostomy	potential complications include	dysphagia
+gastrostomy	potential complications include	diarrhea
+gastrostomy	potential complications include	constipation
+gastrostomy	potential complications include	wound dehiscence
+gastrostomy	potential complications include	tube malfunction
+gastrostomy	potential complications include	tube removal
+gastrostomy	potential complications include	tube blockage
+gastrostomy	potential complications include	traumatic tube dislodgement
+gastrostomy	potential complications include	pressure ulcers
+gastrostomy	potential complications include	enteral feeding intolerance
+gastrostomy	potential complications include	metabolic complications

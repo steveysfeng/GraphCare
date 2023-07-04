@@ -1,0 +1,18 @@
+other diagnostic cardiovascular procedures	are a	medical procedures
+other diagnostic cardiovascular procedures	used for	diagnosis
+echocardiogram	is a type of	other diagnostic cardiovascular procedures
+echocardiogram	can detect	heart abnormalities
+stress test	is a type of	other diagnostic cardiovascular procedures
+stress test	can determine	heart function
+cardiac catheterization	is a type of	other diagnostic cardiovascular procedures
+cardiac catheterization	can visualize	blockages
+MRI angiography	is a type of	other diagnostic cardiovascular procedures
+MRI angiography	provides	detailed images
+electrocardiogram	is a type of	other diagnostic cardiovascular procedures
+electrocardiogram	measures	electrical activity of the heart
+coronary angiography	is a type of	other diagnostic cardiovascular procedures
+coronary angiography	evaluates	blood flow in the heart
+CT angiography	is a type of	other diagnostic cardiovascular procedures
+CT angiography	examines	blood vessels in the body
+nuclear stress test	is a type of	other diagnostic cardiovascular procedures
+nuclear stress test	evaluates	blood flow to the heart

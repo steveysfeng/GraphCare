@@ -1,0 +1,143 @@
+diagnostic spinal tap	is a	medical procedure
+diagnostic spinal tap	used for	diagnosis
+cerebrospinal fluid	is collected during	diagnostic spinal tap
+diagnostic spinal tap	can detect	meningitis
+diagnostic spinal tap	can detect	multiple sclerosis
+diagnostic spinal tap	can detect	subarachnoid hemorrhage
+diagnostic spinal tap	can detect	Guillain-Barré syndrome
+diagnostic spinal tap	can detect	neurosyphilis
+diagnostic spinal tap	can detect	brain tumor
+diagnostic spinal tap	can detect	viral and bacterial infections
+diagnostic spinal tap	can detect	autoimmune diseases
+diagnostic spinal tap	can detect	leukaemia
+diagnostic spinal tap	can detect	lymphoma
+diagnostic spinal tap	can detect	sarcoidosis
+diagnostic spinal tap	can detect	metastatic cancer
+diagnostic spinal tap	can detect	histiocytosis
+diagnostic spinal tap	can detect	primary CNS lymphoma
+diagnostic spinal tap	can detect	vasculitis
+diagnostic spinal tap	can detect	central nervous system vasculitis
+diagnostic spinal tap	can detect	fungal infections
+diagnostic spinal tap	can detect	spinal cord tumor
+diagnostic spinal tap	can detect	amyloidosis
+diagnostic spinal tap	can detect	neurodegenerative diseases
+diagnostic spinal tap	can detect	connective tissue diseases
+diagnostic spinal tap	can detect	neurosarcoidosis
+diagnostic spinal tap	can detect	brain abscess
+diagnostic spinal tap	can detect	hemorrhagic stroke
+diagnostic spinal tap	can detect	encephalitis
+diagnostic spinal tap	can detect	syringomyelia
+diagnostic spinal tap	can detect	cerebral vasculitis
+diagnostic spinal tap	can detect	neuro-ophthalmological diseases
+diagnostic spinal tap	can detect	subacute sclerosing panencephalitis
+diagnostic spinal tap	can detect	brain infections
+diagnostic spinal tap	can detect	leukodystrophy
+diagnostic spinal tap	can detect	prion diseases
+diagnostic spinal tap	can detect	spinal cord infections
+diagnostic spinal tap	can detect	chronic meningitis
+diagnostic spinal tap	can detect	transverse myelitis
+diagnostic spinal tap	can detect	myasthenia gravis
+diagnostic spinal tap	can detect	peripheral neuropathy
+diagnostic spinal tap	can detect	polyneuropathy
+diagnostic spinal tap	can detect	devic syndrome
+diagnostic spinal tap	can detect	vasculopathies
+diagnostic spinal tap	can detect	peripheral nervous system vasculitis
+diagnostic spinal tap	can detect	spinal cord infarction
+diagnostic spinal tap	can detect	central nervous system infections
+diagnostic spinal tap	can detect	leptomeningitis
+diagnostic spinal tap	can detect	meningeal carcinomatosis
+diagnostic spinal tap	can detect	HIV-associated neurocognitive disorders
+diagnostic spinal tap	can detect	prion
+diagnostic spinal tap	can detect	autoimmune encephalitis
+diagnostic spinal tap	can detect	amyotrophic lateral sclerosis
+diagnostic spinal tap	can detect	paraneoplastic syndromes
+diagnostic spinal tap	can detect	neuroleptic malignant syndrome
+diagnostic spinal tap	can detect	progressive multifocal leukoencephalopathy
+diagnostic spinal tap	can detect	subdural hematoma
+diagnostic spinal tap	can detect	neural tube defects
+diagnostic spinal tap	can detect	spinal cord injuries
+diagnostic spinal tap	can detect	spinal cord abscess
+diagnostic spinal tap	can detect	lupus cerebritis
+diagnostic spinal tap	can detect	sarcoid myelopathy
+diagnostic spinal tap	can detect	optic neuritis
+diagnostic spinal tap	can detect	Whipple disease
+diagnostic spinal tap	can detect	autoimmune epilepsy
+diagnostic spinal tap	can detect	paraprotein-related neuropathies
+diagnostic spinal tap	can detect	meningismus
+diagnostic spinal tap	can detect	peripheral neuropathy
+diagnostic spinal tap	can detect	brain abscess
+diagnostic spinal tap	can detect	meningeal infiltration by malignant cells
+diagnostic spinal tap	can detect	normal pressure hydrocephalus
+diagnostic spinal tap	can detect	arteriovenous malformation rupture
+diagnostic spinal tap	can detect	intracranial hypertension
+diagnostic spinal tap	can detect	post-dural puncture headache
+diagnostic spinal tap	can detect	aseptic meningitis
+diagnostic spinal tap	can detect	neurocysticercosis
+diagnostic spinal tap	can detect	vitamin B12 deficiency
+diagnostic spinal tap	can detect	Reye syndrome
+diagnostic spinal tap	can detect	Churg-Strauss syndrome
+diagnostic spinal tap	can detect	sacroiliitis
+diagnostic spinal tap	can detect	myositis
+diagnostic spinal tap	can detect	plexopathy
+diagnostic spinal tap	can detect	Miller Fisher syndrome
+diagnostic spinal tap	can detect	stiff person syndrome
+diagnostic spinal tap	can detect	paraneoplastic cerebellar degeneration
+diagnostic spinal tap	can detect	vasculitis
+diagnostic spinal tap	can detect	primary progressive multiple sclerosis
+diagnostic spinal tap	can detect	hereditary spastic paraplegia
+diagnostic spinal tap	can detect	progressive encephalopathy with edema	hypsarrhythmia	and optic atrophy
+diagnostic spinal tap	can detect	neuroexcitotoxicity
+diagnostic spinal tap	can detect	acquired immune deficiency syndrome
+diagnostic spinal tap	can detect	neuroretinitis
+diagnostic spinal tap	can detect	hyperviscosity syndrome
+diagnostic spinal tap	can detect	Friedreich ataxia
+diagnostic spinal tap	can detect	hypertensive encephalopathy
+diagnostic spinal tap	can detect	paraproteinemias
+diagnostic spinal tap	can detect	aspergillus infection
+diagnostic spinal tap	can detect	Lyme disease
+diagnostic spinal tap	can detect	neuroborreliosis
+diagnostic spinal tap	can detect	tuberculous meningitis
+diagnostic spinal tap	can detect	cerebral toxoplasmosis
+diagnostic spinal tap	can detect	string test
+diagnostic spinal tap	can detect	cysticercosis
+diagnostic spinal tap	can detect	hypophysial metastasis
+diagnostic spinal tap	can detect	demyelinating polyradiculoneuropathy
+diagnostic spinal tap	can detect	hypogammaglobulinemia
+diagnostic spinal tap	can detect	viral meningitis
+diagnostic spinal tap	can detect	West Nile meningitis
+diagnostic spinal tap	can detect	herpes simplex meningitis
+diagnostic spinal tap	can detect	neurooculuscular complications of HIV infection
+diagnostic spinal tap	can detect	neurosyphilis
+diagnostic spinal tap	can detect	Prussian blue staining
+diagnostic spinal tap	can detect	transverse myelitis
+diagnostic spinal tap	can detect	Guillain-Barré syndrome
+diagnostic spinal tap	can detect	chronic lymphocytic leukemia
+diagnostic spinal tap	can detect	chronic myeloid leukemia
+diagnostic spinal tap	can detect	leukemia
+diagnostic spinal tap	can detect	chronic lymphocytic leukemia
+diagnostic spinal tap	can detect	leukemic meningitis
+diagnostic spinal tap	can detect	T-cell lymphoma
+diagnostic spinal tap	can detect	cerebromeningeal carnosinase deficiency
+diagnostic spinal tap	can detect	mononucleosis
+diagnostic spinal tap	can detect	multiple sclerosis
+diagnostic spinal tap	can detect	cryptococcal meningitis
+diagnostic spinal tap	can detect	chronic myelomonocytic leukemia
+diagnostic spinal tap	can detect	Huntington disease
+diagnostic spinal tap	can detect	traumatic brain injury
+diagnostic spinal tap	can detect	spinal canal abscess
+diagnostic spinal tap	can detect	AIDS
+diagnostic spinal tap	can detect	carpal tunnel syndrome
+diagnostic spinal tap	can detect	lumbar puncture
+diagnostic spinal tap	can detect	Alzheimer disease
+diagnostic spinal tap	can detect	narcolepsy
+diagnostic spinal tap	can detect	spina bifida
+diagnostic spinal tap	can detect	restless legs syndrome
+diagnostic spinal tap	can detect	cerebrovascular accident
+diagnostic spinal tap	can detect	amyloid angiopathy
+diagnostic spinal tap	can detect	internal carotid artery dissection
+diagnostic spinal tap	can detect	dural arteriovenous fistula
+diagnostic spinal tap	can detect	pituitary tumor
+diagnostic spinal tap	can detect	vasculitic neuropathy
+diagnostic spinal tap	can detect	acute lymphoblastic leukemia
+diagnostic spinal tap	can detect	spinal cord injury
+diagnostic spinal tap	can detect	acute lymphoblastic leukemia

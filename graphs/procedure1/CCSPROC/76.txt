@@ -1,0 +1,96 @@
+colonoscopy	is a	medical procedure
+biopsy	is a	medical procedure
+colonoscopy	used for	diagnosis
+biopsy	used for	diagnosis
+biopsy	can detect	cancer
+colonoscopy	can detect	polyps
+biopsy	performed during	colonoscopy
+colonoscopy	requires	bowel preparation
+biopsy	requires	tissue sample
+colonoscopy	recommended for	individuals over 50
+biopsy	recommended for	suspicious lesions
+colonoscopy	risks include	bleeding
+biopsy	risks include	infection
+colonoscopy	performed under	sedation
+biopsy	performed under	local anesthesia
+colonoscopy	can be used for	therapeutic purposes
+biopsy	can be used for	histopathological analysis
+colonoscopy	discomfort can be reduced by	using lubricants
+biopsy	discomfort can be reduced by	applying numbing cream
+colonoscopy	usually takes	30-60 minutes
+biopsy	usually takes	a few minutes
+colonoscopy	requires	fasting
+biopsy	requires	wound care
+colonoscopy	after the procedure	patients need to	rest
+biopsy	after the procedure	patients need to	monitor for complications
+colonoscopy	complications include	bowel perforation
+biopsy	complications include	bleeding
+colonoscopy	can be performed	in an outpatient setting
+biopsy	can be performed	in a clinic
+colonoscopy	performed by	gastroenterologists
+biopsy	performed by	pathologists
+colonoscopy	can be indicated for	unexplained gastrointestinal bleeding
+biopsy	can be indicated for	abnormal tissue growth
+colonoscopy	preparation involves	a clear liquid diet
+biopsy	preparation involves	cleansing the biopsy site
+colonoscopy	contraindicated in	individuals with severe comorbidities
+biopsy	contraindicated in	individuals on anticoagulant medications
+colonoscopy	can be used to	remove polyps
+biopsy	can be used to	diagnose cancer
+colonoscopy	can be followed by	surveillance colonoscopy
+biopsy	can be followed by	further diagnostic tests
+colonoscopy	requires	informed consent
+biopsy	requires	pathology report
+colonoscopy	cost can vary based on	healthcare provider
+biopsy	cost can vary based on	location
+colonoscopy	associated with	bowel cleansing agents
+biopsy	associated with	needle biopsy devices
+colonoscopy	potential side effect is	abdominal discomfort
+biopsy	potential side effect is	bruising
+colonoscopy	performed using	a long	flexible tube
+biopsy	performed using	a small instrument
+colonoscopy	complications can be managed with	surgical intervention
+biopsy	complications can be managed with	antibiotics
+colonoscopy	frequently used in	colon cancer screening
+biopsy	frequently used in	diagnosing skin cancer
+colonoscopy	used in conjunction with	imaging techniques
+biopsy	used in conjunction with	cytology examinations
+colonoscopy	prevalence is	increasing
+biopsy	prevalence is	decreasing
+colonoscopy	accuracy can be improved with	high-definition scopes
+biopsy	accuracy can be improved with	immunohistochemistry
+colonoscopy	alternative to	virtual colonoscopy
+biopsy	alternative to	core needle biopsy
+colonoscopy	provides	direct visualization
+biopsy	provides	tissue sample
+colonoscopy	benefits outweigh	the risks
+biopsy	benefits outweigh	the discomfort
+colonoscopy	can be done	under general anesthesia
+biopsy	can be done	under local anesthesia
+colonoscopy	may cause	post-procedure bleeding
+biopsy	may cause	post-procedure pain
+colonoscopy	can be performed	with colonoscope
+biopsy	can be performed	with excisional biopsy
+colonoscopy	detection rate for polyps is	high
+biopsy	detection rate for cancer is	variable
+colonoscopy	follow-up intervals can be determined based on	findings
+biopsy	follow-up intervals can be determined based on	pathology results
+colonoscopy	used for	therapeutic interventions
+biopsy	used for	definitive diagnosis
+colonoscopy	need for	repeat procedures is possible
+biopsy	need for	additional testing is possible
+colonoscopy	results can be affected by	bowel preparation quality
+biopsy	results can be affected by	technical errors
+colonoscopy	complications can include	punctured colon
+biopsy	complications can include	scarring at the biopsy site
+colonoscopy	can be done	through the anus
+biopsy	can be done	using a needle
+colonoscopy	offers	immediate visualization
+biopsy	offers	cellular evaluation
+colonoscopy	risk factors include	age over 50
+biopsy	risk factors include	history of cancer
+colonoscopy	evaluation may be required after	abnormal imaging results
+biopsy	evaluation may be required after	abnormal pathology results
+colonoscopy	may need	sedation
+biopsy	may need	local anesthesia
+colonoscopy	can be performed	on an outpatient basis

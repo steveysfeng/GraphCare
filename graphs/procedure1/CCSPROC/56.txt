@@ -1,0 +1,214 @@
+vascular bypass	is a	surgical procedure
+bypass surgery	used to	reroute blood flow
+vascular shunt	is a	medical device
+shunt	used to	redirect blood flow
+peripheral artery bypass	is a type of	vascular bypass
+peripheral artery bypass	used to	treat arterial blockages
+arteriovenous shunt	is a type of	vascular shunt
+arteriovenous shunt	used for	dialysis
+femoral-popliteal bypass	is a type of	peripheral artery bypass
+femoral-popliteal bypass	used to	treat femoral artery disease
+peritoneal dialysis catheter	is a type of	arteriovenous shunt
+peritoneal dialysis catheter	used for	peritoneal dialysis
+carotid artery bypass	is a type of	peripheral artery bypass
+carotid artery bypass	used to	treat carotid artery disease
+jugular vein bypass	is a type of	vascular bypass
+jugular vein bypass	used to	treat venous stenosis
+aortic graft	is a type of	vascular bypass
+aortic graft	used to	treat aortic aneurysms
+midline sternotomy	is a surgical approach for	bypass surgery
+midline sternotomy	used for	accessing the heart
+hepatopetal shunt	is a type of	vascular shunt
+hepatopetal shunt	used to	treat portal hypertension
+mesocaval shunt	is a type of	vascular shunt
+mesocaval shunt	used to	treat portal hypertension
+portosystemic shunt	is a type of	vascular shunt
+portosystemic shunt	used to	treat portal hypertension
+fistula	is a type of	shunt
+fistula	used for	dialysis
+aorto-iliac bypass	is a type of	peripheral artery bypass
+aorto-iliac bypass	used to	treat iliac artery disease
+arteriovenous graft	is a type of	vascular shunt
+arteriovenous graft	used for	dialysis
+saphenous vein graft	is a type of	peripheral artery bypass
+saphenous vein graft	used to	treat coronary artery disease
+subclavian steal bypass	is a type of	peripheral artery bypass
+subclavian steal bypass	used to	treat subclavian artery stenosis
+thrombectomy	is a	surgical procedure
+thrombectomy	used to	remove blood clots
+carotid-subclavian bypass	is a type of	peripheral artery bypass
+carotid-subclavian bypass	used to	treat subclavian artery stenosis
+hepatofugal shunt	is a type of	vascular shunt
+hepatofugal shunt	used to	treat portal hypertension
+miller cuff anastomosis	is a type of	vascular bypass
+miller cuff anastomosis	used for	vascular access
+transjugular intrahepatic portosystemic shunt (TIPS)	is a type of	vascular shunt
+transjugular intrahepatic portosystemic shunt (TIPS)	used to	treat portal hypertension
+jugular venous stent	is a	medical device
+jugular venous stent	used to	treat venous stenosis
+carotid-subclavian transposition	is a type of	peripheral artery bypass
+carotid-subclavian transposition	used to	treat subclavian artery stenosis
+end-to-side anastomosis	is a	surgical technique
+end-to-side anastomosis	used for	bypass surgery
+peripheral arterial stent	is a	medical device
+peripheral arterial stent	used to	treat arterial blockages
+decannulation	is a	medical procedure
+decannulation	used to	remove a shunt
+thoracic outlet decompression	is a	surgical procedure
+thoracic outlet decompression	used to	treat thoracic outlet syndrome
+jugular venous angioplasty	is a	medical procedure
+jugular venous angioplasty	used to	treat venous stenosis
+transjugular liver biopsy	is a	medical procedure
+transjugular liver biopsy	used for	liver diagnosis and treatment
+thoracic aortic graft	is a type of	vascular bypass
+thoracic aortic graft	used to	treat aortic aneurysms
+vascular bypass infection	is a	medical condition
+vascular bypass infection	can cause	sepsis
+neuroendovascular procedures	are	medical procedures
+neuroendovascular procedures	used to	treat vascular disorders of the brain
+extracranial-intracranial bypass	is a type of	neuroendovascular procedure
+extracranial-intracranial bypass	used to	treat cerebrovascular diseases
+carotid endarterectomy	is a type of	vascular bypass
+carotid endarterectomy	used to	treat carotid artery disease
+vascular access infection	is a	medical condition
+vascular access infection	can cause	sepsis
+arterial line insertion	is a	medical procedure
+arterial line insertion	used for	invasive blood pressure monitoring
+jugular venous occlusion	is a	medical condition
+jugular venous occlusion	can cause	venous hypertension
+hemodialysis catheter	is a type of	vascular access
+hemodialysis catheter	used for	hemodialysis
+hemodialysis graft	is a type of	vascular access
+hemodialysis graft	used for	hemodialysis
+fistulogram	is a	medical procedure
+fistulogram	used for	diagnosing and treating vascular access problems
+temporary dialysis access	is a type of	vascular access
+temporary dialysis access	used for	temporary hemodialysis
+hepatic venous outflow obstruction	is a	medical condition
+hepatic venous outflow obstruction	can cause	portal hypertension
+prosthetic graft	is a type of	vascular bypass
+prosthetic graft	used to	replace damaged blood vessels
+porcelain aorta syndrome	is a	medical condition
+porcelain aorta syndrome	can lead to	aortic aneurysms
+inferior vena cava obstruction	is a	medical condition
+inferior vena cava obstruction	can cause	lower extremity edema
+endovascular stent graft	is a	medical device
+endovascular stent graft	used to	repair aortic aneurysms
+venous insufficiency	is a	medical condition
+venous insufficiency	can cause	leg swelling
+vascular bypass graft occlusion	is a	medical condition
+vascular bypass graft occlusion	can cause	ischemia
+hemodialysis fistula	is a type of	vascular access
+hemodialysis fistula	used for	hemodialysis
+arterial stent	is a	medical device
+arterial stent	used to	treat arterial blockages
+femoral artery cannulation	is a	medical procedure
+femoral artery cannulation	used for	invasive monitoring and interventions
+shunt thrombosis	is a	medical condition
+shunt thrombosis	can cause	graft failure
+bypass occlusion	is a	medical condition
+bypass occlusion	can cause	ischemia
+shunt infection	is a	medical condition
+shunt infection	can cause	sepsis
+reversed saphenous vein bypass	is a type of	peripheral artery bypass
+reversed saphenous vein bypass	used to	treat coronary artery disease
+venous angioplasty	is a	medical procedure
+venous angioplasty	used to	treat venous stenosis
+embolectomy	is a	surgical procedure
+embolectomy	used to	remove blood clots
+carotid-subclavian transposition graft	is a type of	peripheral artery bypass
+carotid-subclavian transposition graft	used to	treat subclavian artery stenosis
+atriovenous shunt	is a type of	vascular shunt
+atriovenous shunt	used to	treat portal hypertension
+jugular venous stenting	is a	medical procedure
+jugular venous stenting	used to	treat venous stenosis
+renal dialysis catheter	is a type of	vascular access
+renal dialysis catheter	used for	hemodialysis
+dialysis fistula	is a type of	vascular access
+dialysis fistula	used for	hemodialysis
+atriocaval shunt	is a type of	vascular shunt
+atriocaval shunt	used to	treat portal hypertension
+brachial-cephalic fistula	is a type of	vascular access
+brachial-cephalic fistula	used for	hemodialysis
+radioulnar bypass	is a type of	peripheral artery bypass
+radioulnar bypass	used to	treat arterial blockages
+carotico-subclavian bypass	is a type of	peripheral artery bypass
+carotico-subclavian bypass	used to	treat subclavian artery stenosis
+vascular malformation	is a	medical condition
+vascular malformation	can cause	abnormal blood vessel growth
+endovascular intervention	is a	medical procedure
+endovascular intervention	used to	treat vascular diseases
+arterial ligation	is a	surgical procedure
+arterial ligation	used to	stop blood flow
+infectious arteritis	is a	medical condition
+infectious arteritis	can cause	tissue damage
+hybrid procedure	is a	surgical technique
+hybrid procedure	used for	vascular reconstruction
+jugular venous insufficiency	is a	medical condition
+jugular venous insufficiency	can cause	cerebral venous hypertension
+venous occlusion	is a	medical condition
+venous occlusion	can cause	swelling and pain
+dialysis catheter infection	is a	medical condition
+dialysis catheter infection	can cause	sepsis
+subclavian steal syndrome	is a	medical condition
+subclavian steal syndrome	can cause	reduced blood flow to the brain
+endovascular aneurysm repair	is a	medical procedure
+endovascular aneurysm repair	used to	treat aortic aneurysms
+venous stent	is a	medical device
+venous stent	used to	treat venous stenosis
+aortic dissection repair	is a	surgical procedure
+aortic dissection repair	used to	repair aorta tears
+arterial bypass occlusion	is a	medical condition
+arterial bypass occlusion	can cause	ischemia
+hemodialysis infection	is a	medical condition
+hemodialysis infection	can cause	sepsis
+femoral artery stenting	is a	medical procedure
+femoral artery stenting	used to	treat arterial blockages
+vascular bypass graft infection	is a	medical condition
+vascular bypass graft infection	can cause	sepsis
+abdominal aortic graft	is a type of	vascular bypass
+abdominal aortic graft	used to	treat aortic aneurysms
+hepatic-portal bypass	is a type of	vascular shunt
+hepatic-portal bypass	used to	treat portal hypertension
+jugular vein thrombosis	is a	medical condition
+jugular vein thrombosis	can cause	venous hypertension
+venous angioplasty and stenting	is a	medical procedure
+venous angioplasty and stenting	used to	treat venous stenosis
+bypass failure	is a	medical condition
+bypass failure	can cause	ischemia
+brachial-cephalic graft	is a type of	vascular access
+brachial-cephalic graft	used for	hemodialysis
+transluminal angioplasty	is a	medical procedure
+transluminal angioplasty	used to	treat arterial blockages
+jugular vein ligation	is a	surgical procedure
+jugular vein ligation	used to	stop blood flow
+venous malformation	is a	medical condition
+venous malformation	can cause	abnormal blood vessel growth
+endovascular therapy	is a	medical procedure
+endovascular therapy	used to	treat vascular diseases
+hepatic venous obstruction	is a	medical condition
+hepatic venous obstruction	can cause	portal hypertension
+external carotid artery bypass	is a type of	peripheral artery bypass
+external carotid artery bypass	used to	treat external carotid artery disease
+venous ligation	is a	surgical procedure
+venous ligation	used to	stop blood flow
+dialysis catheter insertion	is a	medical procedure
+dialysis catheter insertion	used for	hemodialysis
+carotid-subclavian transposition graft infection	is a	medical condition
+carotid-subclavian transposition graft infection	can cause	sepsis
+brachiocephalic fistula	is a type of	vascular access
+brachiocephalic fistula	used for	hemodialysis
+carotid artery stenting	is a	medical procedure
+carotid artery stenting	used to	treat carotid artery disease
+endarterectomy	is a	surgical procedure
+endarterectomy	used to	remove plaque
+vascular bypass occlusion	is a	medical condition
+vascular bypass occlusion	can cause	ischemia
+infectious arteritis	is a	medical condition
+infectious arteritis	can cause	tissue damage
+hybrid approach	is a	surgical technique
+hybrid approach	used for	vascular reconstruction
+jugular vein obstruction	is a	medical condition
+jugular vein obstruction	can cause	venous hypertension
+venous thrombectomy	is a	medical procedure
+venous thrombectomy	used to	remove blood clots

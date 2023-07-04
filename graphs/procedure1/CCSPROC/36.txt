@@ -1,0 +1,22 @@
+lobectomy	is a	surgical procedure
+lobectomy	used for	removal of a lobe
+lobectomy	can treat	lung cancer
+pneumonectomy	is a	surgical procedure
+pneumonectomy	used for	removal of a lung
+pneumonectomy	can treat	advanced lung diseases
+lobectomy	has a risk of	postoperative complications
+pneumonectomy	has a risk of	postoperative complications
+lobectomy	has a risk of	bleeding
+pneumonectomy	has a risk of	bleeding
+lobectomy	can result in	reduced lung function
+pneumonectomy	can result in	reduced lung function
+lobectomy	can be performed	minimally invasive
+pneumonectomy	can be performed	minimally invasive
+lobectomy	may require	chest tube placement
+pneumonectomy	may require	chest tube placement
+lobectomy	has a	mortality rate
+pneumonectomy	has a	mortality rate
+lobectomy	has a	readmission rate
+pneumonectomy	has a	readmission rate
+lobectomy	is associated with	longer hospital stay
+pneumonectomy	is associated with	longer hospital stay

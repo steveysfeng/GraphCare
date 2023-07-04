@@ -1,0 +1,41 @@
+colostomy	is a	surgical procedure
+colostomy	used for	diverticulitis
+colostomy	used for	bowel obstruction
+colostomy	used for	colorectal cancer
+colostomy	can be	temporary
+colostomy	can be	permanent
+temporary colostomy	is used for	trauma
+temporary colostomy	is used for	inflammation
+temporary colostomy	is used for	infection
+permanent colostomy	is used for	irreparable damage
+permanent colostomy	is used for	incontinence
+permanent colostomy	is used for	congenital diseases
+temporary colostomy	can be	reversed
+temporary colostomy	can be	closed
+temporary colostomy	can be	revised
+permanent colostomy	is irreversible
+permanent colostomy	requires	stoma care
+permanent colostomy	requires	pouching system
+colostomy	has	complications
+colostomy	can result in	infection
+colostomy	can result in	stoma stenosis
+colostomy	can result in	hernia
+colostomy	can result in	prolapse
+colostomy	can lead to	malnutrition
+colostomy	can lead to	electrolyte imbalance
+colostomy	can cause	bowel leakage
+colostomy	can cause	skin irritation
+colostomy	can affect	body image
+colostomy	can affect	psychological well-being
+colostomy	can require	diet modifications
+colostomy	can require	lifestyle adjustments
+colostomy	can require	frequent follow-up
+colostomy	can improve	quality of life
+colostomy	can restore	bowel function
+colostomy	can relieve	bowel obstruction
+colostomy	can prevent	complications
+colostomy	can reduce	colorectal cancer risk
+colostomy	can be managed	by healthcare professionals
+colostomy	requires	patient education
+colostomy	requires	wound care
+colostomy	requires	ostomy supplies

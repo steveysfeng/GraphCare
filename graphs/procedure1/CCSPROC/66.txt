@@ -1,0 +1,161 @@
+procedures on spleen	are	medical procedures
+procedures on spleen	performed for	treatment
+splenectomy	is a type of	procedures on spleen
+splenectomy	used for	removal of spleen
+splenectomy	can treat	splenic diseases
+splenorrhaphy	is a type of	procedures on spleen
+splenorrhaphy	used for	spleen repair
+splenorrhaphy	can repair	spleen rupture
+splenic artery embolization	is a type of	procedures on spleen
+splenic artery embolization	used for	treatment of ruptured spleen
+splenic artery embolization	can stop	bleeding in spleen
+splenotomy	is a type of	procedures on spleen
+splenotomy	used for	partial removal of spleen
+splenotomy	can help	treat splenic cysts
+quadrantectomy	is a type of	procedures on spleen
+quadrantectomy	used for	removal of diseased part of spleen
+quadrantectomy	can treat	splenic tumors
+percutaneous splenic biopsy	is a type of	procedures on spleen
+percutaneous splenic biopsy	used for	diagnostic purposes
+percutaneous splenic biopsy	can detect	infections in spleen
+laparoscopic spleen-preserving distal pancreatectomy	is a type of	procedures on spleen
+laparoscopic spleen-preserving distal pancreatectomy	used for	removal of pancreatic tissue
+laparoscopic spleen-preserving distal pancreatectomy	can spare	the spleen
+proximal splenorenal shunt	is a type of	procedures on spleen
+proximal splenorenal shunt	used for	portal hypertension treatment
+proximal splenorenal shunt	can divert	blood flow from spleen
+lateral splenorenal shunt	is a type of	procedures on spleen
+lateral splenorenal shunt	used for	portal hypertension treatment
+lateral splenorenal shunt	can redirect	blood flow from spleen
+distal splenorenal shunt	is a type of	procedures on spleen
+distal splenorenal shunt	used for	portal hypertension treatment
+distal splenorenal shunt	can reroute	blood flow from spleen
+partial splenectomy	is a type of	procedures on spleen
+partial splenectomy	used for	removal of diseased part of spleen
+partial splenectomy	can preserve	the spleen
+laparoscopic splenectomy	is a type of	procedures on spleen
+laparoscopic splenectomy	used for	removal of spleen
+laparoscopic splenectomy	can minimize	scarring
+robotic splenectomy	is a type of	procedures on spleen
+robotic splenectomy	used for	removal of spleen
+robotic splenectomy	can reduce	postoperative pain
+hand-assisted splenectomy	is a type of	procedures on spleen
+hand-assisted splenectomy	used for	removal of spleen
+hand-assisted splenectomy	can shorten	operative time
+open splenectomy	is a type of	procedures on spleen
+open splenectomy	used for	removal of spleen
+open splenectomy	can provide	better access to spleen
+laparoscopic spleen-preserving total pancreatectomy	is a type of	procedures on spleen
+laparoscopic spleen-preserving total pancreatectomy	used for	removal of pancreas
+laparoscopic spleen-preserving total pancreatectomy	can preserve	the spleen
+percutaneous transhepatic splenic vein catheterization	is a type of	procedures on spleen
+percutaneous transhepatic splenic vein catheterization	used for	diagnosis and treatment
+percutaneous transhepatic splenic vein catheterization	can access	the splenic vein
+splenic artery angiogram	is a type of	procedures on spleen
+splenic artery angiogram	used for	diagnostic imaging
+splenic artery angiogram	can visualize	the splenic artery
+splenectomy with or without collateral ligation	is a type of	procedures on spleen
+splenectomy with or without collateral ligation	used for	removal of spleen
+splenectomy with or without collateral ligation	can prevent	splenic artery aneurysm rupture
+slephotomy	is a type of	procedures on spleen
+slephotomy	used for	spleen removal
+slephotomy	can help	treat splenic laceration
+splenoportography	is a type of	procedures on spleen
+splenoportography	used for	diagnostic imaging
+splenoportography	can visualize	the spleen and portal venous system
+splenic artery ligation	is a type of	procedures on spleen
+splenic artery ligation	used for	blood flow control
+splenic artery ligation	can reduce	bleeding in spleen
+splenic artery microcatheterization	is a type of	procedures on spleen
+splenic artery microcatheterization	used for	embolization
+splenic artery microcatheterization	can block	the blood vessels in spleen
+splenic embolization	is a type of	procedures on spleen
+splenic embolization	used for	treatment of ruptured spleen
+splenic embolization	can stop	spleen bleeding
+splenic artery aneurysm coil embolization	is a type of	procedures on spleen
+splenic artery aneurysm coil embolization	used for	treatment
+splenic artery aneurysm coil embolization	can block	blood flow in the aneurysm
+splenic artery aneurysm stent placement	is a type of	procedures on spleen
+splenic artery aneurysm stent placement	used for	treatment
+splenic artery aneurysm stent placement	can reinforce	the weakened artery
+laparoscopic partial splenectomy	is a type of	procedures on spleen
+laparoscopic partial splenectomy	used for	removal of a part of spleen
+laparoscopic partial splenectomy	can preserve	the spleen
+laparoscopic hand-assisted splenectomy	is a type of	procedures on spleen
+laparoscopic hand-assisted splenectomy	used for	removal of spleen
+laparoscopic hand-assisted splenectomy	can shorten	operative time
+laparoscopic distal pancreatectomy with splenectomy	is a type of	procedures on spleen
+laparoscopic distal pancreatectomy with splenectomy	used for	removal of pancreas and spleen
+laparoscopic distal pancreatectomy with splenectomy	can treat	pancreatic diseases
+distal pancreatectomy with splenectomy	is a type of	procedures on spleen
+distal pancreatectomy with splenectomy	used for	pancreas and spleen removal
+distal pancreatectomy with splenectomy	can treat	pancreatic diseases
+open distal pancreatectomy with splenectomy	is a type of	procedures on spleen
+open distal pancreatectomy with splenectomy	used for	removal of pancreas and spleen
+open distal pancreatectomy with splenectomy	can treat	pancreatic diseases
+laparoscopic splenectomy and distal pancreatectomy	is a type of	procedures on spleen
+laparoscopic splenectomy and distal pancreatectomy	used for	removal of pancreas and spleen
+laparoscopic splenectomy and distal pancreatectomy	can treat	pancreatic diseases
+splenopexy	is a type of	procedures on spleen
+splenopexy	used for	spleen fixation
+splenopexy	can prevent	spleen torsion
+pancreaticosplenectomy	is a type of	procedures on spleen
+pancreaticosplenectomy	used for	removal of pancreas and spleen
+pancreaticosplenectomy	treats	pancreatic cancer
+distal pancreatectomy	is a type of	procedures on spleen
+distal pancreatectomy	used for	pancreas removal
+distal pancreatectomy	can treat	pancreatic diseases
+laparoscopic distal pancreatectomy	is a type of	procedures on spleen
+laparoscopic distal pancreatectomy	used for	removal of pancreas
+laparoscopic distal pancreatectomy	can reduce	postoperative pain
+en bloc distal pancreatectomy	is a type of	procedures on spleen
+en bloc distal pancreatectomy	used for	removal of pancreas
+en bloc distal pancreatectomy	can treat	pancreatic diseases
+open distal pancreatectomy	is a type of	procedures on spleen
+open distal pancreatectomy	used for	pancreas removal
+open distal pancreatectomy	can provide	better access to pancreas
+laparoscopic-assisted distal pancreatectomy	is a type of	procedures on spleen
+laparoscopic-assisted distal pancreatectomy	used for	removal of pancreas
+laparoscopic-assisted distal pancreatectomy	can minimize	scarring
+minimally invasive distal pancreatectomy	is a type of	procedures on spleen
+minimally invasive distal pancreatectomy	used for	pancreas removal
+minimally invasive distal pancreatectomy	can reduce	postoperative pain
+pancreaticoduodenectomy with spleen preservation	is a type of	procedures on spleen
+pancreaticoduodenectomy with spleen preservation	used for	pancreas and duodenum removal
+pancreaticoduodenectomy with spleen preservation	can preserve	the spleen
+open pancreaticoduodenectomy	is a type of	procedures on spleen
+open pancreaticoduodenectomy	used for	pancreas and duodenum removal
+open pancreaticoduodenectomy	can provide	better access to pancreas and duodenum
+laparoscopic proximal pancreatectomy with splenectomy	is a type of	procedures on spleen
+laparoscopic proximal pancreatectomy with splenectomy	used for	removal of pancreas and spleen
+laparoscopic proximal pancreatectomy with splenectomy	can treat	pancreatic diseases
+open proximal pancreatectomy with splenectomy	is a type of	procedures on spleen
+open proximal pancreatectomy with splenectomy	used for	removal of pancreas and spleen
+open proximal pancreatectomy with splenectomy	can treat	pancreatic diseases
+laparoscopic pancreaticoduodenectomy with splenectomy	is a type of	procedures on spleen
+laparoscopic pancreaticoduodenectomy with splenectomy	used for	removal of pancreas and duodenum and spleen
+laparoscopic pancreaticoduodenectomy with splenectomy	can treat	pancreatic diseases
+open pancreaticoduodenectomy with en bloc portal vein resection	is a type of	procedures on spleen
+open pancreaticoduodenectomy with en bloc portal vein resection	used for	removal of pancreas and duodenum and portal vein
+open pancreaticoduodenectomy with en bloc portal vein resection	can treat	pancreatic diseases
+laparoscopic pancreaticoduodenectomy	is a type of	procedures on spleen
+laparoscopic pancreaticoduodenectomy	used for	removal of pancreas and duodenum
+laparoscopic pancreaticoduodenectomy	can reduce	postoperative pain
+en bloc resection	is a type of	procedures on spleen
+en bloc resection	used for	removal of neighboring tissues
+en bloc resection	can prevent	cancer spread
+vascular reconstruction	is a type of	procedures on spleen
+vascular reconstruction	used for	repair of blood vessels
+vascular reconstruction	can restore	blood flow
+hepatic artery infusion chemotherapy	is a type of	procedures on spleen
+hepatic artery infusion chemotherapy	used for	cancer treatment
+hepatic artery infusion chemotherapy	can deliver	chemotherapy drugs to liver
+pancreaticojejunal anastomosis	is a type of	procedures on spleen
+pancreaticojejunal anastomosis	used for	surgical connection between pancreas and jejunum
+pancreaticojejunal anastomosis	can restore	pancreatic function
+laparoscopic ultrasonography	is a type of	procedures on spleen
+laparoscopic ultrasonography	used for	diagnostic imaging
+laparoscopic ultrasonography	can visualize	the spleen
+interferon-alpha therapy	is a type of	procedures on spleen
+interferon-alpha therapy	used for	treatment of cancer and viral infections
+interferon-alpha therapy	can boost	immune response

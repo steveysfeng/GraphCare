@@ -1,0 +1,7 @@
+procedures	are performed on	nose
+procedures	are performed on	mouth
+procedures	are performed on	pharynx
+procedures	are therapeutic
+nose	can undergo	therapeutic procedures
+mouth	can undergo	therapeutic procedures
+pharynx	can undergo	therapeutic procedures

@@ -1,0 +1,12 @@
+other non-or closed therapeutic nervous system procedures	are types of	medical procedures
+other non-or closed therapeutic nervous system procedures	can be used for	treatment
+spinal cord stimulation	is a type of	other non-or closed therapeutic nervous system procedures
+spinal cord stimulation	can be used for	pain management
+deep brain stimulation	is a type of	other non-or closed therapeutic nervous system procedures
+deep brain stimulation	can be used for	Parkinson's disease treatment
+transcranial magnetic stimulation	is a type of	other non-or closed therapeutic nervous system procedures
+transcranial magnetic stimulation	can be used for	depression treatment
+occipital nerve block	is a type of	other non-or closed therapeutic nervous system procedures
+occipital nerve block	can be used for	migraine treatment
+epidural injection	is a type of	other non-or closed therapeutic nervous system procedures
+epidural injection	can be used for	pain relief

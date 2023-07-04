@@ -1,0 +1,92 @@
+ileostomy	is a	surgical procedure
+ileostomy	creates	an opening
+ileostomy	used in	patients with bowel obstruction
+ileostomy	can be temporary
+ileostomy	can be permanent
+ileostomy	helps divert	fecal matter
+ileostomy	requires	a stoma
+stoma	is an	artificial opening
+stoma	allows	waste to exit
+stoma	needs	a pouch
+pouch	collects	waste
+pouch	needs	regular emptying
+ileostomy	is performed	in patients with Crohn's disease
+ileostomy	is performed	in patients with ulcerative colitis
+ileostomy	improves	quality of life
+ileostomy	may cause	complications
+complications	include	infection
+complications	include	stoma prolapse
+complications	include	hernia
+complications	include	bowel obstruction
+complications	include	skin irritation
+complications	include	stoma retraction
+complications	include	stoma necrosis
+ileostomy	requires	lifestyle adjustments
+ileostomy	can affect	body image
+ileostomy	is managed	with diet modification
+ileostomy	requires	regular follow-up
+ileostomy	can be associated with	psychological impact
+ileostomy	can increase	risk of dehydration
+ileostomy	can lead to	malnutrition
+ileostomy	can be reversed
+ileostomy reversal	is a	surgical procedure
+ileostomy reversal	reconnects	the bowel
+ileostomy reversal	restores	normal bowel function
+ileostomy reversal	may require	additional surgeries
+ileostomy reversal	improves	quality of life
+ileostomy reversal	carries	risks
+complications	of ileostomy reversal	include	infection
+complications	of ileostomy reversal	include	bleeding
+complications	of ileostomy reversal	include	anastomotic leak
+complications	of ileostomy reversal	include	bowel obstruction
+ileostomy reversal	may not be	suitable for all patients
+ileostomy	may need to be	revised
+revisions	of ileostomy	are additional	surgical procedures
+revisions	of ileostomy	correct	complications or issues
+revisions	of ileostomy	may be	major or minor
+ileostomy revision	may require	hospitalization
+ileostomy revision	aims to	optimize function
+ileostomy revision	can improve	patient's quality of life
+ileostomy revision	may be	a temporary solution
+ileostomy revision	may be	a permanent solution
+ileostomy	has	support groups
+support groups	provide	emotional support
+support groups	offer	advice and guidance
+support groups	help	with adjustment
+support groups	educate	patients and families
+ileostomy	requires	proper care
+ileostomy	needs	regular cleaning
+ileostomy	needs	skin protection
+ileostomy	needs	correct pouching system
+ileostomy	needs	proper diet
+ileostomy	may require	medication adjustments
+ileostomy	should not	prevent physical activities
+ileostomy	can have	impact on sexual function
+ileostomy	may affect	fertility
+ileostomy	can be	emotionally challenging
+ileostomy	should not	cause social isolation
+ileostomy	requires	patient education
+patient education	should include	stoma care
+patient education	should provide	pouch management knowledge
+patient education	should teach	diet modification
+patient education	should emphasize	regular follow-up
+ileostomy	should be	discussed with a healthcare provider
+healthcare provider	can provide	information and support
+healthcare provider	can help	with decision-making
+healthcare provider	can manage	complications
+healthcare provider	can guide	lifestyle adjustments
+ileostomy	may need	multidisciplinary care
+multidisciplinary care	involves	a team of healthcare professionals
+multidisciplinary care	helps	improve outcomes
+multidisciplinary care	coordinates	different aspects of care
+ileostomy	can have	financial implications
+financial implications	include	cost of supplies
+financial implications	include	healthcare expenses
+financial implications	may require	insurance coverage
+ileostomy	may cause	anxiety and depression
+anxiety and depression	should be	addressed
+anxiety and depression	may require	therapy or medication
+ileostomy	requires	patient advocacy
+patient advocacy	ensures	access to care
+patient advocacy	promotes	patient rights
+patient advocacy	supports	patient empowerment

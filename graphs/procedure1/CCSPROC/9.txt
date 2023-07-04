@@ -1,0 +1,62 @@
+nervous system procedure	is a	medical procedure
+nervous system procedure	used for	treatment
+neurosurgery	is a type of	nervous system procedure
+neurosurgery	can treat	brain tumor
+deep brain stimulation	is a type of	nervous system procedure
+deep brain stimulation	used for	Parkinson's disease
+spinal fusion	is a type of	nervous system procedure
+spinal fusion	used for	spinal deformity
+nerve block	is a type of	nervous system procedure
+nerve block	used for	pain management
+carotid endarterectomy	is a type of	nervous system procedure
+carotid endarterectomy	used for	carotid artery stenosis
+percutaneous spinal cord stimulation	is a type of	nervous system procedure
+percutaneous spinal cord stimulation	used for	chronic back pain
+radiofrequency ablation	is a type of	nervous system procedure
+radiofrequency ablation	used for	nerve pain
+gamma knife surgery	is a type of	nervous system procedure
+gamma knife surgery	used for	brain tumors
+vagus nerve stimulation	is a type of	nervous system procedure
+vagus nerve stimulation	used for	epilepsy
+electroconvulsive therapy	is a type of	nervous system procedure
+electroconvulsive therapy	used for	severe depression
+transcranial magnetic stimulation	is a type of	nervous system procedure
+transcranial magnetic stimulation	used for	treatment-resistant depression
+shunt revision	is a type of	nervous system procedure
+shunt revision	used for	hydrocephalus
+spinal cord stimulator placement	is a type of	nervous system procedure
+spinal cord stimulator placement	used for	chronic pain
+deep brain stimulator programming	is a type of	nervous system procedure
+deep brain stimulator programming	used for	movement disorders
+nervous system procedure	can lead to	complications
+complications	can include	infection
+complications	can include	bleeding
+complications	can include	nerve damage
+complications	can include	paralysis
+nervous system procedure	can have	side effects
+side effects	can include	pain
+side effects	can include	swelling
+side effects	can include	numbness
+side effects	can include	weakness
+nervous system procedure	requires	anesthesia
+anesthesia	can cause	allergic reaction
+anesthesia	can cause	nausea
+anesthesia	can cause	dizziness
+nervous system procedure	requires	hospitalization
+hospitalization	can be	overnight
+hospitalization	can be	several days
+hospitalization	can be	extended
+nervous system procedure	has	recovery period
+recovery period	can last	weeks
+recovery period	can last	months
+recovery period	can include	physical therapy
+recovery period	can include	medication
+nervous system procedure	may not	be covered by insurance
+insurance	may not cover	the procedure
+insurance	may not cover	the cost
+nervous system procedure	should be	discussed with a healthcare provider
+healthcare provider	can provide	information
+healthcare provider	can provide	guidance
+nervous system procedure	should be	performed by a qualified specialist
+qualified specialist	has	experience
+qualified specialist	has	expertise

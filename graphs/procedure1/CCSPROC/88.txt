@@ -1,0 +1,97 @@
+abdominal paracentesis	is a	medical procedure
+abdominal paracentesis	used for	fluid removal
+abdominal paracentesis	can relieve	ascites
+abdominal paracentesis	can be performed	under ultrasound guidance
+abdominal paracentesis	has risks of	infection
+abdominal paracentesis	can be done	in outpatient setting
+abdominal paracentesis	may require	local anesthesia
+abdominal paracentesis	can be used	for diagnostic purposes
+abdominal paracentesis	can measure	ascitic fluid protein level
+abdominal paracentesis	can detect	spontaneous bacterial peritonitis
+abdominal paracentesis	can assess	serum-ascites albumin gradient
+abdominal paracentesis	can diagnose	malignancies
+abdominal paracentesis	is guided by	clinical symptoms and physical examination
+abdominal paracentesis	can be performed	in patients with cirrhosis
+abdominal paracentesis	is recommended	for symptomatic ascites
+abdominal paracentesis	is contraindicated	in patients with uncorrectable coagulopathy
+abdominal paracentesis	can provide	therapeutic benefit
+abdominal paracentesis	can improve	quality of life
+abdominal paracentesis	has a risk of	bleeding
+abdominal paracentesis	can detect	hepatocellular carcinoma
+abdominal paracentesis	requires	informed consent
+abdominal paracentesis	can identify	spontaneous bacterial peritonitis pathogens
+abdominal paracentesis	can differentiate	transudative from exudative causes of ascites
+abdominal paracentesis	is an option	for palliative care patients
+abdominal paracentesis	is a procedure	performed by trained medical professionals
+abdominal paracentesis	can assess	ascitic fluid for infection
+abdominal paracentesis	may cause	transient hypotension
+abdominal paracentesis	can assess	ascitic fluid for malignancy
+abdominal paracentesis	can measure	ascitic fluid albumin level
+abdominal paracentesis	can detect	spontaneous bacterial peritonitis pathogens
+abdominal paracentesis	can identify	causes of ascites
+abdominal paracentesis	can drain	large volume of ascitic fluid
+abdominal paracentesis	can detect	tuberculosis peritonitis
+abdominal paracentesis	can be used	for therapeutic purposes
+abdominal paracentesis	is performed	using a sterile technique
+abdominal paracentesis	can treat	abdominal distention
+abdominal paracentesis	can diagnose	ascitic fluid infections
+abdominal paracentesis	can detect	culture-negative spontaneous bacterial peritonitis
+abdominal paracentesis	can relieve	respiratory distress
+abdominal paracentesis	is considered	a low-risk procedure
+abdominal paracentesis	can be complicated	by pneumothorax
+abdominal paracentesis	can detect	peritoneal carcinomatosis
+abdominal paracentesis	is recommended	for the assessment of new-onset ascites
+abdominal paracentesis	can detect	spontaneous bacterial peritonitis pathogens without concomitant SBP
+abdominal paracentesis	can analyze	ascitic fluid for cell count
+abdominal paracentesis	can measure	ascitic fluid glucose level
+abdominal paracentesis	can diagnose	spontaneous bacterial peritonitis pathogens
+abdominal paracentesis	can relieve	abdominal pain
+abdominal paracentesis	is performed	in the supine position
+abdominal paracentesis	can be performed	in pregnant patients
+abdominal paracentesis	can detect	cirrhosis
+abdominal paracentesis	can detect	ascitic fluid protein level
+abdominal paracentesis	can analyze	ascitic fluid for culture
+abdominal paracentesis	can differentiate	bacterial from nonbacterial causes of ascites
+abdominal paracentesis	can detect	ascitic fluid albumin gradient
+abdominal paracentesis	can identify	causes of spontaneous bacterial peritonitis
+abdominal paracentesis	can assess	ascitic fluid for malignancy
+abdominal paracentesis	can be performed	in patients with coagulopathy
+abdominal paracentesis	can detect	peritoneal infections
+abdominal paracentesis	can treat	abdominal discomfort
+abdominal paracentesis	can analyze	ascitic fluid for gram stain
+abdominal paracentesis	can detect	spontaneous bacterial peritonitis without SBP
+abdominal paracentesis	can analyze	ascitic fluid for protein level
+abdominal paracentesis	can measure	ascitic fluid glucose level in patients with suspected spontaneous bacterial peritonitis
+abdominal paracentesis	can analyze	ascitic fluid for albumin level
+abdominal paracentesis	can identify	causes of peritonitis
+abdominal paracentesis	can assess	serum-ascites albumin gradient for portal hypertension
+abdominal paracentesis	can analyze	ascitic fluid for lactate dehydrogenase level
+abdominal paracentesis	can be performed	in patients with ascites
+abdominal paracentesis	can be used	for therapeutic drainage
+abdominal paracentesis	can detect	peritoneal carcinomatosis without ascites
+abdominal paracentesis	can detect	ascitic fluid lactate dehydrogenase level
+abdominal paracentesis	can be performed	at bedside
+abdominal paracentesis	can be performed	in patients with suspected bacterial peritonitis
+abdominal paracentesis	can analyze	ascitic fluid for amylase level
+abdominal paracentesis	can relieve	discomfort in patients with ascites
+abdominal paracentesis	can measure	ascitic fluid creatinine level
+abdominal paracentesis	can be complicated	by bowel perforation
+abdominal paracentesis	can diagnose	spontaneous bacterial peritonitis pathogens with concomitant SBP
+abdominal paracentesis	can analyze	ascitic fluid for glucose level
+abdominal paracentesis	can detect	causes of spontaneous bacterial peritonitis without SBP
+abdominal paracentesis	can relieve	abdominal distention in patients with ascites
+abdominal paracentesis	is performed	by inserting a needle into the abdominal cavity
+abdominal paracentesis	can diagnose	ascitic fluid malignancies
+abdominal paracentesis	is performed	in patients with suspected spontaneous bacterial peritonitis
+abdominal paracentesis	can be used	for analysis of ascitic fluid
+abdominal paracentesis	can analyze	ascitic fluid for cytology
+abdominal paracentesis	can be performed	by trained personnel
+abdominal paracentesis	can detect	tuberculous peritonitis
+abdominal paracentesis	can diagnose	sources of spontaneous bacterial peritonitis
+abdominal paracentesis	can measure	ascitic fluid bilirubin level
+abdominal paracentesis	can identify	causes of peritoneal carcinomatosis
+abdominal paracentesis	can be used	for therapeutic relief
+abdominal paracentesis	can analyze	ascitic fluid for amylase level
+abdominal paracentesis	can differentiate	bacterial from viral causes of peritonitis
+abdominal paracentesis	can analyze	ascitic fluid for creatinine level
+abdominal paracentesis	can detect	hepatocellular carcinoma without ascites

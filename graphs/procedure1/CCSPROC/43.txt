@@ -1,0 +1,97 @@
+heart valve procedures	are	medical procedures
+heart valve procedures	used for	treating heart valve diseases
+heart valve replacement	is a type of	heart valve procedures
+heart valve repair	is a type of	heart valve procedures
+heart valve procedures	can improve	heart function
+heart valve procedures	may be recommended for	patients with severe valvular diseases
+heart valve procedures	can reduce	symptoms such as chest pain and shortness of breath
+heart valve procedures	can be performed using minimally invasive techniques
+heart valve procedures	may require	anesthesia
+heart valve procedures	carry risks of complications such as infection and bleeding
+heart valve procedures	can extend	a patient's lifespan
+heart valve procedures	require	a skilled surgical team
+heart valve procedures	may require	a hospital stay
+heart valve procedures	may be followed by	a period of cardiac rehabilitation
+heart valve procedures	can be performed on	both adults and children
+heart valve procedures	can be performed using	prosthetic valves
+heart valve procedures	can be performed using	biological valves
+heart valve procedures	can be performed using	autografts
+heart valve procedures	can be performed using	allografts
+heart valve procedures	can be performed using	homografts
+heart valve procedures	can be performed using	xenografts
+heart valve procedures	can require	anticoagulant therapy
+heart valve procedures	can result in	improved quality of life
+heart valve procedures	can be associated with	long-term follow-up care
+heart valve procedures	may be necessary	for patients with congenital heart defects
+heart valve procedures	can be performed using	minimally invasive techniques
+heart valve procedures	may be recommended after	medication management fails
+heart valve procedures	can be performed using	mechanical valves
+heart valve procedures	can be performed using	tissue valves
+heart valve procedures	can be performed using	transcatheter techniques
+heart valve procedures	can treat	conditions such as aortic stenosis
+heart valve procedures	can treat	conditions such as mitral regurgitation
+heart valve procedures	can treat	conditions such as tricuspid valve regurgitation
+heart valve procedures	can treat	conditions such as pulmonic valve stenosis
+heart valve procedures	can treat	conditions such as infective endocarditis
+heart valve procedures	can treat	conditions such as rheumatic heart disease
+heart valve procedures	can require	post-operative monitoring
+heart valve procedures	can be performed as	a standalone procedure
+heart valve procedures	can be performed in combination with	coronary artery bypass grafting
+heart valve procedures	can be performed in combination with	other cardiac surgeries
+heart valve procedures	can be performed using	robotic-assisted techniques
+heart valve procedures	can be performed using	thoracoscopic techniques
+heart valve procedures	can be performed using	traditional open-heart surgery
+heart valve procedures	can be performed using	video-assisted techniques
+heart valve procedures	may be recommended as	a treatment for heart failure
+heart valve procedures	can require	pre-operative imaging tests
+heart valve procedures	can be performed using	tissue engineering techniques
+heart valve procedures	can be performed using	valvuloplasty techniques
+heart valve procedures	can be performed using	transcatheter aortic valve replacement
+heart valve procedures	can be performed using	mitral valve repair
+heart valve procedures	can be performed using	tricuspid valve annuloplasty
+heart valve procedures	can be performed using	pulmonic valve replacement
+heart valve procedures	can be performed using	valve-in-valve procedures
+heart valve procedures	can be performed using	percutaneous techniques
+heart valve procedures	may result in	improved exercise tolerance
+heart valve procedures	can be performed using	homografts
+heart valve procedures	can be performed using	mechanical prostheses
+heart valve procedures	can be performed using	catheter-based techniques
+heart valve procedures	can be performed using	transapical approaches
+heart valve procedures	can be performed using	subxiphoid approaches
+heart valve procedures	can be performed using	thoracotomy approaches
+heart valve procedures	can result in	reduced risk of stroke
+heart valve procedures	can result in	improved cardiac function
+heart valve procedures	can result in	decreased risk of heart failure
+heart valve procedures	can result in	improved quality of life
+heart valve procedures	can result in	improved exercise capacity
+heart valve procedures	may require	repeat procedures
+heart valve procedures	can be performed using	minimally invasive techniques
+heart valve procedures	can be performed using	sutureless techniques
+heart valve procedures	can be performed using	autograft options
+heart valve procedures	can be performed using	tissue-engineered grafts
+heart valve procedures	can be performed using	mechanical grafts
+heart valve procedures	can be performed using	allograft options
+heart valve procedures	can require	post-operative medications
+heart valve procedures	can lead to	improved long-term survival
+heart valve procedures	can result in	reduced rates of hospital readmission
+heart valve procedures	can result in	improved symptom management
+heart valve procedures	can be performed using	transesophageal echocardiography
+heart valve procedures	can be performed using	3D printing techniques
+heart valve procedures	can be performed using	hybrid approaches
+heart valve procedures	can be performed using	homograft options
+heart valve procedures	can be performed using	mechanical valve options
+heart valve procedures	can be performed using	percutaneous valve replacement
+heart valve procedures	can be performed using	minimally invasive techniques
+heart valve procedures	can be performed using	robotic-assisted techniques
+heart valve procedures	can require	intensive care unit (ICU) admission
+heart valve procedures	may be considered	for patients with high surgical risk
+heart valve procedures	can be performed using	tissue-based techniques
+heart valve procedures	can be performed using	next-generation technologies
+heart valve procedures	can be performed using	annuloplasty repair techniques
+heart valve procedures	can be performed using	transventricular techniques
+heart valve procedures	can be performed using	mini-thoracotomy approaches
+heart valve procedures	can be performed using	valvular remodeling techniques
+heart valve procedures	can be performed using	stentless valve options
+heart valve procedures	can be performed using	homografts
+heart valve procedures	can be performed using	heart-lung bypass machines
+heart valve procedures	can be performed using	biodegradable valve options

@@ -1,0 +1,16 @@
+extraocular muscle surgery	is a	therapeutic procedure
+extraocular muscle surgery	used for	correcting misalignment of the eyes
+orbitotomy	is a	therapeutic procedure
+orbitotomy	used for	accessing the structures inside the orbit
+orbital decompression surgery	is a	therapeutic procedure
+orbital decompression surgery	used for	reducing pressure and volume in the orbit
+blepharoplasty	is a	therapeutic procedure
+blepharoplasty	used for	correcting eyelid problems
+orbital implantation	is a	therapeutic procedure
+orbital implantation	used for	replacing an eye with a prosthesis
+orbital fracture repair	is a	therapeutic procedure
+orbital fracture repair	used for	fixing broken bones in the orbit
+conjunctivoplasty	is a	therapeutic procedure
+conjunctivoplasty	used for	reshaping the conjunctiva
+dacryocystorhinostomy	is a	therapeutic procedure
+dacryocystorhinostomy	used for	creating a new drainage system for tears

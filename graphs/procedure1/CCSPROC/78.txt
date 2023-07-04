@@ -1,0 +1,67 @@
+colorectal resection	is a	surgical procedure
+colorectal resection	used for	treatment
+colorectal resection	can remove	cancerous tumors
+colorectal resection	may require	bowel reconnection
+colorectal resection	can result in	complications
+complications	may include	infection
+complications	may require	additional surgeries
+colorectal resection	can be performed	laparoscopically
+laparoscopic surgery	has	smaller incisions
+laparoscopic surgery	has	faster recovery time
+colorectal resection	can be performed	robotically
+robotic surgery	offers	precise movements
+robotic surgery	reduces	surgeon fatigue
+colorectal resection	may result in	temporary or permanent colostomy
+colostomy	requires	a stoma bag
+colostomy	may impact	quality of life
+colorectal resection	is performed under	general anesthesia
+colorectal resection	carries	anesthesia risks
+anesthesia risks	may include	allergic reactions
+anesthesia risks	may result in	post-surgical complications
+colorectal resection	has	mortality risk
+mortality risk	is higher in	elderly patients
+mortality risk	is higher in	patients with underlying health conditions
+colorectal resection	requires	pre-operative preparation
+pre-operative preparation	includes	bowel preparation
+pre-operative preparation	may involve	dietary restrictions
+colorectal resection	has	post-operative care
+post-operative care	includes	pain management
+post-operative care	includes	physical therapy
+post-operative care	includes	wound care
+colorectal resection	may result in	post-operative complications
+post-operative complications	may include	bleeding
+post-operative complications	may include	blood clots
+colorectal resection	may require	post-operative follow-up
+post-operative follow-up	includes	regular check-ups
+post-operative follow-up	includes	imaging studies
+colorectal resection	has	long-term follow-up
+long-term follow-up	includes	surveillance for cancer recurrence
+long-term follow-up	includes	monitoring of bowel function
+colorectal resection	may affect	fertility
+colorectal resection	may require	temporary stomal diversion
+temporary stomal diversion	involves	diverting waste to external bag
+temporary stomal diversion	allows	bowel healing
+colorectal resection	can be performed	via open surgery
+open surgery	has	larger incisions
+open surgery	has	longer recovery time
+colorectal resection	can be performed	via minimally invasive surgery
+minimally invasive surgery	offers	shorter hospital stay
+minimally invasive surgery	offers	less pain
+colorectal resection	may require	nutritional support
+nutritional support	may include	enteral feeding
+nutritional support	may include	parenteral nutrition
+colorectal resection	has	risk of post-surgical infections
+post-surgical infections	may require	antibiotic treatment
+post-surgical infections	may result in	prolonged hospital stay
+colorectal resection	may result in	changes in bowel habits
+colorectal resection	may require	lifestyle modifications
+lifestyle modifications	include	dietary changes
+lifestyle modifications	include	regular exercise
+colorectal resection	can result in	improvement in quality of life
+colorectal resection	can result in	improved survival rates
+colorectal resection	can be performed	in emergency situations
+emergency colorectal resection	may be necessary	in cases of bowel obstruction
+emergency colorectal resection	carries	higher risks
+colorectal resection	can be performed	via transanal approach
+transanal approach	offers	less invasive option
+transanal approach	has	faster recovery time

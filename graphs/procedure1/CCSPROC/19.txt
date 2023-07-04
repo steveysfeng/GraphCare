@@ -1,0 +1,230 @@
+therapeutic procedures	can be performed on	eyelids
+therapeutic procedures	can be performed on	conjunctiva
+therapeutic procedures	can be performed on	cornea
+therapeutic procedures	can treat	eyelids
+therapeutic procedures	can treat	conjunctiva
+therapeutic procedures	can treat	cornea
+eyelid surgery	is a type of	therapeutic procedure
+eyelid surgery	can correct	droopy eyelids
+eyelid surgery	can treat	ptosis
+conjunctival surgery	is a type of	therapeutic procedure
+conjunctival surgery	can treat	eye tumors
+conjunctival surgery	can remove	pterygium
+corneal surgery	is a type of	therapeutic procedure
+corneal surgery	can correct	astigmatism
+corneal surgery	can treat	corneal disease
+corneal transplant	is a type of	corneal surgery
+corneal transplant	can improve	vision
+corneal transplant	can treat	corneal scarring
+blepharoplasty	is a type of	eyelid surgery
+blepharoplasty	can remove	excess skin
+blepharoplasty	can reduce	under-eye bags
+pterygium surgery	is a type of	conjunctival surgery
+pterygium surgery	can remove	abnormal growth on the conjunctiva
+pterygium surgery	can improve	vision
+LASIK	is a type of	corneal surgery
+LASIK	can correct	nearsightedness
+LASIK	can correct	farsightedness
+corneal scraping	is a type of	corneal surgery
+corneal scraping	can remove	infected tissue
+corneal scraping	can treat	corneal ulcers
+blepharoptosis correction	is a type of	eyelid surgery
+blepharoptosis correction	can treat	droopy eyelids
+blepharoptosis correction	can improve	vision
+conjunctival biopsy	is a type of	conjunctival surgery
+conjunctival biopsy	can help diagnose	eye infections
+conjunctival biopsy	can detect	cancer cells
+corneal abrasion repair	is a type of	corneal surgery
+corneal abrasion repair	can heal	corneal scratches
+corneal abrasion repair	can relieve	pain
+eyedrop application	can be part of	therapeutic procedures
+eyedrop application	can relieve	dry eyes
+eyedrop application	can reduce	eye inflammation
+corneal reshaping	is a type of	corneal surgery
+corneal reshaping	can correct	astigmatism
+corneal reshaping	can improve	vision
+eyelid reconstruction	is a type of	eyelid surgery
+eyelid reconstruction	can restore	eyelid function
+eyelid reconstruction	can improve	appearance
+conjunctival cyst removal	is a type of	conjunctival surgery
+conjunctival cyst removal	can eliminate	swelling
+conjunctival cyst removal	can reduce	eye discomfort
+corneal incision	is a type of	corneal surgery
+corneal incision	can be used for	cataract surgery
+corneal incision	can improve	vision
+cryotherapy	can be part of	therapeutic procedures
+cryotherapy	can treat	eyelid warts
+cryotherapy	can treat	conjunctival tumors
+corneal suturing	is a type of	corneal surgery
+corneal suturing	can repair	corneal injuries
+corneal suturing	can improve	vision
+conjunctival cauterization	is a type of	conjunctival surgery
+conjunctival cauterization	can treat	conjunctival lesions
+conjunctival cauterization	can control	bleeding
+corneal debridement	is a type of	corneal surgery
+corneal debridement	can remove	damaged corneal tissue
+corneal debridement	can treat	corneal infections
+eyelid retraction repair	is a type of	eyelid surgery
+eyelid retraction repair	can correct	eyelid position
+eyelid retraction repair	can improve	vision
+conjunctival foreign body removal	is a type of	conjunctival surgery
+conjunctival foreign body removal	can remove	irritants
+conjunctival foreign body removal	can relieve	eye pain
+corneal ulcer treatment	is a type of	corneal surgery
+corneal ulcer treatment	can heal	corneal ulcers
+corneal ulcer treatment	can reduce	risk of infection
+eyelid biopsy	is a type of	eyelid surgery
+eyelid biopsy	can help diagnose	eyelid cancer
+eyelid biopsy	can detect	abnormalities
+conjunctival suturing	is a type of	conjunctival surgery
+conjunctival suturing	can close	conjunctival lacerations
+conjunctival suturing	can promote	healing
+corneal foreign body removal	is a type of	corneal surgery
+corneal foreign body removal	can remove	foreign objects
+corneal foreign body removal	can relieve	eye discomfort
+eyelid reconstruction with graft or flap	is a type of	eyelid surgery
+eyelid reconstruction with graft or flap	can repair	eyelid defects
+eyelid reconstruction with graft or flap	can improve	eyelid function
+conjunctival lesion excision	is a type of	conjunctival surgery
+conjunctival lesion excision	can remove	abnormal growths
+conjunctival lesion excision	can prevent	cancer spread
+corneal scraping for cytology	is a type of	corneal surgery
+corneal scraping for cytology	can collect	cell samples
+corneal scraping for cytology	can aid in	diagnosis
+eye irrigation	can be part of	therapeutic procedures
+eye irrigation	can flush	foreign objects
+eye irrigation	can relieve	eye irritation
+corneal reshaping contact lens fitting	is a type of	corneal surgery
+corneal reshaping contact lens fitting	can correct	refractive errors
+corneal reshaping contact lens fitting	can improve	vision
+eyelid tumor excision	is a type of	eyelid surgery
+eyelid tumor excision	can remove	eyelid tumors
+eyelid tumor excision	can prevent	cancer spread
+conjunctival scraping	is a type of	conjunctival surgery
+conjunctival scraping	can remove	abnormal cells
+conjunctival scraping	can aid in	diagnosis
+corneal laceration repair	is a type of	corneal surgery
+corneal laceration repair	can repair	corneal tears
+corneal laceration repair	can improve	vision
+eyelid reconstruction with local tissue	is a type of	eyelid surgery
+eyelid reconstruction with local tissue	can repair	eyelid defects
+eyelid reconstruction with local tissue	can improve	eyelid function
+conjunctivoplasty	is a type of	conjunctival surgery
+conjunctivoplasty	can repair	conjunctival defects
+conjunctivoplasty	can restore	eye function
+corneal tattoo	is a type of	corneal surgery
+corneal tattoo	can improve	corneal appearance
+corneal tattoo	can treat	corneal scars
+eyelid skin graft	is a type of	eyelid surgery
+eyelid skin graft	can treat	eyelid defects
+eyelid skin graft	can restore	eyelid function
+conjunctival drainage of cyst or hematoma	is a type of	conjunctival surgery
+conjunctival drainage of cyst or hematoma	can remove	fluid buildup
+conjunctival drainage of cyst or hematoma	can relieve	eye pressure
+corneal suturing for laceration	is a type of	corneal surgery
+corneal suturing for laceration	can repair	corneal tears
+corneal suturing for laceration	can improve	vision
+eyelid reconstruction with free tissue transfer	is a type of	eyelid surgery
+eyelid reconstruction with free tissue transfer	can repair	extensive eyelid defects
+eyelid reconstruction with free tissue transfer	can improve	eyelid function
+conjunctival biopsy for cytology	is a type of	conjunctival surgery
+conjunctival biopsy for cytology	can collect	cell samples
+conjunctival biopsy for cytology	can aid in	diagnosis
+corneal scraping for culture	is a type of	corneal surgery
+corneal scraping for culture	can collect	tissue samples
+corneal scraping for culture	can identify	bacteria
+eyelid lesion excision	is a type of	eyelid surgery
+eyelid lesion excision	can remove	abnormal growths
+eyelid lesion excision	can prevent	cancer spread
+other therapeutic procedures
+eyelid surgery	is a	medical procedure
+eyelid surgery	treats	ptosis
+eyelid surgery	can correct	drooping eyelids
+eyelid surgery	improves	vision
+eyelid surgery	reduces	excess skin
+eyelid surgery	can	enhance appearance
+eyelid surgery	may cause	swelling
+eyelid surgery	can lead to	infections
+eyelid surgery	requires	anesthesia
+eyelid surgery	should be	performed by a trained specialist
+eyelid surgery	has	risks
+eyelid surgery	is	effective
+eyelid surgery	is	safe
+eyelid surgery	may require	recovery time
+eyelid surgery	is necessary for	some medical conditions
+eyelid surgery	is commonly	performed on older adults
+eyelid surgery	can	affect tears
+eyelid surgery	is	outpatient procedure
+eyelid surgery	improves	peripheral vision
+eyelid surgery	can	treat sagging skin
+eyelid surgery	may cause	bruising
+eyelid surgery	requires	follow-up appointments
+eyelid surgery	is	generally successful
+eyelid surgery	can	correct vision obstruction
+eyelid surgery	is	considered a cosmetic procedure
+eyelid surgery	can	remove excess fat
+eyelid surgery	can	tighten muscles
+eyelid surgery	can	improve self-esteem
+eyelid surgery	can	restore a youthful appearance
+eyelid surgery	is	performed by an ophthalmic plastic surgeon
+eyelid surgery	can	correct visual field loss
+eyelid surgery	is not	covered by insurance in some cases
+eyelid surgery	can	improve the ability to apply makeup
+eyelid surgery	can	correct asymmetry
+eyelid surgery	can	reduce eye irritation
+eyelid surgery	can	treat dry eye syndrome
+eyelid surgery	can	alleviate eye strain
+eyelid surgery	can	remove excess skin and fat
+eyelid surgery	can	improve the contour of the eyelids
+eyelid surgery	can	correct eyelid ptosis
+eyelid surgery	can	enhance the appearance of the eyes
+eyelid surgery	may require	stitches
+eyelid surgery	can	improve vision obstruction
+eyelid surgery	can	correct eyelid malposition
+eyelid surgery	can	treat eyelid tumors
+eyelid surgery	can	repair eyelid injuries
+eyelid surgery	can	correct eyelid droop
+eyelid surgery	can	reduce eye fatigue
+eyelid surgery	can	improve eye comfort
+eyelid surgery	can	correct eyelid entropion
+eyelid surgery	can	correct eyelid ectropion
+eyelid surgery	can	treat blocked tear ducts
+eyelid surgery	can	address functional issues
+eyelid surgery	can	improve eyelid symmetry
+eyelid surgery	can	address cosmetic concerns
+eyelid surgery	can	restore a more youthful appearance
+eyelid surgery	can	improve eyelid function
+eyelid surgery	can	correct vision obstruction caused by sagging eyelids
+eyelid surgery	can	correct conditions like ptosis and entropion
+eyelid surgery	can	enhance the overall facial appearance
+eyelid surgery	can	improve the ability to wear contact lenses
+eyelid surgery	can	reduce eye strain and fatigue
+eyelid surgery	can	improve eye comfort and lubrication
+eyelid surgery	is	a commonly performed oculoplastic procedure
+eyelid surgery	is	considered safe and effective
+eyelid surgery	can	improve peripheral vision
+eyelid surgery	can	address eyelid malposition
+eyelid surgery	can	treat eyelid abnormalities
+eyelid surgery	can	alleviate symptoms of ptosis
+eyelid surgery	can	restore a more alert and youthful appearance
+eyelid surgery	can	enhance the natural beauty of the eyes
+eyelid surgery	can	correct functional and cosmetic issues
+eyelid surgery	can	rejuvenate the appearance of the face
+eyelid surgery	can	improve self-confidence
+eyelid surgery	can	improve the application of eye makeup
+eyelid surgery	can	correct asymmetrical eyelids
+eyelid surgery	can	improve eye health
+eyelid surgery	can	address both medical and aesthetic concerns
+eyelid surgery	can	enhance the overall facial harmony
+eyelid surgery	can	restore a more youthful and vibrant look
+eyelid surgery	can	correct vision impairment
+eyelid surgery	can	correct drooping of the eyelids
+eyelid surgery	can	reduce the appearance of under-eye bags
+eyelid surgery	can	improve the field of vision
+eyelid surgery	can	alleviate discomfort caused by ptosis
+eyelid surgery	can	restore the natural contour of the eyelids
+eyelid surgery	can	improve the symmetry of the eyes
+eyelid surgery	can	correct eyelid asymmetry
+eyelid surgery	can	reduce the signs of aging around the eyes
+eyelid surgery	can	treat eyelid droop caused by muscle weakness
+eyelid surgery	can	enhance the appearance of the eyes and face

@@ -1,0 +1,18 @@
+control of epistaxis	is a	medical intervention
+control of epistaxis	used for	stopping nosebleeds
+nasal packing	is a type of	control of epistaxis
+nasal packing	can stop	severe nosebleeds
+cautery	is a type of	control of epistaxis
+cautery	can cauterize	blood vessels in the nose
+anterior nasal packing	is a type of	nasal packing
+anterior nasal packing	can be used to	stop nosebleeds in the front of the nose
+posterior nasal packing	is a type of	nasal packing
+posterior nasal packing	can be used to	stop nosebleeds in the back of the nose
+endoscopic sphenopalatine artery ligation	is a type of	control of epistaxis
+endoscopic sphenopalatine artery ligation	can ligate	the blood vessels causing nosebleeds
+embolization	is a type of	control of epistaxis
+embolization	can block	the blood vessels causing nosebleeds
+surgery	is a type of	control of epistaxis
+surgery	can repair	damaged blood vessels causing nosebleeds
+compressive dressing	is a type of	control of epistaxis
+compressive dressing	can apply pressure	to stop nosebleeds

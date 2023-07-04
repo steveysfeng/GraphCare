@@ -1,0 +1,25 @@
+diagnostic procedures	are performed on	nose
+diagnostic procedures	are performed on	mouth
+diagnostic procedures	are performed on	pharynx
+nasal endoscopy	is a	diagnostic procedure
+nasal endoscopy	used for	diagnosis
+nasopharynx endoscopy	is a	diagnostic procedure
+nasopharynx endoscopy	used for	diagnosis
+oral endoscopy	is a	diagnostic procedure
+oral endoscopy	used for	diagnosis
+Oropharynx endoscopy	is a	diagnostic procedure
+Oropharynx endoscopy	used for	diagnosis
+pharyngeal endoscopy	is a	diagnostic procedure
+pharyngeal endoscopy	used for	diagnosis
+nose	can be diagnosed with	diagnostic procedures
+mouth	can be diagnosed with	diagnostic procedures
+pharynx	can be diagnosed with	diagnostic procedures
+nasal endoscopy	can detect	obstructions
+nasal endoscopy	can detect	polyps
+nasopharynx endoscopy	can detect	tumors
+nasopharynx endoscopy	can detect	infections
+oral endoscopy	can detect	lesions
+oral endoscopy	can detect	tumors
+Oropharynx endoscopy	can detect	masses
+Oropharynx endoscopy	can detect	ulcers
+pharyngeal endoscopy	can detect	abnormalities

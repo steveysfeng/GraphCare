@@ -1,0 +1,153 @@
+lens procedures	are	eye surgeries
+cataract procedures	are	eye surgeries
+cataract procedures	can restore	vision
+cataract procedures	involve	removal of cloudy lens
+cataract procedures	can be done with	laser
+cataract procedures	can correct	astigmatism
+cataract procedures	can improve	night vision
+cataract procedures	can reduce	dependency on glasses
+cataract procedures	have	risks and complications
+cataract procedures	require	anesthesia
+cataract procedures	can cause	temporary vision impairment
+cataract procedures	are	outpatient procedures
+cataract procedures	are	common surgeries
+cataract procedures	are	typically covered by insurance
+cataract procedures	have	long-term success rate
+cataract procedures	can be combined with	other eye surgeries
+cataract procedures	can be performed	bilaterally
+cataract procedures	can be performed	on one eye at a time
+cataract procedures	are	generally safe
+cataract procedures	can be affected by	other eye conditions
+cataract procedures	are	more common in older adults
+cataract procedures	can improve	color vision
+cataract procedures	can improve	contrast sensitivity
+cataract procedures	may require	post-operative medication
+cataract procedures	may need	follow-up visits
+cataract procedures	can lead to	improved quality of life
+cataract procedures	can cause	glare and halos
+cataract procedures	can cause	dry eye
+cataract procedures	can cause	secondary cataracts
+cataract procedures	can result in	improved near vision
+cataract procedures	can result in	improved distance vision
+cataract procedures	can result in	reduced need for glasses
+cataract procedures	can lead to	improved reading ability
+cataract procedures	can lead to	improved driving ability
+cataract procedures	can restore	vibrant colors
+cataract procedures	can improve	overall vision
+cataract procedures	can enhance	quality of life
+cataract procedures	can involve	lens replacement
+cataract procedures	can involve	intraocular lens implantation
+cataract procedures	can involve	phacoemulsification
+cataract procedures	can involve	small incisions
+cataract procedures	can improve	depth perception
+cataract procedures	can improve	visual acuity
+cataract procedures	can improve	peripheral vision
+cataract procedures	can improve	night driving
+cataract procedures	can improve	daytime activities
+cataract procedures	can reduce	difficulty with bright lights
+cataract procedures	can reduce	glare from headlights
+cataract procedures	can reduce	sun sensitivity
+cataract procedures	can reduce	dependence on contact lenses
+cataract procedures	can reduce	dependence on glasses for reading
+cataract procedures	can reduce	dependence on glasses for distance vision
+cataract procedures	can reduce	dependence on bifocals
+cataract procedures	can reduce	dependence on trifocals
+cataract procedures	can reduce	need for reading glasses
+cataract procedures	can reduce	need for distance glasses
+cataract procedures	can reduce	need for progressive lenses
+cataract procedures	can reduce	need for multifocal lenses
+cataract procedures	can reduce	need for corrective lenses
+cataract procedures	can reduce	need for external eye drops
+cataract procedures	can reduce	need for artificial tears
+cataract procedures	can reduce	need for eye medications
+cataract procedures	can reduce	difficulty with night driving
+cataract procedures	can reduce	difficulty with daytime activities
+cataract procedures	can reduce	difficulty with reading
+cataract procedures	can reduce	difficulty with computer use
+cataract procedures	can reduce	difficulty with watching TV
+cataract procedures	can reduce	difficulty with social activities
+cataract procedures	can reduce	difficulty with outdoor activities
+cataract procedures	can reduce	difficulty with hobbies
+cataract procedures	can reduce	difficulty with sports
+cataract procedures	can reduce	difficulty with driving at night
+cataract procedures	can reduce	difficulty with driving during the day
+cataract procedures	can reduce	difficulty with reading small print
+cataract procedures	can reduce	difficulty with recognizing faces
+cataract procedures	can reduce	difficulty with seeing clearly at a distance
+cataract procedures	can reduce	difficulty with seeing clearly up close
+cataract procedures	can reduce	difficulty with seeing clearly at all distances
+cataract procedures	can improve	overall eye health
+cataract procedures	can improve	eye comfort
+cataract procedures	can improve	eye appearance
+cataract procedures	can improve	eye function
+cataract procedures	can improve	eye alignment
+cataract procedures	can improve	eye symmetry
+cataract procedures	can improve	eye coordination
+cataract procedures	can improve	overall appearance
+cataract procedures	can improve	self-esteem
+cataract procedures	can improve	confidence
+cataract procedures	can improve	self-confidence
+cataract procedures	can improve	self-image
+cataract procedures	can improve	visual aesthetics
+cataract procedures	can improve	face symmetry
+cataract procedures	can improve	facial expression
+cataract procedures	can improve	facial appearance
+cataract procedures	can enhance	overall facial features
+cataract procedures	can enhance	overall facial structure
+lens	is a	medical device
+cataract	is a	medical condition
+cataract	can cause	blurred vision
+cataract surgery	is a type of	lens procedure
+cataract surgery	can improve	vision
+cataract surgery	is performed by	ophthalmologist
+artificial lens	is used in	cataract surgery
+artificial lens	can restore	clear vision
+lens implantation	is a type of	lens procedure
+lens implantation	is performed for	vision correction
+lens implantation	can treat	presbyopia
+phacoemulsification	is a technique used in	cataract surgery
+phacoemulsification	uses	ultrasound energy
+phacoemulsification	breaks up	cataract
+intraocular lens	is inserted during	lens implantation
+intraocular lens	is placed in	eye
+intraocular lens	can correct	refractive errors
+multifocal lens	is a type of	intraocular lens
+multifocal lens	can provide	near and distance vision correction
+monofocal lens	is a type of	intraocular lens
+monofocal lens	provides	single focus vision correction
+toric lens	is a type of	intraocular lens
+toric lens	corrects	astigmatism
+cataract extraction	is a type of	cataract surgery
+cataract extraction	involves	removing the cloudy lens
+cataract extraction	can be performed using	phacoemulsification
+cataract extraction	can be performed using	extracapsular cataract extraction
+laser-assisted cataract surgery	is a type of	cataract surgery
+laser-assisted cataract surgery	uses	laser technology
+laser-assisted cataract surgery	can enhance	precision
+posterior capsule opacification	is a complication of	cataract surgery
+posterior capsule opacification	causes	blurred vision
+posterior capsule opacification	can be treated with	laser capsulotomy
+second eye cataract surgery	is performed after	first eye cataract surgery
+second eye cataract surgery	can improve	binocular vision
+secondary cataract	is a complication of	cataract surgery
+secondary cataract	causes	vision deterioration
+secondary cataract	can be treated with	Nd:YAG laser capsulotomy
+sutureless cataract surgery	is a technique used in	cataract surgery
+sutureless cataract surgery	eliminates	need for sutures
+sutureless cataract surgery	reduces	recovery time
+combined cataract surgery	is a procedure that combines	cataract surgery with another procedure
+combined cataract surgery	can treat	other eye conditions
+refractive lens exchange	is a type of	lens procedure
+refractive lens exchange	can correct	refractive errors
+phakic intraocular lens	is a type of	intraocular lens
+phakic intraocular lens	is used to treat	high refractive errors
+refractive cataract surgery	is a type of	cataract surgery
+refractive cataract surgery	corrects	refractive errors
+refractive cataract surgery	improves	vision
+cataract progression	is the worsening of	cataract
+cataract progression	can lead to	blindness
+cataract progression	can be slowed with	lifestyle changes
+cataract progression	can be monitored with	regular eye exams
+cataract detection	is the diagnosis of	cataract
+cataract detection	can be done with	comprehensive eye exam
+cataract detection	can be done with	retinal examination

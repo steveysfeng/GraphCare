@@ -1,0 +1,63 @@
+vessel surgery	is a	procedure
+vascular access	is a type of	vessel surgery
+vascular access	used for	hemodialysis
+arteriovenous graft	is a type of	vascular access
+arteriovenous graft	used for	vascular access in patients with chronic kidney disease
+arteriovenous graft	requires	surgical placement
+graft infection	is a complication of	arteriovenous graft
+graft infection	can cause	sepsis
+sepsis	has a high risk of	mortality
+arteriovenous fistula	is a type of	vascular access
+arteriovenous fistula	used for	hemodialysis
+arteriovenous fistula	has a lower risk of	infection compared to arteriovenous graft
+arteriovenous fistula	requires	surgical creation
+narrowing of the blood vessels	is a common complication of	arteriovenous fistula
+narrowing of the blood vessels	can lead to	decreased blood flow
+decreased blood flow	may require	angioplasty
+angioplasty	is a procedure to	widen the narrowed blood vessels
+angioplasty	can be performed with	balloon catheter
+balloon catheter	is inserted into	the narrowed blood vessels
+balloon catheter	inflated to	widen the blood vessels
+angioplasty	may be followed by	stent placement
+stent placement	is done to	maintain the widened blood vessels
+stent placement	can prevent	restenosis
+restenosis	is the re-narrowing of	blood vessels after angioplasty
+restenosis	may require	repeat angioplasty or stent placement
+blood clot	is a potential complication of	angioplasty or stent placement
+blood clot	can cause	blockage of blood flow
+blockage of blood flow	leads to	ischemia
+ischemia	can result in	tissue damage
+tissue damage	may require	surgical intervention
+bleeding	is a potential complication of	vessel surgery
+bleeding	can be managed with	hemostasis techniques
+hemostasis techniques	include	sutures and cauterization
+wound infection	is a potential complication of	vessel surgery
+wound infection	requires	antibiotic treatment
+aneurysm	is a condition characterized by	weakened blood vessel wall
+aneurysm	can be treated with	endovascular repair
+endovascular repair	involves	placement of a stent graft
+endovascular repair	can prevent	rupture of the aneurysm
+rupture of the aneurysm	leads to	life-threatening bleeding
+life-threatening bleeding	requires	emergency intervention
+endarterectomy	is a surgical procedure to	remove plaque from blood vessels
+endarterectomy	commonly performed for	carotid artery disease
+endarterectomy	can reduce	risk of stroke
+carotid stenting	is an alternative to	endarterectomy for carotid artery disease
+carotid stenting	involves	placement of a stent in the carotid artery
+carotid stenting	carries	risk of embolization
+embolization	is the movement of	plaque or blood clot
+embolization	can cause	blockage of blood flow in the brain
+blockage of blood flow in the brain	can lead to	stroke
+stroke	requires	immediate medical attention
+stroke	can cause	neurological deficits
+neurological deficits	may require	rehabilitation therapy
+venous thromboembolism	is a potential complication of	vessel surgery
+venous thromboembolism	can lead to	pulmonary embolism
+pulmonary embolism	is a blockage of	blood flow to the lungs
+pulmonary embolism	can be fatal
+peripheral vascular disease	is a condition characterized by	narrowed arteries in the limbs
+peripheral vascular disease	can cause	pain and decreased mobility
+pain and decreased mobility	may require	pharmacological or surgical interventions
+thrombectomy	is a surgical procedure to	remove a blood clot
+thrombectomy	used for	acute arterial occlusion
+thrombectomy	can restore	blood flow to the affected limb

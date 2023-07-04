@@ -1,0 +1,156 @@
+tracheoscopy	is a	medical procedure
+laryngoscopy	is a	medical procedure
+biopsy	is a	medical procedure
+tracheoscopy	used for	diagnosis
+laryngoscopy	used for	diagnosis
+biopsy	used for	diagnosis
+tracheoscopy	can detect	abnormalities
+laryngoscopy	can detect	abnormalities
+biopsy	can detect	abnormalities
+tracheoscopy	can also be used for	treatment
+laryngoscopy	can also be used for	treatment
+biopsy	can also be used for	treatment
+tracheoscopy	performed by	ENT specialist
+laryngoscopy	performed by	ENT specialist
+biopsy	performed by	pathologist
+tracheoscopy	involves	inserting a tube into the trachea
+laryngoscopy	involves	examining the larynx
+biopsy	involves	removing a small tissue sample
+tracheoscopy	helps in	evaluating airway issues
+laryngoscopy	helps in	evaluating vocal cord problems
+biopsy	helps in	evaluating abnormal tissue growth
+tracheoscopy	can lead to	complications
+laryngoscopy	can lead to	complications
+biopsy	can lead to	complications
+tracheoscopy	requires	anesthesia
+laryngoscopy	requires	anesthesia
+biopsy	requires	anesthesia
+tracheoscopy	commonly used in	evaluating tracheal stenosis
+laryngoscopy	commonly used in	evaluating vocal cord nodules
+biopsy	commonly used in	diagnosing cancer
+tracheoscopy	performed using	a tracheoscope
+laryngoscopy	performed using	a laryngoscope
+biopsy	performed using	a biopsy forceps
+tracheoscopy	helps in	assessing the airway anatomy
+laryngoscopy	helps in	assessing vocal cord mobility
+biopsy	helps in	assessing tissue characteristics
+tracheoscopy	can be	uncomfortable
+laryngoscopy	can be	uncomfortable
+biopsy	can be	uncomfortable
+tracheoscopy	may require	sedation
+laryngoscopy	may require	sedation
+biopsy	may require	sedation
+tracheoscopy	can be	performed on an outpatient basis
+laryngoscopy	can be	performed on an outpatient basis
+biopsy	can be	performed on an outpatient basis
+tracheoscopy	can help	diagnose tracheal disorders
+laryngoscopy	can help	diagnose laryngeal abnormalities
+biopsy	can help	diagnose cancerous cells
+tracheoscopy	can be used to	remove foreign objects
+laryngoscopy	can be used to	remove polyps
+biopsy	can be used to	remove suspicious tissue
+tracheoscopy	requires	specialized equipment
+laryngoscopy	requires	specialized equipment
+biopsy	requires	specialized equipment
+tracheoscopy	can visualize	the tracheal wall
+laryngoscopy	can visualize	the laryngeal structures
+biopsy	can reveal	abnormalities in tissue
+tracheoscopy	can be used for	therapeutic interventions
+laryngoscopy	can be used for	therapeutic interventions
+biopsy	can be used for	precise diagnosis
+tracheoscopy	can help	guide treatment decisions
+laryngoscopy	can help	assess vocal cord function
+biopsy	can help	differentiate between benign and malignant tissue
+tracheoscopy	may require	intubation
+laryngoscopy	may require	intubation
+biopsy	may require	intubation
+tracheoscopy	can be	invasive
+laryngoscopy	can be	invasive
+biopsy	can be	invasive
+tracheoscopy	can be used to	evaluate tracheal strictures
+laryngoscopy	can be used to	evaluate laryngeal abnormalities
+biopsy	can be used to	evaluate abnormal tissue growth
+tracheoscopy	can help	determine the cause of airway obstruction
+laryngoscopy	can help	assess vocal cord function
+biopsy	can help	confirm or rule out cancer
+tracheoscopy	can be used to	dilate narrowed airways
+laryngoscopy	can be used to	treat vocal cord lesions
+biopsy	can be used to	remove abnormal tissue for further examination
+tracheoscopy	can be performed	under general anesthesia
+laryngoscopy	can be performed	under general anesthesia
+biopsy	can be performed	under local anesthesia
+tracheoscopy	can be used to	evaluate tracheomalacia
+laryngoscopy	can be used to	evaluate laryngomalacia
+biopsy	can be used to	assess tissue pathology
+tracheoscopy	often used in	evaluating chronic airway diseases
+laryngoscopy	often used in	evaluating vocal cord paralysis
+biopsy	often used in	evaluating suspicious growths
+tracheoscopy	can help in	managing airway disorders
+laryngoscopy	can help in	diagnosing voice disorders
+biopsy	can help in	determining the appropriate treatment
+tracheoscopy	can be used to	examine the tracheal epithelium
+laryngoscopy	can be used to	visualize the vocal cords
+biopsy	can be used to	assess tissue architecture
+tracheoscopy	can lead to	bleeding
+laryngoscopy	can lead to	swelling
+biopsy	can lead to	infection
+tracheoscopy	can cause	irritation
+laryngoscopy	can cause	discomfort
+biopsy	can cause	pain
+tracheoscopy	can examine	tracheal abnormalities
+laryngoscopy	can examine	vocal cord abnormalities
+biopsy	can examine	tissue abnormalities
+tracheoscopy	commonly performed	in the operating room
+laryngoscopy	commonly performed	in the clinic
+biopsy	commonly performed	in the pathology lab
+tracheoscopy	allows for	visualization of the tracheal lumen
+laryngoscopy	allows for	visualization of the larynx
+biopsy	allows for	examination of tissue morphology
+tracheoscopy	can be done	under local anesthesia
+laryngoscopy	can be done	under local anesthesia
+biopsy	can be done	under sedation
+tracheoscopy	can be used to	assess tracheal narrowing
+laryngoscopy	can be used to	evaluate vocal cord function
+biopsy	can be used to	analyze tissue samples
+tracheoscopy	requires	a flexible or rigid scope
+laryngoscopy	requires	a flexible or rigid scope
+biopsy	requires	a biopsy needle
+tracheoscopy	can visualize	tracheobronchial abnormalities
+laryngoscopy	can visualize	laryngeal abnormalities
+biopsy	can provide	a definitive diagnosis
+tracheoscopy	can be used for	foreign body removal
+laryngoscopy	can be used for	vocal cord surgery
+biopsy	can be used for	cancer staging
+tracheoscopy	allows for	direct visualization of the trachea
+laryngoscopy	allows for	direct visualization of the larynx
+biopsy	allows for	analysis of tissue samples
+tracheoscopy	can detect	tracheal tumors
+laryngoscopy	can detect	vocal cord nodules
+biopsy	can detect	cancer cells
+tracheoscopy	can be used for	tracheal dilation
+laryngoscopy	can be used for	vocal cord injection
+biopsy	can be used for	tissue analysis
+tracheoscopy	helps in	evaluating tracheal stenosis
+laryngoscopy	helps in	evaluating vocal cord lesions
+biopsy	helps in	evaluating tissue abnormalities
+tracheoscopy	can be used for	therapeutic interventions
+laryngoscopy	can be used for	therapeutic interventions
+biopsy	can be used for	accurate diagnosis
+tracheoscopy	can help	guide treatment decisions
+laryngoscopy	can help	assess vocal cord function
+biopsy	can help	differentiate between benign and malignant cells
+tracheoscopy	provides	visualization of the tracheal mucosa
+laryngoscopy	provides	visualization of the laryngeal anatomy
+biopsy	provides	tissue samples for analysis
+tracheoscopy	can be	uncomfortable
+laryngoscopy	can be	uncomfortable
+biopsy	can be	uncomfortable
+tracheoscopy	may require	sedation
+laryngoscopy	may require	sedation
+biopsy	may require	sedation
+tracheoscopy	can be	performed outpatient
+laryngoscopy	can be	performed outpatient
+biopsy	can be	performed outpatient
+tracheoscopy	can help	diagnose tracheal disorders
+laryngoscopy	can help	diagnose laryngeal abnormalities
+biopsy	can help	diagnose cancerous cells

@@ -1,0 +1,202 @@
+other therapeutic endocrine procedures	are	medical treatments
+other therapeutic endocrine procedures	involve	hormone manipulation
+radioactive iodine therapy	is a type of	other therapeutic endocrine procedures
+radioactive iodine therapy	used for	hyperthyroidism treatment
+adrenalectomy	is a type of	other therapeutic endocrine procedures
+adrenalectomy	used for	adrenal tumor removal
+transsphenoidal surgery	is a type of	other therapeutic endocrine procedures
+transsphenoidal surgery	used for	pituitary tumor removal
+pancreatectomy	is a type of	other therapeutic endocrine procedures
+pancreatectomy	used for	pancreatic tumor removal
+parathyroidectomy	is a type of	other therapeutic endocrine procedures
+parathyroidectomy	used for	parathyroid gland removal
+radiofrequency ablation	is a type of	other therapeutic endocrine procedures
+radiofrequency ablation	used for	benign nodules treatment
+thyroidectomy	is a type of	other therapeutic endocrine procedures
+thyroidectomy	used for	thyroid cancer treatment
+radiotherapy	is a type of	other therapeutic endocrine procedures
+radiotherapy	used for	cancer treatment
+chemotherapy	is a type of	other therapeutic endocrine procedures
+chemotherapy	used for	cancer treatment
+hormone replacement therapy	is a type of	other therapeutic endocrine procedures
+hormone replacement therapy	used for	hormone deficiency treatment
+pituitary hormone replacement	is a type of	other therapeutic endocrine procedures
+pituitary hormone replacement	used for	pituitary hormone deficiency treatment
+insulin therapy	is a type of	other therapeutic endocrine procedures
+insulin therapy	used for	diabetes treatment
+glucocorticoid therapy	is a type of	other therapeutic endocrine procedures
+glucocorticoid therapy	used for	hormonal imbalance treatment
+calcitonin therapy	is a type of	other therapeutic endocrine procedures
+calcitonin therapy	used for	hypercalcemia treatment
+bisphosphonate therapy	is a type of	other therapeutic endocrine procedures
+bisphosphonate therapy	used for	osteoporosis treatment
+growth hormone therapy	is a type of	other therapeutic endocrine procedures
+growth hormone therapy	used for	growth hormone deficiency treatment
+androgen therapy	is a type of	other therapeutic endocrine procedures
+androgen therapy	used for	hypogonadism treatment
+anti-thyroid medication	is a type of	other therapeutic endocrine procedures
+anti-thyroid medication	used for	hyperthyroidism treatment
+transplantation	is a type of	other therapeutic endocrine procedures
+transplantation	used for	hormone replacement
+minimally invasive surgery	is a type of	other therapeutic endocrine procedures
+minimally invasive surgery	used for	tumor removal
+targeted therapy	is a type of	other therapeutic endocrine procedures
+targeted therapy	used for	cancer treatment
+immunotherapy	is a type of	other therapeutic endocrine procedures
+immunotherapy	used for	cancer treatment
+gene therapy	is a type of	other therapeutic endocrine procedures
+gene therapy	used for	genetic disorders treatment
+steroid therapy	is a type of	other therapeutic endocrine procedures
+steroid therapy	used for	inflammation treatment
+oral contraceptives	is a type of	other therapeutic endocrine procedures
+oral contraceptives	used for	contraception
+bariatric surgery	is a type of	other therapeutic endocrine procedures
+bariatric surgery	used for	weight loss
+tracheostomy	is a type of	other therapeutic endocrine procedures
+tracheostomy	used for	airway opening
+transcranial magnetic stimulation	is a type of	other therapeutic endocrine procedures
+transcranial magnetic stimulation	used for	psychiatric disorders treatment
+pharmacotherapy	is a type of	other therapeutic endocrine procedures
+pharmacotherapy	used for	medical treatment
+physical therapy	is a type of	other therapeutic endocrine procedures
+physical therapy	used for	rehabilitation
+psychological therapy	is a type of	other therapeutic endocrine procedures
+psychological therapy	used for	mental health treatment
+surgical intervention	is a type of	other therapeutic endocrine procedures
+surgical intervention	used for	medical treatment
+other therapeutic endocrine procedures	are	medical procedures
+other therapeutic endocrine procedures	used for	treatment
+thyroidectomy	is a type of	other therapeutic endocrine procedures
+thyroidectomy	can cure	hyperthyroidism
+parathyroidectomy	is a type of	other therapeutic endocrine procedures
+parathyroidectomy	can treat	hyperparathyroidism
+adrenalectomy	is a type of	other therapeutic endocrine procedures
+adrenalectomy	used for	removing adrenal glands
+radiofrequency ablation	is a type of	other therapeutic endocrine procedures
+radiofrequency ablation	can destroy	tumors
+hormone replacement therapy	is a type of	other therapeutic endocrine procedures
+hormone replacement therapy	used for	replacing hormones
+insulin therapy	is a type of	other therapeutic endocrine procedures
+insulin therapy	used for	managing diabetes
+somatostatin analog therapy	is a type of	other therapeutic endocrine procedures
+somatostatin analog therapy	used for	controlling hormonal overproduction
+pancreatectomy	is a type of	other therapeutic endocrine procedures
+pancreatectomy	used for	removing the pancreas
+growth hormone therapy	is a type of	other therapeutic endocrine procedures
+growth hormone therapy	used for	treating growth hormone deficiency
+glucagon-like peptide-1 receptor agonist therapy	is a type of	other therapeutic endocrine procedures
+glucagon-like peptide-1 receptor agonist therapy	used for	managing type 2 diabetes
+thyroid hormone replacement therapy	is a type of	other therapeutic endocrine procedures
+thyroid hormone replacement therapy	used for	treating hypothyroidism
+transsphenoidal surgery	is a type of	other therapeutic endocrine procedures
+transsphenoidal surgery	used for	removing pituitary tumors
+gonadotropin therapy	is a type of	other therapeutic endocrine procedures
+gonadotropin therapy	used for	treating fertility disorders
+parathyroid hormone therapy	is a type of	other therapeutic endocrine procedures
+parathyroid hormone therapy	used for	treating hypoparathyroidism
+androgen deprivation therapy	is a type of	other therapeutic endocrine procedures
+androgen deprivation therapy	used for	treating prostate cancer
+estrogen therapy	is a type of	other therapeutic endocrine procedures
+estrogen therapy	used for	managing menopausal symptoms
+testosterone replacement therapy	is a type of	other therapeutic endocrine procedures
+testosterone replacement therapy	used for	treating testosterone deficiency
+weight loss surgery	is a type of	other therapeutic endocrine procedures
+weight loss surgery	used for	managing obesity
+laparoscopic surgery	is a type of	other therapeutic endocrine procedures
+laparoscopic surgery	used for	performing minimally invasive procedures
+phlebectomy	is a type of	other therapeutic endocrine procedures
+phlebectomy	used for	removing varicose veins
+parathyroid autotransplantation	is a type of	other therapeutic endocrine procedures
+parathyroid autotransplantation	used for	preserving parathyroid function
+cholecystectomy	is a type of	other therapeutic endocrine procedures
+cholecystectomy	used for	removing the gallbladder
+pancreatic enzyme replacement therapy	is a type of	other therapeutic endocrine procedures
+pancreatic enzyme replacement therapy	used for	managing pancreatic enzyme deficiency
+insulin pump therapy	is a type of	other therapeutic endocrine procedures
+insulin pump therapy	used for	delivering insulin
+total thyroidectomy	is a type of	other therapeutic endocrine procedures
+total thyroidectomy	used for	removing the thyroid gland
+urokinase	is a type of	other therapeutic endocrine procedures
+urokinase	used for	dissolving blood clots
+adrenal vein sampling	is a type of	other therapeutic endocrine procedures
+adrenal vein sampling	used for	diagnosing adrenal disorders
+parathyroid hormone level test	is a type of	other therapeutic endocrine procedures
+parathyroid hormone level test	used for	monitoring calcium level
+parathyroid hormone receptor agonist therapy	is a type of	other therapeutic endocrine procedures
+parathyroid hormone receptor agonist therapy	used for	treating hypoparathyroidism
+levothyroxine therapy	is a type of	other therapeutic endocrine procedures
+levothyroxine therapy	used for	managing hypothyroidism
+adrenal hormone replacement therapy	is a type of	other therapeutic endocrine procedures
+adrenal hormone replacement therapy	used for	treating adrenal hormone deficiency
+cortisol replacement therapy	is a type of	other therapeutic endocrine procedures
+cortisol replacement therapy	used for	managing adrenal insufficiency
+insulin pump	is a type of	other therapeutic endocrine procedures
+insulin pump	used for	delivering insulin
+adrenal scan	is a type of	other therapeutic endocrine procedures
+adrenal scan	used for	imaging adrenal glands
+parathyroid hormone	is a type of	other therapeutic endocrine procedures
+parathyroid hormone	regulates	calcium levels
+thyroid hormone	is a type of	other therapeutic endocrine procedures
+thyroid hormone	regulates	metabolism
+insulin	is a type of	other therapeutic endocrine procedures
+insulin	regulates	blood sugar levels
+testosterone	is a type of	other therapeutic endocrine procedures
+testosterone	regulates	sexual characteristics
+hormones	are	substances
+hormones	regulate	bodily functions
+endocrine glands	are	organs
+endocrine glands	produce	hormones
+adrenal glands	are	endocrine glands
+adrenal glands	produce	adrenaline
+pituitary gland	is an	endocrine gland
+pituitary gland	produces	growth hormone
+parathyroid glands	are	endocrine glands
+parathyroid glands	produce	parathyroid hormone
+thyroid gland	is an	endocrine gland
+thyroid gland	produces	thyroid hormone
+pancreas	is an	organ
+pancreas	produces	insulin
+gallbladder	is	an organ
+gallbladder	stores	bile
+insulin resistance	is a	condition
+insulin resistance	affects	blood sugar control
+thyroid storm	is a	condition
+thyroid storm	can be	life-threatening
+hypoglycemia	is a	condition
+hypoglycemia	causes	low blood sugar levels
+hyperthyroidism	is a	condition
+hyperthyroidism	causes	excessive thyroid hormone production
+hypothyroidism	is a	condition
+hypothyroidism	causes	insufficient thyroid hormone production
+hyperparathyroidism	is a	condition
+hyperparathyroidism	causes	excess parathyroid hormone secretion
+hypoparathyroidism	is a	condition
+hypoparathyroidism	causes	low parathyroid hormone levels
+diabetes	is a	condition
+diabetes	affects	blood sugar control
+prostate cancer	is a	condition
+prostate cancer	affects	the prostate gland
+menopause	is a	condition
+menopause	affects	women
+osteoporosis	is a	condition
+osteoporosis	causes	bone density loss
+high cholesterol	is a	condition
+high cholesterol	affects	lipid levels
+obesity	is a	condition
+obesity	causes	excess body fat
+varicose veins	are	a condition
+varicose veins	cause	vein enlargement
+blood clot	is a	condition
+blood clot	causes	blockage in blood vessels
+adrenal insufficiency	is a	condition
+adrenal insufficiency	causes	low cortisol levels
+calcium	is a	noun
+calcium	is	a mineral
+blood sugar	is a	noun
+blood sugar	refers to	glucose levels
+metabolism	is a	noun
+metabolism	refers to	chemical reactions
+sexual characteristics	are	nouns
+sexual characteristics	refer to	physical traits
+bodily functions	are	nouns
+bodily functions	refer to	physiological processes

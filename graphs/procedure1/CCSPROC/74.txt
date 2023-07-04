@@ -1,0 +1,114 @@
+gastrectomy	is a	surgical procedure
+gastrectomy	used for	treating stomach cancer
+partial gastrectomy	is a type of	gastrectomy
+partial gastrectomy	removes	a portion of the stomach
+total gastrectomy	is a type of	gastrectomy
+total gastrectomy	removes	the entire stomach
+gastrectomy	can lead to	nutritional deficiencies
+gastrectomy	may require	dietary changes
+gastrectomy	can result in	weight loss
+gastrectomy	may cause	dumping syndrome
+dumping syndrome	is a	side effect
+dumping syndrome	causes	rapid emptying of the stomach
+gastrectomy	has a risk of	infection
+gastrectomy	can be performed	laparoscopically
+laparoscopic gastrectomy	is a type of	gastrectomy
+gastrectomy	carries a risk of	bleeding
+gastrectomy	can be performed	robotically
+robotic gastrectomy	is a type of	gastrectomy
+gastrectomy	may require	post-operative chemotherapy
+gastrectomy	has a risk of	blood clots
+gastrectomy	can lead to	anemia
+gastrectomy	can result in	difficulty swallowing
+gastrectomy	may require	lifelong vitamin supplementation
+gastrectomy	carries a risk of	leaks
+gastrectomy	can lead to	changes in digestion
+gastrectomy	may require	a stomach reconstruction
+gastrectomy	can result in	changes in appetite
+gastrectomy	may cause	early satiety
+gastrectomy	carries a risk of	hernias
+gastrectomy	can lead to	changes in bowel movements
+gastrectomy	may require	long-term follow-up
+gastrectomy	has a risk of	post-operative complications
+gastrectomy	can result in	reflux
+gastrectomy	may require	a feeding tube
+gastrectomy	carries a risk of	gastric stump cancer
+gastrectomy	can lead to	difficulty absorbing nutrients
+gastrectomy	may cause	iron deficiency
+gastrectomy	carries a risk of	anastomotic leaks
+gastrectomy	can result in	chronic pain
+gastrectomy	has a risk of	bowel obstruction
+gastrectomy	can lead to	changes in taste
+gastrectomy	may require	psychological support
+gastrectomy	carries a risk of	infection at the surgical site
+gastrectomy	can result in	decreased appetite
+gastrectomy	may cause	vitamin B12 deficiency
+gastrectomy	carries a risk of	fistula formation
+gastrectomy	can lead to	malabsorption of nutrients
+gastrectomy	may require	a liquid or soft diet
+gastrectomy	has a risk of	anastomotic stricture
+gastrectomy	can result in	fatigue
+gastrectomy	may cause	dumping syndrome symptoms
+gastrectomy	carries a risk of	pneumonia
+gastrectomy	can lead to	changes in body weight
+gastrectomy	may require	physical therapy
+gastrectomy	has a risk of	adhesions
+gastrectomy	can result in	changes in bowel habits
+gastrectomy	may cause	reflux symptoms
+gastrectomy	carries a risk of	surgical site pain
+gastrectomy	can lead to	changes in metabolism
+gastrectomy	may require	a nasogastric tube
+gastrectomy	has a risk of	lymphedema
+gastrectomy	can result in	muscle weakness
+gastrectomy	may cause	difficulty chewing
+gastrectomy	carries a risk of	anastomotic bleeding
+gastrectomy	can lead to	changes in hormone levels
+gastrectomy	may require	anti-reflux medication
+gastrectomy	has a risk of	delayed gastric emptying
+gastrectomy	can result in	emotional changes
+gastrectomy	may cause	changes in body image
+gastrectomy	carries a risk of	recurrence of stomach cancer
+gastrectomy	can lead to	an increase in bowel movements
+gastrectomy	may require	endoscopic surveillance
+gastrectomy	has a risk of	nerve damage
+gastrectomy	can result in	changes in sleep patterns
+gastrectomy	may cause	changes in appetite regulation
+gastrectomy	carries a risk of	anastomotic strictures
+gastrectomy	can lead to	changes in blood sugar levels
+gastrectomy	may require	nutritional counseling
+gastrectomy	has a risk of	surgical site infections
+gastrectomy	can result in	changes in body composition
+gastrectomy	may cause	changes in acid reflux
+gastrectomy	carries a risk of	anastomotic leaks
+gastrectomy	can lead to	changes in bowel function
+gastrectomy	may require	regular blood tests
+gastrectomy	has a risk of	wound dehiscence
+gastrectomy	can result in	changes in taste preferences
+gastrectomy	may cause	changes in odor perception
+gastrectomy	carries a risk of	lymph node dissection
+gastrectomy	can lead to	changes in hormonal balance
+gastrectomy	may require	medication adjustments
+gastrectomy	has a risk of	surgical site seroma formation
+gastrectomy	can result in	changes in energy levels
+gastrectomy	may cause	changes in digestive enzymes
+gastrectomy	carries a risk of	anastomotic strictures
+gastrectomy	can lead to	changes in bone health
+gastrectomy	may require	vitamin and mineral supplements
+gastrectomy	has a risk of	lymphatic complications
+gastrectomy	can result in	changes in self-esteem
+gastrectomy	may cause	changes in appearance
+gastrectomy	carries a risk of	post-operative ileus
+gastrectomy	can lead to	changes in kidney function
+gastrectomy	may require	long-term surveillance
+gastrectomy	has a risk of	anastomotic dehiscence
+gastrectomy	can result in	changes in mental health
+gastrectomy	may cause	digestive issues
+gastrectomy	carries a risk of	anastomotic strictures
+gastrectomy	can lead to	changes in cholesterol levels
+gastrectomy	may require	regular follow-up appointments
+gastrectomy	has a risk of	lymphadenectomy
+gastrectomy	can result in	changes in fertility
+gastrectomy	may cause	changes in body temperature regulation
+gastrectomy	carries a risk of	delayed wound healing
+gastrectomy	can lead to	changes in mental well-being
+gastrectomy	may require	digestive enzyme supplements

@@ -1,0 +1,251 @@
+ptca	is a	medical procedure
+ptca	used for	treating coronary artery disease
+ptca	can restore	blood flow
+ptca	is a type of	angioplasty
+ptca	can be performed on	narrowed or blocked coronary arteries
+ptca	may be recommended for	patients with angina
+ptca	can improve	exercise capacity
+ptca	can reduce	chest pain
+ptca	may require	the placement of a stent
+ptca	carries a risk of	complications
+ptca	requires	a skilled interventional cardiologist
+ptca	is typically performed in	a catheterization laboratory
+ptca	may require	sedation or anesthesia
+ptca	can be done as	an outpatient procedure
+ptca	is not suitable for	all patients with coronary artery disease
+ptca	may be followed by	cardiac rehabilitation
+ptca	may require	lifestyle changes
+ptca	is less invasive than	coronary artery bypass surgery
+ptca	is associated with	improved quality of life
+ptca	is performed using	a thin flexible tube called a catheter
+ptca	has a risk of	restenosis
+ptca	should be followed by	regular medical check-ups
+ptca	is not a permanent solution for	coronary artery disease
+ptca	may be repeated	if necessary
+ptca	is an effective treatment for	certain patients
+ptca	is a less expensive option compared to	coronary artery bypass surgery
+ptca	has a success rate of	about 90%
+ptca	may be combined with	other procedures
+ptca	can reduce the need for	medication
+ptca	can improve	overall heart function
+ptca	may require	pre-procedure testing
+ptca	is contraindicated in	certain patients with bleeding disorders
+ptca	is associated with	a shorter recovery time compared to surgery
+ptca	is associated with	a lower risk of infection compared to surgery
+ptca	is associated with	a lower risk of complications compared to surgery
+ptca	can be a life-saving procedure for	patients with coronary artery disease
+ptca	may be recommended for	patients with high-risk coronary lesions
+ptca	is guided by	imaging techniques such as fluoroscopy
+ptca	requires	post-procedure care and monitoring
+ptca	may be performed in	emergency situations
+ptca	may be performed as	a planned procedure
+ptca	is essential for	restoring blood flow to the heart
+ptca	may be performed in	multiple vessels
+ptca	can improve	quality of life
+ptca	may have	long-term benefits
+ptca	should be followed by	medication compliance
+ptca	may be necessary before	certain cardiac surgeries
+ptca	can be a palliative treatment for	patients with advanced coronary artery disease
+ptca	can be used as	a diagnostic tool
+ptca	is associated with	a risk of bleeding
+ptca	may require	anticoagulation therapy
+ptca	may not be suitable for	patients with small or tortuous coronary arteries
+ptca	is performed using	a local anesthetic
+ptca	may be performed in combination with	drug-eluting stents
+ptca	may require	balloon inflation
+ptca	may require	contrast dye injection
+ptca	may be performed using	radial access
+ptca	may be performed using	femoral access
+ptca	can increase	survival rates for certain patients
+ptca	is a minimally invasive alternative to	surgery
+ptca	may be performed in	patients with acute coronary syndrome
+ptca	may reduce	the risk of heart attack
+ptca	may have	a longer-lasting effect than medication alone
+ptca	can improve	the success rate of subsequent procedures
+ptca	may be performed in	patients with chronic stable angina
+ptca	may not be suitable for	patients with severe heart failure
+ptca	can decrease	the need for repeat revascularization
+ptca	may be used as	a temporary measure before surgery
+ptca	is associated with	a shorter hospital stay compared to surgery
+ptca	can be a cost-effective treatment option
+ptca	is a common procedure in	interventional cardiology
+ptca	can improve	coronary artery patency
+ptca	may result in	partial or complete relief of symptoms
+ptca	should be performed by	a highly skilled interventional cardiologist
+ptca	should only be performed	after careful evaluation
+ptca	may require	blood thinning medication after the procedure
+ptca	is important for	managing coronary artery disease
+ptca	has a risk of	vessel dissection
+ptca	is a non-surgical option for	coronary artery disease treatment
+ptca	can be a first-line treatment for	certain patients
+ptca	is associated with	a risk of renal complications
+ptca	may be performed with	the use of intravascular ultrasound
+ptca	may be performed with	the use of optical coherence tomography
+ptca	may require	specialized equipment
+ptca	may require	balloon catheter dilation
+ptca	may require	the use of atherectomy devices
+ptca	can improve	coronary artery blood flow
+ptca	may be performed using	drug-eluting balloons
+ptca	may be performed using	bare-metal stents
+ptca	may be performed using	drug-eluting stents
+ptca	may be performed using	bioresorbable stents
+ptca	can be a treatment option for	patients with high-risk lesions
+ptca	can be a treatment option for	patients with chronic total occlusions
+ptca	may be performed using	rotational atherectomy
+ptca	may require	post-procedure medication
+ptca	may require	lifestyle modifications
+ptca	may require	rehabilitation therapy
+ptca	may require	cardiac imaging after the procedure
+ptca	may require	follow-up angiography
+ptca	is an important tool for	interventional cardiologists
+ptca	can improve	cardiac function
+ptca	may be recommended as	an alternative to bypass surgery
+ptca	may be recommended as	a first-line treatment
+ptca	has a risk of	arterial rupture
+ptca	has a risk of	blood clot formation
+ptca	has a risk of	restenosis
+ptca	may be accompanied by	intravascular imaging
+ptca	may be accompanied by	fractional flow reserve measurement
+ptca	may require	pre-procedure counseling
+ptca	can prolong	survival in certain patients
+ptca	requires	a skilled interventional team
+ptca	is associated with	a risk of radiation exposure
+ptca	can be performed using	a radial artery approach
+ptca	can be performed using	a femoral artery approach
+ptca	may require	the administration of antiplatelet drugs
+ptca	may require	long-term medication therapy
+ptca	may require	the use of anticoagulant medications
+ptca	is a widely used technique for	opening blocked arteries
+ptca	may require	pre-procedure fasting
+ptca	may require	post-procedure pain management
+ptca	may require	post-procedure wound care
+ptca	can be a life-saving intervention for	patients with acute coronary syndromes
+ptca	can improve	quality of life for patients with coronary artery disease
+ptca	may be performed using	a minimally invasive approach
+ptca	can be performed as	an emergency procedure
+ptca	may require	rest and recovery after the procedure
+ptca	requires	the use of x-ray guidance during the procedure
+ptca	may require	the use of intravenous fluids during the procedure
+ptca	may require	a temporary pacemaker during the procedure
+ptca	may be performed using	a cutting balloon
+ptca	may be performed using	a scoring balloon
+ptca	may be performed using	a drug-coated balloon
+ptca	may be performed using	a laser catheter
+ptca	may require	the use of thrombolytic agents
+ptca	may require	the use of antispasmodic agents
+ptca	may require	the use of vasoactive agents
+ptca	may require	the administration of intravenous heparin
+ptca	may require	the administration of antiplatelet agents
+ptca	may require	post-procedure monitoring
+ptca	may require	post-procedure imaging
+ptca	may require	post-procedure medication adjustments
+ptca	may require	post-procedure lifestyle changes
+ptca	may require	long-term follow-up care
+ptca	can be an effective treatment option for	patients with multivessel disease
+ptca	can be a preferred treatment option for	patients with certain coronary lesions
+ptca	may require	pre-procedure blood tests
+ptca	may require	pre-procedure heart function tests
+ptca	may require	pre-procedure imaging tests
+ptca	can improve	blood flow to the heart muscle
+ptca	can improve	myocardial perfusion
+ptca	may be performed using	a composite graft
+ptca	may be performed using	a saphenous vein graft
+ptca	may be performed using	a radial artery graft
+ptca	can prevent	myocardial infarction
+ptca	can prevent	cardiac arrest
+ptca	can prevent	sudden cardiac death
+ptca	may require	the use of prophylactic antibiotics
+ptca	may require	the use of vasoconstrictor agents
+ptca	may require	the use of vasodilator agents
+ptca	may require	a longer hospital stay for certain patients
+ptca	may require	angioplasty in multiple vessels
+ptca	may require	the use of distal protection devices
+ptca	may require	the use of embolic protection devices
+ptca	may require	the use of thrombotic protection devices
+ptca	may require	the administration of nitroglycerin
+ptca	is associated with	a risk of arrhythmias
+ptca	may be performed using	a brachial artery approach
+ptca	is associated with	a risk of contrast-induced nephropathy
+ptca	is associated with	a risk of contrast-induced acute kidney injury
+ptca	should only be performed	by experienced operators
+ptca	should be followed by	medication adherence
+ptca	may require	the administration of intravenous fluids
+ptca	may require	the administration of intravenous sedation
+ptca	may require	the administration of intravenous analgesics
+ptca	may require	post-procedure monitoring in a cardiac care unit
+ptca	may require	angiography following the procedure
+ptca	may require	pre-procedure anticoagulation therapy
+ptca	requires	precise catheter manipulation
+ptca	requires	careful patient selection
+ptca	may require	the administration of antiplatelet therapy for an extended duration
+ptca	should be performed	with informed patient consent
+ptca	should be performed	in collaboration with multidisciplinary teams
+ptca	may require	the use of atherectomy devices in calcified lesions
+ptca	may require	the use of cutting balloons in fibrotic lesions
+ptca	may require	the use of scoring balloons in resistant lesions
+ptca	may require	the use of drug-coated balloons in restenotic lesions
+ptca	may require	the use of laser catheters in complex lesions
+ptca	may require	the use of thrombectomy devices in thrombotic lesions
+ptca	may require	the use of rotational atherectomy in heavily calcified lesions
+ptca	may require	the use of brachytherapy in patients at high risk for restenosis
+ptca	may require	the use of stent grafts in patients with excessive dissection
+ptca	may require	the use of chronic total occlusion devices in total occlusions
+ptca	may require	the use of intravascular ultrasound for lesion assessment
+ptca	may require	the use of optical coherence tomography for lesion assessment
+ptca	should only be performed	in medically stable patients
+ptca	may require	assessment of coronary artery collateral circulation
+ptca	may require	evaluation of coronary artery flow reserve
+ptca	may require	evaluation of fractional flow reserve
+ptca	may require	pre-procedure stress testing
+ptca	may require	the administration of heparin during the procedure
+ptca	may require	the administration of clopidogrel after the procedure
+ptca	may require	the administration of ticagrelor after the procedure
+ptca	may require	the administration of prasugrel after the procedure
+ptca	may require	the administration of bivalirudin during the procedure
+ptca	may require	the administration of glycoprotein IIb/IIIa inhibitors during the procedure
+ptca	may require	the administration of aspirin after the procedure
+ptca	may require	antiplatelet therapy for an extended duration after the procedure
+ptca	should only be performed	in hospitals with appropriate facilities
+ptca	may require	the administration of anticoagulants after the procedure
+ptca	may require	the administration of anti-arrhythmic medications after the procedure
+ptca	may require	the administration of statins after the procedure
+ptca	may require	the administration of beta-blockers after the procedure
+ptca	may require	the administration of ACE inhibitors after the procedure
+ptca	may require	the administration of calcium channel blockers after the procedure
+ptca	may require	the administration of nitrates after the procedure
+ptca	may require	the administration of diuretics after the procedure
+ptca	may require	the administration of angiotensin receptor blockers after the procedure
+ptca	may require	the administration of aldosterone antagonists after the procedure
+ptca	may require	the administration of digitalis after the procedure
+ptca	may require	the administration of potassium-sparing diuretics after the procedure
+ptca	may require	the administration of vasodilators after the procedure
+ptca	may require	the administration of anticoagulants for an extended duration after the procedure
+ptca	may require	the administration of anti-platelet therapy for an extended duration after the procedure
+ptca	may require	the administration of anti-arrhythmic medications for an extended duration after the procedure
+ptca	may require	the administration of statins for an extended duration after the procedure
+ptca	may require	the administration of beta-blockers for an extended duration after the procedure
+ptca	may require	the administration of ACE inhibitors for an extended duration after the procedure
+ptca	may require	the administration of calcium channel blockers for an extended duration after the procedure
+ptca	may require	the administration of nitrates for an extended duration after the procedure
+ptca	may require	the administration of diuretics for an extended duration after the procedure
+ptca	may require	the administration of angiotensin receptor blockers for an extended duration after the procedure
+ptca	may require	the administration of aldosterone antagonists for an extended duration after the procedure
+ptca	may require	the administration of digitalis for an extended duration after the procedure
+ptca	may require	the administration of potassium-sparing diuretics for an extended duration after the procedure
+ptca	may require	the administration of vasodilators for an extended duration after the procedure
+ptca	should only be performed	by skilled interventionists in interventional cardiology
+ptca	may require	the administration of antiplatelet therapy for several months after the procedure
+ptca	may require	the administration of proton pump inhibitors after the procedure
+ptca	may require	the administration of H2 receptor blockers after the procedure
+ptca	may require	the administration of sucralfate after the procedure
+ptca	may require	the administration of anticholinergic agents after the procedure
+ptca	may require	the administration of antiemetic agents after the procedure
+ptca	may require	the administration of antidiarrheal agents after the procedure
+ptca	may require	the administration of laxatives after the procedure
+ptca	may require	the administration of stool softeners after the procedure
+ptca	may require	the administration of anti-constipation agents after the procedure
+ptca	may require	dietary modifications after the procedure
+ptca	may require	the administration of antispasmodic medications after the procedure
+ptca	may require	careful monitoring for complications after the procedure
+ptca	may require	therapy for coronary artery disease after the procedure
+ptca	may require	the administration of medications to prevent recurrent blockage after the procedure

@@ -1,0 +1,173 @@
+diagnostic endocrine procedures	are	medical procedures
+diagnostic endocrine procedures	used for	diagnosis
+diagnostic endocrine procedures	help in	identifying hormonal imbalances
+thyroid function test	is a type of	diagnostic endocrine procedures
+thyroid function test	measures	hormone levels
+thyroid function test	can diagnose	hypothyroidism
+thyroid function test	can diagnose	hyperthyroidism
+hormone stimulation test	is a type of	diagnostic endocrine procedures
+hormone stimulation test	assesses	hormone response
+hormone stimulation test	can diagnose	hormonal deficiencies
+hormone stimulation test	can diagnose	hormone excess
+dynamic testing	is a type of	diagnostic endocrine procedures
+dynamic testing	evaluates	hormonal changes
+dynamic testing	can diagnose	hormonal disorders
+dynamic testing	can measure	hormone secretion
+dexamethasone suppression test	is a type of	diagnostic endocrine procedures
+dexamethasone suppression test	helps in	diagnosing Cushing's syndrome
+dexamethasone suppression test	helps in	determining adrenal gland dysfunction
+insulin tolerance test	is a type of	diagnostic endocrine procedures
+insulin tolerance test	assesses	adrenal function
+insulin tolerance test	measures	growth hormone secretion
+insulin tolerance test	checks	pituitary function
+radioactive iodine uptake test	is a type of	diagnostic endocrine procedures
+radioactive iodine uptake test	measures	thyroid function
+radioactive iodine uptake test	helps in	diagnosing thyroid disorders
+radioactive iodine uptake test	determines	the size of the thyroid gland
+thyroid scan	is a type of	diagnostic endocrine procedures
+thyroid scan	assesses	thyroid function
+thyroid scan	detects	abnormal thyroid growth
+thyroid scan	identifies	thyroid nodules
+thyroid ultrasound	is a type of	diagnostic endocrine procedures
+thyroid ultrasound	visualizes	the thyroid gland
+thyroid ultrasound	detects	thyroid nodules
+thyroid ultrasound	identifies	thyroid cysts
+adrenal vein sampling	is a type of	diagnostic endocrine procedures
+adrenal vein sampling	measures	hormone levels
+adrenal vein sampling	helps in	diagnosing hormone-producing tumors
+parathyroid hormone assay	is a type of	diagnostic endocrine procedures
+parathyroid hormone assay	measures	parathyroid hormone levels
+parathyroid hormone assay	helps in	diagnosing parathyroid disorders
+parathyroid hormone assay	evaluates	calcium metabolism
+ACTH stimulation test	is a type of	diagnostic endocrine procedures
+ACTH stimulation test	assesses	adrenal and pituitary function
+ACTH stimulation test	helps in	diagnosing Addison's disease
+ACTH stimulation test	helps in	diagnosing Cushing's syndrome
+insulin-like growth factor 1 assay	is a type of	diagnostic endocrine procedures
+insulin-like growth factor 1 assay	measures	growth hormone levels
+insulin-like growth factor 1 assay	helps in	diagnosing growth hormone deficiencies
+insulin-like growth factor 1 assay	helps in	diagnosing acromegaly
+calcitonin assay	is a type of	diagnostic endocrine procedures
+calcitonin assay	measures	calcitonin levels
+calcitonin assay	helps in	diagnosing medullary thyroid cancer
+calcitonin assay	evaluates	thyroid function
+cortisol assay	is a type of	diagnostic endocrine procedures
+cortisol assay	measures	cortisol levels
+cortisol assay	helps in	diagnosing adrenal insufficiency
+cortisol assay	helps in	diagnosing Cushing's syndrome
+follicle-stimulating hormone assay	is a type of	diagnostic endocrine procedures
+follicle-stimulating hormone assay	measures	follicle-stimulating hormone levels
+follicle-stimulating hormone assay	helps in	diagnosing infertility
+follicle-stimulating hormone assay	helps in	evaluating pituitary function
+insulin assay	is a type of	diagnostic endocrine procedures
+insulin assay	measures	insulin levels
+insulin assay	helps in	diagnosing diabetes
+insulin assay	helps in	monitoring insulin therapy
+luteinizing hormone assay	is a type of	diagnostic endocrine procedures
+luteinizing hormone assay	measures	luteinizing hormone levels
+luteinizing hormone assay	helps in	diagnosing hormonal disorders
+luteinizing hormone assay	helps in	evaluating pituitary function
+parathyroid hormone-related peptide assay	is a type of	diagnostic endocrine procedures
+parathyroid hormone-related peptide assay	measures	parathyroid hormone-related peptide levels
+parathyroid hormone-related peptide assay	helps in	diagnosing hypercalcemia
+parathyroid hormone-related peptide assay	helps in	diagnosing certain cancers
+prolactin assay	is a type of	diagnostic endocrine procedures
+prolactin assay	measures	prolactin levels
+prolactin assay	helps in	diagnosing pituitary tumors
+prolactin assay	helps in	evaluating infertility
+thyroid autoantibody assay	is a type of	diagnostic endocrine procedures
+thyroid autoantibody assay	detects	thyroid autoantibodies
+thyroid autoantibody assay	helps in	diagnosing autoimmune thyroid disorders
+thyroid autoantibody assay	helps in	evaluating thyroid function
+thyroid-stimulating hormone assay	is a type of	diagnostic endocrine procedures
+thyroid-stimulating hormone assay	measures	thyroid-stimulating hormone levels
+thyroid-stimulating hormone assay	helps in	diagnosing thyroid disorders
+thyroid-stimulating hormone assay	helps in	evaluating thyroid function
+diagnostic endocrine procedures	are used for	diagnosis
+diagnostic endocrine procedures	involve	hormone testing
+diagnostic endocrine procedures	can detect	hormonal imbalances
+diagnostic endocrine procedures	are performed by	endocrinologists
+endocrinologists	specialize in	diagnostic endocrine procedures
+diagnostic endocrine procedures	can diagnose	thyroid disorders
+diagnostic endocrine procedures	can diagnose	adrenal gland disorders
+diagnostic endocrine procedures	can diagnose	pituitary gland disorders
+diagnostic endocrine procedures	can diagnose	pancreatic disorders
+diagnostic endocrine procedures	can diagnose	ovarian disorders
+diagnostic endocrine procedures	can diagnose	testicular disorders
+diagnostic endocrine procedures	can diagnose	parathyroid disorders
+diagnostic endocrine procedures	can diagnose	hypothalamic disorders
+diagnostic endocrine procedures	can diagnose	genetic endocrine disorders
+diagnostic endocrine procedures	can diagnose	metabolic disorders
+diagnostic endocrine procedures	can diagnose	fertility problems
+diagnostic endocrine procedures	can diagnose	growth disorders
+diagnostic endocrine procedures	can diagnose	diabetes
+diagnostic endocrine procedures	can diagnose	menopause
+diagnostic endocrine procedures	can diagnose	precocious puberty
+diagnostic endocrine procedures	can diagnose	delayed puberty
+diagnostic endocrine procedures	can diagnose	hirsutism
+diagnostic endocrine procedures	can diagnose	gynecomastia
+diagnostic endocrine procedures	can diagnose	galactorrhea
+diagnostic endocrine procedures	can diagnose	osteoporosis
+diagnostic endocrine procedures	can diagnose	hypercalcemia
+diagnostic endocrine procedures	can diagnose	hypoglycemia
+diagnostic endocrine procedures	can diagnose	hypogonadism
+diagnostic endocrine procedures	can diagnose	hyperthyroidism
+diagnostic endocrine procedures	can diagnose	hypothyroidism
+diagnostic endocrine procedures	can diagnose	cushing's syndrome
+diagnostic endocrine procedures	can diagnose	addison's disease
+diagnostic endocrine procedures	can diagnose	gigantism
+diagnostic endocrine procedures	can diagnose	acromegaly
+diagnostic endocrine procedures	can diagnose	graves' disease
+diagnostic endocrine procedures	can diagnose	hashimoto's thyroiditis
+diagnostic endocrine procedures	can diagnose	goiter
+diagnostic endocrine procedures	can diagnose	pheochromocytoma
+diagnostic endocrine procedures	can diagnose	insulinoma
+diagnostic endocrine procedures	can diagnose	polycystic ovary syndrome
+diagnostic endocrine procedures	can diagnose	congenital adrenal hyperplasia
+diagnostic endocrine procedures	can diagnose	multiple endocrine neoplasia
+diagnostic endocrine procedures	can diagnose	androgen insensitivity syndrome
+diagnostic endocrine procedures	can diagnose	turner syndrome
+diagnostic endocrine procedures	can diagnose	klinefelter syndrome
+diagnostic endocrine procedures	can diagnose	down syndrome
+diagnostic endocrine procedures	can diagnose	angelman syndrome
+diagnostic endocrine procedures	can diagnose	prader-willi syndrome
+diagnostic endocrine procedures	can diagnose	marfan syndrome
+diagnostic endocrine procedures	can diagnose	fanconi anemia
+diagnostic endocrine procedures	can diagnose	mucopolysaccharidosis
+diagnostic endocrine procedures	can diagnose	tay-sachs disease
+diagnostic endocrine procedures	can diagnose	sickle cell disease
+diagnostic endocrine procedures	can diagnose	cystic fibrosis
+diagnostic endocrine procedures	can diagnose	hemophilia
+diagnostic endocrine procedures	can diagnose	thalassemia
+diagnostic endocrine procedures	can detect	hormonal deficiencies
+diagnostic endocrine procedures	can detect	excess hormone production
+diagnostic endocrine procedures	can detect	tumors in endocrine glands
+diagnostic endocrine procedures	can detect	abnormal growth hormone levels
+diagnostic endocrine procedures	can detect	abnormal thyroid hormone levels
+diagnostic endocrine procedures	can detect	abnormal adrenal hormone levels
+diagnostic endocrine procedures	can detect	abnormal insulin levels
+diagnostic endocrine procedures	can detect	abnormal estrogen levels
+diagnostic endocrine procedures	can detect	abnormal testosterone levels
+diagnostic endocrine procedures	can detect	abnormal cortisol levels
+diagnostic endocrine procedures	can detect	abnormal prolactin levels
+diagnostic endocrine procedures	can detect	abnormal parathyroid hormone levels
+diagnostic endocrine procedures	can detect	abnormal pituitary hormone levels
+diagnostic endocrine procedures	can detect	abnormal thyroid-stimulating hormone levels
+diagnostic endocrine procedures	can detect	abnormal follicle-stimulating hormone levels
+diagnostic endocrine procedures	can detect	abnormal luteinizing hormone levels
+diagnostic endocrine procedures	can detect	abnormal growth hormone-releasing hormone levels
+diagnostic endocrine procedures	can detect	abnormal insulin-like growth factor-1 levels
+diagnostic endocrine procedures	can detect	abnormal adrenocorticotropic hormone levels
+diagnostic endocrine procedures	can detect	abnormal antidiuretic hormone levels
+diagnostic endocrine procedures	can detect	abnormal oxytocin levels
+diagnostic endocrine procedures	can detect	abnormal calcitonin levels
+diagnostic endocrine procedures	can detect	abnormal aldosterone levels
+diagnostic endocrine procedures	can detect	abnormal renin levels
+diagnostic endocrine procedures	can detect	abnormal testosterone-binding globulin levels
+diagnostic endocrine procedures	can detect	abnormal sex hormone-binding globulin levels
+diagnostic endocrine procedures	can detect	abnormal thyroid-binding globulin levels
+diagnostic endocrine procedures	can detect	abnormal insulin-like growth factor-binding protein levels
+diagnostic endocrine procedures	can detect	abnormal parathyroid hormone-related protein levels
+diagnostic endocrine procedures	can detect	abnormal placental lactogen levels
+diagnostic endocrine procedures	can detect	abnormal inhibin levels
+diagnostic endocrine procedures	can detect	abnormal ghrelin levels

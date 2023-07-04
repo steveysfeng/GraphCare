@@ -1,0 +1,14 @@
+other therapeutic ear procedures	is a	medical procedure
+other therapeutic ear procedures	used for	treating ear conditions
+tympanoplasty	is a type of	other therapeutic ear procedures
+tympanoplasty	used for	repairing the eardrum
+mastoidectomy	is a type of	other therapeutic ear procedures
+mastoidectomy	used for	removing infected mastoid air cells
+stapedectomy	is a type of	other therapeutic ear procedures
+stapedectomy	used for	treating hearing loss caused by abnormal bone growth
+myringotomy	is a type of	other therapeutic ear procedures
+myringotomy	used for	draining fluid from the middle ear
+tinnitus retraining therapy	is a type of	other therapeutic ear procedures
+tinnitus retraining therapy	used for	managing tinnitus symptoms
+ear tube insertion	is a type of	other therapeutic ear procedures
+ear tube insertion	used for	treating recurrent ear infections

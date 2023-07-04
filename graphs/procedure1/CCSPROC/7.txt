@@ -1,0 +1,221 @@
+other diagnostic nervous system procedures	are	medical procedures
+other diagnostic nervous system procedures	used for	diagnosis
+electroencephalogram	is a type of	other diagnostic nervous system procedures
+electroencephalogram	measures	brain activity
+electroencephalogram	used to	detect seizures
+nerve conduction study	is a type of	other diagnostic nervous system procedures
+nerve conduction study	measures	nerve function
+nerve conduction study	used to	diagnose nerve damage
+magnetic resonance imaging	is a type of	other diagnostic nervous system procedures
+magnetic resonance imaging	provides	detailed images of the brain
+magnetic resonance imaging	used to	diagnose brain tumors
+cerebrospinal fluid analysis	is a type of	other diagnostic nervous system procedures
+cerebrospinal fluid analysis	examines	the fluid surrounding the brain and spinal cord
+cerebrospinal fluid analysis	used to	detect infections
+electromyography	is a type of	other diagnostic nervous system procedures
+electromyography	measures	muscle activity
+electromyography	used to	diagnose muscle disorders
+nerve biopsy	is a type of	other diagnostic nervous system procedures
+nerve biopsy	examines	a small sample of nerve tissue
+nerve biopsy	used to	diagnose nerve diseases
+computed tomography scan	is a type of	other diagnostic nervous system procedures
+computed tomography scan	provides	detailed images of the brain
+computed tomography scan	used to	diagnose strokes
+myelography	is a type of	other diagnostic nervous system procedures
+myelography	uses	a contrast dye to visualize the spinal cord
+myelography	used to	diagnose spinal cord abnormalities
+evoked potential tests	are	medical tests
+evoked potential tests	measure	the electrical activity in the brain
+evoked potential tests	used to	diagnose conditions affecting the nervous system
+nerve root block	is a type of	other diagnostic nervous system procedures
+nerve root block	injects	medication near a specific nerve root
+nerve root block	used to	diagnose the cause of nerve pain
+neurological examination	is a type of	other diagnostic nervous system procedures
+neurological examination	evaluates	the function of the nervous system
+neurological examination	used to	diagnose neurological disorders
+carotid ultrasound	is a type of	other diagnostic nervous system procedures
+carotid ultrasound	uses	sound waves to create images of the carotid arteries
+carotid ultrasound	used to	diagnose blockages in the carotid arteries
+lumbar puncture	is a type of	other diagnostic nervous system procedures
+lumbar puncture	involves	inserting a needle into the spinal canal to collect cerebrospinal fluid
+lumbar puncture	used to	diagnose infections and certain neurological conditions
+brain biopsy	is a type of	other diagnostic nervous system procedures
+brain biopsy	examines	a sample of brain tissue
+brain biopsy	used to	diagnose brain tumors
+nerve conduction velocity test	is a type of	other diagnostic nervous system procedures
+nerve conduction velocity test	measures	how well nerves conduct electrical signals
+nerve conduction velocity test	used to	diagnose nerve damage
+positron emission tomography scan	is a type of	other diagnostic nervous system procedures
+positron emission tomography scan	measures	metabolic activity in the brain
+positron emission tomography scan	used to	diagnose brain disorders
+nerve block	is a type of	other diagnostic nervous system procedures
+nerve block	injects	medication near a specific nerve
+nerve block	used to	diagnose and treat nerve pain
+electromyogram	is a type of	other diagnostic nervous system procedures
+electromyogram	records	muscle electrical activity
+electromyogram	used to	diagnose muscle and nerve disorders
+neuroradiology	is a branch of	medicine
+neuroradiology	focuses on	imaging and diagnosing diseases of the nervous system
+neuroradiology	uses	various imaging techniques
+nerve stimulation tests	are	medical tests
+nerve stimulation tests	measure	nerve function and response
+nerve stimulation tests	used to	diagnose nerve conditions
+nerve root injection	is a type of	other diagnostic nervous system procedures
+nerve root injection	injects	medication near a specific nerve root
+nerve root injection	used to	diagnose and treat nerve pain
+transcranial doppler ultrasound	is a type of	other diagnostic nervous system procedures
+transcranial doppler ultrasound	uses	sound waves to evaluate blood flow in the brain
+transcranial doppler ultrasound	used to	diagnose conditions affecting blood flow in the brain
+neuroimaging	is a branch of	medicine
+neuroimaging	focuses on	imaging the structure and function of the nervous system
+neuroimaging	uses	various imaging techniques
+electroencephalography	is a type of	other diagnostic nervous system procedures
+electroencephalography	records	the electrical activity of the brain
+electroencephalography	used to	diagnose epilepsy
+nerve conduction test	is a type of	other diagnostic nervous system procedures
+nerve conduction test	measures	how well nerves transmit electrical signals
+nerve conduction test	used to	diagnose nerve disorders
+cerebral angiogram	is a type of	other diagnostic nervous system procedures
+cerebral angiogram	uses	a contrast dye to visualize blood vessels in the brain
+cerebral angiogram	used to	diagnose conditions affecting blood flow in the brain
+neuropsychological testing	is a type of	other diagnostic nervous system procedures
+neuropsychological testing	assesses	cognitive functioning and behavior
+neuropsychological testing	used to	diagnose neurological disorders
+nerve function test	is a type of	other diagnostic nervous system procedures
+nerve function test	measures	the strength and speed of nerve signals
+nerve function test	used to	diagnose nerve damage
+neurological testing	is a type of	other diagnostic nervous system procedures
+neurological testing	evaluates	the function of the nervous system
+neurological testing	used to	diagnose neurological disorders
+computed axial tomography scan	is a type of	other diagnostic nervous system procedures
+computed axial tomography scan	provides	detailed images of the brain
+computed axial tomography scan	used to	diagnose brain injuries
+brainstem auditory evoked response test	is a type of	other diagnostic nervous system procedures
+brainstem auditory evoked response test	measures	brainstem response to sound
+brainstem auditory evoked response test	used to	diagnose hearing disorders
+carotid artery duplex scan	is a type of	other diagnostic nervous system procedures
+carotid artery duplex scan	uses	sound waves to evaluate blood flow in the carotid arteries
+carotid artery duplex scan	used to	diagnose blockages in the carotid arteries
+neuropsychiatry	is a branch of	medicine
+neuropsychiatry	combines	neurology and psychiatry
+neuropsychiatry	focuses on	diagnosing and treating psychiatric symptoms associated with neurological disorders
+neurophysiology	is a branch of	medicine
+neurophysiology	studies	the function of the nervous system
+neurophysiology	uses	various electrophysiological techniques
+electrooculography	is a type of	other diagnostic nervous system procedures
+electrooculography	records	eye movements
+electrooculography	used to	diagnose eye movement disorders
+cisternography	is a type of	other diagnostic nervous system procedures
+cisternography	uses	a contrast dye to visualize the cerebrospinal fluid spaces
+cisternography	used to	diagnose cerebrospinal fluid leaks
+somatosensory evoked potential test	is a type of	other diagnostic nervous system procedures
+somatosensory evoked potential test	measures	the electrical activity in response to sensory stimulation
+somatosensory evoked potential test	used to	diagnose conditions affecting the sensory pathways
+intracranial pressure monitoring	is a type of	other diagnostic nervous system procedures
+intracranial pressure monitoring	measures	pressure inside the skull
+intracranial pressure monitoring	used to	diagnose and manage conditions that increase intracranial pressure
+brainstem auditory evoked potentials	are	medical tests
+brainstem auditory evoked potentials	measure	brainstem response to sound
+brainstem auditory evoked potentials	used to	diagnose hearing disorders
+neuropathology	is a branch of	medicine
+neuropathology	focuses on	the study of diseases of the nervous system
+neuropathology	uses	various laboratory techniques
+electroretinography	is a type of	other diagnostic nervous system procedures
+electroretinography	records	the electrical activity of the retina
+electroretinography	used to	diagnose retinal disorders
+carotid artery angioplasty	is a type of	other diagnostic nervous system procedures
+carotid artery angioplasty	uses	a balloon catheter to open blockages in the carotid artery
+carotid artery angioplasty	used to	treat blockages in the carotid artery
+carotid artery stenting	is a type of	other diagnostic nervous system procedures
+carotid artery stenting	involves	placing a stent to support the carotid artery and prevent blockages
+carotid artery stenting	used to	treat blockages in the carotid artery
+evoked otoacoustic emission test	is a type of	other diagnostic nervous system procedures
+evoked otoacoustic emission test	measures	sounds generated by the inner ear in response to stimulation
+evoked otoacoustic emission test	used to	diagnose hearing disorders
+cerebral electroencephalogram	is a type of	other diagnostic nervous system procedures
+cerebral electroencephalogram	records	the electrical activity of the brain
+cerebral electroencephalogram	used to	diagnose various brain disorders
+nerve blood flow test	is a type of	other diagnostic nervous system procedures
+nerve blood flow test	measures	blood flow to the nerves
+nerve blood flow test	used to	diagnose nerve disorders
+central auditory processing evaluation	is a type of	other diagnostic nervous system procedures
+central auditory processing evaluation	assesses	how the brain processes auditory information
+central auditory processing evaluation	used to	diagnose auditory processing disorders
+carotid artery surgery	is a type of	other diagnostic nervous system procedures
+carotid artery surgery	involves	repairing or removing blockages in the carotid artery
+carotid artery surgery	used to	treat blockages in the carotid artery
+somatosensory evoked potentials	are	medical tests
+somatosensory evoked potentials	measure	the electrical activity in response to sensory stimulation
+somatosensory evoked potentials	used to	diagnose conditions affecting the sensory pathways
+nerve root stimulator	is a type of	other diagnostic nervous system procedures
+nerve root stimulator	delivers	electrical impulses near a specific nerve root
+nerve root stimulator	used to	diagnose and treat nerve pain
+videonystagmography	is a type of	other diagnostic nervous system procedures
+videonystagmography	measures	eye movements to evaluate balance and dizziness
+videonystagmography	used to	diagnose vestibular disorders
+cerebrospinal fluid pressure monitoring	is a type of	other diagnostic nervous system procedures
+cerebrospinal fluid pressure monitoring	measures	pressure inside the spinal canal
+cerebrospinal fluid pressure monitoring	used to	diagnose and manage conditions that increase cerebrospinal fluid pressure
+carotid artery duplex doppler ultrasound	is a type of	other diagnostic nervous system procedures
+carotid artery duplex doppler ultrasound	uses	sound waves to evaluate blood flow in the carotid arteries
+carotid artery duplex doppler ultrasound	used to	diagnose blockages in the carotid arteries
+tonsil biopsy	is a type of	other diagnostic nervous system procedures
+tonsil biopsy	examines	a small sample of tonsil tissue
+tonsil biopsy	used to	diagnose tonsil infections and cancers
+vestibular evoked myogenic potentials	are	medical tests
+vestibular evoked myogenic potentials	measure	muscle responses to sound stimulation
+vestibular evoked myogenic potentials	used to	diagnose vestibular disorders
+cerebrospinal fluid culture	is a type of	other diagnostic nervous system procedures
+cerebrospinal fluid culture	tests	for the presence of bacteria or fungi in the cerebrospinal fluid
+cerebrospinal fluid culture	used to	diagnose infections
+brainstem auditory evoked potentials	are	medical tests
+brainstem auditory evoked potentials	measure	brainstem response to sound
+brainstem auditory evoked potentials	used to	diagnose hearing disorders
+cerebrospinal fluid shunt	is a type of	other diagnostic nervous system procedures
+cerebrospinal fluid shunt	diverts	fluid from the brain to another part of the body
+cerebrospinal fluid shunt	used to	treat hydrocephalus
+brainstem auditory evoked potential	is a type of	other diagnostic nervous system procedures
+brainstem auditory evoked potential	measures	brainstem response to sound
+brainstem auditory evoked potential	used to	diagnose hearing disorders
+visual evoked potentials	are	medical tests
+visual evoked potentials	measure	the electrical responses of the visual system to visual stimuli
+visual evoked potentials	used to	diagnose visual disorders
+transcervical carotid artery stenting	is a type of	other diagnostic nervous system procedures
+transcervical carotid artery stenting	involves	placing a stent to support the carotid artery and prevent blockages
+transcervical carotid artery stenting	used to	treat blockages in the carotid artery
+cerebral angioplasty	is a type of	other diagnostic nervous system procedures
+cerebral angioplasty	uses	a balloon catheter to open blockages in the blood vessels of the brain
+cerebral angioplasty	used to	treat blockages in the blood vessels of the brain
+carotid ultrasound with doppler	is a type of	other diagnostic nervous system procedures
+carotid ultrasound with doppler	uses	sound waves to evaluate blood flow in the carotid arteries
+carotid ultrasound with doppler	used to	diagnose blockages in the carotid arteries
+transcranial doppler ultrasound with bubble study	is a type of	other diagnostic nervous system procedures
+transcranial doppler ultrasound with bubble study	uses	sound waves and a contrast agent to evaluate blood flow in the brain
+transcranial doppler ultrasound with bubble study	used to	diagnose conditions affecting blood flow in the brain
+trigeminal nerve block	is a type of	other diagnostic nervous system procedures
+trigeminal nerve block	injects	medication near the trigeminal nerve
+trigeminal nerve block	used to	diagnose and treat trigeminal neuralgia
+brainstem auditory evoked response	is a type of	other diagnostic nervous system procedures
+brainstem auditory evoked response	measures	brainstem response to sound
+brainstem auditory evoked response	used to	diagnose hearing disorders
+brainstem auditory evoked potentials	are	medical tests
+brainstem auditory evoked potentials	measure	brainstem response to sound
+brainstem auditory evoked potentials	used to	diagnose hearing disorders
+emg test	is a type of	other diagnostic nervous system procedures
+emg test	records	the electrical activity of muscles
+emg test	used to	diagnose muscle and nerve disorders
+carotid artery stenting with embolic protection	is a type of	other diagnostic nervous system procedures
+carotid artery stenting with embolic protection	involves	placing a stent with a protective device to prevent blockages in the carotid artery
+carotid artery stenting with embolic protection	used to	treat blockages in the carotid artery
+lumbar puncture with intrathecal injection	is a type of	other diagnostic nervous system procedures
+lumbar puncture with intrathecal injection	involves	injecting medication into the spinal canal
+lumbar puncture with intrathecal injection	used to	administer medications directly to the cerebrospinal fluid
+intrathecal baclofen pump	is a type of	other diagnostic nervous system procedures
+intrathecal baclofen pump	delivers	medication directly into the spinal canal
+intrathecal baclofen pump	used to	treat spasticity
+video electroencephalogram	is a type of	other diagnostic nervous system procedures
+video electroencephalogram	records	the electrical activity of the brain and captures video
+video electroencephalogram	used to	diagnose epilepsy
+temporal artery biopsy	is a type of	other diagnostic nervous system procedures
+temporal artery biopsy	examines	a small sample of the temporal artery
+temporal artery biopsy	used to	diagnose temporal arteritis

@@ -1,0 +1,49 @@
+nose	is a	body part
+mouth	is a	body part
+pharynx	is a	body part
+procedure	is a	medical procedure
+non-therapeutic procedure	is a type of	procedure
+nose surgery	is a type of	non-therapeutic procedure
+mouth surgery	is a type of	non-therapeutic procedure
+pharynx surgery	is a type of	non-therapeutic procedure
+nose surgery	used for	cosmetic purposes
+nose surgery	used for	correcting breathing problems
+mouth surgery	used for	correcting dental problems
+mouth surgery	used for	removing tumors
+pharynx surgery	used for	treating sleep apnea
+pharynx surgery	used for	removing tumors
+nose surgery	can lead to	complications
+mouth surgery	can lead to	infection
+pharynx surgery	can lead to	bleeding
+nose surgery	requires	anesthesia
+mouth surgery	requires	anesthesia
+pharynx surgery	requires	anesthesia
+nose surgery	is performed by	plastic surgeons
+mouth surgery	is performed by	oral surgeons
+pharynx surgery	is performed by	otolaryngologists
+nose surgery	can be	expensive
+mouth surgery	can be	expensive
+pharynx surgery	can be	expensive
+nose surgery	can be	covered by insurance
+mouth surgery	can be	covered by insurance
+pharynx surgery	can be	covered by insurance
+nose surgery	can improve	self-esteem
+nose surgery	can improve	breathing
+mouth surgery	can improve	oral health
+pharynx surgery	can improve	quality of sleep
+nose surgery	can cause	scarring
+mouth surgery	can cause	swelling
+pharynx surgery	can cause	soreness
+nose surgery	has	preoperative requirements
+mouth surgery	has	preoperative requirements
+pharynx surgery	has	preoperative requirements
+nose surgery	has	postoperative care
+mouth surgery	has	postoperative care
+pharynx surgery	has	postoperative care
+nose surgery	can be	outpatient
+mouth surgery	can be	outpatient
+pharynx surgery	can be	outpatient
+nose surgery	can result in	improved appearance
+nose surgery	can result in	improved breathing
+mouth surgery	can result in	improved oral function
+pharynx surgery	can result in	improved quality of life

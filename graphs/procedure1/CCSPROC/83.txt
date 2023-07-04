@@ -1,0 +1,126 @@
+biopsy	is a	medical procedure
+biopsy	used for	diagnosis
+liver	can be affected by	cancer
+biopsy	can detect	liver cancer
+biopsy	can help in	staging liver cancer
+biopsy	can guide	treatment decisions
+biopsy	can assess	liver fibrosis
+biopsy	can diagnose	hepatitis
+biopsy	can detect	liver cirrhosis
+biopsy	can identify	liver inflammation
+biopsy	can evaluate	liver function
+biopsy	can determine	liver transplant eligibility
+biopsy	can predict	liver disease progression
+liver	can regenerate	after biopsy
+biopsy	can lead to	bleeding
+biopsy	can cause	infection
+biopsy	can result in	pain
+biopsy	can have	complications
+biopsy	can require	sedation
+biopsy	can be done	percutaneously
+biopsy	can be done	laparoscopically
+biopsy	can be done	through a needle
+biopsy	can be guided by	imaging
+biopsy	can be assisted by	ultrasound
+biopsy	can be guided by	CT scan
+biopsy	can be guided by	MRI
+biopsy	can be guided by	endoscopic ultrasound
+biopsy	can be guided by	laparoscopic ultrasound
+biopsy	can be guided by	fluoroscopy
+biopsy	can be guided by	angiography
+biopsy	can be performed in	outpatient settings
+biopsy	can be performed in	hospital settings
+biopsy	can be analyzed by	pathology
+biopsy	can be analyzed by	immunohistochemistry
+biopsy	can be analyzed by	molecular testing
+biopsy	can have	false negative results
+biopsy	can have	false positive results
+biopsy	can lead to	scarring
+biopsy	can cause	damage to nearby structures
+biopsy	can result in	hematoma
+biopsy	can require	hospitalization
+biopsy	can necessitate	blood transfusion
+biopsy	can be followed by	surveillance
+biopsy	can be repeated	if necessary
+biopsy	can be avoided	in some cases
+biopsy	can be inconclusive
+biopsy	can be indeterminate
+biopsy	can be contraindicated	in certain conditions
+liver	can have	abnormal biopsy findings
+liver	can show	hepatocellular damage
+liver	can show	cholestatic damage
+liver	can show	vascular damage
+liver	can show	granulomatous inflammation
+liver	can show	necrosis
+liver	can show	fibrosis
+liver	can show	cirrhosis
+liver	can show	steatosis
+liver	can show	iron overload
+liver	can show	viral inclusion bodies
+liver	can show	malignancy
+liver	can show	metaplasia
+liver	can show	neoplasia
+liver	can show	dysplasia
+liver	can show	dyskeratosis
+liver	can show	amyloid deposition
+liver	can show	autoimmune hepatitis
+liver	can show	hepatocellular carcinoma
+liver	can show	cholangiocarcinoma
+liver	can show	hepatoblastoma
+liver	can show	metastatic tumors
+liver	can show	hepatolenticular degeneration
+liver	can show	peliosis hepatis
+liver	can show	hepatic adenoma
+liver	can show	hepatic cysts
+liver	can show	hemangioma
+liver	can show	angiosarcoma
+liver	can show	hepatoma
+liver	can show	gallstones
+liver	can show	parasites
+liver	can show	schistosomiasis
+liver	can show	sarcoidosis
+liver	can show	leishmaniasis
+liver	can show	tuberculosis
+liver	can show	histoplasmosis
+liver	can show	coccidioidomycosis
+liver	can show	leprosy
+liver	can show	cat scratch disease
+liver	can show	brucellosis
+liver	can show	tularemia
+liver	can show	listeriosis
+liver	can show	yersiniosis
+liver	can show	melioidosis
+liver	can show	bartonellosis
+liver	can show	syphilis
+liver	can show	rickettsiosis
+liver	can show	legionellosis
+liver	can show	borreliosis
+liver	can show	mycobacteriosis
+liver	can show	toxoplasmosis
+liver	can show	cytomegalovirus infection
+liver	can show	Epstein-Barr virus infection
+liver	can show	human immunodeficiency virus infection
+liver	can show	herpes simplex virus infection
+liver	can show	varicella-zoster virus infection
+liver	can show	hepatitis B virus infection
+liver	can show	hepatitis C virus infection
+liver	can show	hepatitis E virus infection
+liver	can show	hepatitis G virus infection
+liver	can show	hepatitis D virus infection
+liver	can show	yellow fever virus infection
+liver	can show	dengue fever virus infection
+liver	can show	West Nile virus infection
+liver	can show	Zika virus infection
+liver	can show	malaria
+liver	can show	trypanosomiasis
+liver	can show	filariasis
+liver	can show	amebiasis
+liver	can show	giardiasis
+liver	can show	cryptosporidiosis
+liver	can show	trichinellosis
+liver	can show	ascariasis
+liver	can show	pneumonia
+liver	can show	tuberculosis
+liver	can show	syphilis
+liver	can show	toxoplasmosis
+liver	can show	HIV/AIDS

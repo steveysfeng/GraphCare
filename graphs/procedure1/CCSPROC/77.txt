@@ -1,0 +1,97 @@
+proctoscopy	is a	medical procedure
+proctoscopy	used for	diagnosis
+proctoscopy	can detect	rectal polyps
+proctoscopy	can diagnose	colorectal cancer
+anorectal biopsy	is a type of	proctoscopy
+anorectal biopsy	can detect	anal cancer
+anorectal biopsy	can diagnose	inflammatory bowel disease
+anorectal biopsy	can identify	infectious agents
+proctoscopy	can be performed	in a clinic
+proctoscopy	can be performed	in an operating room
+proctoscopy	requires	bowel preparation
+proctoscope	is used in	proctoscopy
+proctoscope	has	a light source
+proctoscope	can be	disposable
+proctoscope	can be	reusable
+proctoscope	can have	a camera
+proctoscope	allows	visualization
+proctoscope	can be	flexible
+proctoscope	can be	rigid
+proctoscope	is inserted through	the anus
+proctoscope	is used to	examine the rectum
+anorectal biopsy	collects	tissue samples
+anorectal biopsy	uses	a small instrument
+anorectal biopsy	may cause	bleeding
+anorectal biopsy	may cause	infection
+proctoscopy	can be	uncomfortable
+proctoscopy	may require	sedation
+proctoscopy	may require	anesthesia
+proctoscopy	may cause	perforation
+proctoscopy	may cause	pain
+proctoscopy	may cause	cramping
+proctoscopy	may cause	bloating
+proctoscopy	may cause	gas
+proctoscopy	may cause	nausea
+proctoscopy	may cause	vomiting
+proctoscopy	may cause	dizziness
+proctoscopy	may cause	fatigue
+proctoscopy	may cause	headache
+proctoscopy	may cause	allergic reactions
+proctoscopy	may require	recovery time
+proctoscopy	should be	performed by a trained professional
+proctoscopy	should be	performed by a gastroenterologist
+proctoscopy	should be	performed by a colorectal surgeon
+anorectal biopsy	should be	performed by a pathologist
+anorectal biopsy	should be	performed by a proctologist
+anorectal biopsy	should be	performed by a gastroenterologist
+anorectal biopsy	should be	performed by a colorectal surgeon
+proctoscopy	can be	cost-effective
+proctoscopy	is covered	by insurance
+proctoscopy	may require	authorization
+proctoscopy	may have	limitations
+proctoscopy	can be	used in conjunction with endoscopy
+proctoscopy	can be	used in conjunction with colonoscopy
+proctoscopy	can be	used in conjunction with sigmoidoscopy
+proctoscopy	can be	used in conjunction with biopsy
+proctoscopy	can be	used in conjunction with imaging tests
+proctoscopy	can be	used in conjunction with blood tests
+proctoscopy	can be	used in conjunction with stool tests
+proctoscopy	can be	used to	monitor conditions
+proctoscopy	can be	used to	guide treatment
+proctoscopy	can be	used for surveillance
+proctoscopy	can be	used for follow-up
+anorectal biopsy	is indicated	in patients with suspicious symptoms
+anorectal biopsy	is indicated	in patients with abnormal findings
+anorectal biopsy	is indicated	in patients with a family history of colorectal cancer
+anorectal biopsy	is indicated	in patients with a personal history of colorectal cancer
+anorectal biopsy	is indicated	in patients with a history of inflammatory bowel disease
+anorectal biopsy	is indicated	in patients with a history of pelvic radiation therapy
+anorectal biopsy	may be	inconclusive
+anorectal biopsy	may require	additional testing
+anorectal biopsy	can help	determine the stage of cancer
+anorectal biopsy	can help	guide treatment decisions
+anorectal biopsy	can help	predict prognosis
+anorectal biopsy	can be	performed using different techniques
+anorectal biopsy	can be	performed under local anesthesia
+anorectal biopsy	can be	performed under general anesthesia
+anorectal biopsy	can be	performed in an outpatient setting
+anorectal biopsy	can be	performed in an operating room
+anorectal biopsy	can be	performed using a brush
+anorectal biopsy	can be	performed using forceps
+anorectal biopsy	can be	performed using a needle
+anorectal biopsy	can be	performed using a punch
+anorectal biopsy	can be	performed using a scalpel
+anorectal biopsy	can be	performed using a suction device
+anorectal biopsy	can be	performed using a laser
+anorectal biopsy	can be	performed using an endoscope
+anorectal biopsy	can be	performed using imaging guidance
+anorectal biopsy	can be	performed using ultrasound
+anorectal biopsy	can be	performed using CT scan
+anorectal biopsy	can be	performed using MRI
+anorectal biopsy	can be	performed using PET scan
+anorectal biopsy	can be	performed using fluorescence
+anorectal biopsy	can be	performed using molecular tests
+anorectal biopsy	can be	performed using genetic tests
+anorectal biopsy	can be	performed using immunohistochemistry
+anorectal biopsy	can be	performed using flow cytometry
+anorectal biopsy	can be	performed using cytogenetic analysis

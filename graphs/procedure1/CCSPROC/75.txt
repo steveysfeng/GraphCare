@@ -1,0 +1,34 @@
+small bowel resection	is a	surgical procedure
+small bowel resection	used for	removing a portion of the small intestine
+small bowel resection	can treat	bowel obstruction
+intestinal anastomosis	is a type of	small bowel resection
+intestinal anastomosis	involves	connecting two segments of the intestine
+intestinal anastomosis	can be done after	small bowel resection
+intestinal leak	is a complication of	small bowel resection
+intestinal leak	can lead to	peritonitis
+peritonitis	is a serious condition that	requires immediate medical attention
+bowel ischemia	is a rare but serious complication of	small bowel resection
+bowel ischemia	can result in	tissue death
+bowel ischemia	may require	additional surgery
+wound infection	is a common complication of	small bowel resection
+wound infection	can be treated with	antibiotics
+wound infection	may delay	wound healing
+deep vein thrombosis	is a potential complication of	small bowel resection
+deep vein thrombosis	can cause	blood clots
+deep vein thrombosis	may require	anticoagulant therapy
+incisional hernia	is a possible long-term complication of	small bowel resection
+incisional hernia	can cause	abdominal discomfort
+incisional hernia	may require	surgical repair
+partial small bowel resection	is a variation of	small bowel resection
+partial small bowel resection	involves	removing only a portion of the small intestine
+partial small bowel resection	can be done for	localized small bowel disease
+partial small bowel resection	may have	shorter recovery time
+ostomy	is sometimes necessary after	small bowel resection
+ostomy	involves	creating an opening in the abdomen
+ostomy	can be temporary or permanent
+intestinal fistula	is a rare complication of	small bowel resection
+intestinal fistula	involves	abnormal connection between the intestine and another organ or surface
+intestinal fistula	may require	surgical repair
+adhesions	are bands of scar tissue that	can form after small bowel resection
+adhesions	can cause	abdominal pain
+adhesions	may require	surgical removal

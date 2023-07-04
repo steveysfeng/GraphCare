@@ -1,0 +1,295 @@
+cerebral angiography	is a	procedure
+cerebral angiography	used to	visualize blood vessels in the brain
+cerebral angiography	can detect	aneurysms
+carotid endarterectomy	is a	procedure
+carotid endarterectomy	used to	remove plaque from carotid arteries
+carotid endarterectomy	can reduce	risk of stroke
+carotid stenting	is a	procedure
+carotid stenting	used to	open blocked carotid arteries
+carotid stenting	can prevent	stroke
+vertebroplasty	is a	procedure
+vertebroplasty	used to	treat spinal compression fractures
+vertebroplasty	can provide	pain relief
+carotid ultrasound	is a	procedure
+carotid ultrasound	used to	assess blood flow through carotid arteries
+carotid ultrasound	can detect	plaques and stenosis
+transcranial doppler	is a	procedure
+transcranial doppler	used to	measure blood flow velocity in brain
+transcranial doppler	can assist in	diagnosing cerebrovascular diseases
+temporal artery biopsy	is a	procedure
+temporal artery biopsy	used to	diagnose giant cell arteritis
+temporal artery biopsy	can confirm	the presence of inflammation
+carotid artery surgery	is a	procedure
+carotid artery surgery	used to	treat carotid artery disease
+carotid artery surgery	can reduce	the risk of stroke
+cerebral aneurysm clipping	is a	procedure
+cerebral aneurysm clipping	used to	treat ruptured or unruptured aneurysms
+cerebral aneurysm clipping	can prevent	further bleeding
+retinal laser photocoagulation	is a	procedure
+retinal laser photocoagulation	used to	treat diabetic retinopathy
+retinal laser photocoagulation	can reduce	the risk of vision loss
+endovascular coiling	is a	procedure
+endovascular coiling	used to	treat cerebral aneurysms
+endovascular coiling	can prevent	rupture of an aneurysm
+myringotomy	is a	procedure
+myringotomy	used to	treat middle ear infections
+myringotomy	can relieve	pressure and pain
+ear tube surgery	is a	procedure
+ear tube surgery	used to	treat recurrent ear infections
+ear tube surgery	can reduce	the frequency of ear infections
+thyroidectomy	is a	procedure
+thyroidectomy	used to	remove all or part of the thyroid gland
+thyroidectomy	can treat	thyroid cancer
+tonsillectomy	is a	procedure
+tonsillectomy	used to	remove the tonsils
+tonsillectomy	can alleviate	chronic tonsillitis
+adenoidectomy	is a	procedure
+adenoidectomy	used to	remove the adenoids
+adenoidectomy	can treat	chronic sinusitis
+parathyroidectomy	is a	procedure
+parathyroidectomy	used to	remove one or more parathyroid glands
+parathyroidectomy	can treat	hyperparathyroidism
+sinus surgery	is a	procedure
+sinus surgery	used to	treat chronic sinusitis
+sinus surgery	can improve	sinus drainage
+nasal polyp surgery	is a	procedure
+nasal polyp surgery	used to	remove nasal polyps
+nasal polyp surgery	can relieve	nasal congestion
+tracheostomy	is a	procedure
+tracheostomy	used to	create an opening in the neck to access the trachea
+tracheostomy	can assist with	breathing
+laryngectomy	is a	procedure
+laryngectomy	used to	remove the larynx
+laryngectomy	can treat	laryngeal cancer
+carotid artery duplex	is a	procedure
+carotid artery duplex	used to	evaluate blood flow in carotid arteries
+carotid artery duplex	can detect	blockages and stenosis
+carotid angioplasty	is a	procedure
+carotid angioplasty	used to	open blocked carotid arteries
+carotid angioplasty	can improve	blood flow to the brain
+carotid patch angioplasty	is a	procedure
+carotid patch angioplasty	used to	repair damaged carotid arteries
+carotid patch angioplasty	can restore	normal blood flow
+carotid artery repair	is a	procedure
+carotid artery repair	used to	fix carotid artery blockages
+carotid artery repair	can reduce	the risk of stroke
+carotid artery bypass	is a	procedure
+carotid artery bypass	used to	redirect blood flow around carotid artery blockages
+carotid artery bypass	can improve	blood flow to the brain
+jugular venous stenting	is a	procedure
+jugular venous stenting	used to	treat jugular vein obstructions
+jugular venous stenting	can restore	normal blood flow
+cavernous sinus biopsy	is a	procedure
+cavernous sinus biopsy	used to	diagnose diseases affecting the cavernous sinus
+cavernous sinus biopsy	can provide	valuable diagnostic information
+carotico-cavernous fistula repair	is a	procedure
+carotico-cavernous fistula repair	used to	treat abnormal connections between carotid artery and cavernous sinus
+carotico-cavernous fistula repair	can prevent	complications such as vision loss
+head and neck surgery	is a	procedure
+head and neck surgery	used to	treat various conditions affecting the head and neck
+head and neck surgery	can improve	quality of life
+chemotherapy	is a	treatment
+chemotherapy	used to	treat cancer
+chemotherapy	can kill	cancer cells
+radiation therapy	is a	treatment
+radiation therapy	used to	treat cancer
+radiation therapy	can destroy	cancer cells
+immunotherapy	is a	treatment
+immunotherapy	used to	enhance the immune response against cancer
+immunotherapy	can target	specific cancer cells
+targeted therapy	is a	treatment
+targeted therapy	used to	attack specific features of cancer cells
+targeted therapy	can inhibit	tumor growth
+hormone therapy	is a	treatment
+hormone therapy	used to	alter hormone levels in cancer cells
+hormone therapy	can slow	cancer progression
+precision medicine	is a	approach
+precision medicine	used to	tailor treatment based on individual characteristics
+precision medicine	can improve	treatment outcomes
+palliative care	is a	approach
+palliative care	used to	improve quality of life for patients with serious illnesses
+palliative care	can alleviate	symptoms and provide emotional support
+rehabilitation therapy	is a	treatment
+rehabilitation therapy	used to	restore function and improve quality of life
+rehabilitation therapy	can help	patients regain independence
+intensive care	is a	approach
+intensive care	used to	provide specialized medical care for critically ill patients
+intensive care	can save	lives
+surgical intervention	is a	treatment
+surgical intervention	used to	physically repair or remove damaged tissues
+surgical intervention	can correct	medical conditions
+non-invasive procedure	is a	treatment
+non-invasive procedure	used to	treat medical conditions without the need for surgery
+non-invasive procedure	can minimize	complications
+minimally invasive surgery	is a	procedure
+minimally invasive surgery	used to	treat medical conditions with smaller incisions
+minimally invasive surgery	can reduce	recovery time
+revision surgery	is a	procedure
+revision surgery	used to	correct or modify a prior surgical procedure
+revision surgery	can improve	outcomes
+medical imaging	is a	technique
+medical imaging	used to	visualize internal structures and diagnose medical conditions
+medical imaging	can detect	abnormalities
+genetic testing	is a	technique
+genetic testing	used to	identify changes in genes and evaluate the risk for certain diseases
+genetic testing	can provide	personalized treatment options
+clinical trial	is a	study
+clinical trial	used to	evaluate the safety and effectiveness of new treatments
+clinical trial	can contribute	to medical advancements
+patient monitoring	is a	practice
+patient monitoring	used to	track and evaluate patient's vital signs and health status
+patient monitoring	can detect	changes or complications
+preventive care	is a	approach
+preventive care	used to	promote wellness and prevent diseases
+preventive care	can reduce	the risk of developing certain conditions
+patient education	is a	practice
+patient education	used to	provide information and empower patients in managing their health
+patient education	can improve	health literacy
+diagnostic testing	is a	technique
+diagnostic testing	used to	identify and diagnose medical conditions
+diagnostic testing	can confirm	or rule out specific diseases
+medication management	is a	practice
+medication management	used to	ensure safe and effective use of medications
+medication management	can optimize	treatment outcomes
+nutritional counseling	is a	practice
+nutritional counseling	used to	provide guidance on healthy eating and address dietary concerns
+nutritional counseling	can improve	overall health
+infection control	is a	practice
+infection control	used to	prevent the spread of infectious diseases
+infection control	can reduce	the risk of healthcare-associated infections
+pain management	is a	practice
+pain management	used to	alleviate or manage pain
+pain management	can improve	quality of life
+psychological support	is a	practice
+psychological support	used to	provide emotional and mental support to patients
+psychological support	can enhance	well-being
+patient advocacy	is a	practice
+patient advocacy	used to	ensure patients' rights and needs are addressed
+patient advocacy	can empower	patients in the healthcare system
+patient privacy	is a	practice
+patient privacy	used to	protect patients' personal and medical information
+patient privacy	can maintain	confidentiality
+medical research	is a	field
+medical research	used to	advance knowledge and improve healthcare
+medical research	can lead	to medical breakthroughs
+hospital administration	is a	field
+hospital administration	used to	manage and oversee healthcare institutions
+hospital administration	can ensure	efficient and effective operations
+medical ethics	is a	field
+medical ethics	used to	address ethical dilemmas in healthcare
+medical ethics	can guide	decision-making and promote patient welfare
+health policy	is a	field
+health policy	used to	develop and implement healthcare regulations and initiatives
+health policy	can influence	healthcare delivery and access
+telemedicine	is a	practice
+telemedicine	used to	provide remote medical services and consultations
+telemedicine	can improve	access to healthcare
+digital health	is a	field
+digital health	used to	incorporate technology in healthcare delivery and management
+digital health	can enhance	healthcare capabilities
+medical simulation	is a	technique
+medical simulation	used to	replicate real-life medical scenarios for training and education
+medical simulation	can enhance	clinical skills
+medication adherence	is a	practice
+medication adherence	used to	ensure patients take medications as prescribed
+medication adherence	can improve	treatment outcomes
+patient satisfaction	is a	measure
+patient satisfaction	used to	evaluate patients' experiences and perceptions of healthcare
+patient satisfaction	can inform	quality improvement efforts
+healthcare quality	is a	measure
+healthcare quality	used to	assess the effectiveness and safety of healthcare services
+healthcare quality	can drive	improvement initiatives
+electronic health records	is a	system
+electronic health records	used to	store and manage patient health information
+electronic health records	can facilitate	information sharing
+clinical decision support	is a	system
+clinical decision support	used to	provide evidence-based recommendations to healthcare providers
+clinical decision support	can improve	clinical decision-making
+health information exchange	is a	system
+health information exchange	used to	facilitate the sharing of patient health information across healthcare providers
+health information exchange	can improve	care coordination
+population health	is a	measure
+population health	used to	assess and improve the health outcomes of a defined group
+population health	can inform	public health interventions
+health disparities	is a	measure
+health disparities	used to	identify and address inequities in healthcare
+health disparities	can improve	health equity
+patient safety	is a	measure
+patient safety	used to	prevent harm to patients during healthcare
+patient safety	can reduce	medical errors
+disease surveillance	is a	practice
+disease surveillance	used to	monitor and track the occurrence of diseases
+disease surveillance	can detect	outbreaks and inform public health response
+healthcare financing	is a	field
+healthcare financing	used to	fund healthcare services and systems
+healthcare financing	can impact	healthcare accessibility
+pain assessment	is a	practice
+pain assessment	used to	evaluate and quantify the severity of pain
+pain assessment	can guide	pain management strategies
+patient empowerment	is a	practice
+patient empowerment	used to	enable patients to take an active role in their healthcare
+patient empowerment	can improve	health outcomes
+disease prevention	is a	practice
+disease prevention	used to	reduce the occurrence and impact of diseases
+disease prevention	can promote	overall health
+care coordination	is a	practice
+care coordination	used to	facilitate the seamless delivery of healthcare services
+care coordination	can enhance	patient outcomes
+patient-centered care	is a	approach
+patient-centered care	used to	prioritize patients' preferences and needs in healthcare
+patient-centered care	can improve	patient satisfaction
+evidence-based practice	is a	approach
+evidence-based practice	used to	inform clinical decision-making with the best available evidence
+evidence-based practice	can optimize	patient outcomes
+health literacy	is a	measure
+health literacy	used to	assess individuals' understanding of health information
+health literacy	can impact	healthcare decision-making
+patient privacy	is a	measure
+patient privacy	used to	protect patients' confidentiality and personal information
+patient privacy	can safeguard	patient rights
+patient confidentiality	is a	measure
+patient confidentiality	used to	protect patients' private health information
+patient confidentiality	can ensure	trust in healthcare
+patient rights	is a	measure
+patient rights	used to	protect and promote patients' autonomy and dignity
+patient rights	can empower	patients in their healthcare decisions
+patient outcomes	is a	measure
+patient outcomes	used to	evaluate the effects and results of healthcare interventions
+patient outcomes	can inform	quality improvement efforts
+health outcomes	is a	measure
+health outcomes	used to	assess the impact and effectiveness of healthcare interventions
+health outcomes	can guide	healthcare decision-making
+patient education	is a	practice
+patient education	used to	provide information and support patients' understanding of their health
+patient education	can promote	self-care
+patient communication	is a	practice
+patient communication	used to	facilitate effective and respectful interactions between patients and healthcare providers
+patient communication	can enhance	patient satisfaction
+patient engagement	is a	measure
+patient engagement	used to	assess patients' active involvement in their healthcare
+patient engagement	can improve	health outcomes
+patient adherence	is a	measure
+patient adherence	used to	evaluate patients' compliance with treatment plans
+patient adherence	can impact	treatment effectiveness
+patient experience	is a	measure
+patient experience	used to	assess patients' perceptions and satisfaction with healthcare services
+patient experience	can inform	quality improvement efforts
+patient empowerment	is a	measure
+patient empowerment	used to	assess patients' ability and confidence in managing their health
+patient empowerment	can influence	health behaviors
+patient-centered care	is a	measure
+patient-centered care	used to	evaluate the extent to which care is responsive to patients' preferences and needs
+patient-centered care	can improve	patient satisfaction
+patient safety	is a	measure
+patient safety	used to	assess the provision of safe and reliable healthcare
+patient safety	can prevent	medical errors
+patient satisfaction	is a	measure
+patient satisfaction	used to	evaluate patients' contentment with healthcare services
+patient satisfaction	can drive	quality improvement efforts
+healthcare quality	is a	measure
+healthcare quality	used to	assess the effectiveness	safety	and efficiency of healthcare services
+healthcare quality	can inform	quality improvement efforts
+hospital readmission	is a	measure
+hospital readmission	used to	assess the rate at which patients return to the hospital within a certain time period
+hospital readmission	can indicate	gaps in care and quality of transitions
+mortality rate	is a	measure

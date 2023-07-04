@@ -1,0 +1,295 @@
+repair	is a	surgical procedure
+retinal tear	requires	repair
+retinal tear	can cause	visual impairment
+retinal detachment	is a	medical emergency
+retinal detachment	requires	surgical intervention
+retinal detachment	can lead to	permanent vision loss
+surgery	is performed by	ophthalmologists
+surgery	involves	removing vitreous fluid
+vitreous fluid	fills	the inside of the eye
+vitreous fluid	provides	structural support to the eye
+retinal tear	can be caused by	trauma
+trauma	is a	risk factor for retinal tear
+retinal detachment	can occur	spontaneously
+retinal detachment	is more common in	older adults
+retinal detachment	can be diagnosed through	a comprehensive eye examination
+eye examination	is conducted by	optometrists or ophthalmologists
+retinal tear	can be repaired using	laser therapy
+retinal tear	can be repaired using	cryotherapy
+laser therapy	uses	focused laser light
+cryotherapy	uses	freezing temperatures
+retinal detachment	can be repaired using	scleral buckle surgery
+scleral buckle surgery	involves	placing a silicone band around the eye
+scleral buckle surgery	helps to reattach	the retina
+retinal detachment	can be repaired using	vitrectomy
+vitrectomy	involves	removing the vitreous gel from the eye
+vitrectomy	allows	reattachment of the retina
+retinal detachment	may require	multiple surgeries
+retinal detachment	is associated with	underlying eye conditions
+underlying eye conditions	can increase the risk of	retinal detachment
+retinal detachment	is more common in people with	nearsightedness
+nearsightedness	causes	elongation of the eyeball
+retinal detachment	can lead to	macular hole formation
+macular hole	affects	central vision
+retinal detachment	can be prevented by	regular eye examinations
+regular eye examinations	help in early detection of	retinal tears
+retinal detachment	is a potential complication of	cataract surgery
+cataract surgery	involves	removing the cloudy lens
+cataract surgery	increases the risk of	retinal detachment
+retinal detachment	may require	postoperative positioning
+postoperative positioning	involves	keeping the head in a specific position
+postoperative positioning	helps in	reattaching the retina
+retinal detachment	can be associated with	proliferative vitreoretinopathy
+proliferative vitreoretinopathy	is a	fibrotic response in the eye
+proliferative vitreoretinopathy	can cause	recurrent retinal detachment
+retinal detachment	can be associated with	uveitis
+uveitis	is an	inflammation of the eye
+uveitis	increases the risk of	retinal detachment
+retinal detachment	can be associated with	trauma to the eye
+trauma to the eye	can result from	accidents or injuries
+retinal detachment	can be associated with	diabetic retinopathy
+diabetic retinopathy	affects	blood vessels in the retina
+diabetic retinopathy	increases the risk of	retinal detachment
+retinal detachment	can be associated with	age-related macular degeneration
+age-related macular degeneration	affects	the central part of the retina
+age-related macular degeneration	increases the risk of	retinal detachment
+retinal detachment	can be associated with	lattice degeneration
+lattice degeneration	involves	thinning of the retinal tissue
+lattice degeneration	increases the risk of	retinal tears
+retinal detachment	can be associated with	eye tumors
+eye tumors	can push the retina	causing detachment
+retinal detachment	can be associated with	inflammatory eye diseases
+inflammatory eye diseases	can lead to	retinal detachment
+retinal detachment	can be associated with	high myopia
+high myopia	is a	severe nearsightedness
+high myopia	increases the risk of	retinal detachment
+retinal detachment	is more common in	males
+retinal detachment	can be associated with	degenerative myopia
+degenerative myopia	is an	extreme nearsightedness
+degenerative myopia	increases the risk of	retinal detachment
+retinal detachment	can be associated with	genetic factors
+genetic factors	can predispose individuals to	retinal detachment
+retinal detachment	can be associated with	systemic conditions
+systemic conditions	can affect	blood flow to the retina
+retinal detachment	can be associated with	Marfan syndrome
+Marfan syndrome	is a	connective tissue disorder
+Marfan syndrome	increases the risk of	retinal detachment
+retinal detachment	can be associated with	Stickler syndrome
+Stickler syndrome	is a	genetic disorder affecting collagen
+Stickler syndrome	increases the risk of	retinal detachment
+retinal detachment	can be associated with	Wagner syndrome
+Wagner syndrome	is an	inherited eye disorder
+Wagner syndrome	increases the risk of	retinal detachment
+retinal detachment	can be associated with	retinopathy of prematurity
+retinopathy of prematurity	affects	premature infants
+retinopathy of prematurity	increases the risk of	retinal detachment
+retinal detachment	can be associated with	retinal vascular occlusion
+retinal vascular occlusion	is a	blockage of blood vessels in the retina
+retinal vascular occlusion	increases the risk of	retinal detachment
+retinal detachment	can be associated with	hypertensive retinopathy
+hypertensive retinopathy	is a	complication of high blood pressure
+hypertensive retinopathy	increases the risk of	retinal detachment
+retinal detachment	can be associated with	retinal artery macroaneurysm
+retinal artery macroaneurysm	is a	bulging of blood vessels in the retina
+retinal artery macroaneurysm	increases the risk of	retinal detachment
+retinal detachment	can be associated with	retinitis pigmentosa
+retinitis pigmentosa	is an	inherited eye disorder
+retinitis pigmentosa	increases the risk of	retinal detachment
+retinal detachment	can be associated with	ocular histoplasmosis syndrome
+ocular histoplasmosis syndrome	is an	eye infection caused by fungus
+ocular histoplasmosis syndrome	increases the risk of	retinal detachment
+retinal detachment	can be associated with	retinal vasculitis
+retinal vasculitis	is an	inflammation of the retinal blood vessels
+retinal vasculitis	increases the risk of	retinal detachment
+retinal detachment	can be associated with	retinitis
+retinitis	refers to	inflammation of the retina
+retinitis	increases the risk of	retinal detachment
+repair of retinal tear	is a	medical procedure
+repair of retinal tear	used for	treating retinal tear
+retinal tear	can lead to	retinal detachment
+retinal detachment	is a	medical condition
+retinal detachment	requires	urgent treatment
+retinal detachment	can cause	blindness
+repair of retinal tear	can prevent	retinal detachment
+repair of retinal tear	improves	vision
+retinal detachment	can be caused by	trauma
+retinal detachment	can be caused by	aging
+repair of retinal tear	involves	laser treatment
+repair of retinal tear	involves	cryotherapy
+repair of retinal tear	involves	vitrectomy
+vitrectomy	is a	surgical procedure
+cryotherapy	is a	medical procedure
+laser treatment	is a	medical procedure
+repair of retinal tear	can be performed under	local anesthesia
+repair of retinal tear	can be performed under	general anesthesia
+retinal detachment	increases	risk of other eye problems
+retinal detachment	may require	multiple surgeries
+repair of retinal tear	has a	high success rate
+retinal detachment	can occur	in one or both eyes
+repair of retinal tear	typically performed by	ophthalmologist
+retinal detachment	can cause	floaters
+retinal detachment	can be treated with	pneumatic retinopexy
+pneumatic retinopexy	is a	non-surgical procedure
+repair of retinal tear	can be performed using	laser
+repair of retinal tear	can be performed using	cryogenic probe
+retinal detachment	can be treated with	scleral buckle surgery
+scleral buckle surgery	is a	surgical procedure
+retinal detachment	can be treated with	vitrectomy
+vitrectomy	involves	removal of vitreous gel
+retinal detachment	can be treated with	retinal reattachment
+retinal detachment	can be treated with	laser photocoagulation
+laser photocoagulation	is a	medical procedure
+retinal detachment	can be treated with	cryopexy
+cryopexy	is a	medical procedure
+retinal detachment	can be treated with	pneumatic retinopexy
+pneumatic retinopexy	involves	injecting gas into the eye
+repair of retinal tear	is usually	successful in preventing retinal detachment
+retinal detachment	can lead to	permanent vision loss
+repair of retinal tear	can be performed using	vitrectomy
+retinal detachment	can be caused by	diabetes
+retinal detachment	can be caused by	previous eye surgery
+retinal detachment	can be caused by	nearsightedness
+repair of retinal tear	can be performed under	local anesthesia
+retinal detachment	can be caused by	an eye injury
+repair of retinal tear	can be performed using	laser photocoagulation
+repair of retinal tear	can be performed using	cryopexy
+repair of retinal tear	can be performed using	suturing
+retinal detachment	can be treated with	scleral buckle surgery
+retinal detachment	can be treated with	vitrectomy
+retinal detachment	can be treated with	retinopexy
+repair of retinal tear	can be performed using	cryotherapy
+cryotherapy	involves	freezing
+repair of retinal tear	can be performed using	pneumatic retinopexy
+pneumatic retinopexy	involves	injecting gas into the eye
+repair of retinal tear	can be performed using	laser photocoagulation
+repair of retinal tear	can be performed using	cryopexy
+repair of retinal tear	can be performed using	vitrectomy
+repair of retinal tear	can be performed using	retinopexy
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	pneumatic retinopexy
+repair of retinal tear	can improve	visual acuity
+retinal detachment	can be caused by	high myopia
+retinal detachment	can be caused by	cataract surgery
+retinal detachment	can be caused by	eye tumors
+repair of retinal tear	can be performed using	laser therapy
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	surgery
+repair of retinal tear	can be performed using	laser photocoagulation
+repair of retinal tear	can be performed using	cryopexy
+repair of retinal tear	can be performed using	scleral buckle surgery
+repair of retinal tear	can be performed using	vitrectomy
+retinal detachment	can be caused by	inflammatory eye diseases
+retinal detachment	can be caused by	lattice degeneration
+retinal detachment	can be caused by	family history
+repair of retinal tear	can be performed using	gas injection
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	laser treatment
+repair of retinal tear	can be performed using	scleral buckle
+repair of retinal tear	can be performed using	vitrectomy
+retinal detachment	can be caused by	retinopathy
+retinal detachment	can be caused by	severe eye injury
+retinal detachment	can be caused by	congenital defects
+repair of retinal tear	can be performed using	intraocular surgery
+repair of retinal tear	can be performed using	laser photocoagulation
+repair of retinal tear	can be performed using	cryotherapy
+retinal detachment	can be treated with	laser therapy
+retinal detachment	can be treated with	cryotherapy
+retinal detachment	can be treated with	surgical repair
+retinal detachment	can be treated with	gas injection
+retinal detachment	can be treated with	laser photocoagulation
+retinal detachment	can be treated with	cryopexy
+retinal detachment	can be treated with	laser therapy
+retinal detachment	can be treated with	cryotherapy
+retinal detachment	can be treated with	scleral buckle surgery
+retinal detachment	can be treated with	vitrectomy
+retinal detachment	can be treated with	pneumatic retinopexy
+repair of retinal tear	is a	surgical procedure
+retinal detachment	requires	immediate attention
+retinal detachment	is associated with	aging
+retinal detachment	can result in	permanent blindness
+repair of retinal tear	can improve	vision
+retinal detachment	can be prevented by	regular eye exams
+retinal detachment	can be prevented by	wearing protective eyewear
+repair of retinal tear	can be done	in an outpatient setting
+retinal detachment	can be prevented by	managing diabetes
+repair of retinal tear	is performed	by an ophthalmologist
+repair of retinal tear	is often done	under local anesthesia
+repair of retinal tear	is performed	using special instruments
+retinal detachment	can be prevented by	minimizing eye trauma
+repair of retinal tear	can be performed using	minimally invasive techniques
+repair of retinal tear	has a	high success rate
+retinal detachment	can be prevented by	avoiding eye injury
+retinal detachment	can be prevented by	maintaining a healthy lifestyle
+repair of retinal tear	can be done	on an outpatient basis
+retinal detachment	can occur	after cataract surgery
+retinal detachment	can occur	after trauma
+retinal detachment	can occur	after eye surgery
+retinal detachment	can occur	after inflammation
+retinal detachment	can occur	after diabetic retinopathy
+repair of retinal tear	can be performed using	laser therapy
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	vitrectomy
+repair of retinal tear	can be performed using	retinopexy
+repair of retinal tear	can be performed using	cryopexy
+repair of retinal tear	can be performed using	scleral buckle surgery
+retinal detachment	can be caused by	genetic factors
+retinal detachment	can be caused by	inflammatory diseases
+retinal detachment	can be caused by	drug use
+retinal detachment	can be caused by	eye infections
+retinal detachment	can be caused by	uveitis
+retinal detachment	can be caused by	trauma
+retinal detachment	can be caused by	tumors
+retinal detachment	can be caused by	macular degeneration
+retinal detachment	can be caused by	severe myopia
+retinal detachment	can be caused by	retinopathy of prematurity
+retinal detachment	can be caused by	pars plana vitrectomy
+retinal detachment	can be caused by	sickle cell retinopathy
+retinal detachment	can be caused by	choroidal rupture
+retinal detachment	can be caused by	choroidal melanoma
+retinal detachment	can be caused by	retinal tears or holes
+retinal detachment	can be caused by	lattice degeneration
+repair of retinal tear	can be performed using	pneumatic retinopexy
+repair of retinal tear	can be performed using	intravitreal injection
+repair of retinal tear	can be performed using	laser therapy
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	cryopexy
+retinal detachment	can be treated with	scleral buckle surgery
+retinal detachment	can be treated with	pneumatic retinopexy
+retinal detachment	can be treated with	vitrectomy
+retinal detachment	can be treated with	laser therapy
+retinal detachment	can be treated with	cryotherapy
+repair of retinal tear	is aimed at	preventing further damage
+retinal detachment	can be prevented by	wearing protective eyewear
+repair of retinal tear	can be performed using	laser therapy
+repair of retinal tear	can be performed using	cryotherapy
+retinal detachment	can be treated with	surgical repair
+retinal detachment	can be treated with	laser therapy
+retinal detachment	can be treated with	cryotherapy
+retinal detachment	can be treated with	gas injection
+retinal detachment	can be treated with	scleral buckle surgery
+retinal detachment	can be treated with	vitrectomy
+retinal detachment	can be treated with	gas injection
+retinal detachment	can be treated with	laser treatment
+retinal detachment	can be treated with	cryopexy
+retinal detachment	can be treated with	scleral buckle surgery
+retinal detachment	can be treated with	vitrectomy
+retinal detachment	can be treated with	gas injection
+retinal detachment	can be treated with	pneumatic retinopexy
+retinal detachment	can be treated with	laser photocoagulation
+retinal detachment	can be treated with	cryotherapy
+retinal detachment	can be treated with	scleral buckle surgery
+retinal detachment	can be treated with	vitrectomy
+repair of retinal tear	can be performed using	laser therapy
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	scleral buckle surgery
+repair of retinal tear	can be performed using	vitrectomy
+repair of retinal tear	can be performed using	retinopexy
+repair of retinal tear	can be performed using	cryopexy
+repair of retinal tear	can be performed using	gas injection
+repair of retinal tear	can be performed using	pneumatic retinopexy
+repair of retinal tear	can be performed using	laser photocoagulation
+repair of retinal tear	can be performed using	cryotherapy
+repair of retinal tear	can be performed using	scleral buckle surgery
+repair of retinal tear	can be performed using	vitrectomy
+retinal detachment	can be caused by	cataract surgery
+retinal detachment	can be caused by	rhegmatogenous retinal detachment

@@ -1,0 +1,194 @@
+other diagnostic procedures of respiratory tract and mediastinum	is a	medical testing
+other diagnostic procedures of respiratory tract and mediastinum	used for	diagnosis
+bronchoscopy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+bronchoscopy	used to	examine airways
+bronchoscopy	can detect	tumors
+bronchoscopy	can diagnose	lung infections
+bronchial wash	is a type of	bronchoscopy
+bronchial wash	used to	collect fluid samples
+bronchial wash	can detect	cancer cells
+lung biopsy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+lung biopsy	used to	examine lung tissue
+lung biopsy	can diagnose	lung diseases
+mediastinoscopy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+mediastinoscopy	used to	examine the mediastinum
+mediastinoscopy	can detect	lymph node abnormalities
+thoracentesis	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+thoracentesis	used to	remove fluid from the pleural space
+thoracentesis	can diagnose	pleural effusion
+thoracentesis	can relieve	symptoms of fluid buildup
+pleural biopsy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+pleural biopsy	used to	examine pleural tissue
+pleural biopsy	can diagnose	pleural conditions
+spirometry	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+spirometry	used to	measure lung function
+spirometry	can detect	respiratory disorders
+lung function tests	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+lung function tests	used to	evaluate lung capacity
+lung function tests	can diagnose	pulmonary diseases
+sleep study	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+sleep study	used to	evaluate sleep disorders
+sleep study	can detect	sleep apnea
+laryngoscopy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+laryngoscopy	used to	examine the larynx
+laryngoscopy	can diagnose	vocal cord disorders
+esophagoscopy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+esophagoscopy	used to	examine the esophagus
+esophagoscopy	can detect	esophageal abnormalities
+thoracoscopy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+thoracoscopy	used to	examine the chest cavity
+thoracoscopy	can diagnose	pleural diseases
+thoracoscopy	can detect	lung tumors
+bronchoalveolar lavage	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+bronchoalveolar lavage	used to	collect samples from the lungs
+bronchoalveolar lavage	can detect	lung infections
+bronchoalveolar lavage	can diagnose	pulmonary diseases
+endobronchial ultrasound	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+endobronchial ultrasound	used to	examine the airways and surrounding tissues
+endobronchial ultrasound	can detect	lung cancer
+endobronchial ultrasound	can diagnose	mediastinal abnormalities
+endobronchial biopsy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+endobronchial biopsy	used to	obtain tissue samples from the airways
+endobronchial biopsy	can detect	lung diseases
+endobronchial biopsy	can diagnose	airway abnormalities
+endoscopic ultrasound	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+endoscopic ultrasound	used to	examine the digestive tract and nearby structures
+endoscopic ultrasound	can detect	gastrointestinal tumors
+endoscopic ultrasound	can diagnose	pancreatic diseases
+thoracotomy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+thoracotomy	used to	open the chest cavity for examination
+thoracotomy	can diagnose	lung diseases
+thoracotomy	can detect	thoracic abnormalities
+endoscopic bronchial valve	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+endoscopic bronchial valve	used to	treat bronchial conditions
+endoscopic bronchial valve	can seal off lung sections
+endoscopic bronchial valve	can improve lung function
+pleuroscopy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+pleuroscopy	used to	examine the pleural cavity
+pleuroscopy	can detect	pleural diseases
+pleuroscopy	can diagnose	pleural effusion
+mediastinal biopsy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+mediastinal biopsy	used to	obtain tissue samples from the mediastinum
+mediastinal biopsy	can detect	lymph node abnormalities
+mediastinal biopsy	can diagnose	mediastinal conditions
+exhaled nitric oxide test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+exhaled nitric oxide test	used to	assess airway inflammation
+exhaled nitric oxide test	can diagnose	asthma
+exhaled nitric oxide test	can monitor	asthma treatment
+sputum culture	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+sputum culture	used to	identify respiratory infections
+sputum culture	can detect	bacterial or fungal infections
+pulmonary function test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+pulmonary function test	used to	assess lung capacity
+pulmonary function test	can diagnose	lung diseases
+gas exchange study	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+gas exchange study	used to	evaluate oxygen and carbon dioxide levels
+gas exchange study	can diagnose	respiratory disorders
+percutaneous lung biopsy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+percutaneous lung biopsy	used to	obtain tissue samples from the lungs
+percutaneous lung biopsy	can detect	lung cancer
+percutaneous lung biopsy	can diagnose	lung diseases
+impulse oscillometry	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+impulse oscillometry	used to	measure respiratory parameters
+impulse oscillometry	can detect	airway dysfunction
+impulse oscillometry	can assess	asthma control
+respiratory muscle strength test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+respiratory muscle strength test	used to	evaluate respiratory muscle function
+respiratory muscle strength test	can diagnose	neuromuscular disorders
+cough challenge test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+cough challenge test	used to	assess cough reflex sensitivity
+cough challenge test	can diagnose	chronic cough
+lung clearance index	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+lung clearance index	used to	assess lung function
+lung clearance index	can detect	cystic fibrosis
+lung clearance index	can monitor	disease progression
+left heart catheterization	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+left heart catheterization	used to	evaluate heart function
+left heart catheterization	can diagnose	coronary artery disease
+right heart catheterization	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+right heart catheterization	used to	assess heart and lung function
+right heart catheterization	can diagnose	pulmonary hypertension
+right heart catheterization	can measure	pulmonary artery pressure
+exercise stress test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+exercise stress test	used to	evaluate heart function during physical activity
+exercise stress test	can diagnose	heart conditions
+oximetry	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+oximetry	used to	measure blood oxygen levels
+oximetry	can detect	oxygen saturation abnormalities
+oximetry	can monitor	respiratory conditions
+pulmonary angiography	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+pulmonary angiography	used to	visualize blood vessels in the lungs
+pulmonary angiography	can diagnose	pulmonary embolism
+pulmonary angiography	can detect	pulmonary artery abnormalities
+quantitative lung perfusion scan	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+quantitative lung perfusion scan	used to	evaluate blood flow in the lungs
+quantitative lung perfusion scan	can diagnose	pulmonary embolism
+diffusion capacity test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+diffusion capacity test	used to	assess gas exchange in the lungs
+diffusion capacity test	can diagnose	lung diseases
+lung ventilation scan	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+lung ventilation scan	used to	assess airflow in the lungs
+lung ventilation scan	can detect	respiratory disorders
+cardiopulmonary exercise test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+cardiopulmonary exercise test	used to	evaluate heart and lung function during exercise
+cardiopulmonary exercise test	can diagnose	exercise-induced asthma
+cardiopulmonary exercise test	can assess	fitness levels
+plethysmography	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+plethysmography	used to	measure lung volumes and airflow
+plethysmography	can diagnose	respiratory disorders
+exhaled breath condensate test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+exhaled breath condensate test	used to	assess airway inflammation
+exhaled breath condensate test	can diagnose	asthma
+exhaled breath condensate test	can monitor	response to treatment
+chest x-ray	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+chest x-ray	used to	visualize the chest and lungs
+chest x-ray	can detect	lung abnormalities
+chest x-ray	can diagnose	pneumothorax
+computerized tomography	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+computerized tomography	used to	obtain detailed images of the chest and lungs
+computerized tomography	can detect	lung tumors
+computerized tomography	can diagnose	pulmonary embolism
+magnetic resonance imaging	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+magnetic resonance imaging	used to	visualize the chest and lungs
+magnetic resonance imaging	can detect	thoracic abnormalities
+magnetic resonance imaging	can diagnose	lung tumors
+positron emission tomography	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+positron emission tomography	used to	detect metabolic activity in the lungs
+positron emission tomography	can diagnose	lung cancer
+positron emission tomography	can stage	lung tumors
+surgery	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+surgery	used to	treat respiratory conditions
+surgery	can remove	tumors
+surgery	can repair	damaged airways
+surgery	can improve	lung function
+bronchial provocation test	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+bronchial provocation test	used to	assess airway hyperresponsiveness
+bronchial provocation test	can diagnose	asthma
+chest ultrasound	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+chest ultrasound	used to	visualize the chest and lungs
+chest ultrasound	can detect	pleural effusion
+chest ultrasound	can diagnose	lung infections
+bronchoscopy with transbronchial biopsy	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+bronchoscopy with transbronchial biopsy	used to	obtain lung tissue samples
+bronchoscopy with transbronchial biopsy	can diagnose	lung diseases
+bronchoscopy with transbronchial biopsy	can detect	lung cancer
+gastroesophageal reflux testing	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+gastroesophageal reflux testing	used to	evaluate acid reflux
+gastroesophageal reflux testing	can diagnose	GERD
+gastroesophageal reflux testing	can assess	treatment effectiveness
+thoracic ultrasound	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+thoracic ultrasound	used to	visualize the chest and lungs
+thoracic ultrasound	can detect	pleural abnormalities
+thoracic ultrasound	can diagnose	pleural effusion
+fine-needle aspiration	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+fine-needle aspiration	used to	obtain tissue samples from the lungs or mediastinum
+fine-needle aspiration	can detect	cancer cells
+fine-needle aspiration	can diagnose	lung diseases
+lung ultrasound	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+lung ultrasound	used to	visualize the lungs and pleural cavity
+lung ultrasound	can detect	pleural effusion
+lung ultrasound	can diagnose	lung diseases
+pleural fluid analysis	is a type of	other diagnostic procedures of respiratory tract and mediastinum
+pleural fluid analysis	used to	assess pleural fluid composition
+pleural fluid analysis	can detect	infection or inflammation
+pleural fluid analysis	can diagnose	pleural conditions

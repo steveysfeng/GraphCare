@@ -1,0 +1,82 @@
+other intraocular therapeutic procedures	are	medical treatments
+other intraocular therapeutic procedures	used for	eye conditions
+other intraocular therapeutic procedures	can improve	vision
+intravitreal injections	are a type of	other intraocular therapeutic procedures
+intravitreal injections	used for	macular degeneration
+intravitreal injections	can slow	vision loss
+laser photocoagulation	is a type of	other intraocular therapeutic procedures
+laser photocoagulation	used for	diabetic retinopathy
+laser photocoagulation	can prevent	vision loss
+vitrectomy	is a type of	other intraocular therapeutic procedures
+vitrectomy	used for	retinal detachment
+vitrectomy	can restore	vision
+transscleral cyclophotocoagulation	is a type of	other intraocular therapeutic procedures
+transscleral cyclophotocoagulation	used for	glaucoma
+transscleral cyclophotocoagulation	can reduce	intraocular pressure
+phacoemulsification	is a type of	other intraocular therapeutic procedures
+phacoemulsification	used for	cataracts
+phacoemulsification	can improve	vision
+viscosupplementation	is a type of	other intraocular therapeutic procedures
+viscosupplementation	used for	osteoarthritis
+viscosupplementation	can reduce	joint pain
+intracameral antibiotics	are a type of	other intraocular therapeutic procedures
+intracameral antibiotics	used for	endophthalmitis
+intracameral antibiotics	can treat	eye infections
+iris repair	is a type of	other intraocular therapeutic procedures
+iris repair	used for	iris trauma
+iris repair	can restore	normal iris function
+eye muscle surgery	is a type of	other intraocular therapeutic procedures
+eye muscle surgery	used for	strabismus
+eye muscle surgery	can correct	misaligned eyes
+corneal transplant	is a type of	other intraocular therapeutic procedures
+corneal transplant	used for	corneal diseases
+corneal transplant	can restore	vision
+glaucoma drainage implants	are a type of	other intraocular therapeutic procedures
+glaucoma drainage implants	used for	glaucoma
+glaucoma drainage implants	can reduce	intraocular pressure
+scleral buckling	is a type of	other intraocular therapeutic procedures
+scleral buckling	used for	retinal detachment
+scleral buckling	can reattach	the retina
+ocular prosthesis	is a type of	other intraocular therapeutic procedures
+ocular prosthesis	used for	eye loss
+ocular prosthesis	can restore	cosmesis and prosthetic function
+iris prosthesis	is a type of	other intraocular therapeutic procedures
+iris prosthesis	used for	iris defects
+iris prosthesis	can improve	appearance
+orbital decompression surgery	is a type of	other intraocular therapeutic procedures
+orbital decompression surgery	used for	thyroid eye disease
+orbital decompression surgery	can alleviate	bulging eyes
+vitreous substitutes injection	is a type of	other intraocular therapeutic procedures
+vitreous substitutes injection	used for	vitreous loss
+vitreous substitutes injection	can restore	normal eye structure
+intraocular lens implantation	is a type of	other intraocular therapeutic procedures
+intraocular lens implantation	used for	cataracts
+intraocular lens implantation	can improve	vision
+collagen crosslinking	is a type of	other intraocular therapeutic procedures
+collagen crosslinking	used for	keratoconus
+collagen crosslinking	can strengthen	the cornea
+corneal inlay	is a type of	other intraocular therapeutic procedures
+corneal inlay	used for	presbyopia
+corneal inlay	can improve	near vision
+ocular surface reconstruction	is a type of	other intraocular therapeutic procedures
+ocular surface reconstruction	used for	severe dry eye
+ocular surface reconstruction	can improve	corneal health
+punctal occlusion	is a type of	other intraocular therapeutic procedures
+punctal occlusion	used for	dry eye
+punctal occlusion	can increase	tear retention
+vitamin injections	are a type of	other intraocular therapeutic procedures
+vitamin injections	used for	vitamin deficiencies
+vitamin injections	can improve	overall health
+other intraocular therapeutic procedures	are	medical procedures
+other intraocular therapeutic procedures	used for	treatment
+vitreoretinal surgery	is a type of	other intraocular therapeutic procedures
+vitreoretinal surgery	used for	retinal detachment repair
+laser photocoagulation	is a type of	other intraocular therapeutic procedures
+laser photocoagulation	used for	diabetic retinopathy treatment
+intravitreal injection	is a type of	other intraocular therapeutic procedures
+intravitreal injection	used for	administering medications into the eye
+corneal transplant	is a type of	other intraocular therapeutic procedures
+corneal transplant	used for	replacing damaged cornea
+glaucoma surgery	is a type of	other intraocular therapeutic procedures
+glaucoma surgery	used for	lowering intraocular pressure
+other intraocular therapeutic procedures	can be	surgical or non-surgical

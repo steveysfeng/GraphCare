@@ -1,0 +1,218 @@
+vascular catheterization	is a	medical procedure
+vascular catheterization	used for	delivering medication
+vascular catheterization	can cause	infection
+catheter-related bloodstream infection	is a type of	infection
+catheter-related bloodstream infection	can result in	sepsis
+sepsis	can lead to	organ failure
+organ failure	may result in	mortality
+vascular catheterization	can lead to	complications
+complications	may require	catheter removal
+catheter removal	can be done by	healthcare professional
+vascular catheterization	can be performed using	an ultrasound-guided technique
+vascular catheterization	can be performed in	an outpatient setting
+vascular catheterization	may require	sedation
+sedation	can be administered	intravenously
+vascular catheterization	can be used for	angiography
+angiography	is a type of	imaging procedure
+vascular catheterization	can be used for	angioplasty
+angioplasty	is a	coronary intervention
+angioplasty	can improve	blood flow
+vascular catheterization	can be used for	thrombolysis
+thrombolysis	is a	clot-dissolving therapy
+thrombolysis	can be used to	treat blood clots
+vascular catheterization	can be used for	embolization
+embolization	is a	technique to block blood supply
+vascular catheterization	can be used for	fistulography
+fistulography	is a	procedure to evaluate fistulas
+vascular catheterization	can be used for	hemodialysis
+hemodialysis	is a	treatment for kidney failure
+hemodialysis	requires	vascular access
+vascular catheterization	can be used for	vein mapping
+vein mapping	is a	technique to assess veins
+vascular catheterization	can be used for	central venous pressure monitoring
+central venous pressure monitoring	measures	fluid status
+vascular catheterization	can be used for	blood sampling
+blood sampling	is used for	diagnostic tests
+vascular catheterization	can be used for	fluid resuscitation
+fluid resuscitation	involves	intravenous fluids
+vascular catheterization	can be used for	hemodynamic monitoring
+hemodynamic monitoring	assesses	cardiovascular function
+vascular catheterization	can be used for	transvenous pacemaker placement
+transvenous pacemaker placement	is a	procedure to implant a heart device
+vascular catheterization	can be used for	ablation
+ablation	is a	procedure to treat arrhythmias
+vascular catheterization	can be used for	embolization of uterine fibroids
+embolization of uterine fibroids	involves	blocking blood supply to fibroids
+vascular catheterization	can be used for	intracranial pressure monitoring
+intracranial pressure monitoring	measures	pressure in the skull
+vascular catheterization	can be used for	vasospasm treatment
+vasospasm treatment	involves	administering vasodilators
+vascular catheterization	can be used for	administration of intra-arterial chemotherapy
+administration of intra-arterial chemotherapy	involves	delivering chemotherapy directly into the tumor
+vascular catheterization	can be used for	portal vein embolization
+portal vein embolization	is a	technique to increase the future liver remnant
+vascular catheterization	can be used for	radioembolization
+radioembolization	is a	targeted radiation therapy
+vascular catheterization	can be used for	varicose vein treatment
+varicose vein treatment	involves	closing or removing veins
+vascular catheterization	can be used for	radiofrequency ablation
+radiofrequency ablation	is a	procedure to treat abnormal heart rhythm
+vascular catheterization	can be used for	venous stenting
+venous stenting	is a	procedure to open blocked veins
+vascular catheterization	can be used for	catheter-directed thrombolysis
+catheter-directed thrombolysis	is a	treatment for blood clots
+vascular catheterization	can be used for	chemoembolization of liver tumors
+chemoembolization of liver tumors	involves	delivering chemotherapy and blocking blood supply to tumors
+vascular catheterization	can be used for	inferior vena cava filter placement
+inferior vena cava filter placement	is a	procedure to prevent blood clots from traveling to the lungs
+vascular catheterization	can be used for	percutaneous transluminal angioplasty
+percutaneous transluminal angioplasty	is a	minimally invasive procedure to open narrowed blood vessels
+vascular catheterization	can be used for	hemodialysis catheter placement
+hemodialysis catheter placement	is a	procedure to insert a catheter for dialysis
+vascular catheterization	can be used for	transcatheter aortic valve replacement
+transcatheter aortic valve replacement	is a	minimally invasive procedure to replace the aortic valve
+vascular catheterization	can be used for	percutaneous coronary intervention
+percutaneous coronary intervention	is a	procedure to treat blocked heart arteries
+percutaneous coronary intervention	can be performed using	stents
+vascular catheterization	can be used for	transradial artery access
+transradial artery access	is a	technique to access the arteries in the wrist
+vascular catheterization	can be used for	endovascular repair of aortic aneurysms
+endovascular repair of aortic aneurysms	involves	inserting a stent graft
+vascular catheterization	can be used for	venous angioplasty and stenting
+venous angioplasty and stenting	is a	treatment for venous stenosis
+vascular catheterization	can be used for	uterine artery embolization
+uterine artery embolization	is a	procedure to treat certain uterine conditions
+vascular catheterization	can be used for	intrathecal chemotherapy administration
+intrathecal chemotherapy administration	involves	delivering chemotherapy into the cerebrospinal fluid
+vascular catheterization	can be used for	carotid artery stenting
+carotid artery stenting	is a	treatment for carotid artery disease
+vascular catheterization	can be used for	infusion of thrombolytic drugs
+infusion of thrombolytic drugs	is a	treatment for blood clots
+vascular catheterization	can be used for	uterine artery embolization
+uterine artery embolization	is a	treatment for uterine fibroids
+vascular catheterization	can be used for	bronchial artery embolization
+bronchial artery embolization	is a	treatment for hemoptysis
+vascular catheterization	can be used for	percutaneous nephrostomy
+percutaneous nephrostomy	is a	procedure to drain the kidney
+vascular catheterization	can be used for	varicocele embolization
+varicocele embolization	is a	treatment for varicocele
+vascular catheterization	can be used for	fallopian tube recanalization
+fallopian tube recanalization	is a	procedure to treat blocked fallopian tubes
+vascular catheterization	can be used for	diagnostic angiography
+diagnostic angiography	is a	procedure to visualize blood vessels
+vascular catheterization	can be used for	hepatic artery infusion pump placement
+hepatic artery infusion pump placement	is a	procedure to deliver chemotherapy to the liver
+vascular catheterization	can be used for	diagnostic arteriography
+diagnostic arteriography	is a	procedure to visualize arteries
+vascular catheterization	can be used for	cauterization
+cauterization	is a	technique to stop bleeding
+vascular catheterization	can be used for	endovascular aneurysm repair
+endovascular aneurysm repair	is a	procedure to treat aortic aneurysms
+vascular catheterization	can be used for	debridement
+debridement	is a	technique to remove dead tissue
+vascular catheterization	can be used for	percutaneous transhepatic cholangiography
+percutaneous transhepatic cholangiography	is a	procedure to diagnose biliary tract diseases
+vascular catheterization	can be used for	transcatheter mitral valve repair
+transcatheter mitral valve repair	is a	procedure to treat mitral valve regurgitation
+vascular catheterization	can be used for	embolization of arteriovenous malformations
+embolization of arteriovenous malformations	involves	blocking abnormal connections between arteries and veins
+vascular catheterization	can be used for	endovascular treatment of deep vein thrombosis
+endovascular treatment of deep vein thrombosis	involves	removing or dissolving blood clots
+vascular catheterization	can be used for	arterial blood gas sampling
+arterial blood gas sampling	measures	blood oxygen and carbon dioxide levels
+vascular catheterization	can be used for	intravenous fluid administration
+intravenous fluid administration	delivers	fluids directly into the veins
+vascular catheterization	can be used for	intravenous drug administration
+intravenous drug administration	delivers	medication directly into the veins
+vascular catheterization	can be used for	central venous catheter placement
+central venous catheter placement	is a	procedure to insert a catheter into a large vein
+vascular catheterization	can be used for	peripheral arterial disease treatment
+peripheral arterial disease treatment	involves	improving blood flow to the legs
+vascular catheterization	can be used for	venous thrombolysis
+venous thrombolysis	is a	treatment for blood clots in veins
+vascular catheterization	can be used for	endovascular treatment of intracranial aneurysms
+endovascular treatment of intracranial aneurysms	involves	inserting coils or stents
+vascular catheterization	can be used for	peripheral artery stenting
+peripheral artery stenting	is a	treatment for narrowed peripheral arteries
+vascular catheterization	can be used for	angiographic embolization
+angiographic embolization	is a	treatment to block blood vessels
+vascular catheterization	can be used for	intrathecal pain pump implantation
+intrathecal pain pump implantation	is a	procedure to treat chronic pain
+vascular catheterization	can be used for	chemoembolization of liver tumors
+chemoembolization of liver tumors	involves	delivering chemotherapy and blocking blood supply to tumors
+vascular catheterization	can be used for	arteriovenous fistula creation
+arteriovenous fistula creation	is a	surgical procedure to create a connection between an artery and a vein
+vascular catheterization	can be used for	peritoneal dialysis catheter placement
+peritoneal dialysis catheter placement	is a	procedure to insert a catheter for dialysis
+vascular catheterization	can be used for	pulmonary artery catheterization
+pulmonary artery catheterization	is a	procedure to measure pressures in the heart and lungs
+vascular catheterization	can be used for	transcatheter closure of atrial septal defect
+transcatheter closure of atrial septal defect	is a	procedure to repair a hole in the heart
+vascular catheterization	can be used for	percutaneous endoscopic gastrostomy tube placement
+percutaneous endoscopic gastrostomy tube placement	is a	procedure to insert a feeding tube
+vascular catheterization	can be used for	lymphangiography
+lymphangiography	is a	procedure to visualize the lymphatic system
+vascular catheterization	can be used for	balloon angioplasty
+balloon angioplasty	is a	procedure to open narrowed blood vessels
+vascular catheterization	can be used for	tunneled central venous catheter placement
+tunneled central venous catheter placement	is a	procedure to insert a catheter for long-term use
+vascular catheterization	can be used for	deep vein thrombosis treatment
+deep vein thrombosis treatment	involves	removing or dissolving blood clots
+vascular catheterization	can be used for	endovascular treatment of peripheral artery disease
+endovascular treatment of peripheral artery disease	involves	improving blood flow to the legs
+vascular catheterization	can be used for	vena cava filter placement
+vena cava filter placement	is a	procedure to prevent blood clots from traveling to the lungs
+vascular catheterization	can be used for	percutaneous biliary drainage
+percutaneous biliary drainage	is a	procedure to drain bile from the liver
+vascular catheterization	can be used for	peripheral atherectomy
+peripheral atherectomy	is a	procedure to remove plaque from arteries
+vascular catheterization	can be used for	kyphoplasty
+kyphoplasty	is a	procedure to treat spinal fractures
+vascular catheterization	can be used for	dialysis access maintenance
+dialysis access maintenance	involves	monitoring and maintaining a dialysis access site
+vascular catheterization	can be used for	arterial embolization
+arterial embolization	is a	technique to block the blood supply to a tumor
+vascular catheterization	can be used for	radiofrequency ablation of tumors
+radiofrequency ablation of tumors	is a	procedure to treat cancerous tumors
+vascular catheterization	can be used for	intracranial angioplasty
+intracranial angioplasty	is a	procedure to open narrowed blood vessels in the brain
+vascular catheterization	can be used for	radioembolization of liver tumors
+radioembolization of liver tumors	involves	delivering radiation directly to liver tumors
+vascular catheterization	can be used for	uterine fibroid embolization
+uterine fibroid embolization	is a	procedure to block blood supply to fibroids
+vascular catheterization	can be used for	cholecystostomy tube placement
+cholecystostomy tube placement	is a	procedure to drain the gallbladder
+vascular catheterization	can be used for	atrial septostomy
+atrial septostomy	is a	procedure to create an opening between the upper chambers of the heart
+vascular catheterization	can be used for	percutaneous nephrolithotomy
+percutaneous nephrolithotomy	is a	procedure to remove kidney stones
+vascular catheterization	can be used for	intracerebral hemorrhage evacuation
+intracerebral hemorrhage evacuation	is a	procedure to remove bleeding in the brain
+vascular catheterization	can be used for	transluminal angioplasty
+transluminal angioplasty	is a	procedure to open narrowed blood vessels
+vascular catheterization	can be used for	biliary stenting
+biliary stenting	is a	procedure to open blocked bile ducts
+vascular catheterization	can be used for	intravenous thrombolysis
+intravenous thrombolysis	is a	treatment for blood clots
+vascular catheterization	can be used for	intrathecal drug delivery
+intrathecal drug delivery	involves	delivering medication directly into the cerebrospinal fluid
+vascular catheterization	can be used for	hepatobiliary scintigraphy
+hepatobiliary scintigraphy	is a	nuclear medicine imaging procedure
+vascular catheterization	can be used for	balloon valvuloplasty
+balloon valvuloplasty	is a	procedure to treat narrowed heart valves
+vascular catheterization	can be used for	transarterial chemoembolization
+transarterial chemoembolization	is a	treatment for liver cancer
+vascular catheterization	can be used for	thoracic duct embolization
+thoracic duct embolization	is a	procedure to treat chyle leakage
+vascular catheterization	can be used for	intravascular ultrasound
+intravascular ultrasound	is a	technique to visualize blood vessels
+vascular catheterization	can be used for	iatrogenic arteriovenous fistula treatment
+iatrogenic arteriovenous fistula treatment	involves	closing abnormal connections between arteries and veins
+vascular catheterization	can be used for	percutaneous cholecystostomy
+percutaneous cholecystostomy	is a	procedure to drain the gallbladder
+vascular catheterization	can be used for	sacroplasty
+sacroplasty	is a	procedure to treat fractures in the sacrum
+vascular catheterization	can be used for	celiac plexus block
+celiac plexus block	is a	procedure to relieve abdominal pain
+vascular catheterization	can be used for	hypogastric artery embolization
+hypogastric artery embolization	is a	procedure to treat pelvic bleeding

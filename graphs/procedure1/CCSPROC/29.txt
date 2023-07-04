@@ -1,0 +1,66 @@
+dental procedures	are	medical treatments
+dental procedures	used for	oral health care
+dental cleaning	is a type of	dental procedure
+dental cleaning	removes	plaque
+dental filling	is a type of	dental procedure
+dental filling	repairs	cavities
+tooth extraction	is a type of	dental procedure
+tooth extraction	removes	damaged teeth
+root canal	is a type of	dental procedure
+root canal	treats	infected tooth
+orthodontic treatment	is a type of	dental procedure
+orthodontic treatment	corrects	teeth alignment
+dental implant	is a type of	dental procedure
+dental implant	replaces	missing teeth
+wisdom tooth removal	is a type of	dental procedure
+wisdom tooth removal	extracts	impacted teeth
+dental prophylaxis	is a type of	dental procedure
+dental prophylaxis	prevents	gum disease
+teeth whitening	is a type of	dental procedure
+teeth whitening	brightens	teeth
+gum surgery	is a type of	dental procedure
+gum surgery	treats	gum disease
+orthognathic surgery	is a type of	dental procedure
+orthognathic surgery	corrects	jaw alignment
+dental crown	is a type of	dental procedure
+dental crown	restores	damaged teeth
+bridges	is a type of	dental procedure
+bridges	replace	missing teeth
+cosmetic dentistry	is a type of	dental procedure
+cosmetic dentistry	enhances	smile
+periodontal surgery	is a type of	dental procedure
+periodontal surgery	treats	gum disease
+dental reshaping	is a type of	dental procedure
+dental reshaping	improves	tooth appearance
+dentures	is a type of	dental procedure
+dentures	replace	missing teeth
+dental bonding	is a type of	dental procedure
+dental bonding	repairs	chipped teeth
+oral surgery	is a type of	dental procedure
+oral surgery	treats	oral health conditions
+endodontic treatment	also known as	root canal treatment
+endodontic treatment	treats	infected tooth
+prophylactic dental treatment	prevents	oral diseases
+prophylactic dental treatment	includes	dental cleaning
+orthodontic appliances	are used in	orthodontic treatment
+orthodontic appliances	correct	teeth alignment
+orthodontic braces	are used in	orthodontic treatment
+orthodontic braces	straighten	teeth
+orthodontic retainers	are used in	orthodontic treatment
+orthodontic retainers	maintain	teeth alignment
+teeth scaling	is a type of	dental procedure
+teeth scaling	removes	tartar
+dental fluorosis	is a	dental condition
+dental fluorosis	caused by	excessive fluoride intake
+gingival recession	is a	dental condition
+gingival recession	characterized by	receding gums
+tooth sensitivity	is a	dental condition
+tooth sensitivity	causes	pain with hot or cold
+oral cancer	is a	medical condition
+oral cancer	characterized by	abnormal growth in the mouth
+tooth decay	is a	dental condition
+tooth decay	caused by	bacteria in the mouth
+gum disease	is a	dental condition
+gum disease	caused by	plaque buildup
+dry mouth	is a	medical condition
+dry mouth	characterized by	insufficient saliva production

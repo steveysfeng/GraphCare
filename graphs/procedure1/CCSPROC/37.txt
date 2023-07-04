@@ -1,0 +1,208 @@
+diagnostic bronchoscopy	is a	medical procedure
+biopsy	is a	medical procedure
+diagnostic bronchoscopy	used for	diagnosis
+biopsy	used for	diagnosis
+diagnostic bronchoscopy	can detect	lung cancer
+biopsy	can detect	lung cancer
+diagnostic bronchoscopy	can detect	infection
+biopsy	can detect	infection
+diagnostic bronchoscopy	can detect	tuberculosis
+biopsy	can detect	tuberculosis
+diagnostic bronchoscopy	can detect	inflammatory lung diseases
+biopsy	can detect	inflammatory lung diseases
+diagnostic bronchoscopy	can detect	bronchial abnormalities
+biopsy	can detect	bronchial abnormalities
+diagnostic bronchoscopy	can detect	bronchial tumors
+biopsy	can detect	bronchial tumors
+diagnostic bronchoscopy	can detect	bronchial infections
+biopsy	can detect	bronchial infections
+diagnostic bronchoscopy	can detect	bronchial inflammation
+biopsy	can detect	bronchial inflammation
+diagnostic bronchoscopy	can detect	bronchial abscesses
+biopsy	can detect	bronchial abscesses
+diagnostic bronchoscopy	can detect	foreign bodies in the bronchial tubes
+biopsy	can detect	foreign bodies in the bronchial tubes
+diagnostic bronchoscopy	can detect	bronchial stenosis
+biopsy	can detect	bronchial stenosis
+diagnostic bronchoscopy	can detect	bronchial strictures
+biopsy	can detect	bronchial strictures
+diagnostic bronchoscopy	can detect	bronchial polyps
+biopsy	can detect	bronchial polyps
+diagnostic bronchoscopy	can detect	bronchial cysts
+biopsy	can detect	bronchial cysts
+diagnostic bronchoscopy	can detect	bronchial tumors
+biopsy	can detect	bronchial tumors
+diagnostic bronchoscopy	can detect	tracheal abnormalities
+biopsy	can detect	tracheal abnormalities
+diagnostic bronchoscopy	can detect	tracheal tumors
+biopsy	can detect	tracheal tumors
+diagnostic bronchoscopy	can detect	tracheal inflammation
+biopsy	can detect	tracheal inflammation
+diagnostic bronchoscopy	can detect	tracheal stenosis
+biopsy	can detect	tracheal stenosis
+diagnostic bronchoscopy	can detect	tracheal strictures
+biopsy	can detect	tracheal strictures
+diagnostic bronchoscopy	can detect	tracheal polyps
+biopsy	can detect	tracheal polyps
+diagnostic bronchoscopy	can detect	tracheal cysts
+biopsy	can detect	tracheal cysts
+diagnostic bronchoscopy	can detect	tracheal tumors
+biopsy	can detect	tracheal tumors
+diagnostic bronchoscopy	can detect	bronchial and tracheal malignancies
+biopsy	can detect	bronchial and tracheal malignancies
+diagnostic bronchoscopy	can detect	foreign bodies in the trachea
+biopsy	can detect	foreign bodies in the trachea
+diagnostic bronchoscopy	can detect	laryngeal abnormalities
+biopsy	can detect	laryngeal abnormalities
+diagnostic bronchoscopy	can detect	laryngeal tumors
+biopsy	can detect	laryngeal tumors
+diagnostic bronchoscopy	can detect	laryngeal inflammation
+biopsy	can detect	laryngeal inflammation
+diagnostic bronchoscopy	can detect	laryngeal stenosis
+biopsy	can detect	laryngeal stenosis
+diagnostic bronchoscopy	can detect	laryngeal strictures
+biopsy	can detect	laryngeal strictures
+diagnostic bronchoscopy	can detect	laryngeal polyps
+biopsy	can detect	laryngeal polyps
+diagnostic bronchoscopy	can detect	laryngeal cysts
+biopsy	can detect	laryngeal cysts
+diagnostic bronchoscopy	can detect	laryngeal tumors
+biopsy	can detect	laryngeal tumors
+diagnostic bronchoscopy	can detect	tracheal and laryngeal malignancies
+biopsy	can detect	tracheal and laryngeal malignancies
+diagnostic bronchoscopy	can detect	foreign bodies in the larynx
+biopsy	can detect	foreign bodies in the larynx
+diagnostic bronchoscopy	can detect	vocal cord abnormalities
+biopsy	can detect	vocal cord abnormalities
+diagnostic bronchoscopy	can detect	vocal cord tumors
+biopsy	can detect	vocal cord tumors
+diagnostic bronchoscopy	can detect	vocal cord inflammation
+biopsy	can detect	vocal cord inflammation
+diagnostic bronchoscopy	can detect	vocal cord paralysis
+biopsy	can detect	vocal cord paralysis
+diagnostic bronchoscopy	can detect	vocal cord nodules
+biopsy	can detect	vocal cord nodules
+diagnostic bronchoscopy	can detect	vocal cord polyps
+biopsy	can detect	vocal cord polyps
+diagnostic bronchoscopy	can detect	vocal cord cysts
+biopsy	can detect	vocal cord cysts
+diagnostic bronchoscopy	can detect	vocal cord tumors
+biopsy	can detect	vocal cord tumors
+diagnostic bronchoscopy	can detect	laryngeal and vocal cord malignancies
+biopsy	can detect	laryngeal and vocal cord malignancies
+diagnostic bronchoscopy	can detect	foreign bodies in the vocal cords
+biopsy	can detect	foreign bodies in the vocal cords
+diagnostic bronchoscopy	can detect	tracheal and vocal cord tumors
+biopsy	can detect	tracheal and vocal cord tumors
+diagnostic bronchoscopy	can detect	tracheal and vocal cord inflammation
+biopsy	can detect	tracheal and vocal cord inflammation
+diagnostic bronchoscopy	can detect	tracheal and vocal cord paralysis
+biopsy	can detect	tracheal and vocal cord paralysis
+diagnostic bronchoscopy	can detect	tracheal and vocal cord nodules
+biopsy	can detect	tracheal and vocal cord nodules
+diagnostic bronchoscopy	can detect	tracheal and vocal cord polyps
+biopsy	can detect	tracheal and vocal cord polyps
+diagnostic bronchoscopy	can detect	tracheal and vocal cord cysts
+biopsy	can detect	tracheal and vocal cord cysts
+diagnostic bronchoscopy	can detect	tracheal and vocal cord tumors
+biopsy	can detect	tracheal and vocal cord tumors
+diagnostic bronchoscopy	can detect	lung and tracheal malignancies
+biopsy	can detect	lung and tracheal malignancies
+diagnostic bronchoscopy	can detect	lung and laryngeal malignancies
+biopsy	can detect	lung and laryngeal malignancies
+diagnostic bronchoscopy	can detect	lung and vocal cord malignancies
+biopsy	can detect	lung and vocal cord malignancies
+diagnostic bronchoscopy	can detect	tracheal and laryngeal tumors
+biopsy	can detect	tracheal and laryngeal tumors
+diagnostic bronchoscopy	can detect	lung and tracheal tumors
+biopsy	can detect	lung and tracheal tumors
+diagnostic bronchoscopy	can detect	lung and vocal cord tumors
+biopsy	can detect	lung and vocal cord tumors
+diagnostic bronchoscopy	can detect	lung and tracheal inflammation
+biopsy	can detect	lung and tracheal inflammation
+diagnostic bronchoscopy	can detect	lung and laryngeal inflammation
+biopsy	can detect	lung and laryngeal inflammation
+diagnostic bronchoscopy	can detect	lung and vocal cord inflammation
+biopsy	can detect	lung and vocal cord inflammation
+diagnostic bronchoscopy	can detect	lung and tracheal paralysis
+biopsy	can detect	lung and tracheal paralysis
+diagnostic bronchoscopy	can detect	lung and laryngeal paralysis
+biopsy	can detect	lung and laryngeal paralysis
+diagnostic bronchoscopy	can detect	lung and vocal cord paralysis
+biopsy	can detect	lung and vocal cord paralysis
+diagnostic bronchoscopy	can detect	lung and tracheal nodules
+biopsy	can detect	lung and tracheal nodules
+diagnostic bronchoscopy	can detect	lung and laryngeal nodules
+biopsy	can detect	lung and laryngeal nodules
+diagnostic bronchoscopy	can detect	lung and vocal cord nodules
+biopsy	can detect	lung and vocal cord nodules
+diagnostic bronchoscopy	can detect	lung and tracheal polyps
+biopsy	can detect	lung and tracheal polyps
+diagnostic bronchoscopy	can detect	lung and laryngeal polyps
+biopsy	can detect	lung and laryngeal polyps
+diagnostic bronchoscopy	can detect	lung and vocal cord polyps
+biopsy	can detect	lung and vocal cord polyps
+diagnostic bronchoscopy	can detect	lung and tracheal cysts
+biopsy	can detect	lung and tracheal cysts
+diagnostic bronchoscopy	can detect	lung and laryngeal cysts
+biopsy	can detect	lung and laryngeal cysts
+diagnostic bronchoscopy	can detect	lung and vocal cord cysts
+biopsy	can detect	lung and vocal cord cysts
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal malignancies
+biopsy	can detect	lung and tracheal and laryngeal malignancies
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord malignancies
+biopsy	can detect	lung and tracheal and vocal cord malignancies
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord malignancies
+biopsy	can detect	lung and laryngeal and vocal cord malignancies
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord malignancies
+biopsy	can detect	tracheal and laryngeal and vocal cord malignancies
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal tumors
+biopsy	can detect	lung and tracheal and laryngeal tumors
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord tumors
+biopsy	can detect	lung and tracheal and vocal cord tumors
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord tumors
+biopsy	can detect	lung and laryngeal and vocal cord tumors
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord tumors
+biopsy	can detect	tracheal and laryngeal and vocal cord tumors
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal inflammation
+biopsy	can detect	lung and tracheal and laryngeal inflammation
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord inflammation
+biopsy	can detect	lung and tracheal and vocal cord inflammation
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord inflammation
+biopsy	can detect	lung and laryngeal and vocal cord inflammation
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord inflammation
+biopsy	can detect	tracheal and laryngeal and vocal cord inflammation
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal paralysis
+biopsy	can detect	lung and tracheal and laryngeal paralysis
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord paralysis
+biopsy	can detect	lung and tracheal and vocal cord paralysis
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord paralysis
+biopsy	can detect	lung and laryngeal and vocal cord paralysis
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord paralysis
+biopsy	can detect	tracheal and laryngeal and vocal cord paralysis
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal nodules
+biopsy	can detect	lung and tracheal and laryngeal nodules
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord nodules
+biopsy	can detect	lung and tracheal and vocal cord nodules
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord nodules
+biopsy	can detect	lung and laryngeal and vocal cord nodules
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord nodules
+biopsy	can detect	tracheal and laryngeal and vocal cord nodules
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal polyps
+biopsy	can detect	lung and tracheal and laryngeal polyps
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord polyps
+biopsy	can detect	lung and tracheal and vocal cord polyps
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord polyps
+biopsy	can detect	lung and laryngeal and vocal cord polyps
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord polyps
+biopsy	can detect	tracheal and laryngeal and vocal cord polyps
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal cysts
+biopsy	can detect	lung and tracheal and laryngeal cysts
+diagnostic bronchoscopy	can detect	lung and tracheal and vocal cord cysts
+biopsy	can detect	lung and tracheal and vocal cord cysts
+diagnostic bronchoscopy	can detect	lung and laryngeal and vocal cord cysts
+biopsy	can detect	lung and laryngeal and vocal cord cysts
+diagnostic bronchoscopy	can detect	tracheal and laryngeal and vocal cord cysts
+biopsy	can detect	tracheal and laryngeal and vocal cord cysts
+diagnostic bronchoscopy	can detect	lung and tracheal and laryngeal and vocal cord malignancies
+biopsy	can detect	lung and tracheal and laryngeal and vocal cord malignancies

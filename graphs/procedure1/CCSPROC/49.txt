@@ -1,0 +1,20 @@
+heart procedure	is a	medical procedure
+heart procedure	used for	treatment
+cardiac catheterization	is a type of	heart procedure
+cardiac catheterization	can diagnose	blockages
+angioplasty	is a type of	heart procedure
+angioplasty	used to	open blocked arteries
+coronary artery bypass grafting	is a type of	heart procedure
+coronary artery bypass grafting	used to	bypass blocked arteries
+valvuloplasty	is a type of	heart procedure
+valvuloplasty	used to	repair or replace heart valves
+pacemaker implantation	is a type of	heart procedure
+pacemaker implantation	used to	regulate heart rhythm
+defibrillator implantation	is a type of	heart procedure
+defibrillator implantation	used to	treat abnormal heart rhythms
+heart transplant	is a type of	heart procedure
+heart transplant	used to	treat end-stage heart failure
+heart valve replacement	is a type of	heart procedure
+heart valve replacement	used to	replace damaged heart valves
+heart bypass surgery	is a type of	heart procedure
+heart bypass surgery	used to	bypass blocked arteries

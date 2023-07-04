@@ -1,0 +1,227 @@
+incision and excision of CNS	is a	surgical procedure
+incision and excision of CNS	used for	treatment
+brain tumor	can be treated by	incision and excision of CNS
+hematoma	can be treated by	incision and excision of CNS
+stroke	can be treated by	incision and excision of CNS
+incision and excision of CNS	can cause	infection
+incision and excision of CNS	can cause	bleeding
+incision and excision of CNS	can cause	nerve damage
+incision and excision of CNS	can result in	paralysis
+incision and excision of CNS	can result in	death
+incision and excision of CNS	requires	anesthesia
+incision and excision of CNS	performed by	neurosurgeon
+incision and excision of CNS	performed in	operating room
+incision and excision of CNS	incision made in	scalp
+incision and excision of CNS	used for	biopsy
+biopsy	can be performed during	incision and excision of CNS
+incision and excision of CNS	can be performed using	laser
+incision and excision of CNS	can be performed using	robotic technology
+incision and excision of CNS	recovery time after	varies
+incision and excision of CNS	decision to perform	depends on	patient's condition
+incision and excision of CNS	success rate of	depends on	skill of surgeon
+incision and excision of CNS	complications of	include	infection
+incision and excision of CNS	complications of	include	bleeding
+incision and excision of CNS	complications of	include	nerve damage
+incision and excision of CNS	complications of	include	paralysis
+incision and excision of CNS	complications of	include	death
+incision and excision of CNS	complications of	include	hematoma
+incision and excision of CNS	complications of	include	CSF leak
+incision and excision of CNS	complications of	include	meningitis
+incision and excision of CNS	complications of	include	seizures
+incision and excision of CNS	complications of	include	stroke
+incision and excision of CNS	complications of	include	hydrocephalus
+incision and excision of CNS	complications of	include	cognitive impairment
+incision and excision of CNS	complications of	include	visual disturbances
+incision and excision of CNS	complications of	include	aphasia
+incision and excision of CNS	complications of	include	memory loss
+incision and excision of CNS	complications of	include	motor dysfunction
+incision and excision of CNS	complications of	include	sensory loss
+incision and excision of CNS	complications of	include	difficulty concentrating
+incision and excision of CNS	complications of	include	emotional changes
+incision and excision of CNS	complications of	include	personality changes
+incision and excision of CNS	complications of	include	depression
+incision and excision of CNS	complications of	include	anxiety
+incision and excision of CNS	complications of	include	post-operative pain
+incision and excision of CNS	complications of	include	blood clot formation
+incision and excision of CNS	complications of	include	incisional hernia
+incision and excision of CNS	complications of	include	wound dehiscence
+incision and excision of CNS	complications of	include	respiratory complications
+incision and excision of CNS	complications of	include	urinary tract infections
+incision and excision of CNS	complications of	include	pressure ulcers
+incision and excision of CNS	complications of	include	deep vein thrombosis
+incision and excision of CNS	complications of	include	pulmonary embolism
+incision and excision of CNS	complications of	include	myocardial infarction
+incision and excision of CNS	complications of	include	pneumonia
+incision and excision of CNS	complications of	include	sepsis
+incision and excision of CNS	complications of	include	wound infection
+incision and excision of CNS	complications of	include	surgical site infection
+incision and excision of CNS	complications of	include	delirium
+incision and excision of CNS	complications of	include	urinary retention
+incision and excision of CNS	complications of	include	fecal incontinence
+incision and excision of CNS	complications of	include	urinary incontinence
+incision and excision of CNS	complications of	include	sexual dysfunction
+incision and excision of CNS	complications of	include	cerebrospinal fluid leak
+incision and excision of CNS	complications of	include	nerve injury
+incision and excision of CNS	complications of	include	infection at surgical site
+incision and excision of CNS	complications of	include	blood loss
+incision and excision of CNS	complications of	include	organ damage
+incision and excision of CNS	complications of	include	scar formation
+incision and excision of CNS	complications of	include	brain damage
+incision and excision of CNS	complications of	include	meningitis
+incision and excision of CNS	complications of	include	brain hemorrhage
+incision and excision of CNS	complications of	include	nerve damage
+incision and excision of CNS	complications of	include	skull fracture
+incision and excision of CNS	complications of	include	hematoma
+incision and excision of CNS	complications of	include	hydrocephalus
+incision and excision of CNS	complications of	include	meningitis
+incision and excision of CNS	complications of	include	post-operative infection
+incision and excision of CNS	requires	pre-operative preparation
+incision and excision of CNS	requires	pre-operative imaging
+incision and excision of CNS	requires	pre-operative blood tests
+incision and excision of CNS	requires	post-operative care
+incision and excision of CNS	can be performed in	minimally invasive manner
+minimally invasive surgery	used for	incision and excision of CNS
+minimally invasive surgery	can result in	shorter recovery time
+minimally invasive surgery	can result in	less pain
+minimally invasive surgery	can result in	fewer complications
+minimally invasive surgery	performed using	endoscope
+minimally invasive surgery	performed using	robotic technology
+minimally invasive surgery	requires	small incisions
+minimally invasive surgery	requires	shorter hospital stay
+minimally invasive surgery	requires	less anesthesia
+minimally invasive surgery	can result in	reduced scarring
+incision and excision of CNS	can be performed using	laser technology
+incision and excision of CNS	can be performed using	cryotherapy
+incision and excision of CNS	can be performed using	radiation therapy
+incision and excision of CNS	can be performed using	radiosurgery
+incision and excision of CNS	can be performed using	gamma knife
+incision and excision of CNS	can be performed using	cyberknife
+incision and excision of CNS	can be performed using	proton therapy
+incision and excision of CNS	can be performed using	ultrasound
+incision and excision of CNS	can be performed using	microsurgery
+incision and excision of CNS	can be performed using	neuroendoscopy
+incision and excision of CNS	can be performed using	neuro-navigation system
+incision and excision of CNS	can be performed using	intraoperative MRI
+incision and excision of CNS	can be performed using	intraoperative ultrasound
+incision and excision of CNS	can be performed using	intraoperative neuromonitoring
+incision and excision of CNS	can be performed using	neuronavigation system
+incision and excision of CNS	can be performed using	computer-assisted surgery
+incision and excision of CNS	can be performed using	intraoperative electromyography
+incision and excision of CNS	can be performed using	intraoperative fluorescence
+incision and excision of CNS	can be performed using	image-guided surgery
+incision and excision of CNS	can result in	improved quality of life
+incision and excision of CNS	is a	major surgery
+incision and excision of CNS	carries	risks
+incision and excision of CNS	has	potential complications
+incision and excision of CNS	has	recovery period
+incision and excision of CNS	may require	rehabilitation
+incision and excision of CNS	may require	physical therapy
+incision and excision of CNS	may require	occupational therapy
+incision and excision of CNS	may require	speech therapy
+incision and excision of CNS	may require	psychological support
+incision and excision of CNS	may require	medication
+incision and excision of CNS	may require	follow-up appointments
+incision and excision of CNS	may require	home care
+incision and excision of CNS	may require	assistive devices
+incision and excision of CNS	may require	lifestyle modifications
+incision and excision of CNS	may require	dietary changes
+incision and excision of CNS	may result in	scarring
+incision and excision of CNS	may result in	hair loss
+incision and excision of CNS	may result in	cognitive changes
+incision and excision of CNS	may result in	changes in sensation
+incision and excision of CNS	may result in	changes in coordination
+incision and excision of CNS	may result in	changes in balance
+incision and excision of CNS	may result in	changes in speech
+incision and excision of CNS	may result in	changes in memory
+incision and excision of CNS	may result in	changes in mood
+incision and excision of CNS	may result in	changes in behavior
+incision and excision of CNS	may result in	changes in personality
+incision and excision of CNS	may result in	changes in emotions
+incision and excision of CNS	may result in	changes in sleep pattern
+incision and excision of CNS	may result in	fatigue
+incision and excision of CNS	may result in	weakness
+incision and excision of CNS	may result in	numbness
+incision and excision of CNS	may result in	tingling sensation
+incision and excision of CNS	may result in	difficulty speaking
+incision and excision of CNS	may result in	difficulty swallowing
+incision and excision of CNS	may result in	difficulty walking
+incision and excision of CNS	may result in	difficulty using hands
+incision and excision of CNS	may result in	difficulty maintaining balance
+incision and excision of CNS	may result in	difficulty controlling bladder
+incision and excision of CNS	may result in	difficulty controlling bowels
+incision and excision of CNS	may result in	difficulty with fine motor skills
+incision and excision of CNS	may result in	difficulty with gross motor skills
+incision and excision of CNS	may result in	difficulty concentrating
+incision and excision of CNS	may result in	difficulty multitasking
+incision and excision of CNS	may result in	difficulty problem-solving
+incision and excision of CNS	may result in	difficulty with memory recall
+incision and excision of CNS	may result in	difficulty with decision-making
+incision and excision of CNS	may result in	difficulty with organization
+incision and excision of CNS	may result in	difficulty with planning
+incision and excision of CNS	may result in	difficulty with attention
+incision and excision of CNS	may result in	difficulty with communication
+incision and excision of CNS	may result in	difficulty with comprehension
+incision and excision of CNS	may result in	difficulty with reading
+incision and excision of CNS	may result in	difficulty with writing
+incision and excision of CNS	may result in	difficulty with problem-solving
+incision and excision of CNS	may result in	difficulty with abstract reasoning
+incision and excision of CNS	may result in	difficulty with concept formation
+incision and excision of CNS	may result in	difficulty with decision-making
+incision and excision of CNS	may result in	difficulty with insight
+incision and excision of CNS	may result in	difficulty with judgment
+incision and excision of CNS	may result in	difficulty with initiation
+incision and excision of CNS	may result in	difficulty with inhibition
+incision and excision of CNS	may result in	difficulty with mental flexibility
+incision and excision of CNS	may result in	difficulty with attention
+incision and excision of CNS	may result in	difficulty with memory
+incision and excision of CNS	may result in	difficulty with language
+incision and excision of CNS	may result in	difficulty with reasoning
+incision and excision of CNS	may result in	difficulty with perception
+incision and excision of CNS	may result in	difficulty with problem-solving
+incision and excision of CNS	may result in	difficulty with planning
+incision and excision of CNS	may result in	difficulty with decision-making
+incision and excision of CNS	may result in	difficulty with emotion regulation
+incision and excision of CNS	may result in	difficulty with impulse control
+incision and excision of CNS	may result in	difficulty with social skills
+incision and excision of CNS	may result in	difficulty with self-awareness
+incision and excision of CNS	may result in	difficulty with empathy
+incision and excision of CNS	may result in	difficulty with perspective-taking
+incision and excision of CNS	may result in	difficulty with abstract thinking
+incision and excision of CNS	may result in	difficulty with problem-solving
+incision and excision of CNS	may result in	difficulty with attention
+incision and excision of CNS	may result in	difficulty with memory
+incision and excision of CNS	may result in	difficulty with language
+incision and excision of CNS	may result in	difficulty with reasoning
+incision and excision of CNS	may result in	difficulty with perception
+incision and excision of CNS	may result in	difficulty with planning
+incision and excision of CNS	may result in	difficulty with decision-making
+incision and excision of CNS	may result in	difficulty with problem-solving
+incision and excision of CNS	may result in	difficulty with memory recall
+incision and excision of CNS	may result in	difficulty with language comprehension
+incision and excision of CNS	may result in	difficulty with problem-solving skills
+incision and excision of CNS	may result in	difficulty with concentration
+incision and excision of CNS	may result in	difficulty with learning
+incision and excision of CNS	may result in	difficulty with abstract thinking
+incision and excision of CNS	may result in	difficulty with time management
+incision and excision of CNS	may result in	difficulty with decision-making skills
+incision and excision of CNS	may result in	difficulty with executive function
+incision and excision of CNS	may result in	difficulty with working memory
+incision and excision of CNS	may result in	difficulty with attentional control
+incision and excision of CNS	may result in	difficulty with cognitive flexibility
+incision and excision of CNS	may result in	difficulty with inhibitory control
+incision and excision of CNS	may result in	difficulty with goal-directed behavior
+incision and excision of CNS	may result in	difficulty with verbal fluency
+incision and excision of CNS	may result in	difficulty with cognitive speed
+incision and excision of CNS	may result in	difficulty with mental processing
+incision and excision of CNS	may result in	difficulty with mental agility
+incision and excision of CNS	may result in	difficulty with attention
+incision and excision of CNS	may result in	difficulty with memory
+incision and excision of CNS	may result in	difficulty with language
+incision and excision of CNS	may result in	difficulty with reasoning
+incision and excision of CNS	may result in	difficulty with perception
+incision and excision of CNS	may result in	difficulty with problem-solving
+incision and excision of CNS	may result in	difficulty with planning
+incision and excision of CNS	may result in	difficulty with decision-making
+incision and excision of CNS	may result in	difficulty with attention
+incision and excision of CNS	may result in	difficulty with memory
+incision and excision of CNS	may result in	difficulty with language

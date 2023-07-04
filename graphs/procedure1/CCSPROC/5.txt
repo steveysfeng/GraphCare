@@ -1,0 +1,13 @@
+insertion	is a	medical procedure
+insertion	can be used for	pain management
+catheter	is a type of	insertion
+spinal stimulator	is a type of	insertion
+injection	is a	medical procedure
+spinal canal	is a part of	insertion
+injection	can be done into	spinal canal
+pain management	can be achieved through	insertion
+pain relief	can be achieved through	insertion
+injection	can be used for	medication delivery
+medication delivery	can be done through	injection
+pain management	can be achieved through	injection
+pain relief	can be achieved through	injection

@@ -1,0 +1,120 @@
+laparoscopy	is a	medical procedure
+laparoscopy	used for	diagnosis
+laparoscopy	used for	treatment
+laparoscopy	can detect	tumors
+laparoscopy	can treat	appendicitis
+laparoscopy	can treat	gallstones
+laparoscopy	can treat	hernias
+laparoscopy	can treat	endometriosis
+laparoscopy	can treat	ovarian cysts
+laparoscopy	can treat	ectopic pregnancies
+laparoscopy	can detect	adhesions
+laparoscopy	can treat	pelvic inflammatory disease
+laparoscopy	can treat	infertility
+laparoscopy	can detect	infections
+laparoscopy	can detect	scar tissue
+laparoscopy	can detect	abdominal trauma
+laparoscopy	can detect	bowel obstructions
+laparoscopy	can treat	polycystic ovary syndrome
+laparoscopy	can detect	endometrial cancer
+laparoscopy	can detect	bladder conditions
+laparoscopy	can detect	liver disease
+laparoscopy	can detect	kidney disease
+laparoscopy	can treat	fallopian tube blockage
+laparoscopy	can detect	gastrointestinal bleeding
+laparoscopy	can treat	uterine fibroids
+laparoscopy	can detect	urinary tract infections
+laparoscopy	can treat	rectal prolapse
+laparoscopy	can treat	colon cancer
+laparoscopy	can detect	hiatal hernia
+laparoscopy	can detect	esophageal conditions
+laparoscopy	can treat	bowel resection
+laparoscopy	can treat	cholecystectomy
+laparoscopy	can treat	oophorectomy
+laparoscopy	can detect	pancreatic conditions
+laparoscopy	can detect	spleen conditions
+laparoscopy	can detect	adrenal conditions
+laparoscopy	can treat	bladder conditions
+laparoscopy	can detect	gastric conditions
+laparoscopy	can treat	gastric bypass surgery
+laparoscopy	can detect	intestinal conditions
+laparoscopy	can treat	bowel obstruction
+laparoscopy	can detect	intestinal bleeding
+laparoscopy	can detect	intestinal blockage
+laparoscopy	can treat	inguinal hernia
+laparoscopy	can treat	incisional hernia
+laparoscopy	can detect	lymph node conditions
+laparoscopy	can detect	peritoneal conditions
+laparoscopy	can detect	esophageal cancer
+laparoscopy	can treat	gastric ulcer
+laparoscopy	can treat	rectal cancer
+laparoscopy	can treat	colon polyps
+laparoscopy	can treat	endometrial polyps
+laparoscopy	can treat	uterine abnormalities
+laparoscopy	can treat	uterine septum
+laparoscopy	can detect	liver cancer
+laparoscopy	can detect	kidney cancer
+laparoscopy	can detect	adrenal cancer
+laparoscopy	can detect	lymphoma
+laparoscopy	can detect	gallbladder conditions
+laparoscopy	can detect	kidney stone
+laparoscopy	can detect	ureteral stone
+laparoscopy	can treat	ureteral stone
+laparoscopy	can treat	bladder cancer
+laparoscopy	can treat	kidney cancer
+laparoscopy	can detect	intestinal infections
+laparoscopy	can detect	liver infections
+laparoscopy	can detect	kidney infections
+laparoscopy	can detect	urinary tract conditions
+laparoscopy	can detect	rectal conditions
+laparoscopy	can treat	gastric conditions
+laparoscopy	can treat	intestinal conditions
+laparoscopy	can treat	liver conditions
+laparoscopy	can treat	kidney conditions
+laparoscopy	can treat	pancreatic conditions
+laparoscopy	can treat	splenic conditions
+laparoscopy	can detect	appendix conditions
+laparoscopy	can detect	gallbladder infections
+laparoscopy	can detect	kidney infections
+laparoscopy	can detect	bladder infections
+laparoscopy	can detect	uterine infections
+laparoscopy	can detect	pelvic infections
+laparoscopy	can treat	colon conditions
+laparoscopy	can treat	rectal conditions
+laparoscopy	can treat	bladder conditions
+laparoscopy	can teach	esophageal conditions
+laparoscopy	can treat	gastric conditions
+laparoscopy	can treat	bowel conditions
+laparoscopy	can detect	pelvic adhesions
+laparoscopy	can treat	pelvic adhesions
+laparoscopy	can detect	fallopian tube conditions
+laparoscopy	can detect	colon conditions
+laparoscopy	can detect	rectal conditions
+laparoscopy	can detect	bladder conditions
+laparoscopy	can treat	liver conditions
+laparoscopy	can treat	kidney conditions
+laparoscopy	can treat	adrenal conditions
+laparoscopy	can detect	spleen conditions
+laparoscopy	can detect	lymph node conditions
+laparoscopy	can detect	appendix conditions
+laparoscopy	can detect	gallbladder conditions
+laparoscopy	can detect	esophageal conditions
+laparoscopy	can detect	gastric conditions
+laparoscopy	can detect	pancreatic conditions
+laparoscopy	can detect	intestinal conditions
+laparoscopy	can detect	colon conditions
+laparoscopy	can detect	rectal conditions
+laparoscopy	can detect	bladder conditions
+laparoscopy	can detect	pelvic conditions
+laparoscopy	can detect	endometrial conditions
+laparoscopy	can detect	ovarian conditions
+laparoscopy	can detect	fallopian tube conditions
+laparoscopy	can treat	gallstone conditions
+laparoscopy	can treat	hernia conditions
+laparoscopy	can treat	endometriosis
+laparoscopy	can treat	ovarian cyst conditions
+laparoscopy	can treat	ectopic pregnancy
+laparoscopy	can treat	adhesion conditions
+laparoscopy	can treat	pelvic inflammatory disease
+laparoscopy	can treat	infertility conditions
+laparoscopy	can detect	infection conditions

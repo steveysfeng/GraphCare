@@ -1,0 +1,4 @@
+other hernia repair	is a	surgical procedure
+other hernia repair	used for	treating hernias
+inguinal hernia	is a type of	hernia
+inguinal hernia	can be repaired by	other hernia repair

@@ -1,0 +1,118 @@
+incision of pleura	is a	medical procedure
+thoracentesis	is a type of	incision of pleura
+thoracentesis	used for	fluid removal
+chest drainage	is a type of	incision of pleura
+chest drainage	used for	fluid drainage
+thoracentesis	can detect	pleural effusion
+chest drainage	can prevent	pleural infection
+thoracentesis	can relieve	shortness of breath
+chest drainage	can alleviate	chest pain
+thoracentesis	requires	local anesthesia
+chest drainage	requires	surgical placement
+thoracentesis	performed by	a healthcare professional
+chest drainage	managed by	a healthcare team
+thoracentesis	commonly done in	a hospital
+chest drainage	may cause	complications
+thoracentesis	can be used to	diagnose cancer
+chest drainage	can be used to	treat collapsed lung
+thoracentesis	can be performed	bedside
+chest drainage	can be performed	in an operating room
+thoracentesis	requires	sterile technique
+chest drainage	requires	sterile equipment
+thoracentesis	is guided by	ultrasound
+chest drainage	may require	multiple procedures
+thoracentesis	can be	painful
+chest drainage	may result in	pneumothorax
+thoracentesis	can be	life-saving
+chest drainage	may require	hospitalization
+thoracentesis	can be	outpatient procedure
+chest drainage	may involve	fluid analysis
+thoracentesis	can be	therapeutic
+chest drainage	should be	monitored closely
+thoracentesis	needs	informed consent
+chest drainage	can lead to	infection
+thoracentesis	can cause	bleeding
+chest drainage	can result in	lung injury
+thoracentesis	has	potential risks
+chest drainage	can lead to	re-expansion pulmonary edema
+thoracentesis	can be	difficult in obese patients
+chest drainage	can be used for	palliative care
+thoracentesis	can be used for	diagnosis of pleural effusion
+chest drainage	can be used for	management of empyema
+thoracentesis	can be used for	treatment of pneumothorax
+chest drainage	can relieve	respiratory distress
+thoracentesis	can detect	infection in pleural fluid
+chest drainage	can detect	cancer cells in pleural fluid
+thoracentesis	can detect	tuberculosis in pleural fluid
+chest drainage	can detect	parasites in pleural fluid
+thoracentesis	can detect	metabolic abnormalities in pleural fluid
+chest drainage	can detect	autoimmune diseases in pleural fluid
+thoracentesis	can detect	viral infections in pleural fluid
+chest drainage	can detect	fungi in pleural fluid
+thoracentesis	can detect	presence of blood in pleural fluid
+chest drainage	can detect	cholesterol levels in pleural fluid
+thoracentesis	can detect	pH levels in pleural fluid
+chest drainage	can detect	triglyceride levels in pleural fluid
+thoracentesis	can detect	presence of amylase in pleural fluid
+chest drainage	can detect	presence of lactate dehydrogenase in pleural fluid
+thoracentesis	can detect	presence of creatinine in pleural fluid
+chest drainage	can detect	presence of glucose in pleural fluid
+thoracentesis	can detect	presence of carcinoembryonic antigen in pleural fluid
+chest drainage	can detect	presence of mesothelin in pleural fluid
+thoracentesis	can detect	presence of brain natriuretic peptide in pleural fluid
+chest drainage	can detect	presence of interleukin-6 in pleural fluid
+thoracentesis	can detect	presence of adenosine deaminase in pleural fluid
+chest drainage	can detect	presence of alpha-fetoprotein in pleural fluid
+thoracentesis	can detect	presence of C-reactive protein in pleural fluid
+chest drainage	can detect	presence of lactate in pleural fluid
+thoracentesis	can detect	presence of mycobacteria in pleural fluid
+chest drainage	can detect	presence of eosinophils in pleural fluid
+thoracentesis	can detect	presence of neutrophils in pleural fluid
+chest drainage	can detect	presence of lymphocytes in pleural fluid
+thoracentesis	can detect	presence of pathogens in pleural fluid
+chest drainage	can detect	presence of malignant cells in pleural fluid
+thoracentesis	can detect	presence of bacteria in pleural fluid
+chest drainage	can detect	presence of viruses in pleural fluid
+thoracentesis	can detect	presence of fungi in pleural fluid
+chest drainage	can detect	presence of parasites in pleural fluid
+thoracentesis	can detect	presence of tumor markers in pleural fluid
+chest drainage	can detect	presence of exudate in pleural fluid
+thoracentesis	can detect	presence of transudate in pleural fluid
+thoracentesis	can detect	presence of bloody pleural effusion
+chest drainage	can detect	presence of chylous pleural effusion
+thoracentesis	can detect	presence of empyema in pleural fluid
+chest drainage	can detect	presence of hemothorax in pleural cavity
+thoracentesis	can detect	presence of chylothorax in pleural cavity
+chest drainage	can detect	presence of blood clot in pleural cavity
+thoracentesis	can detect	presence of lymphoma in pleural fluid
+chest drainage	can detect	presence of mesothelioma in pleural fluid
+thoracentesis	can detect	presence of metastatic cancer in pleural fluid
+chest drainage	can detect	presence of pneumonia in pleural fluid
+thoracentesis	can detect	presence of tuberculosis in pleural fluid
+chest drainage	can detect	presence of pulmonary embolism in pleural fluid
+thoracentesis	can detect	presence of heart failure in pleural fluid
+chest drainage	can detect	presence of liver disease in pleural fluid
+thoracentesis	can detect	presence of kidney disease in pleural fluid
+chest drainage	can detect	presence of connective tissue disease in pleural fluid
+thoracentesis	can detect	presence of autoimmune diseases in pleural fluid
+chest drainage	can detect	presence of systemic lupus erythematosus in pleural fluid
+thoracentesis	can detect	presence of rheumatoid arthritis in pleural fluid
+chest drainage	can detect	presence of sarcoidosis in pleural fluid
+thoracentesis	can detect	presence of ovarian cancer in pleural fluid
+chest drainage	can detect	presence of lung cancer in pleural fluid
+thoracentesis	can detect	presence of breast cancer in pleural fluid
+chest drainage	can detect	presence of mesothelioma in pleural fluid
+thoracentesis	can detect	presence of lymphoma in pleural fluid
+chest drainage	can detect	presence of esophageal cancer in pleural fluid
+thoracentesis	can detect	presence of stomach cancer in pleural fluid
+chest drainage	can detect	presence of pancreatic cancer in pleural fluid
+thoracentesis	can detect	presence of colorectal cancer in pleural fluid
+chest drainage	can detect	presence of kidney cancer in pleural fluid
+thoracentesis	can detect	presence of liver cancer in pleural fluid
+chest drainage	can detect	presence of prostate cancer in pleural fluid
+thoracentesis	can detect	presence of testicular cancer in pleural fluid
+chest drainage	can detect	presence of uterine cancer in pleural fluid
+thoracentesis	can detect	presence of ovarian cancer in pleural fluid
+chest drainage	can detect	presence of bladder cancer in pleural fluid
+thoracentesis	can detect	presence of thyroid cancer in pleural fluid
+chest drainage	can detect	presence of melanoma in pleural fluid

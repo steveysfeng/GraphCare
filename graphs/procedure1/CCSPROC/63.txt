@@ -1,0 +1,201 @@
+cardiovascular procedures	are	medical treatments
+cardiovascular procedures	used for	non-or therapeutic purposes
+angiography	is a type of	cardiovascular procedure
+angiography	used for	diagnosing heart conditions
+angioplasty	is a type of	cardiovascular procedure
+angioplasty	used for	widening narrowed or blocked blood vessels
+stent placement	is a type of	angioplasty
+stent placement	used for	keeping the blood vessels open
+pacemaker insertion	is a type of	cardiovascular procedure
+pacemaker insertion	used for	regulating heartbeat
+defibrillator implantation	is a type of	cardiovascular procedure
+defibrillator implantation	used for	restoring normal heart rhythm
+ablation therapy	is a type of	cardiovascular procedure
+ablation therapy	used for	destroying abnormal heart tissues
+heart valve repair	is a type of	cardiovascular procedure
+heart valve repair	used for	fixing damaged heart valves
+coronary artery bypass grafting	is a type of	cardiovascular procedure
+coronary artery bypass grafting	used for	bypassing blocked coronary arteries
+transcatheter aortic valve replacement	is a type of	cardiovascular procedure
+transcatheter aortic valve replacement	used for	replacing aortic valve without open-heart surgery
+radiofrequency ablation	is a type of	ablation therapy
+radiofrequency ablation	used for	treating abnormal heart rhythms
+percutaneous transluminal coronary angioplasty	is a type of	angioplasty
+percutaneous transluminal coronary angioplasty	used for	reopening blocked coronary arteries
+ventricular assist device implantation	is a type of	cardiovascular procedure
+ventricular assist device implantation	used for	helping the heart pump blood
+endovascular aneurysm repair	is a type of	cardiovascular procedure
+endovascular aneurysm repair	used for	treating aortic aneurysms
+heart transplant	is a type of	cardiovascular procedure
+heart transplant	used for	replacing a diseased heart with a healthy one
+coronary angiography	is a type of	angiography
+coronary angiography	used for	visualizing the coronary arteries
+percutaneous coronary intervention	is a type of	cardiovascular procedure
+percutaneous coronary intervention	used for	treating narrowed coronary arteries
+arrhythmia ablation	is a type of	ablation therapy
+arrhythmia ablation	used for	eliminating abnormal heart rhythms
+mitral valve repair	is a type of	cardiovascular procedure
+mitral valve repair	used for	fixing a leaky mitral valve
+thrombectomy	is a type of	cardiovascular procedure
+thrombectomy	used for	removing blood clots from blood vessels
+carotid endarterectomy	is a type of	cardiovascular procedure
+carotid endarterectomy	used for	removing plaque from carotid arteries
+peripheral angioplasty	is a type of	cardiovascular procedure
+peripheral angioplasty	used for	widening blocked peripheral arteries
+aortic aneurysm repair	is a type of	cardiovascular procedure
+aortic aneurysm repair	used for	fixing an enlarged aortic artery
+implantable cardioverter-defibrillator insertion	is a type of	cardiovascular procedure
+implantable cardioverter-defibrillator insertion	used for	monitoring and correcting abnormal heart rhythms
+atrial fibrillation ablation	is a type of	arrhythmia ablation
+atrial fibrillation ablation	used for	treating atrial fibrillation
+transcatheter closure of atrial septal defect	is a type of	cardiovascular procedure
+transcatheter closure of atrial septal defect	used for	closing a hole in the heart
+open-heart surgery	is a type of	cardiovascular procedure
+open-heart surgery	used for	performing complex heart procedures
+ventricular tachycardia ablation	is a type of	arrhythmia ablation
+ventricular tachycardia ablation	used for	treating ventricular tachycardia
+transcatheter mitral valve repair	is a type of	mitral valve repair
+transcatheter mitral valve repair	used for	fixing a leaking mitral valve without open-heart surgery
+coronary artery bypass surgery	is a type of	coronary artery bypass grafting
+coronary artery bypass surgery	used for	bypassing blocked coronary arteries with blood vessels from other parts of the body
+transcatheter aortic valve implantation	is a type of	transcatheter aortic valve replacement
+transcatheter aortic valve implantation	used for	replacing aortic valve without open-heart surgery
+angiographic embolization	is a type of	cardiovascular procedure
+angiographic embolization	used for	blocking abnormal blood vessels
+transcatheter pulmonary valve replacement	is a type of	cardiovascular procedure
+transcatheter pulmonary valve replacement	used for	replacing pulmonary valve without open-heart surgery
+balloon valvuloplasty	is a type of	cardiovascular procedure
+balloon valvuloplasty	used for	opening narrowed heart valves
+heart bypass surgery	is a type of	coronary artery bypass surgery
+heart bypass surgery	used for	rerouting blood around blocked coronary arteries
+transcatheter tricuspid valve repair	is a type of	cardiovascular procedure
+transcatheter tricuspid valve repair	used for	fixing a leaking tricuspid valve without open-heart surgery
+coronary angioplasty and stenting	is a combination of	percutaneous transluminal coronary angioplasty and stent placement
+coronary angioplasty and stenting	used for	reopening blocked coronary arteries and keeping them open
+ventricular septal defect closure	is a type of	cardiovascular procedure
+ventricular septal defect closure	used for	closing a hole in the wall between the heart's lower chambers
+atrial septal defect closure	is a type of	cardiovascular procedure
+atrial septal defect closure	used for	closing a hole in the wall between the heart's upper chambers
+coronary artery stenting	is a type of	stent placement
+coronary artery stenting	used for	keeping the coronary arteries open
+pericardial window creation	is a type of	cardiovascular procedure
+pericardial window creation	used for	draining fluid from the sac around the heart
+radiofrequency catheter ablation	is a type of	arrhythmia ablation
+radiofrequency catheter ablation	used for	treating abnormal heart rhythms with heat energy
+patent foramen ovale closure	is a type of	cardiovascular procedure
+patent foramen ovale closure	used for	closing a hole between the heart's atrial chambers
+transcatheter tricuspid valve replacement	is a type of	cardiovascular procedure
+transcatheter tricuspid valve replacement	used for	replacing tricuspid valve without open-heart surgery
+valvuloplasty	is a type of	cardiovascular procedure
+valvuloplasty	used for	repairing heart valves without open-heart surgery
+implantable loop recorder insertion	is a type of	cardiovascular procedure
+implantable loop recorder insertion	used for	monitoring heart rhythm over a long period of time
+pulmonary vein isolation ablation	is a type of	arrhythmia ablation
+pulmonary vein isolation ablation	used for	treating atrial fibrillation by isolating and blocking abnormal electrical signals
+left atrial appendage closure	is a type of	cardiovascular procedure
+left atrial appendage closure	used for	closing off the left atrial appendage to reduce stroke risk
+transmyocardial laser revascularization	is a type of	cardiovascular procedure
+transmyocardial laser revascularization	used for	creating channels in the heart muscle to improve blood flow
+coronary artery laser atherectomy	is a type of	cardiovascular procedure
+coronary artery laser atherectomy	used for	removing plaque from blocked coronary arteries with laser energy
+coronary artery bypass grafting revision	is a type of	cardiovascular procedure
+coronary artery bypass grafting revision	used for	fixing a previous coronary artery bypass graft
+abdominal aortic aneurysm repair	is a type of	aortic aneurysm repair
+abdominal aortic aneurysm repair	used for	fixing an enlarged abdominal aortic artery
+radiofrequency balloon ablation	is a type of	arrhythmia ablation
+radiofrequency balloon ablation	used for	treating abnormal heart rhythms with radiofrequency energy delivered through a balloon catheter
+thoracic endovascular aortic repair	is a type of	aortic aneurysm repair
+thoracic endovascular aortic repair	used for	fixing an enlarged thoracic aortic artery without open surgery
+renal artery angioplasty	is a type of	peripheral angioplasty
+renal artery angioplasty	used for	widening narrowed renal arteries
+carotid artery angioplasty	is a type of	peripheral angioplasty
+carotid artery angioplasty	used for	widening narrowed carotid arteries
+aortic arch repair	is a type of	aortic aneurysm repair
+aortic arch repair	used for	fixing an enlarged aortic arch without open surgery
+carotid artery stenting	is a type of	carotid artery angioplasty and stenting
+carotid artery stenting	used for	reopening blocked carotid arteries and keeping them open
+angioplasty and stenting	is a combination of	angioplasty and stent placement
+angioplasty and stenting	used for	reopening blocked blood vessels and keeping them open
+transcatheter pulmonary valve implantation	is a type of	transcatheter pulmonary valve replacement
+transcatheter pulmonary valve implantation	used for	replacing pulmonary valve without open-heart surgery
+balloon angioplasty	is a type of	angioplasty
+balloon angioplasty	used for	widening narrowed or blocked blood vessels
+transcatheter aortic valve-in-valve replacement	is a type of	transcatheter aortic valve replacement
+transcatheter aortic valve-in-valve replacement	used for	replacing a deteriorated aortic valve without open-heart surgery
+coronary artery bypass grafting revision with angioplasty and stenting	is a combination of	coronary artery bypass grafting revision and angioplasty with stent placement
+coronary artery bypass grafting revision with angioplasty and stenting	used for	fixing a previous coronary artery bypass graft and reopening blocked coronary arteries
+transcatheter mitral valve replacement	is a type of	transcatheter mitral valve repair
+transcatheter mitral valve replacement	used for	replacing mitral valve without open-heart surgery
+cardiac resynchronization therapy	is a type of	cardiovascular procedure
+cardiac resynchronization therapy	used for	coordinating the contractions of the heart's ventricles
+ventricular fibrillation ablation	is a type of	arrhythmia ablation
+ventricular fibrillation ablation	used for	treating ventricular fibrillation
+patent ductus arteriosus closure	is a type of	cardiovascular procedure
+patent ductus arteriosus closure	used for	closing a patent ductus arteriosus
+thoracic aortic aneurysm repair	is a type of	aortic aneurysm repair
+thoracic aortic aneurysm repair	used for	fixing an enlarged thoracic aortic artery
+coronary thrombectomy	is a type of	thrombectomy
+coronary thrombectomy	used for	removing blood clots from coronary arteries
+radiofrequency ablation of varicose veins	is a type of	ablation therapy
+radiofrequency ablation of varicose veins	used for	treating varicose veins with heat energy
+inferior vena cava filter insertion	is a type of	cardiovascular procedure
+inferior vena cava filter insertion	used for	preventing blood clots from traveling to the lungs
+electrophysiology study	is a type of	cardiovascular procedure
+electrophysiology study	used for	evaluating the electrical activity of the heart
+thrombolysis	is a type of	cardiovascular procedure
+thrombolysis	used for	dissolving blood clots
+percutaneous transluminal angioplasty	is a type of	peripheral angioplasty
+percutaneous transluminal angioplasty	used for	widening narrowed or blocked arteries in the extremities
+port access cardiac surgery	is a type of	cardiovascular procedure
+port access cardiac surgery	used for	performing heart surgery through small incisions
+intravascular ultrasound	is a type of	cardiovascular procedure
+intravascular ultrasound	used for	visualizing blood vessels from the inside
+coronary artery atherectomy	is a type of	cardiovascular procedure
+coronary artery atherectomy	used for	removing plaque from blocked coronary arteries
+thrombolytic therapy	is a type of	thrombolysis
+thrombolytic therapy	used for	dissolving blood clots with medication
+imaging-guided biopsy	is a type of	cardiovascular procedure
+imaging-guided biopsy	used for	collecting tissue samples for testing
+hypothermia therapy	is a type of	cardiovascular procedure
+hypothermia therapy	used for	lowering body temperature to protect the brain during cardiac arrest
+transcatheter closure of patent ductus arteriosus	is a type of	patent ductus arteriosus closure
+transcatheter closure of patent ductus arteriosus	used for	closing a patent ductus arteriosus without open-heart surgery
+coronary artery bypass grafting with off-pump coronary artery bypass	is a combination of	coronary artery bypass grafting and off-pump coronary artery bypass grafting
+coronary artery bypass grafting with off-pump coronary artery bypass	used for	rerouting blood around blocked coronary arteries without using a heart-lung machine
+coronary angioplasty with brachytherapy	is a combination of	angioplasty and radiation therapy
+coronary angioplasty with brachytherapy	used for	reopening blocked coronary arteries and preventing re-narrowing with radiation
+endarterectomy	is a type of	cardiovascular procedure
+endarterectomy	used for	removing plaque from the inner lining of arteries
+radiofrequency ablation of the liver	is a type of	ablation therapy
+radiofrequency ablation of the liver	used for	treating liver tumors with heat energy
+thrombectomy with stent retriever	is a combination of	thrombectomy and stent placement
+thrombectomy with stent retriever	used for	removing blood clots from blood vessels and keeping them open
+cardioversion	is a type of	cardiovascular procedure
+cardioversion	used for	restoring normal heart rhythm with electric shock
+femoral endarterectomy	is a type of	endarterectomy
+femoral endarterectomy	used for	removing plaque from the femoral arteries
+carotid artery endarterectomy	is a type of	endarterectomy
+carotid artery endarterectomy	used for	removing plaque from the carotid arteries
+coronary artery bypass grafting with robotic assistance	is a type of	coronary artery bypass grafting
+coronary artery bypass grafting with robotic assistance	used for	rerouting blood around blocked coronary arteries with the assistance of a surgical robot
+mesenteric angiography	is a type of	angiography
+mesenteric angiography	used for	visualizing the blood vessels of the mesentery
+interventional radiology	is a type of	cardiovascular procedure
+interventional radiology	used for	minimally invasive treatments using image guidance
+vena cava filter retrieval	is a type of	cardiovascular procedure
+vena cava filter retrieval	used for	removing a filter placed in the inferior vena cava to prevent blood clots
+mechanical thrombectomy	is a type of	thrombectomy
+mechanical thrombectomy	used for	removing blood clots with a mechanical device
+renal angioplasty	is a type of	peripheral angioplasty
+renal angioplasty	used for	widening narrowed renal arteries
+coronary artery bypass grafting with on-pump coronary artery bypass	is a type of	coronary artery bypass grafting
+coronary artery bypass grafting with on-pump coronary artery bypass	used for	rerouting blood around blocked coronary arteries using a heart-lung machine
+rotational atherectomy	is a type of	coronary artery atherectomy
+rotational atherectomy	used for	removing plaque from blocked coronary arteries with a rotating blade
+deep vein thrombosis treatment	is a type of	thrombosis treatment
+deep vein thrombosis treatment	used for	dissolving blood clots in deep veins
+balloon pulmonary valvuloplasty	is a type of	balloon valvuloplasty
+balloon pulmonary valvuloplasty	used for	opening narrowed pulmonary valves with a balloon catheter
+stroke thrombolysis	is a type of	thrombolysis
+stroke thrombolysis	used for	dissolving blood clots in the brain with medication
+heart defect repair	is a type of	cardiovascular procedure

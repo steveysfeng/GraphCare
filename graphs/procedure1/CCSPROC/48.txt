@@ -1,0 +1,12 @@
+insertion	is a	medical procedure
+insertion	used for	treating heart rhythm disorders
+cardiac pacemaker	is a type of	device
+cardiac pacemaker	can be inserted during	insertion
+revision	is a	medical procedure
+revision	used for	updating or adjusting pacemaker settings
+replacement	is a	medical procedure
+replacement	used for	replacing a malfunctioning pacemaker
+removal	is a	medical procedure
+removal of cardiac pacemaker	can be done during	removal
+cardioverter/defibrillator	is a type of	device
+cardiac pacemaker	can be replaced with	cardioverter/defibrillator

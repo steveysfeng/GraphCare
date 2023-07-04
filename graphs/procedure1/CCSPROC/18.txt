@@ -1,0 +1,283 @@
+diagnostic procedures on eye	is a	medical procedure
+diagnostic procedures on eye	used for	diagnosis
+ophthalmoscopy	is a type of	diagnostic procedures on eye
+ophthalmoscopy	used for	examination of the retina
+gonioscopy	is a type of	diagnostic procedures on eye
+gonioscopy	used for	examination of the drainage angle of the eye
+corneal topography	is a type of	diagnostic procedures on eye
+corneal topography	used for	mapping the surface of the cornea
+pachymetry	is a type of	diagnostic procedures on eye
+pachymetry	used for	measuring corneal thickness
+visual field test	is a type of	diagnostic procedures on eye
+visual field test	used for	assessing peripheral vision
+fundus photography	is a type of	diagnostic procedures on eye
+fundus photography	used for	photographing the back of the eye
+tonometry	is a type of	diagnostic procedures on eye
+tonometry	used for	measuring intraocular pressure
+ultrasound biomicroscopy	is a type of	diagnostic procedures on eye
+ultrasound biomicroscopy	used for	imaging the anterior segment of the eye
+fluorescein angiography	is a type of	diagnostic procedures on eye
+fluorescein angiography	used for	visualizing blood vessels in the retina
+spectral domain optical coherence tomography	is a type of	diagnostic procedures on eye
+spectral domain optical coherence tomography	used for	imaging the layers of the retina
+corneal confocal microscopy	is a type of	diagnostic procedures on eye
+corneal confocal microscopy	used for	imaging corneal nerves
+retinal tomography	is a type of	diagnostic procedures on eye
+retinal tomography	used for	imaging the layers of the retina
+slit-lamp examination	is a type of	diagnostic procedures on eye
+slit-lamp examination	used for	examining the structures of the eye
+keratometry	is a type of	diagnostic procedures on eye
+keratometry	used for	measuring corneal curvature
+optical coherence tomography	is a type of	diagnostic procedures on eye
+optical coherence tomography	used for	imaging the layers of the eye
+confocal microscopy	is a type of	diagnostic procedures on eye
+confocal microscopy	used for	imaging cellular structures of the eye
+biomicroscopy	is a type of	diagnostic procedures on eye
+biomicroscopy	used for	examining the anterior structures of the eye
+autorefractometry	is a type of	diagnostic procedures on eye
+autorefractometry	used for	measuring refractive errors
+fundus autofluorescence	is a type of	diagnostic procedures on eye
+fundus autofluorescence	used for	imaging metabolic processes in the retina
+indocyanine green angiography	is a type of	diagnostic procedures on eye
+indocyanine green angiography	used for	visualizing blood vessels in the choroid
+aberrometry	is a type of	diagnostic procedures on eye
+aberrometry	used for	measuring optical aberrations
+corneal endothelial cell count	is a type of	diagnostic procedures on eye
+corneal endothelial cell count	used for	evaluating corneal health
+retinal angiography	is a type of	diagnostic procedures on eye
+retinal angiography	used for	visualizing blood vessels in the retina
+confocal laser scanning microscopy	is a type of	diagnostic procedures on eye
+confocal laser scanning microscopy	used for	high-resolution imaging of ocular structures
+goniosynechialysis	is a type of	diagnostic procedures on eye
+goniosynechialysis	used for	separating adhesions in the drainage angle
+electroretinography	is a type of	diagnostic procedures on eye
+electroretinography	used for	measuring retinal function
+intraocular pressure measurement	is a type of	diagnostic procedures on eye
+intraocular pressure measurement	used for	assessing eye pressure
+corneal staining	is a type of	diagnostic procedures on eye
+corneal staining	used for	assessing corneal integrity
+visual evoked potential	is a type of	diagnostic procedures on eye
+visual evoked potential	used for	evaluating visual pathway function
+tonography	is a type of	diagnostic procedures on eye
+tonography	used for	measuring aqueous humor outflow
+corneal hysteresis	is a type of	diagnostic procedures on eye
+corneal hysteresis	used for	evaluating corneal biomechanics
+dark adaptation	is a type of	diagnostic procedures on eye
+dark adaptation	used for	detecting retinal dysfunction
+goniotomy	is a type of	diagnostic procedures on eye
+goniotomy	used for	opening the drainage angle
+ultrasound imaging of the eye	is a type of	diagnostic procedures on eye
+ultrasound imaging of the eye	used for	imaging ocular structures
+corneal endothelial cell density	is a type of	diagnostic procedures on eye
+corneal endothelial cell density	used for	assessing corneal health
+episcleral venous pressure measurement	is a type of	diagnostic procedures on eye
+episcleral venous pressure measurement	used for	assessing ocular blood flow
+corneal wavefront analysis	is a type of	diagnostic procedures on eye
+corneal wavefront analysis	used for	assessing corneal aberrations
+scanning laser polarimetry	is a type of	diagnostic procedures on eye
+scanning laser polarimetry	used for	assessing retinal nerve fiber layer thickness
+retinal function testing	is a type of	diagnostic procedures on eye
+retinal function testing	used for	evaluating retinal function
+tono-pen tonometry	is a type of	diagnostic procedures on eye
+tono-pen tonometry	used for	measuring intraocular pressure
+intraocular pressure monitoring	is a type of	diagnostic procedures on eye
+intraocular pressure monitoring	used for	tracking eye pressure over time
+iridotomy	is a type of	diagnostic procedures on eye
+iridotomy	used for	creating an opening in the iris
+corneal nerve fiber length	is a type of	diagnostic procedures on eye
+corneal nerve fiber length	used for	assessing corneal nerve damage
+spectral-domain OCT	is a type of	diagnostic procedures on eye
+spectral-domain OCT	used for	high-resolution imaging of ocular structures
+slit-lamp biomicroscopy	is a type of	diagnostic procedures on eye
+slit-lamp biomicroscopy	used for	examining the structures of the eye
+pupillometry	is a type of	diagnostic procedures on eye
+pupillometry	used for	measuring changes in pupil size
+intraocular lens power calculation	is a type of	diagnostic procedures on eye
+intraocular lens power calculation	used for	determining the appropriate lens power for cataract surgery
+corneal biomechanical analysis	is a type of	diagnostic procedures on eye
+corneal biomechanical analysis	used for	assessing corneal elasticity
+retinal thickness analysis	is a type of	diagnostic procedures on eye
+retinal thickness analysis	used for	measuring thickness of the retina
+central corneal thickness measurement	is a type of	diagnostic procedures on eye
+central corneal thickness measurement	used for	evaluating corneal health
+visual contrast sensitivity testing	is a type of	diagnostic procedures on eye
+visual contrast sensitivity testing	used for	assessing visual function
+visual acuity testing	is a type of	diagnostic procedures on eye
+visual acuity testing	used for	measuring clarity of vision
+anterior chamber depth measurement	is a type of	diagnostic procedures on eye
+anterior chamber depth measurement	used for	evaluating anterior segment anatomy
+intraocular pressure monitoring device	is a type of	diagnostic procedures on eye
+intraocular pressure monitoring device	used for	tracking eye pressure over time
+retinal nerve fiber layer analysis	is a type of	diagnostic procedures on eye
+retinal nerve fiber layer analysis	used for	assessing retinal damage
+retinal imaging	is a type of	diagnostic procedures on eye
+retinal imaging	used for	visualizing the retina
+aberrometer	is a type of	diagnostic procedures on eye
+aberrometer	used for	measuring optical aberrations
+diagnostic procedures on eye	include	ophthalmoscopy
+diagnostic procedures on eye	include	visual field test
+ophthalmoscopy	examines	the back of the eye
+visual field test	measures	peripheral vision
+diagnostic procedures on eye	can detect	glaucoma
+ophthalmoscopy	can detect	retinal diseases
+visual field test	can detect	vision loss
+ophthalmoscopy	can detect	optic nerve damage
+visual field test	can detect	blind spots
+diagnostic procedures on eye	can diagnose	macular degeneration
+ophthalmoscopy	can diagnose	diabetic retinopathy
+visual field test	can diagnose	neurological disorders
+ophthalmoscopy	can diagnose	cataracts
+visual field test	can diagnose	visual field defects
+diagnostic procedures on eye	can monitor	disease progression
+ophthalmoscopy	can monitor	retinal changes
+visual field test	can monitor	peripheral vision deterioration
+ophthalmoscopy	can monitor	vitreous detachment
+visual field test	can monitor	glaucoma progression
+diagnostic procedures on eye	are performed by	ophthalmologists
+ophthalmoscopy	requires	dilating eye drops
+visual field test	requires	patient cooperation
+ophthalmoscopy	is used to	evaluate eye health
+visual field test	is used to	assess visual function
+ophthalmoscopy	is important for	early detection of eye diseases
+visual field test	is important for	evaluating visual field loss
+diagnostic procedures on eye	are essential for	proper eye care
+ophthalmoscopy	is commonly performed	during routine eye exams
+visual field test	is commonly performed	for glaucoma screening
+ophthalmoscopy	is an	invasive procedure
+visual field test	is a	non-invasive procedure
+diagnostic procedures on eye	help	guide treatment decisions
+ophthalmoscopy	helps	detect retinal abnormalities
+visual field test	helps	assess visual field defects
+ophthalmoscopy	assists	in diagnosing eye disorders
+visual field test	assists	in monitoring disease progression
+diagnostic procedures on eye	are covered by	health insurance
+ophthalmoscopy	requires	specialized equipment
+visual field test	requires	a visual field analyzer
+ophthalmoscopy	offers	a detailed view of the retina
+visual field test	provides	information on visual function
+diagnostic procedures on eye	are performed	in a clinical setting
+ophthalmoscopy	is performed	by trained professionals
+visual field test	is performed	by trained technicians
+ophthalmoscopy	is performed	through a dilated pupil
+visual field test	is performed	using a computerized device
+diagnostic procedures on eye	are safe	when performed by a skilled practitioner
+ophthalmoscopy	may induce	temporary blurred vision
+visual field test	may result in	eye fatigue
+ophthalmoscopy	can guide	referral to a specialist
+visual field test	can help	determine treatment effectiveness
+ophthalmoscopy	can help	identify retinal tears
+visual field test	can detect	visual field loss patterns
+diagnostic procedures on eye	may require	follow-up testing
+ophthalmoscopy	may be used	in combination with imaging tests
+visual field test	may be used	to monitor glaucoma progression
+ophthalmoscopy	is a	valuable tool
+visual field test	is a	quantitative evaluation
+diagnostic procedures on eye	play an	important role
+ophthalmoscopy	aids in	early diagnosis
+visual field test	assists in	monitoring disease progression
+ophthalmoscopy	helps in	evaluating optic nerve health
+visual field test	helps in	detecting visual field defects
+diagnostic procedures on eye	require	patient cooperation
+ophthalmoscopy	involves	shining a bright light into the eye
+visual field test	involves	responding to visual stimuli
+ophthalmoscopy	allows	visualization of eye structures
+visual field test	measures	light sensitivity
+diagnostic procedures on eye	are used	to assess eye conditions
+ophthalmoscopy	provides	a magnified view of the eye
+visual field test	measures	the visual field area
+ophthalmoscopy	may require	pupil dilation
+visual field test	involves	manual or automated testing
+ophthalmoscopy	aids in	detecting retinal detachments
+visual field test	assists in	identifying visual field loss patterns
+ophthalmoscopy	is used	to evaluate blood vessels in the eye
+visual field test	is used	to assess visual field defects
+diagnostic procedures on eye	are important	for early detection
+ophthalmoscopy	is helpful	in assessing macular degeneration
+visual field test	is helpful	in diagnosing glaucoma
+ophthalmoscopy	assists	in detecting diabetic retinopathy
+visual field test	assists	in assessing peripheral vision
+diagnostic procedures on eye	assist	in managing eye diseases
+ophthalmoscopy	is useful	for evaluating optic nerve health
+visual field test	is useful	for monitoring glaucoma progression
+ophthalmoscopy	is necessary	for evaluating retinal diseases
+visual field test	is necessary	for diagnosing visual field defects
+diagnostic procedures on eye	are performed	to evaluate eye health
+ophthalmoscopy	assesses	changes in blood vessels
+visual field test	evaluates	peripheral vision loss
+ophthalmoscopy	detects	retinal diseases
+visual field test	detects	visual field loss
+ophthalmoscopy	can help	detect cataracts
+visual field test	can help	assess neurological disorders
+diagnostic procedures on eye	are used	to diagnose eye conditions
+ophthalmoscopy	can diagnose	retinal diseases
+visual field test	can diagnose	visual field defects
+ophthalmoscopy	can diagnose	optic nerve damage
+visual field test	can diagnose	glaucoma
+diagnostic procedures on eye	can monitor	disease progression
+ophthalmoscopy	can monitor	retinal changes
+visual field test	can monitor	peripheral vision deterioration
+ophthalmoscopy	can monitor	vitreous detachment
+visual field test	can monitor	glaucoma progression
+diagnostic procedures on eye	are performed by	ophthalmologists
+ophthalmoscopy	requires	dilating eye drops
+visual field test	requires	patient cooperation
+ophthalmoscopy	is used to	evaluate eye health
+visual field test	is used to	assess visual function
+ophthalmoscopy	is important for	early detection of eye diseases
+visual field test	is important for	evaluating visual field loss
+diagnostic procedures on eye	are essential for	proper eye care
+ophthalmoscopy	is commonly performed	during routine eye exams
+visual field test	is commonly performed	for glaucoma screening
+ophthalmoscopy	is an	invasive procedure
+visual field test	is a	non-invasive procedure
+diagnostic procedures on eye	help	guide treatment decisions
+ophthalmoscopy	helps	detect retinal abnormalities
+visual field test	helps	assess visual field defects
+ophthalmoscopy	assists	in diagnosing eye disorders
+visual field test	assists	in monitoring disease progression
+diagnostic procedures on eye	are covered by	health insurance
+ophthalmoscopy	requires	specialized equipment
+visual field test	requires	a visual field analyzer
+ophthalmoscopy	offers	a detailed view of the retina
+visual field test	provides	information on visual function
+diagnostic procedures on eye	are performed	in a clinical setting
+ophthalmoscopy	is performed	by trained professionals
+visual field test	is performed	by trained technicians
+ophthalmoscopy	is performed	through a dilated pupil
+visual field test	is performed	using a computerized device
+diagnostic procedures on eye	are safe	when performed by a skilled practitioner
+ophthalmoscopy	may induce	temporary blurred vision
+visual field test	may result in	eye fatigue
+ophthalmoscopy	can guide	referral to a specialist
+visual field test	can help	determine treatment effectiveness
+ophthalmoscopy	can help	identify retinal tears
+visual field test	can detect	visual field loss patterns
+diagnostic procedures on eye	may require	follow-up testing
+ophthalmoscopy	may be used	in combination with imaging tests
+visual field test	may be used	to monitor glaucoma progression
+ophthalmoscopy	is a	valuable tool
+visual field test	is a	quantitative evaluation
+diagnostic procedures on eye	play an	important role
+ophthalmoscopy	aids in	early diagnosis
+visual field test	assists in	monitoring disease progression
+ophthalmoscopy	helps in	evaluating optic nerve health
+visual field test	helps in	detecting visual field defects
+diagnostic procedures on eye	require	patient cooperation
+ophthalmoscopy	involves	shining a bright light into the eye
+visual field test	involves	responding to visual stimuli
+ophthalmoscopy	allows	visualization of eye structures
+visual field test	measures	light sensitivity
+diagnostic procedures on eye	are used	to assess eye conditions
+ophthalmoscopy	provides	a magnified view of the eye
+visual field test	measures	the visual field area
+ophthalmoscopy	may require	pupil dilation
+visual field test	involves	manual or automated testing
+ophthalmoscopy	aids in	detecting retinal detachments
+visual field test	assists in	identifying visual field loss patterns
+ophthalmoscopy	is used	to evaluate blood vessels in the eye
+visual field test	is used	to assess visual field defects
+diagnostic procedures on eye	are important	for early detection
+ophthalmoscopy	is helpful	in assessing macular degeneration
+visual field test	is helpful	in diagnosing glaucoma
+ophthalmoscopy	assists	in detecting diabetic retinopathy
+visual field test	assists	in assessing peripheral vision

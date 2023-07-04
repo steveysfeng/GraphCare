@@ -1,0 +1,177 @@
+destruction of lesion of retina and choroid	is a	medical procedure
+destruction of lesion of retina and choroid	used for	treatment
+retina	part of	eye
+choroid	part of	eye
+retina	responsible for	receiving visual images
+choroid	responsible for	supplying blood to the retina
+destruction of lesion of retina and choroid	can be done using	laser therapy
+laser therapy	uses	a focused beam of light
+destruction of lesion of retina and choroid	can be done using	cryotherapy
+cryotherapy	uses	extreme cold to freeze and destroy abnormal tissue
+destruction of lesion of retina and choroid	can be done using	photocoagulation
+photocoagulation	uses	heat to destroy abnormal tissue
+destruction of lesion of retina and choroid	can be done using	radiotherapy
+radiotherapy	uses	high-energy radiation to kill cancer cells
+destruction of lesion of retina and choroid	is typically performed by	an ophthalmologist
+destruction of lesion of retina and choroid	may result in	improved vision
+destruction of lesion of retina and choroid	may cause	temporary or permanent vision loss
+destruction of lesion of retina and choroid	can be a	treatment for retinoblastoma
+retinoblastoma	is a	rare childhood eye cancer
+destruction of lesion of retina and choroid	can be a	treatment for choroidal melanoma
+choroidal melanoma	is a	type of eye cancer
+destruction of lesion of retina and choroid	can be a	treatment for diabetic retinopathy
+diabetic retinopathy	is a	complication of diabetes that affects the eyes
+destruction of lesion of retina and choroid	can be a	treatment for macular degeneration
+macular degeneration	is a	progressive eye disease that affects central vision
+destruction of lesion of retina and choroid	can be a	treatment for retinal tears
+retinal tears	are	breaks in the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal detachment
+retinal detachment	is a	medical emergency where the retina peels away from the back of the eye
+destruction of lesion of retina and choroid	can be a	treatment for retinopathy of prematurity
+retinopathy of prematurity	is a	disorder that affects premature infants' eyes
+destruction of lesion of retina and choroid	can be a	treatment for uveal melanoma
+uveal melanoma	is a	type of eye cancer that occurs in the iris	ciliary body	or choroid
+destruction of lesion of retina and choroid	can be a	treatment for choroidal neovascularization
+choroidal neovascularization	is the	growth of abnormal blood vessels in the choroid
+destruction of lesion of retina and choroid	can be a	treatment for retinal vascular diseases
+retinal vascular diseases	affect	the blood vessels in the retina
+destruction of lesion of retina and choroid	can be a	treatment for hereditary retinal diseases
+hereditary retinal diseases	are	genetic disorders that affect the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinoschisis
+retinoschisis	is a	condition where the layers of the retina separate
+destruction of lesion of retina and choroid	can be a	treatment for vitreous hemorrhage
+vitreous hemorrhage	is bleeding	into the jelly-like substance that fills the inside of the eye
+destruction of lesion of retina and choroid	can be a	treatment for retinal vein occlusion
+retinal vein occlusion	is a	blockage of the veins that carry blood away from the retina
+destruction of lesion of retina and choroid	can be a	treatment for choroidal rupture
+choroidal rupture	is a	tear or breakage of the choroid
+destruction of lesion of retina and choroid	can be a	treatment for posterior vitreous detachment
+posterior vitreous detachment	is the	separation of the gel-like substance in the eye from the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal angioma
+retinal angioma	is a	benign tumor of the retina
+destruction of lesion of retina and choroid	can be a	treatment for choroidal detachment
+choroidal detachment	is the	accumulation of fluid between the choroid and the sclera
+destruction of lesion of retina and choroid	can be a	treatment for retinal artery occlusion
+retinal artery occlusion	is a	blockage of the arteries that supply blood to the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal vasculitis
+retinal vasculitis	is the	inflammation of the blood vessels in the retina
+destruction of lesion of retina and choroid	can be a	treatment for subretinal hemorrhage
+subretinal hemorrhage	is bleeding	between the retina and the outermost layer of the eye
+destruction of lesion of retina and choroid	can be a	treatment for choroiditis
+choroiditis	is the	inflammation of the choroid
+destruction of lesion of retina and choroid	can be a	treatment for retinitis
+retinitis	is the	inflammation of the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal dystrophy
+retinal dystrophy	is a	group of genetic eye disorders that cause vision loss
+destruction of lesion of retina and choroid	can be a	treatment for retinal hemorrhage
+retinal hemorrhage	is bleeding	in the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinopathy
+retinopathy	is a	general term for diseases of the retina
+destruction of lesion of retina and choroid	can be a	treatment for vitreomacular traction
+vitreomacular traction	is a	condition where the vitreous pulls on the macula
+destruction of lesion of retina and choroid	can be a	treatment for retinal inflammation
+retinal inflammation	is the	swelling and irritation of the retina
+destruction of lesion of retina and choroid	can be a	treatment for choroidal melanocytic nevi
+choroidal melanocytic nevi	are	benign moles in the choroid
+destruction of lesion of retina and choroid	can be a	treatment for myopic retinal degeneration
+myopic retinal degeneration	is the	deterioration of the retina in nearsighted individuals
+destruction of lesion of retina and choroid	can be a	treatment for choroidal effusion
+choroidal effusion	is the	accumulation of fluid in the choroid
+destruction of lesion of retina and choroid	can be a	treatment for retinal ischemia
+retinal ischemia	is the	insufficient blood flow to the retina
+destruction of lesion of retina and choroid	can be a	treatment for subretinal fluid
+subretinal fluid	is fluid	beneath the retina
+destruction of lesion of retina and choroid	can be a	treatment for chorioretinitis
+chorioretinitis	is the	inflammation of the choroid and retina
+destruction of lesion of retina and choroid	can be a	treatment for choroidal hemangioma
+choroidal hemangioma	is a	benign tumor of blood vessels in the choroid
+destruction of lesion of retina and choroid	can be a	treatment for vitreoretinal adhesions
+vitreoretinal adhesions	are	abnormal connections between the vitreous and the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal melanoma
+retinal melanoma	is a	type of cancer that forms in the cells of the retina
+destruction of lesion of retina and choroid	can be a	treatment for epiretinal membrane
+epiretinal membrane	is a	thin layer of scar tissue that forms on the surface of the retina
+destruction of lesion of retina and choroid	can be a	treatment for diabetic macular edema
+diabetic macular edema	is the	swelling of the macula in individuals with diabetes
+destruction of lesion of retina and choroid	can be a	treatment for central serous retinopathy
+central serous retinopathy	is a	condition where fluid accumulates beneath the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal tumors
+retinal tumors	are	abnormal growths in the retina
+destruction of lesion of retina and choroid	can be a	treatment for vitreoretinopathy
+vitreoretinopathy	is a	group of inherited eye disorders that affect the retina and vitreous
+destruction of lesion of retina and choroid	can be a	treatment for proliferative vitreoretinopathy
+proliferative vitreoretinopathy	is a	condition where scar tissue forms on the retina and vitreous
+destruction of lesion of retina and choroid	can be a	treatment for retinal vasoproliferative tumors
+retinal vasoproliferative tumors	are	abnormal growths of blood vessels in the retina
+destruction of lesion of retina and choroid	can be a	treatment for intraocular lymphoma
+intraocular lymphoma	is a	rare cancer that starts in the eye
+destruction of lesion of retina and choroid	can be a	treatment for retinal pigment epithelial detachment
+retinal pigment epithelial detachment	is a	condition where the layer of cells beneath the retina separates
+destruction of lesion of retina and choroid	can be a	treatment for congenital hypertrophy of the retinal pigment epithelium
+congenital hypertrophy of the retinal pigment epithelium	is a	benign condition where patches of dark pigmentation appear on the retina
+destruction of lesion of retina and choroid	can be a	treatment for choroidal osteoma
+choroidal osteoma	is a	rare benign tumor of the choroid
+destruction of lesion of retina and choroid	can be a	treatment for Best disease
+Best disease	is a	rare genetic eye disorder that affects the macula
+destruction of lesion of retina and choroid	can be a	treatment for retinal cysts
+retinal cysts	are	fluid-filled sacs in the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal astrocytic hamartoma
+retinal astrocytic hamartoma	is a	benign tumor in the retina
+destruction of lesion of retina and choroid	can be a	treatment for macular hole
+macular hole	is a	small break in the macula that causes central vision loss
+destruction of lesion of retina and choroid	can be a	treatment for retinal detachment with macular hole
+retinal detachment with macular hole	is a	rare and severe form of retinal detachment
+destruction of lesion of retina and choroid	can be a	treatment for retinal cavernous hemangioma
+retinal cavernous hemangioma	is a	benign tumor made up of blood-filled spaces in the retina
+destruction of lesion of retina and choroid	can be a	treatment for ocular melanocytosis
+ocular melanocytosis	is a	congenital condition where the eyes have abnormal pigmentation
+destruction of lesion of retina and choroid	can be a	treatment for peripheral retinal neovascularization
+peripheral retinal neovascularization	is the	growth of new blood vessels on the periphery of the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal vein occlusion with macular edema
+retinal vein occlusion with macular edema	is a	blockage of the veins that drain blood from the retina with swelling of the macula
+destruction of lesion of retina and choroid	can be a	treatment for retinal depigmentation
+retinal depigmentation	is the	loss of color in the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal dysplasia
+retinal dysplasia	is a	disorder characterized by abnormal growth and development of the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal degeneration
+retinal degeneration	is the	deterioration of the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal ischemic syndrome
+retinal ischemic syndrome	is the	insufficient blood flow to the retina
+destruction of lesion of retina and choroid	can be a	treatment for central retinal artery occlusion
+central retinal artery occlusion	is a	blockage of the main artery that supplies blood to the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal angiomatous proliferation
+retinal angiomatous proliferation	is a	condition where abnormal blood vessels grow in the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal pigmentation abnormalities
+retinal pigmentation abnormalities	are	disorders that affect the coloration of the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal pigment epithelial tear
+retinal pigment epithelial tear	is a	condition where the layer of cells beneath the retina tears
+destruction of lesion of retina and choroid	can be a	treatment for retinitis pigmentosa
+retinitis pigmentosa	is a	group of genetic disorders that cause progressive vision loss
+destruction of lesion of retina and choroid	can be a	treatment for central retinal vein occlusion
+central retinal vein occlusion	is a	blockage of the main vein that carries blood away from the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal melanocytoma
+retinal melanocytoma	is a	rare benign tumor of melanocytes in the retina
+destruction of lesion of retina and choroid	can be a	treatment for intraocular foreign bodies
+intraocular foreign bodies	are	objects that have entered the eye
+destruction of lesion of retina and choroid	can be a	treatment for choroidal metastasis
+choroidal metastasis	is the	spread of cancer to the choroid from another part of the body
+destruction of lesion of retina and choroid	can be a	treatment for central serous chorioretinopathy
+central serous chorioretinopathy	is a	condition where fluid accumulates beneath the retina and choroid
+destruction of lesion of retina and choroid	can be a	treatment for retinoblastoma
+retinoblastoma	is a	rare childhood eye cancer
+destruction of lesion of retina and choroid	can be a	treatment for choroidal melanoma
+choroidal melanoma	is a	type of eye cancer
+destruction of lesion of retina and choroid	can be a	treatment for diabetic retinopathy
+diabetic retinopathy	is a	complication of diabetes that affects the eyes
+destruction of lesion of retina and choroid	can be a	treatment for macular degeneration
+macular degeneration	is a	progressive eye disease that affects central vision
+destruction of lesion of retina and choroid	can be a	treatment for retinal tears
+retinal tears	are	breaks in the retina
+destruction of lesion of retina and choroid	can be a	treatment for retinal detachment
+retinal detachment	is a	medical emergency where the retina peels away from the back of the eye
+destruction of lesion of retina and choroid	can be a	treatment for retinopathy of prematurity
+retinopathy of prematurity	is a	disorder that affects premature infants' eyes
+destruction of lesion of retina and choroid	can be a	treatment for uveal melanoma
+uveal melanoma	is a	type of eye cancer that occurs in the iris	ciliary body	or choroid
+destruction of lesion of retina and choroid	can be a	treatment for choroidal neovascularization
+choroidal neovascularization	is the	growth of abnormal blood vessels in the choroid

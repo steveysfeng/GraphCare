@@ -1,0 +1,108 @@
+upper gastrointestinal endoscopy	is a	medical procedure
+upper gastrointestinal endoscopy	used for	diagnosis
+upper gastrointestinal endoscopy	can detect	ulcers
+upper gastrointestinal endoscopy	can detect	tumors
+upper gastrointestinal endoscopy	can detect	bleeding
+upper gastrointestinal endoscopy	can detect	inflammation
+upper gastrointestinal endoscopy	can detect	infection
+upper gastrointestinal endoscopy	can detect	blockages
+upper gastrointestinal endoscopy	can detect	varices
+upper gastrointestinal endoscopy	can detect	polyps
+biopsy	is a	procedure
+biopsy	used for	diagnosis
+biopsy	can detect	cancer
+biopsy	can detect	infection
+biopsy	can detect	inflammation
+biopsy	can detect	abnormal cells
+ulcers	can cause	bleeding
+ulcers	can cause	anemia
+ulcers	can cause	abdominal pain
+ulcers	can cause	nausea
+tumors	can cause	bleeding
+tumors	can cause	obstruction
+tumors	can cause	weight loss
+tumors	can cause	pain
+tumors	can cause	jaundice
+bleeding	can lead to	anemia
+bleeding	can lead to	hypotension
+bleeding	can lead to	shock
+bleeding	can lead to	death
+infection	can cause	fever
+infection	can cause	sepsis
+infection	can cause	abscess
+infection	can cause	peritonitis
+inflammation	can cause	pain
+inflammation	can cause	fever
+inflammation	can cause	swelling
+blockages	can cause	obstruction
+blockages	can cause	distention
+blockages	can cause	vomiting
+blockages	can cause	malnutrition
+varices	can cause	bleeding
+varices	can cause	liver cirrhosis
+varices	can cause	ascites
+polyps	can be	benign
+polyps	can be	precancerous
+polyps	can be	cancerous
+cancer	can metastasize to	lymph nodes
+cancer	can metastasize to	liver
+cancer	can metastasize to	lungs
+anemia	can cause	fatigue
+anemia	can cause	weakness
+anemia	can cause	pale skin
+anemia	can cause	shortness of breath
+hypotension	can cause	dizziness
+hypotension	can cause	fainting
+hypotension	can cause	confusion
+hypotension	can cause	blurred vision
+shock	can lead to	organ failure
+shock	can lead to	cardiac arrest
+sepsis	can lead to	septic shock
+sepsis	can lead to	multiple organ failure
+abscess	can form in	tissues
+abscess	can form in	organs
+abscess	can be	drained
+abscess	can be	treated with antibiotics
+peritonitis	can be	life-threatening
+peritonitis	can be	treated with surgery
+pain	can be	managed with	analgesics
+pain	can be	managed with	nonsteroidal anti-inflammatory drugs
+pain	can be	managed with	opioid medications
+fever	can be	treated with	antipyretics
+fever	can be	treated with	fluids
+seizures	can be	a complication of	sepsis
+seizures	can be	a complication of	bleeding
+seizures	can be	a complication of	electrolyte imbalance
+seizures	can be	a complication of	brain tumors
+swelling	can be	reduced with	diuretics
+swelling	can be	reduced with	elevation of affected area
+swelling	can be	reduced with	cold compress
+distention	can cause	discomfort
+distention	can cause	bloating
+distention	can cause	constipation
+distention	can cause	decreased appetite
+vomiting	can cause	dehydration
+vomiting	can cause	electrolyte imbalance
+vomiting	can cause	weight loss
+vomiting	can cause	malnutrition
+malnutrition	can lead to	weak immune system
+malnutrition	can lead to	delayed wound healing
+malnutrition	can lead to	muscle wasting
+ascites	can be	caused by	liver cirrhosis
+ascites	can be	caused by	heart failure
+ascites	can be	treated with	diuretics
+ascites	can be	treated with	paracentesis
+liver cirrhosis	can lead to	liver failure
+liver cirrhosis	can lead to	hepatocellular carcinoma
+liver cirrhosis	can lead to	portal hypertension
+portal hypertension	can cause	varices
+portal hypertension	can cause	ascites
+portal hypertension	can cause	hepatic encephalopathy
+benign polyps	do not	progress to cancer
+benign polyps	do not	require treatment
+precancerous polyps	should be	removed
+precancerous polyps	have	potential to become cancerous
+precancerous polyps	require	monitoring
+cancerous polyps	should be	excised
+cancerous polyps	require	further treatment
+cancerous polyps	can metastasize to	other parts of body

@@ -1,0 +1,70 @@
+aortic resection	is a	surgical procedure
+aortic resection	used for	treating aortic diseases
+aortic resection	can be performed via	open surgery
+aortic resection	can be performed via	minimally invasive surgery
+aortic resection	can result in	improved blood flow
+aortic resection	can lead to	decreased risk of rupture
+aortic resection	can cause	complications
+complications of aortic resection	can include	bleeding
+complications of aortic resection	can include	infection
+complications of aortic resection	can include	blood clots
+aortic replacement	is a type of	aortic resection
+aortic replacement	involves	replacing a portion of the aorta
+aortic replacement	can be done using	synthetic grafts
+aortic replacement	can be done using	biological grafts
+aortic replacement	can improve	blood flow
+aortic replacement	can reduce	risk of rupture
+aortic replacement	can lead to	complications
+complications of aortic replacement	can include	graft failure
+complications of aortic replacement	can include	infection
+complications of aortic replacement	can include	aneurysm formation
+aortic anastomosis	is a type of	aortic resection
+aortic anastomosis	involves	connecting two segments of the aorta
+aortic anastomosis	can be done using	sutures
+aortic anastomosis	can be done using	surgical staples
+aortic anastomosis	can restore	blood flow
+aortic anastomosis	can reduce	risk of rupture
+aortic anastomosis	can result in	complications
+complications of aortic anastomosis	can include	anastomotic leak
+complications of aortic anastomosis	can include	aneurysm formation
+complications of aortic anastomosis	can include	infection
+aneurysm	can develop after	aortic resection
+aneurysm	can develop after	aortic replacement
+aneurysm	can develop after	aortic anastomosis
+aneurysm	can result in	rupture
+blood clots	can occur after	aortic resection
+blood clots	can occur after	aortic replacement
+blood clots	can occur after	aortic anastomosis
+blood clots	can lead to	stroke
+bleeding	can occur after	aortic resection
+bleeding	can occur after	aortic replacement
+bleeding	can occur after	aortic anastomosis
+bleeding	can result in	hemorrhagic shock
+infection	can occur after	aortic resection
+infection	can occur after	aortic replacement
+infection	can occur after	aortic anastomosis
+infection	can lead to	sepsis
+graft failure	can occur after	aortic replacement
+graft failure	can result in	blood flow obstruction
+aneurysm formation	can occur after	aortic replacement
+aneurysm formation	can occur after	aortic anastomosis
+aneurysm formation	can lead to	rupture
+anastomotic leak	can occur after	aortic anastomosis
+complications	can be managed with	medical intervention
+complications	can be managed with	surgical intervention
+complications	can require	reoperation
+complications	can increase	hospital stay
+complications	can contribute to	mortality
+surgical staples	are used in	aortic anastomosis
+sutures	are used in	aortic anastomosis
+synthetic grafts	are used in	aortic replacement
+biological grafts	are used in	aortic replacement
+minimally invasive surgery	is an alternative to	open surgery
+minimally invasive surgery	can result in	shorter recovery time
+minimally invasive surgery	can have	fewer complications
+minimally invasive surgery	can be performed using	robotic-assisted techniques
+open surgery	may be necessary when	minimally invasive approach is not feasible
+hospital stay	can be prolonged by	postoperative complications
+hospital stay	can be shortened by	efficient postoperative care
+hospital stay	can increase	healthcare costs
+hospital stay	can increase	risk of hospital-acquired infections

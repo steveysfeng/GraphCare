@@ -1,0 +1,232 @@
+cholecystectomy	is a	surgical procedure
+cholecystectomy	used for	gallbladder removal
+common duct exploration	is a	surgical procedure
+common duct exploration	used for	investigating bile ducts
+cholecystectomy	can be performed with	common duct exploration
+cholecystectomy	can be done through	laparoscopic surgery
+common duct exploration	can be done through	endoscopic retrograde cholangiopancreatography
+cholecystectomy	can be performed in	open surgery
+cholecystectomy	can be performed in	robotic surgery
+common duct exploration	can be done with	intraoperative cholangiography
+cholecystectomy	can be done with	single-incision laparoscopic surgery
+common duct exploration	can be done for	common bile duct stones
+cholecystectomy	can be performed for	gallbladder disease
+common duct exploration	can help	remove bile duct obstructions
+cholecystectomy	can be indicated for	gallbladder polyps
+common duct exploration	can assist in	bile duct repair
+cholecystectomy	can be performed in	emergency situations
+common duct exploration	can be done as a	preventive measure
+cholecystectomy	can be recommended to	patients with recurring gallstones
+common duct exploration	can be used to	correct bile duct abnormalities
+cholecystectomy	can be considered for	patients with biliary dyskinesia
+common duct exploration	can be beneficial in	diagnosing biliary strictures
+cholecystectomy	can be performed on	patients with cholecystitis
+common duct exploration	can be performed alongside	liver resection
+cholecystectomy	can be combined with	hernia repair
+common duct exploration	can be performed together with	pancreaticoduodenectomy
+cholecystectomy	can be a treatment option for	gallbladder cancer
+common duct exploration	can be performed in	high-risk patients
+cholecystectomy	can be done under	general anesthesia
+common duct exploration	can be done using	specialized instruments
+cholecystectomy	can be performed by	trained surgeons
+common duct exploration	can be performed by	interventional radiologists
+cholecystectomy	can be associated with	postoperative complications
+common duct exploration	can be associated with	bile duct injuries
+cholecystectomy	is considered a	safe procedure
+common duct exploration	is often recommended when	bile duct stones are suspected
+cholecystectomy	can be done as an	outpatient procedure
+common duct exploration	can be used for	bile leak detection
+cholecystectomy	can be performed as a	minimally invasive surgery
+common duct exploration	can be performed as an	endoscopic procedure
+cholecystectomy	can result in	improved quality of life
+common duct exploration	can sometimes require	stent placement
+cholecystectomy	can lead to	removal of gallbladder
+common duct exploration	can require	additional procedures
+cholecystectomy	can be contraindicated in	severe cardiovascular disease
+common duct exploration	is an invasive	procedure
+cholecystectomy	may be associated with	postcholecystectomy syndrome
+common duct exploration	may be performed after	failed endoscopic retrograde cholangiopancreatography
+cholecystectomy	can be recommended for	patients with porcelain gallbladder
+common duct exploration	can be used for	stone extraction
+cholecystectomy	can be done in	pediatric patients
+common duct exploration	can be done in	elderly patients
+cholecystectomy	can be a treatment option for	acalculous cholecystitis
+common duct exploration	can be used in	liver transplant patients
+cholecystectomy	can be performed as an	elective surgery
+common duct exploration	can be performed for	bile duct strictures
+cholecystectomy	can be done in	pregnant patients
+common duct exploration	can be indicated in	patients with choledocholithiasis
+cholecystectomy	can be done along with	bile duct resection
+common duct exploration	can be performed following	choledocholithotomy
+cholecystectomy	can be performed for	symptomatic gallstones
+common duct exploration	can help in	bile duct clearance
+cholecystectomy	can be performed under	minimally invasive techniques
+common duct exploration	can be used in	patients with biliary colic
+cholecystectomy	can be an option for	patients with biliary dyskinesia
+common duct exploration	can be performed with	laparoscopic ultrasound
+cholecystectomy	can be a necessary step before	liver transplantation
+common duct exploration	can detect	bile duct tumors
+cholecystectomy	can be delayed in	patients with mild symptoms
+common duct exploration	can be performed in	patients with cholangitis
+cholecystectomy	can be recommended for	patients with acute cholecystitis
+common duct exploration	can be performed to	relieve biliary obstruction
+cholecystectomy	can be performed using	sutures
+common duct exploration	requires	specialized training
+cholecystectomy	can result in	bile reflux
+common duct exploration	can be performed with	laparoscopic common bile duct exploration
+cholecystectomy	can be performed in	obese patients
+common duct exploration	can be used to	diagnose choledochal cysts
+cholecystectomy	can be a treatment option in	patients with porcelain gallbladder
+common duct exploration	can be recommended for	patients with biliary leaks
+cholecystectomy	can be performed in	patients with gallbladder polyps
+common duct exploration	can help in	treating bile duct strictures
+cholecystectomy	can be performed with	cholecystotomy
+common duct exploration	can be done in	patients with acute pancreatitis
+cholecystectomy	can be performed following	percutaneous cholecystostomy
+common duct exploration	can be used for	bile duct reconstruction
+cholecystectomy	can be performed as a	laparoscopic procedure
+common duct exploration	can be performed for	gallbladder dysmotility
+cholecystectomy	can be done with	postoperative ERCP
+common duct exploration	can be performed to	relieve jaundice
+cholecystectomy	can be considered for	patients with cholecystoenteric fistula
+common duct exploration	can be performed with	choledochocholedochostomy
+cholecystectomy	can result in	elimination of biliary pain
+common duct exploration	can help in	identifying impacted stones
+cholecystectomy	can be performed for	patients with chronic cholecystitis
+common duct exploration	can be indicated for	patients with primary sclerosing cholangitis
+cholecystectomy	can be performed for	patients with biliary dyskinesia and polyps
+common duct exploration	can be done in	patients with biliary ascariasis
+cholecystectomy	can be a treatment option for	gallbladder empyema
+common duct exploration	can be performed with	papillotomy
+cholecystectomy	can be recommended for	patients with choledochal cysts
+common duct exploration	can be performed in	patients with biliary stricture
+cholecystectomy	can be done with	cholangiogram
+common duct exploration	can be used for	biliary stent placement
+cholecystectomy	can be performed as a	day surgery
+common duct exploration	can be performed with	choledochojejunostomy
+cholecystectomy	can be performed through	laparotomy
+common duct exploration	can be performed in	patients with bile duct injuries
+cholecystectomy	can be recommended for	patients with biliary pancreatitis
+common duct exploration	can be performed to	explore the common bile duct
+cholecystectomy	can be performed with	bile duct repair
+common duct exploration	can be indicated in	patients with gallbladder perforation
+cholecystectomy	can be performed for	patients with gallstones and pancreatitis
+common duct exploration	can be done in	patients with cholangiocarcinoma
+cholecystectomy	can be done with	endoscopic sphincterotomy
+common duct exploration	can be performed to	remove impacted stones
+cholecystectomy	can be performed in	patients with common bile duct obstruction
+common duct exploration	can be performed with	endoscopic balloon dilatation
+cholecystectomy	can be considered for	patients with gallbladder empyema and gangrene
+common duct exploration	can be performed after	cholecystectomy
+cholecystectomy	can be indicated in	patients with gallbladder wall thickening
+common duct exploration	can be done for	suspected biliary strictures
+cholecystectomy	can be performed with	hepaticojejunostomy
+common duct exploration	can be used in	patients with bile duct stenosis
+cholecystectomy	can be performed in	patients with porcelain gallbladder and gallbladder polyps
+common duct exploration	can be done with	cholangiopancreatography
+cholecystectomy	can be performed with	bile duct exploration
+common duct exploration	can be performed for	patients with post-cholecystectomy bile duct strictures
+cholecystectomy	can be performed as a treatment for	biliary dyskinesia
+common duct exploration	can assist in	diagnosing biliary cysts
+cholecystectomy	can be recommended for	patients with acute gallbladder inflammation
+common duct exploration	can be performed in	patients with choledochal cysts
+cholecystectomy	can be performed for	patients with common bile duct stones
+common duct exploration	can be helpful in	removing bile duct tumors
+cholecystectomy	can be performed for	patients with gallstone pancreatitis
+common duct exploration	can be done in	patients with jaundice
+cholecystectomy	can be performed to	prevent gallstone complications
+common duct exploration	can be used for	common bile duct stone extraction
+cholecystectomy	can be performed with	cholangioscopy
+common duct exploration	can be done in	patients with Mirizzi syndrome
+cholecystectomy	can be a treatment option for	symptomatic gallbladder disease
+common duct exploration	can be recommended for	patients with primary biliary cirrhosis
+cholecystectomy	can be performed as an	emergency surgery
+common duct exploration	can be performed as an	open procedure
+cholecystectomy	can be considered in	patients with gallbladder gangrene
+common duct exploration	can be performed to	evaluate bile ducts
+cholecystectomy	can be performed by	laparoscopic method
+common duct exploration	can be performed in	high-volume centers
+cholecystectomy	can be done with	intraoperative cholangiogram
+common duct exploration	can be performed for	suspected biliary stones
+cholecystectomy	can be performed using	electrocautery
+common duct exploration	can be done with	robotic assistance
+cholecystectomy	can be done with	harmonic scalpel
+common duct exploration	can be performed in	patients with bile duct strictures
+cholecystectomy	can be contraindicated in	patients with bleeding disorders
+common duct exploration	can be associated with	postoperative infections
+cholecystectomy	can be performed with	laparoscopic common bile duct repair
+common duct exploration	is a	complex procedure
+cholecystectomy	can be avoided in	asymptomatic patients
+common duct exploration	can be done in	patients with cholangitis
+cholecystectomy	can be recommended for	patients with gallbladder polyps and gallstone disease
+common duct exploration	can be performed with	choledochoduodenostomy
+cholecystectomy	can require	biliary reconstruction
+common duct exploration	can be performed for	patients with choledocholithiasis and cholecystolithiasis
+cholecystectomy	can be performed under	local anesthesia
+common duct exploration	can be done in	immunocompromised patients
+cholecystectomy	can be performed in	patients with cholelithiasis
+common duct exploration	can be performed in	patients with congenital biliary malformations
+cholecystectomy	can be a treatment option for	patients with symptomatic gallbladder disease
+common duct exploration	can be used for	biliary drainage
+cholecystectomy	can be performed as a	curative treatment
+common duct exploration	can be performed for	patients with sphincter of Oddi dysfunction
+cholecystectomy	can be performed to	prevent recurrent gallstones
+common duct exploration	can be performed with	bile duct reconstruction
+cholecystectomy	can result in	postcholecystectomy syndrome
+common duct exploration	can be done with	laparoscopic common bile duct exploration
+cholecystectomy	can be performed for	patients with biliary dyskinesia
+common duct exploration	can be performed following	failed endoscopic retrograde cholangiopancreatography
+cholecystectomy	can be recommended for	patients with porcelain gallbladder
+common duct exploration	can be used for	stone removal
+cholecystectomy	can be done in	pediatric population
+common duct exploration	can be done in	elderly population
+cholecystectomy	can be a treatment option for	patients with acalculous cholecystitis
+common duct exploration	can be used in	liver transplant patients
+cholecystectomy	can be performed as an	elective procedure
+common duct exploration	can be performed for	biliary strictures
+cholecystectomy	can be done in	pregnant population
+common duct exploration	can be indicated in	patients with bile duct stones
+cholecystectomy	can be performed along with	hepatic resection
+common duct exploration	can be performed following	choledocholithotomy
+cholecystectomy	can be performed for	patients with symptomatic gallstones
+common duct exploration	can help in	bile duct stone extraction
+cholecystectomy	can be performed under	minimally invasive approach
+common duct exploration	can be used in	patients with biliary pain
+cholecystectomy	can be an option for	patients with biliary dyskinesia
+common duct exploration	can be performed along with	laparoscopic ultrasound
+cholecystectomy	can be a necessary step prior to	liver transplantation
+common duct exploration	can detect	bile duct tumors
+cholecystectomy	can be delayed in	patients with mild symptoms
+common duct exploration	can be performed in	patients with cholangitis
+cholecystectomy	can be recommended for	patients with acute cholecystitis
+common duct exploration	can be performed to	relieve biliary obstruction
+cholecystectomy	can be performed using	suturing techniques
+common duct exploration	requires	specialized skills
+cholecystectomy	can result in	bile reflux
+common duct exploration	can be performed with	laparoscopic bile duct exploration
+cholecystectomy	can be performed in	patients with obesity
+common duct exploration	can be used to	diagnose choledochal cyst
+cholecystectomy	can be a treatment option in	patients with porcelain gallbladder
+common duct exploration	can be recommended for	patients with biliary leaks
+cholecystectomy	can be performed in	patients with gallbladder polyps
+common duct exploration	can assist in	treating bile duct strictures
+cholecystectomy	can be performed with	cholecystotomy
+common duct exploration	can be done in	patients with acute pancreatitis
+cholecystectomy	can be performed following	percutaneous cholecystostomy
+common duct exploration	can be used for	bile duct reconstruction
+cholecystectomy	can be performed as a	laparoscopic surgery
+common duct exploration	can be performed for	gallbladder dysmotility
+cholecystectomy	can be done with	postoperative endoscopic retrograde cholangiopancreatography
+common duct exploration	can be performed to	relieve jaundice
+cholecystectomy	can be considered for	patients with cholecystoenteric fistula
+common duct exploration	can be performed with	choledochocholedochostomy
+cholecystectomy	can result in	relief from biliary pain
+common duct exploration	can help in	identifying impacted bile duct stones
+cholecystectomy	can be performed for	patients with chronic cholecystitis
+common duct exploration	can be indicated for	patients with primary sclerosing cholangitis
+cholecystectomy	can be performed for	patients with biliary dyskinesia and polyps
+common duct exploration	can be done in	patients with biliary ascariasis
+cholecystectomy	can be a treatment option for	gallbladder empyema
+common duct exploration	can be performed with	papillotomy
+cholecystectomy	can be recommended for	patients with choledochal cyst
+common duct exploration	can be performed in	patients with biliary stricture

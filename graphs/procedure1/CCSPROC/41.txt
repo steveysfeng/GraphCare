@@ -1,0 +1,124 @@
+procedures	can be performed on	respiratory system
+non-therapeutic procedures	are	performed on respiratory system
+endoscopy	is a type of	non-therapeutic procedure
+endoscopy	is used for	respiratory system
+endoscopy	can detect	abnormalities in respiratory system
+bronchoscopy	is a type of	endoscopy
+bronchoscopy	is used for	respiratory system
+bronchoscopy	can detect	tumors in respiratory system
+bronchoscopy	can be performed for	diagnostic purposes
+bronchoscopy	can be performed for	therapeutic purposes
+bronchoscopy	can be performed to	remove foreign objects from respiratory system
+bronchoscopy	can be performed to	treat lung infections
+bronchial thermoplasty	is a type of	therapeutic procedure
+bronchial thermoplasty	is used for	respiratory system
+bronchial thermoplasty	can reduce	asthma symptoms
+bronchial thermoplasty	can improve	lung function
+pleurocentesis	is a type of	non-therapeutic procedure
+pleurocentesis	is performed on	respiratory system
+pleurocentesis	can drain	fluid from lungs
+thoracenteis	is a type of	pleurocentesis
+thoracentesis	can be performed for	diagnostic purposes
+thoracentesis	can be performed for	therapeutic purposes
+thoracentesis	can drain	fluid from pleural space
+thoracentesis	can be used to	relieve breathing difficulties
+thoracentesis	can be used to	diagnose lung infections
+tracheostomy	is a type of	non-therapeutic procedure
+tracheostomy	is performed on	respiratory system
+tracheostomy	can bypass	upper airway obstructions
+tracheostomy	can provide	a secure airway
+tracheostomy	can be used for	long-term ventilation
+tracheostomy	can be used for	patients with swallowing difficulties
+lobectomy	is a type of	therapeutic procedure
+lobectomy	is performed on	respiratory system
+lobectomy	can remove	lung cancer
+lobectomy	can improve	lung function
+thoracotomy	is a type of	non-therapeutic procedure
+thoracotomy	is performed on	respiratory system
+thoracotomy	can access	chest cavity
+thoracotomy	can remove	tumors from lungs
+thoracotomy	can repair	chest injuries
+thoracotomy	can be performed for	diagnostic purposes
+thoracoscopy	is a type of	non-therapeutic procedure
+thoracoscopy	is performed on	respiratory system
+thoracoscopy	can visualize	pleural space
+thoracoscopy	can obtain	tissue samples from lungs
+thoracoscopy	can be performed for	lung cancer staging
+thoracostomy	is a type of	non-therapeutic procedure
+thoracostomy	is performed on	respiratory system
+thoracostomy	can drain	pleural fluid
+thoracostomy	can be used for	treatment of pneumothorax
+thoracostomy	can be used for	management of pleural effusion
+pulmonary angiography	is a type of	non-therapeutic procedure
+pulmonary angiography	is performed on	respiratory system
+pulmonary angiography	can visualize	blood vessels in lungs
+pulmonary angiography	can detect	blood clots in lungs
+pulmonary angiography	can be used for	diagnosis of pulmonary embolism
+pulmonary function test	is a type of	non-therapeutic procedure
+pulmonary function test	is performed to	evaluate lung function
+pulmonary function test	can measure	lung capacity
+pulmonary function test	can assess	respiratory diseases
+spirometry	is a type of	pulmonary function test
+spirometry	is performed to	evaluate lung capacity
+spirometry	can measure	air flow in lungs
+spirometry	can assess	asthma severity
+chest x-ray	is a type of	non-therapeutic procedure
+chest x-ray	is performed on	respiratory system
+chest x-ray	can visualize	lungs and chest cavity
+chest x-ray	can detect	abnormalities in lungs and chest
+chest x-ray	can be used for	diagnosis of pneumonia
+respiratory therapy	is a type of	therapeutic procedure
+respiratory therapy	is performed to	improve lung function
+respiratory therapy	involves	breathing exercises
+respiratory therapy	can be used for	management of chronic respiratory conditions
+continuous positive airway pressure (CPAP)	is a type of	respiratory therapy
+continuous positive airway pressure (CPAP)	is used to	treat sleep apnea
+continuous positive airway pressure (CPAP)	can improve	quality of sleep
+non-invasive ventilation	is a type of	respiratory therapy
+non-invasive ventilation	is used for	respiratory support
+non-invasive ventilation	can prevent	intubation
+non-invasive ventilation	can be used for	chronic respiratory conditions
+endobronchial ultrasound (EBUS)	is a type of	non-therapeutic procedure
+endobronchial ultrasound (EBUS)	is performed on	respiratory system
+endobronchial ultrasound (EBUS)	can visualize	airway and surrounding structures
+endobronchial ultrasound (EBUS)	can detect	lung tumors
+endobronchial ultrasound (EBUS)	can be used for	staging lung cancer
+positron emission tomography (PET) scan	is a type of	non-therapeutic procedure
+positron emission tomography (PET) scan	is performed on	respiratory system
+positron emission tomography (PET) scan	can detect	cancer cells in lungs
+positron emission tomography (PET) scan	can be used for	diagnosis of lung cancer
+thoracic ultrasound	is a type of	non-therapeutic procedure
+thoracic ultrasound	is performed on	respiratory system
+thoracic ultrasound	can visualize	pleural space and lungs
+thoracic ultrasound	can detect	pleural effusion
+thoracic ultrasound	can be used for	guided needle aspirations
+bronchoplasty	is a type of	therapeutic procedure
+bronchoplasty	is performed on	respiratory system
+bronchoplasty	can repair	damaged bronchi
+bronchoplasty	can improve	lung function
+lobotomy	is a type of	therapeutic procedure
+lobotomy	is performed on	respiratory system
+lobotomy	can decrease	seizure activity
+lobotomy	can improve	quality of life
+thymectomy	is a type of	therapeutic procedure
+thymectomy	is performed on	respiratory system
+thymectomy	can remove	thymus gland
+thymectomy	can treat	myasthenia gravis
+thymectomy	can improve	muscle weakness
+endotracheal intubation	is a type of	non-therapeutic procedure
+endotracheal intubation	is performed on	respiratory system
+endotracheal intubation	can establish	an airway
+endotracheal intubation	can facilitate	mechanical ventilation
+endotracheal intubation	can be used for	surgery
+endoscopic sinus surgery	is a type of	non-therapeutic procedure
+endoscopic sinus surgery	is performed on	respiratory system
+endoscopic sinus surgery	can remove	polyps from sinuses
+endoscopic sinus surgery	can improve	sinus drainage
+segmentectomy	is a type of	therapeutic procedure
+segmentectomy	is performed on	respiratory system
+segmentectomy	can remove	lung tumors
+segmentectomy	can preserve	lung function
+pulmonary rehabilitation	is a type of	therapeutic procedure
+pulmonary rehabilitation	is performed to	improve lung function
+pulmonary rehabilitation	involves	exercise training
+pulmonary rehabilitation	can be used for	management of chronic respiratory conditions

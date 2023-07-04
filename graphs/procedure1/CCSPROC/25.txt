@@ -1,0 +1,81 @@
+diagnostic procedures	are performed on	ear
+otoscope	is a type of	diagnostic procedure
+otoscope	used for	examining ear canal
+tympanometry	is a type of	diagnostic procedure
+tympanometry	used for	measuring middle ear function
+audiometry	is a type of	diagnostic procedure
+audiometry	used for	testing hearing
+otoacoustic emissions test	is a type of	diagnostic procedure
+otoacoustic emissions test	used for	measuring sound waves produced by inner ear
+vestibular testing	is a type of	diagnostic procedure
+vestibular testing	used for	assessing balance and dizziness disorders
+ear examination	is a type of	diagnostic procedure
+ear examination	used for	evaluating ear health
+ear endoscopy	is a type of	diagnostic procedure
+ear endoscopy	used for	visualizing the ear canal and eardrum
+ear biopsy	is a type of	diagnostic procedure
+ear biopsy	used for	collecting tissue samples
+ear imaging	is a type of	diagnostic procedure
+ear imaging	used for	visualizing the structures of the ear
+magnetic resonance imaging	is a type of	diagnostic procedure
+magnetic resonance imaging	used for	detailed imaging of the ear
+computed tomography scan	is a type of	diagnostic procedure
+computed tomography scan	used for	creating detailed cross-sectional images of the ear
+ultrasound	is a type of	diagnostic procedure
+ultrasound	used for	imaging the ear using sound waves
+electrocochleography	is a type of	diagnostic procedure
+electrocochleography	used for	measuring electrical potentials in the inner ear
+otoendoscopy	is a type of	diagnostic procedure
+otoendoscopy	used for	examining the middle ear with a thin tube
+auditory brainstem response test	is a type of	diagnostic procedure
+auditory brainstem response test	used for	assessing the auditory nerve pathway
+otoacoustic emissions	is a type of	diagnostic procedure
+otoacoustic emissions	used for	assessing cochlear function
+auditory steady-state response	is a type of	diagnostic procedure
+auditory steady-state response	used for	evaluating auditory processing
+eng test	is a type of	diagnostic procedure
+eng test	used for	evaluating balance and eye movement
+vestibular evoked myogenic potentials	is a type of	diagnostic procedure
+vestibular evoked myogenic potentials	used for	assessing inner ear and brainstem function
+electronystagmography	is a type of	diagnostic procedure
+electronystagmography	used for	evaluating eye movements and balance
+videonystagmography	is a type of	diagnostic procedure
+videonystagmography	used for	assessing eye movements and balance disorders
+caloric testing	is a type of	diagnostic procedure
+caloric testing	used for	evaluating inner ear function
+vestibular autorotation testing	is a type of	diagnostic procedure
+vestibular autorotation testing	used for	measuring rotational movement
+vestibular evoked myogenic potential testing	is a type of	diagnostic procedure
+vestibular evoked myogenic potential testing	used for	evaluating vestibular function
+vestibular nerve section	is a type of	diagnostic procedure
+vestibular nerve section	used for	treating severe vertigo
+obliteration of semicircular canals	is a type of	diagnostic procedure
+obliteration of semicircular canals	used for	treating vertigo
+labyrinthectomy	is a type of	diagnostic procedure
+labyrinthectomy	used for	treating vertigo
+vestibular rehabilitation	is a type of	diagnostic procedure
+vestibular rehabilitation	used for	treating balance disorders
+vestibular suppressant medications	are used for	managing symptoms of vestibular disorders
+vestibular suppressant medications	include	meclizine
+antibiotics	are used for	treating ear infections
+antibiotics	include	amoxicillin
+steroid medications	are used for	reducing inflammation in the ear
+steroid medications	include	prednisone
+earwax removal	is a type of	diagnostic procedure
+earwax removal	used for	clearing blockages in the ear canal
+tympanoplasty	is a type of	diagnostic procedure
+tympanoplasty	used for	repairing eardrum perforations
+mastoidectomy	is a type of	diagnostic procedure
+mastoidectomy	used for	treating severe ear infections
+stapedectomy	is a type of	diagnostic procedure
+stapedectomy	used for	improving hearing in cases of otosclerosis
+tinnitus retraining therapy	is a type of	diagnostic procedure
+tinnitus retraining therapy	used for	managing tinnitus symptoms
+ear irrigation	is a type of	diagnostic procedure
+ear irrigation	used for	removing excessive earwax
+myringotomy	is a type of	diagnostic procedure
+myringotomy	used for	draining fluid from the middle ear
+audiology assessment	is a type of	diagnostic procedure
+audiology assessment	used for	evaluating hearing abilities
+middle ear effusion	is a type of	diagnostic procedure
+middle ear effusion	used for	detecting fluid buildup in the middle ear

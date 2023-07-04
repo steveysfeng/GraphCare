@@ -1,0 +1,214 @@
+thyroidectomy	is a	surgical procedure
+thyroidectomy	used for	treatment
+partial thyroidectomy	is a type of	thyroidectomy
+complete thyroidectomy	is a type of	thyroidectomy
+thyroidectomy	can be performed	for cancer
+thyroidectomy	associated with	potential complications
+thyroidectomy	may result in	hypothyroidism
+thyroidectomy	can lead to	voice changes
+thyroidectomy	requires	anesthesia
+thyroidectomy	performed by	surgeon
+thyroidectomy	performed in	hospital
+thyroidectomy	can be followed by	radioactive iodine therapy
+thyroidectomy	can be followed by	hormone replacement therapy
+thyroidectomy	can require	post-operative care
+thyroidectomy	can lead to	scar formation
+thyroidectomy	affects	thyroid hormone levels
+thyroidectomy	affects	metabolism
+thyroidectomy	can cause	weight gain
+thyroidectomy	can cause	difficulty swallowing
+thyroidectomy	can cause	voice hoarseness
+thyroidectomy	can cause	low calcium levels
+thyroidectomy	can lead to	neck pain
+thyroidectomy	can be performed	using minimally invasive techniques
+thyroidectomy	can be performed	using robotic surgery
+thyroidectomy	can be performed	using open surgery
+thyroidectomy	can require	hospitalization
+thyroidectomy	can be performed	as an outpatient procedure
+thyroidectomy	can result in	permanent scar
+thyroidectomy	can result in	improved thyroid function
+thyroidectomy	can result in	weight loss
+thyroidectomy	can result in	improved voice quality
+thyroidectomy	requires	pre-operative evaluation
+thyroidectomy	requires	pre-operative blood tests
+thyroidectomy	requires	pre-operative imaging
+thyroidectomy	can be performed	in conjunction with neck dissection
+thyroidectomy	can be performed	with nerve monitoring
+thyroidectomy	can be performed	with intraoperative pathology evaluation
+thyroidectomy	can be performed	under general anesthesia
+thyroidectomy	can be performed	under local anesthesia
+thyroidectomy	can be performed	laparoscopically
+thyroidectomy	can be performed	endoscopically
+thyroidectomy	can be performed	with minimal scarring
+thyroidectomy	can be performed	with rapid recovery
+thyroidectomy	can be performed	with reduced risk of complications
+thyroidectomy	requires	post-operative monitoring
+thyroidectomy	requires	post-operative follow-up
+thyroidectomy	may require	lifelong medication
+thyroidectomy	may require	lifelong hormone replacement
+thyroidectomy	may require	lifelong monitoring
+thyroidectomy	is a	surgical procedure
+thyroidectomy	used for	treatment
+partial thyroidectomy	is a type of	thyroidectomy
+complete thyroidectomy	is a type of	thyroidectomy
+thyroidectomy	can result in	hypothyroidism
+thyroidectomy	can cause	voice hoarseness
+thyroidectomy	can lead to	weight gain
+thyroidectomy	may require	hormone replacement therapy
+thyroidectomy	can increase the risk of	calcium deficiency
+thyroidectomy	can lead to	scar formation
+thyroidectomy	can result in	difficulty swallowing
+thyroidectomy	can cause	muscle weakness
+thyroidectomy	can result in	changes in mood
+thyroidectomy	can lead to	numbness or tingling in hands and feet
+thyroidectomy	can cause	neck and shoulder pain
+thyroidectomy	can result in	changes in menstrual cycle
+thyroidectomy	can lead to	fatigue
+thyroidectomy	can result in	dry skin
+thyroidectomy	can cause	hair loss
+thyroidectomy	may require	lifelong medication
+thyroidectomy	can increase the risk of	osteoporosis
+thyroidectomy	can result in	increased sensitivity to cold
+thyroidectomy	can lead to	difficulty sleeping
+thyroidectomy	can cause	constipation
+thyroidectomy	can result in	depression
+thyroidectomy	can lead to	difficulty concentrating
+thyroidectomy	can cause	memory problems
+thyroidectomy	can result in	reduced libido
+thyroidectomy	can lead to	infertility
+thyroidectomy	can cause	dry eyes
+thyroidectomy	can result in	vision changes
+thyroidectomy	can lead to	difficulty speaking
+thyroidectomy	can cause	difficulty in swallowing
+thyroidectomy	can result in	increased sensitivity to heat
+thyroidectomy	can lead to	increased perspiration
+thyroidectomy	can cause	diarrhea
+thyroidectomy	can result in	irritability
+thyroidectomy	can lead to	anxiety
+thyroidectomy	can cause	palpitations
+thyroidectomy	can result in	high blood pressure
+thyroidectomy	can lead to	increased heart rate
+thyroidectomy	can cause	thinning of bones
+thyroidectomy	can result in	muscle aches and pains
+thyroidectomy	can lead to	joint stiffness
+thyroidectomy	can cause	difficulty in losing weight
+thyroidectomy	can result in	puffy face
+thyroidectomy	can lead to	swelling in the neck
+thyroidectomy	can cause	difficulty in speaking loudly
+thyroidectomy	can result in	slow wound healing
+thyroidectomy	can lead to	increased risk of infection
+thyroidectomy	can cause	changes in taste
+thyroidectomy	can result in	difficulty in smelling
+thyroidectomy	can lead to	tinnitus
+thyroidectomy	can cause	dizziness
+thyroidectomy	can result in	vertigo
+thyroidectomy	can lead to	shortness of breath
+thyroidectomy	can cause	cough
+thyroidectomy	can result in	difficulty in breathing deeply
+thyroidectomy	can lead to	chest pain
+thyroidectomy	can cause	heart palpitations
+thyroidectomy	can result in	difficulty swallowing liquids
+thyroidectomy	can lead to	difficulty swallowing solids
+thyroidectomy	can cause	voice changes
+thyroidectomy	can result in	difficulty in projecting voice
+thyroidectomy	can lead to	decreased range of pitch
+thyroidectomy	can cause	difficulty in singing
+thyroidectomy	can result in	difficulty in performing physical activities
+thyroidectomy	can lead to	decreased stamina
+thyroidectomy	can cause	poor circulation
+thyroidectomy	can result in	cold hands and feet
+thyroidectomy	can lead to	low blood pressure
+thyroidectomy	can cause	muscle cramps
+thyroidectomy	can result in	muscle stiffness
+thyroidectomy	can lead to	muscle weakness
+thyroidectomy	can cause	numbness in hands and feet
+thyroidectomy	can result in	tingling in hands and feet
+thyroidectomy	can lead to	decreased sensation in hands and feet
+thyroidectomy	can cause	difficulty in fine motor skills
+thyroidectomy	can result in	difficulty in gross motor skills
+thyroidectomy	can lead to	balance problems
+thyroidectomy	can cause	difficulty in coordination
+thyroidectomy	can result in	decreased muscle tone
+thyroidectomy	can lead to	muscle atrophy
+thyroidectomy	can cause	difficulty in regulating body temperature
+thyroidectomy	can result in	sensitivity to hot temperatures
+thyroidectomy	can lead to	sensitivity to cold temperatures
+thyroidectomy	can cause	brittle nails
+thyroidectomy	can result in	thinning hair
+thyroidectomy	can lead to	dry and brittle hair
+thyroidectomy	can cause	thinning eyebrows
+thyroidectomy	can result in	drooping eyelids
+thyroidectomy	can lead to	puffy face and eyes
+thyroidectomy	can result in	reduced tear production
+thyroidectomy	can lead to	blurry vision
+thyroidectomy	is a	surgical procedure
+thyroidectomy	used for	treatment
+partial thyroidectomy	is a type of	thyroidectomy
+partial thyroidectomy	used for	benign nodules
+partial thyroidectomy	used for	Graves' disease
+partial thyroidectomy	used for	thyroid cancer
+complete thyroidectomy	is a type of	thyroidectomy
+complete thyroidectomy	used for	Graves' disease
+complete thyroidectomy	used for	thyroid cancer
+complications	can occur after	thyroidectomy
+complications	include	vocal cord paralysis
+complications	include	hypoparathyroidism
+complications	include	bleeding
+complications	include	infection
+complications	include	scar formation
+hypoparathyroidism	can result in	hypocalcemia
+hypoparathyroidism	can lead to	muscle cramps
+hypoparathyroidism	can lead to	tetany
+vocal cord paralysis	can cause	hoarseness
+vocal cord paralysis	can cause	difficulty breathing
+vocal cord paralysis	can cause	aspiration
+hoarseness	can be a symptom of	vocal cord paralysis
+difficulty breathing	can be a symptom of	vocal cord paralysis
+aspiration	can occur due to	vocal cord paralysis
+aspiration	can lead to	pneumonia
+bleeding	can result in	hematoma
+bleeding	can lead to	airway obstruction
+infection	can occur at	surgical site
+infection	can lead to	sepsis
+scar formation	can result in	keloids
+keloids	can cause	itching
+keloids	can cause	pain
+keloids	can cause	restricted movement
+restricted movement	can be a result of	keloids
+thyroid cancer	can spread to	lymph nodes
+thyroid cancer	can spread to	distant organs
+thyroid cancer	staging involves	TNM classification
+TNM classification	includes	tumor size
+TNM classification	includes	lymph node involvement
+TNM classification	includes	distant metastasis
+Graves' disease	can result in	hyperthyroidism
+Graves' disease	is an autoimmune	condition
+benign nodules	can cause	hyperthyroidism
+benign nodules	can cause	hypothyroidism
+hyperthyroidism	can lead to	weight loss
+hyperthyroidism	can lead to	palpitations
+hyperthyroidism	can lead to	tremor
+palpitations	can be a symptom of	hyperthyroidism
+weight loss	can be a symptom of	hyperthyroidism
+weight loss	can be a symptom of	thyroid cancer
+hypothyroidism	can lead to	weight gain
+hypothyroidism	can lead to	fatigue
+hypothyroidism	can lead to	depression
+weight gain	can be a symptom of	hypothyroidism
+fatigue	can be a symptom of	hypothyroidism
+fatigue	can be a symptom of	anemia
+depression	can be a symptom of	hypothyroidism
+depression	can be a symptom of	thyroid cancer
+anemia	can cause	fatigue
+anemia	can cause	weakness
+anemia	can cause	shortness of breath
+weakness	can be a symptom of	anemia
+shortness of breath	can be a symptom of	anemia
+shortness of breath	can be a symptom of	thyroid cancer
+shortness of breath	can be a symptom of	vocal cord paralysis
+sepsis	can result in	organ failure
+sepsis	can be life-threatening
+organ failure	can be a result of	sepsis
+pneumonia	can result from	aspiration
+pneumonia	can be life-threatening
+pneumonia	can be a complication of	vocal cord paralysis

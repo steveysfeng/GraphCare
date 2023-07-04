@@ -1,0 +1,115 @@
+diagnostic cardiac catheterization	is a	medical procedure
+diagnostic cardiac catheterization	used for	diagnosis
+coronary arteriography	is a type of	diagnostic cardiac catheterization
+coronary arteriography	used for	imaging of coronary arteries
+coronary artery disease	can be diagnosed with	coronary arteriography
+coronary arteriography	can identify	narrowed or blocked arteries
+coronary arteriography	can guide	treatment decisions
+coronary arteriography	may require	a dye injection
+allergic reaction	can occur with	dye injection
+allergic reaction	can be life-threatening
+premedication	may be given to	prevent allergic reactions
+patient	should be	monitored during the procedure
+patient	should be	kept still during the procedure
+patient	should be	informed of risks and benefits beforehand
+patient	should be	positioned on an examination table
+catheter	is inserted into	a blood vessel
+catheter	is threaded through	the blood vessels
+catheter	is guided	to the heart
+contrast dye	is injected into	the blood vessel
+images	are taken of	the coronary arteries
+results	are interpreted by	a cardiologist
+complications	can include	bleeding or infection
+complications	can require	further treatment
+recovery	typically takes	a few hours
+recovery	may involve	monitoring of vital signs
+recovery	may involve	bed rest
+recovery	may involve	restriction of physical activity
+discharge instructions	should be given	to the patient
+follow-up	may be needed	with the cardiologist
+follow-up	may include	additional tests or procedures
+patient	should be	informed of the findings
+patient	should be	educated about lifestyle changes
+patient	should be	encouraged to ask questions
+patient	should be	provided with written materials
+patient	should be	given contact information for emergencies
+patient	should be	scheduled for a follow-up appointment
+patient	should be	told about possible risks and complications
+patient	should be	advised to call the doctor if certain symptoms occur
+patient	should be	instructed on wound care
+patient	should be	instructed on medication management
+patient	should be	informed of dietary restrictions
+patient	should be	informed of activity limitations
+patient	should be	advised on smoking cessation
+patient	should be	informed of the importance of a healthy lifestyle
+patient	should be	encouraged to adhere to the treatment plan
+patient	should be	provided with contact information for support groups
+patient	should be	counseled on the need for regular check-ups
+patient	should be	referred to cardiac rehabilitation
+patient	should be	given information on stress management
+patient	should be	scheduled for follow-up testing
+patient	should be	educated on medication side effects
+patient	should be	informed of potential complications
+patient	should be	advised on the importance of regular exercise
+patient	should be	encouraged to maintain a healthy weight
+patient	should be	instructed on managing other medical conditions
+patient	should be	educated on the signs and symptoms of cardiac problems
+patient	should be	reminded to take all prescribed medications
+patient	should be	counseled on alcohol and substance use
+patient	should be	provided with resources for emotional support
+patient	should be	encouraged to communicate openly with healthcare providers
+patient	should be	instructed on the importance of following a heart-healthy diet
+patient	should be	informed of the benefits of stress reduction techniques
+patient	should be	supported in making lifestyle changes
+patient	should be	reminded to schedule regular check-ups
+patient	should be	encouraged to reach out for support
+patient	should be	taught how to check their pulse
+patient	should be	informed of the importance of reporting changes in symptoms
+patient	should be	reminded of the need for regular exercise
+patient	should be	educated on the risk factors for heart disease
+patient	should be	encouraged to ask for clarification
+patient	should be	instructed on the proper use of medications
+patient	should be	informed of the importance of rest and relaxation
+patient	should be	provided with emergency contact information
+patient	should be	given information on the benefits of physical activity
+patient	should be	referred to a nutritionist
+patient	should be	educated on the signs of medication side effects
+patient	should be	encouraged to keep a log of symptoms
+patient	should be	reminded to take medications as prescribed
+patient	should be	counseled on the dangers of smoking
+patient	should be	advised to avoid exposure to secondhand smoke
+patient	should be	informed of resources for financial assistance
+patient	should be	instructed on the importance of regular sleep
+patient	should be	supported in making lifestyle changes
+patient	should be	reminded to practice stress reduction techniques
+patient	should be	educated on the need for regular exercise
+patient	should be	encouraged to maintain a balanced diet
+patient	should be	advised on the management of comorbidities
+patient	should be	informed of the importance of prompt medical attention
+patient	should be	reminded to take medications on time
+patient	should be	counseled on the risks of excessive alcohol consumption
+patient	should be	provided with resources for emotional support
+patient	should be	encouraged to engage in regular physical activity
+patient	should be	referred to a mental health professional
+patient	should be	educated on the potential side effects of medications
+patient	should be	informed of the dangers of substance abuse
+patient	should be	supported in making lifestyle changes
+patient	should be	reminded to seek help in case of an emergency
+patient	should be	taught relaxation techniques
+patient	should be	instructed on the importance of reporting any changes in symptoms
+patient	should be	reminded of the benefits of regular exercise
+patient	should be	educated on the importance of managing stress
+patient	should be	encouraged to follow a heart-healthy diet
+patient	should be	advised to manage other medical conditions
+patient	should be	informed of the signs and symptoms of heart problems
+patient	should be	reminded to take medications at the same time daily
+patient	should be	counseled on the risks of tobacco use
+patient	should be	provided with resources for social support
+patient	should be	encouraged to engage in regular physical activity
+patient	should be	referred to a support group
+patient	should be	educated on potential medication side effects
+patient	should be	informed of the dangers of illicit drug use
+patient	should be	supported in making lifestyle changes
+patient	should be	reminded to seek medical attention if symptoms worsen
+patient	should be	taught deep breathing exercises
+patient	should be	instructed on the importance of reporting symptoms promptly

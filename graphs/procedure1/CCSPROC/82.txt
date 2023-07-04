@@ -1,0 +1,111 @@
+fluoroscopy	is a	medical procedure
+fluoroscopy	used for	imaging
+biliary ducts	can be seen through	fluoroscopy
+pancreatic ducts	can be seen through	fluoroscopy
+ercp	is a type of	fluoroscopy
+ercp	used for	diagnosing biliary and pancreatic disorders
+ercp	can detect	gallstones
+ercp	can detect	tumors
+ercp	can treat	blocked bile ducts
+ercp	can treat	pancreatic duct strictures
+ercp	can be used for	biliary and pancreatic interventions
+ercp	can be used for	stone removal
+ercp	can be used for	stent placement
+ercp	can be used for	tissue sampling
+ercp	can be used for	dilation of strictures
+ercp	can be used for	sphincterotomy
+ercp	can be used for	balloon dilatation
+ercp	can be used for	endoscopic retrograde cholangiopancreatography
+ercp	can be used for	visualization of the biliary and pancreatic ducts
+ercp	can be used for	treating jaundice
+ercp	can be used for	diagnosing and treating pancreatitis
+ercp	can be used for	treating complications of pancreatitis
+ercp	can be used for	treating bilio-pancreatic malignancies
+ercp	can be used for	diagnosing and treating biliary strictures
+ercp	can be used for	diagnosing and treating bile duct injuries
+ercp	can be used for	diagnosing and treating gallbladder diseases
+ercp	can be used for	diagnosing and treating pancreatic cysts
+ercp	can be used for	diagnosing and treating ampullary tumors
+ercp	can be used for	diagnosing and treating sphincter of Oddi dysfunction
+ercp	can be used for	diagnosing and treating choledocholithiasis
+ercp	can be used for	diagnosing and treating cholangiocarcinoma
+ercp	can be used for	diagnosing and treating papillary stenosis
+ercp	can be used for	diagnosing and treating bile leak
+ercp	can be used for	diagnosing and treating pancreaticobiliary maljunction
+ercp	can be used for	diagnosing and treating primary sclerosing cholangitis
+ercp	can be used for	diagnosing and treating primary biliary cirrhosis
+ercp	can be used for	diagnosing and treating autoimmune pancreatitis
+ercp	can be used for	diagnosing and treating biliary atresia
+ercp	can be used for	diagnosing and treating pancreatic divisum
+ercp	can be used for	diagnosing and treating gallbladder polyps
+ercp	can be used for	diagnosing and treating pancreatic tumors
+ercp	can be used for	diagnosing and treating pancreatic pseudocysts
+ercp	can be used for	diagnosing and treating choledochal cysts
+ercp	can be used for	diagnosing and treating gallbladder cancer
+ercp	can be used for	diagnosing and treating autoimmune cholangitis
+ercp	can be used for	diagnosing and treating cholecystitis
+ercp	can be used for	diagnosing and treating acute pancreatitis
+ercp	can be used for	diagnosing and treating chronic pancreatitis
+ercp	can be used for	diagnosing and treating biliary pain
+ercp	can be used for	diagnosing and treating jaundice due to obstruction
+ercp	can be used for	diagnosing and treating pancreatic cancer
+ercp	can be used for	diagnosing and treating pancreaticobiliary reflux
+ercp	can be used for	diagnosing and treating recurrent pancreatitis
+ercp	can be used for	diagnosing and treating bile duct cysts
+ercp	can be used for	diagnosing and treating gallbladder inflammation
+ercp	can be used for	diagnosing and treating biliary stricture due to chronic pancreatitis
+ercp	can be used for	diagnosing and treating bile duct strictures
+ercp	can be used for	diagnosing and treating papillary adenoma
+ercp	can be used for	diagnosing and treating gallbladder sludge
+ercp	can be used for	diagnosing and treating biliary stenting
+ercp	can be used for	diagnosing and treating pancreatic pseudotumors
+ercp	can be used for	diagnosing and treating recurrent cholangitis
+ercp	can be used for	diagnosing and treating recurrent pyogenic cholangitis
+ercp	can be used for	diagnosing and treating bile duct adenoma
+ercp	can be used for	diagnosing and treating bile duct strictures post-liver transplant
+ercp	can be used for	diagnosing and treating sphincter of Oddi manometry
+ercp	can be used for	diagnosing and treating pancreaticolithiasis
+ercp	can be used for	diagnosing and treating choledochal cyst type IV
+ercp	can be used for	diagnosing and treating recurrent cholangitis due to choledochocele
+ercp	can be used for	diagnosing and treating bile duct mucosal injury
+ercp	can be used for	diagnosing and treating stricture of bilioenteric anastomosis
+ercp	can be used for	diagnosing and treating bile duct ischemia
+ercp	can be used for	diagnosing and treating sclerosing cholangitis
+ercp	can be used for	diagnosing and treating intraductal papillary neoplasm of the bile ducts
+ercp	can be used for	diagnosing and treating bile duct granular cell tumor
+ercp	can be used for	diagnosing and treating pancreaticobiliary malformation
+ercp	can be used for	diagnosing and treating bile duct lipoma
+ercp	can be used for	diagnosing and treating pancreas divisum with pancreatitis
+ercp	can be used for	diagnosing and treating acute cholangitis
+ercp	can be used for	diagnosing and treating parenteral nutrition-associated cholestasis
+ercp	can be used for	diagnosing and treating biliary aneurysm
+ercp	can be used for	diagnosing and treating benign biliary strictures
+ercp	can be used for	diagnosing and treating post-cholecystectomy bile duct injuries
+ercp	can be used for	diagnosing and treating biliary cystadenoma
+ercp	can be used for	diagnosing and treating anastomotic biliary strictures
+ercp	can be used for	diagnosing and treating intraductal papillary mucinous neoplasm
+ercp	can be used for	diagnosing and treating pancreatic acinar cell cystadenoma
+ercp	can be used for	diagnosing and treating biliary mucinous cystadenoma
+ercp	can be used for	diagnosing and treating biliary flat adenoma
+ercp	can be used for	diagnosing and treating neuroendocrine tumor of the ampulla
+ercp	can be used for	diagnosing and treating sphincter of Oddi spasm
+ercp	can be used for	diagnosing and treating cystic duct obstruction
+ercp	can be used for	diagnosing and treating celiac trunk compression syndrome
+ercp	can be used for	diagnosing and treating recurrent idiopathic pancreatitis
+ercp	can be used for	diagnosing and treating pancreatic polypeptide-producing tumor
+ercp	can be used for	diagnosing and treating recurrent choledocholithiasis
+ercp	can be used for	diagnosing and treating intraductal papillary adenoma
+ercp	can be used for	diagnosing and treating bile duct hamartoma
+ercp	can be used for	diagnosing and treating biliary cast syndrome
+ercp	can be used for	diagnosing and treating hepatobiliary infection
+ercp	can be used for	diagnosing and treating recurrent pyogenic cholangitis due to choledochocele
+ercp	can be used for	diagnosing and treating pancreatic acinar cell cystadenocarcinoma
+ercp	can be used for	diagnosing and treating biliary tract anomalies
+ercp	can be used for	diagnosing and treating bile duct hamartomatous polyp
+ercp	can be used for	diagnosing and treating intraductal bile duct migration of pancreatic adenocarcinoma
+ercp	can be used for	diagnosing and treating bile duct adenoma with severe atypia
+ercp	can be used for	diagnosing and treating biliary cast nephropathy
+ercp	can be used for	diagnosing and treating biliary focal nodular hyperplasia
+ercp	can be used for	diagnosing and treating acute pancreatitis secondary to rare etiologies
+ercp	can be used for	diagnosing and treating bile duct liposarcoma
+ercp	can be used for	diagnosing and treating intraductal papillary neoplasm of the bile duct

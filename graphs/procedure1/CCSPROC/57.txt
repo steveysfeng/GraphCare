@@ -1,0 +1,111 @@
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a	surgical procedure
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a type of	surgical procedure
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a type of	surgical procedure
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	used for	dialysis
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	used for	dialysis
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	used when	dialysis is no longer needed
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	anesthesia
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	anesthesia
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	anesthesia
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can cause	infection
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can cause	infection
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can cause	infection
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can result in	improved dialysis efficiency
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can result in	improved dialysis efficiency
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can result in	discontinued dialysis treatment
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	bleeding
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	bleeding
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	bleeding
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be performed	in an outpatient setting
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be performed	in an outpatient setting
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be performed	in an outpatient setting
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	surgical skill
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	surgical skill
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	surgical skill
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	nerve damage
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	nerve damage
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	nerve damage
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can result in	improved quality of life
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can result in	improved quality of life
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can result in	improved quality of life
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is performed	by a vascular surgeon
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is performed	by a vascular surgeon
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is performed	by a vascular surgeon
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	takes	several hours
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	takes	several hours
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	takes	several hours
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a major	surgical procedure
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a major	surgical procedure
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a major	surgical procedure
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is performed	under local anesthesia
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is performed	under local anesthesia
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is performed	under local anesthesia
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be	life-saving
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be	life-saving
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be	life-saving
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	may require	hospitalization
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	may require	hospitalization
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	may require	hospitalization
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	to create vascular access
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	to modify vascular access
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	to remove vascular access
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is considered	a permanent access
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is considered	a permanent access
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is considered	a permanent access
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is used	in patients with kidney failure
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is used	in patients with kidney failure
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is used	in patients with kidney failure
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	vascular mapping
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	vascular mapping
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	vascular mapping
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	in the arm
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	in the arm
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	in the arm
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	sufficient blood vessel diameter
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	sufficient blood vessel diameter
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	sufficient blood vessel diameter
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	healthy blood vessels
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	healthy blood vessels
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	healthy blood vessels
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	may cause	scarring
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	may cause	scarring
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	may cause	scarring
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	follow-up care
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	follow-up care
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	follow-up care
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	should be done	by an experienced surgeon
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	should be done	by an experienced surgeon
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	should be done	by an experienced surgeon
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	preoperative evaluation
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	preoperative evaluation
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	preoperative evaluation
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	blood clotting
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	blood clotting
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	has a risk of	blood clotting
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	postoperative monitoring
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	postoperative monitoring
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	postoperative monitoring
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is needed	for long-term dialysis
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is needed	for long-term dialysis
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is needed	for long-term dialysis
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is an	outpatient procedure
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is an	outpatient procedure
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is an	outpatient procedure
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	creates	a connection between an artery and a vein
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	modifies	a connection between an artery and a vein
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	removes	a connection between an artery and a vein
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be done	using a graft
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be done	using a graft
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can be done	using a graft
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	proper wound care
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	proper wound care
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	requires	proper wound care
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can fail	due to clotting
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can fail	due to clotting
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	can fail	due to clotting
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a	common procedure
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a	common procedure
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is a	common procedure
+creation of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	to improve hemodialysis
+revision of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	to modify hemodialysis
+removal of arteriovenous fistula or vessel-to-vessel cannula for dialysis	is done	to remove vascular access
